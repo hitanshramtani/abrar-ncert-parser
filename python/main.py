@@ -7,7 +7,7 @@ from time import perf_counter
 
 from dotenv import load_dotenv
 
-from database.db import insert_questions
+# from database.db import insert_questions
 from parser.extractor import extract_text_from_pdf, extract_text_per_page
 from parser.image_extractor import extract_images_per_page
 from parser.llm_parser import parse_pages_with_llm
@@ -228,12 +228,12 @@ def main():
             with open(output_path, 'w', encoding='utf-8') as f:
                 json.dump(questions, f, indent=2, ensure_ascii=False)
 
-        with _timed_step('Insert parsed questions into database'):
-            try:
-                db_result = insert_questions(questions)
-                logger.info('Database insert result: %s', db_result)
-            except Exception:
-                logger.exception('Database insert failed; continuing without failing process')
+        # with _timed_step('Insert parsed questions into database'):
+        #     try:
+        #         db_result = insert_questions(questions)
+        #         logger.info('Database insert result: %s', db_result)
+        #     except Exception:
+        #         logger.exception('Database insert failed; continuing without failing process')
 
         with _timed_step('Extract low-confidence question IDs'):
             flagged = _extract_flagged_question_ids(questions)
