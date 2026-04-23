@@ -192,6 +192,17 @@ Examples: ["Newton's Second Law", "Force", "Acceleration"]
 
 9. Never classify a question as "mcq" if it has lettered parts (a)(b)(c) — those are sub-parts. MCQ means multiple choice with one correct answer.
 
+10. The input payload contains an `indexing_hint.question_index_start` field.
+    Start your question_id numbering from that value. 
+    Never restart from Q<chapter>.1 mid-document.
+    
+11. LATEX IN JSON STRINGS — CRITICAL:
+    All LaTeX backslashes MUST be double-escaped in JSON output.
+    WRONG: "expression": "\frac{a}{b}"
+    RIGHT: "expression": "\\frac{a}{b}"
+    This applies to ALL fields containing LaTeX: expression, answer_latex, 
+    question_latex, answer_text, part_text, final_answer, description.
+    Single backslashes inside JSON strings are invalid and will break parsing.
 ---
 
 ## INPUT FORMAT YOU WILL RECEIVE
@@ -271,6 +282,29 @@ Examples: ["Newton's Second Law", "Force", "Acceleration"]
   }
 ]"""
 
+SYSTEM_PROMPT += """
+
+---
+
+## MULTI-IMAGE RULES (IMPORTANT)
+
+- A question or answer can contain multiple images.
+- Prefer returning `question_images` and `answer_images` arrays at top-level.
+- For each part in `parts`, also prefer `question_images` and `answer_images` arrays.
+- Keep legacy `question_image` / `answer_image` only if needed; arrays are preferred.
+- For each image object include:
+  - `present`
+  - `description`
+  - `cloudinary_url`
+  - `latex_extracted`
+  - `source_page_number` (from input page/image metadata when available)
+  - `source_image_index` (from input image_index when available)
+  - `ownership` (`question` or `answer`)
+- Use input image hints (`role_hint`, `role_hint_reason`, `context_above`, `context_below`)
+  to assign ownership. Do not place answer-only diagrams under `question_images`.
+- If ownership is uncertain, keep confidence lower and mention uncertainty in `confidence_issues`.
+"""
+
 _OPENAI_CLIENT = None
 _OPENAI_INIT_ATTEMPTED = False
 _DEBUG_PATH_ENV = 'LLM_PARSER_DEBUG_PATH'
@@ -300,6 +334,22 @@ def _get_openai_client():
     return _OPENAI_CLIENT
 
 
+# def _extract_json_array(raw_text: str) -> str:
+#     """
+#     Extract a JSON array slice from model output text.
+#     """
+#     text = (raw_text or '').strip()
+#     if not text:
+#         return text
+
+#     if text.startswith('```'):
+#         text = text.strip('`').strip()
+
+#     first_bracket = text.find('[')
+#     last_bracket = text.rfind(']')
+#     if first_bracket == -1 or last_bracket == -1 or last_bracket < first_bracket:
+#         return text
+#     return text[first_bracket:last_bracket + 1]
 def _extract_json_array(raw_text: str) -> str:
     """
     Extract a JSON array slice from model output text.
@@ -308,8 +358,15 @@ def _extract_json_array(raw_text: str) -> str:
     if not text:
         return text
 
+    # Properly strip markdown code fences
     if text.startswith('```'):
-        text = text.strip('`').strip()
+        lines = text.splitlines()
+        # Remove first line (```json or ```) 
+        lines = lines[1:]
+        # Remove last line if it's just ```
+        if lines and lines[-1].strip() == '```':
+            lines = lines[:-1]
+        text = '\n'.join(lines).strip()
 
     first_bracket = text.find('[')
     last_bracket = text.rfind(']')
@@ -390,6 +447,281 @@ def _safe_int(value, default: int = 0) -> int:
         return default
 
 
+_ANSWER_OWNER_PATTERN = re.compile(
+    r'\b(answer|ans\.?|solution|soln|hence|therefore|final answer)\b',
+    flags=re.IGNORECASE,
+)
+_QUESTION_OWNER_PATTERN = re.compile(
+    r'\b(question|ques\.?|exercise|given|problem statement)\b',
+    flags=re.IGNORECASE,
+)
+
+
+def _normalize_owner_value(value: Optional[str]) -> str:
+    """
+    Normalize image ownership aliases to question/answer/unknown.
+    """
+    if value is None:
+        return 'unknown'
+
+    normalized = str(value).strip().lower()
+    if not normalized:
+        return 'unknown'
+
+    if normalized in {'question', 'q', 'prompt', 'problem'}:
+        return 'question'
+    if normalized in {'answer', 'ans', 'a', 'solution', 'soln'}:
+        return 'answer'
+    return 'unknown'
+
+
+def _infer_owner_from_text(text: Optional[str]) -> str:
+    """
+    Infer ownership from descriptive text when explicit ownership is missing.
+    """
+    if not text:
+        return 'unknown'
+    answer_hits = len(_ANSWER_OWNER_PATTERN.findall(text))
+    question_hits = len(_QUESTION_OWNER_PATTERN.findall(text))
+    if answer_hits > question_hits:
+        return 'answer'
+    if question_hits > answer_hits:
+        return 'question'
+    return 'unknown'
+
+
+def _normalize_image_object(image_obj: dict, fallback_owner: str) -> Optional[dict]:
+    """
+    Normalize one image object while preserving ownership/source metadata.
+    """
+    if not isinstance(image_obj, dict):
+        return None
+
+    description = image_obj.get('description')
+    cloudinary_url = image_obj.get('cloudinary_url') or image_obj.get('image_url')
+    latex_extracted = image_obj.get('latex_extracted') or image_obj.get('pix2tex_latex')
+
+    source_page_number = _safe_int(
+        image_obj.get('source_page_number', image_obj.get('page_number')),
+        0,
+    )
+    if source_page_number <= 0:
+        source_page_number = None
+
+    source_image_index = _safe_int(
+        image_obj.get('source_image_index', image_obj.get('image_index')),
+        -1,
+    )
+    if source_image_index < 0:
+        source_image_index = None
+
+    explicit_owner_fields = [
+        image_obj.get('ownership'),
+        image_obj.get('belongs_to'),
+        image_obj.get('image_role'),
+        image_obj.get('role_hint'),
+        image_obj.get('source_type'),
+    ]
+    ownership = 'unknown'
+    for candidate in explicit_owner_fields:
+        parsed = _normalize_owner_value(candidate)
+        if parsed != 'unknown':
+            ownership = parsed
+            break
+
+    if ownership == 'unknown':
+        ownership = _infer_owner_from_text(str(description or ''))
+    if ownership == 'unknown':
+        ownership = _normalize_owner_value(fallback_owner)
+
+    present_raw = image_obj.get('present')
+    has_content = bool(cloudinary_url or description or latex_extracted)
+    present = bool(present_raw) if present_raw is not None else has_content
+
+    if not present and not has_content:
+        return None
+
+    normalized_image = {
+        'present': present,
+        'description': description,
+        'cloudinary_url': cloudinary_url,
+        'latex_extracted': latex_extracted,
+        'source_page_number': source_page_number,
+        'source_image_index': source_image_index,
+        'ownership': ownership,
+    }
+    role_hint_reason = image_obj.get('role_hint_reason')
+    if role_hint_reason:
+        normalized_image['ownership_reason'] = role_hint_reason
+    return normalized_image
+
+
+def _dedupe_images(images: list[dict]) -> list[dict]:
+    """
+    Remove duplicate images while preserving insertion order.
+    """
+    deduped: list[dict] = []
+    seen: set[tuple] = set()
+    for image in images:
+        if not isinstance(image, dict):
+            continue
+        key = (
+            image.get('cloudinary_url') or '',
+            image.get('source_page_number'),
+            image.get('source_image_index'),
+            image.get('description') or '',
+        )
+        if key in seen:
+            continue
+        seen.add(key)
+        deduped.append(image)
+    return deduped
+
+
+def _empty_image_placeholder() -> dict:
+    """
+    Backward-compatible empty image object.
+    """
+    return {
+        'present': False,
+        'description': None,
+        'cloudinary_url': None,
+        'latex_extracted': None,
+        'source_page_number': None,
+        'source_image_index': None,
+        'ownership': 'unknown',
+    }
+
+
+def _collect_images(candidate, fallback_owner: str) -> list[dict]:
+    """
+    Normalize either a single image object or a list of image objects.
+    """
+    collected: list[dict] = []
+    if isinstance(candidate, list):
+        for item in candidate:
+            normalized = _normalize_image_object(item, fallback_owner)
+            if normalized:
+                collected.append(normalized)
+        return collected
+
+    normalized = _normalize_image_object(candidate, fallback_owner)
+    if normalized:
+        collected.append(normalized)
+    return collected
+
+
+def _normalize_image_collections(container: dict) -> tuple[list[dict], list[dict]]:
+    """
+    Normalize image fields for a question/part and return question/answer buckets.
+    """
+    raw_images: list[dict] = []
+    raw_images.extend(_collect_images(container.get('question_images'), 'question'))
+    raw_images.extend(_collect_images(container.get('answer_images'), 'answer'))
+    raw_images.extend(_collect_images(container.get('question_image'), 'question'))
+    raw_images.extend(_collect_images(container.get('answer_image'), 'answer'))
+    raw_images.extend(_collect_images(container.get('images'), 'unknown'))
+
+    question_images: list[dict] = []
+    answer_images: list[dict] = []
+
+    for image in raw_images:
+        owner = _normalize_owner_value(image.get('ownership'))
+        if owner == 'answer':
+            answer_images.append(image)
+        else:
+            # Default ambiguous ownership to question bucket for determinism.
+            question_images.append(image)
+
+    return _dedupe_images(question_images), _dedupe_images(answer_images)
+
+
+def _resolve_image_hint_owner(image: dict, image_hints: Optional[dict]) -> str:
+    """
+    Resolve ownership from extracted-image hints using url or source tuple.
+    """
+    if not image_hints:
+        return 'unknown'
+
+    by_url = image_hints.get('by_url') or {}
+    by_source = image_hints.get('by_source') or {}
+
+    cloudinary_url = image.get('cloudinary_url')
+    if cloudinary_url and cloudinary_url in by_url:
+        return _normalize_owner_value(by_url.get(cloudinary_url))
+
+    source_key = (
+        image.get('source_page_number'),
+        image.get('source_image_index'),
+    )
+    if source_key in by_source:
+        return _normalize_owner_value(by_source.get(source_key))
+    return 'unknown'
+
+
+def _apply_image_hints(
+    question_images: list[dict],
+    answer_images: list[dict],
+    image_hints: Optional[dict],
+) -> tuple[list[dict], list[dict]]:
+    """
+    Re-bucket images based on deterministic extraction hints.
+    """
+    if not image_hints:
+        return question_images, answer_images
+
+    rebucket_question: list[dict] = []
+    rebucket_answer: list[dict] = []
+    for image in (question_images + answer_images):
+        hinted_owner = _resolve_image_hint_owner(image, image_hints)
+        if hinted_owner in {'question', 'answer'}:
+            image['ownership'] = hinted_owner
+
+        if _normalize_owner_value(image.get('ownership')) == 'answer':
+            rebucket_answer.append(image)
+        else:
+            rebucket_question.append(image)
+
+    return _dedupe_images(rebucket_question), _dedupe_images(rebucket_answer)
+
+
+def _first_image_or_empty(images: list[dict]) -> dict:
+    """
+    Return first image or an empty placeholder for backward compatibility.
+    """
+    if images:
+        return images[0]
+    return _empty_image_placeholder()
+
+
+def _normalize_parts(parts_raw, image_hints: Optional[dict] = None) -> list[dict]:
+    """
+    Normalize part objects and support multi-image fields per part.
+    """
+    if not isinstance(parts_raw, list):
+        return []
+
+    parts: list[dict] = []
+    for part in parts_raw:
+        if not isinstance(part, dict):
+            continue
+        normalized_part = dict(part)
+        normalized_part['steps'] = normalized_part.get('steps') or []
+
+        part_question_images, part_answer_images = _normalize_image_collections(normalized_part)
+        part_question_images, part_answer_images = _apply_image_hints(
+            part_question_images,
+            part_answer_images,
+            image_hints,
+        )
+        normalized_part['question_images'] = part_question_images
+        normalized_part['answer_images'] = part_answer_images
+        normalized_part['question_image'] = _first_image_or_empty(part_question_images)
+        normalized_part['answer_image'] = _first_image_or_empty(part_answer_images)
+        parts.append(normalized_part)
+    return parts
+
+
 def _is_mcq_text(text: str) -> bool:
     """
     Heuristically detect MCQ-like option patterns in question text.
@@ -457,7 +789,12 @@ def _extract_correct_option(answer_text: Optional[str]) -> Optional[str]:
     return None
 
 
-def _normalize_question(question: dict, metadata: dict, fallback_index: int) -> dict:
+def _normalize_question(
+    question: dict,
+    metadata: dict,
+    fallback_index: int,
+    image_hints: Optional[dict] = None,
+) -> dict:
     """
     Normalize a question object to expected keys and defaults.
     """
@@ -474,13 +811,24 @@ def _normalize_question(question: dict, metadata: dict, fallback_index: int) -> 
         normalized.get('chapter_number', metadata.get('chapter_number', 0)) or 0
     )
     normalized['chapter_name'] = normalized.get('chapter_name') or metadata.get('chapter_name')
-    normalized['parts'] = normalized.get('parts') or []
     normalized['steps'] = normalized.get('steps') or []
     normalized['topics_tags'] = normalized.get('topics_tags') or []
     normalized['confidence_issues'] = normalized.get('confidence_issues') or []
     normalized['confidence_score'] = confidence_score
     normalized['mcq_options'] = normalized.get('mcq_options') or []
     normalized['correct_option'] = normalized.get('correct_option')
+
+    question_images, answer_images = _normalize_image_collections(normalized)
+    question_images, answer_images = _apply_image_hints(
+        question_images,
+        answer_images,
+        image_hints,
+    )
+    normalized['question_images'] = question_images
+    normalized['answer_images'] = answer_images
+    normalized['question_image'] = _first_image_or_empty(question_images)
+    normalized['answer_image'] = _first_image_or_empty(answer_images)
+    normalized['parts'] = _normalize_parts(normalized.get('parts'), image_hints=image_hints)
 
     question_text = str(normalized.get('question_text') or '')
     question_type = str(normalized.get('question_type') or '').strip().lower()
@@ -551,7 +899,8 @@ def _call_llm_batch(payload: dict, max_attempts: int = 3) -> tuple[Optional[str]
     return None, failure_notes
 
 
-def _build_batch_payload(batch_pages: list[dict], metadata: dict) -> dict:
+# def _build_batch_payload(batch_pages: list[dict], metadata: dict) -> dict:
+def _build_batch_payload(batch_pages: list[dict], metadata: dict, question_start_index=1) -> dict:
     """
     Build LLM payload for a page batch.
     """
@@ -573,11 +922,18 @@ def _build_batch_payload(batch_pages: list[dict], metadata: dict) -> dict:
             payload_images.append(
                 {
                     'image_index': image.get('image_index'),
+                    'source_image_index': image.get('image_index'),
+                    'source_page_number': image.get('page_number') or page.get('page_number'),
                     'position': image.get('position'),
                     'cloudinary_url': image.get('cloudinary_url'),
                     'pix2tex_latex': latex,
                     'ocr_text': image.get('ocr_text'),
                     'is_mathematical': bool(image.get('is_mathematical')),
+                    'context_above': image.get('context_above'),
+                    'context_below': image.get('context_below'),
+                    'role_hint': image.get('role_hint'),
+                    'role_hint_reason': image.get('role_hint_reason'),
+                    'bbox': image.get('bbox'),
                 }
             )
 
@@ -590,19 +946,186 @@ def _build_batch_payload(batch_pages: list[dict], metadata: dict) -> dict:
             }
         )
 
-    return {'metadata': metadata, 'pages': payload_pages}
+    # return {'metadata': metadata, 'pages': payload_pages}
+    return {
+        'metadata': metadata,
+        'pages': payload_pages,
+        'indexing_hint': {
+            'question_index_start': question_start_index,
+            'instruction': (
+                'Start question_id numbering from this index. '
+                'Do not restart numbering from 1 mid-document.'
+            ),
+        },
+    }
 
+def _is_hex_digit(value: str) -> bool:
+    """
+    Return True if char is a hexadecimal digit.
+    """
+    return value.lower() in '0123456789abcdef'
+
+
+def _has_valid_unicode_escape(text: str, slash_index: int) -> bool:
+    """
+    Check whether a backslash-u escape at index is valid JSON unicode escape.
+    """
+    if slash_index + 5 >= len(text):
+        return False
+    if text[slash_index + 1] != 'u':
+        return False
+    code = text[slash_index + 2:slash_index + 6]
+    return len(code) == 4 and all(_is_hex_digit(ch) for ch in code)
+
+
+def _sanitize_latex_escapes(raw_text: str) -> str:
+    """
+    Repair invalid backslashes inside JSON string literals.
+
+    This is conservative and state-aware:
+    - preserves already valid escaped sequences
+    - doubles invalid single backslashes (common from LaTeX like \frac, \epsilon)
+    - avoids corrupting sequences such as `\\,` and `\\text`
+    """
+    result: list[str] = []
+    in_string = False
+    escaped = False
+    i = 0
+    length = len(raw_text)
+
+    while i < length:
+        char = raw_text[i]
+
+        if not in_string:
+            result.append(char)
+            if char == '"':
+                in_string = True
+                escaped = False
+            i += 1
+            continue
+
+        if escaped:
+            result.append(char)
+            escaped = False
+            i += 1
+            continue
+
+        if char == '"':
+            result.append(char)
+            in_string = False
+            i += 1
+            continue
+
+        if char != '\\':
+            result.append(char)
+            i += 1
+            continue
+
+        next_char = raw_text[i + 1] if (i + 1) < length else ''
+        if next_char in {'"', '\\', '/'}:
+            # Keep valid JSON escapes that are common in model output.
+            result.append(char)
+            escaped = True
+            i += 1
+            continue
+
+        if next_char == 'u' and _has_valid_unicode_escape(raw_text, i):
+            result.append(char)
+            escaped = True
+            i += 1
+            continue
+
+        # Invalid escape inside JSON string, likely LaTeX command.
+        result.append('\\\\')
+        i += 1
+
+    return ''.join(result)
+
+
+def _extract_top_level_json_objects(array_text: str) -> list[str]:
+    """
+    Extract top-level JSON object strings from an array-like text.
+    """
+    objects: list[str] = []
+    in_string = False
+    escaped = False
+    depth = 0
+    object_start: Optional[int] = None
+
+    for index, char in enumerate(array_text):
+        if in_string:
+            if escaped:
+                escaped = False
+                continue
+            if char == '\\':
+                escaped = True
+                continue
+            if char == '"':
+                in_string = False
+            continue
+
+        if char == '"':
+            in_string = True
+            continue
+        if char == '{':
+            if depth == 0:
+                object_start = index
+            depth += 1
+            continue
+        if char == '}':
+            if depth <= 0:
+                continue
+            depth -= 1
+            if depth == 0 and object_start is not None:
+                objects.append(array_text[object_start:index + 1])
+                object_start = None
+
+    return objects
 
 def _parse_batch_response(raw_response: str) -> Optional[list[dict]]:
     """
     Parse and validate one batch response.
     """
     json_text = _extract_json_array(raw_response)
-    parsed = json.loads(json_text)
-    if not isinstance(parsed, list):
-        logger.error('LLM response was not a JSON array')
-        return None
-    return [item for item in parsed if isinstance(item, dict)]
+    sanitized = _sanitize_latex_escapes(json_text)
+
+    parse_errors: list[str] = []
+    for candidate_name, candidate in [('raw', json_text), ('sanitized', sanitized)]:
+        try:
+            parsed = json.loads(candidate)
+            if not isinstance(parsed, list):
+                logger.error('LLM response was not a JSON array')
+                return None
+            return [item for item in parsed if isinstance(item, dict)]
+        except json.JSONDecodeError as exc:
+            parse_errors.append(f'{candidate_name}: {exc}')
+            if candidate_name == 'raw':
+                logger.warning(
+                    'Primary JSON parse failed (%s), trying fallback sanitization',
+                    exc,
+                )
+
+    # Last resort: salvage top-level objects so one malformed entry does not drop whole batch.
+    salvaged: list[dict] = []
+    for object_text in _extract_top_level_json_objects(sanitized):
+        try:
+            item = json.loads(object_text)
+        except json.JSONDecodeError:
+            try:
+                item = json.loads(_sanitize_latex_escapes(object_text))
+            except json.JSONDecodeError:
+                continue
+        if isinstance(item, dict):
+            salvaged.append(item)
+
+    if salvaged:
+        logger.warning(
+            'Recovered %s question objects from malformed batch JSON.',
+            len(salvaged),
+        )
+        return salvaged
+
+    raise json.JSONDecodeError('; '.join(parse_errors), sanitized, 0)
 
 
 def _deduplicate_questions(questions: list[dict]) -> list[dict]:
@@ -629,6 +1152,90 @@ def _deduplicate_questions(questions: list[dict]) -> list[dict]:
     return list(best_by_id.values())
 
 
+def _build_image_hints_map(pages_data: list[dict]) -> dict:
+    """
+    Build deterministic image ownership hints from extracted page-image metadata.
+    """
+    by_url: dict[str, str] = {}
+    by_source: dict[tuple[int, int], str] = {}
+
+    for page in pages_data or []:
+        if not isinstance(page, dict):
+            continue
+        page_number = _safe_int(page.get('page_number'), 0)
+        for image in page.get('images') or []:
+            if not isinstance(image, dict):
+                continue
+            owner = _normalize_owner_value(image.get('role_hint'))
+            if owner == 'unknown':
+                continue
+
+            cloudinary_url = image.get('cloudinary_url')
+            if cloudinary_url and cloudinary_url not in by_url:
+                by_url[str(cloudinary_url)] = owner
+
+            source_index = _safe_int(image.get('image_index'), -1)
+            if page_number > 0 and source_index >= 0:
+                source_key = (page_number, source_index)
+                if source_key not in by_source:
+                    by_source[source_key] = owner
+
+    return {'by_url': by_url, 'by_source': by_source}
+
+
+_QUESTION_MARKER_PATTERN = re.compile(
+    r'\bquestion\s+\d+\.\d+\s*:?',
+    flags=re.IGNORECASE,
+)
+
+
+def _estimate_question_markers(batch_pages: list[dict]) -> int:
+    """
+    Estimate how many questions should exist in a batch from OCR/text markers.
+    """
+    total = 0
+    for page in batch_pages:
+        if not isinstance(page, dict):
+            continue
+        text = str(page.get('text') or '')
+        total += len(_QUESTION_MARKER_PATTERN.findall(text))
+    return total
+
+
+def _recover_batch_by_single_page_calls(
+    batch_pages: list[dict],
+    metadata: dict,
+    question_start_index: int,
+) -> list[dict]:
+    """
+    Retry a failed/underperforming batch by parsing one page at a time.
+    """
+    recovered: list[dict] = []
+    next_question_index = question_start_index
+
+    for page in batch_pages:
+        if not isinstance(page, dict):
+            continue
+        single_payload = _build_batch_payload(
+            [page],
+            metadata,
+            question_start_index=next_question_index,
+        )
+        raw_response, _ = _call_llm_batch(single_payload, max_attempts=2)
+        if raw_response is None:
+            continue
+        try:
+            page_questions = _parse_batch_response(raw_response)
+        except json.JSONDecodeError:
+            continue
+        if not page_questions:
+            continue
+        recovered.extend(page_questions)
+        next_question_index += len(page_questions)
+
+    return recovered
+
+
 def parse_pages_with_llm(
     pages_data: list[dict],
     metadata: dict,
@@ -648,11 +1255,13 @@ def parse_pages_with_llm(
         max_batch_size = 3
     all_questions: list[dict] = []
     fallback_index = 1
+    image_hints = _build_image_hints_map(pages_data)
 
     for start_index in range(0, len(pages_data), max_batch_size):
         try:
             batch_pages = pages_data[start_index:start_index + max_batch_size]
-            payload = _build_batch_payload(batch_pages, metadata)
+            expected_markers = _estimate_question_markers(batch_pages)
+            payload = _build_batch_payload(batch_pages, metadata, question_start_index=fallback_index,)
 
             raw_response, failure_notes = _call_llm_batch(payload, max_attempts=3)
             if raw_response is None:
@@ -676,18 +1285,35 @@ def parse_pages_with_llm(
             try:
                 batch_questions = _parse_batch_response(raw_response)
             except json.JSONDecodeError:
-                logger.error(
-                    'Skipping batch due to JSON parse failure. Raw response: %s',
-                    raw_response,
-                )
-                _record_batch_diagnostic(
-                    reason='json_parse_failure',
+                recovered = _recover_batch_by_single_page_calls(
                     batch_pages=batch_pages,
-                    payload=payload,
-                    raw_response=raw_response,
-                    errors=['JSONDecodeError while parsing model output'],
+                    metadata=metadata,
+                    question_start_index=fallback_index,
                 )
-                continue
+                if recovered:
+                    logger.warning(
+                        'Recovered %s questions via single-page fallback for pages %s.',
+                        len(recovered),
+                        [
+                            page.get('page_number')
+                            for page in batch_pages
+                            if isinstance(page, dict)
+                        ],
+                    )
+                    batch_questions = recovered
+                else:
+                    logger.error(
+                        'Skipping batch due to JSON parse failure. Raw response: %s',
+                        raw_response,
+                    )
+                    _record_batch_diagnostic(
+                        reason='json_parse_failure',
+                        batch_pages=batch_pages,
+                        payload=payload,
+                        raw_response=raw_response,
+                        errors=['JSONDecodeError while parsing model output'],
+                    )
+                    continue
             except Exception as exc:
                 logger.exception('Unexpected response parsing error. Skipping batch.')
                 _record_batch_diagnostic(
@@ -709,8 +1335,34 @@ def parse_pages_with_llm(
                 )
                 continue
 
+            if expected_markers > 0 and len(batch_questions) + 1 < expected_markers:
+                recovered = _recover_batch_by_single_page_calls(
+                    batch_pages=batch_pages,
+                    metadata=metadata,
+                    question_start_index=fallback_index,
+                )
+                if len(recovered) > len(batch_questions):
+                    logger.warning(
+                        'Batch under-extracted questions (%s vs markers=%s). '
+                        'Using single-page recovery result (%s) for pages %s.',
+                        len(batch_questions),
+                        expected_markers,
+                        len(recovered),
+                        [
+                            page.get('page_number')
+                            for page in batch_pages
+                            if isinstance(page, dict)
+                        ],
+                    )
+                    batch_questions = recovered
+
             for question in batch_questions:
-                normalized = _normalize_question(question, metadata, fallback_index)
+                normalized = _normalize_question(
+                    question,
+                    metadata,
+                    fallback_index,
+                    image_hints=image_hints,
+                )
                 all_questions.append(normalized)
                 fallback_index += 1
         except Exception as exc:

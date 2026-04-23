@@ -15,6 +15,14 @@ logger = logging.getLogger(__name__)
 
 _VISION_CLIENT = None
 _VISION_INIT_ATTEMPTED = False
+_ANSWER_HINT_PATTERN = re.compile(
+    r'\b(answer|ans\.?|solution|soln|explain|explanation|proof|hence|therefore)\b',
+    flags=re.IGNORECASE,
+)
+_QUESTION_HINT_PATTERN = re.compile(
+    r'\b(question|ques\.?|exercise|find|calculate|show|prove|what|why|how)\b',
+    flags=re.IGNORECASE,
+)
 
 
 def _get_vision_client():
@@ -99,6 +107,126 @@ def _sanitize_for_public_id(value: str) -> str:
     return cleaned or 'unknown'
 
 
+def _normalize_inline_text(text: Optional[str], max_len: int = 240) -> Optional[str]:
+    """
+    Normalize text to one line and trim for compact context payloads.
+    """
+    if not text:
+        return None
+    normalized = re.sub(r'\s+', ' ', text).strip()
+    if not normalized:
+        return None
+    return normalized[:max_len]
+
+
+def _collect_text_blocks(blocks: list[dict]) -> list[dict]:
+    """
+    Build lightweight text blocks with bbox for proximity checks near images.
+    """
+    text_blocks: list[dict] = []
+    for block in blocks:
+        if block.get('type') != 0:
+            continue
+        bbox = block.get('bbox') or (0.0, 0.0, 0.0, 0.0)
+        if len(bbox) != 4:
+            continue
+
+        spans: list[str] = []
+        for line in block.get('lines', []):
+            for span in line.get('spans', []):
+                text = _normalize_inline_text(span.get('text'), max_len=120)
+                if text:
+                    spans.append(text)
+
+        merged = _normalize_inline_text(' '.join(spans), max_len=400)
+        if not merged:
+            continue
+
+        text_blocks.append(
+            {
+                'bbox': tuple(float(v) for v in bbox),
+                'text': merged,
+            }
+        )
+    return text_blocks
+
+
+def _nearest_context_text(
+    text_blocks: list[dict],
+    image_bbox: tuple[float, float, float, float],
+) -> tuple[Optional[str], Optional[str]]:
+    """
+    Fetch nearest text above and below an image to help role attribution.
+    """
+    img_y0 = float(image_bbox[1])
+    img_y1 = float(image_bbox[3])
+    above_candidates: list[tuple[float, str]] = []
+    below_candidates: list[tuple[float, str]] = []
+
+    for item in text_blocks:
+        bbox = item.get('bbox') or (0.0, 0.0, 0.0, 0.0)
+        text = item.get('text')
+        if not text or len(bbox) != 4:
+            continue
+        txt_y0 = float(bbox[1])
+        txt_y1 = float(bbox[3])
+
+        if txt_y1 <= img_y0:
+            above_candidates.append((img_y0 - txt_y1, text))
+        elif txt_y0 >= img_y1:
+            below_candidates.append((txt_y0 - img_y1, text))
+
+    above_candidates.sort(key=lambda x: x[0])
+    below_candidates.sort(key=lambda x: x[0])
+
+    nearest_above = _normalize_inline_text(
+        ' | '.join(text for _, text in above_candidates[:2]),
+        max_len=240,
+    )
+    nearest_below = _normalize_inline_text(
+        ' | '.join(text for _, text in below_candidates[:2]),
+        max_len=240,
+    )
+    return nearest_above, nearest_below
+
+
+def _score_pattern_hits(pattern: re.Pattern[str], text: Optional[str]) -> int:
+    """
+    Count keyword-pattern matches in text.
+    """
+    if not text:
+        return 0
+    return len(pattern.findall(text))
+
+
+def _infer_role_hint(
+    context_above: Optional[str],
+    context_below: Optional[str],
+    ocr_text: Optional[str],
+) -> tuple[str, str]:
+    """
+    Infer whether an image is likely part of question or answer context.
+    """
+    combined_text = ' '.join(
+        part for part in [
+            _normalize_inline_text(context_above, max_len=160),
+            _normalize_inline_text(context_below, max_len=160),
+            _normalize_inline_text(ocr_text, max_len=240),
+        ] if part
+    )
+    if not combined_text:
+        return 'unknown', 'no_context'
+
+    answer_hits = _score_pattern_hits(_ANSWER_HINT_PATTERN, combined_text)
+    question_hits = _score_pattern_hits(_QUESTION_HINT_PATTERN, combined_text)
+
+    if answer_hits > question_hits:
+        return 'answer', 'nearby_answer_keywords'
+    if question_hits > answer_hits:
+        return 'question', 'nearby_question_keywords'
+    return 'unknown', 'mixed_or_weak_context'
+
+
 def _determine_position(page_rect: fitz.Rect, bbox: tuple[float, float, float, float]) -> str:
     """
     Determine image position relative to page center.
@@ -168,6 +296,7 @@ def extract_images_per_page(
                 page_dict = page.get_text('dict') or {}
                 blocks = page_dict.get('blocks', [])
                 image_blocks = [block for block in blocks if block.get('type') == 1]
+                text_blocks = _collect_text_blocks(blocks)
                 images: list[dict] = []
 
                 for block in image_blocks:
@@ -181,9 +310,14 @@ def extract_images_per_page(
                         bbox = block.get('bbox') or (0.0, 0.0, 0.0, 0.0)
                         if len(bbox) != 4:
                             bbox = (0.0, 0.0, 0.0, 0.0)
+                        bbox_tuple = tuple(float(value) for value in bbox)
                         position = _determine_position(page.rect, bbox)
+                        context_above, context_below = _nearest_context_text(text_blocks, bbox_tuple)
 
-                        image_area = max(0.0, (bbox[2] - bbox[0]) * (bbox[3] - bbox[1]))
+                        image_area = max(
+                            0.0,
+                            (bbox_tuple[2] - bbox_tuple[0]) * (bbox_tuple[3] - bbox_tuple[1]),
+                        )
                         page_area = max(1.0, page.rect.width * page.rect.height)
                         is_full_page = (image_area / page_area) > 0.6
 
@@ -193,16 +327,32 @@ def extract_images_per_page(
                         latex = run_pix2tex(image_bytes)
                         is_mathematical = latex is not None
                         ocr_text = None if is_mathematical else _run_google_ocr(image_bytes)
+                        role_hint, role_hint_reason = _infer_role_hint(
+                            context_above,
+                            context_below,
+                            ocr_text,
+                        )
                         cloudinary_url = upload_image(image_bytes, public_id)
 
                         images.append(
                             {
                                 'image_index': image_index,
+                                'page_number': page_number,
                                 'position': position,
                                 'cloudinary_url': cloudinary_url,
                                 'pix2tex_latex': latex,
                                 'ocr_text': ocr_text,
                                 'is_mathematical': is_mathematical,
+                                'context_above': context_above,
+                                'context_below': context_below,
+                                'role_hint': role_hint,
+                                'role_hint_reason': role_hint_reason,
+                                'bbox': [
+                                    bbox_tuple[0],
+                                    bbox_tuple[1],
+                                    bbox_tuple[2],
+                                    bbox_tuple[3],
+                                ],
                                 'width': int(width),
                                 'height': int(height),
                                 'is_full_page': is_full_page,
