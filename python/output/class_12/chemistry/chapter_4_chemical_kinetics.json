@@ -1,0 +1,1908 @@
+[
+  {
+    "question_id": "Q4.1",
+    "class": 12,
+    "subject": "chemistry",
+    "chapter_number": 4,
+    "chapter_name": "chemical kinetics",
+    "question_type": "numerical",
+    "question_text": "For the reaction R → P, the concentration of a reactant changes from 0.03 M to 0.02 M in 25 minutes. Calculate the average rate of reaction using units of time both in minutes and seconds.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Average rate of reaction = 6.67 × 10 - 6 M s - 1",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the change in concentration over time.",
+        "expression": "\\frac{0.02 - 0.03}{25 \\text{ min}}"
+      },
+      {
+        "step_number": 2,
+        "description": "Convert the time from minutes to seconds.",
+        "expression": "25 \\text{ min} = 1500 \\text{ s}"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the average rate in M/s.",
+        "expression": "6.67 \\times 10^{-6} \\text{ M/s}"
+      }
+    ],
+    "final_answer": "Therefore, the average rate of reaction is 6.67 × 10 - 6 M s - 1.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of average rate of reaction.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777731030/ncert/chemistry/4/img_1_0.png",
+      "latex_extracted": "\\frac{\\vert\\stackrel{\\ [\\mathrm{R}]}-\\vert\\rbrack_{2}\\vert}{\\vert\\frac{\\vert\\Omega\\vert}{\\vert\\rightarrow\\vert\\Omega\\vert\\Upsilon\\vert}}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of average rate calculation and unit conversion.",
+    "topics_tags": [
+      "Average Rate",
+      "Chemical Kinetics",
+      "Concentration Change"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of average rate of reaction.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777731030/ncert/chemistry/4/img_1_0.png",
+        "latex_extracted": "\\frac{\\vert\\stackrel{\\ [\\mathrm{R}]}-\\vert\\rbrack_{2}\\vert}{\\vert\\frac{\\vert\\Omega\\vert}{\\vert\\rightarrow\\vert\\Omega\\vert\\Upsilon\\vert}}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.2",
+    "class": 12,
+    "subject": "chemistry",
+    "chapter_number": 4,
+    "chapter_name": "chemical kinetics",
+    "question_type": "numerical",
+    "question_text": "In a reaction, 2A → Products, the concentration of A decreases from 0.5 mol L-1 to 0.4 mol L-1 in 10 minutes. Calculate the rate during this interval.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Average rate = 0.005 mol L - 1 min - 1 = 5 × 10 - 3 M min - 1",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the change in concentration of A.",
+        "expression": "0.4 - 0.5 = -0.1"
+      },
+      {
+        "step_number": 2,
+        "description": "Divide the change in concentration by the time interval.",
+        "expression": "\\frac{-0.1 \\text{ mol L}^{-1}}{10 \\text{ min}} = -0.01 \\text{ mol L}^{-1} \\text{ min}^{-1}"
+      },
+      {
+        "step_number": 3,
+        "description": "Convert to positive rate.",
+        "expression": "0.005 \\text{ mol L}^{-1} \\text{ min}^{-1}"
+      }
+    ],
+    "final_answer": "Thus, the average rate of reaction is 5 × 10 - 3 M min - 1.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic calculation of rate from concentration change.",
+    "topics_tags": [
+      "Rate of Reaction",
+      "Concentration Change",
+      "Chemical Kinetics"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.3",
+    "class": 12,
+    "subject": "chemistry",
+    "chapter_number": 4,
+    "chapter_name": "chemical kinetics",
+    "question_type": "conceptual",
+    "question_text": "For a reaction, A + B → Product; the rate law is given by, . What is the order of the reaction?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The order of the reaction = 2.5",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the order of the reaction is 2.5.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of the order of reaction.",
+    "topics_tags": [
+      "Order of Reaction",
+      "Rate Law",
+      "Chemical Kinetics"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.4",
+    "class": 12,
+    "subject": "chemistry",
+    "chapter_number": 4,
+    "chapter_name": "chemical kinetics",
+    "question_type": "conceptual",
+    "question_text": "The conversion of molecules X to Y follows second order kinetics. If concentration of X is increased to three times how will it affect the rate of formation of Y?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The reaction X → Y follows second order kinetics. Therefore, the rate equation for this reaction will be: Rate = k[X]^2. If the concentration of X is increased to three times, then the rate of formation will increase by 9 times.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the rate of formation will increase by 9 times.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of second order kinetics and its implications.",
+    "topics_tags": [
+      "Second Order Kinetics",
+      "Rate of Formation",
+      "Concentration Change"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.5",
+    "class": 12,
+    "subject": "chemistry",
+    "chapter_number": 4,
+    "chapter_name": "chemical kinetics",
+    "question_type": "mcq",
+    "question_text": "A first order reaction has a rate constant 1.15 × 10^-3 s^-1. How long will 5 g of this reactant take to reduce to 3 g?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "From the question, we can write down the following information: Initial amount = 5 g, Final concentration = 3 g, Rate constant = 1.15 × 10^-3 s^-1. For a first order reaction, the time taken is approximately 444 s.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Use the first order reaction formula to calculate time.",
+        "expression": "t = \\frac{2.303}{k} \\log \\frac{[R]_0}{[R]}"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values into the formula.",
+        "expression": "t = \\frac{2.303}{1.15 \\times 10^{-3}} \\log \\frac{5}{3}"
+      }
+    ],
+    "final_answer": "Thus, it will take approximately 444 seconds.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves application of first order kinetics formula and logarithmic calculations.",
+    "topics_tags": [
+      "First Order Reaction",
+      "Rate Constant",
+      "Time Calculation"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.6",
+    "class": 12,
+    "subject": "chemistry",
+    "chapter_number": 4,
+    "chapter_name": "chemical kinetics",
+    "question_type": "numerical",
+    "question_text": "Time required to decompose SOCl2 to half of its initial amount is 60 minutes. If the decomposition is a first order reaction, calculate the rate constant of the reaction.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "For a first order reaction, it is given that t = 60 min. The rate constant can be calculated using the half-life formula.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the rate constant can be determined from the half-life of the reaction.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of first order kinetics and half-life calculations.",
+    "topics_tags": [
+      "First Order Reaction",
+      "Rate Constant",
+      "Half-Life"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.7",
+    "class": 12,
+    "subject": "chemistry",
+    "chapter_number": 4,
+    "chapter_name": "chemical kinetics",
+    "question_type": "conceptual",
+    "question_text": "What will be the effect of temperature on rate constant?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the Arrhenius equation and its components.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777731035/ncert/chemistry/4/img_4_0.png",
+      "latex_extracted": "\\begin{array}{c}{{\\mathrm{:}\\ k={\\frac{\\scriptstyle0.03}{I_{\\mathrm{th}}}}}}\\\\ {{\\mathrm{:}\\quad\\mathrm{=0.01i5~min}^{-1}}}\\\\ {{\\mathrm{=0.0115~s~nin}^{-1}}}\\\\ {{\\mathrm{=0.0125~x10^{4}{\\cdot}{\\cdot}{\\cdot}{\\cdot}^{-1}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The rate constant of a reaction is nearly doubled with a 10° rise in temperature. However, the exact dependence of the rate of a chemical reaction on temperature is given by Arrhenius equation.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the rate constant increases with temperature.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of the Arrhenius equation and its implications.",
+    "topics_tags": [
+      "Rate Constant",
+      "Temperature Effect",
+      "Arrhenius Equation"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the Arrhenius equation and its components.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777731035/ncert/chemistry/4/img_4_0.png",
+        "latex_extracted": "\\begin{array}{c}{{\\mathrm{:}\\ k={\\frac{\\scriptstyle0.03}{I_{\\mathrm{th}}}}}}\\\\ {{\\mathrm{:}\\quad\\mathrm{=0.01i5~min}^{-1}}}\\\\ {{\\mathrm{=0.0115~s~nin}^{-1}}}\\\\ {{\\mathrm{=0.0125~x10^{4}{\\cdot}{\\cdot}{\\cdot}{\\cdot}^{-1}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.8",
+    "class": 12,
+    "subject": "chemistry",
+    "chapter_number": 4,
+    "chapter_name": "chemical kinetics",
+    "question_type": "numerical",
+    "question_text": "The rate of the chemical reaction doubles for an increase of 10 K in absolute temperature from 298 K. Calculate E.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of the relationship between rate constants and activation energy.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777731037/ncert/chemistry/4/img_5_0.png",
+      "latex_extracted": "\\log{\\frac{k_{2}}{k_{1}}}={\\frac{E_{s}}{2.303~R}}\\left[{\\frac{T_{2}-T_{1}}{T_{1}T_{2}}}\\right]",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Using the Arrhenius equation, we can calculate the activation energy E.",
+    "answer_latex": "E = 52897.78 \text{ J mol}^{-1} = 52.9 \text{ kJ mol}^{-1}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the initial and final temperatures.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the formula relating rate constants and activation energy.",
+        "expression": "\\log{\\frac{2k}{k}}={\\frac{E_{s}}{2.303\\times8.314}}{\\left[{\\frac{10}{298\\times308}}\\right]}"
+      },
+      {
+        "step_number": 3,
+        "description": "Substitute the values into the equation to solve for E.",
+        "expression": "\\Rightarrow\\log2={\\frac{E_{n}}{2.303\\times8.314}}{\\Bigg[}{\\frac{10}{298\\times308}}{\\Bigg]}"
+      }
+    ],
+    "final_answer": "Therefore, the activation energy E is 52.9 kJ mol^-1.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves applying the Arrhenius equation and performing calculations.",
+    "topics_tags": [
+      "Activation Energy",
+      "Arrhenius Equation",
+      "Temperature Dependence"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the relationship between rate constants and activation energy.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777731037/ncert/chemistry/4/img_5_0.png",
+        "latex_extracted": "\\log{\\frac{k_{2}}{k_{1}}}={\\frac{E_{s}}{2.303~R}}\\left[{\\frac{T_{2}-T_{1}}{T_{1}T_{2}}}\\right]",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.9",
+    "class": 12,
+    "subject": "chemistry",
+    "chapter_number": 4,
+    "chapter_name": "chemical kinetics",
+    "question_type": "numerical",
+    "question_text": "For the reaction: 2A + B → AB, the rate = k[A][B]² with k = 2.0 x 10⁻⁶ mol⁻²L²s⁻¹. Calculate the initial rate of the reaction when [A] = 0.1 mol L⁻¹, [B] = 0.2 mol L⁻¹. Calculate the rate of reaction after [A] is reduced to 0.06 mol L⁻¹.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The initial rate of the reaction is 8.0 × 10⁻⁹ mol L⁻²s⁻¹. After [A] is reduced to 0.06 mol L⁻¹, the rate of the reaction is calculated using the new concentrations.",
+    "answer_latex": "Rate = k [A][B]^{2} = (2.0 \\times 10^{-6} \\text{ mol}^{-2} \\text{L}^{2} \\text{s}^{-1}) (0.06 \\text{ mol L}^{-1}) (0.18 \\text{ mol L}^{-1})^{2}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the initial rate using the given concentrations.",
+        "expression": "Rate = k [A][B]^{2} = (2.0 \\times 10^{-6} \\text{ mol}^{-2} \\text{L}^{2} \\text{s}^{-1}) (0.1 \\text{ mol L}^{-1}) (0.2 \\text{ mol L}^{-1})^{2}"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values to find the initial rate.",
+        "expression": "Rate = 8.0 \\times 10^{-9} \\text{ mol L}^{-2} \\text{s}^{-1}"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the new concentration of B after A is reduced.",
+        "expression": "[B] = (0.2 - 0.02) \\text{ mol L}^{-1} = 0.18 \\text{ mol L}^{-1}"
+      },
+      {
+        "step_number": 4,
+        "description": "Calculate the new rate with the updated concentrations.",
+        "expression": "Rate = k [A][B]^{2} = (2.0 \\times 10^{-6} \\text{ mol}^{-2} \\text{L}^{2} \\text{s}^{-1}) (0.06 \\text{ mol L}^{-1}) (0.18 \\text{ mol L}^{-1})^{2}"
+      }
+    ],
+    "final_answer": "Therefore, the rate of the reaction after [A] is reduced to 0.06 mol L⁻¹ is calculated using the new concentrations.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of the dimensions of rate constants.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777731049/ncert/chemistry/4/img_7_0.png",
+      "latex_extracted": "\\begin{array}{c}{{\\frac{\\mathrm{mol}\\ \\mathbf{L}^{-1}}{\\left(\\mathrm{mol}\\ \\mathbf{L}^{-1}\\right)^{2}}}}\\\\ {{\\frac{\\mathrm{mol}\\ \\mathbf{L}^{-1}}{\\frac{3}{2}}\\ \\mathrm{~^{-1}}}}\\\\ {{\\frac{\\mathrm{mol}\\ \\mathbf{L}^{-1}\\ \\mathrm{~}\\Sigma^{-2}}{\\sin\\mathbf{0}^{\\frac{1}{2}}\\ \\mathbf{z}^{-1}}}}\\\\ {{\\mathrm{~}\\ =\\mathrm{~}\\frac{1}{2}\\ \\mathrm{~}\\mathrm{~}\\Delta^{-1}\\ \\mathbf{~}\\ \\mathbf{~}\\Delta^{-1}}}}\\end{array}",
+      "source_page_number": 7,
+      "source_image_index": 0,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps of calculation and understanding of reaction rates.",
+    "topics_tags": [
+      "Chemical Kinetics",
+      "Reaction Rate",
+      "Concentration"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the dimensions of rate constants.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777731049/ncert/chemistry/4/img_7_0.png",
+        "latex_extracted": "\\begin{array}{c}{{\\frac{\\mathrm{mol}\\ \\mathbf{L}^{-1}}{\\left(\\mathrm{mol}\\ \\mathbf{L}^{-1}\\right)^{2}}}}\\\\ {{\\frac{\\mathrm{mol}\\ \\mathbf{L}^{-1}}{\\frac{3}{2}}\\ \\mathrm{~^{-1}}}}\\\\ {{\\frac{\\mathrm{mol}\\ \\mathbf{L}^{-1}\\ \\mathrm{~}\\Sigma^{-2}}{\\sin\\mathbf{0}^{\\frac{1}{2}}\\ \\mathbf{z}^{-1}}}}\\\\ {{\\mathrm{~}\\ =\\mathrm{~}\\frac{1}{2}\\ \\mathrm{~}\\mathrm{~}\\Delta^{-1}\\ \\mathbf{~}\\ \\mathbf{~}\\Delta^{-1}}}}\\end{array}",
+        "source_page_number": 7,
+        "source_image_index": 0,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.10",
+    "class": 12,
+    "subject": "chemistry",
+    "chapter_number": 4,
+    "chapter_name": "chemical kinetics",
+    "question_type": "conceptual",
+    "question_text": "What is the effect of temperature on the rate constant of a reaction? How can this temperature effect on rate constant be represented quantitatively?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The rate constant is nearly doubled with a rise in temperature by 10° for a chemical reaction. The temperature effect on the rate constant can be represented quantitatively by Arrhenius equation.",
+    "answer_latex": "k = Ae^{-\\frac{E}{RT}}",
+    "steps": [],
+    "final_answer": "Thus, the Arrhenius equation quantitatively represents the effect of temperature on the rate constant.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of the Arrhenius equation and its implications.",
+    "topics_tags": [
+      "Rate Constant",
+      "Temperature Effect",
+      "Arrhenius Equation"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.11",
+    "class": 12,
+    "subject": "chemistry",
+    "chapter_number": 4,
+    "chapter_name": "chemical kinetics",
+    "question_type": "numerical",
+    "question_text": "Calculate the average rate of reaction between the time interval 30 to 60 seconds.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Graph showing concentration of ester over time during hydrolysis.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777731066/ncert/chemistry/4/img_11_0.png",
+      "latex_extracted": "\\begin{array}{c}{{=\\frac{0.31-0.17}{60-30}}}\\\\ {{=\\frac{6.0}{30}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Average rate of reaction between the time interval, 30 to 60 seconds, is 4.67 × 10^-3 mol L^-1 s^-1.",
+    "answer_latex": "Average \\ rate = \\frac{0.31 - 0.17}{60 - 30} = 4.67 \\times 10^{-3} \\text{ mol L}^{-1} \\text{ s}^{-1}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the change in concentration over the time interval.",
+        "expression": "\\frac{0.31 - 0.17}{60 - 30}"
+      },
+      {
+        "step_number": 2,
+        "description": "Simplify the expression to find the average rate.",
+        "expression": "4.67 \\times 10^{-3}"
+      }
+    ],
+    "final_answer": "Therefore, the average rate of reaction is 4.67 × 10^-3 mol L^-1 s^-1.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic calculation of average rate from concentration data.",
+    "topics_tags": [
+      "Average Rate",
+      "Reaction Kinetics",
+      "Concentration Change"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Graph showing concentration of ester over time during hydrolysis.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777731066/ncert/chemistry/4/img_11_0.png",
+        "latex_extracted": "\\begin{array}{c}{{=\\frac{0.31-0.17}{60-30}}}\\\\ {{=\\frac{6.0}{30}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.12",
+    "class": 12,
+    "subject": "chemistry",
+    "chapter_number": 4,
+    "chapter_name": "chemical kinetics",
+    "question_type": "numerical",
+    "question_text": "Calculate the pseudo first order rate constant for the hydrolysis of ester.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The pseudo first order rate constant can be calculated using the formula k = \\frac{2.303}{t} \\log{\\frac{[R]_0}{[R]}}.",
+    "answer_latex": "k = \\frac{2.303}{t} \\log{\\frac{[R]_0}{[R]}}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Use the formula for pseudo first order rate constant.",
+        "expression": "k = \\frac{2.303}{t} \\log{\\frac{[R]_0}{[R]}}"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values for [R]_0 and [R] at different times.",
+        "expression": "k = \\frac{2.303}{30} \\log{\\frac{0.55}{0.31}}"
+      }
+    ],
+    "final_answer": "Thus, the pseudo first order rate constant can be determined from the concentration data.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of pseudo first order rate constant calculation.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777731063/ncert/chemistry/4/img_12_1.png",
+      "latex_extracted": "\\begin{array}{l}{d[\\mathbb{R}]=k\\left[\\mathbf{A}\\right][\\mathbf{B}]^{2}}\\\\ {d t}&{=k\\left[2\\mathbf{A}\\right][2\\mathbf{B}]^{2}}\\\\ {=8\\cdot k\\left[\\mathbf{A}][\\mathbf{B}]^{2}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of pseudo first order kinetics and logarithmic calculations.",
+    "topics_tags": [
+      "Pseudo First Order",
+      "Rate Constant",
+      "Hydrolysis"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of pseudo first order rate constant calculation.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777731063/ncert/chemistry/4/img_12_1.png",
+        "latex_extracted": "\\begin{array}{l}{d[\\mathbb{R}]=k\\left[\\mathbf{A}\\right][\\mathbf{B}]^{2}}\\\\ {d t}&{=k\\left[2\\mathbf{A}\\right][2\\mathbf{B}]^{2}}\\\\ {=8\\cdot k\\left[\\mathbf{A}][\\mathbf{B}]^{2}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.13",
+    "class": 12,
+    "subject": "chemistry",
+    "chapter_number": 4,
+    "chapter_name": "chemical kinetics",
+    "question_type": "conceptual",
+    "question_text": "Determine the rate law and the rate constant for the reaction: 2A + B → C + D based on the provided experimental data.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of the reaction rate equations derived from experimental data.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777731080/ncert/chemistry/4/img_14_0.png",
+      "latex_extracted": "\\begin{array}{l l l}{6.0\\times10^{-3}=k\\left[0.1\\right]^{\\circ}\\left[0.1\\right]^{\\circ}}&{}&{{}\\qquad\\left(\\mathrm{i}\\right)}\\\\ {7.2\\times10^{-2}=k\\left[0.3\\right]^{\\circ}\\left[0.2\\right]^{\\circ}}&{}&{{}\\qquad{\\mathrm{(ii)}}}\\\\ {2.40\\times10^{-2}=k\\left[0.3\\right]^{\\circ}\\left[0.4\\right]^{\\circ}}&{}&{{}\\qquad{\\mathrm{(ii)}}}\\\\ {2.40\\times10^{-2}=k\\left[0.4\\right]^{\\circ}\\left[0.4\\right]^{\\circ}}&{}&{{}\\qquad{\\mathrm{(iiv\\right]}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The rate law is Rate = k [A] [B]^2 and the rate constant k = 6.0 L²mol⁻²min⁻¹.",
+    "answer_latex": "k = 6.0 L^{2}mol^{-2}min^{-1}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the order of the reaction with respect to A and B from the experimental data.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the rate law formula to express the rate in terms of concentrations of A and B.",
+        "expression": "Rate = k [A]^{x} [B]^{y}"
+      },
+      {
+        "step_number": 3,
+        "description": "Substitute the values from the experiments to find the rate constant k.",
+        "expression": "k = \\frac{6.0 \\times 10^{-3}}{(0.1)(0.1)^{2}}"
+      }
+    ],
+    "final_answer": "Therefore, the rate constant, k, is 6.0 L²mol⁻²min⁻¹.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of rate laws and application of experimental data to derive the rate constant.",
+    "topics_tags": [
+      "Rate Law",
+      "Chemical Kinetics",
+      "Reaction Order"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the reaction rate equations derived from experimental data.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777731080/ncert/chemistry/4/img_14_0.png",
+        "latex_extracted": "\\begin{array}{l l l}{6.0\\times10^{-3}=k\\left[0.1\\right]^{\\circ}\\left[0.1\\right]^{\\circ}}&{}&{{}\\qquad\\left(\\mathrm{i}\\right)}\\\\ {7.2\\times10^{-2}=k\\left[0.3\\right]^{\\circ}\\left[0.2\\right]^{\\circ}}&{}&{{}\\qquad{\\mathrm{(ii)}}}\\\\ {2.40\\times10^{-2}=k\\left[0.3\\right]^{\\circ}\\left[0.4\\right]^{\\circ}}&{}&{{}\\qquad{\\mathrm{(ii)}}}\\\\ {2.40\\times10^{-2}=k\\left[0.4\\right]^{\\circ}\\left[0.4\\right]^{\\circ}}&{}&{{}\\qquad{\\mathrm{(iiv\\right]}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.14",
+    "class": 12,
+    "subject": "chemistry",
+    "chapter_number": 4,
+    "chapter_name": "chemical kinetics",
+    "question_type": "numerical",
+    "question_text": "The half-life for radioactive decay of 14C is 5730 years. An archaeological artifact containing wood had only 80% of the 14C found in a living tree. Estimate the age of the sample.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The age of the sample is approximately 1845 years.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Use the half-life formula to calculate the age based on the remaining percentage of 14C.",
+        "expression": "t=\\frac{2.303}{k}\\log\\frac{100}{80}"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the known half-life value into the equation.",
+        "expression": "t=\\frac{2.303}{5730}\\log\\frac{100}{80}"
+      }
+    ],
+    "final_answer": "Therefore, the age of the sample is 1845 years.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical expression for half-life calculation.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777731090/ncert/chemistry/4/img_17_0.png",
+      "latex_extracted": "k={\\frac{0.693}{t_{12}}}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of radioactive decay and logarithmic calculations.",
+    "topics_tags": [
+      "Radioactive Decay",
+      "Half-Life",
+      "Carbon Dating"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical expression for half-life calculation.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777731090/ncert/chemistry/4/img_17_0.png",
+        "latex_extracted": "k={\\frac{0.693}{t_{12}}}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.15",
+    "class": 12,
+    "subject": "chemistry",
+    "chapter_number": 4,
+    "chapter_name": "chemical kinetics",
+    "question_type": "multipart",
+    "question_text": "The experimental data for decomposition of NO2 in gas phase at 318K are given below: (i) Plot [NO2] against t. (ii) Find the half-life period for the reaction. (iii) Draw a graph between log [NO2] and t. (iv) What is the rate law?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "Plot [NO2] against t.",
+        "part_latex": null,
+        "answer_text": null,
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "Find the half-life period for the reaction.",
+        "part_latex": null,
+        "answer_text": "The half-life is obtained as 1450 s from the graph.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, the half-life period is 1450 s.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "Draw a graph between log [NO2] and t.",
+        "part_latex": null,
+        "answer_text": null,
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iv)",
+        "part_text": "What is the rate law?",
+        "part_latex": null,
+        "answer_text": null,
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Involves multiple steps including plotting and understanding reaction kinetics.",
+    "topics_tags": [
+      "Kinetics",
+      "Rate Law",
+      "Graphing"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Graphical representation of concentration versus time for NO2 decomposition.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777731103/ncert/chemistry/4/img_18_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ],
+    "answer_image": {
+      "present": true,
+      "description": "Graphical representation of concentration versus time for NO2 decomposition.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777731103/ncert/chemistry/4/img_18_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    }
+  },
+  {
+    "question_id": "Q4.16",
+    "class": 12,
+    "subject": "chemistry",
+    "chapter_number": 4,
+    "chapter_name": "chemical kinetics",
+    "question_type": "numerical",
+    "question_text": "The rate constant for a first order reaction is 60 s-1. How much time will it take to reduce the initial concentration of the reactant to its 1/16th value?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The required time is 4.6 × 10^-2 s.",
+    "answer_latex": "t = 4.5 \\times 10^{-2} \\text{ s}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Use the first order reaction formula to find time for 1/16th concentration.",
+        "expression": "t = \\frac{2.303}{k} \\log \\frac{[R]_0}{[R]}"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values into the formula.",
+        "expression": "t = \\frac{2.303}{60} \\log \\frac{1}{\\frac{1}{16}}"
+      }
+    ],
+    "final_answer": "Therefore, the time required to reduce the concentration to its 1/16th value is 4.6 × 10^-2 s.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of the slope of a plot related to the reaction rate.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777731115/ncert/chemistry/4/img_19_0.jpg",
+      "latex_extracted": "\\begin{array}{r}{{\\left|\\begin{array}{l}{-1\\mathbf{\\mu}}\\\\ {\\bar{z}}\\end{array}\\right|}\\sum_{-\\bar{z}}^{\\prime}\\sum_{-\\bar{z}}\\sum_{-\\bar{z}}^{\\prime}\\cdot{\\frac{\\left|\\begin{array}{\\scriptstyle\\ v}{\\scriptstyle\\uparrow}}\\\\ {\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad}\\\\ {\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad}}\\\\ {\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad=\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\times\\qquad\\qquad\\times\\qquad\\qquad\\times\\qquad\\qquad=1}\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad=\\qquad\\qquad\\qquad=\\qquad\\qquad=1}\\\\ {\\qquad\\qquad\\qquad\\qquad=1}\\\\ {\\qquad\\qquad\\qquad\\qquad{\\qquad\\qquad\\qquad\\qquad",
+      "source_page_number": 19,
+      "source_image_index": 0,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of first order kinetics and logarithmic calculations.",
+    "topics_tags": [
+      "First Order Reaction",
+      "Rate Constant",
+      "Chemical Kinetics"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the slope of a plot related to the reaction rate.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777731115/ncert/chemistry/4/img_19_0.jpg",
+        "latex_extracted": "\\begin{array}{r}{{\\left|\\begin{array}{l}{-1\\mathbf{\\mu}}\\\\ {\\bar{z}}\\end{array}\\right|}\\sum_{-\\bar{z}}^{\\prime}\\sum_{-\\bar{z}}\\sum_{-\\bar{z}}^{\\prime}\\cdot{\\frac{\\left|\\begin{array}{\\scriptstyle\\ v}{\\scriptstyle\\uparrow}}\\\\ {\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad}\\\\ {\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad}}\\\\ {\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad=\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\times\\qquad\\qquad\\times\\qquad\\qquad\\times\\qquad\\qquad=1}\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad=\\qquad\\qquad\\qquad=\\qquad\\qquad=1}\\\\ {\\qquad\\qquad\\qquad\\qquad=1}\\\\ {\\qquad\\qquad\\qquad\\qquad{\\qquad\\qquad\\qquad\\qquad",
+        "source_page_number": 19,
+        "source_image_index": 0,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.17",
+    "class": 12,
+    "subject": "chemistry",
+    "chapter_number": 4,
+    "chapter_name": "chemical kinetics",
+    "question_type": "numerical",
+    "question_text": "During nuclear explosion, one of the products is 90Sr with half-life of 28.1 years. If 1 µg of 90Sr was absorbed in the bones of a newly born baby instead of calcium, how much of it will remain after 10 years and 60 years if it is not lost metabolically?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, 0.7814 µg of 90Sr will remain after 10 years.",
+    "answer_latex": "0.7814 \\mu g",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the decay constant k using the half-life.",
+        "expression": "k = \\frac{0.693}{t_{1/2}} = \\frac{0.693}{28.1}"
+      },
+      {
+        "step_number": 2,
+        "description": "Use the decay formula to find the remaining amount after 10 years.",
+        "expression": "N = N_0 e^{-kt}"
+      }
+    ],
+    "final_answer": "Therefore, 0.7814 µg of 90Sr will remain after 10 years.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of the decay of 90Sr over time.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777731119/ncert/chemistry/4/img_20_0.png",
+      "latex_extracted": "\\begin{array}{l}{{t=\\frac{2.303}{k}\\log\\frac{\\left[\\mathbf{R}\\right]_{0}}{\\left[\\mathbf{R}\\right]}}}\\\\ {{=\\frac{2.303}{60\\ 8^{-1}\\log\\frac{1}{16}}{\\left[\\cos\\frac{1}{1}\\cos\\left[6}}}\\\\ {{=4.5\\times10^{-2}\\right.\\mathbf{s}\\left(\\operatorname{approximate{N}}\\right)}}\\end{array}",
+      "source_page_number": 20,
+      "source_image_index": 0,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of radioactive decay and logarithmic calculations.",
+    "topics_tags": [
+      "Radioactive Decay",
+      "Half-Life",
+      "90Sr"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the decay of 90Sr over time.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777731119/ncert/chemistry/4/img_20_0.png",
+        "latex_extracted": "\\begin{array}{l}{{t=\\frac{2.303}{k}\\log\\frac{\\left[\\mathbf{R}\\right]_{0}}{\\left[\\mathbf{R}\\right]}}}\\\\ {{=\\frac{2.303}{60\\ 8^{-1}\\log\\frac{1}{16}}{\\left[\\cos\\frac{1}{1}\\cos\\left[6}}}\\\\ {{=4.5\\times10^{-2}\\right.\\mathbf{s}\\left(\\operatorname{approximate{N}}\\right)}}\\end{array}",
+        "source_page_number": 20,
+        "source_image_index": 0,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.18",
+    "class": 12,
+    "subject": "chemistry",
+    "chapter_number": 4,
+    "chapter_name": "chemical kinetics",
+    "question_type": "conceptual",
+    "question_text": "For a first order reaction, show that time required for 99% completion is twice the time required for the completion of 90% of reaction.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Hence, the time required for 99% completion of a first order reaction is twice the time required for the completion of 90% of the reaction.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate time for 90% completion using the first order reaction formula.",
+        "expression": "t_2 = \\frac{2.303}{k} \\log \\frac{100}{10}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate time for 99% completion using the first order reaction formula.",
+        "expression": "t_1 = \\frac{2.303}{k} \\log \\frac{100}{1}"
+      }
+    ],
+    "final_answer": "Therefore, t_1 = 2t_2.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of time calculations for first order reactions.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777731126/ncert/chemistry/4/img_21_0.png",
+      "latex_extracted": "\\scriptstyle t\\,=\\,{\\frac{2.303}{k}}\\log{\\frac{\\left[\\mathbf{R}\\right]_{0}}{\\left[\\mathbf{R}\\right]}}",
+      "source_page_number": 21,
+      "source_image_index": 0,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of first order kinetics and logarithmic relationships.",
+    "topics_tags": [
+      "First Order Reaction",
+      "Reaction Completion",
+      "Chemical Kinetics"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of time calculations for first order reactions.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777731126/ncert/chemistry/4/img_21_0.png",
+        "latex_extracted": "\\scriptstyle t\\,=\\,{\\frac{2.303}{k}}\\log{\\frac{\\left[\\mathbf{R}\\right]_{0}}{\\left[\\mathbf{R}\\right]}}",
+        "source_page_number": 21,
+        "source_image_index": 0,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.19",
+    "class": 12,
+    "subject": "chemistry",
+    "chapter_number": 4,
+    "chapter_name": "chemical kinetics",
+    "question_type": "numerical",
+    "question_text": "A first order reaction takes 40 min for 30% decomposition. Calculate t1/2.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, t1/2 of the decomposition reaction is approximately 77.7 min.",
+    "answer_latex": "t_{1/2} = 77.7 \text{ min}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Use the first order reaction half-life formula.",
+        "expression": "t_{1/2} = \\frac{0.693}{k}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate k using the given decomposition data.",
+        "expression": "k = \\frac{2.303}{40 \\ln(0.7)}"
+      }
+    ],
+    "final_answer": "Thus, the half-life of the reaction is approximately 77.7 minutes.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of the half-life formula for a first order reaction.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777731132/ncert/chemistry/4/img_22_0.png",
+      "latex_extracted": "\\scriptstyle t\\,=\\,{\\frac{2.303}{k}}\\log{\\frac{\\left[\\mathbf{R}\\right]_{0}}{\\left[\\mathbf{R}\\right]}}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of first order kinetics and application of the half-life formula.",
+    "topics_tags": [
+      "First Order Reaction",
+      "Half-Life",
+      "Chemical Kinetics"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the half-life formula for a first order reaction.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777731132/ncert/chemistry/4/img_22_0.png",
+        "latex_extracted": "\\scriptstyle t\\,=\\,{\\frac{2.303}{k}}\\log{\\frac{\\left[\\mathbf{R}\\right]_{0}}{\\left[\\mathbf{R}\\right]}}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.20",
+    "class": 12,
+    "subject": "chemistry",
+    "chapter_number": 4,
+    "chapter_name": "chemical kinetics",
+    "question_type": "numerical",
+    "question_text": "For the decomposition of azoisopropane to hexane and nitrogen at 543 K, calculate the rate constant.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The average value of the rate constant is approximately 2.21 × 10^-3 s^-1.",
+    "answer_latex": "k \\approx 2.21 \\times 10^{-3} \\text{ s}^{-1}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the rate constant using the pressure data at different times.",
+        "expression": "k = \\frac{2.303}{t} \\log \\frac{P_0}{P_0 - p}"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values for P0 and p to find k.",
+        "expression": "k = \\frac{2.303}{360} \\log \\frac{35.0}{35.0 - 54.0}"
+      }
+    ],
+    "final_answer": "Therefore, the rate constant for the reaction is approximately 2.21 × 10^-3 s^-1.",
+    "answer_image": {
+      "present": true,
+      "description": "Chemical reaction equation for the decomposition of azoisopropane.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777731139/ncert/chemistry/4/img_22_3.png",
+      "latex_extracted": "\\begin{array}{c c}{{\\mathrm{(CH_{3})}_{2}\\,\\mathrm{CHN=NCH}(C H_{3})_{2(g)}\\longrightarrow\\,{\\bf N}_{_{(g)}}+\\,{\\bf C}_{_{(R)}}+\\,{\\bf C}_{_{(R)}}}}\\\\ {{\\mathrm{At}\\,t=0}}&{{\\mathrm{\\qquadP_{_{(R)}}}-p}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps of calculation and understanding of reaction kinetics.",
+    "topics_tags": [
+      "Rate Constant",
+      "Decomposition Reaction",
+      "Chemical Kinetics"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Chemical reaction equation for the decomposition of azoisopropane.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777731139/ncert/chemistry/4/img_22_3.png",
+        "latex_extracted": "\\begin{array}{c c}{{\\mathrm{(CH_{3})}_{2}\\,\\mathrm{CHN=NCH}(C H_{3})_{2(g)}\\longrightarrow\\,{\\bf N}_{_{(g)}}+\\,{\\bf C}_{_{(R)}}+\\,{\\bf C}_{_{(R)}}}}\\\\ {{\\mathrm{At}\\,t=0}}&{{\\mathrm{\\qquadP_{_{(R)}}}-p}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.21",
+    "class": 12,
+    "subject": "chemistry",
+    "chapter_number": 4,
+    "chapter_name": "chemical kinetics",
+    "question_type": "multipart",
+    "question_text": "Draw a graph between ln k and 1/T and calculate the values of A and E. Predict the rate constant at 30 º and 50 ºC.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Graph showing the relationship between ln k and 1/T for the decomposition of NO.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777731159/ncert/chemistry/4/img_25_0.jpg",
+      "latex_extracted": "\\begin{array}{c}{{\\frac{\\beta}{2}\\left|\\displaystyle\\left.\\begin{array}{c}{{\\bar{\\Lambda}}}\\\\ {{\\bar{\\Lambda}}}\\end{array}\\right|~\\right._{j}^{\\prime}\\nonumber\\left|\\begin{array}{c}{{\\zeta\\bar{\\Lambda}}}\\\\ {{\\bar{\\Lambda}}}\\end{array}\\right|\\left._{j}^{\\prime}\\right|~_{j}^{\\prime}~\\left.\\frac{\\langle\\tilde{\\eta}_{j}~\\bar{\\zeta}_{j}~\\bar{\\zeta}_{j}~\\langle\\frac{\\gamma}{\\epsilon}~\\rangle}}\\\\ {{\\left|\\frac{\\epsilon_{1}}{\\epsilon}~\\cdot}}\\\\ {{\\frac{\\epsilon}{\\epsilon}}{{\\epsilon}}~_{j}^{\\prime}~\\left|\\begin{array}{c}{{\\epsilon_{1}~\\bar{\\zeta}_{1}~\\bar{\\zeta}_{1}~\\bar{\\zeta}_{1}~\\bar{\\zeta}_{1}~\\bar{\\zeta}_{1}~\\langle\\frac{\\epsilon_{j}}{\\epsilon_{\\zeta}_{\\zeta}}{{\\bar{\\zeta}}{\\zeta}{\\bar{\\zeta}}{\\zeta}{\\Psi}{\\Psi}{\\lambda}}\\\\ {\\frac{{\\lambda}{\\bar{\\bar{\\Psi}{\\bar{\\Psi}_{\\Psi}{\\Psi}{\\bar{\\bar{\\Psi}_{\\bar{\\bar{\\lambda}_{\\bar{\\bar{\\epsilon}}_{\\bar{\\bar{\\bar{\\zeta}_{\\zeta}_{\\Psi}_{\\Psi}_{\\bar{\\zeta}_{\\bar{\\bar",
+      "source_page_number": 25,
+      "source_image_index": 0,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Calculate the values of A and E.",
+        "part_latex": null,
+        "answer_text": "The activation energy E is calculated using the slope of the ln k vs 1/T graph.",
+        "answer_latex": "E_a = 179.9 \\text{ kJ/mol}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Plot ln k against 1/T to find the slope.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Use the slope to calculate the activation energy E.",
+            "expression": "E_a = -\\text{slope} \\times R"
+          }
+        ],
+        "final_answer": "Thus, the values of A and E can be determined from the graph.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Predict the rate constant at 30 ºC and 50 ºC.",
+        "part_latex": null,
+        "answer_text": "The rate constants can be estimated using the Arrhenius equation.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Convert temperatures to Kelvin.",
+            "expression": "T_{30} = 303 K, T_{50} = 323 K"
+          },
+          {
+            "step_number": 2,
+            "description": "Use the Arrhenius equation to find k at these temperatures.",
+            "expression": "k = A e^{-E_a/(RT)}"
+          }
+        ],
+        "final_answer": "The predicted rate constants at 30 ºC and 50 ºC can be calculated.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Involves graphing and application of the Arrhenius equation, requiring multi-step reasoning.",
+    "topics_tags": [
+      "Arrhenius Equation",
+      "Rate Constant",
+      "Activation Energy"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Graph showing the relationship between ln k and 1/T for the decomposition of NO.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777731159/ncert/chemistry/4/img_25_0.jpg",
+        "latex_extracted": "\\begin{array}{c}{{\\frac{\\beta}{2}\\left|\\displaystyle\\left.\\begin{array}{c}{{\\bar{\\Lambda}}}\\\\ {{\\bar{\\Lambda}}}\\end{array}\\right|~\\right._{j}^{\\prime}\\nonumber\\left|\\begin{array}{c}{{\\zeta\\bar{\\Lambda}}}\\\\ {{\\bar{\\Lambda}}}\\end{array}\\right|\\left._{j}^{\\prime}\\right|~_{j}^{\\prime}~\\left.\\frac{\\langle\\tilde{\\eta}_{j}~\\bar{\\zeta}_{j}~\\bar{\\zeta}_{j}~\\langle\\frac{\\gamma}{\\epsilon}~\\rangle}}\\\\ {{\\left|\\frac{\\epsilon_{1}}{\\epsilon}~\\cdot}}\\\\ {{\\frac{\\epsilon}{\\epsilon}}{{\\epsilon}}~_{j}^{\\prime}~\\left|\\begin{array}{c}{{\\epsilon_{1}~\\bar{\\zeta}_{1}~\\bar{\\zeta}_{1}~\\bar{\\zeta}_{1}~\\bar{\\zeta}_{1}~\\bar{\\zeta}_{1}~\\langle\\frac{\\epsilon_{j}}{\\epsilon_{\\zeta}_{\\zeta}}{{\\bar{\\zeta}}{\\zeta}{\\bar{\\zeta}}{\\zeta}{\\Psi}{\\Psi}{\\lambda}}\\\\ {\\frac{{\\lambda}{\\bar{\\bar{\\Psi}{\\bar{\\Psi}_{\\Psi}{\\Psi}{\\bar{\\bar{\\Psi}_{\\bar{\\bar{\\lambda}_{\\bar{\\bar{\\epsilon}}_{\\bar{\\bar{\\bar{\\zeta}_{\\zeta}_{\\Psi}_{\\Psi}_{\\bar{\\zeta}_{\\bar{\\bar",
+        "source_page_number": 25,
+        "source_image_index": 0,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.22",
+    "class": 12,
+    "subject": "chemistry",
+    "chapter_number": 4,
+    "chapter_name": "chemical kinetics",
+    "question_type": "numerical",
+    "question_text": "Sucrose decomposes in acid solution into glucose and fructose according to the first order rate law, with t_{1/2} = 3.00 hours. What fraction of sample of sucrose remains after 8 hours?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Hence, the fraction of sample of sucrose that remains after 8 hours is 0.158.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the rate constant k using the half-life formula for first order reactions.",
+        "expression": "k = \\frac{0.693}{t_{1/2}} = \\frac{0.693}{3.00 \\text{ hours}}"
+      },
+      {
+        "step_number": 2,
+        "description": "Use the rate constant to find the fraction remaining after 8 hours.",
+        "expression": "Fraction remaining = e^{-kt} = e^{-k \\cdot 8}"
+      }
+    ],
+    "final_answer": "Therefore, the fraction of sucrose remaining after 8 hours is 0.158.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical derivation related to first order reaction rate constant.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777731178/ncert/chemistry/4/img_28_0.png",
+      "latex_extracted": "\\begin{array}{r}{\\Rightarrow2.0\\times10^{-2}\\operatorname{s}^{-1}={\\frac{2.303}{100}}\\log{\\frac{1.0}{[\\mathrm{A}]}}}\\\\ {\\Rightarrow2.0\\times10^{-2}\\operatorname{s}^{-1}={\\frac{2.303}{2.0\\times10^{-2}\\times100}}}\\\\ {\\Rightarrow(\\operatorname{antilog}\\!\\left[-{\\frac{2.0\\times10^{-2}\\times100}{2.303}}\\right]}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of first order kinetics and requires calculation.",
+    "topics_tags": [
+      "First Order Reaction",
+      "Rate Constant",
+      "Half-Life"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical derivation related to first order reaction rate constant.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777731178/ncert/chemistry/4/img_28_0.png",
+        "latex_extracted": "\\begin{array}{r}{\\Rightarrow2.0\\times10^{-2}\\operatorname{s}^{-1}={\\frac{2.303}{100}}\\log{\\frac{1.0}{[\\mathrm{A}]}}}\\\\ {\\Rightarrow2.0\\times10^{-2}\\operatorname{s}^{-1}={\\frac{2.303}{2.0\\times10^{-2}\\times100}}}\\\\ {\\Rightarrow(\\operatorname{antilog}\\!\\left[-{\\frac{2.0\\times10^{-2}\\times100}{2.303}}\\right]}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.23",
+    "class": 12,
+    "subject": "chemistry",
+    "chapter_number": 4,
+    "chapter_name": "chemical kinetics",
+    "question_type": "numerical",
+    "question_text": "The decomposition of hydrocarbon follows the equation k = (4.5 x 10^{11} s^{-1}) e^{-28000K/T}. Calculate E.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "E = 232.792 kJ mol^{-1}.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the Arrhenius equation and relate it to the given equation.",
+        "expression": "k = A e^{-E_a/RT}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate E using the provided values.",
+        "expression": "E = 8.314 J K^{-1} mol^{-1} \\times 28000 K"
+      }
+    ],
+    "final_answer": "Thus, the activation energy E is approximately 232.792 kJ mol^{-1}.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of the Arrhenius equation.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777731184/ncert/chemistry/4/img_29_0.png",
+      "latex_extracted": "\\begin{array}{r}{\\Rightarrow\\log\\left[{\\frac{\\mathbb{R}}{\\left[\\mathbf{R}\\right]}}={\\frac{\\left[{\\frac{\\mathbb{R}}{\\mathbf{R}}}\\right]}{\\left[\\mathbf{R}\\right]}}=\\underbrace{\\operatorname{231}\\mathbf{h}^{-1}\\times\\mathbf{A}\\cdot\\mathbf{B}}_{\\mathrm{R}}}\\\\ {\\Rightarrow{\\frac{\\left[\\mathbb{R}\\right]}{\\left[\\mathbf{R}\\right]=\\operatorname{antibg}\\left(0.80z4\\right)}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of the Arrhenius equation and substitution of values.",
+    "topics_tags": [
+      "Arrhenius Equation",
+      "Activation Energy",
+      "Kinetics"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the Arrhenius equation.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777731184/ncert/chemistry/4/img_29_0.png",
+        "latex_extracted": "\\begin{array}{r}{\\Rightarrow\\log\\left[{\\frac{\\mathbb{R}}{\\left[\\mathbf{R}\\right]}}={\\frac{\\left[{\\frac{\\mathbb{R}}{\\mathbf{R}}}\\right]}{\\left[\\mathbf{R}\\right]}}=\\underbrace{\\operatorname{231}\\mathbf{h}^{-1}\\times\\mathbf{A}\\cdot\\mathbf{B}}_{\\mathrm{R}}}\\\\ {\\Rightarrow{\\frac{\\left[\\mathbb{R}\\right]}{\\left[\\mathbf{R}\\right]=\\operatorname{antibg}\\left(0.80z4\\right)}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.24",
+    "class": 12,
+    "subject": "chemistry",
+    "chapter_number": 4,
+    "chapter_name": "chemical kinetics",
+    "question_type": "mcq",
+    "question_text": "The decomposition of A into product has value of k as 4.5 x 10^3 s^-1 at 10°C and energy of activation 60 kJ mol^-1. At what temperature would k be 1.5 x 10^4 s^-1?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical derivation related to Arrhenius equation for the reaction rate constant.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777731194/ncert/chemistry/4/img_31_0.png",
+      "latex_extracted": "\\begin{array}{l}{{\\Rightarrow\\log\\bigl(4.51\\times10^{-s}\\bigr)=14.34-{\\frac{1.25\\times10^{+}\\mathrm{{\\scriptsize~K}}}}{T}}}\\\\ {{\\Rightarrow\\log\\bigl(0.654-05\\bigr)=14.34-{\\frac{1.25\\times10^{+}\\mathrm{{\\scriptsize~K}}}}{T}}}\\\\ {{\\Rightarrow T={\\frac{1.25\\times10^{+}\\mathrm{{\\scriptsize~K}}}{18.686}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Hence, k would be 1.5 × 10^4 s^-1 at 24°C.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Use the Arrhenius equation to relate k values at different temperatures.",
+        "expression": "\\log{\\frac{k_{2}}{k_{1}}}={\\frac{E_{a}}{2.303\\,\\mathrm{R}}}{\\bigg(}{\\frac{T_{2}-T_{1}}{T_{1}T_{2}}}\\bigg)"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the known values into the equation.",
+        "expression": "\\log{\\frac{1.5\\times10^{4}}{4.5\\times10^{3}}}={\\frac{60\\times10^{3}}{2.303\\times8.314}}{\\bigg(}{\\frac{T-283}{283T}}\\bigg)"
+      },
+      {
+        "step_number": 3,
+        "description": "Solve for T to find the temperature at which k equals 1.5 x 10^4 s^-1.",
+        "expression": "T \\approx 297 K"
+      }
+    ],
+    "final_answer": "Therefore, the temperature at which k would be 1.5 × 10^4 s^-1 is approximately 297 K.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves applying the Arrhenius equation and solving for temperature, requiring multi-step reasoning.",
+    "topics_tags": [
+      "Arrhenius Equation",
+      "Reaction Rate",
+      "Activation Energy"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical derivation related to Arrhenius equation for the reaction rate constant.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777731194/ncert/chemistry/4/img_31_0.png",
+        "latex_extracted": "\\begin{array}{l}{{\\Rightarrow\\log\\bigl(4.51\\times10^{-s}\\bigr)=14.34-{\\frac{1.25\\times10^{+}\\mathrm{{\\scriptsize~K}}}}{T}}}\\\\ {{\\Rightarrow\\log\\bigl(0.654-05\\bigr)=14.34-{\\frac{1.25\\times10^{+}\\mathrm{{\\scriptsize~K}}}}{T}}}\\\\ {{\\Rightarrow T={\\frac{1.25\\times10^{+}\\mathrm{{\\scriptsize~K}}}{18.686}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.25",
+    "class": 12,
+    "subject": "chemistry",
+    "chapter_number": 4,
+    "chapter_name": "chemical kinetics",
+    "question_type": "numerical",
+    "question_text": "The time required for 10% completion of a first order reaction at 298 K is equal to that required for its 25% completion at 308 K. If the value of A is 4 x 10^10 s^-1. Calculate k at 318 K and E.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical derivation related to the time and rate constant for a first order reaction.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777731203/ncert/chemistry/4/img_32_0.png",
+      "latex_extracted": "\\begin{array}{l c r}{{t=t^{\\prime}}}\\\\ {{\\Rightarrow{\\frac{0.1054}{k}}={\\frac{0.2877}{k^{\\prime}}}}}\\\\ {{\\Rightarrow{\\frac{k^{\\prime}}{k}}=2.7296}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set up the equation relating the times for 10% and 25% completion.",
+        "expression": "t = t'"
+      },
+      {
+        "step_number": 2,
+        "description": "Use the relationship between k and the time for completion.",
+        "expression": "{\\frac{0.1054}{k}}={\\frac{0.2877}{k'}}"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate k' using the derived ratio.",
+        "expression": "{\\frac{k'}{k}}=2.7296"
+      }
+    ],
+    "final_answer": "The final values for k at 318 K and E need to be calculated based on the derived equations.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of first order kinetics and application of the Arrhenius equation.",
+    "topics_tags": [
+      "First Order Reaction",
+      "Rate Constant",
+      "Kinetics"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical derivation related to the time and rate constant for a first order reaction.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777731203/ncert/chemistry/4/img_32_0.png",
+        "latex_extracted": "\\begin{array}{l c r}{{t=t^{\\prime}}}\\\\ {{\\Rightarrow{\\frac{0.1054}{k}}={\\frac{0.2877}{k^{\\prime}}}}}\\\\ {{\\Rightarrow{\\frac{k^{\\prime}}{k}}=2.7296}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.26",
+    "class": 12,
+    "subject": "chemistry",
+    "chapter_number": 4,
+    "chapter_name": "chemical kinetics",
+    "question_type": "numerical",
+    "question_text": "The rate of a reaction quadruples when the temperature changes from 293 K to 313 K. Calculate the energy of activation of the reaction assuming that it does not change with temperature.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical derivation related to the activation energy using the Arrhenius equation.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777731206/ncert/chemistry/4/img_33_0.png",
+      "latex_extracted": "\\begin{array}{c}{{\\log\\displaystyle\\frac{k^{\\prime}}{k}=\\displaystyle\\frac{E_{a}}{2.3038}\\displaystyle\\left(\\displaystyle\\frac{T^{\\prime}-T}{T^{\\prime}}\\right)}}\\\\ {{\\log\\displaystyle\\left(2.7296\\right)=\\displaystyle\\frac{E_{a}}{2.303\\times8.314\\times308\\times108\\times108\\times108\\times168\\times1}}}\\\\ {{=76.6481\\mathrm{hPmoI^{\\prime}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Use the Arrhenius equation to relate the rate constants at two temperatures.",
+        "expression": "\\log{\\frac{k'}{k}}=\\frac{E_a}{2.303R}\\left(\\frac{T'-T}{T'}\\right)"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the known values into the equation.",
+        "expression": "\\log{(4)}=\\frac{E_a}{2.303\\times8.314}\\left(\\frac{313-293}{313}\\right)"
+      },
+      {
+        "step_number": 3,
+        "description": "Solve for E_a to find the activation energy.",
+        "expression": "E_a \\approx 76.6481 kJ/mol"
+      }
+    ],
+    "final_answer": "The energy of activation of the reaction is approximately 76.65 kJ/mol.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves applying the Arrhenius equation and solving for activation energy, requiring multi-step reasoning.",
+    "topics_tags": [
+      "Activation Energy",
+      "Arrhenius Equation",
+      "Reaction Rate"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical derivation related to the activation energy using the Arrhenius equation.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777731206/ncert/chemistry/4/img_33_0.png",
+        "latex_extracted": "\\begin{array}{c}{{\\log\\displaystyle\\frac{k^{\\prime}}{k}=\\displaystyle\\frac{E_{a}}{2.3038}\\displaystyle\\left(\\displaystyle\\frac{T^{\\prime}-T}{T^{\\prime}}\\right)}}\\\\ {{\\log\\displaystyle\\left(2.7296\\right)=\\displaystyle\\frac{E_{a}}{2.303\\times8.314\\times308\\times108\\times108\\times108\\times168\\times1}}}\\\\ {{=76.6481\\mathrm{hPmoI^{\\prime}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.27",
+    "class": 12,
+    "subject": "chemistry",
+    "chapter_number": 4,
+    "chapter_name": "chemical kinetics",
+    "question_type": "conceptual",
+    "question_text": "What is the required energy of activation?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The required energy of activation is 52.86 kJmol - 1.",
+    "answer_latex": "E_a = 52.86 \text{ kJmol}^{-1}",
+    "steps": [],
+    "final_answer": "Hence, the required energy of activation is 52.86 kJmol - 1.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation related to energy of activation.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777731219/ncert/chemistry/4/img_34_0.jpg",
+      "latex_extracted": "\\begin{array}{r}{b_{z}^{k}={\\frac{E_{z}}{k_{z}}}{\\frac{\\left(T_{z}-t_{y}\\right)}{k_{z}}}{\\frac{\\left(T_{z}-t_{z}\\right)}{k_{z}}}}\\\\ {\\approx{\\frac{\\left(200z\\right)}{k_{z}}}}&{\\left(2-{\\frac{\\left(2-V_{z}-k_{y}\\right)}{k_{z}\\cos\\left(2-30\\right)\\cdot k_{z}\\right)}}}\\\\ {\\approx{\\frac{\\left(20z\\right)\\cdot k_{z}}{\\left(230\\cdot k_{z}-k_{y}\\right)\\cdot k_{y}\\right)}}}\\\\ {\\approx{\\frac{\\left(30z\\right)}{\\cos\\left(21\\right)x}}}\\\\ {\\simeq{\\frac{\\left(20z}{\\sqrt[[object Object]\\left(1-30z\\right)}{\\sqrt[[object Object]\\left(1-30\\right)}}}\\\\ {\\left(-{\\frac{\\left(10}{\\frac{\\sqrt{1}}}{\\left(10\\right)\\right)}{\\left(1}}}\\right)}\\end{array}",
+      "source_page_number": 34,
+      "source_image_index": 0,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of a specific value.",
+    "topics_tags": [
+      "Energy of Activation",
+      "Chemical Kinetics",
+      "Reaction Rate"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation related to energy of activation.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777731219/ncert/chemistry/4/img_34_0.jpg",
+        "latex_extracted": "\\begin{array}{r}{b_{z}^{k}={\\frac{E_{z}}{k_{z}}}{\\frac{\\left(T_{z}-t_{y}\\right)}{k_{z}}}{\\frac{\\left(T_{z}-t_{z}\\right)}{k_{z}}}}\\\\ {\\approx{\\frac{\\left(200z\\right)}{k_{z}}}}&{\\left(2-{\\frac{\\left(2-V_{z}-k_{y}\\right)}{k_{z}\\cos\\left(2-30\\right)\\cdot k_{z}\\right)}}}\\\\ {\\approx{\\frac{\\left(20z\\right)\\cdot k_{z}}{\\left(230\\cdot k_{z}-k_{y}\\right)\\cdot k_{y}\\right)}}}\\\\ {\\approx{\\frac{\\left(30z\\right)}{\\cos\\left(21\\right)x}}}\\\\ {\\simeq{\\frac{\\left(20z}{\\sqrt[[object Object]\\left(1-30z\\right)}{\\sqrt[[object Object]\\left(1-30\\right)}}}\\\\ {\\left(-{\\frac{\\left(10}{\\frac{\\sqrt{1}}}{\\left(10\\right)\\right)}{\\left(1}}}\\right)}\\end{array}",
+        "source_page_number": 34,
+        "source_image_index": 0,
+        "ownership": "answer"
+      }
+    ]
+  }
+]

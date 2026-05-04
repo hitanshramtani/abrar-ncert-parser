@@ -1,0 +1,2053 @@
+[
+  {
+    "question_id": "Q4.1",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 4,
+    "chapter_name": "Moving Charges and Magnetism",
+    "question_type": "mcq",
+    "question_text": "A circular coil of wire consisting of 100 turns, each of radius 8.0 cm carries a current of 0.40 A. What is the magnitude of the magnetic field B at the centre of the coil?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The magnitude of the magnetic field is 3.14 × 10–4 T.",
+    "answer_latex": "B = 3.14 \\times 10^{-4} \\, T",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the parameters: number of turns, radius, and current.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the formula for the magnetic field at the center of a coil: B = \\frac{\\mu_0 n I}{2r}.",
+        "expression": "B = \\frac{4\\pi \\times 10^{-7} \\times 100 \\times 0.4}{2 \\times 0.08}"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the magnetic field using the values.",
+        "expression": "B = 3.14 \\times 10^{-4}"
+      }
+    ],
+    "final_answer": "Therefore, the magnitude of the magnetic field at the center of the coil is 3.14 × 10–4 T.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram related to the magnetic field calculation at the center of a circular coil.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796392/ncert/physics/4/img_1_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of magnetic fields and application of the formula.",
+    "topics_tags": [
+      "Magnetic Field",
+      "Circular Coil",
+      "Electromagnetism"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the magnetic field calculation at the center of a circular coil.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796392/ncert/physics/4/img_1_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.2",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 4,
+    "chapter_name": "Moving Charges and Magnetism",
+    "question_type": "numerical",
+    "question_text": "A long straight wire carries a current of 35 A. What is the magnitude of the field B at a point 20 cm from the wire?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The magnitude of the magnetic field at a point 20 cm from the wire is 3.5 × 10–5 T.",
+    "answer_latex": "B = 3.5 \\times 10^{-5} \\, T",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the parameters: current and distance from the wire.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the formula for the magnetic field around a straight wire: B = \\frac{\\mu_0 I}{2\\pi r}.",
+        "expression": "B = \\frac{4\\pi \\times 10^{-7} \\times 35}{2\\pi \\times 0.2}"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the magnetic field using the values.",
+        "expression": "B = 3.5 \\times 10^{-5}"
+      }
+    ],
+    "final_answer": "Therefore, the magnitude of the magnetic field at a point 20 cm from the wire is 3.5 × 10–5 T.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram related to the magnetic field calculation around a straight wire.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796394/ncert/physics/4/img_1_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of magnetic fields and application of the formula.",
+    "topics_tags": [
+      "Magnetic Field",
+      "Straight Wire",
+      "Electromagnetism"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the magnetic field calculation around a straight wire.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796394/ncert/physics/4/img_1_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.3",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 4,
+    "chapter_name": "Moving Charges and Magnetism",
+    "question_type": "numerical",
+    "question_text": "A long straight wire in the horizontal plane carries a current of 50 A in north to south direction. Give the magnitude and direction of B at a point 2.5 m east of the wire.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The magnitude of the magnetic field at that point is given by the relation B = \\frac{\\mu_0 I}{2\\pi r}. The direction of the magnetic field is vertically upward.",
+    "answer_latex": "B = \\frac{\\mu_0 I}{2\\pi r}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the parameters: current and distance from the wire.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the formula for the magnetic field around a straight wire: B = \\frac{\\mu_0 I}{2\\pi r}.",
+        "expression": "B = \\frac{4\\pi \\times 10^{-7} \\times 50}{2\\pi \\times 2.5}"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the magnetic field using the values.",
+        "expression": "B = 4 \\times 10^{-6}"
+      }
+    ],
+    "final_answer": "Therefore, the magnitude of the magnetic field at the point is 4 × 10^{-6} T and the direction is vertically upward.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram related to the magnetic field calculation around a straight wire.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796395/ncert/physics/4/img_2_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of magnetic fields and application of the formula with direction consideration.",
+    "topics_tags": [
+      "Magnetic Field",
+      "Straight Wire",
+      "Electromagnetism"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the magnetic field calculation around a straight wire.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796395/ncert/physics/4/img_2_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.4",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 4,
+    "chapter_name": "Moving Charges and Magnetism",
+    "question_type": "numerical",
+    "question_text": "A horizontal overhead power line carries a current of 90 A in east to west direction. What is the magnitude and direction of the magnetic field due to the current 1.5 m below the line?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to the magnetic field calculation below a power line.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796397/ncert/physics/4/img_3_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The magnitude of the magnetic field at that point is given by the relation B = \\frac{\\mu_0 I}{2\\pi r}. The direction of the magnetic field is towards the South.",
+    "answer_latex": "B = \\frac{\\mu_0 I}{2\\pi r}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the parameters: current and distance from the power line.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the formula for the magnetic field around a straight wire: B = \\frac{\\mu_0 I}{2\\pi r}.",
+        "expression": "B = \\frac{4\\pi \\times 10^{-7} \\times 90}{2\\pi \\times 1.5}"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the magnetic field using the values.",
+        "expression": "B = 1.2 \\times 10^{-5}"
+      }
+    ],
+    "final_answer": "Therefore, the magnitude of the magnetic field at the point is 1.2 × 10^{-5} T and the direction is towards the South.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of magnetic fields and application of the formula with direction consideration.",
+    "topics_tags": [
+      "Magnetic Field",
+      "Power Line",
+      "Electromagnetism"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the magnetic field calculation below a power line.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796397/ncert/physics/4/img_3_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.5",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 4,
+    "chapter_name": "moving charges and magnetism",
+    "question_type": "numerical",
+    "question_text": "What is the magnitude of magnetic force per unit length on a wire carrying a current of 8 A and making an angle of 30º with the direction of a uniform magnetic field of 0.15 T?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The magnetic force per unit length on the wire is 0.6 N m–1.",
+    "answer_latex": "f = 0.15 \\times 8 \\times 1 \\times \\sin 30^{\\circ} = 0.6 \\text{ N m}^{-1}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the formula for magnetic force per unit length.",
+        "expression": "f = B I \\sin \\theta"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values into the formula.",
+        "expression": "f = 0.15 \\times 8 \\times 1 \\times \\sin 30^{\\circ}"
+      }
+    ],
+    "final_answer": "Hence, the magnetic force per unit length on the wire is 0.6 N m–1.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of magnetic force formula and basic substitution.",
+    "topics_tags": [
+      "Magnetic Force",
+      "Current",
+      "Magnetic Field"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.6",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 4,
+    "chapter_name": "moving charges and magnetism",
+    "question_type": "numerical",
+    "question_text": "A 3.0 cm wire carrying a current of 10 A is placed inside a solenoid perpendicular to its axis. The magnetic field inside the solenoid is given to be 0.27 T. What is the magnetic force on the wire?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The magnetic force on the wire is 8.1 × 10–2 N.",
+    "answer_latex": "F = B I l \\sin \\theta = 0.27 \\times 10 \\times 0.03 \\times \\sin 90^{\\circ} = 8.1 \\times 10^{-2} \\text{ N}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the formula for magnetic force on a wire.",
+        "expression": "F = B I l \\sin \\theta"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values into the formula.",
+        "expression": "F = 0.27 \\times 10 \\times 0.03 \\times \\sin 90^{\\circ}"
+      }
+    ],
+    "final_answer": "Hence, the magnetic force on the wire is 8.1 × 10–2 N.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of magnetic force formula and basic substitution.",
+    "topics_tags": [
+      "Magnetic Force",
+      "Solenoid",
+      "Current"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.7",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 4,
+    "chapter_name": "moving charges and magnetism",
+    "question_type": "mcq",
+    "question_text": "Estimate the force on a 10 cm section of wire A carrying a current of 8.0 A, when it is parallel to another wire B carrying a current of 5.0 A, separated by a distance of 4.0 cm.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The magnitude of force is 2 × 10–5 N.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the formula for force between two parallel wires.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values into the formula.",
+        "expression": null
+      }
+    ],
+    "final_answer": "This is an attractive force normal to A towards B because the direction of the currents in the wires is the same.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of magnetic interactions and requires substitution.",
+    "topics_tags": [
+      "Magnetic Force",
+      "Parallel Wires",
+      "Current"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.8",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 4,
+    "chapter_name": "moving charges and magnetism",
+    "question_type": "mcq",
+    "question_text": "Estimate the magnitude of B inside a solenoid that is 800 cm long with 5 layers of windings of 400 turns each, carrying a current of 8.0 A.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the solenoid with its dimensions and windings.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796398/ncert/physics/4/img_6_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the total number of turns in the solenoid.",
+        "expression": "N = 5 \\times 400 = 2000"
+      },
+      {
+        "step_number": 2,
+        "description": "Identify the formula for magnetic field inside a solenoid.",
+        "expression": "B = \\frac{\\mu_0 N I}{l}"
+      }
+    ],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of solenoid properties and magnetic field calculations.",
+    "topics_tags": [
+      "Magnetic Field",
+      "Solenoid",
+      "Current"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the solenoid with its dimensions and windings.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796398/ncert/physics/4/img_6_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.9",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 4,
+    "chapter_name": "Moving Charges and Magnetism",
+    "question_type": "numerical",
+    "question_text": "A square coil of side 10 cm consists of 20 turns and carries a current of 12 A. The coil is suspended vertically and the normal to the plane of the coil makes an angle of 30º with the direction of a uniform horizontal magnetic field of magnitude 0.80 T. What is the magnitude of torque experienced by the coil?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The magnitude of the torque experienced by the coil is 0.96 N m.",
+    "answer_latex": "τ = 20 \\times 0.8 \\times 12 \\times 0.01 \\times \\sin(30°) = 0.96 \\text{ N m}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the area of the square coil.",
+        "expression": "A = l \\times l = 0.1 \\times 0.1 = 0.01 \\text{ m}^2"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute values into the torque formula.",
+        "expression": "τ = n BIA \\sin(θ) = 20 \\times 0.8 \\times 12 \\times 0.01 \\times \\sin(30°)"
+      }
+    ],
+    "final_answer": "Hence, the magnitude of the torque experienced by the coil is 0.96 N m.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of torque in magnetic fields and basic calculations.",
+    "topics_tags": [
+      "Torque",
+      "Magnetic Field",
+      "Coil"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.10",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 4,
+    "chapter_name": "Moving Charges and Magnetism",
+    "question_type": "mcq",
+    "question_text": "Determine the ratio of (a) current sensitivity and (b) voltage sensitivity of two moving coil meters, M1 and M2.",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "current sensitivity and"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "voltage sensitivity of two moving coil meters, M1 and M2."
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The ratio of current sensitivity of M1 to M2 is 1.4, and the ratio of voltage sensitivity of M1 to M2 is 1.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Hence, the ratio of current sensitivity of M1 to M2 is 1.4, and the ratio of voltage sensitivity of M1 to M2 is 1.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of sensitivity ratios and basic calculations.",
+    "topics_tags": [
+      "Current Sensitivity",
+      "Voltage Sensitivity",
+      "Moving Coil Meter"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.11",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 4,
+    "chapter_name": "Moving Charges and Magnetism",
+    "question_type": "mcq",
+    "question_text": "In a chamber, a uniform magnetic field of 6.5 G (1 G = 10–4 T) is maintained. An electron is shot into the field with a speed of 4.8 × 10^6 m/s normal to the field. Explain why the path of the electron is a circle. Determine the radius of the circular orbit.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Requires understanding of magnetic forces and circular motion principles.",
+    "topics_tags": [
+      "Magnetic Field",
+      "Electron Motion",
+      "Circular Path"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.12",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 4,
+    "chapter_name": "moving charges and magnetism",
+    "question_type": "conceptual",
+    "question_text": "In Exercise 4.11 obtain the frequency of revolution of the electron in its circular orbit. Does the answer depend on the speed of the electron? Explain.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The frequency of revolution of the electron is independent of the speed of the electron.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the relationship between the magnetic force and centripetal force.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute known values to find the frequency.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the frequency of the electron is around 18 MHz and is independent of the speed of the electron.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram related to the magnetic force and circular motion of the electron.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796404/ncert/physics/4/img_10_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of circular motion and magnetic forces.",
+    "topics_tags": [
+      "Frequency of Revolution",
+      "Electron Motion",
+      "Magnetic Field"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the magnetic force and circular motion of the electron.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796404/ncert/physics/4/img_10_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      },
+      {
+        "present": true,
+        "description": "Diagram showing the relationship between frequency and other parameters.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796408/ncert/physics/4/img_11_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.13",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 4,
+    "chapter_name": "moving charges and magnetism",
+    "question_type": "mcq",
+    "question_text": "A circular coil of 30 turns and radius 8.0 cm carrying a current of 6.0 A is suspended vertically in a uniform horizontal magnetic field of magnitude 1.0 T. The field lines make an angle of 60º with the normal of the coil. Calculate the magnitude of the counter torque that must be applied to prevent the coil from turning. Would your answer change, if the circular coil in (a) were replaced by a planar coil of some irregular shape that encloses the same area? (All other particulars are also unaltered.)",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The counter torque applied to prevent the coil from turning is 3.133 N m, and it does not depend on the shape of the coil.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the area of the coil using its radius.",
+        "expression": "A = \\pi r^2"
+      },
+      {
+        "step_number": 2,
+        "description": "Use the torque formula τ = n I B A sin(θ) to find the counter torque.",
+        "expression": "τ = 30 \\times 6 \\times 1 \\times 0.0201 \\times \\sin(60°)"
+      }
+    ],
+    "final_answer": "Therefore, the magnitude of the applied torque is 3.133 N m and is independent of the shape of the coil.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps and understanding of torque in magnetic fields.",
+    "topics_tags": [
+      "Torque",
+      "Magnetic Field",
+      "Coil"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.14",
+    "class": 12,
+    "subject": "physics",
+    "chapter_number": 4,
+    "chapter_name": "moving charges and magnetism",
+    "question_type": "numerical",
+    "question_text": "Two concentric circular coils X and Y of radii 16 cm and 10 cm, respectively, lie in the same vertical plane containing the north to south direction. Coil X has 20 turns and carries a current of 16 A; coil Y has 25 turns and carries a current of 18 A. The sense of the current in X is anticlockwise, and clockwise in Y, for an observer looking at the coils facing west. Give the magnitude and direction of the net magnetic field due to the coils at their centre.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagrams related to the magnetic field due to coils.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796413/ncert/physics/4/img_13_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The magnetic field due to coil X at their centre is given by the relation, and similarly for coil Y.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the magnetic field due to coil X using the formula.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the magnetic field due to coil Y using the formula.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Determine the net magnetic field by vector addition of the fields from both coils.",
+        "expression": null
+      }
+    ],
+    "final_answer": "The net magnetic field at the centre is the vector sum of the fields due to both coils.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations and understanding of magnetic fields.",
+    "topics_tags": [
+      "Magnetic Field",
+      "Coils",
+      "Electromagnetism"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagrams related to the magnetic field due to coils.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796413/ncert/physics/4/img_13_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.15",
+    "class": 12,
+    "subject": "physics",
+    "chapter_number": 4,
+    "chapter_name": "moving charges and magnetism",
+    "question_type": "conceptual",
+    "question_text": "A magnetic field of 100 G (1 G = 10−4T) is required which is uniform in a region of linear dimension about 10 cm and area of cross-section about 10−3m2. The maximum current-carrying capacity of a given coil of wire is 15 A and the number of turns per unit length that can be wound around a core is at most 1000 turns m−1. Suggest some appropriate design particulars of a solenoid for the required purpose. Assume the core is not ferromagnetic.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The solenoid should have a length of 50 cm, radius of 4 cm, number of turns of 400, and carry a current of 10 A.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the required magnetic field strength and dimensions.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the necessary parameters for the solenoid design.",
+        "expression": null
+      }
+    ],
+    "final_answer": "These values are not unique for the given purpose; adjustments can be made.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagrams related to the design of a solenoid.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796417/ncert/physics/4/img_14_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of solenoid design and magnetic field principles.",
+    "topics_tags": [
+      "Solenoid",
+      "Magnetic Field",
+      "Electromagnetism"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagrams related to the design of a solenoid.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796417/ncert/physics/4/img_14_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.16",
+    "class": 12,
+    "subject": "physics",
+    "chapter_number": 4,
+    "chapter_name": "moving charges and magnetism",
+    "question_type": "derivation",
+    "question_text": "For a circular coil of radius R and N turns carrying current I, the magnitude of the magnetic field at a point on its axis at a distance x from its centre is given by, Show that this reduces to the familiar result for field at the centre of the coil. Consider two parallel co-axial circular coils of equal radius R, and number of turns N, carrying equal currents in the same direction, and separated by a distance R. Show that the field on the axis around the mid-point between the coils is uniform over a distance that is small as compared to R, and is given by, approximately. [Such an arrangement to produce a nearly uniform magnetic field over a small region is known as Helmholtz coils.]",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagrams related to the magnetic field of circular coils.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796426/ncert/physics/4/img_15_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The magnetic field at a point on the axis can be derived from the formula for a circular coil.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Derive the magnetic field expression for a single circular coil.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Show how this expression simplifies at the centre of the coil.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Analyze the field produced by two parallel coils and show uniformity.",
+        "expression": null
+      }
+    ],
+    "final_answer": "The arrangement produces a nearly uniform magnetic field over a small region.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Involves derivation and understanding of magnetic fields from coils.",
+    "topics_tags": [
+      "Magnetic Field",
+      "Circular Coil",
+      "Helmholtz Coils"
+    ],
+    "confidence_score": 0.88,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagrams related to the magnetic field of circular coils.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796426/ncert/physics/4/img_15_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.17",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 4,
+    "chapter_name": "Moving Charges and Magnetism",
+    "question_type": "mcq",
+    "question_text": "A toroid has a core (non-ferromagnetic) of inner radius 25 cm and outer radius 26 cm, around which 3500 turns of a wire are wound. If the current in the wire is 11 A, what is the magnetic field (a) outside the toroid, (b) inside the core of the toroid, and (c) in the empty space surrounded by the toroid?",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "outside the toroid,"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "inside the core of the toroid, and"
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "in the empty space surrounded by the toroid?"
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "What is the magnetic field outside the toroid?",
+        "part_latex": null,
+        "answer_text": "The magnetic field outside a toroid is zero.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Therefore, the magnetic field outside the toroid is zero.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "What is the magnetic field inside the core of the toroid?",
+        "part_latex": null,
+        "answer_text": "The magnetic field inside the core of a toroid is given by the relation B = \\frac{\\mu_0 N I}{2\\pi r}, where \\mu_0 is the permeability of free space, N is the number of turns, I is the current, and r is the radius.",
+        "answer_latex": "B = \\frac{\\mu_0 N I}{2\\pi r}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the formula for the magnetic field inside a toroid.",
+            "expression": "B = \\frac{\\mu_0 N I}{2\\pi r}"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the values: N = 3500, I = 11 A, r = 0.25 m (average radius).",
+            "expression": "B = \\frac{\\mu_0 \\cdot 3500 \\cdot 11}{2\\pi \\cdot 0.25}"
+          }
+        ],
+        "final_answer": "Thus, the magnetic field inside the core of the toroid can be calculated using the given formula.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "What is the magnetic field in the empty space surrounded by the toroid?",
+        "part_latex": null,
+        "answer_text": "The magnetic field in the empty space surrounded by the toroid is zero.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Therefore, the magnetic field in the empty space surrounded by the toroid is zero.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Diagram illustrating the structure of a toroid with labeled dimensions.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796440/ncert/physics/4/img_17_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of magnetic fields in toroids and basic application of formulas.",
+    "topics_tags": [
+      "Toroid",
+      "Magnetic Field",
+      "Electromagnetism"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram illustrating the structure of a toroid with labeled dimensions.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796440/ncert/physics/4/img_17_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.18",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 4,
+    "chapter_name": "Moving Charges and Magnetism",
+    "question_type": "conceptual",
+    "question_text": "An electron travelling west to east enters a chamber having a uniform electrostatic field in north to south direction. Specify the direction in which a uniform magnetic field should be set up to prevent the electron from deflecting from its straight line path.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The magnetic field should be applied in a vertically downward direction according to Fleming’s left hand rule.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the magnetic field must be directed downwards to keep the electron undeflected.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of the interaction between electric and magnetic fields.",
+    "topics_tags": [
+      "Magnetic Field",
+      "Electrostatic Field",
+      "Electron Motion"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.19",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 4,
+    "chapter_name": "Moving Charges and Magnetism",
+    "question_type": "mcq",
+    "question_text": "An electron emitted by a heated cathode and accelerated through a potential difference of 2.0 kV, enters a region with uniform magnetic field of 0.15 T. Determine the trajectory of the electron if the field (a) is transverse to its initial velocity, (b) makes an angle of 30º with the initial velocity.",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "is transverse to its initial velocity,"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "makes an angle of 30º with the initial velocity."
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagrams showing the trajectory of an electron in a magnetic field.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796458/ncert/physics/4/img_20_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Determine the trajectory of the electron if the field is transverse to its initial velocity.",
+        "part_latex": null,
+        "answer_text": "The electron traces a circular path of radius 1.0 mm normal to the magnetic field.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the kinetic energy of the electron using the potential difference.",
+            "expression": "KE = eV"
+          },
+          {
+            "step_number": 2,
+            "description": "Use the relationship between magnetic force and centripetal force to find the radius.",
+            "expression": "B = \\frac{mv}{r}"
+          }
+        ],
+        "final_answer": "Hence, the electron has a circular trajectory of radius 1.0 mm normal to the magnetic field.",
+        "answer_image": {
+          "present": true,
+          "description": "Diagram showing circular trajectory of the electron.",
+          "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796459/ncert/physics/4/img_20_1.png",
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "answer"
+        },
+        "question_images": [],
+        "answer_images": [
+          {
+            "present": true,
+            "description": "Diagram showing circular trajectory of the electron.",
+            "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796459/ncert/physics/4/img_20_1.png",
+            "latex_extracted": null,
+            "source_page_number": null,
+            "source_image_index": null,
+            "ownership": "answer"
+          }
+        ],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Determine the trajectory of the electron if the field makes an angle of 30º with the initial velocity.",
+        "part_latex": null,
+        "answer_text": "The electron has a helical trajectory of radius 0.5 mm along the magnetic field direction.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the effective velocity component of the electron in the magnetic field direction.",
+            "expression": "v_{effective} = v \\cos(30^\\circ)"
+          },
+          {
+            "step_number": 2,
+            "description": "Determine the radius of the helical path using the effective velocity.",
+            "expression": "r = \\frac{mv_{effective}}{eB}"
+          }
+        ],
+        "final_answer": "Thus, the electron has a helical trajectory of radius 0.5 mm along the magnetic field direction.",
+        "answer_image": {
+          "present": true,
+          "description": "Diagram showing helical trajectory of the electron.",
+          "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796462/ncert/physics/4/img_20_2.png",
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "answer"
+        },
+        "question_images": [],
+        "answer_images": [
+          {
+            "present": true,
+            "description": "Diagram showing helical trajectory of the electron.",
+            "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796462/ncert/physics/4/img_20_2.png",
+            "latex_extracted": null,
+            "source_page_number": null,
+            "source_image_index": null,
+            "ownership": "answer"
+          }
+        ],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations and understanding of circular and helical motion.",
+    "topics_tags": [
+      "Electron Trajectory",
+      "Magnetic Field",
+      "Helical Motion"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagrams showing the trajectory of an electron in a magnetic field.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796458/ncert/physics/4/img_20_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.20",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 4,
+    "chapter_name": "Moving Charges and Magnetism",
+    "question_type": "mcq",
+    "question_text": "A straight horizontal conducting rod of length 0.45 m and mass 60 g is suspended by two vertical wires at its ends. A current of 5.0 A is set up in the rod through the wires. What magnetic field should be set up normal to the conductor in order that the tension in the wires is zero? What will be the total tension in the wires if the direction of current is reversed keeping the magnetic field same as before? (Ignore the mass of the wires.) g = 9.8 m/s².",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing a horizontal conducting rod suspended by vertical wires.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796481/ncert/physics/4/img_22_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "A horizontal magnetic field of 0.26 T normal to the length of the conductor should be set up in order to get zero tension in the wire. If the direction of the current is reversed, the total tension in the wire will be equal to the magnetic force plus the weight of the wire.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the weight of the rod using its mass and acceleration due to gravity.",
+        "expression": "mg = 60 \\times 10^{-3} \\times 9.8"
+      },
+      {
+        "step_number": 2,
+        "description": "Set the magnetic force equal to the weight to find the required magnetic field.",
+        "expression": "BIl = mg"
+      },
+      {
+        "step_number": 3,
+        "description": "Substitute the values to find the magnetic field.",
+        "expression": "B = \\frac{mg}{Il} = \\frac{60 \\times 10^{-3} \\times 9.8}{5 \\times 0.45}"
+      }
+    ],
+    "final_answer": "Therefore, the magnetic field required is 0.26 T.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps including calculations of forces and magnetic fields.",
+    "topics_tags": [
+      "Magnetic Field",
+      "Current",
+      "Force",
+      "Tension"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing a horizontal conducting rod suspended by vertical wires.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796481/ncert/physics/4/img_22_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.21",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 4,
+    "chapter_name": "Moving Charges and Magnetism",
+    "question_type": "numerical",
+    "question_text": "The wires which connect the battery of an automobile to its starting motor carry a current of 300 A (for a short time). What is the force per unit length between the wires if they are 70 cm long and 1.5 cm apart? Is the force attractive or repulsive?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the setup of wires carrying current.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796502/ncert/physics/4/img_23_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The force per unit length between the wires can be calculated using the formula F = \\frac{\\mu_0 I_1 I_2}{2\\pi r} where \\mu_0 is the permeability of free space. Since the currents are in the same direction, the force is attractive.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the values for current and distance between the wires.",
+        "expression": "I_1 = I_2 = 300 A, r = 0.015 m"
+      },
+      {
+        "step_number": 2,
+        "description": "Use the formula for force per unit length between two parallel currents.",
+        "expression": "F/L = \\frac{\\mu_0 I_1 I_2}{2\\pi r}"
+      },
+      {
+        "step_number": 3,
+        "description": "Substitute the values into the formula to find the force.",
+        "expression": "F/L = \\frac{4\\pi \\times 10^{-7} \\times 300 \\times 300}{2\\pi \\times 0.015}"
+      }
+    ],
+    "final_answer": "Thus, the force is attractive due to the same direction of currents.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of magnetic forces between current-carrying wires and application of the formula.",
+    "topics_tags": [
+      "Current",
+      "Magnetic Force",
+      "Wires",
+      "Attraction"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the setup of wires carrying current.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796502/ncert/physics/4/img_23_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.22",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 4,
+    "chapter_name": "Moving Charges and Magnetism",
+    "question_type": "mcq",
+    "question_text": "A uniform magnetic field of 1.5 T exists in a cylindrical region of radius 10.00 cm, its direction parallel to the axis along east to west. A wire carrying current of 7.00 A in the north to south direction passes through this region. What is the magnitude and direction of the force on the wire if the wire intersects the axis, the wire is turned from N-S to northeast-northwest direction, the wire in the N-S direction is lowered from the axis by a distance of 6.0 cm?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing a wire in a magnetic field.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796507/ncert/physics/4/img_24_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The force on the wire can be calculated using F = BIL, where B is the magnetic field strength, I is the current, and L is the length of the wire. The direction of the force can be determined using the right-hand rule.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the force when the wire intersects the axis using F = BIL.",
+        "expression": "F = 1.5 \\times 7 \\times 0.2"
+      },
+      {
+        "step_number": 2,
+        "description": "Determine the direction of the force using the right-hand rule.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the force when the wire is turned to northeast-northwest.",
+        "expression": null
+      },
+      {
+        "step_number": 4,
+        "description": "Calculate the force when the wire is lowered by 6.0 cm.",
+        "expression": null
+      }
+    ],
+    "final_answer": "The force will vary based on the position and orientation of the wire in the magnetic field.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Involves multiple scenarios and requires understanding of magnetic forces and geometry.",
+    "topics_tags": [
+      "Magnetic Field",
+      "Current",
+      "Force",
+      "Direction"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing a wire in a magnetic field.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796507/ncert/physics/4/img_24_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.23",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 4,
+    "chapter_name": "Moving Charges and Magnetism",
+    "question_type": "numerical",
+    "question_text": "A wire experiences a magnetic force of 2.1 N when the angle between the magnetic field and current is 90°. What is the force when the angle is changed to 45°?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The force remains 2.1 N acting vertically downward on the wire, independent of the angle.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the magnetic force when the angle is 90°.",
+        "expression": "F = BIl sin(90°) = 2.1 N"
+      },
+      {
+        "step_number": 2,
+        "description": "Determine the force when the angle is 45°.",
+        "expression": "F = BIl sin(45°) = 2.1 N (remains the same)"
+      }
+    ],
+    "final_answer": "Thus, the force remains 2.1 N acting vertically downward on the wire.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the magnetic force acting on the wire.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796508/ncert/physics/4/img_25_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of magnetic force and its dependence on angle.",
+    "topics_tags": [
+      "Magnetic Force",
+      "Current",
+      "Magnetic Field"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the magnetic force acting on the wire.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796508/ncert/physics/4/img_25_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.24",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 4,
+    "chapter_name": "Moving Charges and Magnetism",
+    "question_type": "numerical",
+    "question_text": "A rectangular loop of sides 10 cm and 5 cm carries a current of 12 A in a uniform magnetic field of 3000 G. What is the torque on the loop and the force in different cases?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The torque on the loop is calculated based on the area and the magnetic field strength, with the force being zero in certain orientations.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Convert magnetic field strength from G to T.",
+        "expression": "B = 3000 G = 0.3 T"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the area of the loop.",
+        "expression": "A = l \\times b = 10 \\times 5 = 50 \\times 10^{-4} m^2"
+      },
+      {
+        "step_number": 3,
+        "description": "Determine the torque based on the current and magnetic field.",
+        "expression": "Torque = N \\cdot A \\cdot B \\cdot sin(\\theta)"
+      }
+    ],
+    "final_answer": "The torque and force depend on the orientation of the loop in the magnetic field.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the rectangular loop in a magnetic field.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796511/ncert/physics/4/img_26_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations and understanding of magnetic torque.",
+    "topics_tags": [
+      "Torque",
+      "Magnetic Field",
+      "Rectangular Loop"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the rectangular loop in a magnetic field.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796511/ncert/physics/4/img_26_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.25",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 4,
+    "chapter_name": "moving charges and magnetism",
+    "question_type": "numerical",
+    "question_text": "A circular coil of 20 turns and radius 10 cm is placed in a uniform magnetic field of 0.10 T normal to the plane of the coil. If the current in the coil is 5.0 A, what is the total torque on the coil, total force on the coil, average force on each electron in the coil due to the magnetic field?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The total torque on the coil is zero because the field is uniform. The total force on the coil is zero because the field is uniform.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify that the magnetic field is uniform, leading to zero torque.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Conclude that the total force is also zero due to uniform magnetic field.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, both the total torque and total force on the coil are zero.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram related to the circular coil and magnetic field",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796536/ncert/physics/4/img_28_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of magnetic fields and their effects on coils.",
+    "topics_tags": [
+      "Magnetic Field",
+      "Torque",
+      "Coil"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the circular coil and magnetic field",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796536/ncert/physics/4/img_28_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.26",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 4,
+    "chapter_name": "moving charges and magnetism",
+    "question_type": "mcq",
+    "question_text": "A solenoid 60 cm long and of radius 4.0 cm has 3 layers of windings of 300 turns each. A 2.0 cm long wire of mass 2.5 g lies inside the solenoid (near its centre) normal to its axis; both the wire and the axis of the solenoid are in the horizontal plane. The wire is connected through two leads parallel to the axis of the solenoid to an external battery which supplies a current of 6.0 A in the wire. What value of current (with appropriate sense of circulation) in the windings of the solenoid can support the weight of the wire? g = 9.8 m s−2",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The current flowing through the solenoid is 108 A.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the total number of turns in the solenoid.",
+        "expression": "n = 3 \\times 300 = 900"
+      },
+      {
+        "step_number": 2,
+        "description": "Use the weight of the wire to find the required current in the solenoid.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the current required in the solenoid to support the weight of the wire is 108 A.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram related to the solenoid and wire setup",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796538/ncert/physics/4/img_29_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps of calculation and understanding of magnetic forces.",
+    "topics_tags": [
+      "Solenoid",
+      "Magnetic Force",
+      "Current"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the solenoid and wire setup",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796538/ncert/physics/4/img_29_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.27",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 4,
+    "chapter_name": "moving charges and magnetism",
+    "question_type": "numerical",
+    "question_text": "A galvanometer coil has a resistance of 12 Ω and the metre shows full scale deflection for a current of 3 mA. How will you convert the metre into a voltmeter of range 0 to 18 V?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to the galvanometer and voltmeter conversion",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796541/ncert/physics/4/img_30_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Requires understanding of circuit design and calculations for conversion.",
+    "topics_tags": [
+      "Galvanometer",
+      "Voltmeter",
+      "Resistance"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the galvanometer and voltmeter conversion",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796541/ncert/physics/4/img_30_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.28",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 4,
+    "chapter_name": "Moving Charges and Magnetism",
+    "question_type": "numerical",
+    "question_text": "A galvanometer coil has a resistance of 15 Ω and the metre shows full scale deflection for a current of 4 mA. How will you convert the metre into an ammeter of range 0 to 6 A?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "A shunt resistor is to be connected in parallel with the galvanometer.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the resistance of the galvanometer and the full scale deflection current.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Determine the required current range for the ammeter.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the value of the shunt resistor needed to convert the galvanometer into an ammeter.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Hence, a shunt resistor is to be connected in parallel with the galvanometer.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagrams related to the conversion of galvanometer into an ammeter.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796549/ncert/physics/4/img_31_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of circuit concepts and calculations for shunt resistor.",
+    "topics_tags": [
+      "Galvanometer",
+      "Ammeter",
+      "Shunt Resistor",
+      "Electrical Circuits"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagrams related to the conversion of galvanometer into an ammeter.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796549/ncert/physics/4/img_31_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      },
+      {
+        "present": true,
+        "description": "Diagram showing the shunt resistor connection for the galvanometer.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796552/ncert/physics/4/img_32_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  }
+]

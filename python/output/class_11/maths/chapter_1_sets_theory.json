@@ -1,0 +1,3233 @@
+[
+  {
+    "question_id": "Q1.1",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "sets theory",
+    "question_type": "conceptual",
+    "question_text": "Which of the following are sets? Justify our answer. (i) The collection of all months of a year beginning with the letter J. (ii) The collection of ten most talented writers of India. (iii) A team of eleven best-cricket batsmen of the world. (iv) The collection of all boys in your class. (v) The collection of all natural numbers less than 100. (vi) A collection of novels written by the writer Munshi Prem Chand. (vii) The collection of all even integers. (viii) The collection of questions in this Chapter. (ix) A collection of most dangerous animals of the world.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "(i) The collection of all months of a year beginning with the letter J is a well-defined collection of objects because one can definitely identify a month that belongs to this collection. Hence, this collection is a set. (ii) The collection of ten most talented writers of India is not a well-defined collection because the criteria for determining a writer's talent may vary from person to person. Hence, this collection is not a set. (iii) A team of eleven best cricket batsmen of the world is not a well-defined collection because the criteria for determining a batsman's talent may vary from person to person. Hence, this collection is not a set. (iv) The collection of all boys in your class is a well-defined collection because you can definitely identify a boy who belongs to this collection. Hence, this collection is a set. (v) The collection of all natural numbers less than 100 is a well-defined collection because one can definitely identify a number that belongs to this collection. Hence, this collection is a set. (vi) A collection of novels written by the writer Munshi Prem Chand is a well-defined collection because one can definitely identify a book that belongs to this collection. Hence, this collection is a set. (vii) The collection of all even integers is a well-defined collection because one can definitely identify an even integer that belongs to this collection. Hence, this collection is a set. (viii) The collection of questions in this chapter is a well-defined collection because one can definitely identify a question that belongs to this chapter. Hence, this collection is a set. (ix) The collection of most dangerous animals of the world is not a well-defined collection because the criteria for determining the dangerousness of an animal can vary from person to person. Hence, this collection is not a set.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of set definitions and justification.",
+    "topics_tags": [
+      "Sets",
+      "Set Theory",
+      "Mathematics"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.2",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "sets theory",
+    "question_type": "conceptual",
+    "question_text": "Let A = {1, 2, 3, 4, 5, 6}. Insert the appropriate symbol or in the blank spaces: (i) 5…A (ii) 8…A (iii) 0…A (iv) 4…A (v) 2…A (vi) 10…A",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "(i) 5 ∈ A (ii) 8 ∉ A (iii) 0 ∉ A (iv) 4 ∈ A (v) 2 ∈ A (vi) 10 ∉ A",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct application of set membership.",
+    "topics_tags": [
+      "Set Membership",
+      "Sets",
+      "Mathematics"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.3",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "sets theory",
+    "question_type": "conceptual",
+    "question_text": "Write the following sets in roster form: (i) A = {x: x is an integer and -3 < x < 7}. (ii) B = {x: x is a natural number less than 6}. (iii) C = {x: x is a two-digit natural number such that the sum of its digits is 8} (iv) D = {x: x is a prime number which is divisor of 60}. (v) E = The set of all letters in the word TRIGONOMETRY. (vi) F = The set of all letters in the word BETTER.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "(i) A = {-2, -1, 0, 1, 2, 3, 4, 5, 6} (ii) B = {1, 2, 3, 4, 5} (iii) C = {17, 26, 35, 44, 53, 62, 71, 80} (iv) D = {2, 3, 5} (v) E = {T, R, I, G, O, N, M, E, Y} (vi) F = {B, E, T, R}",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of roster form and set definitions.",
+    "topics_tags": [
+      "Roster Form",
+      "Sets",
+      "Mathematics"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.4",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "sets theory",
+    "question_type": "conceptual",
+    "question_text": "List all the elements of the following sets: (i) A = {x: x is an odd natural number} (ii) B = {x: x is an integer} (iii) C = {x: x is an integer} (iv) D = {x: x is a letter in the word “LOYAL“} (v) E = {x: x is a month of a year not having 31 days} (vi) F = {x: x is a consonant in the English alphabet which precedes k}.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Images showing sets and their elements.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777822265/ncert/maths/1/img_4_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "(i) A = {1, 3, 5, 7, 9, ...} (ii) B = {x: x is an integer} (iii) C = {x: x is an integer} (iv) D = {L, O, Y, A} (v) E = {February, April, June, September, November} (vi) F = {b, c, d, f, g, h, j}.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the elements of the sets are listed as described.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of set notation and listing elements.",
+    "topics_tags": [
+      "Set Theory",
+      "Natural Numbers",
+      "Integers",
+      "Letters",
+      "Months"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Images showing sets and their elements.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777822265/ncert/maths/1/img_4_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.4",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "sets theory",
+    "question_type": "conceptual",
+    "question_text": "Which of the following are examples of the null set: (i) Set of odd natural numbers divisible by 2 (ii) Set of even prime numbers (iii) {x:x is a natural number, x < 5 and x > 7} (iv) {y:y is a point common to any two parallel lines}.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "(i) Null set because no odd number is divisible by 2. (ii) Not a null set because 2 is an even prime number. (iii) Null set because no number can be less than 5 and greater than 7 simultaneously. (iv) Null set because parallel lines do not intersect.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the examples of null sets are (i), (iii), and (iv).",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of null sets and logical reasoning.",
+    "topics_tags": [
+      "Null Set",
+      "Set Theory",
+      "Prime Numbers",
+      "Parallel Lines"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.6",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "sets theory",
+    "question_type": "conceptual",
+    "question_text": "State whether each of the following set is finite or infinite:\n(i) The set of lines which are parallel to the x-axis\n(ii) The set of letters in the English alphabet\n(iii) The set of numbers which are multiple of 5\n(iv) The set of animals living on the earth\n(v) The set of circles passing through the origin (0, 0)",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "(i) The set of lines which are parallel to the x-axis is an infinite set because lines parallel to the x-axis are infinite in number.\n(ii) The set of letters in the English alphabet is a finite set because it has 26 elements.\n(iii) The set of numbers which are multiple of 5 is an infinite set because multiples of 5 are infinite in number.\n(iv) The set of animals living on the earth is a finite set because the number of animals living on the earth is finite (although it is quite a big number).\n(v) The set of circles passing through the origin (0, 0) is an infinite set because infinite number of circles can pass through the origin.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the sets are classified as finite or infinite based on their definitions.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of finite and infinite sets.",
+    "topics_tags": [
+      "Set Theory",
+      "Finite Sets",
+      "Infinite Sets"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.6",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "sets theory",
+    "question_type": "conceptual",
+    "question_text": "In the following, state whether A = B or not:\n(i) A = {a, b, c, d}; B = {d, c, b, a}\n(ii) A = {4, 8, 12, 16}; B = {8, 4, 16, 18}\n(iii) A = {2, 4, 6, 8, 10}; B = {x: x is positive even integer and x ≤ 10}\n(iv) A = {x: x is a multiple of 10}; B = {10, 15, 20, 25, 30 ...}",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "(i) A = {a, b, c, d}; B = {d, c, b, a}\nThe order in which the elements of a set are listed is not significant.\nA = B\n(ii) A = {4, 8, 12, 16}; B = {8, 4, 16, 18}\nIt can be seen that 12 ∉ B.\nA ≠ B\n(iii) A = {2, 4, 6, 8, 10}; B = {x: x is a positive even integer and x ≤ 10} = {2, 4, 6, 8, 10}\nA = B\n(iv) A = {x: x is a multiple of 10}; B = {10, 15, 20, 25, 30 ...}\nIt can be seen that 15 ∉ A.\nA ≠ B.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, A = B for (i) and (iii), while A ≠ B for (ii) and (iv).",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of set equality and properties.",
+    "topics_tags": [
+      "Set Equality",
+      "Set Theory",
+      "Mathematical Reasoning"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.6",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "sets theory",
+    "question_type": "conceptual",
+    "question_text": "Are the following pair of sets equal? Give reasons.\n(i) A = {2, 3}; B = {x: x is solution of x^2 + 5x + 6 = 0}\n(ii) A = {x: x is a letter in the word FOLLOW}; B = {y: y is a letter in the word WOLF}",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "(i) A = {2, 3}; B = {x: x is a solution of x^2 + 5x + 6 = 0}\nThe equation x^2 + 5x + 6 = 0 can be solved as:\n(x + 2)(x + 3) = 0\nx = -2 or x = -3\nA = {2, 3}; B = {-2, -3}\nA ≠ B\n(ii) A = {x: x is a letter in the word FOLLOW} = {F, O, L, W}\nB = {y: y is a letter in the word WOLF} = {W, O, L, F}\nThe order in which the elements of a set are listed is not significant.\nA = B.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, A ≠ B for (i) and A = B for (ii).",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of set equality and solving quadratic equations.",
+    "topics_tags": [
+      "Set Equality",
+      "Quadratic Equations",
+      "Set Theory"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.6",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "sets theory",
+    "question_type": "conceptual",
+    "question_text": "From the sets given below, select equal sets:\nA = {2, 4, 8, 12}, B = {1, 2, 3, 4}, C = {4, 8, 12, 14}, D = {3, 1, 4, 2}, E = {-1, 1}, F = {0, a}, G = {1, -1}, H = {0, 1}",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "It can be seen that B = D and E = G.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, among the given sets, B = D and E = G.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of set equality and properties.",
+    "topics_tags": [
+      "Set Equality",
+      "Set Theory",
+      "Mathematical Reasoning"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.10",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "sets theory",
+    "question_type": "conceptual",
+    "question_text": "Show that A ∩ B = A ∩ C need not imply B = C.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Let A = {0, 1}, B = {0, 2, 3}, and C = {0, 4, 5}. Accordingly, A ∩ B = {0} and A ∩ C = {0}. Here, A ∩ B = A ∩ C = {0}. However, B ≠ C.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the statement is proven.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of set intersections and counterexamples.",
+    "topics_tags": [
+      "Set Theory",
+      "Counterexample",
+      "Set Operations"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.11",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "sets theory",
+    "question_type": "conceptual",
+    "question_text": "Let A and B be sets. If A ∩ X = B ∩ X = ∅ and A ∪ X = B ∪ X for some set X, show that A = B.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Let A and B be two sets such that A ∩ X = B ∩ X = ∅ and A ∪ X = B ∪ X for some set X. To show: A = B. It can be seen that A = A ∩ (A ∪ X) = A ∩ (B ∪ X) = (A ∩ B) ∪ (A ∩ X) = (A ∩ B) ∪ ∅ = A ∩ B.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Hence, A = B is proven.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of set operations and logical reasoning.",
+    "topics_tags": [
+      "Set Theory",
+      "Set Equality",
+      "Set Operations"
+    ],
+    "confidence_score": 0.94,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.12",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "sets theory",
+    "question_type": "conceptual",
+    "question_text": "Find sets A, B and C such that A ∩ B, B ∩ C and A ∩ C are non-empty sets and A ∩ B ∩ C = ∅.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Let A = {0, 1}, B = {1, 2}, and C = {2, 0}. Accordingly, A ∩ B = {1}, B ∩ C = {2}, and A ∩ C = {0}. A ∩ B, B ∩ C, and A ∩ C are non-empty. However, A ∩ B ∩ C = ∅.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the sets A, B, and C are found as required.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires constructing sets based on given conditions.",
+    "topics_tags": [
+      "Set Theory",
+      "Set Construction",
+      "Set Operations"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.13",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "sets theory",
+    "question_type": "numerical",
+    "question_text": "In a survey of 600 students in a school, 150 students were found to be taking tea and 225 taking coffee, 100 were taking both tea and coffee. Find how many students were taking neither tea nor coffee?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Let U be the set of all students who took part in the survey. Let T be the set of students taking tea. Let C be the set of students taking coffee. Accordingly, n(U) = 600, n(T) = 150, n(C) = 225, n(T ∩ C) = 100. To find: Number of students taking neither tea nor coffee i.e., we have to find n(T' ∩ C'). n(T' ∩ C') = n(U) - n(T ∪ C) = 600 - [150 + 225 - 100] = 600 - 275 = 325.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Hence, 325 students were taking neither tea nor coffee.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic set operations and calculations.",
+    "topics_tags": [
+      "Set Theory",
+      "Survey Analysis",
+      "Set Operations"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.14",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "sets theory",
+    "question_type": "conceptual",
+    "question_text": "Write the following as intervals: (i) {x: x R, -4 < x ≤ 6} (ii) {x: x R, -12 < x < -10} (iii) {x: R, 0 ≤ x < 7} (iv) {x: R, 3 ≤ x ≤ 4}",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "{x: x R, -4 < x ≤ 6}",
+        "part_latex": null,
+        "answer_text": "(-4, 6]",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "{x: x R, -12 < x < -10}",
+        "part_latex": null,
+        "answer_text": "(-12, -10)",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "{x: R, 0 ≤ x < 7}",
+        "part_latex": null,
+        "answer_text": "[0, 7)",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iv)",
+        "part_text": "{x: R, 3 ≤ x ≤ 4}",
+        "part_latex": null,
+        "answer_text": "[3, 4]",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Simple conversion of set notation to interval notation.",
+    "topics_tags": [
+      "Set Notation",
+      "Intervals",
+      "Real Numbers"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.15",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "sets theory",
+    "question_type": "conceptual",
+    "question_text": "What universal set (s) would you propose for each of the following: (i) The set of right triangles (ii) The set of isosceles triangles",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "For the set of right triangles, the universal set can be the set of triangles or the set of polygons. For the set of isosceles triangles, the universal set can be the set of triangles or the set of polygons or the set of two-dimensional figures.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of universal sets in geometry.",
+    "topics_tags": [
+      "Universal Set",
+      "Triangles",
+      "Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.16",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "sets theory",
+    "question_type": "numerical",
+    "question_text": "In a survey it was found that 21 people liked product A, 26 liked product B and 29 liked product C. If 14 people liked products A and B, 12 people liked products C and A, 14 people liked products B and C and 8 liked all the three products. Find how many liked product C only.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Venn diagram for the survey of product preferences.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777822302/ncert/maths/1/img_45_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "It can be seen that number of people who like product C only is 11.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the number of people who like product C only using the total and overlaps.",
+        "expression": "29 - (4 + 8 + 6)"
+      },
+      {
+        "step_number": 2,
+        "description": "Determine the final count of people who like product C only.",
+        "expression": "11"
+      }
+    ],
+    "final_answer": "Therefore, 11 people liked product C only.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires basic arithmetic and understanding of set intersections.",
+    "topics_tags": [
+      "Set Theory",
+      "Venn Diagram",
+      "Product Preference"
+    ],
+    "confidence_score": 0.94,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Venn diagram for the survey of product preferences.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777822302/ncert/maths/1/img_45_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.17",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "sets theory",
+    "question_type": "multipart",
+    "question_text": "Find the union of each of the following pairs of sets:\n(i) X = {1, 3, 5} Y = {1, 2, 3}\n(ii) A = {a, e, i, o, u} B = {a, b, c}\n(iii) A = {x: x is a natural number and multiple of 3} B = {x: x is a natural number less than 6}\n(iv) A = {x: x is a natural number and 1 < x ≤ 6} B = {x: x is a natural number and 6 < x < 10}\n(v) A = {1, 2, 3}, B = Φ",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "X = {1, 3, 5} Y = {1, 2, 3}",
+        "part_latex": null,
+        "answer_text": "X ∪ Y = {1, 2, 3, 5}",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Combine all unique elements from both sets.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Therefore, the union is {1, 2, 3, 5}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "A = {a, e, i, o, u} B = {a, b, c}",
+        "part_latex": null,
+        "answer_text": "A ∪ B = {a, b, c, e, i, o, u}",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Combine all unique elements from both sets.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Therefore, the union is {a, b, c, e, i, o, u}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "A = {x: x is a natural number and multiple of 3} B = {x: x is a natural number less than 6}",
+        "part_latex": null,
+        "answer_text": "A ∪ B = {1, 2, 3, 4, 5, 6, 9, 12 ...}",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify elements in both sets and combine them.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Therefore, the union includes all natural numbers less than 6 and multiples of 3.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iv)",
+        "part_text": "A = {x: x is a natural number and 1 < x ≤ 6} B = {x: x is a natural number and 6 < x < 10}",
+        "part_latex": null,
+        "answer_text": "A ∪ B = {2, 3, 4, 5, 6, 7, 8, 9}",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Combine all unique elements from both sets.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Therefore, the union is {2, 3, 4, 5, 6, 7, 8, 9}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(v)",
+        "part_text": "A = {1, 2, 3}, B = Φ",
+        "part_latex": null,
+        "answer_text": "A ∪ B = {1, 2, 3}",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Since B is empty, the union is just A.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Therefore, the union is {1, 2, 3}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of set operations and basic union concepts.",
+    "topics_tags": [
+      "Set Theory",
+      "Union of Sets",
+      "Mathematics"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.18",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "sets theory",
+    "question_type": "conceptual",
+    "question_text": "Let A = {a, b}, B = {a, b, c}. Is A ⊆ B? What is A ∪ B?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Yes, A ⊆ B. A ∪ B = {a, b, c} = B.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, A is a subset of B and their union is B.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct application of subset and union definitions.",
+    "topics_tags": [
+      "Set Theory",
+      "Subset",
+      "Union of Sets"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.19",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "sets theory",
+    "question_type": "conceptual",
+    "question_text": "If A and B are two sets such that A ⊆ B, then what is A ∪ B?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "If A and B are two sets such that A ⊆ B, then A ∪ B = B.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the union of A and B is B.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct application of subset and union definitions.",
+    "topics_tags": [
+      "Set Theory",
+      "Subset",
+      "Union of Sets"
+    ],
+    "confidence_score": 0.99,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.20",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "sets theory",
+    "question_type": "multipart",
+    "question_text": "If A = {1, 2, 3, 4}, B = {3, 4, 5, 6}, C = {5, 6, 7, 8} and D = {7, 8, 9, 10}; find\n(i) A ∪ B\n(ii) A ∪ C\n(iii) B ∪ C\n(iv) B ∪ D\n(v) A ∪ B ∪ C\n(vi) A ∪ B ∪ D\n(vii) B ∪ C ∪ D",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "A ∪ B",
+        "part_latex": null,
+        "answer_text": "A ∪ B = {1, 2, 3, 4, 5, 6}",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Combine all unique elements from both sets.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Therefore, A ∪ B = {1, 2, 3, 4, 5, 6}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "A ∪ C",
+        "part_latex": null,
+        "answer_text": "A ∪ C = {1, 2, 3, 4, 5, 6, 7, 8}",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Combine all unique elements from both sets.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Therefore, A ∪ C = {1, 2, 3, 4, 5, 6, 7, 8}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "B ∪ C",
+        "part_latex": null,
+        "answer_text": "B ∪ C = {3, 4, 5, 6, 7, 8}",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Combine all unique elements from both sets.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Therefore, B ∪ C = {3, 4, 5, 6, 7, 8}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iv)",
+        "part_text": "B ∪ D",
+        "part_latex": null,
+        "answer_text": "B ∪ D = {3, 4, 5, 6, 7, 8, 9, 10}",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Combine all unique elements from both sets.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Therefore, B ∪ D = {3, 4, 5, 6, 7, 8, 9, 10}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(v)",
+        "part_text": "A ∪ B ∪ C",
+        "part_latex": null,
+        "answer_text": "A ∪ B ∪ C = {1, 2, 3, 4, 5, 6, 7, 8}",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Combine all unique elements from A, B, and C.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Therefore, A ∪ B ∪ C = {1, 2, 3, 4, 5, 6, 7, 8}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(vi)",
+        "part_text": "A ∪ B ∪ D",
+        "part_latex": null,
+        "answer_text": "A ∪ B ∪ D = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Combine all unique elements from A, B, and D.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Therefore, A ∪ B ∪ D = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(vii)",
+        "part_text": "B ∪ C ∪ D",
+        "part_latex": null,
+        "answer_text": "B ∪ C ∪ D = {3, 4, 5, 6, 7, 8, 9, 10}",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Combine all unique elements from B, C, and D.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Therefore, B ∪ C ∪ D = {3, 4, 5, 6, 7, 8, 9, 10}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of set operations and basic union concepts.",
+    "topics_tags": [
+      "Set Theory",
+      "Union of Sets",
+      "Mathematics"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.21",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "sets theory",
+    "question_type": "multipart",
+    "question_text": "Find the intersection of each pair of sets:\n(i) X = {1, 3, 5} Y = {1, 2, 3}\n(ii) A = {a, e, i, o, u} B = {a, b, c}\n(iii) A = {x: x is a natural number and multiple of 3} B = {x: x is a natural number less than 6}\n(iv) A = {x: x is a natural number and 1 < x ≤ 6} B = {x: x is a natural number and 6 < x < 10}\n(v) A = {1, 2, 3}, B = Φ",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "X = {1, 3, 5}, Y = {1, 2, 3}",
+        "part_latex": null,
+        "answer_text": "X ∩ Y = {1, 3}",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify common elements in both sets.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Therefore, the intersection is {1, 3}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "A = {a, e, i, o, u}, B = {a, b, c}",
+        "part_latex": null,
+        "answer_text": "A ∩ B = {a}",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify common elements in both sets.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Therefore, the intersection is {a}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "A = {x: x is a natural number and multiple of 3}, B = {x: x is a natural number less than 6}",
+        "part_latex": null,
+        "answer_text": "A ∩ B = {3}",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify common elements in both sets.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Therefore, the intersection is {3}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iv)",
+        "part_text": "A = {x: x is a natural number and 1 < x ≤ 6}, B = {x: x is a natural number and 6 < x < 10}",
+        "part_latex": null,
+        "answer_text": "A ∩ B = Φ",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify common elements in both sets.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Therefore, the intersection is empty.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(v)",
+        "part_text": "A = {1, 2, 3}, B = Φ",
+        "part_latex": null,
+        "answer_text": "A ∩ B = Φ",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Since B is empty, the intersection is empty.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Therefore, the intersection is empty.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of set operations and basic intersection concepts.",
+    "topics_tags": [
+      "Set Theory",
+      "Intersection of Sets",
+      "Mathematics"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.22",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "sets theory",
+    "question_type": "conceptual",
+    "question_text": "If A = {x: x is a natural number}, B = {x: x is an even natural number}, C = {x: x is an odd natural number} and D = {x: x is a prime number}, find (i) A ∩ B (ii) A ∩ C (iii) A ∩ D (iv) B ∩ C (v) B ∩ D (vi) C ∩ D.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "(i) A ∩ B = {x: x is an even natural number} = B\n(ii) A ∩ C = {x: x is an odd natural number} = C\n(iii) A ∩ D = {x: x is a prime number} = D\n(iv) B ∩ C = Φ\n(v) B ∩ D = {2}\n(vi) C ∩ D = {x: x is an odd prime number}.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the intersections are defined as stated above.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of set operations and definitions.",
+    "topics_tags": [
+      "Set Theory",
+      "Intersections",
+      "Natural Numbers"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.23",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "sets theory",
+    "question_type": "conceptual",
+    "question_text": "Which of the following pairs of sets are disjoint: (i) {1, 2, 3, 4} and {x: x is a natural number and 4 ≤ x ≤ 6} (ii) {a, e, i, o, u} and {c, d, e, f} (iii) {x: x is an even integer} and {x: x is an odd integer}.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "(i) {1, 2, 3, 4} ∩ {4, 5, 6} = {4}, not disjoint.\n(ii) {a, e, i, o, u} ∩ {c, d, e, f} = {e}, not disjoint.\n(iii) {x: x is an even integer} ∩ {x: x is an odd integer} = Φ, disjoint.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, only the third pair of sets is disjoint.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves understanding of disjoint sets and basic set operations.",
+    "topics_tags": [
+      "Set Theory",
+      "Disjoint Sets",
+      "Intersections"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.24",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "sets theory",
+    "question_type": "conceptual",
+    "question_text": "If A = {3, 6, 9, 12, 15, 18, 21}, B = {4, 8, 12, 16, 20}, C = {2, 4, 6, 8, 10, 12, 14, 16}, D = {5, 10, 15, 20}; find (i) A - B (ii) A - C (iii) A - D (iv) B - A (v) C - A (vi) D - A (vii) B - C (viii) B - D (ix) C - B (x) D - B (xi) C - D (xii) D - C.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires multiple set operations and understanding of set differences.",
+    "topics_tags": [
+      "Set Theory",
+      "Set Difference",
+      "Natural Numbers"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.25",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "sets theory",
+    "question_type": "conceptual",
+    "question_text": "If X = {a, b, c, d} and Y = {f, b, d, g}, find (i) X - Y (ii) Y - X (iii) X ∩ Y",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "(i) X - Y = {a, c} (ii) Y - X = {f, g} (iii) X ∩ Y = {b, d}",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the difference of sets X and Y.",
+        "expression": "X - Y = {a, c}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the difference of sets Y and X.",
+        "expression": "Y - X = {f, g}"
+      },
+      {
+        "step_number": 3,
+        "description": "Find the intersection of sets X and Y.",
+        "expression": "X ∩ Y = {b, d}"
+      }
+    ],
+    "final_answer": "Thus, the results are X - Y = {a, c}, Y - X = {f, g}, and X ∩ Y = {b, d}.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of set operations and basic calculations.",
+    "topics_tags": [
+      "Set Operations",
+      "Difference of Sets",
+      "Intersection of Sets"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.26",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "sets theory",
+    "question_type": "conceptual",
+    "question_text": "If R is the set of real numbers and Q is the set of rational numbers, then what is R - Q?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "R - Q is a set of irrational numbers.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, R - Q represents all irrational numbers.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct application of set theory concepts.",
+    "topics_tags": [
+      "Real Numbers",
+      "Rational Numbers",
+      "Irrational Numbers"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.27",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "sets theory",
+    "question_type": "conceptual",
+    "question_text": "State whether each of the following statement is true or false. Justify your answer. (i) {2, 3, 4, 5} and {3, 6} are disjoint sets. (ii) {a, e, i, o, u} and {a, b, c, d} are disjoint sets. (iii) {2, 6, 10, 14} and {3, 7, 11, 15} are disjoint sets. (iv) {2, 6, 10} and {3, 7, 11} are disjoint sets.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "(i) False, (ii) False, (iii) True, (iv) True.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Check if {2, 3, 4, 5} and {3, 6} have common elements.",
+        "expression": "{2, 3, 4, 5} ∩ {3, 6} = {3}"
+      },
+      {
+        "step_number": 2,
+        "description": "Check if {a, e, i, o, u} and {a, b, c, d} have common elements.",
+        "expression": "{a, e, i, o, u} ∩ {a, b, c, d} = {a}"
+      },
+      {
+        "step_number": 3,
+        "description": "Check if {2, 6, 10, 14} and {3, 7, 11, 15} have common elements.",
+        "expression": "{2, 6, 10, 14} ∩ {3, 7, 11, 15} = Φ"
+      },
+      {
+        "step_number": 4,
+        "description": "Check if {2, 6, 10} and {3, 7, 11} have common elements.",
+        "expression": "{2, 6, 10} ∩ {3, 7, 11} = Φ"
+      }
+    ],
+    "final_answer": "Thus, the statements are: (i) False, (ii) False, (iii) True, (iv) True.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of disjoint sets and justification.",
+    "topics_tags": [
+      "Disjoint Sets",
+      "Set Theory",
+      "Set Operations"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.28",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "sets theory",
+    "question_type": "multipart",
+    "question_text": "Taking the set of natural numbers as the universal set, write down the complements of the following sets:\n(i) {x: x is an even natural number}\n(ii) {x: x is an odd natural number}\n(iii) {x: x is a positive multiple of 3}\n(iv) {x: x is a prime number}\n(v) {x: x is a natural number divisible by 3 and 5}\n(vi) {x: x is a perfect square}\n(vii) {x: x is perfect cube}\n(viii) {x: x + 5 = 8}\n(ix) {x: 2x + 5 = 9}\n(x) {x: x ≥ 7}\n(xi) {x: x ∈ N and 2x + 1 > 10}",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Images related to the question about set complements.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777822278/ncert/maths/1/img_25_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "{x: x is an even natural number}",
+        "part_latex": null,
+        "answer_text": "{x: x is an odd natural number}",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "The complement of the set of even natural numbers is the set of odd natural numbers.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "{x: x is an odd natural number}",
+        "part_latex": null,
+        "answer_text": "{x: x is an even natural number}",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "The complement of the set of odd natural numbers is the set of even natural numbers.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "{x: x is a positive multiple of 3}",
+        "part_latex": null,
+        "answer_text": "{x: x ∈ N and x is not a multiple of 3}",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "The complement of the set of positive multiples of 3 is the set of natural numbers that are not multiples of 3.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iv)",
+        "part_text": "{x: x is a prime number}",
+        "part_latex": null,
+        "answer_text": "{x: x is a positive composite number and x = 1}",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "The complement of the set of prime numbers includes positive composite numbers and the number 1.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(v)",
+        "part_text": "{x: x is a natural number divisible by 3 and 5}",
+        "part_latex": null,
+        "answer_text": "{x: x is a natural number that is not divisible by 3 or 5}",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "The complement of the set of natural numbers divisible by 3 and 5 is the set of natural numbers that are not divisible by either.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(vi)",
+        "part_text": "{x: x is a perfect square}",
+        "part_latex": null,
+        "answer_text": "{x: x ∈ N and x is not a perfect square}",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "The complement of the set of perfect squares is the set of natural numbers that are not perfect squares.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(vii)",
+        "part_text": "{x: x is a perfect cube}",
+        "part_latex": null,
+        "answer_text": "{x: x ∈ N and x is not a perfect cube}",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "The complement of the set of perfect cubes is the set of natural numbers that are not perfect cubes.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(viii)",
+        "part_text": "{x: x + 5 = 8}",
+        "part_latex": null,
+        "answer_text": "{x: x ∈ N and x ≠ 3}",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "The complement of the set where x + 5 = 8 is the set of natural numbers excluding 3.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ix)",
+        "part_text": "{x: 2x + 5 = 9}",
+        "part_latex": null,
+        "answer_text": "{x: x ∈ N and x ≠ 2}",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "The complement of the set where 2x + 5 = 9 is the set of natural numbers excluding 2.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(x)",
+        "part_text": "{x: x ≥ 7}",
+        "part_latex": null,
+        "answer_text": "{x: x ∈ N and x < 7}",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "The complement of the set where x is greater than or equal to 7 is the set of natural numbers less than 7.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(xi)",
+        "part_text": "{x: x ∈ N and 2x + 1 > 10}",
+        "part_latex": null,
+        "answer_text": "{x: x ∈ N and x ≤ 9/2}",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "The complement of the set where 2x + 1 > 10 is the set of natural numbers less than or equal to 4.5.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of set complements and multiple applications.",
+    "topics_tags": [
+      "Set Theory",
+      "Natural Numbers",
+      "Complements"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Images related to the question about set complements.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777822278/ncert/maths/1/img_25_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.29",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "sets theory",
+    "question_type": "numerical",
+    "question_text": "If X and Y are two sets such that n(X) = 17, n(Y) = 23 and n(X ∪ Y) = 38, find n(X ∩ Y).",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the relationship between sets X and Y.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777822290/ncert/maths/1/img_29_1.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "We know that n(X ∪ Y) = n(X) + n(Y) - n(X ∩ Y). Therefore, n(X ∩ Y) = n(X) + n(Y) - n(X ∪ Y).",
+    "answer_latex": "n(X ∩ Y) = n(X) + n(Y) - n(X ∪ Y) = 17 + 23 - 38 = 2",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Use the formula for the union of two sets.",
+        "expression": "n(X ∪ Y) = n(X) + n(Y) - n(X ∩ Y)"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the known values into the formula.",
+        "expression": "n(X ∩ Y) = 17 + 23 - 38"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the number of elements in the intersection.",
+        "expression": "n(X ∩ Y) = 2"
+      }
+    ],
+    "final_answer": "Thus, n(X ∩ Y) = 2.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of set operations and basic arithmetic.",
+    "topics_tags": [
+      "Set Theory",
+      "Union of Sets",
+      "Intersection of Sets"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the relationship between sets X and Y.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777822290/ncert/maths/1/img_29_1.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.30",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "sets theory",
+    "question_type": "numerical",
+    "question_text": "In a group of 400 people, 250 can speak Hindi and 200 can speak English. How many people can speak both Hindi and English?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the number of people speaking Hindi and English.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777822292/ncert/maths/1/img_30_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Let H be the set of people who speak Hindi, and E be the set of people who speak English. We know that n(H ∪ E) = n(H) + n(E) - n(H ∩ E).",
+    "answer_latex": "n(H ∩ E) = n(H) + n(E) - n(H ∪ E) = 250 + 200 - 400 = 50",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the sets and their sizes.",
+        "expression": "n(H) = 250, n(E) = 200, n(H ∪ E) = 400"
+      },
+      {
+        "step_number": 2,
+        "description": "Use the formula for the union of two sets.",
+        "expression": "n(H ∪ E) = n(H) + n(E) - n(H ∩ E)"
+      },
+      {
+        "step_number": 3,
+        "description": "Substitute the known values into the formula.",
+        "expression": "n(H ∩ E) = 250 + 200 - 400"
+      },
+      {
+        "step_number": 4,
+        "description": "Calculate the number of people who can speak both languages.",
+        "expression": "n(H ∩ E) = 50"
+      }
+    ],
+    "final_answer": "Thus, 50 people can speak both Hindi and English.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of set operations and basic arithmetic.",
+    "topics_tags": [
+      "Set Theory",
+      "Union of Sets",
+      "Intersection of Sets"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the number of people speaking Hindi and English.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777822292/ncert/maths/1/img_30_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.31",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "sets theory",
+    "question_type": "numerical",
+    "question_text": "If X and Y are two sets such that X has 40 elements, X ∪ Y has 60 elements and X ∩ Y has 10 elements, how many elements does Y have?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Thus, the set Y has 30 elements.",
+    "answer_latex": "n(Y) = 30",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Use the formula for the union of two sets.",
+        "expression": "n(X ∪ Y) = n(X) + n(Y) - n(X ∩ Y)"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the known values into the formula.",
+        "expression": "60 = 40 + n(Y) - 10"
+      },
+      {
+        "step_number": 3,
+        "description": "Solve for n(Y).",
+        "expression": "n(Y) = 60 - (40 - 10) = 30"
+      }
+    ],
+    "final_answer": "Therefore, the number of elements in set Y is 30.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of set operations and basic algebra.",
+    "topics_tags": [
+      "Set Theory",
+      "Union of Sets",
+      "Cardinality"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.32",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "sets theory",
+    "question_type": "numerical",
+    "question_text": "In a group of 70 people, 37 like coffee, 52 like tea, and each person likes at least one of the two drinks. How many people like both coffee and tea?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Thus, 19 people like both coffee and tea.",
+    "answer_latex": "n(C ∩ T) = 19",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Use the formula for the union of two sets.",
+        "expression": "n(C ∪ T) = n(C) + n(T) - n(C ∩ T)"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the known values into the formula.",
+        "expression": "70 = 37 + 52 - n(C ∩ T)"
+      },
+      {
+        "step_number": 3,
+        "description": "Solve for n(C ∩ T).",
+        "expression": "n(C ∩ T) = 89 - 70 = 19"
+      }
+    ],
+    "final_answer": "Therefore, the number of people who like both coffee and tea is 19.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of set operations and basic algebra.",
+    "topics_tags": [
+      "Set Theory",
+      "Union of Sets",
+      "Cardinality"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.33",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "sets theory",
+    "question_type": "numerical",
+    "question_text": "In a group of 65 people, 40 like cricket, 10 like both cricket and tennis. How many like tennis only and not cricket? How many like tennis?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Thus, 25 people like only tennis and 35 people like tennis.",
+    "answer_latex": "n(T - C) = 25, n(T) = 35",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Use the formula for the union of two sets.",
+        "expression": "n(C ∪ T) = n(C) + n(T) - n(C ∩ T)"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the known values into the formula.",
+        "expression": "65 = 40 + n(T) - 10"
+      },
+      {
+        "step_number": 3,
+        "description": "Solve for n(T).",
+        "expression": "n(T) = 65 - 30 = 35"
+      },
+      {
+        "step_number": 4,
+        "description": "Calculate the number of people who like only tennis.",
+        "expression": "n(T - C) = n(T) - n(C ∩ T) = 35 - 10 = 25"
+      }
+    ],
+    "final_answer": "Therefore, 25 people like only tennis and 35 people like tennis.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of set operations and basic algebra.",
+    "topics_tags": [
+      "Set Theory",
+      "Union of Sets",
+      "Cardinality"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.34",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "sets theory",
+    "question_type": "mcq",
+    "question_text": "Let A, B and C be the sets such that A ⊆ B = A ⊆ C and A ∩ B = A ∩ C. Show that B = C.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image related to set theory concepts.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777822295/ncert/maths/1/img_34_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "To show: B = C. Let x ∈ B. Since A ⊆ B, we have x ∈ A and x ∈ C. Similarly, we can show that C ⊆ B. Therefore, B = C.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Assume x is an element of set B.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Since A is a subset of B, x must also be in A.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Since A is also a subset of C, x must be in C.",
+        "expression": null
+      },
+      {
+        "step_number": 4,
+        "description": "Show that if x is in C, then C is a subset of B.",
+        "expression": null
+      },
+      {
+        "step_number": 5,
+        "description": "Conclude that B = C.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, we conclude that B = C.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of set theory and logical reasoning.",
+    "topics_tags": [
+      "Set Theory",
+      "Subset",
+      "Equality of Sets"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "mixed_or_weak_context"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image related to set theory concepts.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777822295/ncert/maths/1/img_34_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.35",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "sets theory",
+    "question_type": "conceptual",
+    "question_text": "Show that the following four conditions are equivalent: (i) A ⊆ B (ii) A - B = Φ (iii) A ∩ B = B (iv) A ∪ B = A.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image related to set theory conditions.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777822296/ncert/maths/1/img_35_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "To show: (i) implies (ii). Assume A ⊆ B. If A - B ≠ Φ, then there exists x ∈ A such that x ∉ B, which contradicts A ⊆ B. Therefore, A - B = Φ.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Assume A is a subset of B.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Assume A - B is not empty.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Show that this leads to a contradiction.",
+        "expression": null
+      },
+      {
+        "step_number": 4,
+        "description": "Conclude that A - B must be empty.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, we conclude that A - B = Φ.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves logical reasoning and understanding of set operations.",
+    "topics_tags": [
+      "Set Theory",
+      "Subset",
+      "Set Operations"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "mixed_or_weak_context"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image related to set theory conditions.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777822296/ncert/maths/1/img_35_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.36",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "sets theory",
+    "question_type": "conceptual",
+    "question_text": "Show that if A ⊆ B, then C - B ⊆ C - A.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Let A ⊆ B. To show: C - B ⊆ C - A. Let x ∈ C - B. Then, x ∈ C and x ∉ B. Since A ⊆ B, it follows that x ∉ A. Therefore, x ∈ C - A. Hence, C - B ⊆ C - A.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Assume x is an element of C - B.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Show that x is also in C and not in B.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Since A is a subset of B, conclude that x is not in A.",
+        "expression": null
+      },
+      {
+        "step_number": 4,
+        "description": "Conclude that x is in C - A.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, C - B ⊆ C - A.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of set theory and basic logical reasoning.",
+    "topics_tags": [
+      "Set Theory",
+      "Subset",
+      "Set Difference"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.37",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "sets theory",
+    "question_type": "mcq",
+    "question_text": "Assume that P(A) = P(B). Show that A = B.",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "= P"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": ". Show that A = B."
+      }
+    ],
+    "correct_option": "(A)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Let P(A) = P(B). To show: A = B. Let x ∈ A. Then, x ∈ P(A) implies x ∈ P(B), hence x ∈ B. Similarly, let x ∈ B, then x ∈ A. Therefore, A = B.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Assume x is an element of A.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Since P(A) = P(B), conclude that x is also in B.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Repeat the argument for an element of B to show it is in A.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, A = B.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves understanding of power sets and basic set equality.",
+    "topics_tags": [
+      "Set Theory",
+      "Power Set",
+      "Set Equality"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.38",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "sets theory",
+    "question_type": "mcq",
+    "question_text": "Is it true that for any sets A and B, P(A) ∩ P(B) = P(A ∩ B)? Justify your answer.",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "∩ P"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "= P(A ∩ B)? Justify your answer."
+      }
+    ],
+    "correct_option": "(A)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "False. Let A = {0, 1} and B = {1, 2}. Then, A ∩ B = {1}. P(A) = {∅, {0}, {1}, {0, 1}} and P(B) = {∅, {1}, {2}, {1, 2}}. P(A ∩ B) = {∅, {1}}. P(A) ∩ P(B) = {∅, {1}} ≠ P(A ∩ B).",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Define sets A and B.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate power sets P(A) and P(B).",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate P(A ∩ B).",
+        "expression": null
+      },
+      {
+        "step_number": 4,
+        "description": "Show that P(A) ∩ P(B) is not equal to P(A ∩ B).",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, P(A) ∩ P(B) ≠ P(A ∩ B).",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of power sets and intersection properties.",
+    "topics_tags": [
+      "Set Theory",
+      "Power Set",
+      "Intersection"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.39",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "sets theory",
+    "question_type": "mcq",
+    "question_text": "Show that for any sets A and B, A = (A ∩ B) ∪ (A - B) and A ∪ (B - A) = (A ∩ B).",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "To show: A = (A ∩ B) ∪ (A - B). Let x ∈ A. Then, x ∈ (A ∩ B) or x ∈ (A - B). Hence, A = (A ∩ B) ∪ (A - B). Similarly, A ∪ (B - A) = (A ∩ B).",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Assume x is an element of A.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Show that x is in either (A ∩ B) or (A - B).",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Conclude that A is equal to the union of these two sets.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, A = (A ∩ B) ∪ (A - B).",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of set operations and properties.",
+    "topics_tags": [
+      "Set Theory",
+      "Union",
+      "Intersection"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.9",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "sets theory",
+    "question_type": "mcq",
+    "question_text": "Using properties of sets show that (i) A ∩ (A ∪ B) = A (ii) A ∪ (A ∩ B) = A.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "(i) To show: A ∩ (A ∪ B) = A. We know that A ⊆ A ∪ B, hence A ∩ (A ∪ B) = A.\n(ii) To show: A ∪ (A ∩ B) = A. A ∪ (A ∩ B) = (A ∪ A) ∩ (A ∪ B) = A ∩ (A ∪ B) = A.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, both properties are verified.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of set properties and basic application.",
+    "topics_tags": [
+      "Set Theory",
+      "Set Operations",
+      "Properties of Sets"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  }
+]

@@ -1,0 +1,842 @@
+[
+  {
+    "question_id": "Q17.1",
+    "class": 11,
+    "subject": "biology",
+    "chapter_number": 17,
+    "chapter_name": "breathing and exchange of gases",
+    "question_type": "conceptual",
+    "question_text": "Define vital capacity. What is its significance?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Vital capacity is the maximum volume of air that can be exhaled after a maximum inspiration. It is about 3.5 - 4.5 litres in the human body. It promotes the act of supplying fresh air and getting rid of foul air, thereby increasing the gaseous exchange between the tissues and the environment.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, vital capacity is crucial for efficient gaseous exchange.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of respiratory concepts and their significance.",
+    "topics_tags": [
+      "Vital Capacity",
+      "Respiratory System",
+      "Gaseous Exchange"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q17.2",
+    "class": 11,
+    "subject": "biology",
+    "chapter_number": 17,
+    "chapter_name": "breathing and exchange of gases",
+    "question_type": "conceptual",
+    "question_text": "State the volume of air remaining in the lungs after a normal breathing.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The volume of air remaining in the lungs after a normal expiration is known as functional residual capacity (FRC). It includes expiratory reserve volume (ERV) and residual volume (RV). ERV is about 1000 mL to 1500 mL, and RV is about 1100 mL to 1500 mL. Therefore, FRC is approximately 2500 - 3000 mL.",
+    "answer_latex": "FRC = ERV + RV \\approx 1500 + 1500 \\approx 3000 \\text{ mL}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Define functional residual capacity as the sum of ERV and RV.",
+        "expression": "FRC = ERV + RV"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values for ERV and RV.",
+        "expression": "FRC \\approx 1500 + 1500"
+      }
+    ],
+    "final_answer": "Thus, the functional residual capacity of the human lungs is about 2500 - 3000 mL.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic understanding of lung volumes and their definitions.",
+    "topics_tags": [
+      "Functional Residual Capacity",
+      "Lung Volumes",
+      "Respiratory Physiology"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q17.3",
+    "class": 11,
+    "subject": "biology",
+    "chapter_number": 17,
+    "chapter_name": "breathing and exchange of gases",
+    "question_type": "conceptual",
+    "question_text": "Diffusion of gases occurs in the alveolar region only and not in the other parts of respiratory system. Why?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Each alveolus is made up of highly-permeable and thin layers of squamous epithelial cells. The blood capillaries also have layers of squamous epithelial cells. This structure allows for efficient gas exchange through simple diffusion due to pressure or concentration differences.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the alveoli are specialized for gaseous exchange due to their structure.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of respiratory anatomy and gas exchange mechanisms.",
+    "topics_tags": [
+      "Gas Exchange",
+      "Alveoli",
+      "Respiratory System"
+    ],
+    "confidence_score": 0.94,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q17.4",
+    "class": 11,
+    "subject": "biology",
+    "chapter_number": 17,
+    "chapter_name": "breathing and exchange of gases",
+    "question_type": "conceptual",
+    "question_text": "What are the major transport mechanisms for CO2? Explain.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Plasma and red blood cells transport carbon dioxide. About 7% of CO2 is carried in a dissolved state through plasma. About 20-25% is transported by red blood cells as carbaminohaemoglobin, and about 70% is transported as sodium bicarbonate.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, CO2 is primarily transported in three forms: dissolved in plasma, as carbaminohaemoglobin, and as sodium bicarbonate.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic understanding of gas transport mechanisms in the body.",
+    "topics_tags": [
+      "Carbon Dioxide Transport",
+      "Respiratory Physiology",
+      "Blood Chemistry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q17.5",
+    "class": 11,
+    "subject": "biology",
+    "chapter_number": 17,
+    "chapter_name": "breathing and exchange of gases",
+    "question_type": "mcq",
+    "question_text": "What will be the pO2 and pCO2 in the atmospheric air compared to those in the alveolar air?",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(i)",
+        "option_text": "pO2 lesser, pCO2 higher"
+      },
+      {
+        "option_label": "(ii)",
+        "option_text": "pO2 higher, pCO2 lesser"
+      },
+      {
+        "option_label": "(iii)",
+        "option_text": "pO2 higher, pCO2 higher"
+      },
+      {
+        "option_label": "(iv)",
+        "option_text": "pO2 lesser, pCO2 lesser"
+      }
+    ],
+    "correct_option": "(ii)",
+    "question_image": {
+      "present": true,
+      "description": "Diagram illustrating the transport of carbon dioxide in the blood.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777706319/ncert/biology/17/img_2_0.png",
+      "latex_extracted": "\\begin{array}{l}{{\\mathrm{CO_{2}+H_{2}O~{\\frac{C o n e n i o n i c}{\\mathrm{suarions}}}\\to H_{2}C O_{3}}}}\\\\ {{\\mathrm{\\M_{2}C O_{3}~{\\frac{\\ C o u p o n i c}{\\mathrm{\\ouponse}}}\\to H C O_{3}^{-}+H^{+}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The partial pressure of oxygen in atmospheric air is higher than that of oxygen in alveolar air. In atmospheric air, pO2 is about 159 mm Hg, while in alveolar air, it is about 104 mm Hg. Conversely, the partial pressure of carbon dioxide in atmospheric air is lesser than that in alveolar air.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the correct answer is (ii) pO2 higher, pCO2 lesser.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves understanding of gas pressures in different environments.",
+    "topics_tags": [
+      "Partial Pressure",
+      "Gas Exchange",
+      "Respiratory Physiology"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram illustrating the transport of carbon dioxide in the blood.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777706319/ncert/biology/17/img_2_0.png",
+        "latex_extracted": "\\begin{array}{l}{{\\mathrm{CO_{2}+H_{2}O~{\\frac{C o n e n i o n i c}{\\mathrm{suarions}}}\\to H_{2}C O_{3}}}}\\\\ {{\\mathrm{\\M_{2}C O_{3}~{\\frac{\\ C o u p o n i c}{\\mathrm{\\ouponse}}}\\to H C O_{3}^{-}+H^{+}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q17.6",
+    "class": 11,
+    "subject": "biology",
+    "chapter_number": 17,
+    "chapter_name": "breathing and exchange of gases",
+    "question_type": "conceptual",
+    "question_text": "Explain the process of inspiration under normal conditions.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Inspiration is the process of bringing air from outside the body into the lungs, created by a pressure gradient. The diaphragm contracts, increasing thoracic cavity space, and the external intercostal muscles contract, moving the ribs and sternum outwards, which increases thoracic volume and decreases intra-pulmonary pressure, allowing air to flow into the lungs.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, inspiration is facilitated by the contraction of the diaphragm and intercostal muscles, leading to a pressure difference.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of respiratory mechanics and pressure changes.",
+    "topics_tags": [
+      "Inspiration",
+      "Respiratory Mechanics",
+      "Breathing Process"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q17.7",
+    "class": 11,
+    "subject": "biology",
+    "chapter_number": 17,
+    "chapter_name": "breathing and exchange of gases",
+    "question_type": "conceptual",
+    "question_text": "How is respiration regulated?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The respiratory rhythm centre in the medulla regulates respiration. The pneumotaxic centre can modify this by signaling to reduce the inspiration rate. Chemosensitive regions detect carbon dioxide and hydrogen ion levels, signaling changes in expiration rate as needed.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, respiration is regulated by neural centers responding to chemical signals in the blood.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of neural and chemical regulation of breathing.",
+    "topics_tags": [
+      "Respiratory Regulation",
+      "Medulla",
+      "Chemoreceptors"
+    ],
+    "confidence_score": 0.94,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q17.8",
+    "class": 11,
+    "subject": "biology",
+    "chapter_number": 17,
+    "chapter_name": "breathing and exchange of gases",
+    "question_type": "conceptual",
+    "question_text": "What is the effect of pCO on oxygen transport?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "pCO plays an important role in the transportation of oxygen. At the alveolus, the low pCO and high pO2 favours the formation of haemoglobin. At the tissues, the high pCO and low pO2 favours the dissociation of oxygen from oxyhaemoglobin. Hence, the affinity of haemoglobin for oxygen is enhanced by the decrease of pCO in blood. Therefore, oxygen is transported in blood as oxyhaemoglobin and oxygen dissociates from it at the tissues.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, oxygen is transported in blood as oxyhaemoglobin and oxygen dissociates from it at the tissues.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of gas exchange and the role of pCO in oxygen transport.",
+    "topics_tags": [
+      "Oxygen Transport",
+      "pCO",
+      "Haemoglobin"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q17.9",
+    "class": 11,
+    "subject": "biology",
+    "chapter_number": 17,
+    "chapter_name": "breathing and exchange of gases",
+    "question_type": "conceptual",
+    "question_text": "What happens to the respiratory process in a man going up a hill?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "As altitude increases, the oxygen level in the atmosphere decreases. Therefore, as a man goes uphill, he gets less oxygen with each breath. This causes the amount of oxygen in the blood to decline. The respiratory rate increases in response to the decrease in the oxygen content of blood. Simultaneously, the rate of heart beat increases to increase the supply of oxygen to blood.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the respiratory rate and heart rate increase to compensate for lower oxygen availability.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves understanding physiological responses to altitude changes.",
+    "topics_tags": [
+      "Respiratory Process",
+      "Altitude",
+      "Oxygen Levels"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q17.10",
+    "class": 11,
+    "subject": "biology",
+    "chapter_number": 17,
+    "chapter_name": "breathing and exchange of gases",
+    "question_type": "conceptual",
+    "question_text": "What is the site of gaseous exchange in an insect?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "In insects, gaseous exchange occurs through a network of tubes collectively known as the tracheal system. The small openings on the sides of an insect's body are known as spiracles. Oxygen-rich air enters through the spiracles. The spiracles are connected to the network of tubes. From the spiracles, oxygen enters the tracheae. From here, oxygen diffuses into the cells of the body. The movement of carbon dioxide follows the reverse path.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, gaseous exchange in insects occurs through the tracheal system and spiracles.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of insect respiratory anatomy.",
+    "topics_tags": [
+      "Insect Respiration",
+      "Tracheal System",
+      "Gaseous Exchange"
+    ],
+    "confidence_score": 0.94,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q17.11",
+    "class": 11,
+    "subject": "biology",
+    "chapter_number": 17,
+    "chapter_name": "breathing and exchange of gases",
+    "question_type": "conceptual",
+    "question_text": "Define oxygen dissociation curve. Can you suggest any reason for its sigmoidal pattern?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The oxygen dissociation curve is a graph showing the percentage saturation of oxyhaemoglobin at various partial pressures of oxygen. The curve shows the equilibrium of oxyhaemoglobin and haemoglobin at various partial pressures. The sigmoid shape of the dissociation curve is because of the binding of oxygen to haemoglobin. As the first oxygen molecule binds to haemoglobin, it increases the affinity for the second molecule of oxygen to bind. Subsequently, haemoglobin attracts more oxygen.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the sigmoidal pattern is due to cooperative binding of oxygen to haemoglobin.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of physiological graphs and cooperative binding.",
+    "topics_tags": [
+      "Oxygen Dissociation Curve",
+      "Haemoglobin",
+      "Sigmoidal Pattern"
+    ],
+    "confidence_score": 0.93,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q17.12",
+    "class": 11,
+    "subject": "biology",
+    "chapter_number": 17,
+    "chapter_name": "breathing and exchange of gases",
+    "question_type": "conceptual",
+    "question_text": "Have you heard about hypoxia? Try to gather information about it, and discuss with your friends.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Hypoxia is a condition characterised by an inadequate or decreased supply of oxygen to the lungs. It is caused by several extrinsic factors such as reduction in pO2, inadequate oxygen, etc. The different types of hypoxia are discussed below: Hypoxemic hypoxia, Anaemic hypoxia, Stagnant or ischemic hypoxia, Histotoxic hypoxia.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Hypoxia can be classified into different types based on its causes.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of medical conditions related to oxygen supply.",
+    "topics_tags": [
+      "Hypoxia",
+      "Oxygen Supply",
+      "Medical Conditions"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q17.13",
+    "class": 11,
+    "subject": "biology",
+    "chapter_number": 17,
+    "chapter_name": "breathing and exchange of gases",
+    "question_type": "mcq",
+    "question_text": "Distinguish between (a) IRV and ERV (b) Inspiratory capacity and Expiratory capacity (c) Vital capacity and Total lung capacity",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "IRV and ERV"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "Inspiratory capacity and Expiratory capacity"
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "Vital capacity and Total lung capacity"
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "IRV and ERV",
+        "part_latex": null,
+        "answer_text": "IRV (Inspiratory reserve volume) is the maximum volume of air that can be inhaled after a normal inspiration. It is about 2500 – 3500 mL in the human lungs. ERV (Expiratory reserve volume) is the maximum volume of air that can be exhaled after a normal expiration. It is about 1000 – 1100 mL in the human lungs.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "IRV is greater than ERV in terms of volume.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Inspiratory capacity and Expiratory capacity",
+        "part_latex": null,
+        "answer_text": "Inspiratory capacity (IC) is the volume of air that can be inhaled after a normal expiration, including tidal volume and inspiratory reserve volume. Expiratory capacity (EC) is the volume of air that can be exhaled after a normal inspiration, including tidal volume and expiratory reserve volume.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "IC includes tidal volume and IRV, while EC includes tidal volume and ERV.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "Vital capacity and Total lung capacity",
+        "part_latex": null,
+        "answer_text": "Vital capacity (VC) is the maximum volume of air that can be exhaled after a maximum inspiration, including IC and ERV. Total lung capacity (TLC) is the volume of air in the lungs after maximum inspiration, including IC, ERV, and residual volume.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "VC is less than TLC as TLC includes residual volume.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of respiratory volumes and capacities.",
+    "topics_tags": [
+      "Respiratory Volumes",
+      "Lung Capacity",
+      "Breathing Mechanics"
+    ],
+    "confidence_score": 0.91,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q17.14",
+    "class": 11,
+    "subject": "biology",
+    "chapter_number": 17,
+    "chapter_name": "breathing and exchange of gases",
+    "question_type": "numerical",
+    "question_text": "What is Tidal volume? Find out the Tidal volume (approximate value) for a healthy human in an hour.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Tidal volume is the volume of air inspired or expired during normal respiration. It is about 6000 to 8000 mL of air per minute. The hourly tidal volume for a healthy human can be calculated as: Tidal volume = 6000 to 8000 mL/minute. Tidal volume in an hour = 6000 to 8000 mL x (60 min).",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the tidal volume per minute.",
+        "expression": "6000 to 8000 mL/minute"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the tidal volume in an hour.",
+        "expression": "6000 to 8000 mL x 60"
+      }
+    ],
+    "final_answer": "Therefore, the tidal volume in an hour is approximately 360000 to 480000 mL.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic calculation of tidal volume over time.",
+    "topics_tags": [
+      "Tidal Volume",
+      "Respiration",
+      "Lung Function"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q17.15",
+    "class": 11,
+    "subject": "Biology",
+    "chapter_number": 17,
+    "chapter_name": "Breathing and Exchange of Gases",
+    "question_type": "conceptual",
+    "question_text": "What is the approximate hourly tidal volume for a healthy human?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The hourly tidal volume for a healthy human is approximately 3.6 x 10^5 mL to 4.8 x 10^5 mL.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the hourly tidal volume for a healthy human is approximately 3.6 x 10^5 mL to 4.8 x 10^5 mL.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of a fact.",
+    "topics_tags": [
+      "Tidal Volume",
+      "Respiration",
+      "Human Physiology"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  }
+]

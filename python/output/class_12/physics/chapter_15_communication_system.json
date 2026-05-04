@@ -1,0 +1,624 @@
+[
+  {
+    "question_id": "Q15.1",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 15,
+    "chapter_name": "communication system",
+    "question_type": "mcq",
+    "question_text": "Which of the following frequencies will be suitable for beyond-the-horizon communication using sky waves?",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(1)",
+        "option_text": "10 kHz"
+      },
+      {
+        "option_label": "(2)",
+        "option_text": "10 MHz"
+      },
+      {
+        "option_label": "(3)",
+        "option_text": "1 GHz"
+      },
+      {
+        "option_label": "(4)",
+        "option_text": "1000 GHz"
+      }
+    ],
+    "correct_option": "(2)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "10 MHz is suitable for beyond-the-horizon communication as it gets reflected easily from the ionosphere.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Hence, 10 MHz frequencies are suitable for beyond-the-horizon communication.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of frequency behavior in communication systems.",
+    "topics_tags": [
+      "Sky Waves",
+      "Communication Frequencies",
+      "Beyond-the-Horizon"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q15.2",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 15,
+    "chapter_name": "communication system",
+    "question_type": "mcq",
+    "question_text": "Frequencies in the UHF range normally propagate by means of:",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(1)",
+        "option_text": "Ground waves."
+      },
+      {
+        "option_label": "(2)",
+        "option_text": "Sky waves."
+      },
+      {
+        "option_label": "(3)",
+        "option_text": "Surface waves."
+      },
+      {
+        "option_label": "(4)",
+        "option_text": "Space waves."
+      }
+    ],
+    "correct_option": "(4)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Space waves are used for UHF propagation due to their high frequency.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, UHF frequencies propagate through space waves.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires basic understanding of wave propagation methods.",
+    "topics_tags": [
+      "UHF Frequencies",
+      "Wave Propagation",
+      "Communication Systems"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q15.3",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 15,
+    "chapter_name": "communication system",
+    "question_type": "mcq",
+    "question_text": "Which of the above statements about digital signals are true?",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(1)",
+        "option_text": "(i) and (ii) only"
+      },
+      {
+        "option_label": "(2)",
+        "option_text": "(ii) and (iii) only"
+      },
+      {
+        "option_label": "(3)",
+        "option_text": "(i), (ii) and (iii) but not (iv)"
+      },
+      {
+        "option_label": "(4)",
+        "option_text": "All of (i), (ii), (iii) and (iv)."
+      }
+    ],
+    "correct_option": "(3)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "A digital signal uses the binary (0 and 1) system for transferring message signals and cannot utilize the decimal system.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the correct statements are (i), (ii) and (iii) but not (iv).",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves understanding the characteristics of digital signals.",
+    "topics_tags": [
+      "Digital Signals",
+      "Binary System",
+      "Signal Representation"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q15.4",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 15,
+    "chapter_name": "communication system",
+    "question_type": "numerical",
+    "question_text": "Is it necessary for a transmitting antenna to be at the same height as that of the receiving antenna for line-of-sight communication? A TV transmitting antenna is 81m tall. How much service area can it cover if the receiving antenna is at the ground level?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "It is not necessary for the transmitting and receiving antennas to be at the same height for line-of-sight communication.",
+    "answer_latex": "A = \\pi d^2 = \\pi (2Rh) = 3.14 \\times 2 \\times 6.4 \\times 10^6 \\times 81 = 3255.55 \\times 10^6 m^2",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the range using the formula d = 2Rh.",
+        "expression": "d = 2Rh"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the service area using the formula A = πd².",
+        "expression": "A = \\pi d^2"
+      }
+    ],
+    "final_answer": "The service area covered by the antenna is approximately 3256 km².",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves calculation of service area based on antenna height.",
+    "topics_tags": [
+      "Line-of-Sight Communication",
+      "Antenna Height",
+      "Service Area"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q15.5",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 15,
+    "chapter_name": "communication system",
+    "question_type": "numerical",
+    "question_text": "A carrier wave of peak voltage 12 V is used to transmit a message signal. What should be the peak voltage of the modulating signal in order to have a modulation index of 75%?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires calculation of modulation index based on given parameters.",
+    "topics_tags": [
+      "Modulation",
+      "Carrier Wave",
+      "Signal Transmission"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q15.6",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 15,
+    "chapter_name": "communication system",
+    "question_type": "multipart",
+    "question_text": "A modulating signal is a square wave, as shown in Fig. 15.14. The carrier wave is given by. Sketch the amplitude modulated waveform. What is the modulation index?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the modulation index calculation and waveform sketch.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777794464/ncert/physics/15/img_4_0.png",
+      "latex_extracted": "\\begin{array}{l}{{m=\\displaystyle{\\frac{A_{\\mathrm{m}}}{A_{\\circ}}}}}\\\\ {{\\vdots}}\\\\ {{\\vdots}}\\\\ {{=0.75\\times12=9\\vee}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Sketch the amplitude modulated waveform.",
+        "part_latex": null,
+        "answer_text": null,
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "What is the modulation index?",
+        "part_latex": null,
+        "answer_text": "The modulation index is calculated as m = 0.75.",
+        "answer_latex": "m = 0.75",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the amplitude of the modulating signal and the carrier wave.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Use the formula for modulation index m = \\frac{A_m}{A_c}.",
+            "expression": "m = \\frac{1}{2} = 0.75"
+          }
+        ],
+        "final_answer": "Thus, the modulation index is 0.75.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of modulation concepts and application of formulas.",
+    "topics_tags": [
+      "Amplitude Modulation",
+      "Modulation Index",
+      "Waveform Sketch"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the modulation index calculation and waveform sketch.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777794464/ncert/physics/15/img_4_0.png",
+        "latex_extracted": "\\begin{array}{l}{{m=\\displaystyle{\\frac{A_{\\mathrm{m}}}{A_{\\circ}}}}}\\\\ {{\\vdots}}\\\\ {{\\vdots}}\\\\ {{=0.75\\times12=9\\vee}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q15.7",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 15,
+    "chapter_name": "communication system",
+    "question_type": "numerical",
+    "question_text": "For an amplitude modulated wave, the maximum amplitude is found to be 100 V while the minimum amplitude is found to be 2 V. Determine the modulation index μ. What would be the value of μ if the minimum amplitude is zero volt?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the amplitude modulated waveform.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777794489/ncert/physics/15/img_5_1.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The modulation index μ is calculated as μ = \\frac{A_{max} - A_{min}}{A_{max} + A_{min}} = \\frac{100 - 2}{100 + 2} = \\frac{98}{102} \\approx 0.96. If the minimum amplitude is zero, μ = 1.",
+    "answer_latex": "μ = \\frac{A_{max} - A_{min}}{A_{max} + A_{min}} = \\frac{100 - 0}{100 + 0} = 1",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the maximum and minimum amplitudes.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Apply the modulation index formula.",
+        "expression": "μ = \\frac{A_{max} - A_{min}}{A_{max} + A_{min}}"
+      },
+      {
+        "step_number": 3,
+        "description": "Substitute the values into the formula.",
+        "expression": "μ = \\frac{100 - 2}{100 + 2} = \\frac{98}{102} \\approx 0.96"
+      }
+    ],
+    "final_answer": "Thus, the modulation index is approximately 0.96, and if the minimum amplitude is zero, μ = 1.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic calculations and understanding of modulation index.",
+    "topics_tags": [
+      "Amplitude Modulation",
+      "Modulation Index",
+      "Waveform Analysis"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the amplitude modulated waveform.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777794489/ncert/physics/15/img_5_1.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q15.8",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 15,
+    "chapter_name": "communication system",
+    "question_type": "conceptual",
+    "question_text": "Due to economic reasons, only the upper sideband of an AM wave is transmitted, but at the receiving station, there is a facility for generating the carrier. Show that if a device is available which can multiply two signals, then it is possible to recover the modulating signal at the receiver station.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram illustrating the recovery of the modulating signal.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777794515/ncert/physics/15/img_6_0.png",
+      "latex_extracted": "\\scriptstyle\\mu={\\frac{A_{m}-A_{m}}{A_{m+}+A_{m}}}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "By multiplying the received signal with the carrier wave, the modulating signal can be recovered using the principle of amplitude modulation.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the frequencies of the carrier and signal waves.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Explain the multiplication of the received signal with the carrier wave.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Conclude that the modulating signal can be recovered.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, it is possible to recover the modulating signal at the receiver station.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of signal processing and modulation principles.",
+    "topics_tags": [
+      "Amplitude Modulation",
+      "Signal Recovery",
+      "Communication Systems"
+    ],
+    "confidence_score": 0.88,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram illustrating the recovery of the modulating signal.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777794515/ncert/physics/15/img_6_0.png",
+        "latex_extracted": "\\scriptstyle\\mu={\\frac{A_{m}-A_{m}}{A_{m+}+A_{m}}}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q15.9",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 15,
+    "chapter_name": "communication system",
+    "question_type": "conceptual",
+    "question_text": "At the receiving station, the low-pass filter allows only high frequency signals to pass through it. It obstructs the low frequency signal ω. Thus, at the receiving station, one can record the modulating signal, which is the signal frequency.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of signal processing involving frequency components.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777794520/ncert/physics/15/img_7_0.png",
+      "latex_extracted": "\\begin{array}{c}{{\\mathrm{~}:I^{1}Y_{\\pm}=I_{1}^{\\prime}\\cos(\\omega_{c}+\\omega_{o})I(I_{\\nu}^{\\prime}\\cos\\omega_{c}^{\\prime})}}\\\\ {{=I_{1}^{\\prime}I_{c}^{\\prime}\\left[\\cos\\left(\\omega_{c}+\\omega_{o}\\right)I,\\cos\\omega_{c}I\\right]}}\\\\ {{=\\frac{I_{1}I_{c}^{\\prime}}{2}\\left[\\cos\\left(\\omega_{c}+\\omega_{*}\\right)I+\\cos\\omega_{c}I\\right]\\right]}}\\\\ {{=\\frac{I_{1}I_{c}^{\\prime}I_{c}^{\\prime}}{2}\\left[\\cos\\left(\\omega_{c}+\\omega_{*}\\right)I+\\cos\\omega_{c}J\\right]\\right.}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of signal processing concepts and the function of low-pass filters.",
+    "topics_tags": [
+      "Low-Pass Filter",
+      "Signal Processing",
+      "Modulating Signal"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "mixed_or_weak_context"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of signal processing involving frequency components.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777794520/ncert/physics/15/img_7_0.png",
+        "latex_extracted": "\\begin{array}{c}{{\\mathrm{~}:I^{1}Y_{\\pm}=I_{1}^{\\prime}\\cos(\\omega_{c}+\\omega_{o})I(I_{\\nu}^{\\prime}\\cos\\omega_{c}^{\\prime})}}\\\\ {{=I_{1}^{\\prime}I_{c}^{\\prime}\\left[\\cos\\left(\\omega_{c}+\\omega_{o}\\right)I,\\cos\\omega_{c}I\\right]}}\\\\ {{=\\frac{I_{1}I_{c}^{\\prime}}{2}\\left[\\cos\\left(\\omega_{c}+\\omega_{*}\\right)I+\\cos\\omega_{c}I\\right]\\right]}}\\\\ {{=\\frac{I_{1}I_{c}^{\\prime}I_{c}^{\\prime}}{2}\\left[\\cos\\left(\\omega_{c}+\\omega_{*}\\right)I+\\cos\\omega_{c}J\\right]\\right.}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  }
+]

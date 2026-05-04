@@ -1,0 +1,1915 @@
+[
+  {
+    "question_id": "Q15.1",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 15,
+    "chapter_name": "Waves",
+    "question_type": "numerical",
+    "question_text": "A string of mass 2.50 kg is under a tension of 200 N. The length of the stretched string is 20.0 m. If the transverse jerk is struck at one end of the string, how long does the disturbance take to reach the other end?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of the velocity of the transverse wave in the string.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754933/ncert/physics/15/img_1_0.png",
+      "latex_extracted": "\\begin{array}{l}{{\\nu={\\sqrt{{\\frac{T}{\\mu}}}}}}\\\\ {{={\\sqrt{{\\frac{200}{0.125}}}}={\\sqrt{1600}}=40~{\\mathrm{m/s}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The time taken by the disturbance to reach the other end can be calculated using the formula t = \\frac{l}{v}.",
+    "answer_latex": "t = \\frac{20.0}{40} = 0.5~\\mathrm{s}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the velocity of the wave using the tension and mass per unit length.",
+        "expression": "\\nu = \\sqrt{\\frac{T}{\\mu}}"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values to find the velocity.",
+        "expression": "\\nu = \\sqrt{\\frac{200}{0.125}} = 40~\\mathrm{m/s}"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the time taken for the disturbance to travel the length of the string.",
+        "expression": "t = \\frac{l}{v} = \\frac{20.0}{40}"
+      }
+    ],
+    "final_answer": "Therefore, the time taken by the disturbance to reach the other end is 0.5 seconds.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of wave velocity and basic substitution.",
+    "topics_tags": [
+      "Transverse Waves",
+      "Wave Velocity",
+      "Tension"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the velocity of the transverse wave in the string.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754933/ncert/physics/15/img_1_0.png",
+        "latex_extracted": "\\begin{array}{l}{{\\nu={\\sqrt{{\\frac{T}{\\mu}}}}}}\\\\ {{={\\sqrt{{\\frac{200}{0.125}}}}={\\sqrt{1600}}=40~{\\mathrm{m/s}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q15.2",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 15,
+    "chapter_name": "Waves",
+    "question_type": "numerical",
+    "question_text": "A stone dropped from the top of a tower of height 300 m high splashes into the water of a pond near the base of the tower. When is the splash heard at the top given that the speed of sound in air is 340 m/s? (g = 9.8 m/s²)",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The total time taken for the splash to be heard at the top is 8.7 seconds.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the time taken for the stone to fall using the second equation of motion.",
+        "expression": "t_{fall} = \\sqrt{\\frac{2h}{g}} = \\sqrt{\\frac{2 \\times 300}{9.8}}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the time taken for the sound to travel back up the tower.",
+        "expression": "t_{sound} = \\frac{h}{v} = \\frac{300}{340}"
+      },
+      {
+        "step_number": 3,
+        "description": "Add both times to find the total time.",
+        "expression": "t_{total} = t_{fall} + t_{sound}"
+      }
+    ],
+    "final_answer": "Therefore, the total time after which the splash is heard is 8.7 seconds.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps of calculation and understanding of motion.",
+    "topics_tags": [
+      "Free Fall",
+      "Sound Propagation",
+      "Kinematics"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q15.3",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 15,
+    "chapter_name": "Waves",
+    "question_type": "numerical",
+    "question_text": "A steel wire has a length of 112.0 m and a mass of 2.10 kg. What should be the tension in the wire so that speed of a transverse wave on the wire equals the speed of sound in dry air at 20 °C = 343 m/s?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The tension in the wire should be approximately 2.06 × 10^4 N.",
+    "answer_latex": "T = 2.06 \\times 10^4~\\mathrm{N}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the mass per unit length of the wire.",
+        "expression": "\\mu = \\frac{m}{l} = \\frac{2.10}{112.0}"
+      },
+      {
+        "step_number": 2,
+        "description": "Use the relation for tension to find the required tension.",
+        "expression": "T = v^2 \\mu = (343)^2 \\times \\mu"
+      },
+      {
+        "step_number": 3,
+        "description": "Substitute the values to find the tension.",
+        "expression": "T = (343)^2 \\times \\frac{2.10}{112.0}"
+      }
+    ],
+    "final_answer": "Therefore, the required tension in the wire is approximately 2.06 × 10^4 N.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves calculation of mass per unit length and application of wave speed formula.",
+    "topics_tags": [
+      "Transverse Waves",
+      "Tension",
+      "Wave Speed"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q15.4",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 15,
+    "chapter_name": "Waves",
+    "question_type": "conceptual",
+    "question_text": "Is the converse true? Examine if the following functions for y can possibly represent a travelling wave: (x – vt)²",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "No; does not represent a wave. The essential requirement for a function to represent a travelling wave is that it should remain finite for all values of x and t.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Evaluate the function (x - vt)² at x = 0 and t = 0.",
+        "expression": "(0 - v*0)² = 0"
+      },
+      {
+        "step_number": 2,
+        "description": "Determine if the function converges to a finite value.",
+        "expression": "0 does not represent a wave"
+      }
+    ],
+    "final_answer": "Since the function does not converge to a finite value for x = 0 and t = 0, it represents a travelling wave.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of the function (x - vt)²",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754957/ncert/physics/15/img_6_0.png",
+      "latex_extracted": "\\log\\!\\left[{\\frac{x+w}{x_{0}}}\\right]",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of wave functions and their properties.",
+    "topics_tags": [
+      "Travelling Waves",
+      "Wave Functions",
+      "Mathematical Representation"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the function (x - vt)²",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754957/ncert/physics/15/img_6_0.png",
+        "latex_extracted": "\\log\\!\\left[{\\frac{x+w}{x_{0}}}\\right]",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      },
+      {
+        "present": true,
+        "description": "Mathematical representation of the function log((x + vt)/x0) = log(0) = ∞",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754958/ncert/physics/15/img_6_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q15.5",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 15,
+    "chapter_name": "Waves",
+    "question_type": "mcq",
+    "question_text": "A bat emits ultrasonic sound of frequency 1000 kHz in air. If the sound meets a water surface, what is the wavelength of (a) the reflected sound, (b) the transmitted sound?",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "the reflected sound,"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "the transmitted sound?"
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "What is the wavelength of the reflected sound?",
+        "part_latex": null,
+        "answer_text": "The wavelength of the reflected sound is given by the relation: λ = \\frac{v}{ν} = \\frac{3440 \\text{ m/s}}{10^6 \\text{ Hz}} = 3.44 \\times 10^{-3} \\text{ m}",
+        "answer_latex": "λ = \\frac{3440}{10^6} = 3.44 \\times 10^{-3}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the formula for wavelength: λ = \\frac{v}{ν}",
+            "expression": "λ = \\frac{v}{ν}"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the values for speed of sound in air and frequency",
+            "expression": "λ = \\frac{3440}{10^6}"
+          }
+        ],
+        "final_answer": "Therefore, the wavelength of the reflected sound is 3.44 mm.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "What is the wavelength of the transmitted sound?",
+        "part_latex": null,
+        "answer_text": "The wavelength of the transmitted sound is given by the relation: λ = \\frac{v}{ν} = \\frac{1486 \\text{ m/s}}{10^6 \\text{ Hz}} = 1.486 \\times 10^{-3} \\text{ m}",
+        "answer_latex": "λ = \\frac{1486}{10^6} = 1.486 \\times 10^{-3}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the formula for wavelength: λ = \\frac{v}{ν}",
+            "expression": "λ = \\frac{v}{ν}"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the values for speed of sound in water and frequency",
+            "expression": "λ = \\frac{1486}{10^6}"
+          }
+        ],
+        "final_answer": "Therefore, the wavelength of the transmitted sound is 1.486 mm.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of wave properties and basic calculations.",
+    "topics_tags": [
+      "Ultrasonic Waves",
+      "Wavelength",
+      "Sound Propagation"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q15.6",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 15,
+    "chapter_name": "Waves",
+    "question_type": "mcq",
+    "question_text": "A hospital uses an ultrasonic scanner to locate tumours in a tissue. What is the wavelength of sound in the tissue in which the speed of sound is 1.7 km/s? The operating frequency of the scanner is 4.2 MHz.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The wavelength of sound in the tissue is given by the relation: λ = \\frac{v}{ν} = \\frac{1.7 \\times 10^3 \\text{ m/s}}{4.2 \\times 10^6 \\text{ Hz}} = 0.00040476 \\text{ m} = 4.05 \\text{ mm}.",
+    "answer_latex": "λ = \\frac{1.7 \\times 10^3}{4.2 \\times 10^6} = 0.00040476",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Use the formula for wavelength: λ = \\frac{v}{ν}",
+        "expression": "λ = \\frac{v}{ν}"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values for speed of sound in tissue and frequency",
+        "expression": "λ = \\frac{1.7 \\times 10^3}{4.2 \\times 10^6}"
+      }
+    ],
+    "final_answer": "Therefore, the wavelength of sound in the tissue is approximately 4.05 mm.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic application of wave properties and calculations.",
+    "topics_tags": [
+      "Ultrasonic Scanner",
+      "Wavelength",
+      "Medical Imaging"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q15.7",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 15,
+    "chapter_name": "Waves",
+    "question_type": "multipart",
+    "question_text": "A transverse harmonic wave on a string is described by an equation. Is this a travelling wave or a stationary wave? If it is travelling, what are the speed and direction of its propagation? What are its amplitude and frequency? What is the initial phase at the origin? What is the least distance between two successive crests in the wave?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Yes; Speed = 20 m/s, Direction = Right to left, Amplitude = 3 cm, Frequency = 5.73 Hz, Least distance between two successive crests = 3.49 m.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the wave is travelling from right to left with the specified properties.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of wave properties and multiple calculations.",
+    "topics_tags": [
+      "Transverse Waves",
+      "Wave Properties",
+      "Harmonic Motion"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q15.8",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 15,
+    "chapter_name": "Waves",
+    "question_type": "conceptual",
+    "question_text": "For the wave described in Exercise 15.8, plot the displacement (y) versus (t) graphs for x = 0, 2 and 4 cm. What are the shapes of these graphs? In which aspects does the oscillatory motion in travelling wave differ from one point to another: amplitude, frequency or phase?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Graph showing displacement versus time for different positions in a wave.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754975/ncert/physics/15/img_11_0.png",
+      "latex_extracted": "\\begin{array}{c}{{y\\left(0,t\\right)=3.0\\sin\\left(36t+{\\frac{\\pi}{4}}\\right)}}\\\\ {{\\mathrm{Abso,~}\\omega={\\frac{2\\pi}{8}}=36\\ \\mathrm{rad/s}^{-1}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "All the waves have different phases. The given transverse harmonic wave is: For x = 0, the equation reduces to: Now, plotting y vs. t graphs using the different values of t, as listed in the given table. For x = 0, x = 2, and x = 4, the phases of the three waves will get changed. This is because amplitude and frequency are invariant for any change in x.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the oscillatory motion in a travelling wave differs in phase at different points.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of wave properties and plotting graphs.",
+    "topics_tags": [
+      "Wave Motion",
+      "Displacement",
+      "Phase Difference"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Graph showing displacement versus time for different positions in a wave.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754975/ncert/physics/15/img_11_0.png",
+        "latex_extracted": "\\begin{array}{c}{{y\\left(0,t\\right)=3.0\\sin\\left(36t+{\\frac{\\pi}{4}}\\right)}}\\\\ {{\\mathrm{Abso,~}\\omega={\\frac{2\\pi}{8}}=36\\ \\mathrm{rad/s}^{-1}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q15.9",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 15,
+    "chapter_name": "Waves",
+    "question_type": "numerical",
+    "question_text": "For the travelling harmonic wave y (x, t) = 2.0 cos 2π (10t – 0.0080x + 0.35), calculate the phase difference between oscillatory motion of two points separated by a distance of 4 m and 0.5 m.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Phase difference is given by the relation: For x = 4 m = 400 cm, Φ = 0.016 π × 400 = 6.4 π rad.",
+    "answer_latex": "Φ = 0.016 \\pi \\times 400 = 6.4 \\pi \\text{ rad}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Convert distance from meters to centimeters.",
+        "expression": "x = 4 m = 400 cm"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate phase difference using the propagation constant.",
+        "expression": "Φ = 0.016 \\pi \\times 400"
+      }
+    ],
+    "final_answer": "Therefore, the phase difference is 6.4 π rad.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic calculations and understanding of wave equations.",
+    "topics_tags": [
+      "Phase Difference",
+      "Harmonic Wave",
+      "Wave Properties"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q15.10",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 15,
+    "chapter_name": "Waves",
+    "question_type": "mcq",
+    "question_text": "The transverse displacement of a string (clamped at its both ends) is given by y. The length of the string is 1.5 m and its mass is 3.0 × 10–2 kg. Answer the following: (i) Does the function represent a travelling wave or a stationary wave? (ii) Interpret the wave as a superposition of two waves travelling in opposite directions. What is the wavelength, frequency, and speed of each wave? (iii) Determine the tension in the string.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of the superposition of two waves.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754991/ncert/physics/15/img_14_0.png",
+      "latex_extracted": "\\begin{array}{l l}{{y=y_{1}+y_{2}=a\\sin\\left(\\omega t-k x\\right)-a\\sin\\left(\\omega t+k x\\right)}}\\\\ {{=a\\sin\\left(\\omega t\\right)\\cos\\left(k x\\right)-a\\sin\\left(\\omega t\\right)\\cos\\left(\\omega t\\right)-a\\sin\\left(\\omega t\\right)\\cos\\left(k x\\right)-a\\sin\\left(\\omega t\\right)\\cos\\left(k x\\right)-a\\sin\\left(k x\\right)\\cos\\left(\\omega t\\right)\\cos\\left(\\omega t\\right)}}\\\\ {{}}&{{=-2a\\sin\\left(k x\\right)\\cos\\left(\\omega t\\right)}}&{{}}&{{}}\\\\ {{}}&{{}}&{{}}\\\\ {{=-2a\\sin\\left(\\frac{2\\pi}{\\lambda}x\\right)\\cos\\left(2\\pi+r\\right)}}&{{}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "Does the function represent a travelling wave or a stationary wave?",
+        "part_latex": null,
+        "answer_text": "The given function represents a stationary wave.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Hence, the given function represents a stationary wave.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "Interpret the wave as a superposition of two waves travelling in opposite directions. What is the wavelength, frequency, and speed of each wave?",
+        "part_latex": null,
+        "answer_text": "The wavelength, λ = 3 m; frequency, ν = 60 Hz; wave speed, v = 180 m/s.",
+        "answer_latex": "v = \\nu \\lambda = 60 \\times 3 = 180 \\text{ m/s}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the wavelength from the equation.",
+            "expression": "\\lambda = 3 \\text{ m}"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate frequency using the relation 120π = 2πν.",
+            "expression": "\\nu = 60 \\text{ Hz}"
+          },
+          {
+            "step_number": 3,
+            "description": "Calculate wave speed using the formula v = νλ.",
+            "expression": "v = 60 \\times 3 = 180"
+          }
+        ],
+        "final_answer": "Thus, the wavelength is 3 m, frequency is 60 Hz, and speed is 180 m/s.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "Determine the tension in the string.",
+        "part_latex": null,
+        "answer_text": "The tension in the string is calculated as T = v²μ = 648 N.",
+        "answer_latex": "T = v^2 \\mu = (180)^2 \\times 2 \\times 10^{-2} = 648 \\text{ N}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate mass per unit length, μ = \\frac{m}{l}.",
+            "expression": "\\mu = \\frac{3.0 \\times 10^{-2}}{1.5} = 2 \\times 10^{-2} \\text{ kg/m}"
+          },
+          {
+            "step_number": 2,
+            "description": "Use the formula for tension in the string.",
+            "expression": "T = v^2 \\mu"
+          },
+          {
+            "step_number": 3,
+            "description": "Substitute values to find tension.",
+            "expression": "T = (180)^2 \\times 2 \\times 10^{-2} = 648"
+          }
+        ],
+        "final_answer": "Therefore, the tension in the string is 648 N.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple concepts including wave properties and tension calculation.",
+    "topics_tags": [
+      "Stationary Waves",
+      "Wave Properties",
+      "Tension in Strings"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the superposition of two waves.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754991/ncert/physics/15/img_14_0.png",
+        "latex_extracted": "\\begin{array}{l l}{{y=y_{1}+y_{2}=a\\sin\\left(\\omega t-k x\\right)-a\\sin\\left(\\omega t+k x\\right)}}\\\\ {{=a\\sin\\left(\\omega t\\right)\\cos\\left(k x\\right)-a\\sin\\left(\\omega t\\right)\\cos\\left(\\omega t\\right)-a\\sin\\left(\\omega t\\right)\\cos\\left(k x\\right)-a\\sin\\left(\\omega t\\right)\\cos\\left(k x\\right)-a\\sin\\left(k x\\right)\\cos\\left(\\omega t\\right)\\cos\\left(\\omega t\\right)}}\\\\ {{}}&{{=-2a\\sin\\left(k x\\right)\\cos\\left(\\omega t\\right)}}&{{}}&{{}}\\\\ {{}}&{{}}&{{}}\\\\ {{=-2a\\sin\\left(\\frac{2\\pi}{\\lambda}x\\right)\\cos\\left(2\\pi+r\\right)}}&{{}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q15.11",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 15,
+    "chapter_name": "Waves",
+    "question_type": "conceptual",
+    "question_text": "Given below are some functions of x and t to represent the displacement (transverse or longitudinal) of an elastic wave. State which of these represent (i) a traveling wave, (ii) a stationary wave or (iii) none at all: y = 2 cos (3x) sin (10t), y = 3 sin (5x – 0.5t) + 4 cos (5x – 0.5t), y = cos x sin t + cos 22x sin 2t.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of wave displacement functions.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754994/ncert/physics/15/img_16_0.png",
+      "latex_extracted": "\\begin{array}{r l}{{\\mathrm{Amplirude=Displacement=0.06\\sin}\\left({\\frac{2\\pi}{3}}x\\right){\\mathrm{cos0}}}\\\\ {{}}&{{=0.06\\cdot{\\frac{1}{\\sqrt{2}}}=0.042~{\\mathrm{m}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The given equation represents a stationary wave because the harmonic terms kx and ωt appear separately in the equation. The second equation represents a traveling wave as the harmonic terms kx and ωt are in the combination of kx – ωt. The third equation does not represent either a traveling wave or a stationary wave.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the first and third equations represent stationary waves, while the second represents a traveling wave.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of wave functions and their characteristics.",
+    "topics_tags": [
+      "Wave Functions",
+      "Traveling Waves",
+      "Stationary Waves"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of wave displacement functions.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754994/ncert/physics/15/img_16_0.png",
+        "latex_extracted": "\\begin{array}{r l}{{\\mathrm{Amplirude=Displacement=0.06\\sin}\\left({\\frac{2\\pi}{3}}x\\right){\\mathrm{cos0}}}\\\\ {{}}&{{=0.06\\cdot{\\frac{1}{\\sqrt{2}}}=0.042~{\\mathrm{m}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q15.12",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 15,
+    "chapter_name": "Waves",
+    "question_type": "mcq",
+    "question_text": "A wire stretched between two rigid supports vibrates in its fundamental mode with a frequency of 45 Hz. The mass of the wire is 3.5 × 10–2 kg and its linear mass density is 4.0 × 10–2 kg m–1. What is (a) the speed of a transverse wave on the string, and (b) the tension in the string?",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "the speed of a transverse wave on the string, and"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "the tension in the string?"
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "What is the speed of a transverse wave on the string?",
+        "part_latex": null,
+        "answer_text": "The speed of the transverse wave is calculated using the formula v = fλ, where λ = 2l for the fundamental mode.",
+        "answer_latex": "v = 45 \\times 1.75 = 78.75 \\text{ m/s}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the wavelength for the fundamental mode.",
+            "expression": "λ = 2l = 2 \\times 0.875 = 1.75"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the speed using frequency and wavelength.",
+            "expression": "v = fλ = 45 \\times 1.75"
+          }
+        ],
+        "final_answer": "Therefore, the speed of the transverse wave on the string is 78.75 m/s.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "What is the tension in the string?",
+        "part_latex": null,
+        "answer_text": "The tension in the string is calculated using the formula T = v²µ.",
+        "answer_latex": "T = (78.75)^{2} \\times 4.0 \\times 10^{-2} = 2488.06 \\text{ N}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the tension using the speed and linear mass density.",
+            "expression": "T = v^{2}µ = (78.75)^{2} \\times 4.0 \\times 10^{-2}"
+          }
+        ],
+        "final_answer": "Thus, the tension in the string is 2488.06 N.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations and understanding of wave properties.",
+    "topics_tags": [
+      "Transverse Waves",
+      "Tension",
+      "Wave Speed"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [],
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    }
+  },
+  {
+    "question_id": "Q15.16",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 15,
+    "chapter_name": "Waves",
+    "question_type": "numerical",
+    "question_text": "A steel rod 100 cm long is clamped at its middle. The fundamental frequency of longitudinal vibrations of the rod is given to be 2.53 kHz. What is the speed of sound in steel?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the fundamental mode of vibration in a steel rod clamped at its middle.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777755007/ncert/physics/15/img_20_0.png",
+      "latex_extracted": "\\begin{array}{l}{{\\ast\\overbrace{-\\displaystyle\\sum}^{I}\\qquad\\left.\\approx\\right.}}\\\\ {{\\mathrm{~NS}\\displaystyle\\sum\\overbrace{\\sim}^{N}\\overbrace{\\wedge^{2}}^{}}}\\end{array}\\biggr",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The speed of sound in steel is calculated using the relation v = νλ.",
+    "answer_latex": "v = 2.53 \\times 10^3 \\times 2 = 5.06 \\times 10^3 \\text{ m/s} = 5.06 \\text{ km/s}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Convert the fundamental frequency from kHz to Hz.",
+        "expression": "ν = 2.53 \\times 10^3 \\text{ Hz}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the speed of sound using the formula v = νλ, where λ is twice the length of the rod.",
+        "expression": "v = 2.53 \\times 10^3 \\times 2"
+      }
+    ],
+    "final_answer": "Therefore, the speed of sound in steel is 5.06 km/s.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of wave properties and basic calculations.",
+    "topics_tags": [
+      "Speed of Sound",
+      "Vibrations",
+      "Fundamental Frequency"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the fundamental mode of vibration in a steel rod clamped at its middle.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777755007/ncert/physics/15/img_20_0.png",
+        "latex_extracted": "\\begin{array}{l}{{\\ast\\overbrace{-\\displaystyle\\sum}^{I}\\qquad\\left.\\approx\\right.}}\\\\ {{\\mathrm{~NS}\\displaystyle\\sum\\overbrace{\\sim}^{N}\\overbrace{\\wedge^{2}}^{}}}\\end{array}\\biggr",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q15.17",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 15,
+    "chapter_name": "Waves",
+    "question_type": "conceptual",
+    "question_text": "Explain how bats can ascertain distances, directions, nature, and sizes of the obstacles without any 'eyes'.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Bats emit very high-frequency ultrasonic sound waves. These waves get reflected back toward them by obstacles. A bat receives a reflected wave (frequency) and estimates the distance, direction, nature, and size of an obstacle with the help of its brain senses.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, bats use echolocation to navigate and identify their surroundings.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves understanding of echolocation and sound wave reflection.",
+    "topics_tags": [
+      "Echolocation",
+      "Bats",
+      "Sound Waves",
+      "Ultrasonic Waves"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q15.18",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 15,
+    "chapter_name": "Waves",
+    "question_type": "conceptual",
+    "question_text": "Explain why a violin note and sitar note may have the same frequency, yet we can distinguish between the two notes.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The overtones produced by a sitar and a violin, and the strengths of these overtones, are different. Hence, one can distinguish between the notes produced by a sitar and a violin even if they have the same frequency of vibration.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, timbre allows us to differentiate between musical instruments.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of sound quality and overtones.",
+    "topics_tags": [
+      "Sound Quality",
+      "Timbre",
+      "Musical Instruments",
+      "Overtones"
+    ],
+    "confidence_score": 0.94,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q15.19",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 15,
+    "chapter_name": "Waves",
+    "question_type": "conceptual",
+    "question_text": "Explain why solids can support both longitudinal and transverse waves, but only longitudinal waves can propagate in gases.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Solids have shear modulus. They can sustain shearing stress. Since fluids do not have any definite shape, they yield to shearing stress. The propagation of a transverse wave is such that it produces shearing stress in a medium. The propagation of such a wave is possible only in solids, and not in gases. Both solids and fluids have their respective bulk moduli. They can sustain compressive stress. Hence, longitudinal waves can propagate through solids and fluids.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the ability to support different types of waves depends on the medium's properties.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of wave propagation in different media.",
+    "topics_tags": [
+      "Wave Propagation",
+      "Longitudinal Waves",
+      "Transverse Waves",
+      "Medium Properties"
+    ],
+    "confidence_score": 0.93,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q15.20",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 15,
+    "chapter_name": "Waves",
+    "question_type": "mcq",
+    "question_text": "A train, standing at the outer signal of a railway station blows a whistle of frequency 400 Hz in still air. (i) What is the frequency of the whistle for a platform observer when the train (a) approaches the platform with a speed of 10 m/s, (b) recedes from the platform with a speed of 10 m/s? (ii) What is the speed of sound in each case? The speed of sound in still air can be taken as 340 m/s.",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "approaches the platform with a speed of 10 m/s,"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "recedes from the platform with a speed of 10 m/s? (ii) What is the speed of sound in each case? The speed of sound in still air can be taken as 340 m/s."
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "What is the frequency of the whistle for a platform observer when the train approaches the platform with a speed of 10 m/s?",
+        "part_latex": null,
+        "answer_text": "The apparent frequency of the whistle as the train approaches the platform is given by the relation: \\( f' = f \\left( \\frac{v + v_o}{v - v_s} \\right) \\). Substituting the values, we get \\( f' = 400 \\left( \\frac{340 + 0}{340 - 10} \\right) = 412.12 \\text{ Hz} \\).",
+        "answer_latex": "\\nu^{\\prime}=\\left(\\frac{\\nu}{\\nu-\\nu_{\\mathrm{r}}}\\right)\\nu",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the formula for apparent frequency when the source approaches the observer.",
+            "expression": "f' = f \\left( \\frac{v + v_o}{v - v_s} \\right)"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the values into the formula.",
+            "expression": "f' = 400 \\left( \\frac{340 + 0}{340 - 10} \\right)"
+          },
+          {
+            "step_number": 3,
+            "description": "Calculate the apparent frequency.",
+            "expression": "f' = 412.12 \\text{ Hz}"
+          }
+        ],
+        "final_answer": "Thus, the frequency of the whistle for the observer when the train approaches is 412.12 Hz.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "What is the frequency of the whistle for a platform observer when the train recedes from the platform with a speed of 10 m/s?",
+        "part_latex": null,
+        "answer_text": "The apparent frequency of the whistle as the train recedes from the platform is given by the relation: \\( f' = f \\left( \\frac{v - v_o}{v + v_s} \\right) \\). Substituting the values, we get \\( f' = 400 \\left( \\frac{340 - 0}{340 + 10} \\right) = 388.57 \\text{ Hz} \\).",
+        "answer_latex": "\\nu^{\\prime}=\\left(\\frac{\\nu}{\\nu+\\nu_{\\mathrm{r}}}\\right)\\nu",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the formula for apparent frequency when the source recedes from the observer.",
+            "expression": "f' = f \\left( \\frac{v - v_o}{v + v_s} \\right)"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the values into the formula.",
+            "expression": "f' = 400 \\left( \\frac{340 - 0}{340 + 10} \\right)"
+          },
+          {
+            "step_number": 3,
+            "description": "Calculate the apparent frequency.",
+            "expression": "f' = 388.57 \\text{ Hz}"
+          }
+        ],
+        "final_answer": "Thus, the frequency of the whistle for the observer when the train recedes is 388.57 Hz.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves application of the Doppler effect and calculations.",
+    "topics_tags": [
+      "Doppler Effect",
+      "Sound Frequency",
+      "Wave Propagation"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [],
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    }
+  },
+  {
+    "question_id": "Q15.21",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 15,
+    "chapter_name": "Waves",
+    "question_type": "conceptual",
+    "question_text": "Explain the effect of wind on the frequency of sound heard by a stationary observer and a running observer.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The frequency of sound heard by the stationary observer remains the same as that produced by the source, which is 400 Hz. However, for the running observer, the frequency changes due to the relative motion between the source and the observer.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the wind increases the effective speed of sound, affecting the frequency perceived by the running observer.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the relationship between frequency, speed of sound, and wind velocity.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777755054/ncert/physics/15/img_25_0.png",
+      "latex_extracted": "\\begin{array}{c}{{\\nu^{\\prime}=\\left({\\frac{\\nu+\\nu_{0}}{\\nu}}\\right)\\nu}}\\\\ {{\\nu}}\\\\ {{\\lambda}}\\\\ {{=\\left(340+10\\right)\\times400=411.76\\ \\mathrm{Hz}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of sound frequency and the effect of wind on sound propagation.",
+    "topics_tags": [
+      "Sound Waves",
+      "Frequency",
+      "Wind Effect"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the relationship between frequency, speed of sound, and wind velocity.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777755054/ncert/physics/15/img_25_0.png",
+        "latex_extracted": "\\begin{array}{c}{{\\nu^{\\prime}=\\left({\\frac{\\nu+\\nu_{0}}{\\nu}}\\right)\\nu}}\\\\ {{\\nu}}\\\\ {{\\lambda}}\\\\ {{=\\left(340+10\\right)\\times400=411.76\\ \\mathrm{Hz}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q15.22",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 15,
+    "chapter_name": "Waves",
+    "question_type": "numerical",
+    "question_text": "A travelling harmonic wave on a string is described by its equation. What are the displacement and velocity of oscillation of a point at x = 1 cm, and t = 1 s? Is this velocity equal to the velocity of wave propagation?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The displacement and velocity of oscillation can be calculated using the wave equation. The velocity of oscillation at a given point and time is given as the derivative of the displacement with respect to time.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Substitute x = 1 cm and t = 1 s into the wave equation to find displacement.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the velocity of oscillation using the derivative of the displacement.",
+        "expression": null
+      }
+    ],
+    "final_answer": "The velocity of oscillation is not necessarily equal to the velocity of wave propagation.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves applying wave equations and understanding the relationship between oscillation and wave propagation.",
+    "topics_tags": [
+      "Harmonic Waves",
+      "Displacement",
+      "Wave Velocity"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q15.23",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 15,
+    "chapter_name": "Waves",
+    "question_type": "mcq",
+    "question_text": "A narrow sound pulse (for example, a short pip by a whistle) is sent across a medium. (a) Does the pulse have a definite (i) frequency, (ii) wavelength, (iii) speed of propagation? (b) If the pulse rate is 1 after every 20 s, (that is the whistle is blown for a split of second after every 20 s), is the frequency of the note produced by the whistle equal to or 0.05 Hz?",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "Does the pulse have a definite (i) frequency, (ii) wavelength, (iii) speed of propagation?"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "If the pulse rate is 1 after every 20 s, (that is the whistle is blown for a split of second after every 20 s), is the frequency of the note produced by the whistle equal to or 0.05 Hz?"
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)(i)",
+        "part_text": "Does the pulse have a definite frequency?",
+        "part_latex": null,
+        "answer_text": "No",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "The pulse does not have a fixed frequency.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(a)(ii)",
+        "part_text": "Does the pulse have a definite wavelength?",
+        "part_latex": null,
+        "answer_text": "No",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "The pulse does not have a fixed wavelength.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(a)(iii)",
+        "part_text": "Does the pulse have a definite speed of propagation?",
+        "part_latex": null,
+        "answer_text": "Yes",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "The speed of the sound pulse remains the same in that medium.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Is the frequency of the note produced by the whistle equal to or 0.05 Hz?",
+        "part_latex": null,
+        "answer_text": "No, it means that 0.05 Hz is the frequency of the repetition of the pip of the whistle.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "The frequency of the note produced by the whistle is not equal to 0.05 Hz.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of wave properties and basic frequency concepts.",
+    "topics_tags": [
+      "Sound Waves",
+      "Frequency",
+      "Wavelength",
+      "Propagation Speed"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q15.24",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 15,
+    "chapter_name": "Waves",
+    "question_type": "mcq",
+    "question_text": "One end of a long string of linear mass density 8.0 × 10–3 kg m–1 is connected to an electrically driven tuning fork of frequency 256 Hz. The other end passes over a pulley and is tied to a pan containing a mass of 90 kg. The amplitude of the wave is 5.0 cm. Write down the transverse displacement y as a function of x and t that describes the wave on the string.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the setup of a string connected to a tuning fork and a mass.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777755086/ncert/physics/15/img_30_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The equation of a travelling wave propagating along the positive y-direction is given by the displacement equation: y(x, t) = a sin(wt – kx).",
+    "answer_latex": "y(x, t) = a \\sin(\\omega t - kx)",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the parameters of the wave: amplitude, frequency, and mass density.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Write the wave displacement equation using the identified parameters.",
+        "expression": "y(x, t) = a \\sin(\\omega t - kx)"
+      }
+    ],
+    "final_answer": "Thus, the transverse displacement y as a function of x and t is given by y(x, t) = 0.05 \\sin(256 t - kx).",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding wave equations and substituting parameters.",
+    "topics_tags": [
+      "Wave Equation",
+      "Transverse Waves",
+      "Amplitude",
+      "Frequency"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the setup of a string connected to a tuning fork and a mass.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777755086/ncert/physics/15/img_30_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q15.25",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 15,
+    "chapter_name": "Waves",
+    "question_type": "numerical",
+    "question_text": "A SONAR system fixed in a submarine operates at a frequency 40.0 kHz. An enemy submarine moves towards the SONAR with a speed of 360 km/h. What is the frequency of sound reflected by the submarine? Take the speed of sound in water to be 1450 m/s.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of the frequency received by the enemy submarine.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777755088/ncert/physics/15/img_31_0.png",
+      "latex_extracted": "\\nu^{\\prime}=\\left(\\frac{\\nu+\\nu_{\\mathrm{s}}}{\\nu}\\right)\\nu",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The apparent frequency received and reflected by the submarine is calculated using the formula for the Doppler effect.",
+    "answer_latex": "\\nu^{\\prime}=\\left(\\frac{\\nu+\\nu_{\\mathrm{s}}}{\\nu}\\right)\\nu = \\left(\\frac{1450+100}{1450}\\right)\\times40=42.76\\mathrm{~kHz}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the parameters: operating frequency of SONAR, speed of enemy submarine, and speed of sound in water.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Apply the Doppler effect formula for frequency received by the moving observer.",
+        "expression": "\\nu^{\\prime}=\\left(\\frac{\\nu+\\nu_{\\mathrm{s}}}{\\nu}\\right)\\nu"
+      },
+      {
+        "step_number": 3,
+        "description": "Substitute the values into the formula.",
+        "expression": "\\nu^{\\prime}=\\left(\\frac{1450+100}{1450}\\right)\\times40"
+      },
+      {
+        "step_number": 4,
+        "description": "Calculate the frequency.",
+        "expression": "\\nu^{\\prime}=42.76\\mathrm{~kHz}"
+      }
+    ],
+    "final_answer": "Therefore, the frequency of sound reflected by the submarine is 42.76 kHz.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of the Doppler effect and basic substitution.",
+    "topics_tags": [
+      "Doppler Effect",
+      "SONAR",
+      "Frequency"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the frequency received by the enemy submarine.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777755088/ncert/physics/15/img_31_0.png",
+        "latex_extracted": "\\nu^{\\prime}=\\left(\\frac{\\nu+\\nu_{\\mathrm{s}}}{\\nu}\\right)\\nu",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q15.26",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 15,
+    "chapter_name": "Waves",
+    "question_type": "numerical",
+    "question_text": "A bat is flitting about in a cave, navigating via ultrasonic beeps. Assume that the sound emission frequency of the bat is 40 kHz. During one fast swoop directly toward a flat wall surface, the bat is moving at 0.03 times the speed of sound in air. What frequency does the bat hear reflected off the wall?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of the frequency received by the bat after reflection from the wall.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777755097/ncert/physics/15/img_33_0.png",
+      "latex_extracted": "\\nu^{\\prime}=\\left(\\frac{\\nu}{\\nu-\\nu_{\\mathrm{b}}}\\right)\\nu",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The frequency of the sound reflected off the wall is calculated using the Doppler effect formula.",
+    "answer_latex": "\\nu^{\\prime}=\\left(\\frac{\\nu}{\\nu-0.03\\nu}\\right)\\times40",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the parameters: frequency emitted by the bat and its speed relative to the speed of sound.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Apply the Doppler effect formula for frequency received by the moving observer.",
+        "expression": "\\nu^{\\prime}=\\left(\\frac{\\nu}{\\nu-\\nu_{\\mathrm{b}}}\\right)\\nu"
+      },
+      {
+        "step_number": 3,
+        "description": "Substitute the values into the formula.",
+        "expression": "\\nu^{\\prime}=\\left(\\frac{40}{40-0.03\\times40}\\right)\\times40"
+      }
+    ],
+    "final_answer": "Therefore, the frequency heard by the bat reflected off the wall is calculated using the Doppler effect.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of the Doppler effect and basic substitution.",
+    "topics_tags": [
+      "Doppler Effect",
+      "Ultrasonic Waves",
+      "Frequency"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the frequency received by the bat after reflection from the wall.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777755097/ncert/physics/15/img_33_0.png",
+        "latex_extracted": "\\nu^{\\prime}=\\left(\\frac{\\nu}{\\nu-\\nu_{\\mathrm{b}}}\\right)\\nu",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q15.27",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 15,
+    "chapter_name": "Waves",
+    "question_type": "numerical",
+    "question_text": "A wave has a frequency \\( \\nu \\). If the frequency is adjusted by a factor of \\( \\frac{\\nu + \\nu_{b}}{\\nu} \\), find the new frequency \\( \\nu' \\) when \\( \\nu = 42.47 \\text{ kHz} \\).",
+    "question_latex": "\\nu' = \\left(\\frac{\\nu + \\nu_{b}}{\\nu}\\right) \\nu",
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of frequency adjustment in waves.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777755098/ncert/physics/15/img_34_0.png",
+      "latex_extracted": "\\begin{array}{c}{{\\nu^{\\prime}=\\left({\\frac{\\nu+\\nu_{\\mathrm{b}}}{\\nu}}\\right)\\nu^{\\prime}}}\\\\ {{\\nu}}\\\\ {{={\\frac{\\nu}{0.97}}=42.47{\\mathrm{~kHz}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The new frequency \\( \\nu' \\) is calculated as \\( \\nu' = \\frac{\\nu}{0.97} = 42.47 \\text{ kHz} \\).",
+    "answer_latex": "\\nu' = \\frac{\\nu}{0.97} = 42.47 \\text{ kHz}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Substitute the value of \\( \\nu \\) into the frequency adjustment formula.",
+        "expression": "\\nu' = \\frac{42.47}{0.97}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the new frequency.",
+        "expression": "\\nu' = 42.47 \\text{ kHz}"
+      }
+    ],
+    "final_answer": "Thus, the new frequency is 42.47 kHz.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of frequency adjustment and basic substitution.",
+    "topics_tags": [
+      "Frequency",
+      "Waves",
+      "Wave Adjustment"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of frequency adjustment in waves.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777755098/ncert/physics/15/img_34_0.png",
+        "latex_extracted": "\\begin{array}{c}{{\\nu^{\\prime}=\\left({\\frac{\\nu+\\nu_{\\mathrm{b}}}{\\nu}}\\right)\\nu^{\\prime}}}\\\\ {{\\nu}}\\\\ {{={\\frac{\\nu}{0.97}}=42.47{\\mathrm{~kHz}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  }
+]

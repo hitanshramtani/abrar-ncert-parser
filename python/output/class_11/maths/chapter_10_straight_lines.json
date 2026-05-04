@@ -1,0 +1,3360 @@
+[
+  {
+    "question_id": "Q10.1",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 10,
+    "chapter_name": "straight lines",
+    "question_type": "mcq",
+    "question_text": "Draw a quadrilateral in the Cartesian plane, whose vertices are (-4, 5), (0, 7), (5, -5) and (-4, -2). Also, find its area.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the quadrilateral ABCD with vertices A (-4, 5), B (0, 7), C (5, -5), and D (-4, -2) plotted on the Cartesian plane.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819249/ncert/maths/10/img_1_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "To find the area of quadrilateral ABCD, we draw one diagonal, say AC. Accordingly, area (ABCD) = area (ΔABC) + area (ΔACD).",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Plot the points A, B, C, and D on the Cartesian plane.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Draw the quadrilateral by joining the points A, B, C, and D.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the area of the quadrilateral by dividing it into two triangles.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the area of quadrilateral ABCD can be calculated using the areas of triangles ABC and ACD.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of plotting points and calculating areas of triangles.",
+    "topics_tags": [
+      "Quadrilaterals",
+      "Area",
+      "Coordinate Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the quadrilateral ABCD with vertices A (-4, 5), B (0, 7), C (5, -5), and D (-4, -2) plotted on the Cartesian plane.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819249/ncert/maths/10/img_1_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q10.2",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 10,
+    "chapter_name": "straight lines",
+    "question_type": "conceptual",
+    "question_text": "The base of an equilateral triangle with side 2a lies along the y-axis such that the mid-point of the base is at the origin. Find vertices of the triangle.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram illustrating the equilateral triangle with vertices based on the given conditions.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819250/ncert/maths/10/img_2_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The coordinates of point C are (0, a), while the coordinates of point B are (0, -a). The vertex A lies on the y-axis.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the mid-point of the base BC at the origin.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Determine the coordinates of points B and C based on the side length.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Use Pythagoras theorem to find the coordinates of vertex A.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the vertices of the given equilateral triangle are (0, a), (0, -a), and (0, a).",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic understanding of geometry and coordinate systems.",
+    "topics_tags": [
+      "Equilateral Triangle",
+      "Coordinates",
+      "Geometry"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram illustrating the equilateral triangle with vertices based on the given conditions.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819250/ncert/maths/10/img_2_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q10.3",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 10,
+    "chapter_name": "straight lines",
+    "question_type": "mcq",
+    "question_text": "Find a point on the x-axis, which is equidistant from the points (7, 6) and (3, 4).",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to finding a point on the x-axis equidistant from two given points.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819254/ncert/maths/10/img_4_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The required point on the x-axis is (6, 0).",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set the point on the x-axis as (a, 0) and equate distances to (7, 6) and (3, 4).",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Square both sides and simplify the equation.",
+        "expression": "a^2 - 14a + 85 = a^2 - 6a + 25"
+      },
+      {
+        "step_number": 3,
+        "description": "Solve for a.",
+        "expression": "-14a + 6a = 25 - 85"
+      },
+      {
+        "step_number": 4,
+        "description": "Find the value of a.",
+        "expression": "-8a = -60"
+      }
+    ],
+    "final_answer": "Thus, the required point on the x-axis is (6, 0).",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of distance formula and basic algebra.",
+    "topics_tags": [
+      "Distance Formula",
+      "Coordinate Geometry",
+      "Equidistant Points"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to finding a point on the x-axis equidistant from two given points.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819254/ncert/maths/10/img_4_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q10.4",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 10,
+    "chapter_name": "straight lines",
+    "question_type": "numerical",
+    "question_text": "Find the slope of a line, which passes through the origin, and the mid-point of the line segment joining the points P (0, -4) and B (8, 0).",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The slope of the line is 0.5.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the mid-point of the line segment joining P and B.",
+        "expression": "M = \\left( \\frac{0 + 8}{2}, \\frac{-4 + 0}{2} \\right)"
+      },
+      {
+        "step_number": 2,
+        "description": "Determine the slope using the origin and the mid-point.",
+        "expression": "m = \\frac{y_2 - y_1}{x_2 - x_1}"
+      }
+    ],
+    "final_answer": "Thus, the required slope of the line is 0.5.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic calculations of mid-point and slope.",
+    "topics_tags": [
+      "Slope",
+      "Mid-point",
+      "Coordinate Geometry"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q10.5",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 10,
+    "chapter_name": "straight lines",
+    "question_type": "mcq",
+    "question_text": "Without using distance formula, show that points (-2, -1), (4, 0), (3, 3) and (-3, 2) are vertices of a parallelogram.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Both pairs of opposite sides of quadrilateral ABCD are parallel. Hence, ABCD is a parallelogram.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the slope of line segment AB and CD.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Show that slope of AB equals slope of CD, indicating they are parallel.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the slope of line segment BC and AD.",
+        "expression": null
+      },
+      {
+        "step_number": 4,
+        "description": "Show that slope of BC equals slope of AD, indicating they are parallel.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, points (-2, -1), (4, 0), (3, 3), and (-3, 2) are the vertices of a parallelogram.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram illustrating the points A, B, C, and D representing the vertices of a parallelogram.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819258/ncert/maths/10/img_7_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of slopes and properties of parallelograms.",
+    "topics_tags": [
+      "Parallelogram",
+      "Slope",
+      "Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram illustrating the points A, B, C, and D representing the vertices of a parallelogram.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819258/ncert/maths/10/img_7_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q10.6",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 10,
+    "chapter_name": "straight lines",
+    "question_type": "derivation",
+    "question_text": "Find the equation of the line which intersects the y-axis at a distance of 2 units above the origin and makes an angle of 30° with the positive direction of the x-axis.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image related to the question about the line intersecting the y-axis.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819272/ncert/maths/10/img_14_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The required equation of the given line is y = \\sqrt{3}x + 2.",
+    "answer_latex": "y = \\sqrt{3}x + 2",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the y-intercept and slope from the angle.",
+        "expression": "m = \\tan(30°)"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values into the line equation format.",
+        "expression": "y = mx + c"
+      },
+      {
+        "step_number": 3,
+        "description": "Simplify the equation to standard form.",
+        "expression": "y = \\sqrt{3}x + 2"
+      }
+    ],
+    "final_answer": "Thus, the required equation of the line is y = \\sqrt{3}x + 2.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of line equations and trigonometric functions.",
+    "topics_tags": [
+      "Line Equation",
+      "Y-Intercept",
+      "Angle with Axis"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image related to the question about the line intersecting the y-axis.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819272/ncert/maths/10/img_14_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q10.7",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 10,
+    "chapter_name": "straight lines",
+    "question_type": "conceptual",
+    "question_text": "If three points (h, 0), (a, b) and (0, k) lie on a line, show that the slope of AB equals the slope of BC.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The slope of line AB equals the slope of line BC, confirming that the points are collinear.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the slope of line AB using the formula (y2 - y1) / (x2 - x1).",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the slope of line BC using the same slope formula.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Set the slopes equal to each other to show that the points are collinear.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the slopes being equal confirms that the points lie on the same line.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram illustrating the points A(h, 0), B(a, b), and C(0, k) on a line.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819263/ncert/maths/10/img_10_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of slope calculation and basic algebra.",
+    "topics_tags": [
+      "Slope",
+      "Collinearity",
+      "Straight Lines"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram illustrating the points A(h, 0), B(a, b), and C(0, k) on a line.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819263/ncert/maths/10/img_10_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q10.8",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 10,
+    "chapter_name": "straight lines",
+    "question_type": "numerical",
+    "question_text": "Consider the given population and year graph. Find the slope of the line AB and using it, find what will be the population in the year 2010?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Graph showing population over years with points A and B marked.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819265/ncert/maths/10/img_10_2.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The slope of line AB is calculated, and the population in 2010 is estimated to be 104.5 crores.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the coordinates of points A and B from the graph.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the slope using the formula (y2 - y1) / (x2 - x1).",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Use the slope to find the population at the year 2010.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the population in the year 2010 will be 104.5 crores.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves calculation of slope and application to estimate population.",
+    "topics_tags": [
+      "Population Growth",
+      "Slope",
+      "Linear Graphs"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Graph showing population over years with points A and B marked.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819265/ncert/maths/10/img_10_2.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q10.9",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 10,
+    "chapter_name": "straight lines",
+    "question_type": "numerical",
+    "question_text": "Find the equation of the line which passes through (0, 0) with slope m.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Graph showing the line passing through the origin with slope m.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819268/ncert/maths/10/img_12_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The equation of the line is y = mx.",
+    "answer_latex": "y = mx",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Use the point-slope form of the line equation.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the point (0, 0) and slope m into the equation.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the equation of the line is y = mx.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct application of the point-slope form of a line.",
+    "topics_tags": [
+      "Line Equation",
+      "Slope",
+      "Coordinate Geometry"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Graph showing the line passing through the origin with slope m.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819268/ncert/maths/10/img_12_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q10.15",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 10,
+    "chapter_name": "straight lines",
+    "question_type": "mcq",
+    "question_text": "Find the equation of the line passing through (-3, 5) and perpendicular to the line through the points (2, 5) and (-3, 6).",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to the equation of the line and slopes.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819277/ncert/maths/10/img_16_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The slope of the line joining the points (2, 5) and (-3, 6) is calculated, and the slope of the perpendicular line is determined. The equation of the line passing through (-3, 5) with this slope is derived.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the slope of the line joining the points (2, 5) and (-3, 6).",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Determine the slope of the line perpendicular to the calculated slope.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Use the point-slope form to find the equation of the line passing through (-3, 5).",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the equation of the line is derived based on the calculated slope.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves calculating slopes and applying the point-slope form, requiring multi-step reasoning.",
+    "topics_tags": [
+      "Line Equation",
+      "Slope",
+      "Perpendicular Lines"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "Some context is mixed, affecting clarity."
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the equation of the line and slopes.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819277/ncert/maths/10/img_16_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q10.16",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 10,
+    "chapter_name": "straight lines",
+    "question_type": "mcq",
+    "question_text": "A line perpendicular to the line segment joining the points (1, 0) and (2, 3) divides it in the ratio 1:n. Find the equation of the line.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to the line segment and its division.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819278/ncert/maths/10/img_16_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The coordinates of the point dividing the line segment are calculated using the section formula. The slope of the line joining the points (1, 0) and (2, 3) is determined, and the slope of the perpendicular line is found. The equation of the line is then derived.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Use the section formula to find the coordinates of the dividing point.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the slope of the line joining the points (1, 0) and (2, 3).",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Determine the slope of the line that is perpendicular to the calculated slope.",
+        "expression": null
+      },
+      {
+        "step_number": 4,
+        "description": "Use the point-slope form to find the equation of the line.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the equation of the line is derived based on the calculated slope.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves using the section formula and slope calculations, requiring multi-step reasoning.",
+    "topics_tags": [
+      "Line Equation",
+      "Slope",
+      "Section Formula"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "Some context is mixed, affecting clarity."
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the line segment and its division.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819278/ncert/maths/10/img_16_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q10.17",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 10,
+    "chapter_name": "straight lines",
+    "question_type": "numerical",
+    "question_text": "Find the equation of a line that cuts off equal intercepts on the coordinate axes and passes through the point (2, 3).",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to the intercepts on the coordinate axes.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819280/ncert/maths/10/img_17_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The equation of the line in intercept form is derived, and since it cuts off equal intercepts, the equation simplifies. Substituting the point (2, 3) gives the final equation.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Write the equation of the line in intercept form.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Set the intercepts equal since the line cuts off equal intercepts.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Substitute the point (2, 3) into the equation to find the intercept.",
+        "expression": null
+      }
+    ],
+    "final_answer": "The required equation of the line is x + y = 5.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves understanding intercept form and basic substitution.",
+    "topics_tags": [
+      "Line Equation",
+      "Intercepts",
+      "Coordinate Geometry"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the intercepts on the coordinate axes.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819280/ncert/maths/10/img_17_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q10.18",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 10,
+    "chapter_name": "straight lines",
+    "question_type": "mcq",
+    "question_text": "Find equation of the line passing through the point (2, 2) and cutting off intercepts on the axes whose sum is 9.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to the intercepts on the coordinate axes.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819281/ncert/maths/10/img_17_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The equation of the line in intercept form is derived, and using the condition that the sum of intercepts is 9, the final equation is obtained.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Write the equation of the line in intercept form.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Set the sum of intercepts equal to 9.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Substitute the point (2, 2) into the equation to find the intercepts.",
+        "expression": null
+      }
+    ],
+    "final_answer": "The required equation of the line is derived based on the intercepts.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves understanding intercept form and basic substitution.",
+    "topics_tags": [
+      "Line Equation",
+      "Intercepts",
+      "Coordinate Geometry"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the intercepts on the coordinate axes.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819281/ncert/maths/10/img_17_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q10.19",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 10,
+    "chapter_name": "straight lines",
+    "question_type": "conceptual",
+    "question_text": "The perpendicular from the origin to a line meets it at the point (-2, 9), find the equation of the line.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the perpendicular from the origin to the line meeting at point (-2, 9)",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819283/ncert/maths/10/img_19_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The slope of the line joining the origin (0, 0) and point (-2, 9) is calculated, and the slope of the line perpendicular to it is determined.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the slope of the line joining the origin (0, 0) and point (-2, 9).",
+        "expression": "m = \frac{9 - 0}{-2 - 0} = -\frac{9}{2}"
+      },
+      {
+        "step_number": 2,
+        "description": "Determine the slope of the line perpendicular to the line joining the origin and point (-2, 9).",
+        "expression": "m_{perpendicular} = \frac{2}{9}"
+      },
+      {
+        "step_number": 3,
+        "description": "Use the point-slope form to find the equation of the line passing through point (-2, 9) with the calculated slope.",
+        "expression": "y - 9 = \frac{2}{9}(x + 2)"
+      }
+    ],
+    "final_answer": "Thus, the equation of the line is y = \frac{2}{9}x + \frac{85}{9}.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves calculating slopes and using point-slope form, requiring multi-step reasoning.",
+    "topics_tags": [
+      "Linear Equations",
+      "Slope",
+      "Perpendicular Lines"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the perpendicular from the origin to the line meeting at point (-2, 9)",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819283/ncert/maths/10/img_19_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q10.20",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 10,
+    "chapter_name": "straight lines",
+    "question_type": "mcq",
+    "question_text": "The length L (in centimetre) of a copper rod is a linear function of its Celsius temperature C. In an experiment, if L = 124.942 when C = 20 and L = 125.134 when C = 110, express L in terms of C.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The linear relation between L and C can be expressed using the two points (20, 124.942) and (110, 125.134).",
+    "answer_latex": "L - 124.942 = \frac{125.134 - 124.942}{110 - 20}(C - 20)",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the two points that represent the linear relationship.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the slope of the line using the two points.",
+        "expression": "m = \frac{125.134 - 124.942}{110 - 20}"
+      },
+      {
+        "step_number": 3,
+        "description": "Use point-slope form to express L in terms of C.",
+        "expression": "L - 124.942 = m(C - 20)"
+      }
+    ],
+    "final_answer": "Thus, L can be expressed as L = \frac{0.0019}{90}(C - 20) + 124.942.",
+    "answer_image": {
+      "present": true,
+      "description": "Graphical representation of the linear relationship between length and temperature.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819286/ncert/maths/10/img_20_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of linear functions and basic calculations.",
+    "topics_tags": [
+      "Linear Functions",
+      "Temperature",
+      "Copper Rod"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Graphical representation of the linear relationship between length and temperature.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819286/ncert/maths/10/img_20_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q10.21",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 10,
+    "chapter_name": "straight lines",
+    "question_type": "conceptual",
+    "question_text": "P (a, b) is the mid-point of a line segment between axes. Show that equation of the line is.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Let A and B be the endpoints of the line segment, and derive the equation using the mid-point formula.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Define the coordinates of points A and B based on the mid-point P(a, b).",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the mid-point formula to express the coordinates of A and B.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Derive the equation of the line passing through points A and B.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the equation of the line can be expressed in terms of a and b.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram illustrating the mid-point of a line segment between the axes.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819287/ncert/maths/10/img_21_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding mid-point and deriving the line equation, requiring conceptual clarity.",
+    "topics_tags": [
+      "Mid-point",
+      "Line Segment",
+      "Coordinate Geometry"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram illustrating the mid-point of a line segment between the axes.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819287/ncert/maths/10/img_21_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q10.22",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 10,
+    "chapter_name": "straight lines",
+    "question_type": "mcq",
+    "question_text": "Point R (h, k) divides a line segment between the axes in the ratio 1:2. Find equation of the line.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to the line segment between the axes.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819290/ncert/maths/10/img_22_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The required equation of the line is 2kx + hy = 3hk.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the coordinates of points A and B based on the ratio.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the section formula to find the coordinates of point R.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Formulate the equation of the line using the coordinates of points A and B.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the required equation of the line is 2kx + hy = 3hk.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of section formula and basic line equations.",
+    "topics_tags": [
+      "Line Equation",
+      "Section Formula",
+      "Coordinate Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the line segment between the axes.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819290/ncert/maths/10/img_22_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q10.23",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 10,
+    "chapter_name": "straight lines",
+    "question_type": "mcq",
+    "question_text": "By using the concept of equation of a line, prove that the three points (3, 0), (-2, -2) and (8, 2) are collinear.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the points (3, 0), (-2, -2), and (8, 2) on a coordinate plane.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819296/ncert/maths/10/img_23_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The line passing through points (3, 0) and (-2, -2) also passes through point (8, 2). Hence, points (3, 0), (-2, -2), and (8, 2) are collinear.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Find the equation of the line passing through points (3, 0) and (-2, -2).",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute x = 8 into the line equation to check if y = 2.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Verify that the left-hand side equals the right-hand side.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, the points are collinear.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of collinearity and line equations.",
+    "topics_tags": [
+      "Collinearity",
+      "Line Equation",
+      "Coordinate Geometry"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the points (3, 0), (-2, -2), and (8, 2) on a coordinate plane.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819296/ncert/maths/10/img_23_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q10.24",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 10,
+    "chapter_name": "straight lines",
+    "question_type": "conceptual",
+    "question_text": "Reduce the following equations into normal form. Find their perpendicular distances from the origin and angle between perpendicular and the positive x-axis.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The given equations can be reduced to normal form, and their perpendicular distances and angles can be calculated.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the given equations and their forms.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Convert each equation to normal form.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the perpendicular distances from the origin.",
+        "expression": null
+      },
+      {
+        "step_number": 4,
+        "description": "Determine the angles between the perpendiculars and the positive x-axis.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the perpendicular distances and angles for each equation are determined.",
+    "answer_image": {
+      "present": true,
+      "description": "Images showing equations and their forms related to intercepts and normal forms.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819300/ncert/maths/10/img_25_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of normal forms and multi-step calculations.",
+    "topics_tags": [
+      "Normal Form",
+      "Perpendicular Distance",
+      "Angles"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "Some text garbling and missing specific values in equations."
+    ],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Images showing equations and their forms related to intercepts and normal forms.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819300/ncert/maths/10/img_25_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      },
+      {
+        "present": true,
+        "description": "Images showing the normal forms and calculations related to the equations.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819301/ncert/maths/10/img_25_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q10.25",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 10,
+    "chapter_name": "straight lines",
+    "question_type": "numerical",
+    "question_text": "Find the distance between parallel lines (i) 15x + 8y - 34 = 0 and 15x + 8y + 31 = 0.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to the distance between parallel lines.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819306/ncert/maths/10/img_28_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The distance between the parallel lines is calculated using the formula for distance between two parallel lines.",
+    "answer_latex": "d = \\frac{|C_2 - C_1|}{\\sqrt{A^2 + B^2}} = \\frac{|31 - (-34)|}{\\sqrt{15^2 + 8^2}}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify coefficients A, B, and C from the equations of the lines.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values into the distance formula.",
+        "expression": "d = \\frac{|31 - (-34)|}{\\sqrt{15^2 + 8^2}}"
+      }
+    ],
+    "final_answer": "Therefore, the distance between the parallel lines is calculated using the given formula.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of the distance formula for parallel lines and basic substitution.",
+    "topics_tags": [
+      "Parallel Lines",
+      "Distance Formula",
+      "Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the distance between parallel lines.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819306/ncert/maths/10/img_28_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q10.26",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 10,
+    "chapter_name": "straight lines",
+    "question_type": "numerical",
+    "question_text": "Find equation of the line parallel to the line 3x - 4y + 2 = 0 and passing through the point (-2, 3).",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to finding the equation of a line.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819308/ncert/maths/10/img_29_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The equation of the line parallel to the given line and passing through the point (-2, 3) can be derived using the slope.",
+    "answer_latex": "y - 3 = \\frac{3}{4}(x + 2)",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Determine the slope of the given line from its equation.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the point-slope form to find the equation of the parallel line.",
+        "expression": "y - 3 = \\frac{3}{4}(x + 2)"
+      }
+    ],
+    "final_answer": "Thus, the required equation of the line is derived.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves understanding of parallel lines and application of point-slope form.",
+    "topics_tags": [
+      "Parallel Lines",
+      "Point-Slope Form",
+      "Linear Equations"
+    ],
+    "confidence_score": 0.93,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to finding the equation of a line.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819308/ncert/maths/10/img_29_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q10.27",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 10,
+    "chapter_name": "straight lines",
+    "question_type": "numerical",
+    "question_text": "Find equation of the line perpendicular to the line x - 7y + 5 = 0 and having x intercept 3.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to finding the equation of a perpendicular line.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819311/ncert/maths/10/img_30_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The equation of the line perpendicular to the given line and having x-intercept 3 can be derived using the slope.",
+    "answer_latex": "7x + y = 21",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Determine the slope of the given line from its equation.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the negative reciprocal of the slope for the perpendicular line.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Substitute the x-intercept into the equation.",
+        "expression": "y = -7(x - 3)"
+      }
+    ],
+    "final_answer": "Thus, the required equation of the perpendicular line is found.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of perpendicular lines and application of slope concepts.",
+    "topics_tags": [
+      "Perpendicular Lines",
+      "Slope",
+      "Linear Equations"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to finding the equation of a perpendicular line.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819311/ncert/maths/10/img_30_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q10.28",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 10,
+    "chapter_name": "straight lines",
+    "question_type": "mcq",
+    "question_text": "The line through the points (h, 3) and (4, 1) intersects the line 7x - 9y - 19 = 0 at right angle. Find the value of h.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to the intersection of lines and slopes.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819311/ncert/maths/10/img_31_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The slope of the line passing through points (h, 3) and (4, 1) is calculated, and since the lines are perpendicular, the relationship between their slopes is used to find h.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the slope of the line through points (h, 3) and (4, 1).",
+        "expression": "m_1 = \frac{1 - 3}{4 - h}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the slope of the line 7x - 9y - 19 = 0.",
+        "expression": "m_2 = \frac{7}{9}"
+      },
+      {
+        "step_number": 3,
+        "description": "Set the product of the slopes equal to -1 for perpendicular lines.",
+        "expression": "m_1 * m_2 = -1"
+      },
+      {
+        "step_number": 4,
+        "description": "Substitute the slopes into the equation and solve for h.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the value of h is determined from the slope relationship.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multi-step reasoning to find the value of h using slopes.",
+    "topics_tags": [
+      "Slope",
+      "Perpendicular Lines",
+      "Linear Equations"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "Some text garbling and incomplete answer context."
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the intersection of lines and slopes.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819311/ncert/maths/10/img_31_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q10.29",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 10,
+    "chapter_name": "straight lines",
+    "question_type": "mcq",
+    "question_text": "Find the equation of the right bisector of the line segment joining the points (3, 4) and (-1, 2).",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the line segment and its right bisector.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819319/ncert/maths/10/img_34_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Thus, the required equation of the line is 2x + y = 5.",
+    "answer_latex": "2x + y = 5",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the mid-point of the line segment joining points A(3, 4) and B(-1, 2).",
+        "expression": "(1, 3)"
+      },
+      {
+        "step_number": 2,
+        "description": "Determine the slope of line segment AB.",
+        "expression": "m_{AB} = \\frac{y_2 - y_1}{x_2 - x_1} = \\frac{2 - 4}{-1 - 3} = \\frac{-2}{-4} = \\frac{1}{2}"
+      },
+      {
+        "step_number": 3,
+        "description": "Find the slope of the right bisector, which is perpendicular to AB.",
+        "expression": "m_{perpendicular} = -\\frac{1}{m_{AB}} = -2"
+      },
+      {
+        "step_number": 4,
+        "description": "Use point-slope form to find the equation of the right bisector.",
+        "expression": "(y - 3) = -2(x - 1)"
+      },
+      {
+        "step_number": 5,
+        "description": "Rearrange to standard form.",
+        "expression": "2x + y = 5"
+      }
+    ],
+    "final_answer": "Therefore, the required equation of the right bisector is 2x + y = 5.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps including finding mid-point and slopes.",
+    "topics_tags": [
+      "Right Bisector",
+      "Geometry",
+      "Coordinate Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the line segment and its right bisector.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819319/ncert/maths/10/img_34_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q10.30",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 10,
+    "chapter_name": "straight lines",
+    "question_type": "numerical",
+    "question_text": "Find the coordinates of the foot of perpendicular from the point (-1, 3) to the line 3x - 4y - 16 = 0.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Thus, the required coordinates of the foot of the perpendicular are (a, b).",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Let (a, b) be the coordinates of the foot of the perpendicular.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Find the slope of the line joining (-1, 3) and (a, b).",
+        "expression": "m = \\frac{b - 3}{a + 1}"
+      },
+      {
+        "step_number": 3,
+        "description": "Find the slope of the line 3x - 4y - 16 = 0.",
+        "expression": "m_{line} = \\frac{3}{4}"
+      },
+      {
+        "step_number": 4,
+        "description": "Set the product of slopes equal to -1 since the lines are perpendicular.",
+        "expression": "m \\cdot m_{line} = -1"
+      },
+      {
+        "step_number": 5,
+        "description": "Solve the equations to find (a, b).",
+        "expression": "3a - 4b = 16"
+      }
+    ],
+    "final_answer": "Therefore, the coordinates of the foot of the perpendicular are (a, b).",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram illustrating the foot of the perpendicular from a point to a line.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819321/ncert/maths/10/img_35_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of perpendicular distances and solving equations.",
+    "topics_tags": [
+      "Perpendicular",
+      "Coordinates",
+      "Geometry"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram illustrating the foot of the perpendicular from a point to a line.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819321/ncert/maths/10/img_35_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q10.31",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 10,
+    "chapter_name": "straight lines",
+    "question_type": "mcq",
+    "question_text": "The perpendicular from the origin to the line y = mx + c meets it at the point (-1, 2). Find the values of m and c.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the perpendicular from the origin to the line.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819322/ncert/maths/10/img_36_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Thus, the respective values of m and c are determined.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the slope of the line joining the origin (0, 0) and the point (-1, 2).",
+        "expression": "m_{perpendicular} = \\frac{2 - 0}{-1 - 0} = -2"
+      },
+      {
+        "step_number": 2,
+        "description": "Set the slope of the line y = mx + c equal to m.",
+        "expression": "m = -\\frac{1}{2}"
+      },
+      {
+        "step_number": 3,
+        "description": "Substitute the point (-1, 2) into the line equation to find c.",
+        "expression": "2 = m(-1) + c"
+      },
+      {
+        "step_number": 4,
+        "description": "Solve for c.",
+        "expression": "c = 2 + m"
+      }
+    ],
+    "final_answer": "Therefore, the values of m and c are found.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding slopes and solving for two variables.",
+    "topics_tags": [
+      "Perpendicular",
+      "Slope",
+      "Linear Equations"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the perpendicular from the origin to the line.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819322/ncert/maths/10/img_36_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q10.32",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 10,
+    "chapter_name": "straight lines",
+    "question_type": "mcq",
+    "question_text": "In the triangle ABC with vertices A (2, 3), B (4, -1) and C (1, 2), find the equation and length of altitude from the vertex A.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing triangle ABC with vertices A, B, and C.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819324/ncert/maths/10/img_37_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The equation of the altitude from vertex A is y - x = 1 and the length of the altitude is calculated as the perpendicular distance from point A to line BC.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Determine the slope of line BC using points B and C.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use point A and the slope to find the equation of the altitude AD.",
+        "expression": "(y - 3) = 1(x - 2)"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the length of the altitude using the perpendicular distance formula.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the equation and the length of the altitude from vertex A are y - x = 1 and units respectively.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps including finding slopes and using distance formulas.",
+    "topics_tags": [
+      "Triangle",
+      "Altitude",
+      "Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing triangle ABC with vertices A, B, and C.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819324/ncert/maths/10/img_37_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q10.33",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 10,
+    "chapter_name": "straight lines",
+    "question_type": "mcq",
+    "question_text": "The given equation of line is (k – 3) x – (4 – k²) y + k² – 7k + 6 = 0. (a) If the given line is parallel to the x-axis, then what is the value of k? (b) If the given line is parallel to the y-axis, what is the value of k? (c) If the given line is passing through the origin, what is the value of k?",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "If the given line is parallel to the x-axis, then what is the value of k?"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "If the given line is parallel to the y-axis, what is the value of k?"
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "If the given line is passing through the origin, what is the value of k?"
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Images related to the equation of the line and its properties.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819332/ncert/maths/10/img_40_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "If the given line is parallel to the x-axis, then the value of k is?",
+        "part_latex": null,
+        "answer_text": "The value of k is 3.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify that the slope of the line must be zero for it to be parallel to the x-axis.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Set the slope equal to zero and solve for k.",
+            "expression": "k = 3"
+          }
+        ],
+        "final_answer": "Thus, if the given line is parallel to the x-axis, then the value of k is 3.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "If the given line is parallel to the y-axis, what is the value of k?",
+        "part_latex": null,
+        "answer_text": "The value of k is ±2.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify that the slope is undefined for the line to be vertical.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Set the condition for undefined slope and solve for k.",
+            "expression": "k^2 = 4"
+          }
+        ],
+        "final_answer": "Thus, if the given line is parallel to the y-axis, then the value of k is ±2.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "If the given line is passing through the origin, what is the value of k?",
+        "part_latex": null,
+        "answer_text": "The value of k is either 1 or 6.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Substitute (0, 0) into the line equation and solve for k.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, if the given line is passing through the origin, then the value of k is either 1 or 6.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of line properties and solving equations.",
+    "topics_tags": [
+      "Line Equation",
+      "Slope",
+      "Intercepts"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Images related to the equation of the line and its properties.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819332/ncert/maths/10/img_40_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q10.34",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 10,
+    "chapter_name": "straight lines",
+    "question_type": "conceptual",
+    "question_text": "Find the perpendicular distance from the origin to the line joining the points.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to the line joining points and its perpendicular distance from the origin.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819340/ncert/maths/10/img_43_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The perpendicular distance (d) of the given line from point (x, y) = (0, 0) is calculated using the formula.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the equation of the line joining the points.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the formula for perpendicular distance from a point to a line.",
+        "expression": "d = \\frac{|Ax_0 + By_0 + C|}{\\sqrt{A^2 + B^2}}"
+      }
+    ],
+    "final_answer": "Thus, the required perpendicular distance from the origin to the line is calculated using the formula.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of the formula for perpendicular distance and its application.",
+    "topics_tags": [
+      "Perpendicular Distance",
+      "Line Equation",
+      "Coordinate Geometry"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the line joining points and its perpendicular distance from the origin.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819340/ncert/maths/10/img_43_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q10.35",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 10,
+    "chapter_name": "straight lines",
+    "question_type": "conceptual",
+    "question_text": "Find the equation of the line parallel to y-axis and drawn through the point of intersection of the lines x - 7y + 5 = 0 and 3x + y = 0.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to the intersection of two lines and the line parallel to the y-axis.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819341/ncert/maths/10/img_44_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The equation of any line parallel to the y-axis is of the form x = a.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Solve the equations of the two lines to find their point of intersection.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the x-coordinate of the intersection point to write the equation of the line parallel to the y-axis.",
+        "expression": "x = a"
+      }
+    ],
+    "final_answer": "Thus, the required equation of the line is determined from the intersection point.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves solving two equations and understanding the concept of parallel lines.",
+    "topics_tags": [
+      "Line Equation",
+      "Intersection",
+      "Coordinate Geometry"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the intersection of two lines and the line parallel to the y-axis.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819341/ncert/maths/10/img_44_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q10.36",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 10,
+    "chapter_name": "straight lines",
+    "question_type": "conceptual",
+    "question_text": "Find the equation of a line drawn perpendicular to the line through the point, where it meets the y-axis.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the line and its intersection with the y-axis.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819342/ncert/maths/10/img_45_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The equation of the line that has a slope of and passes through point (0, 6) is determined.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the slope of the given line.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the slope of the line perpendicular to the given line.",
+        "expression": "m_{perpendicular} = -\\frac{1}{m}"
+      },
+      {
+        "step_number": 3,
+        "description": "Use the point-slope form to find the equation of the perpendicular line.",
+        "expression": "y - y_1 = m_{perpendicular}(x - x_1)"
+      }
+    ],
+    "final_answer": "Thus, the required equation of the line is established.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding slopes and applying the point-slope form of a line.",
+    "topics_tags": [
+      "Perpendicular Line",
+      "Slope",
+      "Coordinate Geometry"
+    ],
+    "confidence_score": 0.88,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the line and its intersection with the y-axis.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819342/ncert/maths/10/img_45_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q10.37",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 10,
+    "chapter_name": "straight lines",
+    "question_type": "numerical",
+    "question_text": "Find the area of the triangle formed by the lines y - x = 0, x + y = 0 and x - k = 0.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the triangle formed by the intersection of three lines.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819344/ncert/maths/10/img_46_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The vertices of the triangle formed by the three given lines are (0, 0), (k, -k), and (k, k).",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the points of intersection of the lines.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the formula for the area of a triangle given its vertices.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, the area of the triangle formed by the three given lines is calculated using the vertices.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of geometry and application of area formula.",
+    "topics_tags": [
+      "Triangle Area",
+      "Geometry",
+      "Lines"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the triangle formed by the intersection of three lines.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819344/ncert/maths/10/img_46_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q10.38",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 10,
+    "chapter_name": "straight lines",
+    "question_type": "numerical",
+    "question_text": "Find the value of p so that the three lines 3x + y - 2 = 0, px + 2y - 3 = 0 and 2x - y - 3 = 0 may intersect at one point.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the intersection of three lines.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819345/ncert/maths/10/img_47_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Thus, the required value of p is 5.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Solve the equations of the lines to find the intersection point.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the intersection point into the third line's equation to find p.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, the value of p that allows the lines to intersect at one point is 5.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic algebraic manipulation and understanding of line intersection.",
+    "topics_tags": [
+      "Line Intersection",
+      "Algebra",
+      "Concurrent Lines"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the intersection of three lines.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819345/ncert/maths/10/img_47_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q10.39",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 10,
+    "chapter_name": "straight lines",
+    "question_type": "conceptual",
+    "question_text": "If three lines whose equations are concurrent, then show that.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram illustrating the concept of concurrent lines.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819346/ncert/maths/10/img_47_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The equations of the given lines are y = mx + c.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "State the condition for three lines to be concurrent.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Demonstrate the relationship between the slopes and intercepts.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the condition for concurrency can be established through the relationships of the lines.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of line equations and concurrency conditions.",
+    "topics_tags": [
+      "Concurrent Lines",
+      "Geometry",
+      "Algebra"
+    ],
+    "confidence_score": 0.88,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram illustrating the concept of concurrent lines.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819346/ncert/maths/10/img_47_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q10.40",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 10,
+    "chapter_name": "straight lines",
+    "question_type": "conceptual",
+    "question_text": "Find the equation of the line passing through the point of intersection of the lines 4x + 7y - 3 = 0 and 2x - 3y + 1 = 0 that has equal intercepts on the axes.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Image showing the context of the problem related to the equations of lines.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819350/ncert/maths/10/img_50_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires solving simultaneous equations and understanding of line equations.",
+    "topics_tags": [
+      "Line Equation",
+      "Intercepts",
+      "Simultaneous Equations"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image showing the context of the problem related to the equations of lines.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819350/ncert/maths/10/img_50_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q10.41",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 10,
+    "chapter_name": "straight lines",
+    "question_type": "conceptual",
+    "question_text": "Show that the equation of the line passing through the origin and making an angle θ with the line y = mx + c is given by y = mx.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image related to the concept of lines and angles.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819351/ncert/maths/10/img_50_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves understanding the relationship between lines and angles.",
+    "topics_tags": [
+      "Line through Origin",
+      "Angle with Line",
+      "Geometry"
+    ],
+    "confidence_score": 0.8,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image related to the concept of lines and angles.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819351/ncert/maths/10/img_50_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q10.42",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 10,
+    "chapter_name": "straight lines",
+    "question_type": "mcq",
+    "question_text": "In what ratio, the line joining (-1, 1) and (5, 7) is divided by the line x + y = 4?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Thus, the line joining the points (-1, 1) and (5, 7) is divided by line x + y = 4 in the ratio 1:2.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the required ratio is 1:2.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram related to the line joining points (-1, 1) and (5, 7) and the line x + y = 4.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819354/ncert/maths/10/img_52_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of section formula and basic geometry.",
+    "topics_tags": [
+      "Section Formula",
+      "Straight Lines",
+      "Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the line joining points (-1, 1) and (5, 7) and the line x + y = 4.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819354/ncert/maths/10/img_52_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q10.43",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 10,
+    "chapter_name": "straight lines",
+    "question_type": "numerical",
+    "question_text": "Find the distance of the line 4x + 7y + 5 = 0 from the point (1, 2) along the line 2x - y = 0.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the point (1, 2) and the line 4x + 7y + 5 = 0.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819356/ncert/maths/10/img_53_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The distance can be calculated using the distance formula between points A and B.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the required distance is calculated based on the coordinates obtained.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves application of distance formula and solving equations.",
+    "topics_tags": [
+      "Distance Formula",
+      "Straight Lines",
+      "Geometry"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the point (1, 2) and the line 4x + 7y + 5 = 0.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819356/ncert/maths/10/img_53_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q10.44",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 10,
+    "chapter_name": "straight lines",
+    "question_type": "numerical",
+    "question_text": "Find the direction in which a straight line must be drawn through the point (-1, 2) so that its point of intersection with the line x + y = 4 may be at a distance of 3 units from this point.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram illustrating the point (-1, 2) and the line x + y = 4.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819357/ncert/maths/10/img_54_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Let y = mx + c be the line through point (-1, 2).",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "The direction can be determined by solving the equations derived.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Involves deriving equations and understanding geometric properties.",
+    "topics_tags": [
+      "Line Equation",
+      "Distance",
+      "Geometry"
+    ],
+    "confidence_score": 0.88,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram illustrating the point (-1, 2) and the line x + y = 4.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819357/ncert/maths/10/img_54_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q10.45",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 10,
+    "chapter_name": "straight lines",
+    "question_type": "mcq",
+    "question_text": "The hypotenuse of a right angled triangle has its ends at the points (1, 3) and (-4, 1). Find the equation of the legs (perpendicular sides) of the triangle.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the right angled triangle with hypotenuse AB and perpendicular sides.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819358/ncert/maths/10/img_55_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The equations of the legs are: x=1, y=1 or x=-4, y=3.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the coordinates of the hypotenuse endpoints A(1,3) and B(-4,1).",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Determine the equations of the legs based on the positions of points A and B.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the equations of the legs of the triangle are x=1, y=1 or x=-4, y=3.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of coordinate geometry and basic equation formulation.",
+    "topics_tags": [
+      "Right Angled Triangle",
+      "Coordinate Geometry",
+      "Equations of Lines"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the right angled triangle with hypotenuse AB and perpendicular sides.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819358/ncert/maths/10/img_55_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q10.46",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 10,
+    "chapter_name": "straight lines",
+    "question_type": "numerical",
+    "question_text": "Find the image of the point (3, 8) with respect to the line x + 3y = 7 assuming the line to be a plane mirror.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram illustrating the point (3, 8) and the line x + 3y = 7.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819359/ncert/maths/10/img_56_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The image of the given point with respect to the given line is (â€“1, â€“4).",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set up the equation of the line as the perpendicular bisector of the segment joining point A(3,8) and its image B(a,b).",
+        "expression": "x + 3y = 7"
+      },
+      {
+        "step_number": 2,
+        "description": "Solve the equations to find the coordinates of the image point B.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the image of the point (3, 8) is (â€“1, â€“4).",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of reflections and solving linear equations.",
+    "topics_tags": [
+      "Reflection",
+      "Coordinate Geometry",
+      "Image of a Point"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram illustrating the point (3, 8) and the line x + 3y = 7.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819359/ncert/maths/10/img_56_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q10.47",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 10,
+    "chapter_name": "straight lines",
+    "question_type": "numerical",
+    "question_text": "If the lines y = 3x + 1 and 2y = x + 3 are equally inclined to the line y = mx + 4, find the value of m.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Graphical representation of the lines y = 3x + 1 and 2y = x + 3.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819360/ncert/maths/10/img_57_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Requires understanding of inclination and solving for m in linear equations.",
+    "topics_tags": [
+      "Inclined Lines",
+      "Linear Equations",
+      "Slope"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Graphical representation of the lines y = 3x + 1 and 2y = x + 3.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819360/ncert/maths/10/img_57_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q10.48",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 10,
+    "chapter_name": "straight lines",
+    "question_type": "conceptual",
+    "question_text": "If sum of the perpendicular distances of a variable point P (x, y) from the lines x + y - 5 = 0 and 3x - 2y + 7 = 0 is always 10. Show that P must move on a line.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram illustrating the concept of perpendicular distances from a point to two lines.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819364/ncert/maths/10/img_59_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The equations of the given lines are x + y - 5 = 0 and 3x - 2y + 7 = 0. The perpendicular distances of P (x, y) from these lines can be calculated, and since their sum is constant, it implies that P must lie on a line.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the equations of the lines and the point P.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the perpendicular distances from point P to both lines.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Set up the equation for the sum of the distances and simplify.",
+        "expression": null
+      },
+      {
+        "step_number": 4,
+        "description": "Show that the resulting equation represents a line.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, point P must move on a line.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of geometric properties and multi-step reasoning.",
+    "topics_tags": [
+      "Perpendicular Distance",
+      "Lines",
+      "Geometry"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "Some text garbling in the input."
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram illustrating the concept of perpendicular distances from a point to two lines.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819364/ncert/maths/10/img_59_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q10.49",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 10,
+    "chapter_name": "straight lines",
+    "question_type": "conceptual",
+    "question_text": "Find equation of the line which is equidistant from parallel lines 9x + 6y - 7 = 0 and 3x + 2y + 6 = 0.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing two parallel lines and the concept of equidistance.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819365/ncert/maths/10/img_60_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The equations of the given lines are 9x + 6y - 7 = 0 and 3x + 2y + 6 = 0. The equation of the line equidistant from these two lines can be derived using the concept of perpendicular distance.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the equations of the parallel lines.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the perpendicular distance from a point to each line.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Set the distances equal to find the equation of the equidistant line.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the required equation of the line can be derived.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of parallel lines and distance calculations.",
+    "topics_tags": [
+      "Equidistant Lines",
+      "Parallel Lines",
+      "Geometry"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "Some text garbling in the input."
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing two parallel lines and the concept of equidistance.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819365/ncert/maths/10/img_60_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q10.50",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 10,
+    "chapter_name": "straight lines",
+    "question_type": "mcq",
+    "question_text": "A ray of light passing through the point (1, 2) reflects on the x-axis at point A and the reflected ray passes through the point (5, 3). Find the coordinates of A.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram illustrating the reflection of a ray of light on the x-axis.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819368/ncert/maths/10/img_61_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Let the coordinates of point A be (a, 0). We know that angle of incidence is equal to angle of reflection.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the coordinates of point A as (a, 0).",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the property of reflection that states angle of incidence equals angle of reflection.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the coordinates of point A can be determined using the reflection properties.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of reflection and geometry concepts.",
+    "topics_tags": [
+      "Reflection",
+      "Geometry",
+      "Ray Optics"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "mixed_or_weak_context"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram illustrating the reflection of a ray of light on the x-axis.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819368/ncert/maths/10/img_61_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q10.51",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 10,
+    "chapter_name": "straight lines",
+    "question_type": "conceptual",
+    "question_text": "A person standing at the junction (crossing) of two straight paths represented by the equations 2x - 3y + 4 = 0 and 3x + 4y - 5 = 0 wants to reach the path whose equation is 6x - 7y + 8 = 0 in the least time. Find equation of the path that he should follow.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The path that the person should follow is the line perpendicular to the path represented by 6x - 7y + 8 = 0 from the junction point.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the equations of the two paths and find their intersection point.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the slope of the line perpendicular to the path represented by 6x - 7y + 8 = 0.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Formulate the equation of the line passing through the intersection point with the calculated slope.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the equation of the path that the person should follow is derived from the perpendicular slope.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the paths represented by the equations and the junction point.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819373/ncert/maths/10/img_64_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of line equations and perpendicular slopes.",
+    "topics_tags": [
+      "Straight Lines",
+      "Equations of Lines",
+      "Geometry"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "Some parts of the answer are missing or unclear."
+    ],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the paths represented by the equations and the junction point.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819373/ncert/maths/10/img_64_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      },
+      {
+        "present": true,
+        "description": "Diagram illustrating the perpendicular path to the target line.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819374/ncert/maths/10/img_64_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  }
+]

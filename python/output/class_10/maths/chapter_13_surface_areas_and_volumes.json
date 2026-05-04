@@ -1,0 +1,2235 @@
+[
+  {
+    "question_id": "Q13.1",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface areas and volumes",
+    "question_type": "numerical",
+    "question_text": "A vessel is in the form of a hollow hemisphere mounted by a hollow cylinder. The diameter of the hemisphere is 14 cm and the total height of the vessel is 13 cm. Find the inner surface area of the vessel.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Inner surface area of the vessel = CSA of cylindrical part + CSA of hemispherical part.",
+    "answer_latex": "Inner surface area = 2 \\times \\frac{22}{7} \\times 7 \\times 6 + 2 \\times \\frac{22}{7} \\times 7^2 = 572 \\; \\mathrm{cm}^{2}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the height of the cylindrical part.",
+        "expression": "h = 13 - 7 = 6"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the curved surface area of the cylindrical part.",
+        "expression": "CSA_{cylinder} = 2 \\times \\frac{22}{7} \\times 7 \\times 6"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the curved surface area of the hemispherical part.",
+        "expression": "CSA_{hemisphere} = 2 \\times \\frac{22}{7} \\times 7^2"
+      },
+      {
+        "step_number": 4,
+        "description": "Add both areas to find the inner surface area.",
+        "expression": "Inner surface area = CSA_{cylinder} + CSA_{hemisphere}"
+      }
+    ],
+    "final_answer": "Therefore, the inner surface area of the vessel is 572 cm².",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the inner surface area calculation of a hollow hemisphere and cylinder.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656289/ncert/maths/13/img_1_0.jpg",
+      "latex_extracted": "\\scriptstyle{\\begin{array}{r}{\\left[\\begin{array}{r}{\\scriptstyle{\\frac{\\xi-\\xi+\\gamma+\\gamma+\\gamma+\\gamma-\\gamma-\\gamma=\\gamma}{\\xi}}\\right]}\\\\ {\\scriptstyle{\\left[\\begin{array}{l}{\\xi=\\xi=\\xi=\\xi=\\xi=\\xi=\\xi=\\xi=\\xi=\\xi=\\xi=\\xi=\\xi=\\xi=\\xi=\\xi=\\xi=\\xi=\\xi}\\\\ {\\ \\;{\\frac{\\xi}{\\Gamma}}}\\end{array}\\right]}}\\\\ {\\P\\exp{\\frac{\\xi}{\\gamma}}}\\end{array}}~",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of surface area formulas and basic calculations.",
+    "topics_tags": [
+      "Surface Area",
+      "Hollow Hemisphere",
+      "Cylinder"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the inner surface area calculation of a hollow hemisphere and cylinder.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656289/ncert/maths/13/img_1_0.jpg",
+        "latex_extracted": "\\scriptstyle{\\begin{array}{r}{\\left[\\begin{array}{r}{\\scriptstyle{\\frac{\\xi-\\xi+\\gamma+\\gamma+\\gamma+\\gamma-\\gamma-\\gamma=\\gamma}{\\xi}}\\right]}\\\\ {\\scriptstyle{\\left[\\begin{array}{l}{\\xi=\\xi=\\xi=\\xi=\\xi=\\xi=\\xi=\\xi=\\xi=\\xi=\\xi=\\xi=\\xi=\\xi=\\xi=\\xi=\\xi=\\xi=\\xi}\\\\ {\\ \\;{\\frac{\\xi}{\\Gamma}}}\\end{array}\\right]}}\\\\ {\\P\\exp{\\frac{\\xi}{\\gamma}}}\\end{array}}~",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      },
+      {
+        "present": true,
+        "description": "Mathematical calculation of the inner surface area.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656292/ncert/maths/13/img_1_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q13.2",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface areas and volumes",
+    "question_type": "numerical",
+    "question_text": "A toy is in the form of a cone of radius 3.5 cm mounted on a hemisphere of same radius. The total height of the toy is 15.5 cm. Find the total surface area of the toy.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the total surface area calculation of a cone mounted on a hemisphere.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656294/ncert/maths/13/img_2_0.jpg",
+      "latex_extracted": "\\left|\\begin{array}{c}{{\\hat{\\Lambda}}}\\\\ {{\\hat{\\sum_{\\hat{\\Sigma}}^{\\hat{\\Sigma}}}}}\\\\ {{\\hat{\\Sigma}}}\\\\ {{\\hat{\\Sigma}}}\\\\ {{\\hat{\\Sigma}}}\\\\ {{\\hat{\\Sigma}}}\\\\ {{\\hat{\\Sigma}}}\\end{array}\\right|^{\\hat{\\nu}_{\\hat{\\Sigma}}}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Total surface area of toy = CSA of conical part + CSA of hemispherical part.",
+    "answer_latex": "Total surface area = \\frac{22}{7} \\times 3.5 \\times 12 + \\frac{22}{7} \\times (3.5)^2 = 214.5 \\; \\mathrm{cm}^{2}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the height of the conical part.",
+        "expression": "h = 15.5 - 3.5 = 12"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the curved surface area of the conical part.",
+        "expression": "CSA_{cone} = \\frac{22}{7} \\times 3.5 \\times 12"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the curved surface area of the hemispherical part.",
+        "expression": "CSA_{hemisphere} = \\frac{22}{7} \\times (3.5)^2"
+      },
+      {
+        "step_number": 4,
+        "description": "Add both areas to find the total surface area.",
+        "expression": "Total surface area = CSA_{cone} + CSA_{hemisphere}"
+      }
+    ],
+    "final_answer": "Therefore, the total surface area of the toy is 214.5 cm².",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical calculation of the total surface area.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656296/ncert/maths/13/img_2_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of surface area formulas and basic calculations.",
+    "topics_tags": [
+      "Surface Area",
+      "Cone",
+      "Hemisphere"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the total surface area calculation of a cone mounted on a hemisphere.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656294/ncert/maths/13/img_2_0.jpg",
+        "latex_extracted": "\\left|\\begin{array}{c}{{\\hat{\\Lambda}}}\\\\ {{\\hat{\\sum_{\\hat{\\Sigma}}^{\\hat{\\Sigma}}}}}\\\\ {{\\hat{\\Sigma}}}\\\\ {{\\hat{\\Sigma}}}\\\\ {{\\hat{\\Sigma}}}\\\\ {{\\hat{\\Sigma}}}\\\\ {{\\hat{\\Sigma}}}\\end{array}\\right|^{\\hat{\\nu}_{\\hat{\\Sigma}}}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical calculation of the total surface area.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656296/ncert/maths/13/img_2_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q13.3",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface areas and volumes",
+    "question_type": "numerical",
+    "question_text": "A cubical block of side 7 cm is surmounted by a hemisphere. What is the greatest diameter the hemisphere can have? Find the surface area of the solid.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the relationship between the cubical block and the hemisphere.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656298/ncert/maths/13/img_2_2.png",
+      "latex_extracted": "\\begin{array}{c}{{=\\pi r l l+2\\pi r^{2}}}\\\\ {{=\\frac{22}{7}\\times\\frac{7}{2}\\times\\frac{25}{2}+2\\times\\frac{2}{7}\\times\\frac{7}{2}{\\times}\\frac{7}{2}}}\\\\ {{=137.5+77=\\;214.5\\mathrm{cm}^{2}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The greatest diameter possible for such hemisphere is equal to the cube's edge, i.e., 7 cm.",
+    "answer_latex": "Total surface area = 6(7)^2 + \\frac{22}{7} \\times \\frac{7}{2} = 332.5 \\; \\mathrm{cm}^{2}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the greatest diameter of the hemisphere.",
+        "expression": "Diameter = 7 cm"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the surface area of the cubical part.",
+        "expression": "Surface area_{cube} = 6(7)^2"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the curved surface area of the hemispherical part.",
+        "expression": "CSA_{hemisphere} = \\frac{22}{7} \\times \\frac{7}{2}"
+      },
+      {
+        "step_number": 4,
+        "description": "Combine both areas to find the total surface area.",
+        "expression": "Total surface area = Surface area_{cube} + CSA_{hemisphere}"
+      }
+    ],
+    "final_answer": "Therefore, the total surface area of the solid is 332.5 cm².",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical calculation of the total surface area of the solid.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656304/ncert/maths/13/img_3_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations and understanding of surface area concepts.",
+    "topics_tags": [
+      "Surface Area",
+      "Cubical Block",
+      "Hemisphere"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the relationship between the cubical block and the hemisphere.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656298/ncert/maths/13/img_2_2.png",
+        "latex_extracted": "\\begin{array}{c}{{=\\pi r l l+2\\pi r^{2}}}\\\\ {{=\\frac{22}{7}\\times\\frac{7}{2}\\times\\frac{25}{2}+2\\times\\frac{2}{7}\\times\\frac{7}{2}{\\times}\\frac{7}{2}}}\\\\ {{=137.5+77=\\;214.5\\mathrm{cm}^{2}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical calculation of the total surface area of the solid.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656304/ncert/maths/13/img_3_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q13.4",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface areas and volumes",
+    "question_type": "numerical",
+    "question_text": "A medicine capsule is in the shape of cylinder with two hemispheres stuck to each of its ends. The length of the entire capsule is 14 mm and the diameter of the capsule is 5 mm. Find its surface area.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the shape of a medicine capsule consisting of a cylinder with two hemispheres.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656308/ncert/maths/13/img_4_0.png",
+      "latex_extracted": "\\begin{array}{l l}{{\\mathrm{Iotal~surface~arca~of~solid}=6l^{2}+\\pi\\times\\left({\\frac{l}{2}}\\right)^{2}}}\\\\ {{\\mathrm{~}=6l^{2}+{\\frac{\\pi l^{2}}{4}}}}&{{}}\\\\ {{\\mathrm{~}={\\frac{1}{4}}(24+\\pi)l^{2}\\ \\mathrm{~}\\mathrm{unit}^{2}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The surface area of the capsule can be calculated using the formula for the surface area of a cylinder and two hemispheres.",
+    "answer_latex": "SA = 2\\pi r^{2} + 2\\pi rh = 2\\pi \\left(\\frac{5}{2}\\right)^{2} + 2\\pi \\left(\\frac{5}{2}\\right)\\left(9\\right)",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the radius and height of the cylindrical part.",
+        "expression": "r = \\frac{5}{2}, h = 14 - 2 \\times \\frac{5}{2} = 9"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the surface area using the formula for the surface area of the capsule.",
+        "expression": "SA = 2\\pi r^{2} + 2\\pi rh"
+      }
+    ],
+    "final_answer": "Therefore, the surface area of the capsule is calculated using the given dimensions.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of surface area formulas and basic substitution.",
+    "topics_tags": [
+      "Surface Area",
+      "Cylinder",
+      "Hemispheres"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the shape of a medicine capsule consisting of a cylinder with two hemispheres.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656308/ncert/maths/13/img_4_0.png",
+        "latex_extracted": "\\begin{array}{l l}{{\\mathrm{Iotal~surface~arca~of~solid}=6l^{2}+\\pi\\times\\left({\\frac{l}{2}}\\right)^{2}}}\\\\ {{\\mathrm{~}=6l^{2}+{\\frac{\\pi l^{2}}{4}}}}&{{}}\\\\ {{\\mathrm{~}={\\frac{1}{4}}(24+\\pi)l^{2}\\ \\mathrm{~}\\mathrm{unit}^{2}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.5",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface areas and volumes",
+    "question_type": "numerical",
+    "question_text": "A wooden article was made by scooping out a hemisphere from each end of a solid cylinder, as shown in given figure. If the height of the cylinder is 10 cm, and its base is of radius 3.5 cm, find the total surface area of the article.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing a wooden article with hemispherical ends and a cylindrical body.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656334/ncert/maths/13/img_7_1.png",
+      "latex_extracted": "\\begin{array}{l}{{=\\displaystyle2\\pi r/\\hbar+2\\times2\\pi r^{2}}}\\\\ {{-\\displaystyle2\\pi\\times3.5\\times10+2\\times2\\pi\\times3.5\\times3.5}}\\\\ {{\\displaystyle=119\\pi}}\\\\ {{\\displaystyle=17\\times22=374\\cot\\pi}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The total surface area of the article is calculated using the curved surface area of the cylindrical part and the curved surface area of the hemispherical parts.",
+    "answer_latex": "SA = 2\\pi r h + 2\\times\\frac{2}{3}\\pi r^{3} - 2\\pi r h = 119\\pi",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the curved surface area of the cylindrical part.",
+        "expression": "CSA_{cylinder} = 2\\pi r h"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the curved surface area of the hemispherical parts.",
+        "expression": "CSA_{hemisphere} = 2\\times\\frac{2}{3}\\pi r^{2}"
+      },
+      {
+        "step_number": 3,
+        "description": "Combine the areas and subtract the areas of the scooped hemispheres.",
+        "expression": "SA = CSA_{cylinder} + 2\\times CSA_{hemisphere} - 2\\pi r h"
+      }
+    ],
+    "final_answer": "Therefore, the total surface area of the article is 119π cm².",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps of calculation and understanding of surface area formulas.",
+    "topics_tags": [
+      "Surface Area",
+      "Cylinder",
+      "Hemisphere"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing a wooden article with hemispherical ends and a cylindrical body.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656334/ncert/maths/13/img_7_1.png",
+        "latex_extracted": "\\begin{array}{l}{{=\\displaystyle2\\pi r/\\hbar+2\\times2\\pi r^{2}}}\\\\ {{-\\displaystyle2\\pi\\times3.5\\times10+2\\times2\\pi\\times3.5\\times3.5}}\\\\ {{\\displaystyle=119\\pi}}\\\\ {{\\displaystyle=17\\times22=374\\cot\\pi}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.6",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface areas and volumes",
+    "question_type": "numerical",
+    "question_text": "A solid is in the shape of a cone standing on a hemisphere with both their radii being equal to 1 cm and the height of the cone is equal to its radius. Find the volume of the solid in terms of π.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing a cone standing on a hemisphere.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656335/ncert/maths/13/img_8_0.jpg",
+      "latex_extracted": "\\begin{array}{c}{{=\\frac{1}{3}\\pi r^{2}h+\\frac{2}{3}\\pi r^{3}}}\\\\ {{=\\frac{1}{3}\\pi(1)^{2}(1)+\\frac{2\\pi}{3}(1)\\frac{2\\pi}{=}\\frac{1}{3}+\\frac{-}{3}=\\pi\\cos^{3}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The volume of the solid is the sum of the volume of the cone and the volume of the hemisphere.",
+    "answer_latex": "V = \\frac{1}{3}\\pi r^{2}h + \\frac{2}{3}\\pi r^{3} = \\frac{1}{3}\\pi(1)^{2}(1) + \\frac{2}{3}\\pi(1)^{3} = \\pi",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the volume of the cone using the formula V = \\frac{1}{3}\\pi r^{2}h.",
+        "expression": "V_{cone} = \\frac{1}{3}\\pi(1)^{2}(1)"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the volume of the hemisphere using the formula V = \\frac{2}{3}\\pi r^{3}.",
+        "expression": "V_{hemisphere} = \\frac{2}{3}\\pi(1)^{3}"
+      },
+      {
+        "step_number": 3,
+        "description": "Add the volumes of the cone and hemisphere.",
+        "expression": "V = V_{cone} + V_{hemisphere}"
+      }
+    ],
+    "final_answer": "Thus, the volume of the solid is π cm³.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires basic understanding of volume formulas and simple calculations.",
+    "topics_tags": [
+      "Volume",
+      "Cone",
+      "Hemisphere"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing a cone standing on a hemisphere.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656335/ncert/maths/13/img_8_0.jpg",
+        "latex_extracted": "\\begin{array}{c}{{=\\frac{1}{3}\\pi r^{2}h+\\frac{2}{3}\\pi r^{3}}}\\\\ {{=\\frac{1}{3}\\pi(1)^{2}(1)+\\frac{2\\pi}{3}(1)\\frac{2\\pi}{=}\\frac{1}{3}+\\frac{-}{3}=\\pi\\cos^{3}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.7",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface areas and volumes",
+    "question_type": "numerical",
+    "question_text": "Rachel, an engineering student, was asked to make a model shaped like a cylinder with two cones attached at its two ends by using a thin aluminum sheet. The diameter of the model is 3 cm and its length is 12 cm. if each cone has a height of 2 cm, find the volume of air contained in the model that Rachel made.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing a model shaped like a cylinder with two cones.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656338/ncert/maths/13/img_8_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The volume of air contained in the model is calculated by finding the volume of the cylinder and the volume of the cones.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the height of the cylindrical part.",
+        "expression": "h_{cylinder} = 12 - 2 \\times 2 = 8"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the volume of the cylindrical part using V = \\pi r^{2} h.",
+        "expression": "V_{cylinder} = \\pi (1.5)^{2} \\times 8"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the volume of one cone using V = \\frac{1}{3}\\pi r^{2} h.",
+        "expression": "V_{cone} = \\frac{1}{3}\\pi (1.5)^{2} \\times 2"
+      },
+      {
+        "step_number": 4,
+        "description": "Calculate the total volume of the two cones.",
+        "expression": "V_{total\\_cones} = 2 \\times V_{cone}"
+      },
+      {
+        "step_number": 5,
+        "description": "Add the volumes of the cylinder and the cones to find the total volume of air.",
+        "expression": "V_{air} = V_{cylinder} + V_{total\\_cones}"
+      }
+    ],
+    "final_answer": "Therefore, the volume of air contained in the model is calculated as V_{air}.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations and understanding of volume formulas.",
+    "topics_tags": [
+      "Volume",
+      "Cylinder",
+      "Cone"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing a model shaped like a cylinder with two cones.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656338/ncert/maths/13/img_8_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.8",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface areas and volumes",
+    "question_type": "numerical",
+    "question_text": "A gulab jamun, contains sugar syrup up to about 30% of its volume. Find approximately how much syrup would be found in 45 gulab jamuns, each shaped like a cylinder with two hemispherical ends with length 5 cm and diameter 2.8 cm.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing a gulab jamun shaped like a cylinder with two hemispherical ends.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656342/ncert/maths/13/img_9_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The volume of syrup in 45 gulab jamuns is calculated based on the volume of one gulab jamun and the percentage of syrup.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the radius of the cylindrical part and hemispherical part.",
+        "expression": "r = \\frac{2.8}{2} = 1.4"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the length of the cylindrical part.",
+        "expression": "h = 5 - 2 \\times 1.4 = 2.2"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the volume of one gulab jamun.",
+        "expression": "V_{gulab} = \\pi r^{2} h + 2 \\times \\frac{2}{3}\\pi r^{3}"
+      },
+      {
+        "step_number": 4,
+        "description": "Calculate the total volume of syrup in 45 gulab jamuns.",
+        "expression": "V_{syrup} = 0.3 \\times 45 \\times V_{gulab}"
+      }
+    ],
+    "final_answer": "Thus, the total volume of syrup in 45 gulab jamuns is calculated as V_{syrup}.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations and understanding of volume and percentage.",
+    "topics_tags": [
+      "Volume",
+      "Gulab Jamun",
+      "Syrup"
+    ],
+    "confidence_score": 0.88,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing a gulab jamun shaped like a cylinder with two hemispherical ends.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656342/ncert/maths/13/img_9_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.9",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface areas and volumes",
+    "question_type": "mcq",
+    "question_text": "A pen stand made of wood is in the shape of a cuboid with four conical depressions to hold pens. The dimensions of the cuboids are 15 cm by 10 cm by 3.5 cm. The radius of each of the depressions is 0.5 cm and the depth is 1.4 cm. Find the volume of wood in the entire stand.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the dimensions of the pen stand and conical depressions.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656349/ncert/maths/13/img_10_0.png",
+      "latex_extracted": "\\begin{array}{l}{{=\\pi r^{2}h+2\\times{\\frac{2}{3}}\\pi r^{3}=\\pi r^{2}h+{\\frac{4}{3}}\\pi r^{3}}}\\\\ {{=\\pi\\times\\left(1.4\\right)^{2}\\times2.2+{\\frac{4}{3}}\\times{\\frac{4}{7}}\\times1.4\\times1.4\\times1.4\\times1.4\\times1.4\\times1.4\\times1.4}}\\\\ {{=13.552+11.4\\times2.2+{\\frac{4}{3}}\\times{\\frac{22}{7}}\\times1.4\\times1.4\\times1.4\\times1.4\\times1.4}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The volume of wood is calculated by subtracting the volume of the conical depressions from the volume of the cuboid.",
+    "answer_latex": "Volume_{wood} = Volume_{cuboid} - 4 \\times Volume_{cone} = 15 \\times 10 \\times 3.5 - 4 \\times \\frac{1}{3} \\pi (0.5)^{2} (1.4)",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the volume of the cuboid.",
+        "expression": "Volume_{cuboid} = 15 \\times 10 \\times 3.5"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the volume of one conical depression.",
+        "expression": "Volume_{cone} = \\frac{1}{3} \\pi (0.5)^{2} (1.4)"
+      },
+      {
+        "step_number": 3,
+        "description": "Multiply the volume of one cone by 4 to get the total volume of the depressions.",
+        "expression": "Total Volume_{cones} = 4 \\times Volume_{cone}"
+      },
+      {
+        "step_number": 4,
+        "description": "Subtract the total volume of the cones from the volume of the cuboid to find the volume of wood.",
+        "expression": "Volume_{wood} = Volume_{cuboid} - Total Volume_{cones}"
+      }
+    ],
+    "final_answer": "Therefore, the volume of wood in the entire stand is calculated as shown.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps of calculation including volume formulas.",
+    "topics_tags": [
+      "Volume",
+      "Cuboid",
+      "Cone",
+      "Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the dimensions of the pen stand and conical depressions.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656349/ncert/maths/13/img_10_0.png",
+        "latex_extracted": "\\begin{array}{l}{{=\\pi r^{2}h+2\\times{\\frac{2}{3}}\\pi r^{3}=\\pi r^{2}h+{\\frac{4}{3}}\\pi r^{3}}}\\\\ {{=\\pi\\times\\left(1.4\\right)^{2}\\times2.2+{\\frac{4}{3}}\\times{\\frac{4}{7}}\\times1.4\\times1.4\\times1.4\\times1.4\\times1.4\\times1.4\\times1.4}}\\\\ {{=13.552+11.4\\times2.2+{\\frac{4}{3}}\\times{\\frac{22}{7}}\\times1.4\\times1.4\\times1.4\\times1.4\\times1.4}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.10",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface areas and volumes",
+    "question_type": "numerical",
+    "question_text": "A vessel is in the form of an inverted cone. Its height is 8 cm and the radius of its top, which is open, is 5 cm. It is filled with water up to the brim. When lead shots, each of which is a sphere of radius 0.5 cm are dropped into the vessel, one-fourth of the water flows out. Find the number of lead shots dropped in the vessel.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the dimensions of the inverted cone vessel.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656360/ncert/maths/13/img_11_0.png",
+      "latex_extracted": "\\begin{array}{l}{{\\mathrm{-lbh-4\\times\\frac{1}{3}}\\pi r^{2}h\\qquad}}\\\\ {{\\mathrm{=15\\times10\\times3.5-4\\times\\frac{1}{3}\\times\\frac{22}{7}\\times\\left(\\frac{1}{2}\\right)^{2}\\times1.4}}}\\\\ {{\\mathrm{=523.53\\cm^{3}}\\qquad}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The number of lead shots is calculated by equating the volume of water spilled to the volume of the lead shots.",
+    "answer_latex": "Volume_{water\\ spilled} = Volume_{lead\\ shots} = n \\times \\frac{4}{3} \\pi (0.5)^{3}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the volume of the conical vessel.",
+        "expression": "Volume_{cone} = \\frac{1}{3} \\pi (5)^{2} (8)"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the volume of water that spills out.",
+        "expression": "Volume_{water\\ spilled} = \\frac{1}{4} \\times Volume_{cone}"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the volume of one lead shot.",
+        "expression": "Volume_{lead\\ shot} = \\frac{4}{3} \\pi (0.5)^{3}"
+      },
+      {
+        "step_number": 4,
+        "description": "Set the volume of water spilled equal to the total volume of lead shots to find n.",
+        "expression": "n \\times Volume_{lead\\ shot} = Volume_{water\\ spilled}"
+      }
+    ],
+    "final_answer": "Hence, the number of lead shots dropped in the vessel is calculated as 100.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of volume calculations and setting up equations.",
+    "topics_tags": [
+      "Volume",
+      "Inverted Cone",
+      "Lead Shots",
+      "Geometry"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the dimensions of the inverted cone vessel.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656360/ncert/maths/13/img_11_0.png",
+        "latex_extracted": "\\begin{array}{l}{{\\mathrm{-lbh-4\\times\\frac{1}{3}}\\pi r^{2}h\\qquad}}\\\\ {{\\mathrm{=15\\times10\\times3.5-4\\times\\frac{1}{3}\\times\\frac{22}{7}\\times\\left(\\frac{1}{2}\\right)^{2}\\times1.4}}}\\\\ {{\\mathrm{=523.53\\cm^{3}}\\qquad}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.11",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface areas and volumes",
+    "question_type": "numerical",
+    "question_text": "A solid iron pole consists of a cylinder of height 220 cm and base diameter 24 cm, which is surmounted by another cylinder of height 60 cm and radius 8 cm. Find the mass of the pole, given that 1 cm3 of iron has approximately 8 g mass. [Use π = 3.14]",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The mass of the pole is calculated by finding the total volume of both cylinders and multiplying by the mass per unit volume of iron.",
+    "answer_latex": "Mass = Volume_{total} \\times 8 = (Volume_{larger\\ cylinder} + Volume_{smaller\\ cylinder}) \\times 8",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the volume of the larger cylinder.",
+        "expression": "Volume_{larger} = \\pi (12)^{2} (220)"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the volume of the smaller cylinder.",
+        "expression": "Volume_{smaller} = \\pi (8)^{2} (60)"
+      },
+      {
+        "step_number": 3,
+        "description": "Add the volumes of both cylinders to get the total volume.",
+        "expression": "Volume_{total} = Volume_{larger} + Volume_{smaller}"
+      },
+      {
+        "step_number": 4,
+        "description": "Multiply the total volume by the mass per unit volume of iron to find the mass.",
+        "expression": "Mass = Volume_{total} \\times 8"
+      }
+    ],
+    "final_answer": "Therefore, the mass of the pole is approximately 892.262 kg.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the dimensions of the solid iron pole.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656367/ncert/maths/13/img_12_0.jpg",
+      "latex_extracted": "\\left.\\left.\\left.\\begin{array}{c}{{\\frac{\\cos}{\\epsilon}}}\\\\ {{\\vdots}\\\\ {{\\frac{\\vdots}{2}\\vdots}}\\\\ {{\\frac{\\vdots}{2+\\delta\\varepsilon}}}\\end{array}\\right|_{x=\\cos}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Involves multiple calculations and understanding of volume and mass relationships.",
+    "topics_tags": [
+      "Volume",
+      "Cylinder",
+      "Mass",
+      "Geometry"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the dimensions of the solid iron pole.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656367/ncert/maths/13/img_12_0.jpg",
+        "latex_extracted": "\\left.\\left.\\left.\\begin{array}{c}{{\\frac{\\cos}{\\epsilon}}}\\\\ {{\\vdots}\\\\ {{\\frac{\\vdots}{2}\\vdots}}\\\\ {{\\frac{\\vdots}{2+\\delta\\varepsilon}}}\\end{array}\\right|_{x=\\cos}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q13.12",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface areas and volumes",
+    "question_type": "numerical",
+    "question_text": "A solid consisting of a right circular cone of height 120 cm and radius 60 cm standing on a hemisphere of radius 60 cm is placed upright in a right circular cylinder full of water such that it touches the bottom. Find the volume of water left in the cylinder, if the radius of the cylinder is 60 cm and its height is 180 cm.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Volume of water left = Volume of cylinder - Volume of solid.",
+    "answer_latex": "\\mathrm{Volume\\ of\\ water\\ left = Volume\\ of\\ cylinder - Volume\\ of\\ solid}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the volume of the cylinder using the formula \\pi r^2 h.",
+        "expression": "\\mathrm{Volume\\ of\\ cylinder = \\pi (60)^2 (180)}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the volume of the cone using the formula \\frac{1}{3} \\pi r^2 h.",
+        "expression": "\\mathrm{Volume\\ of\\ cone = \\frac{1}{3} \\pi (60)^2 (120)}"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the volume of the hemisphere using the formula \\frac{2}{3} \\pi r^3.",
+        "expression": "\\mathrm{Volume\\ of\\ hemisphere = \\frac{2}{3} \\pi (60)^3}"
+      },
+      {
+        "step_number": 4,
+        "description": "Add the volumes of the cone and hemisphere to find the total volume of the solid.",
+        "expression": "\\mathrm{Volume\\ of\\ solid = Volume\\ of\\ cone + Volume\\ of\\ hemisphere}"
+      },
+      {
+        "step_number": 5,
+        "description": "Subtract the volume of the solid from the volume of the cylinder to find the volume of water left.",
+        "expression": "\\mathrm{Volume\\ of\\ water\\ left = Volume\\ of\\ cylinder - Volume\\ of\\ solid}"
+      }
+    ],
+    "final_answer": "Therefore, the volume of water left in the cylinder is calculated by subtracting the volume of the solid from the volume of the cylinder.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing a solid consisting of a cone on a hemisphere placed in a cylinder.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656376/ncert/maths/13/img_13_0.jpg",
+      "latex_extracted": "\\left|\\begin{array}{c}{{\\begin{array}{c}{{<-\\cdots\\sum_{\\xi}{\\binom{\\sum{\\infty}}{\\langle-\\sum_{\\xi}^{i}\\leq\\Longleftrightarrow\\langle0,\\xi\\rangle}{\\langle0\\leq\\left(\\infty\\right)}}}}}\\\\ {{\\left|\\begin{array}{c}{{\\vdots}}\\\\ {{\\leq\\underline{{{\\K{\\leq}}\\times\\ddots}{\\leq\\langle0,\\xi\\right)}}}}\\\\ {{\\left({\\frac{\\leq}{\\xi\\cdot\\ddots}{\\leq\\gamma}}{\\leq\\xi}}{{\\hat{z}}}}\\end{array}\\right)\\right|_{\\xi0{\\mathrm{~o~cm}}}}\\end{array}\\right|",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations and understanding of volume formulas.",
+    "topics_tags": [
+      "Volume",
+      "Cylinder",
+      "Cone",
+      "Hemisphere"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing a solid consisting of a cone on a hemisphere placed in a cylinder.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656376/ncert/maths/13/img_13_0.jpg",
+        "latex_extracted": "\\left|\\begin{array}{c}{{\\begin{array}{c}{{<-\\cdots\\sum_{\\xi}{\\binom{\\sum{\\infty}}{\\langle-\\sum_{\\xi}^{i}\\leq\\Longleftrightarrow\\langle0,\\xi\\rangle}{\\langle0\\leq\\left(\\infty\\right)}}}}}\\\\ {{\\left|\\begin{array}{c}{{\\vdots}}\\\\ {{\\leq\\underline{{{\\K{\\leq}}\\times\\ddots}{\\leq\\langle0,\\xi\\right)}}}}\\\\ {{\\left({\\frac{\\leq}{\\xi\\cdot\\ddots}{\\leq\\gamma}}{\\leq\\xi}}{{\\hat{z}}}}\\end{array}\\right)\\right|_{\\xi0{\\mathrm{~o~cm}}}}\\end{array}\\right|",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q13.13",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface areas and volumes",
+    "question_type": "mcq",
+    "question_text": "A spherical glass vessel has a cylindrical neck 8 cm long, 2 cm in diameter; the diameter of the spherical part is 8.5 cm. By measuring the amount of water it holds, a child finds its volume to be 345 cm³. Check whether she is correct, taking the above as the inside measurements, and π = 3.14.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing a spherical glass vessel with a cylindrical neck.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656380/ncert/maths/13/img_13_1.png",
+      "latex_extracted": "\\begin{array}{l}{{\\ =\\displaystyle\\mathrm{Volume\\of\\cylinder}\\ -\\bigl({\\mathrm{Volume\\of\\lame\\cvolume\\cleone}}\\bigr)}}\\\\ {{\\ =\\pi\\bigl(60\\bigr)^{2}\\bigl(180\\bigr)-\\bigl(\\frac{1}{3}\\pi\\bigl(\\mathrm{G0}\\bigr)^{2}\\times120+\\frac{2}{3}\\pi\\bigl(\\sigma0\\bigr)^{3}\\Biggl)}}\\\\ {{\\ =\\pi\\bigl(3,600\\bigr)\\bigl(100\\bigr)\\bigl(100\\bigr)=3.60,000\\pi\\ \\mathrm{cm}^{3}=1.131\\ln^{3}\\bigr)}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Volume of vessel = Volume of sphere + Volume of cylinder. Hence, she is wrong.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the volume of the spherical part using the formula \\frac{4}{3} \\pi r^3.",
+        "expression": "\\mathrm{Volume\\ of\\ sphere = \\frac{4}{3} \\pi \\left(\\frac{8.5}{2}\\right)^3}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the volume of the cylindrical neck using the formula \\pi r^2 h.",
+        "expression": "\\mathrm{Volume\\ of\\ cylinder = \\pi \\left(\\frac{2}{2}\\right)^2 (8)}"
+      },
+      {
+        "step_number": 3,
+        "description": "Add the volumes of the sphere and cylinder to find the total volume of the vessel.",
+        "expression": "\\mathrm{Total\\ Volume = Volume\\ of\\ sphere + Volume\\ of\\ cylinder}"
+      },
+      {
+        "step_number": 4,
+        "description": "Compare the calculated volume with the child's measurement of 345 cm³.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, the child is incorrect as the calculated volume does not match 345 cm³.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of volume calculations for different shapes.",
+    "topics_tags": [
+      "Volume",
+      "Sphere",
+      "Cylinder"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing a spherical glass vessel with a cylindrical neck.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656380/ncert/maths/13/img_13_1.png",
+        "latex_extracted": "\\begin{array}{l}{{\\ =\\displaystyle\\mathrm{Volume\\of\\cylinder}\\ -\\bigl({\\mathrm{Volume\\of\\lame\\cvolume\\cleone}}\\bigr)}}\\\\ {{\\ =\\pi\\bigl(60\\bigr)^{2}\\bigl(180\\bigr)-\\bigl(\\frac{1}{3}\\pi\\bigl(\\mathrm{G0}\\bigr)^{2}\\times120+\\frac{2}{3}\\pi\\bigl(\\sigma0\\bigr)^{3}\\Biggl)}}\\\\ {{\\ =\\pi\\bigl(3,600\\bigr)\\bigl(100\\bigr)\\bigl(100\\bigr)=3.60,000\\pi\\ \\mathrm{cm}^{3}=1.131\\ln^{3}\\bigr)}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.14",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface areas and volumes",
+    "question_type": "numerical",
+    "question_text": "A 20 m deep well with diameter 7 m is dug and the earth from digging is evenly spread out to form a platform 22 m by 14 m. Find the height of the platform.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of the volume of the well and platform.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656392/ncert/maths/13/img_16_0.jpg",
+      "latex_extracted": "\\left|\\begin{array}{c}{{\\frac{\\gamma_{\\mathrm{m}}}{\\vdots}}}\\\\ {{\\frac{\\vdots}{\\vdots}}}\\\\ {{\\frac{\\vdots}{\\vdots}}}\\\\ {{\\sqrt[[object Object]]{}}}\\\\ {{\\frac{\\gamma_{\\mathrm{m}}}{\\vdots}}}\\end{array}\\right|_{X^{0}=}",
+      "source_page_number": 16,
+      "source_image_index": 0,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Therefore, the height of such platform will be 2.5 m.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the volume of the cylindrical well.",
+        "expression": "V_{well} = \\pi r^2 h = \\pi \\left(\\frac{7}{2}\\right)^2 \\times 20"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the area of the platform.",
+        "expression": "A_{platform} = 22 \\times 14"
+      },
+      {
+        "step_number": 3,
+        "description": "Set the volume of the well equal to the volume of the platform times its height.",
+        "expression": "V_{well} = A_{platform} \\times H"
+      },
+      {
+        "step_number": 4,
+        "description": "Solve for the height of the platform.",
+        "expression": "H = \\frac{V_{well}}{A_{platform}}"
+      }
+    ],
+    "final_answer": "Therefore, the height of the platform is 2.5 m.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps of calculation and understanding of volume.",
+    "topics_tags": [
+      "Volume",
+      "Cylindrical Shapes",
+      "Surface Area"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the volume of the well and platform.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656392/ncert/maths/13/img_16_0.jpg",
+        "latex_extracted": "\\left|\\begin{array}{c}{{\\frac{\\gamma_{\\mathrm{m}}}{\\vdots}}}\\\\ {{\\frac{\\vdots}{\\vdots}}}\\\\ {{\\frac{\\vdots}{\\vdots}}}\\\\ {{\\sqrt[[object Object]]{}}}\\\\ {{\\frac{\\gamma_{\\mathrm{m}}}{\\vdots}}}\\end{array}\\right|_{X^{0}=}",
+        "source_page_number": 16,
+        "source_image_index": 0,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.15",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface areas and volumes",
+    "question_type": "numerical",
+    "question_text": "A well of diameter 3 m is dug 14 m deep. The earth taken out of it has been spread evenly all around it in the shape of a circular ring of width 4 m to form an embankment. Find the height of the embankment.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of the volume of the well and embankment.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656396/ncert/maths/13/img_17_0.jpg",
+      "latex_extracted": "\\left\\lfloor{\\begin{array}{l}{\\div{\\overset{\\underset{\\mathrm{dem}}{\\underbrace{\\cdot\\cdots\\cdots\\cdots\\cdots}}}}}\\\\ {\\lfloor{\\frac{\\ddots\\cdots\\cdots\\div\\cdots\\cdots\\div\\cdots\\cdots\\cdots\\cdots}{\\rfloor}}}\\\\ {\\downarrow}\\end{array}}\\right\\rfloor_{\\begin{array}{l}{\\downarrow\\downarrow\\dots}}\\end{array}}",
+      "source_page_number": 17,
+      "source_image_index": 0,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Therefore, the height of the embankment will be 1.125 m.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the volume of the cylindrical well.",
+        "expression": "V_{well} = \\pi r^2 h = \\pi \\left(\\frac{3}{2}\\right)^2 \\times 14"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the outer radius of the embankment.",
+        "expression": "R_{outer} = r + 4 = \\frac{3}{2} + 4"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the volume of the embankment.",
+        "expression": "V_{embankment} = \\pi (R_{outer}^2 - r^2) \\times h"
+      },
+      {
+        "step_number": 4,
+        "description": "Set the volume of the well equal to the volume of the embankment and solve for height.",
+        "expression": "V_{well} = V_{embankment}"
+      }
+    ],
+    "final_answer": "Therefore, the height of the embankment is 1.125 m.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps of calculation and understanding of volume.",
+    "topics_tags": [
+      "Volume",
+      "Cylindrical Shapes",
+      "Embankment"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the volume of the well and embankment.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656396/ncert/maths/13/img_17_0.jpg",
+        "latex_extracted": "\\left\\lfloor{\\begin{array}{l}{\\div{\\overset{\\underset{\\mathrm{dem}}{\\underbrace{\\cdot\\cdots\\cdots\\cdots\\cdots}}}}}\\\\ {\\lfloor{\\frac{\\ddots\\cdots\\cdots\\div\\cdots\\cdots\\div\\cdots\\cdots\\cdots\\cdots}{\\rfloor}}}\\\\ {\\downarrow}\\end{array}}\\right\\rfloor_{\\begin{array}{l}{\\downarrow\\downarrow\\dots}}\\end{array}}",
+        "source_page_number": 17,
+        "source_image_index": 0,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.16",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface areas and volumes",
+    "question_type": "numerical",
+    "question_text": "A container shaped like a right circular cylinder having diameter 12 cm and height 15 cm is full of ice cream. The ice cream is to be filled into cones of height 12 cm and diameter 6 cm, having a hemispherical shape on the top. Find the number of such cones which can be filled with ice cream.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, 10 ice-cream cones can be filled with the ice-cream in the container.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the volume of the cylindrical container.",
+        "expression": "V_{cylinder} = \\pi r^2 h = \\pi \\left(\\frac{12}{2}\\right)^2 \\times 15"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the volume of one ice-cream cone including the hemispherical top.",
+        "expression": "V_{cone} = \\frac{1}{3} \\pi r_{cone}^2 h_{cone} + \\frac{2}{3} \\pi r_{cone}^3"
+      },
+      {
+        "step_number": 3,
+        "description": "Set the volume of the container equal to the total volume of the cones.",
+        "expression": "V_{cylinder} = n \\times V_{cone}"
+      },
+      {
+        "step_number": 4,
+        "description": "Solve for n, the number of cones.",
+        "expression": "n = \\frac{V_{cylinder}}{V_{cone}}"
+      }
+    ],
+    "final_answer": "Therefore, 10 ice-cream cones can be filled with the ice-cream in the container.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of the volume of the cylindrical container and cones.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656403/ncert/maths/13/img_18_0.png",
+      "latex_extracted": "\\begin{array}{c}{{\\pi r_{1}^{2}h_{1}=n\\left(\\frac{1}{3}\\pi r_{2}^{2}h_{2}+\\frac{2}{3}\\pi r_{2}^{3}\\right)}}\\\\ {{n=\\displaystyle\\frac{16\\times12+\\displaystyle\\frac{2}{3}}\\times(3)^{3}}}\\\\ {{n=10}}\\end{array}",
+      "source_page_number": 18,
+      "source_image_index": 0,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps of calculation and understanding of volume.",
+    "topics_tags": [
+      "Volume",
+      "Ice Cream",
+      "Conical Shapes"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the volume of the cylindrical container and cones.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656403/ncert/maths/13/img_18_0.png",
+        "latex_extracted": "\\begin{array}{c}{{\\pi r_{1}^{2}h_{1}=n\\left(\\frac{1}{3}\\pi r_{2}^{2}h_{2}+\\frac{2}{3}\\pi r_{2}^{3}\\right)}}\\\\ {{n=\\displaystyle\\frac{16\\times12+\\displaystyle\\frac{2}{3}}\\times(3)^{3}}}\\\\ {{n=10}}\\end{array}",
+        "source_page_number": 18,
+        "source_image_index": 0,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q13.17",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface areas and volumes",
+    "question_type": "numerical",
+    "question_text": "A cylindrical bucket, 32 cm high and with radius of base 18 cm, is filled with sand. This bucket is emptied on the ground and a conical heap of sand is formed. If the height of the conical heap is 24 cm. Find the radius and slant height of the heap.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The radius and slant height of the conical heap are 36 cm and respectively.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the volume of the cylindrical bucket.",
+        "expression": "V_{cylinder} = \\pi r^2 h = \\pi (18^2)(32)"
+      },
+      {
+        "step_number": 2,
+        "description": "Set the volume of the conical heap equal to the volume of the cylindrical bucket.",
+        "expression": "V_{cone} = \\frac{1}{3} \\pi r_{2}^{2} h = V_{cylinder}"
+      },
+      {
+        "step_number": 3,
+        "description": "Solve for the radius of the conical heap.",
+        "expression": "r_{2}^{2} = \\frac{3 \\times 18^{2} \\times 32}{24} = 18^{2} \\times 4"
+      }
+    ],
+    "final_answer": "Therefore, the radius and slant height of the conical heap are 36 cm and respectively.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical equations related to the volume of the cylindrical bucket and conical heap.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656406/ncert/maths/13/img_19_0.png",
+      "latex_extracted": "\\begin{array}{c}{{n\\times\\pi\\times r^{2}\\times h_{1}=l\\times h}}\\\\ {{n\\times\\pi\\times(0.875)^{2}\\times0.2=5.5\\times10\\times3.5}}\\\\ {{n=\\displaystyle\\frac{5.5\\times10\\times3.5\\times7}{(0.875)^{2}\\times0.2\\times22}=400}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multi-step calculations and understanding of volume formulas.",
+    "topics_tags": [
+      "Cylindrical Volume",
+      "Conical Volume",
+      "Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical equations related to the volume of the cylindrical bucket and conical heap.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656406/ncert/maths/13/img_19_0.png",
+        "latex_extracted": "\\begin{array}{c}{{n\\times\\pi\\times r^{2}\\times h_{1}=l\\times h}}\\\\ {{n\\times\\pi\\times(0.875)^{2}\\times0.2=5.5\\times10\\times3.5}}\\\\ {{n=\\displaystyle\\frac{5.5\\times10\\times3.5\\times7}{(0.875)^{2}\\times0.2\\times22}=400}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q13.18",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface areas and volumes",
+    "question_type": "numerical",
+    "question_text": "Water in canal, 6 m wide and 1.5 m deep, is flowing with a speed of 10 km/h. how much area will it irrigate in 30 minutes, if 8 cm of standing water is needed?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical equations related to the volume of water flowing from the canal.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656414/ncert/maths/13/img_20_0.jpg",
+      "latex_extracted": "\\begin{array}{c}{{\\displaystyle{}^{\\prime}\\displaystyle{\\bf\\nabla\\times\\ddots}}}\\\\ {{\\displaystyle{}_{\\begin{array}{c}{{\\sim}}\\\\ {{\\times\\sim}}}\\\\ {{\\times\\left\\{\\left\\{\\begin{array}{l l}{{\\sim\\sum}}\\\\ {{\\times\\exp_{\\infty}}}\\end{array}\\right.\\right.}}\\\\ {{\\displaystyle{}_{\\begin{array}{l}{{\\sim}}\\\\ {{\\times\\left\\{\\left\\{\\frac{{\\sqrt{{\\exp_{\\mathrm{s}}}}}{{\\sqrt{{\\exp_{\\mathrm{s}}}}}}}\\end{array}\\right.\\right.}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Therefore, area irrigated in 30 minutes is 562500 m2.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the area of cross-section of the canal.",
+        "expression": "Area = 6 m * 1.5 m = 9 m^2"
+      },
+      {
+        "step_number": 2,
+        "description": "Convert speed of water to m/min.",
+        "expression": "10 km/h = \\frac{10 \\times 1000}{60} m/min"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate volume of water flowing in 30 minutes.",
+        "expression": "Volume = Area \\times Speed \\times Time"
+      }
+    ],
+    "final_answer": "Therefore, area irrigated in 30 minutes is 562500 m2.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of flow rates and area calculations.",
+    "topics_tags": [
+      "Water Flow",
+      "Irrigation",
+      "Volume Calculation"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical equations related to the volume of water flowing from the canal.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656414/ncert/maths/13/img_20_0.jpg",
+        "latex_extracted": "\\begin{array}{c}{{\\displaystyle{}^{\\prime}\\displaystyle{\\bf\\nabla\\times\\ddots}}}\\\\ {{\\displaystyle{}_{\\begin{array}{c}{{\\sim}}\\\\ {{\\times\\sim}}}\\\\ {{\\times\\left\\{\\left\\{\\begin{array}{l l}{{\\sim\\sum}}\\\\ {{\\times\\exp_{\\infty}}}\\end{array}\\right.\\right.}}\\\\ {{\\displaystyle{}_{\\begin{array}{l}{{\\sim}}\\\\ {{\\times\\left\\{\\left\\{\\frac{{\\sqrt{{\\exp_{\\mathrm{s}}}}}{{\\sqrt{{\\exp_{\\mathrm{s}}}}}}}\\end{array}\\right.\\right.}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.19",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface areas and volumes",
+    "question_type": "numerical",
+    "question_text": "A drinking glass is in the shape of a frustum of a cone of height 14 cm. The diameters of its two circular ends are 4 cm and 2 cm. Find the capacity of the glass.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the frustum of a cone with dimensions labeled.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656432/ncert/maths/13/img_22_0.jpg",
+      "latex_extracted": "\\begin{array}{r}{{\\left.{\\begin{array}{l}{{\\frac{10~\\mathrm{m}}{\\left(\\frac{\\zeta\\cdot\\ldots+\\gamma\\cdot\\infty}{\\sqrt{\\left\\rfloor}}}\\right)}}}}\\\\ {{\\left.{\\left.\\begin{array}{l}{\\left\\langle\\frac{\\gamma\\cdot\\ldots+\\gamma\\cdot\\infty}{\\leq\\cdots\\right\\rangle}}\\right\\right\\right\\right\\right|\\left\\vert{\\overset{2m}{\\sin}}}\\end{array}",
+      "source_page_number": 22,
+      "source_image_index": 0,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Therefore, the capacity of the glass is calculated using the volume formula for a frustum of a cone.",
+    "answer_latex": "\\text{Capacity} = \\frac{1}{3} \\pi h (r_1^2 + r_2^2 + r_1 r_2) = \\frac{1}{3} \\pi (14) \\left(\\left(2\\right)^2 + \\left(1\\right)^2 + 2\\right) = \\frac{1}{3} \\pi (14) (4 + 1 + 2) = \\frac{1}{3} \\pi (14)(7) = \\frac{98}{3} \\pi \\text{ cm}^3",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the formula for the volume of a frustum of a cone.",
+        "expression": "V = \\frac{1}{3} \\pi h (r_1^2 + r_2^2 + r_1 r_2)"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values of height and radii into the formula.",
+        "expression": "V = \\frac{1}{3} \\pi (14) \\left(\\left(2\\right)^2 + \\left(1\\right)^2 + 2\\right)"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the volume.",
+        "expression": "V = \\frac{1}{3} \\pi (14)(7) = \\frac{98}{3} \\pi"
+      }
+    ],
+    "final_answer": "Therefore, the capacity of the glass is \\frac{98}{3} \\pi \\text{ cm}^3.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of the frustum volume formula and substitution.",
+    "topics_tags": [
+      "Frustum of a Cone",
+      "Volume",
+      "Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the frustum of a cone with dimensions labeled.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656432/ncert/maths/13/img_22_0.jpg",
+        "latex_extracted": "\\begin{array}{r}{{\\left.{\\begin{array}{l}{{\\frac{10~\\mathrm{m}}{\\left(\\frac{\\zeta\\cdot\\ldots+\\gamma\\cdot\\infty}{\\sqrt{\\left\\rfloor}}}\\right)}}}}\\\\ {{\\left.{\\left.\\begin{array}{l}{\\left\\langle\\frac{\\gamma\\cdot\\ldots+\\gamma\\cdot\\infty}{\\leq\\cdots\\right\\rangle}}\\right\\right\\right\\right\\right|\\left\\vert{\\overset{2m}{\\sin}}}\\end{array}",
+        "source_page_number": 22,
+        "source_image_index": 0,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.20",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface areas and volumes",
+    "question_type": "numerical",
+    "question_text": "The slant height of a frustum of a cone is 4 cm and the perimeters (circumference) of its circular ends are 18 cm and 6 cm. Find the curved surface area of the frustum.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The curved surface area of the frustum is calculated using the formula CSA = π (r1 + r2) l.",
+    "answer_latex": "CSA = \\pi (r_1 + r_2) l = \\pi \\left(\\frac{18}{2\\pi} + \\frac{6}{2\\pi}\\right) 4 = 48 \\text{ cm}^2",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the formula for the curved surface area of a frustum.",
+        "expression": "CSA = \\pi (r_1 + r_2) l"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the radii from the given perimeters.",
+        "expression": "r_1 = \\frac{18}{2\\pi}, r_2 = \\frac{6}{2\\pi}"
+      },
+      {
+        "step_number": 3,
+        "description": "Substitute the values into the CSA formula.",
+        "expression": "CSA = \\pi \\left(\\frac{18}{2\\pi} + \\frac{6}{2\\pi}\\right) 4"
+      },
+      {
+        "step_number": 4,
+        "description": "Calculate the curved surface area.",
+        "expression": "CSA = 48"
+      }
+    ],
+    "final_answer": "Therefore, the curved surface area of the frustum is 48 cm².",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the frustum of a cone with labeled slant height and circumferences.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656436/ncert/maths/13/img_23_0.png",
+      "latex_extracted": "\\begin{array}{c}{{=\\frac13{\\pi}\\mathrm{h}\\left(r_{1}^{2}+r_{2}^{2}+r_{1}r_{2}\\right)}}\\\\ {{=\\frac13{\\pi}\\mathrm{h}\\left[\\left(2\\right)^{2}+\\left(1\\right)^{2}+2\\right]}}\\\\ {{=\\frac13{\\sqrt{3}}}=102\\frac{2}{3}{\\cos}}\\end{array}",
+      "source_page_number": 23,
+      "source_image_index": 0,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires basic application of the CSA formula and simple calculations.",
+    "topics_tags": [
+      "Frustum of a Cone",
+      "Curved Surface Area",
+      "Geometry"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the frustum of a cone with labeled slant height and circumferences.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656436/ncert/maths/13/img_23_0.png",
+        "latex_extracted": "\\begin{array}{c}{{=\\frac13{\\pi}\\mathrm{h}\\left(r_{1}^{2}+r_{2}^{2}+r_{1}r_{2}\\right)}}\\\\ {{=\\frac13{\\pi}\\mathrm{h}\\left[\\left(2\\right)^{2}+\\left(1\\right)^{2}+2\\right]}}\\\\ {{=\\frac13{\\sqrt{3}}}=102\\frac{2}{3}{\\cos}}\\end{array}",
+        "source_page_number": 23,
+        "source_image_index": 0,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q13.21",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface areas and volumes",
+    "question_type": "numerical",
+    "question_text": "A fez, the cap used by the Turks, is shaped like the frustum of a cone. If its radius on the open side is 10 cm, radius at the upper base is 4 cm and its slant height is 15 cm, find the area of material used for making it.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The area of material used for making the fez is calculated using the formula for CSA of frustum plus the area of the upper circular end.",
+    "answer_latex": "Area = CSA + Area_{upper} = \\pi (r_1 + r_2) l + \\pi r_2^2 = \\pi (10 + 4) 15 + \\pi (4)^2 = 210\\pi + 16\\pi = 226\\pi \\text{ cm}^2",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the formula for the area of material used.",
+        "expression": "Area = CSA + Area_{upper}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the curved surface area using the given dimensions.",
+        "expression": "CSA = \\pi (r_1 + r_2) l = \\pi (10 + 4) 15"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the area of the upper circular end.",
+        "expression": "Area_{upper} = \\pi r_2^2 = \\pi (4)^2"
+      },
+      {
+        "step_number": 4,
+        "description": "Combine both areas to find the total area.",
+        "expression": "Area = 210\\pi + 16\\pi = 226\\pi"
+      }
+    ],
+    "final_answer": "Therefore, the area of material used for making the fez is 226\\pi cm².",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the frustum of a cone representing a fez with dimensions labeled.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656441/ncert/maths/13/img_24_1.jpg",
+      "latex_extracted": "\\left.\\left.\\left.\\left.\\left.\\left.\\right/\\left(\\begin{array}{c}{{\\right|}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\end{array}\\right)\\right|\\left(\\left\\downarrow\\atop\\right)",
+      "source_page_number": 24,
+      "source_image_index": 1,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of both CSA and area of a circle, along with substitution.",
+    "topics_tags": [
+      "Frustum of a Cone",
+      "Surface Area",
+      "Geometry"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the frustum of a cone representing a fez with dimensions labeled.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656441/ncert/maths/13/img_24_1.jpg",
+        "latex_extracted": "\\left.\\left.\\left.\\left.\\left.\\left.\\right/\\left(\\begin{array}{c}{{\\right|}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\end{array}\\right)\\right|\\left(\\left\\downarrow\\atop\\right)",
+        "source_page_number": 24,
+        "source_image_index": 1,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q13.22",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface areas and volumes",
+    "question_type": "numerical",
+    "question_text": "A container, opened from the top and made up of a metal sheet, is in the form of a frustum of a cone of height 16 cm with radii of its lower and upper ends as 8 cm and 20 cm respectively. Find the cost of the milk which can completely fill the container, at the rate of Rs.20 per litre. Also find the cost of metal sheet used to make the container, if it costs Rs.8 per 100 cm². [Take π = 3.14]",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The cost of the milk which can completely fill the container is Rs 209 and the cost of metal sheet used to make the container is Rs 156.75.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the volume of the frustum to find the capacity of the container.",
+        "expression": "V = \\frac{1}{3} \\pi h (r_1^2 + r_2^2 + r_1 r_2)"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values into the volume formula.",
+        "expression": "V = \\frac{1}{3} \\times 3.14 \\times 16 \\times (20^2 + 8^2 + 20 \\times 8)"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the cost of the milk based on the volume.",
+        "expression": "Cost = Volume \\times 20"
+      },
+      {
+        "step_number": 4,
+        "description": "Calculate the area of the metal sheet used.",
+        "expression": "A = \\pi (r_1 + r_2) l + \\pi r_2^2"
+      },
+      {
+        "step_number": 5,
+        "description": "Calculate the cost of the metal sheet.",
+        "expression": "Cost = \\frac{Area \\times 8}{100}"
+      }
+    ],
+    "final_answer": "Therefore, the cost of the milk which can completely fill the container is Rs 209 and the cost of metal sheet used to make the container is Rs 156.75.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the frustum of a cone with dimensions labeled.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656445/ncert/maths/13/img_25_0.png",
+      "latex_extracted": "\\begin{array}{c}{{=~210\\pi+16\\pi=\\frac{226\\times22}{7}}}\\\\ {{=710\\displaystyle\\frac{2}{7}\\mathrm{cm}^{2}~~~~}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations and understanding of volume and surface area formulas.",
+    "topics_tags": [
+      "Frustum",
+      "Volume",
+      "Surface Area",
+      "Cost Calculation"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the frustum of a cone with dimensions labeled.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656445/ncert/maths/13/img_25_0.png",
+        "latex_extracted": "\\begin{array}{c}{{=~210\\pi+16\\pi=\\frac{226\\times22}{7}}}\\\\ {{=710\\displaystyle\\frac{2}{7}\\mathrm{cm}^{2}~~~~}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q13.23",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface areas and volumes",
+    "question_type": "numerical",
+    "question_text": "A copper wire, 3 mm in diameter, is wound about a cylinder whose length is 12 cm, and diameter 10 cm, so as to cover the curved surface of the cylinder. Find the length and mass of the wire, assuming the density of copper to be 8.88 g per cm³.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the volume of wire and its relation to the cylinder's dimensions.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656478/ncert/maths/13/img_28_0.png",
+      "latex_extracted": "\\begin{array}{c}{{\\frac{22000}{9}={\\frac{22}{7}}\\times\\left({\\frac{1}{32}}\\right)^{2}\\times I}}\\\\ {{\\frac{9}{7=79644.44~{\\mathrm{cm}}}}}\\\\ {{=7964.44~{\\mathrm{metres}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The length of wire required in 1 round is 10π cm, and in 40 rounds, it is 1257.14 cm. The mass of the wire is 789.41 gm.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the circumference of the base of the cylinder to find the length of wire in one round.",
+        "expression": "Length = 2πr = 2π × 5 = 10π"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the total length of wire in 40 rounds.",
+        "expression": "Length in 40 rounds = 40 × 10π = 1257.14 cm"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the volume of the wire using its cross-sectional area and length.",
+        "expression": "Volume = π(0.15)² × 1257.14"
+      },
+      {
+        "step_number": 4,
+        "description": "Calculate the mass of the wire using its volume and density.",
+        "expression": "Mass = Volume × Density = 88.898 × 8.88"
+      }
+    ],
+    "final_answer": "Therefore, the length of the wire is 12.57 m and the mass is 789.41 gm.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical calculations related to the volume of the wire.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656480/ncert/maths/13/img_28_1.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations including geometry and density.",
+    "topics_tags": [
+      "Volume",
+      "Density",
+      "Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the volume of wire and its relation to the cylinder's dimensions.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656478/ncert/maths/13/img_28_0.png",
+        "latex_extracted": "\\begin{array}{c}{{\\frac{22000}{9}={\\frac{22}{7}}\\times\\left({\\frac{1}{32}}\\right)^{2}\\times I}}\\\\ {{\\frac{9}{7=79644.44~{\\mathrm{cm}}}}}\\\\ {{=7964.44~{\\mathrm{metres}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical calculations related to the volume of the wire.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656480/ncert/maths/13/img_28_1.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q13.24",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface areas and volumes",
+    "question_type": "numerical",
+    "question_text": "A right triangle whose sides are 3 cm and 4 cm (other than hypotenuse) is made to revolve about its hypotenuse. Find the volume and surface area of the double cone so formed. (Choose value of π as found appropriate.)",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the double cone formed by revolving the triangle about its hypotenuse.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656485/ncert/maths/13/img_29_0.jpg",
+      "latex_extracted": "\\begin{array}{c}{{\\mathcal{N}\\left[\\begin{array}{c}{{\\chi}}\\\\ {{\\chi\\exp\\left[\\begin{array}{{{\\exp\\left[\\begin{array}{{{\\exp\\epsilon\\left[\\begin{array}{{\\exp\\psi\\qquad\\right]{\\sqrt[[object Object]\\Phi\\right]}^{\\begin{{{\\sqrt[[object Object]}}}}}\\end{}}}\\end{array}\\right]}}}\\right]}}\\\\ {{\\left.\\left.\\chi\\right.}}\\\\ {{\\left.\\left.\\chi\\right.}}\\\\ {{\\left.{\\mathfrak{D}}\\left.\\chi\\right.}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The volume of the double cone is 30.14 cm³ and the surface area is 52.75 cm².",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the hypotenuse of the triangle using Pythagorean theorem.",
+        "expression": "Hypotenuse = 5 cm"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the volume of the double cone formed.",
+        "expression": "Volume = Volume of cone 1 + Volume of cone 2 = 30.14 cm³"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the surface area of the double cone.",
+        "expression": "Surface area = Surface area of cone 1 + Surface area of cone 2 = 52.75 cm²"
+      }
+    ],
+    "final_answer": "Thus, the volume of the double cone is 30.14 cm³ and the surface area is 52.75 cm².",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of geometry and calculations for volume and surface area.",
+    "topics_tags": [
+      "Double Cone",
+      "Volume",
+      "Surface Area"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the double cone formed by revolving the triangle about its hypotenuse.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656485/ncert/maths/13/img_29_0.jpg",
+        "latex_extracted": "\\begin{array}{c}{{\\mathcal{N}\\left[\\begin{array}{c}{{\\chi}}\\\\ {{\\chi\\exp\\left[\\begin{array}{{{\\exp\\left[\\begin{array}{{{\\exp\\epsilon\\left[\\begin{array}{{\\exp\\psi\\qquad\\right]{\\sqrt[[object Object]\\Phi\\right]}^{\\begin{{{\\sqrt[[object Object]}}}}}\\end{}}}\\end{array}\\right]}}}\\right]}}\\\\ {{\\left.\\left.\\chi\\right.}}\\\\ {{\\left.\\left.\\chi\\right.}}\\\\ {{\\left.{\\mathfrak{D}}\\left.\\chi\\right.}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.25",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface areas and volumes",
+    "question_type": "mcq",
+    "question_text": "A cistern, internally measuring 150 cm x 120 cm x 110 cm, has 129600 cm³ of water in it. Porous bricks are placed in the water until the cistern is full to the brim. Each brick absorbs one-seventeenth of its own volume of water. How many bricks can be put in without overflowing the water, each brick being 22.5 cm x 7.5 cm x 6.5 cm?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The volume of the cistern is 1980000 cm³, and the volume to be filled is 1850400 cm³. Each brick absorbs 0.5 cm³ of water, allowing for 3700800 bricks.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the volume of the cistern.",
+        "expression": "Volume = 150 × 120 × 110 = 1980000 cm³"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the volume to be filled in the cistern.",
+        "expression": "Volume to be filled = 1980000 - 129600 = 1850400 cm³"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the volume of one brick and the amount of water it absorbs.",
+        "expression": "Volume of one brick = 22.5 × 7.5 × 6.5 = 1096.875 cm³; Absorbed water = 1096.875 / 17"
+      },
+      {
+        "step_number": 4,
+        "description": "Calculate the number of bricks that can be placed in the cistern.",
+        "expression": "Number of bricks = Volume to be filled / Absorbed water"
+      }
+    ],
+    "final_answer": "Thus, the number of bricks that can be placed in without overflowing is 3700800.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Involves multiple steps of volume calculations and understanding of absorption.",
+    "topics_tags": [
+      "Cistern",
+      "Volume",
+      "Porous Bricks"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.26",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface areas and volumes",
+    "question_type": "numerical",
+    "question_text": "In one fortnight of a given month, there was a rainfall of 10 cm in a river valley. If the area of the valley is 97280 km², show that the total rainfall was approximately equivalent to the addition to the normal water of three rivers each 1072 km long, 75 m wide and 3 m deep.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The total rainfall in the valley is approximately the same as the volume of the three rivers.",
+    "answer_latex": "Total Rainfall = 97280 \\text{ km}^2 \\times 10 \\text{ cm} = 6.94 \\times 10^8 \\text{ m}^3; \\text{ Volume of three rivers} = 7.236 \\times 10^8 \\text{ m}^3",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the total rainfall volume in the valley.",
+        "expression": "Total Rainfall = 97280 \\text{ km}^2 \\times 10 \\text{ cm} = 6.94 \\times 10^8 \\text{ m}^3"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the volume of one river.",
+        "expression": "Volume = 1072000 \\text{ m} \\times 75 \\text{ m} \\times 3 \\text{ m} = 2.412 \\times 10^8 \\text{ m}^3"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the total volume of three rivers.",
+        "expression": "Volume of three rivers = 3 \\times 2.412 \\times 10^8 \\text{ m}^3 = 7.236 \\times 10^8 \\text{ m}^3"
+      }
+    ],
+    "final_answer": "Thus, the total rainfall is approximately the same as the volume of the three rivers.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations and understanding of volume.",
+    "topics_tags": [
+      "Rainfall",
+      "Volume",
+      "River"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.27",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface areas and volumes",
+    "question_type": "numerical",
+    "question_text": "An oil funnel made of tin sheet consists of a 10 cm long cylindrical portion attached to a frustum of a cone. If the total height is 22 cm, diameter of the cylindrical portion is 8 cm and the diameter of the top of the funnel is 18 cm, find the area of the tin sheet required to make the funnel.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The area of the tin sheet required is calculated using the formula for the curved surface area of the frustum and the cylindrical part.",
+    "answer_latex": "A = \\pi(r_1 + r_2)l + 2\\pi r_2h_2 = \\frac{22}{7} \\times (9 + 4) \\times 13 + 2 \\times \\frac{22}{7} \\times 4 \\times 10",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the slant height of the frustum.",
+        "expression": "l = \\sqrt{(r_2 - r_1)^2 + h^2}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the curved surface area of the frustum.",
+        "expression": "CSA_{frustum} = \\pi(r_1 + r_2)l"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the curved surface area of the cylindrical part.",
+        "expression": "CSA_{cylinder} = 2\\pi r_2 h_2"
+      },
+      {
+        "step_number": 4,
+        "description": "Add both areas to find the total area of the tin sheet required.",
+        "expression": "A = CSA_{frustum} + CSA_{cylinder}"
+      }
+    ],
+    "final_answer": "The total area of the tin sheet required to make the funnel is \\frac{22 \\times 249}{7} \\text{ cm}^2.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the dimensions of the oil funnel including cylindrical and frustum parts.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656493/ncert/maths/13/img_32_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of surface area calculations and application of formulas.",
+    "topics_tags": [
+      "Frustum",
+      "Surface Area",
+      "Cylindrical Portion"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the dimensions of the oil funnel including cylindrical and frustum parts.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656493/ncert/maths/13/img_32_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q13.28",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface areas and volumes",
+    "question_type": "derivation",
+    "question_text": "Derive the formula for the curved surface area and total surface area of the frustum of cone.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The curved surface area of the frustum is derived from the areas of the cone sections.",
+    "answer_latex": "CSA = \\pi(r_1 + r_2)l; \\text{ Total Surface Area } = CSA + \\pi r_1^2 + \\pi r_2^2",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the dimensions of the frustum and the cone.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the properties of similar triangles to derive the relationship between the dimensions.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the curved surface area using the derived dimensions.",
+        "expression": "CSA = \\pi(r_1 + r_2)l"
+      },
+      {
+        "step_number": 4,
+        "description": "Add the areas of the circular ends to find the total surface area.",
+        "expression": "Total Surface Area = CSA + \\pi r_1^2 + \\pi r_2^2"
+      }
+    ],
+    "final_answer": "Thus, the formulas for the curved surface area and total surface area of the frustum of cone are derived.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram illustrating the frustum of a cone with labeled dimensions.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656506/ncert/maths/13/img_33_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Involves understanding of geometry and derivation of formulas.",
+    "topics_tags": [
+      "Frustum",
+      "Surface Area",
+      "Derivation"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram illustrating the frustum of a cone with labeled dimensions.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656506/ncert/maths/13/img_33_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q13.29",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface areas and volumes",
+    "question_type": "derivation",
+    "question_text": "Derive the formula for the volume of the frustum of a cone.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the frustum of a cone with labeled dimensions.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656512/ncert/maths/13/img_34_0.png",
+      "latex_extracted": "\\begin{array}{c}{{=\\pi r[l_{1}-\\pi r_{2}\\left(l_{1}-l\\right)}}\\\\ {{=\\pi r[\\displaystyle{\\frac{l_{I_{1}}}{r_{1}-r_{2}}}\\left(\\displaystyle{\\frac{r_{1}}{r_{1}-r_{2}}}\\right)}}\\\\ {{=\\frac{\\pi r_{1}}{r_{1}-r_{2}}-\\pi r_{2}\\left(\\displaystyle{\\frac{r_{1}l-r_{2}}{r_{1}-r_{2}}}\\right)}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Volume of frustum of cone = Volume of cone ABC - Volume of cone ADE.",
+    "answer_latex": "{\\frac{\\pi}{3}}h\\left[{\\frac{\\left(r_{1}-r_{2}\\right)\\left(r_{1}^{2}+r_{2}^{2}+r_{1}r_{2}\\right)}{r_{1}-r_{2}}}\\right]",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the volume of the frustum as the difference between the volumes of two cones.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the formula for the volume of a cone to express the volumes of cones ABC and ADE.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Derive the final formula for the volume of the frustum.",
+        "expression": "{\\frac{\\pi}{3}}h\\left[{\\frac{\\left(r_{1}-r_{2}\\right)\\left(r_{1}^{2}+r_{2}^{2}+r_{1}r_{2}\\right)}{r_{1}-r_{2}}}\\right]"
+      }
+    ],
+    "final_answer": "Thus, the volume of the frustum of a cone is given by the derived formula.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical derivation steps for the volume of the frustum of a cone.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656520/ncert/maths/13/img_34_3.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Involves multi-step reasoning and application of volume formulas.",
+    "topics_tags": [
+      "Frustum",
+      "Volume",
+      "Cone",
+      "Mathematics"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the frustum of a cone with labeled dimensions.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656512/ncert/maths/13/img_34_0.png",
+        "latex_extracted": "\\begin{array}{c}{{=\\pi r[l_{1}-\\pi r_{2}\\left(l_{1}-l\\right)}}\\\\ {{=\\pi r[\\displaystyle{\\frac{l_{I_{1}}}{r_{1}-r_{2}}}\\left(\\displaystyle{\\frac{r_{1}}{r_{1}-r_{2}}}\\right)}}\\\\ {{=\\frac{\\pi r_{1}}{r_{1}-r_{2}}-\\pi r_{2}\\left(\\displaystyle{\\frac{r_{1}l-r_{2}}{r_{1}-r_{2}}}\\right)}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical derivation steps for the volume of the frustum of a cone.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656520/ncert/maths/13/img_34_3.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  }
+]

@@ -1,0 +1,2230 @@
+[
+  {
+    "question_id": "Q3.1",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "pair of linear equations in two variables",
+    "question_type": "conceptual",
+    "question_text": "Aftab tells his daughter, \"Seven years ago, I was seven times as old as you were then. Also, three years from now, I shall be three times as old as you will be.\" Represent this situation algebraically and graphically.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of linear equations in two variables.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777658176/ncert/maths/3/img_1_0.jpg",
+      "latex_extracted": "\\begin{array}{c}{{a_{1}x+b_{1}y+c_{1}=0}}\\\\ {{a_{2}x+b_{2}y+c_{2}=0}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Let the present age of Aftab be x and the present age of his daughter be y. Seven years ago, Aftab's age was x - 7 and his daughter's age was y - 7. According to the question, three years hence, Aftab's age will be x + 3 and his daughter's age will be y + 3.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set up the equations based on the ages given in the problem.",
+        "expression": "(x - 7) = 7(y - 7)"
+      },
+      {
+        "step_number": 2,
+        "description": "Rearrange the equation to standard form.",
+        "expression": "x - 7y = -42"
+      }
+    ],
+    "final_answer": "Thus, the algebraic representation of the situation is established.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of age problems and setting up equations.",
+    "topics_tags": [
+      "Linear Equations",
+      "Age Problems",
+      "Algebra"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of linear equations in two variables.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777658176/ncert/maths/3/img_1_0.jpg",
+        "latex_extracted": "\\begin{array}{c}{{a_{1}x+b_{1}y+c_{1}=0}}\\\\ {{a_{2}x+b_{2}y+c_{2}=0}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.2",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "pair of linear equations in two variables",
+    "question_type": "conceptual",
+    "question_text": "The coach of a cricket team buys 3 bats and 6 balls for Rs 3900. Later, she buys another bat and 3 more balls of the same kind for Rs 1300. Represent this situation algebraically and geometrically.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Let the cost of a bat be Rs x and the cost of a ball be Rs y. The algebraic representation is given by the equations: 3x + 6y = 3900 and x + 3y = 1300.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set up the first equation based on the first purchase.",
+        "expression": "3x + 6y = 3900"
+      },
+      {
+        "step_number": 2,
+        "description": "Set up the second equation based on the second purchase.",
+        "expression": "x + 3y = 1300"
+      }
+    ],
+    "final_answer": "Thus, the algebraic representation of the situation is established.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of cost problems and setting up equations.",
+    "topics_tags": [
+      "Linear Equations",
+      "Cost Problems",
+      "Algebra"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.3",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "pair of linear equations in two variables",
+    "question_type": "conceptual",
+    "question_text": "The cost of 2 kg of apples and 1 kg of grapes on a day was found to be Rs 160. After a month, the cost of 4 kg of apples and 2 kg of grapes is Rs 300. Represent the situation algebraically and geometrically.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Graphical representation related to the cost of apples and grapes.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777658195/ncert/maths/3/img_5_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Let the cost of 1 kg of apples be Rs x and the cost of 1 kg of grapes be Rs y. The algebraic representation is: 2x + y = 160 and 4x + 2y = 300.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Define variables for the costs of apples and grapes.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Set up the equations based on the given costs.",
+        "expression": "2x + y = 160, 4x + 2y = 300"
+      }
+    ],
+    "final_answer": "Thus, the situation is represented by the equations 2x + y = 160 and 4x + 2y = 300.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of algebraic representation and basic equation formulation.",
+    "topics_tags": [
+      "Linear Equations",
+      "Algebra",
+      "Graphical Representation"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Graphical representation related to the cost of apples and grapes.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777658195/ncert/maths/3/img_5_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.4",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "pair of linear equations in two variables",
+    "question_type": "conceptual",
+    "question_text": "From the figure, it can be observed that these lines intersect each other at point (7, 3). Therefore, the number of girls and boys in the class are 7 and 3 respectively.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The number of girls and boys in the class are 7 and 3 respectively.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the number of girls and boys in the class are 7 and 3 respectively.",
+    "answer_image": {
+      "present": true,
+      "description": "Graphical representation of linear equations showing intersection at point (7, 3)",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777658212/ncert/maths/3/img_7_0.jpg",
+      "latex_extracted": "\\begin{array}{c c}{{\\qquad}}&{{\\qquad}}&{{\\qquad}}\\\\ {{\\qquad}}&{{\\qquad}}\\\\ {{\\qquad}}&{{\\qquad}}\\\\ {{\\qquad}}&{{\\qquad}}\\\\ {{\\qquad}}&{{\\qquad}}\\\\ {{\\qquad}}&{{\\qquad}}\\\\ {{\\qquad}}&{{\\qquad}}\\\\ {{\\qquad}}&{{\\qquad}}\\\\ {{\\qquad}}&{{\\qquad}}\\\\ {{\\qquad}}&{{\\qquad}}\\\\ {{\\qquad}}&{{\\qquad}}\\\\ {{\\qquad}}&{{\\qquad}}\\\\ {{\\qquad}}&{{\\qquad}}\\\\ {{\\qquad}}&{{\\qquad}}\\\\ {{\\qquad}}&{{\\qquad}}\\\\ {{\\qquad}}&{{\\qquad}}\\\\ {{\\qquad}}&{{\\qquad}}\\\\ {{\\qquad}}&{{\\qquad}}\\\\ {{\\qquad}}&{{\\qquad}}\\\\ {{\\qquad}}&{{\\qquad}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of graphical representation of linear equations.",
+    "topics_tags": [
+      "Linear Equations",
+      "Graphical Representation",
+      "Intersection Point"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Graphical representation of linear equations showing intersection at point (7, 3)",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777658212/ncert/maths/3/img_7_0.jpg",
+        "latex_extracted": "\\begin{array}{c c}{{\\qquad}}&{{\\qquad}}&{{\\qquad}}\\\\ {{\\qquad}}&{{\\qquad}}\\\\ {{\\qquad}}&{{\\qquad}}\\\\ {{\\qquad}}&{{\\qquad}}\\\\ {{\\qquad}}&{{\\qquad}}\\\\ {{\\qquad}}&{{\\qquad}}\\\\ {{\\qquad}}&{{\\qquad}}\\\\ {{\\qquad}}&{{\\qquad}}\\\\ {{\\qquad}}&{{\\qquad}}\\\\ {{\\qquad}}&{{\\qquad}}\\\\ {{\\qquad}}&{{\\qquad}}\\\\ {{\\qquad}}&{{\\qquad}}\\\\ {{\\qquad}}&{{\\qquad}}\\\\ {{\\qquad}}&{{\\qquad}}\\\\ {{\\qquad}}&{{\\qquad}}\\\\ {{\\qquad}}&{{\\qquad}}\\\\ {{\\qquad}}&{{\\qquad}}\\\\ {{\\qquad}}&{{\\qquad}}\\\\ {{\\qquad}}&{{\\qquad}}\\\\ {{\\qquad}}&{{\\qquad}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q3.5",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "pair of linear equations in two variables",
+    "question_type": "conceptual",
+    "question_text": "On comparing the ratios, find out whether the following pair of linear equations are consistent, or inconsistent.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of the equations and their ratios.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777658245/ncert/maths/3/img_10_1.png",
+      "latex_extracted": "\\begin{array}{l l l}{{\\left(1\\right)\\;3x+2y=5;\\quad}}&{{2x-3y=7\\quad}}&{{\\left({\\mathrm{i}}\\right)\\;\\;2x-3y=8;\\quad}}&{{4x-6y+9}}\\\\ {{\\left({\\mathrm{iii}}\\right)\\;{\\frac{3}{2}}x+{\\frac{5}{3}}y=7\\;\\;;\\;9x-10y=14\\quad}}&{{\\left({\\mathrm{iv}}\\right)\\;5x-3y=1\\;\\;;-10x+6y=-22}}\\\\ {{\\left({\\mathrm{i}}\\right)\\;{\\frac{4}{3}}x+2y=8\\;;\\quad}}&{{2x+3y=12\\quad}}&{{\\left({\\mathrm{iv}}\\right)\\;{\\frac{1}{3}}x+2y=8\\;;\\quad}}\\end{array}",
+      "source_page_number": 10,
+      "source_image_index": 1,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "These linear equations are intersecting each other at one point and thus have only one possible solution. Hence, the pair of linear equations is consistent.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the pair of linear equations is consistent.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of the ratios of the coefficients.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777658247/ncert/maths/3/img_10_2.png",
+      "latex_extracted": null,
+      "source_page_number": 10,
+      "source_image_index": 2,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of consistent and inconsistent equations.",
+    "topics_tags": [
+      "Linear Equations",
+      "Consistency",
+      "Mathematical Ratios"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the equations and their ratios.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777658245/ncert/maths/3/img_10_1.png",
+        "latex_extracted": "\\begin{array}{l l l}{{\\left(1\\right)\\;3x+2y=5;\\quad}}&{{2x-3y=7\\quad}}&{{\\left({\\mathrm{i}}\\right)\\;\\;2x-3y=8;\\quad}}&{{4x-6y+9}}\\\\ {{\\left({\\mathrm{iii}}\\right)\\;{\\frac{3}{2}}x+{\\frac{5}{3}}y=7\\;\\;;\\;9x-10y=14\\quad}}&{{\\left({\\mathrm{iv}}\\right)\\;5x-3y=1\\;\\;;-10x+6y=-22}}\\\\ {{\\left({\\mathrm{i}}\\right)\\;{\\frac{4}{3}}x+2y=8\\;;\\quad}}&{{2x+3y=12\\quad}}&{{\\left({\\mathrm{iv}}\\right)\\;{\\frac{1}{3}}x+2y=8\\;;\\quad}}\\end{array}",
+        "source_page_number": 10,
+        "source_image_index": 1,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the ratios of the coefficients.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777658247/ncert/maths/3/img_10_2.png",
+        "latex_extracted": null,
+        "source_page_number": 10,
+        "source_image_index": 2,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q3.6",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "pair of linear equations in two variables",
+    "question_type": "conceptual",
+    "question_text": "Which of the following pairs of linear equations are consistent/ inconsistent? If consistent, obtain the solution graphically.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Since the equations are coincident pair of lines, they have infinite number of possible solutions. Hence, the pair of linear equations is consistent.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the pair of linear equations is consistent.",
+    "answer_image": {
+      "present": true,
+      "description": "Graphical representation of the equations.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777658255/ncert/maths/3/img_12_0.png",
+      "latex_extracted": "\\begin{array}{r l r}{\\left(\\mathbf{i}\\right)}&{{}x+y=5,\\qquad2x+2y=10}\\\\ {\\left(\\mathbf{i}\\right)}&{{}x-y-8,\\qquad3x-3y=16}\\\\ {\\left(\\mathbf{i}\\right)}&{{}2x+y-6=0,\\ 4x-2y-4=0}\\\\ {\\left(\\mathbf{i}\\right)}&{{}2x-2y-2=0,4x-4y-5=0,4x-4y-5=0}\\end{array}",
+      "source_page_number": 12,
+      "source_image_index": 0,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of graphical solutions and consistency.",
+    "topics_tags": [
+      "Linear Equations",
+      "Graphical Solution",
+      "Consistency"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Graphical representation of the equations.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777658255/ncert/maths/3/img_12_0.png",
+        "latex_extracted": "\\begin{array}{r l r}{\\left(\\mathbf{i}\\right)}&{{}x+y=5,\\qquad2x+2y=10}\\\\ {\\left(\\mathbf{i}\\right)}&{{}x-y-8,\\qquad3x-3y=16}\\\\ {\\left(\\mathbf{i}\\right)}&{{}2x+y-6=0,\\ 4x-2y-4=0}\\\\ {\\left(\\mathbf{i}\\right)}&{{}2x-2y-2=0,4x-4y-5=0,4x-4y-5=0}\\end{array}",
+        "source_page_number": 12,
+        "source_image_index": 0,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q3.7",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "pair of linear equations in two variables",
+    "question_type": "conceptual",
+    "question_text": "From the figure, it can be observed that these lines are overlapping each other. Therefore, infinite solutions are possible for the given pair of equations.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, infinite solutions are possible for the given pair of equations.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the pair of equations has infinite solutions.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing overlapping lines indicating infinite solutions.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777658267/ncert/maths/3/img_13_0.jpg",
+      "latex_extracted": "\\begin{array}{r l}{\\mathbf{\\sigma}_{1}^{\\prime}\\cdot\\mathbf{\\sigma}_{1}\\quad\\mathbf{\\sigma}_{1}^{\\prime}\\quad\\mathbf{\\sigma}_{1}^{\\prime}\\quad\\mathbf{\\sigma}_{1}^{\\prime}\\quad\\mathbf{\\sigma}_{1}^{\\prime}\\quad\\mathbf{\\sigma}_{1}^{\\prime}\\quad\\mathbf{\\sigma}_{1}^{\\prime}\\quad\\mathbf{\\sigma}_{1}^{\\prime}\\quad\\mathbf{\\sigma}_{1}^{\\prime}\\quad\\mathbf{\\sigma}_{1}^{\\prime}\\quad\\mathbf{\\sigma}_{1}^{\\prime}\\quad\\mathbf{\\sigma}_{1}^{\\prime}\\quad\\mathbf{\\sigma}_{1}^{\\prime}\\quad\\mathbf{\\sigma}_{1}^{\\prime}\\quad\\mathbf{\\sigma}_{1}^{\\prime}\\quad\\mathbf{\\sigma}_{1}^{\\prime}\\quad\\mathbf{\\sigma}_{1}^{\\prime}\\quad\\mathbf{\\sigma}_{1}^{\\prime}\\quad\\mathbf{\\sigma}_{1}^{\\prime}\\quad{\\sigma}^{\\sigma}_{\\nu}^{\\sigma}^{\\sigma}}\\\\ {\\varepsilon_{\\sigma}_{\\frac{\\sigma}\\sigma=\\frac{\\frac{\\prime}_{\\prime}{1}\\sigma}{\\sigma}{\\sigma}{\\leq-{\\frac{\\frac{\\frac{\\sigma}{\\prime}^{\\sigma}{\\sigma}\\frac{\\sigma_{\\sigma}{\\sigma}\\frac{\\sigma}_{\\prime}{\\prime}{\\sigma}{\\frac{\\sigma^{\\sigma}{\\nu}{\\sigma_{\\sigma^{\\sigma^{\\sigma^",
+      "source_page_number": 13,
+      "source_image_index": 0,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of the concept of overlapping lines in linear equations.",
+    "topics_tags": [
+      "Linear Equations",
+      "Infinite Solutions",
+      "Graphical Representation"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing overlapping lines indicating infinite solutions.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777658267/ncert/maths/3/img_13_0.jpg",
+        "latex_extracted": "\\begin{array}{r l}{\\mathbf{\\sigma}_{1}^{\\prime}\\cdot\\mathbf{\\sigma}_{1}\\quad\\mathbf{\\sigma}_{1}^{\\prime}\\quad\\mathbf{\\sigma}_{1}^{\\prime}\\quad\\mathbf{\\sigma}_{1}^{\\prime}\\quad\\mathbf{\\sigma}_{1}^{\\prime}\\quad\\mathbf{\\sigma}_{1}^{\\prime}\\quad\\mathbf{\\sigma}_{1}^{\\prime}\\quad\\mathbf{\\sigma}_{1}^{\\prime}\\quad\\mathbf{\\sigma}_{1}^{\\prime}\\quad\\mathbf{\\sigma}_{1}^{\\prime}\\quad\\mathbf{\\sigma}_{1}^{\\prime}\\quad\\mathbf{\\sigma}_{1}^{\\prime}\\quad\\mathbf{\\sigma}_{1}^{\\prime}\\quad\\mathbf{\\sigma}_{1}^{\\prime}\\quad\\mathbf{\\sigma}_{1}^{\\prime}\\quad\\mathbf{\\sigma}_{1}^{\\prime}\\quad\\mathbf{\\sigma}_{1}^{\\prime}\\quad\\mathbf{\\sigma}_{1}^{\\prime}\\quad\\mathbf{\\sigma}_{1}^{\\prime}\\quad{\\sigma}^{\\sigma}_{\\nu}^{\\sigma}^{\\sigma}}\\\\ {\\varepsilon_{\\sigma}_{\\frac{\\sigma}\\sigma=\\frac{\\frac{\\prime}_{\\prime}{1}\\sigma}{\\sigma}{\\sigma}{\\leq-{\\frac{\\frac{\\frac{\\sigma}{\\prime}^{\\sigma}{\\sigma}\\frac{\\sigma_{\\sigma}{\\sigma}\\frac{\\sigma}_{\\prime}{\\prime}{\\sigma}{\\frac{\\sigma^{\\sigma}{\\nu}{\\sigma_{\\sigma^{\\sigma^{\\sigma^",
+        "source_page_number": 13,
+        "source_image_index": 0,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q3.8",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "pair of linear equations in two variables",
+    "question_type": "conceptual",
+    "question_text": "Given the linear equation 2x + 3y - 8 = 0, write another linear equation in two variables such that the geometrical representation of the pair so formed is: (i) intersecting lines (ii) parallel lines (iii) coincident lines.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "For intersecting lines, an example could be 2x + 3y - 8 = 0 and x + y - 5 = 0. For parallel lines, an example could be 2x + 3y - 8 = 0 and 2x + 3y - 10 = 0. For coincident lines, an example could be 2x + 3y - 8 = 0 and 4x + 6y - 16 = 0.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the equations for each case are provided.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing intersecting lines at point (16, 20).",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777658274/ncert/maths/3/img_15_0.jpg",
+      "latex_extracted": "\\begin{array}{c}{{\\left|\\mathbf{a}}}\\\\ {{\\vdots\\quad\\mathbf{e}_{\\infty,\\delta}\\right|_{e,\\delta}^{\\pm}\\ {\\binom{\\pm}{\\binom{\\log{\\frac{\\theta}{\\tan{\\theta}}}}{\\binom{\\ln{\\sqrt{\\cos{\\theta}}{\\theta^{2}}}}}{\\binom{\\times}{\\theta_{\\pm}}}}}}\\\\ {{\\left|\\mathbf{e}_{\\frac{\\varphi_{\\infty}}{\\sin{\\theta}{\\theta^{-1}}}{\\frac{\\varphi_{\\bot}}{\\theta^{2}}}{\\sqrt{\\left|\\mathbf{x}^{\\prime}-{\\frac{\\varphi_{\\bot}}{\\theta^{2}}}\\right|^{\\frac{\\varphi_{\\bot}}{\\theta_{\\bot}}}}{\\theta_{\\bot}^{\\circ}}}}}\\\\ {{\\left|\\mathbf{e}_{\\frac{\\varphi_{\\bot}^{\\bot}}{\\theta_{\\bot}^{\\bot}}{\\theta_{\\bot}}}}}\\end{array}",
+      "source_page_number": 15,
+      "source_image_index": 0,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of different types of linear equations and their graphical representations.",
+    "topics_tags": [
+      "Linear Equations",
+      "Intersecting Lines",
+      "Parallel Lines",
+      "Coincident Lines"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing intersecting lines at point (16, 20).",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777658274/ncert/maths/3/img_15_0.jpg",
+        "latex_extracted": "\\begin{array}{c}{{\\left|\\mathbf{a}}}\\\\ {{\\vdots\\quad\\mathbf{e}_{\\infty,\\delta}\\right|_{e,\\delta}^{\\pm}\\ {\\binom{\\pm}{\\binom{\\log{\\frac{\\theta}{\\tan{\\theta}}}}{\\binom{\\ln{\\sqrt{\\cos{\\theta}}{\\theta^{2}}}}}{\\binom{\\times}{\\theta_{\\pm}}}}}}\\\\ {{\\left|\\mathbf{e}_{\\frac{\\varphi_{\\infty}}{\\sin{\\theta}{\\theta^{-1}}}{\\frac{\\varphi_{\\bot}}{\\theta^{2}}}{\\sqrt{\\left|\\mathbf{x}^{\\prime}-{\\frac{\\varphi_{\\bot}}{\\theta^{2}}}\\right|^{\\frac{\\varphi_{\\bot}}{\\theta_{\\bot}}}}{\\theta_{\\bot}^{\\circ}}}}}\\\\ {{\\left|\\mathbf{e}_{\\frac{\\varphi_{\\bot}^{\\bot}}{\\theta_{\\bot}^{\\bot}}{\\theta_{\\bot}}}}}\\end{array}",
+        "source_page_number": 15,
+        "source_image_index": 0,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q3.9",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "pair of linear equations in two variables",
+    "question_type": "diagram_based",
+    "question_text": "Draw the graphs of the equations x - y + 1 = 0 and 3x + 2y - 12 = 0. Determine the coordinates of the vertices of the triangle formed by these lines and the x-axis, and shade the triangular region.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The vertices of the triangle are (2, 3), (-1, 0), and (4, 0).",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the equations of the lines and plot them on the graph.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Find the intersection points of the lines with each other and the x-axis.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Determine the coordinates of the vertices of the triangle formed.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, the vertices of the triangle formed by the lines and the x-axis are (2, 3), (-1, 0), and (4, 0).",
+    "answer_image": {
+      "present": true,
+      "description": "Graph showing the lines x - y + 1 = 0 and 3x + 2y - 12 = 0, with shaded triangular region formed with the x-axis.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777658277/ncert/maths/3/img_16_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of graphing linear equations and finding intersection points.",
+    "topics_tags": [
+      "Linear Equations",
+      "Graphing",
+      "Triangles"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Graph showing the lines x - y + 1 = 0 and 3x + 2y - 12 = 0, with shaded triangular region formed with the x-axis.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777658277/ncert/maths/3/img_16_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q3.10",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "pair of linear equations in two variables",
+    "question_type": "numerical",
+    "question_text": "Solve 2x + 3y = 11 and 2x - 4y = -24 and hence find the value of 'm' for which y = mx + 3.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Hence, x = -2, y = 5 and m = -1.",
+    "answer_latex": "m = -1",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Substitute y from the first equation into the second equation.",
+        "expression": "2\\left(\\frac{11-3y}{2}\\right)-4y=-24"
+      },
+      {
+        "step_number": 2,
+        "description": "Simplify the equation to find y.",
+        "expression": "11-3y-4y=-24"
+      },
+      {
+        "step_number": 3,
+        "description": "Solve for y.",
+        "expression": "-7y=-35"
+      },
+      {
+        "step_number": 4,
+        "description": "Substitute the value of y into y = mx + 3 to find m.",
+        "expression": "5=-2m+3"
+      }
+    ],
+    "final_answer": "Therefore, the value of m is -1.",
+    "answer_image": {
+      "present": true,
+      "description": "Equations 2x + 3y = 11 and 2x - 4y = -24",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777658313/ncert/maths/3/img_20_0.png",
+      "latex_extracted": "\\begin{array}{\\qquad}2x+3y=11}\\\\ {2x-4y=-24}\\qquad\\qquad(2)}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves solving a system of equations and substitution.",
+    "topics_tags": [
+      "Linear Equations",
+      "Substitution",
+      "Systems of Equations"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Equations 2x + 3y = 11 and 2x - 4y = -24",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777658313/ncert/maths/3/img_20_0.png",
+        "latex_extracted": "\\begin{array}{\\qquad}2x+3y=11}\\\\ {2x-4y=-24}\\qquad\\qquad(2)}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q3.11",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "pair of linear equations in two variables",
+    "question_type": "numerical",
+    "question_text": "Let the larger angle be x and smaller angle be y. We know that the sum of the measures of angles of a supplementary pair is always 180 º. According to the given information, solve for x and y.",
+    "question_latex": "\\begin{array}{r l}{x+y=180^{\\circ}}&{{}{\\big(}1{\\big)}}\\\\ {x-y=18^{\\circ}}&{{}{\\big(}2{\\big)}}\\end{array}",
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Equations representing the relationship between two angles.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777658322/ncert/maths/3/img_22_0.png",
+      "latex_extracted": "\\begin{array}{r l}{x+y=180^{\\circ}}&{{}{\\big(}1{\\big)}}\\\\ {x-y=18^{\\circ}}&{{}{\\big(}2{\\big)}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Hence, the angles are 99 º and 81 º.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set up the equations based on the problem statement.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the value of y from equation (2) into equation (1).",
+        "expression": "x = 180^{\\circ} - y"
+      },
+      {
+        "step_number": 3,
+        "description": "Solve for y.",
+        "expression": "y = 81^{\\circ}"
+      },
+      {
+        "step_number": 4,
+        "description": "Substitute y back to find x.",
+        "expression": "x = 180^{\\circ} - 81^{\\circ} = 99^{\\circ}"
+      }
+    ],
+    "final_answer": "Therefore, the angles are 99 º and 81 º.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of supplementary angles and basic algebra.",
+    "topics_tags": [
+      "Linear Equations",
+      "Supplementary Angles",
+      "Algebra"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Equations representing the relationship between two angles.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777658322/ncert/maths/3/img_22_0.png",
+        "latex_extracted": "\\begin{array}{r l}{x+y=180^{\\circ}}&{{}{\\big(}1{\\big)}}\\\\ {x-y=18^{\\circ}}&{{}{\\big(}2{\\big)}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.12",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "pair of linear equations in two variables",
+    "question_type": "numerical",
+    "question_text": "Let the cost of a bat and a ball be x and y respectively. According to the given information, solve for x and y.",
+    "question_latex": "\\begin{array}{r l r l}{7x+6y=3800}&{{}\\qquad(1)}&{}&{{}\\qquad(1)}\\\\ {3x+5y=1750}&{}&{{}\\qquad(2)}\\end{array}",
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Equations representing the cost of a bat and a ball.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777658325/ncert/maths/3/img_22_2.png",
+      "latex_extracted": "\\begin{array}{r l r l}{7x+6y=3800}&{{}\\qquad(1)}&{}&{{}\\qquad(1)}\\\\ {3x+5y=1750}&{}&{{}\\qquad(2)}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Hence, the cost of a bat is Rs 500 and that of a ball is Rs 50.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set up the equations based on the problem statement.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the value of y from equation (1) into equation (2).",
+        "expression": "3x + 5\\left(\\frac{3800 - 7x}{6}\\right) = 1750"
+      },
+      {
+        "step_number": 3,
+        "description": "Solve for x.",
+        "expression": "x = 500"
+      },
+      {
+        "step_number": 4,
+        "description": "Substitute x back to find y.",
+        "expression": "y = 50"
+      }
+    ],
+    "final_answer": "Therefore, the cost of a bat is Rs 500 and that of a ball is Rs 50.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves substitution and solving a system of equations.",
+    "topics_tags": [
+      "Linear Equations",
+      "Cost Calculation",
+      "Algebra"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Equations representing the cost of a bat and a ball.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777658325/ncert/maths/3/img_22_2.png",
+        "latex_extracted": "\\begin{array}{r l r l}{7x+6y=3800}&{{}\\qquad(1)}&{}&{{}\\qquad(1)}\\\\ {3x+5y=1750}&{}&{{}\\qquad(2)}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.13",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "pair of linear equations in two variables",
+    "question_type": "conceptual",
+    "question_text": "Form the pair of linear equations in the following problems, and find their solutions (if they exist) by the elimination method: (i) If we add 1 to the numerator and subtract 1 from the denominator, a fraction reduces to 1. It becomes if we only add 1 to the denominator. What is the fraction?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of the fraction problem with equations.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777658340/ncert/maths/3/img_26_0.png",
+      "latex_extracted": "\\ {\\begin{array}{r l r l}{x+1}&{{}\\Rightarrow x-y=-2}\\\\ {y-1}&{{}\\Rightarrow2x-y=1}&{{}\\qquad}&{{}}\\\\ {x}&{{}\\Rightarrow2x-y=1}&{{}\\qquad}&{{}}\\\\ {y+1}&{{}\\Rightarrow2x-y=1}&{{}\\qquad}&{{}}\\end{array}}",
+      "source_page_number": 26,
+      "source_image_index": 0,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of forming equations and solving them.",
+    "topics_tags": [
+      "Linear Equations",
+      "Elimination Method",
+      "Fractions"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the fraction problem with equations.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777658340/ncert/maths/3/img_26_0.png",
+        "latex_extracted": "\\ {\\begin{array}{r l r l}{x+1}&{{}\\Rightarrow x-y=-2}\\\\ {y-1}&{{}\\Rightarrow2x-y=1}&{{}\\qquad}&{{}}\\\\ {x}&{{}\\Rightarrow2x-y=1}&{{}\\qquad}&{{}}\\\\ {y+1}&{{}\\Rightarrow2x-y=1}&{{}\\qquad}&{{}}\\end{array}}",
+        "source_page_number": 26,
+        "source_image_index": 0,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.14",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "pair of linear equations in two variables",
+    "question_type": "conceptual",
+    "question_text": "(ii) Five years ago, Nuri was thrice as old as Sonu. Ten years later, Nuri will be twice as old as Sonu. How old are Nuri and Sonu?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Nuri is 50 years old and Sonu is 20 years old.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set up the equations based on the age relationships.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Solve the equations to find the ages.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, Nuri is 50 years old and Sonu is 20 years old.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of the age problem with equations.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777658341/ncert/maths/3/img_27_0.png",
+      "latex_extracted": "\\begin{array}{c}{{3-y=-2}}\\\\ {{-y=-5}}\\\\ {{y=5}}\\end{array}",
+      "source_page_number": 27,
+      "source_image_index": 0,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves setting up and solving a system of equations.",
+    "topics_tags": [
+      "Age Problems",
+      "Linear Equations",
+      "Elimination Method"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the age problem with equations.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777658341/ncert/maths/3/img_27_0.png",
+        "latex_extracted": "\\begin{array}{c}{{3-y=-2}}\\\\ {{-y=-5}}\\\\ {{y=5}}\\end{array}",
+        "source_page_number": 27,
+        "source_image_index": 0,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q3.15",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "pair of linear equations in two variables",
+    "question_type": "conceptual",
+    "question_text": "Which of the following pairs of linear equations has unique solution, no solution or infinitely many solutions? In case there is a unique solution, find it by using cross multiplication method.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Two pairs of linear equations represented in matrix form.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777658344/ncert/maths/3/img_28_0.png",
+      "latex_extracted": "\\begin{array}{l l}{{x+y=25}}&{{(1)}}\\\\ {{50x+100y=2000}}&{{(2)}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Therefore, the given sets of lines are parallel to each other. Therefore, they will not intersect each other and thus, there will not be any solution for these equations.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the nature of the equations based on their coefficients.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Determine if the lines are parallel, intersecting, or coincident.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the equations have no solution.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of linear equations and their graphical representation.",
+    "topics_tags": [
+      "Linear Equations",
+      "Unique Solution",
+      "No Solution"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Two pairs of linear equations represented in matrix form.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777658344/ncert/maths/3/img_28_0.png",
+        "latex_extracted": "\\begin{array}{l l}{{x+y=25}}&{{(1)}}\\\\ {{50x+100y=2000}}&{{(2)}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.16",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "pair of linear equations in two variables",
+    "question_type": "conceptual",
+    "question_text": "For which values of a and b will the following pair of linear equations have an infinite number of solutions?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "For infinitely many solutions, the ratios of the coefficients must be equal.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set the ratios of coefficients equal to each other.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Solve for a and b based on the derived equations.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, specific values of a and b will yield infinite solutions.",
+    "answer_image": {
+      "present": true,
+      "description": "Linear equations represented in matrix form.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777658370/ncert/maths/3/img_30_0.png",
+      "latex_extracted": "\\begin{array}{r l}{\\left({\\mathrm{i}}\\mathbf{v}\\right)\\quad}&{{}x-3y-7=0}\\\\ {\\mathbf{3}x-3y-15=0}\\\\ {{\\frac{a_{1}}{a_{2}}}={\\frac{b_{1}}{b_{2}}}={\\frac{b_{1}}{-3}}=1,\\quad}{\\frac{c_{1}}{c_{2}}}={\\frac{7}{-15}}={\\frac{7}{15}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Involves understanding the conditions for infinite solutions in linear equations.",
+    "topics_tags": [
+      "Infinite Solutions",
+      "Linear Equations",
+      "Coefficients"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Linear equations represented in matrix form.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777658370/ncert/maths/3/img_30_0.png",
+        "latex_extracted": "\\begin{array}{r l}{\\left({\\mathrm{i}}\\mathbf{v}\\right)\\quad}&{{}x-3y-7=0}\\\\ {\\mathbf{3}x-3y-15=0}\\\\ {{\\frac{a_{1}}{a_{2}}}={\\frac{b_{1}}{b_{2}}}={\\frac{b_{1}}{-3}}=1,\\quad}{\\frac{c_{1}}{c_{2}}}={\\frac{7}{-15}}={\\frac{7}{15}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q3.17",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "pair of linear equations in two variables",
+    "question_type": "multipart",
+    "question_text": "Solve the following pair of linear equations by the substitution and cross-multiplication methods:",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of equations for substitution and cross-multiplication methods.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777658388/ncert/maths/3/img_31_0.png",
+      "latex_extracted": "\\begin{array}{r l}{{\\frac{a_{1}}{a_{2}}}{\\frac{b_{2}}{b_{2}}}{\\frac{c_{1}}{c_{1}}}}\\\\ {{\\frac{2}{a-b}}={\\frac{a_{1}}{3a+b-2}}}\\\\ {{\\frac{c_{1}}{a+b-4n-7a-7b}}}\\\\ {{\\frac{c_{1}}{b+2b-3b}}}&{{(1)}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "Using substitution method.",
+        "part_latex": null,
+        "answer_text": "Let x be the fixed charge of the food and y be the charge for food per day. According to the given information, we can set up the equations.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Set up the equations based on the problem statement.",
+            "expression": "x + 20y = 1000, x + 26y = 1180"
+          },
+          {
+            "step_number": 2,
+            "description": "Subtract the first equation from the second to find y.",
+            "expression": "x + 26y - (x + 20y) = 1180 - 1000"
+          },
+          {
+            "step_number": 3,
+            "description": "Solve for y.",
+            "expression": "6y = 180 \\Rightarrow y = 30"
+          },
+          {
+            "step_number": 4,
+            "description": "Substitute y back into one of the equations to find x.",
+            "expression": "x + 20 \\times 30 = 1000"
+          },
+          {
+            "step_number": 5,
+            "description": "Solve for x.",
+            "expression": "x = 1000 - 600 \\Rightarrow x = 400"
+          }
+        ],
+        "final_answer": "Hence, fixed charge = Rs 400 and charge per day = Rs 30.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "Using cross-multiplication method.",
+        "part_latex": null,
+        "answer_text": "Using the cross-multiplication method, we can derive the same equations and solve.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Set up the equations for cross-multiplication.",
+            "expression": "x + 20y = 1000, x + 26y = 1180"
+          },
+          {
+            "step_number": 2,
+            "description": "Cross-multiply to find the relationship between x and y.",
+            "expression": "x + 20 \\times 30 = 1000"
+          },
+          {
+            "step_number": 3,
+            "description": "Solve for x.",
+            "expression": "x = 1000 - 600 \\Rightarrow x = 400"
+          }
+        ],
+        "final_answer": "Thus, the fixed charge is Rs 400 and the charge per day is Rs 30.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires setting up and solving equations, involving multiple steps.",
+    "topics_tags": [
+      "Linear Equations",
+      "Substitution Method",
+      "Cross-Multiplication"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of equations for substitution and cross-multiplication methods.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777658388/ncert/maths/3/img_31_0.png",
+        "latex_extracted": "\\begin{array}{r l}{{\\frac{a_{1}}{a_{2}}}{\\frac{b_{2}}{b_{2}}}{\\frac{c_{1}}{c_{1}}}}\\\\ {{\\frac{2}{a-b}}={\\frac{a_{1}}{3a+b-2}}}\\\\ {{\\frac{c_{1}}{a+b-4n-7a-7b}}}\\\\ {{\\frac{c_{1}}{b+2b-3b}}}&{{(1)}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.18",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "pair of linear equations in two variables",
+    "question_type": "numerical",
+    "question_text": "Let the number of right answers and wrong answers be x and y respectively. According to the given information, x = 15. Therefore, number of right answers = 15 and number of wrong answers = 5. Total number of questions = 20.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Equations representing the relationship between right and wrong answers.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777658400/ncert/maths/3/img_34_0.png",
+      "latex_extracted": "\\begin{array}{r l r l}{{\\frac{x-1}{y}}={\\frac{1}{3}}}&{{}\\Rightarrow{}}&{{}\\land x-y=3}&{{}\\quad(1)}\\\\ {{\\frac{x}{y+8}}}&{{}\\Rightarrow{}}&{{}4x-y=8}&{{}\\quad(2)}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The number of right answers is 15 and the number of wrong answers is 5.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the number of right answers from the equation.",
+        "expression": "x = 15"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the number of wrong answers using the total questions.",
+        "expression": "Total questions = x + y = 20"
+      }
+    ],
+    "final_answer": "Thus, the total number of questions is 20.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of basic algebra and substitution.",
+    "topics_tags": [
+      "Linear Equations",
+      "Algebra",
+      "Problem Solving"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Equations representing the relationship between right and wrong answers.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777658400/ncert/maths/3/img_34_0.png",
+        "latex_extracted": "\\begin{array}{r l r l}{{\\frac{x-1}{y}}={\\frac{1}{3}}}&{{}\\Rightarrow{}}&{{}\\land x-y=3}&{{}\\quad(1)}\\\\ {{\\frac{x}{y+8}}}&{{}\\Rightarrow{}}&{{}4x-y=8}&{{}\\quad(2)}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.19",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "pair of linear equations in two variables",
+    "question_type": "numerical",
+    "question_text": "Let the speed of 1st car and 2nd car be u km/h and v km/h. Respective speed of both cars while they are travelling in same direction = ( ) km/h. Respective speed of both cars while they are travelling in opposite directions = ( ) km/h.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Equations representing the speeds of two cars.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777658403/ncert/maths/3/img_34_2.png",
+      "latex_extracted": "\\begin{array}{l}{{5\\left(u-\\nu\\right)=100}}\\\\ {{\\Rightarrow u-\\nu=20\\quad\\dots(1)}}\\\\ {{1\\left(u+\\nu\\right)=100\\ \\ \\dots(2)}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The respective speeds can be calculated using the equations provided.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set up the equations based on the problem statement.",
+        "expression": "u - v = 20"
+      },
+      {
+        "step_number": 2,
+        "description": "Use the second equation to find the speeds.",
+        "expression": "u + v = 100"
+      }
+    ],
+    "final_answer": "Thus, the speeds can be determined from the equations.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves setting up and solving a system of equations.",
+    "topics_tags": [
+      "Speed",
+      "Linear Equations",
+      "Motion"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Equations representing the speeds of two cars.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777658403/ncert/maths/3/img_34_2.png",
+        "latex_extracted": "\\begin{array}{l}{{5\\left(u-\\nu\\right)=100}}\\\\ {{\\Rightarrow u-\\nu=20\\quad\\dots(1)}}\\\\ {{1\\left(u+\\nu\\right)=100\\ \\ \\dots(2)}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.20",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "pair of linear equations in two variables",
+    "question_type": "mcq",
+    "question_text": "Solve the following pairs of equations by reducing them to a pair of linear equations: (i) (x-5)(y+3)=xy-9.",
+    "question_latex": "(x-5)(y+3)=xy-9",
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Equation representing a pair of linear equations.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777658404/ncert/maths/3/img_35_0.png",
+      "latex_extracted": "\\begin{array}{l l}{(x-5)(y+3)=x y-9}\\\\ {\\Rightarrow3x-5y-6=0}\\\\ {(x+3)(y+2)=x y+67}\\\\ {\\Rightarrow2x+3y-61=0}&{(}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "To solve, expand and rearrange the equation to form a linear equation.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Expand the left side of the equation.",
+        "expression": "(x-5)(y+3) = xy + 3x - 5y - 15"
+      },
+      {
+        "step_number": 2,
+        "description": "Rearrange to form a linear equation.",
+        "expression": "3x - 5y - 6 = 0"
+      }
+    ],
+    "final_answer": "Thus, the equation can be reduced to a linear form.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires basic algebraic manipulation.",
+    "topics_tags": [
+      "Linear Equations",
+      "Algebra",
+      "Factoring"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Equation representing a pair of linear equations.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777658404/ncert/maths/3/img_35_0.png",
+        "latex_extracted": "\\begin{array}{l l}{(x-5)(y+3)=x y-9}\\\\ {\\Rightarrow3x-5y-6=0}\\\\ {(x+3)(y+2)=x y+67}\\\\ {\\Rightarrow2x+3y-61=0}&{(}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.21",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "pair of linear equations in two variables",
+    "question_type": "conceptual",
+    "question_text": "Formulate the following problems as a pair of equations, and hence find their solutions: (i) Ritu can row downstream 20 km in 2 hours, and upstream 4 km in 2 hours. Find her speed of rowing in still water and the speed of the current.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical equations related to Ritu's rowing speed.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777658425/ncert/maths/3/img_37_0.png",
+      "latex_extracted": "\\begin{array}{r l}{\\left(\\mathbf{i}\\mathbf{j}\\right)}&{{}\\ {\\frac{2}{\\sqrt{x}}}+{\\frac{3}{\\sqrt{y}}}=2}\\\\ {{\\frac{4}{\\sqrt{x}}}-{\\frac{9}{\\sqrt{y}}}=-1}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Let the speed of Ritu in still water and the speed of stream be x km/h and y km/h respectively. Speed of Ritu while rowing upstream = x - y km/h, downstream = x + y km/h. According to the question, we can formulate the equations.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Define variables for Ritu's speed in still water and the speed of the current.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Set up equations based on the given information about downstream and upstream speeds.",
+        "expression": "x + y = 10, x - y = 2"
+      }
+    ],
+    "final_answer": "Hence, Ritu's speed in still water is 6 km/h and the speed of the current is 4 km/h.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of speed and formulation of equations.",
+    "topics_tags": [
+      "Linear Equations",
+      "Speed",
+      "Rowing"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical equations related to Ritu's rowing speed.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777658425/ncert/maths/3/img_37_0.png",
+        "latex_extracted": "\\begin{array}{r l}{\\left(\\mathbf{i}\\mathbf{j}\\right)}&{{}\\ {\\frac{2}{\\sqrt{x}}}+{\\frac{3}{\\sqrt{y}}}=2}\\\\ {{\\frac{4}{\\sqrt{x}}}-{\\frac{9}{\\sqrt{y}}}=-1}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.22",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "pair of linear equations in two variables",
+    "question_type": "conceptual",
+    "question_text": "(ii) 2 women and 5 men can together finish an embroidery work in 4 days, while 3 women and 6 men can finish it in 3 days. Find the time taken by 1 woman alone to finish the work, and also that taken by 1 man alone.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Let the number of days taken by a woman and a man be x and y respectively. Therefore, work done by a woman in 1 day = 1/x and work done by a man in 1 day = 1/y. According to the question, we can formulate the equations.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Define variables for the time taken by a woman and a man to finish the work.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Set up equations based on the given information about the work done by women and men.",
+        "expression": "2(1/x) + 5(1/y) = 1/4, 3(1/x) + 6(1/y) = 1/3"
+      }
+    ],
+    "final_answer": "The time taken by 1 woman alone and 1 man alone can be calculated from the equations.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of work rates and formulation of equations.",
+    "topics_tags": [
+      "Work and Time",
+      "Linear Equations",
+      "Women and Men"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.23",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "pair of linear equations in two variables",
+    "question_type": "conceptual",
+    "question_text": "(iii) Roohi travels 300 km to her home partly by train and partly by bus. She takes 4 hours if she travels 60 km by train and remaining by bus. If she travels 100 km by train and the remaining by bus, she takes 10 minutes longer. Find the speed of the train and the bus separately.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Let the speed of the train be x km/h and the speed of the bus be y km/h. We can set up equations based on the time taken for each scenario.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Define variables for the speed of the train and the bus.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Set up equations based on the given information about travel times.",
+        "expression": "60/x + (240/y) = 4, 100/x + (200/y) = 4 + 1/6"
+      }
+    ],
+    "final_answer": "The speeds of the train and the bus can be calculated from the equations.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Involves multiple scenarios and requires solving simultaneous equations.",
+    "topics_tags": [
+      "Speed",
+      "Distance",
+      "Time"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.24",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "pair of linear equations in two variables",
+    "question_type": "conceptual",
+    "question_text": "The ages of two friends Ani and Biju differ by 3 years. Ani's father Dharam is twice as old as Ani and Biju is twice as old as his sister Cathy. The ages of Cathy and Dharam differ by 30 years. Find the ages of Ani and Biju.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The difference between the ages of Biju and Ani is 3 years. Either Biju is 3 years older than Ani or Ani is 3 years older than Biju. However, it is obvious that in both cases, Ani's father's age will be 30 years more than that of Cathy's age.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the ages of Ani and Biju can be determined based on the given conditions.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of relationships and setting up equations based on given conditions.",
+    "topics_tags": [
+      "Linear Equations",
+      "Ages",
+      "Algebra"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.25",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "pair of linear equations in two variables",
+    "question_type": "numerical",
+    "question_text": "One says, \"Give me a hundred, friend! I shall then become twice as rich as you\". The other replies, \"If you give me ten, I shall be six times as rich as you\". Tell me what is the amount of their (respective) capital?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Involves setting up and solving a system of equations based on the problem statement.",
+    "topics_tags": [
+      "Linear Equations",
+      "Word Problems",
+      "Algebra"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.26",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "pair of linear equations in two variables",
+    "question_type": "numerical",
+    "question_text": "A train covered a certain distance at a uniform speed. If the train would have been 10 km/h faster, it would have taken 2 hours less than the scheduled time. And if the train were slower by 10 km/h; it would have taken 3 hours more than the scheduled time. Find the distance covered by the train.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical equations related to the train's speed and time.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777658455/ncert/maths/3/img_44_0.png",
+      "latex_extracted": "\\begin{array}{c}{{\\left(x+10\\right)=\\displaystyle{\\frac{d}{{\\left(t-2\\right)}}}}}\\\\ {{\\left(x+10\\right)\\left(t-2\\right)=d}}\\\\ {{\\left(x+10\\right)\\left(t-2x-20=d}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Hence, the distance covered by the train is 600 km.",
+    "answer_latex": "d = 600 \text{ km}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set up the equations based on the speed and time conditions.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Solve the equations to find the speed of the train.",
+        "expression": "x = 50"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the distance using the speed and time.",
+        "expression": "d = 50 \\times 12"
+      }
+    ],
+    "final_answer": "Therefore, the distance covered by the train is 600 km.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves setting up and solving multiple equations based on conditions.",
+    "topics_tags": [
+      "Linear Equations",
+      "Speed",
+      "Distance",
+      "Time"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical equations related to the train's speed and time.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777658455/ncert/maths/3/img_44_0.png",
+        "latex_extracted": "\\begin{array}{c}{{\\left(x+10\\right)=\\displaystyle{\\frac{d}{{\\left(t-2\\right)}}}}}\\\\ {{\\left(x+10\\right)\\left(t-2\\right)=d}}\\\\ {{\\left(x+10\\right)\\left(t-2x-20=d}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.27",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "pair of linear equations in two variables",
+    "question_type": "numerical",
+    "question_text": "The students of a class are made to stand in rows. If 3 students are extra in a row, there would be 1 row less. If 3 students are less in a row, there would be 2 rows more. Find the number of students in the class.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Number of total students in a class = 36.",
+    "answer_latex": "Total = 36",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set up equations based on the conditions given.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Solve the equations to find the number of rows and students per row.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the total number of students.",
+        "expression": "xy = 4 \\times 9"
+      }
+    ],
+    "final_answer": "Thus, the total number of students in the class is 36.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of relationships between rows and students, and solving equations.",
+    "topics_tags": [
+      "Linear Equations",
+      "Students Arrangement",
+      "Algebra"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.28",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "pair of linear equations in two variables",
+    "question_type": "diagram_based",
+    "question_text": "Draw the graphs of the equations 5x - y = 5 and 3x - y = 3. Determine the co-ordinates of the vertices of the triangle formed by these lines and the y axis.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The graphs of the equations are represented by the lines y = 5x - 5 and y = 3x - 3. The coordinates of the vertices of the triangle formed by these lines and the y-axis can be determined from the intersection points.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Rearrange the equations to slope-intercept form.",
+        "expression": "y = 5x - 5, y = 3x - 3"
+      },
+      {
+        "step_number": 2,
+        "description": "Create a solution table for each equation to find points.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Plot the points on a graph and draw the lines.",
+        "expression": null
+      },
+      {
+        "step_number": 4,
+        "description": "Identify the intersection points and the vertices of the triangle.",
+        "expression": null
+      }
+    ],
+    "final_answer": "The coordinates of the vertices of the triangle formed by these lines and the y-axis can be determined from the graph.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of graphing linear equations and finding intersection points.",
+    "topics_tags": [
+      "Linear Equations",
+      "Graphing",
+      "Triangles"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "Missing graphical representation of the lines."
+    ],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.29",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "pair of linear equations in two variables",
+    "question_type": "mcq",
+    "question_text": "Solve the following pair of linear equations.\n(i) px + qy = p - q\nqx - py = p + q\n(ii) ax + by = c\nbx + ay = 1 + c\n(iii) ax + by = a^2 + b^2\n(iv) (a - b)x + (a + b)y = a^2 - 2ab - b^2\n(a + b)(x + y) = a^2 + b^2\n(v) 152x - 378y = -74\n-378x + 152y = -604",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing triangle ΔABC formed by the lines and y-axis with vertices A (1, 0), B (0, -3), C (0, -5).",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777658469/ncert/maths/3/img_47_0.jpg",
+      "latex_extracted": "\\begin{array}{c}{{\\qquad}}&{{\\qquad}}\\\\ {{\\qquad}}&{{\\qquad}}\\\\ {{\\qquad}}&{{\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad}}\\\\ {{\\qquad}}&{{\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad}}\\\\ {{\\qquad\\qquad}}&{{\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad}}\\\\ {{\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad(\\qquad=\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad(\\qquad{\\qquad{\\qquad{\\qquad{\\biggl({\\qquad}}{\\qquad}}{\\frac{\\epsilon^{-}}{\\qquad\\qquad}{\\epsilon}{\\epsilon^{-\\qquad{-}}{\\qquad\\qquad\\qquad\\qquad\\qquad}{\\qquad\\qquad\\qquad\\qquad{\\qquad{\\qquad\\qquad\\qquad\\qquad{\\qquad{\\qquad}{\\qquad\\qquad}{\\qquad\\qquad\\qquad{\\qquad{\\in{\\qquad\\qquad\\qquad\\qquad}{\\qquad}{\\qquad{\\qquad\\qquad\\qquad}{\\qquad}{\\qquad\\qquad}{\\qquad\\qquad{\\qquad\\qquad{\\qquad\\qquad}{\\qquad{\\qquad\\qquad}{\\qquad\\qquad\\qquad\\",
+      "source_page_number": 47,
+      "source_image_index": 0,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "px + qy = p - q\nqx - py = p + q",
+        "part_latex": null,
+        "answer_text": null,
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "ax + by = c\nbx + ay = 1 + c",
+        "part_latex": null,
+        "answer_text": null,
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "ax + by = a^2 + b^2",
+        "part_latex": null,
+        "answer_text": null,
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iv)",
+        "part_text": "(a - b)x + (a + b)y = a^2 - 2ab - b^2\n(a + b)(x + y) = a^2 + b^2",
+        "part_latex": null,
+        "answer_text": null,
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(v)",
+        "part_text": "152x - 378y = -74\n-378x + 152y = -604",
+        "part_latex": null,
+        "answer_text": null,
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires solving multiple equations, which involves multi-step reasoning.",
+    "topics_tags": [
+      "Linear Equations",
+      "Algebra",
+      "Systems of Equations"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing triangle ΔABC formed by the lines and y-axis with vertices A (1, 0), B (0, -3), C (0, -5).",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777658469/ncert/maths/3/img_47_0.jpg",
+        "latex_extracted": "\\begin{array}{c}{{\\qquad}}&{{\\qquad}}\\\\ {{\\qquad}}&{{\\qquad}}\\\\ {{\\qquad}}&{{\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad}}\\\\ {{\\qquad}}&{{\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad}}\\\\ {{\\qquad\\qquad}}&{{\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad}}\\\\ {{\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad(\\qquad=\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad(\\qquad{\\qquad{\\qquad{\\qquad{\\biggl({\\qquad}}{\\qquad}}{\\frac{\\epsilon^{-}}{\\qquad\\qquad}{\\epsilon}{\\epsilon^{-\\qquad{-}}{\\qquad\\qquad\\qquad\\qquad\\qquad}{\\qquad\\qquad\\qquad\\qquad{\\qquad{\\qquad\\qquad\\qquad\\qquad{\\qquad{\\qquad}{\\qquad\\qquad}{\\qquad\\qquad\\qquad{\\qquad{\\in{\\qquad\\qquad\\qquad\\qquad}{\\qquad}{\\qquad{\\qquad\\qquad\\qquad}{\\qquad}{\\qquad\\qquad}{\\qquad\\qquad{\\qquad\\qquad{\\qquad\\qquad}{\\qquad{\\qquad\\qquad}{\\qquad\\qquad\\qquad\\",
+        "source_page_number": 47,
+        "source_image_index": 0,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.30",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "pair of linear equations in two variables",
+    "question_type": "conceptual",
+    "question_text": "From the equations ax + by = c and bx + ay = 1 + c, derive the relationship between the coefficients.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of equations and their transformations.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777658473/ncert/maths/3/img_48_0.png",
+      "latex_extracted": "\\scriptstyle{\\begin{array}{c}{\\scriptstyle{\\frac{\\scriptstyle{\\binom{\\underset{\\scriptstyle{\\alpha}}{}}(\\alpha-b)-\\theta}{\\scriptstyle{\\alpha^{-}}}}{\\scriptstyle{\\frac{\\theta-\\theta}{\\scriptstyle{\\theta^{-}}}-\\theta^{-}}}{\\scriptstyle{\\theta^{-}}}}}}\\\\ {\\scriptstyle{}_{\\scriptstyle{\\theta_{1}}e=e^{-{\\frac{\\theta^{-}}{\\theta^{-}}}-\\theta^{-\\theta^{-}}}}\\\\ {\\scriptstyle{}_{\\beta_{1}e^{-{\\frac{\\theta^{-}}{\\theta^{-}}}{\\theta^{-\\theta^{-}}}}}}\\end{array}}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "By manipulating the equations, we can derive the relationship between the coefficients a, b, and c.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Multiply the first equation by a and the second by b.",
+        "expression": "a(ax + by) = ac, b(bx + ay) = b + bc"
+      },
+      {
+        "step_number": 2,
+        "description": "Subtract the second modified equation from the first.",
+        "expression": "(a^2 - b^2)x = ac - bc - b"
+      }
+    ],
+    "final_answer": "Thus, we establish a relationship between the coefficients a, b, and c.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of linear equations and manipulation of algebraic expressions.",
+    "topics_tags": [
+      "Linear Equations",
+      "Algebra",
+      "Coefficients"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "mixed_or_weak_context"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of equations and their transformations.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777658473/ncert/maths/3/img_48_0.png",
+        "latex_extracted": "\\scriptstyle{\\begin{array}{c}{\\scriptstyle{\\frac{\\scriptstyle{\\binom{\\underset{\\scriptstyle{\\alpha}}{}}(\\alpha-b)-\\theta}{\\scriptstyle{\\alpha^{-}}}}{\\scriptstyle{\\frac{\\theta-\\theta}{\\scriptstyle{\\theta^{-}}}-\\theta^{-}}}{\\scriptstyle{\\theta^{-}}}}}}\\\\ {\\scriptstyle{}_{\\scriptstyle{\\theta_{1}}e=e^{-{\\frac{\\theta^{-}}{\\theta^{-}}}-\\theta^{-\\theta^{-}}}}\\\\ {\\scriptstyle{}_{\\beta_{1}e^{-{\\frac{\\theta^{-}}{\\theta^{-}}}{\\theta^{-\\theta^{-}}}}}}\\end{array}}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.31",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "pair of linear equations in two variables",
+    "question_type": "conceptual",
+    "question_text": "ABCD is a cyclic quadrilateral finds the angles of the cyclic quadrilateral.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "We know that the sum of the measures of opposite angles in a cyclic quadrilateral is 180°. Therefore, ∠ A + ∠ C = 180, ∠ B + ∠ D = 180.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set up the equations based on the properties of cyclic quadrilaterals.",
+        "expression": "∠ A + ∠ C = 180°; ∠ B + ∠ D = 180°"
+      },
+      {
+        "step_number": 2,
+        "description": "Solve the equations to find the values of x and y.",
+        "expression": "x - y = -40; -7x + 3y = 180"
+      },
+      {
+        "step_number": 3,
+        "description": "Substitute the values of x and y to find the angles.",
+        "expression": "∠ A = 4y + 20; ∠ B = 3y - 5; ∠ C = -4x"
+      }
+    ],
+    "final_answer": "Thus, the angles of the cyclic quadrilateral are ∠ A = 120°, ∠ B = 70°, ∠ C = 60°, and ∠ D = 110°.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation related to cyclic quadrilaterals and angles.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777658478/ncert/maths/3/img_50_0.jpg",
+      "latex_extracted": "\\begin{array}{c}{{{\\cal J}^{\\displaystyle{\\cal J}\\displaystyle{\\cal J}\\displaystyle{\\cal J}\\displaystyle{\\cal J}\\displaystyle{\\cal J}\\displaystyle{\\cal J}\\displaystyle{\\cal J}\\displaystyle{\\cal J}\\displaystyle{\\cal J}\\displaystyle{\\cal J}\\displaystyle{\\cal J}\\displaystyle{\\cal J}\\displaystyle{\\left(\\nabla_{\\displaystyle{\\Lambda^{\\scriptstyle{\\scriptscriptstyle+1}\\mathrm{J}\\displaystyle{\\cal J}\\displaystyle{\\cal J}\\displaystyle{\\cal J}\\displaystyle{\\cal J}\\displaystyle{\\bf J}\\displaystyle{\\bf J}\\displaystyle{\\bf J}\\displaystyle{\\bf J}\\displaystyle{\\bf J}\\displaystyle{\\bf J}\\displaystyle{\\bf J}\\displaystyle{\\bf J}\\right{\\cal J}\\displaystyle{\\bf J}\\displaystyle{\\bf J}\\displaystyle{\\bf J}\\displaystyle{\\left(\\nabla_{\\displaystyle{i v+\\hat{\\bf J}\\displaystyle{\\cal J}\\displaystyle{\\bf J}\\displaystyle{\\bf J}\\displaystyle{\\bf J}\\right)}}}\\right)}}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves solving a system of equations and applying properties of cyclic quadrilaterals.",
+    "topics_tags": [
+      "Cyclic Quadrilateral",
+      "Angles",
+      "Linear Equations"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "Some text garbling in the input."
+    ],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation related to cyclic quadrilaterals and angles.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777658478/ncert/maths/3/img_50_0.jpg",
+        "latex_extracted": "\\begin{array}{c}{{{\\cal J}^{\\displaystyle{\\cal J}\\displaystyle{\\cal J}\\displaystyle{\\cal J}\\displaystyle{\\cal J}\\displaystyle{\\cal J}\\displaystyle{\\cal J}\\displaystyle{\\cal J}\\displaystyle{\\cal J}\\displaystyle{\\cal J}\\displaystyle{\\cal J}\\displaystyle{\\cal J}\\displaystyle{\\cal J}\\displaystyle{\\left(\\nabla_{\\displaystyle{\\Lambda^{\\scriptstyle{\\scriptscriptstyle+1}\\mathrm{J}\\displaystyle{\\cal J}\\displaystyle{\\cal J}\\displaystyle{\\cal J}\\displaystyle{\\cal J}\\displaystyle{\\bf J}\\displaystyle{\\bf J}\\displaystyle{\\bf J}\\displaystyle{\\bf J}\\displaystyle{\\bf J}\\displaystyle{\\bf J}\\displaystyle{\\bf J}\\displaystyle{\\bf J}\\right{\\cal J}\\displaystyle{\\bf J}\\displaystyle{\\bf J}\\displaystyle{\\bf J}\\displaystyle{\\left(\\nabla_{\\displaystyle{i v+\\hat{\\bf J}\\displaystyle{\\cal J}\\displaystyle{\\bf J}\\displaystyle{\\bf J}\\displaystyle{\\bf J}\\right)}}}\\right)}}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  }
+]

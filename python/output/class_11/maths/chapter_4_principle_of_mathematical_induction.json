@@ -1,0 +1,1345 @@
+[
+  {
+    "question_id": "Q4.1",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "principle of mathematical induction",
+    "question_type": "conceptual",
+    "question_text": "Prove the following by using the principle of mathematical induction for all n∈N: P(n): 1 + 3 + 3^2 + … + 3^{n-1} = ?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image showing the mathematical induction process for the series 1 + 3 + 3^2 + ... + 3^{n-1}",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777823373/ncert/maths/4/img_1_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Thus, P(k + 1) is true whenever P(k) is true. Hence, by the principle of mathematical induction, statement P(n) is true for all natural numbers i.e., n.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Verify the base case for n = 1.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Assume P(k) is true for some positive integer k.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Prove that P(k + 1) is true based on the assumption.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Hence, by the principle of mathematical induction, statement P(n) is true for all natural numbers.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of mathematical induction and multi-step reasoning.",
+    "topics_tags": [
+      "Mathematical Induction",
+      "Series",
+      "Proof"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image showing the mathematical induction process for the series 1 + 3 + 3^2 + ... + 3^{n-1}",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777823373/ncert/maths/4/img_1_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.2",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "principle of mathematical induction",
+    "question_type": "conceptual",
+    "question_text": "Prove the following by using the principle of mathematical induction for all n∈N: P(n): 1^3 + 2^3 + 3^3 + ... + k^3 + (k + 1)^3 = ?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image showing the mathematical induction process for the series 1^3 + 2^3 + ... + k^3 + (k + 1)^3",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777823374/ncert/maths/4/img_2_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Thus, P(k + 1) is true whenever P(k) is true. Hence, by the principle of mathematical induction, statement P(n) is true for all natural numbers i.e., n.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Verify the base case for n = 1.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Assume P(k) is true for some positive integer k.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Prove that P(k + 1) is true based on the assumption.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Hence, by the principle of mathematical induction, statement P(n) is true for all natural numbers.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of mathematical induction and multi-step reasoning.",
+    "topics_tags": [
+      "Mathematical Induction",
+      "Cubes",
+      "Proof"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image showing the mathematical induction process for the series 1^3 + 2^3 + ... + k^3 + (k + 1)^3",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777823374/ncert/maths/4/img_2_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.3",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "principle of mathematical induction",
+    "question_type": "conceptual",
+    "question_text": "Prove the following by using the principle of mathematical induction for all n∈N: P(n): 1 = ?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Thus, P(k + 1) is true whenever P(k) is true. Hence, by the principle of mathematical induction, statement P(n) is true for all natural numbers i.e., n.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Verify the base case for n = 1.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Assume P(k) is true for some positive integer k.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Prove that P(k + 1) is true based on the assumption.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Hence, by the principle of mathematical induction, statement P(n) is true for all natural numbers.",
+    "answer_image": {
+      "present": true,
+      "description": "Image showing the mathematical induction process for the statement 1 = ?",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777823377/ncert/maths/4/img_3_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of mathematical induction and multi-step reasoning.",
+    "topics_tags": [
+      "Mathematical Induction",
+      "Proof",
+      "Natural Numbers"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image showing the mathematical induction process for the statement 1 = ?",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777823377/ncert/maths/4/img_3_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.4",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "principle of mathematical induction",
+    "question_type": "mcq",
+    "question_text": "Prove the following by using the principle of mathematical induction for all n∈N: 1.2.3 + 2.3.4 + … + n(n + 1)(n + 2) = ?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image showing the statement to be proved using mathematical induction.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777823378/ncert/maths/4/img_4_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of mathematical induction and multi-step reasoning.",
+    "topics_tags": [
+      "Mathematical Induction",
+      "Proof",
+      "Sequences"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image showing the statement to be proved using mathematical induction.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777823378/ncert/maths/4/img_4_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.4",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "principle of mathematical induction",
+    "question_type": "mcq",
+    "question_text": "Prove the following by using the principle of mathematical induction for all n∈N: 1.2.3 + 2.3.4 + … + k(k + 1)(k + 2) + (k + 1)(k + 2)(k + 3) = ?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Image showing the statement to be proved using mathematical induction.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777823379/ncert/maths/4/img_5_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of mathematical induction and multi-step reasoning.",
+    "topics_tags": [
+      "Mathematical Induction",
+      "Proof",
+      "Sequences"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image showing the statement to be proved using mathematical induction.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777823379/ncert/maths/4/img_5_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q6.4",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "principle of mathematical induction",
+    "question_type": "mcq",
+    "question_text": "Prove the following by using the principle of mathematical induction for all n∈N: 1.3 + 2.32 + 3.33 + … + k3k + (k + 1)3k+1 = ?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Image showing the statement to be proved using mathematical induction.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777823380/ncert/maths/4/img_6_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of mathematical induction and multi-step reasoning.",
+    "topics_tags": [
+      "Mathematical Induction",
+      "Proof",
+      "Sequences"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image showing the statement to be proved using mathematical induction.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777823380/ncert/maths/4/img_6_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.7",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "principle of mathematical induction",
+    "question_type": "mcq",
+    "question_text": "Prove the following by using the principle of mathematical induction for all n∈N: 1.2 + 2.22 + 3.22 + … + n.2n = (n - 1) 2n+1 + 2",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": "(1)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Let the given statement be P(n), i.e., P(n): 1.2 + 2.22 + 3.22 + … + n.2n = (n - 1) 2n+1 + 2. For n = 1, we have P(1): 1.2 = 2 = (1 - 1) 21+1 + 2 = 0 + 2 = 2, which is true. Let P(k) be true for some positive integer k, i.e., 1.2 + 2.22 + 3.22 + … + k.2k = (k - 1) 2k + 1 + 2. We shall now prove that P(k + 1) is true.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Assume P(k) is true for some positive integer k.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Show that P(k + 1) holds by substituting k + 1 into the equation.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Hence, by the principle of mathematical induction, statement P(n) is true for all natural numbers n.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the steps of mathematical induction for the given statement.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777823385/ncert/maths/4/img_9_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding and applying the principle of mathematical induction.",
+    "topics_tags": [
+      "Mathematical Induction",
+      "Proof Techniques",
+      "Sequences"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the steps of mathematical induction for the given statement.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777823385/ncert/maths/4/img_9_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.8",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "principle of mathematical induction",
+    "question_type": "conceptual",
+    "question_text": "Prove the following by using the principle of mathematical induction for all n∈N:",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image related to the principle of mathematical induction, showing steps of proof.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777823387/ncert/maths/4/img_10_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Let the given statement be P(n), i.e., P(n): For n = 1, we have P(1), which is true. Let P(k) be true for some positive integer k, i.e., We shall now prove that P(k + 1) is true. Thus, P(k + 1) is true whenever P(k) is true. Hence, by the principle of mathematical induction, statement P(n) is true for all natural numbers i.e., n.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, by mathematical induction, the statement holds for all natural numbers n.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of mathematical induction and multi-step reasoning.",
+    "topics_tags": [
+      "Mathematical Induction",
+      "Proof Techniques",
+      "Natural Numbers"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "Incomplete statement in the question text."
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image related to the principle of mathematical induction, showing steps of proof.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777823387/ncert/maths/4/img_10_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.9",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "principle of mathematical induction",
+    "question_type": "conceptual",
+    "question_text": "Prove the following by using the principle of mathematical induction for all n∈N:",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Image related to the principle of mathematical induction.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777823389/ncert/maths/4/img_13_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of mathematical induction and its application.",
+    "topics_tags": [
+      "Mathematical Induction",
+      "Proof",
+      "Natural Numbers"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image related to the principle of mathematical induction.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777823389/ncert/maths/4/img_13_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      },
+      {
+        "present": true,
+        "description": "Image showing the answer related to the principle of mathematical induction.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777823390/ncert/maths/4/img_13_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.10",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "principle of mathematical induction",
+    "question_type": "conceptual",
+    "question_text": "Prove the following by using the principle of mathematical induction for all n∈N:",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image related to the principle of mathematical induction.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777823391/ncert/maths/4/img_14_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Image showing the answer related to the principle of mathematical induction.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777823392/ncert/maths/4/img_14_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of mathematical induction and its application.",
+    "topics_tags": [
+      "Mathematical Induction",
+      "Proof",
+      "Natural Numbers"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image related to the principle of mathematical induction.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777823391/ncert/maths/4/img_14_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image showing the answer related to the principle of mathematical induction.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777823392/ncert/maths/4/img_14_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.11",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "principle of mathematical induction",
+    "question_type": "conceptual",
+    "question_text": "Prove the following by using the principle of mathematical induction for all n∈N:",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image related to the principle of mathematical induction.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777823394/ncert/maths/4/img_15_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of mathematical induction and its application.",
+    "topics_tags": [
+      "Mathematical Induction",
+      "Proof",
+      "Natural Numbers"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image related to the principle of mathematical induction.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777823394/ncert/maths/4/img_15_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      },
+      {
+        "present": true,
+        "description": "Image showing the answer related to the principle of mathematical induction.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777823395/ncert/maths/4/img_15_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.12",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "principle of mathematical induction",
+    "question_type": "conceptual",
+    "question_text": "Prove the following by using the principle of mathematical induction for all n∈N:",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "An image related to the principle of mathematical induction, showing steps of proof.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777823397/ncert/maths/4/img_16_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "An image showing the answer related to the proof of the statement P(n).",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777823398/ncert/maths/4/img_16_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of mathematical induction and applying it to prove statements.",
+    "topics_tags": [
+      "Mathematical Induction",
+      "Proof",
+      "Natural Numbers"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "An image related to the principle of mathematical induction, showing steps of proof.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777823397/ncert/maths/4/img_16_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "An image showing the answer related to the proof of the statement P(n).",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777823398/ncert/maths/4/img_16_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.13",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "principle of mathematical induction",
+    "question_type": "conceptual",
+    "question_text": "Prove the following by using the principle of mathematical induction for all n∈N:",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "An image related to the principle of mathematical induction, showing steps of proof.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777823399/ncert/maths/4/img_17_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "An image showing the answer related to the proof of the statement P(n).",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777823400/ncert/maths/4/img_17_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of mathematical induction and applying it to prove statements.",
+    "topics_tags": [
+      "Mathematical Induction",
+      "Proof",
+      "Natural Numbers"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "An image related to the principle of mathematical induction, showing steps of proof.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777823399/ncert/maths/4/img_17_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "An image showing the answer related to the proof of the statement P(n).",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777823400/ncert/maths/4/img_17_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.14",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "principle of mathematical induction",
+    "question_type": "conceptual",
+    "question_text": "Prove the following by using the principle of mathematical induction for all n∈N:",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "An image related to the principle of mathematical induction, showing steps of proof.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777823401/ncert/maths/4/img_18_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "An image showing the answer related to the proof of the statement P(n).",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777823400/ncert/maths/4/img_18_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of mathematical induction and applying it to prove statements.",
+    "topics_tags": [
+      "Mathematical Induction",
+      "Proof",
+      "Natural Numbers"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "An image related to the principle of mathematical induction, showing steps of proof.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777823401/ncert/maths/4/img_18_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "An image showing the answer related to the proof of the statement P(n).",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777823400/ncert/maths/4/img_18_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.15",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "principle of mathematical induction",
+    "question_type": "mcq",
+    "question_text": "Prove the following by using the principle of mathematical induction for all n∈N: n(n + 1)(n + 5) is a multiple of 3.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image related to the proof of the principle of mathematical induction.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777823403/ncert/maths/4/img_21_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Let the given statement be P(n), i.e., P(n): n(n + 1)(n + 5), which is a multiple of 3. It can be noted that P(n) is true for n = 1 since 1(1 + 1)(1 + 5) = 12, which is a multiple of 3. Let P(k) be true for some positive integer k, i.e., k(k + 1)(k + 5) is a multiple of 3. We shall now prove that P(k + 1) is true whenever P(k) is true.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Verify the base case for n = 1.",
+        "expression": "P(1) = 1(1 + 1)(1 + 5) = 12"
+      },
+      {
+        "step_number": 2,
+        "description": "Assume P(k) is true for some positive integer k.",
+        "expression": "P(k) = k(k + 1)(k + 5) = 3m, where m∈N"
+      },
+      {
+        "step_number": 3,
+        "description": "Prove P(k + 1) using the assumption.",
+        "expression": "P(k + 1) = (k + 1)(k + 2)(k + 6)"
+      }
+    ],
+    "final_answer": "Hence, by the principle of mathematical induction, statement P(n) is true for all natural numbers n.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding the principle of mathematical induction and applying it to prove a statement.",
+    "topics_tags": [
+      "Mathematical Induction",
+      "Proof",
+      "Natural Numbers"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "Some text is fragmented and lacks clarity."
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image related to the proof of the principle of mathematical induction.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777823403/ncert/maths/4/img_21_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.16",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "principle of mathematical induction",
+    "question_type": "conceptual",
+    "question_text": "Prove the following by using the principle of mathematical induction for all n∈N: 102n - 1 + 1 is divisible by 11.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The statement P(n) is true for all natural numbers n by the principle of mathematical induction.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Verify the base case for n=1.",
+        "expression": "P(1): 102^1 - 1 + 1 = 11"
+      },
+      {
+        "step_number": 2,
+        "description": "Assume P(k) is true for some k.",
+        "expression": "P(k): 102^k - 1 + 1 = 11m"
+      },
+      {
+        "step_number": 3,
+        "description": "Prove P(k+1) using the assumption.",
+        "expression": "P(k+1): 102^{k+1} - 1 + 1"
+      }
+    ],
+    "final_answer": "Thus, by the principle of mathematical induction, the statement is proven.",
+    "answer_image": {
+      "present": true,
+      "description": "Image showing the proof of the statement P(n) for n=1 and the induction step.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777823404/ncert/maths/4/img_22_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of mathematical induction and multi-step reasoning.",
+    "topics_tags": [
+      "Mathematical Induction",
+      "Divisibility",
+      "Proof"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image showing the proof of the statement P(n) for n=1 and the induction step.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777823404/ncert/maths/4/img_22_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.17",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "principle of mathematical induction",
+    "question_type": "conceptual",
+    "question_text": "Prove the following by using the principle of mathematical induction for all n∈N: x2n - y2n is divisible by x + y.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The statement P(n) is true for all natural numbers n by the principle of mathematical induction.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Verify the base case for n=1.",
+        "expression": "P(1): x^2 - y^2 = (x+y)(x-y)"
+      },
+      {
+        "step_number": 2,
+        "description": "Assume P(k) is true for some k.",
+        "expression": "P(k): x^{2k} - y^{2k} = m(x+y)"
+      },
+      {
+        "step_number": 3,
+        "description": "Prove P(k+1) using the assumption.",
+        "expression": "P(k+1): x^{2(k+1)} - y^{2(k+1)}"
+      }
+    ],
+    "final_answer": "Thus, by the principle of mathematical induction, the statement is proven.",
+    "answer_image": {
+      "present": true,
+      "description": "Image showing the proof of the statement P(n) for n=1 and the induction step.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777823405/ncert/maths/4/img_23_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of mathematical induction and multi-step reasoning.",
+    "topics_tags": [
+      "Mathematical Induction",
+      "Divisibility",
+      "Proof"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image showing the proof of the statement P(n) for n=1 and the induction step.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777823405/ncert/maths/4/img_23_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.18",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "principle of mathematical induction",
+    "question_type": "conceptual",
+    "question_text": "Prove the following by using the principle of mathematical induction for all n∈N: 32n+ 2 - 8n - 9 is divisible by 8.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The statement P(n) is true for all natural numbers n by the principle of mathematical induction.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Verify the base case for n=1.",
+        "expression": "P(1): 32^1 + 2 - 8*1 - 9 = 64"
+      },
+      {
+        "step_number": 2,
+        "description": "Assume P(k) is true for some k.",
+        "expression": "P(k): 32^{k+2} - 8k - 9 = m*8"
+      },
+      {
+        "step_number": 3,
+        "description": "Prove P(k+1) using the assumption.",
+        "expression": "P(k+1): 32^{(k+1)+2} - 8(k+1) - 9"
+      }
+    ],
+    "final_answer": "Thus, by the principle of mathematical induction, the statement is proven.",
+    "answer_image": {
+      "present": true,
+      "description": "Image showing the proof of the statement P(n) for n=1 and the induction step.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777823406/ncert/maths/4/img_24_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of mathematical induction and multi-step reasoning.",
+    "topics_tags": [
+      "Mathematical Induction",
+      "Divisibility",
+      "Proof"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image showing the proof of the statement P(n) for n=1 and the induction step.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777823406/ncert/maths/4/img_24_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.19",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "principle of mathematical induction",
+    "question_type": "derivation",
+    "question_text": "Prove the following by using the principle of mathematical induction for all n∈N: 41n - 14n is a multiple of 27.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Let the given statement be P(n), i.e., P(n): 41n - 14n is a multiple of 27. It can be observed that P(n) is true for n = 1 since 27 is a multiple of 27. Let P(k) be true for some positive integer k, i.e., 41k - 14k = 27m, where m∈N. We shall now prove that P(k + 1) is true whenever P(k) is true.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Assume P(k) is true, which means 41k - 14k = 27m for some integer m.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Show that P(k + 1) holds by substituting k + 1 into the expression.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, by the principle of mathematical induction, the statement is proven for all natural numbers n.",
+    "answer_image": {
+      "present": true,
+      "description": "Image related to the answer of the mathematical induction proof.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777823407/ncert/maths/4/img_25_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of mathematical induction and multi-step reasoning.",
+    "topics_tags": [
+      "Mathematical Induction",
+      "Proof",
+      "Number Theory"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image related to the answer of the mathematical induction proof.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777823407/ncert/maths/4/img_25_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.20",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "principle of mathematical induction",
+    "question_type": "mcq",
+    "question_text": "Prove the following by using the principle of mathematical induction for all n∈N: (2n + 7) < (n + 3)².",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Let the given statement be P(n), i.e., P(n): (2n + 7) < (n + 3)². It can be observed that P(n) is true for n = 1 since 9 < 16, which is true. Let P(k) be true for some positive integer k, i.e., (2k + 7) < (k + 3)². We shall now prove that P(k + 1) is true whenever P(k) is true.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Check the base case for n = 1.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Assume P(k) is true and show that P(k + 1) holds.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, by the principle of mathematical induction, the statement is proven for all natural numbers n.",
+    "answer_image": {
+      "present": true,
+      "description": "Image related to the question of the mathematical induction proof.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777823408/ncert/maths/4/img_26_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of mathematical induction and multi-step reasoning.",
+    "topics_tags": [
+      "Mathematical Induction",
+      "Inequalities",
+      "Proof"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image related to the question of the mathematical induction proof.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777823408/ncert/maths/4/img_26_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  }
+]

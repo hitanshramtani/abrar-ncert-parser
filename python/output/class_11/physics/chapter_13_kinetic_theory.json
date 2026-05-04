@@ -1,0 +1,1261 @@
+[
+  {
+    "question_id": "Q13.1",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 13,
+    "chapter_name": "Kinetic Theory",
+    "question_type": "numerical",
+    "question_text": "Estimate the fraction of molecular volume to the actual volume occupied by oxygen gas at STP. Take the diameter of an oxygen molecule to be 3Å.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The ratio of the molecular volume to the actual volume of oxygen is 3.8 × 10–4.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the radius of the oxygen molecule from its diameter.",
+        "expression": "r = \\frac{3}{2} = 1.5 \\text{ Å}"
+      },
+      {
+        "step_number": 2,
+        "description": "Use the ideal gas volume at STP for 1 mole of oxygen.",
+        "expression": "V_{actual} = 22400 \\text{ cm}^3"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the molecular volume using Avogadro's number.",
+        "expression": "V_{molecular} = \\frac{4}{3} \\pi r^3 \\cdot N"
+      },
+      {
+        "step_number": 4,
+        "description": "Find the ratio of molecular volume to actual volume.",
+        "expression": "\\frac{V_{molecular}}{V_{actual}} = 3.8 \\times 10^{-4}"
+      }
+    ],
+    "final_answer": "Therefore, the fraction of molecular volume to the actual volume occupied by oxygen gas at STP is 3.8 × 10–4.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations and understanding of gas laws.",
+    "topics_tags": [
+      "Molecular Volume",
+      "Oxygen Gas",
+      "STP",
+      "Ideal Gas Law"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.2",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 13,
+    "chapter_name": "Kinetic Theory",
+    "question_type": "conceptual",
+    "question_text": "Molar volume is the volume occupied by 1 mol of any (ideal) gas at standard temperature and pressure (STP: 1 atmospheric pressure, 0 °C). Show that it is 22.4 litres.",
+    "question_latex": "PV = nRT",
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Equation showing the ideal gas law relating pressure, volume, and temperature.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754238/ncert/physics/13/img_2_0.png",
+      "latex_extracted": "\\begin{array}{r}{\\therefore{\\mathcal{V}}={\\frac{n R T}{P}}}\\\\ {P}\\\\ {\\lfloor\\dots\\dots\\dots\\dots\\dots\\dots\\dots\\dots\\dots\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Hence, the molar volume of a gas at STP is 22.4 litres.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Use the ideal gas equation PV = nRT.",
+        "expression": "PV = nRT"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute n = 1 mole, R = 8.314 J mol–1K–1, T = 273 K, and P = 1.013 × 10^5 Nm–2.",
+        "expression": "V = \\frac{nRT}{P} = \\frac{1 \\times 8.314 \\times 273}{1.013 \\times 10^5}"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the volume in cubic meters and convert to litres.",
+        "expression": "V = 0.0224 m^3 = 22.4 \\text{ litres}"
+      }
+    ],
+    "final_answer": "Thus, the molar volume of a gas at STP is 22.4 litres.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of the ideal gas law and basic calculations.",
+    "topics_tags": [
+      "Molar Volume",
+      "Ideal Gas Law",
+      "STP"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Equation showing the ideal gas law relating pressure, volume, and temperature.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754238/ncert/physics/13/img_2_0.png",
+        "latex_extracted": "\\begin{array}{r}{\\therefore{\\mathcal{V}}={\\frac{n R T}{P}}}\\\\ {P}\\\\ {\\lfloor\\dots\\dots\\dots\\dots\\dots\\dots\\dots\\dots\\dots\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.3",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 13,
+    "chapter_name": "Kinetic Theory",
+    "question_type": "mcq",
+    "question_text": "Figure 13.8 shows a plot of PV/T versus P for 1.00×10–3kg of oxygen gas at two different temperatures. What does the dotted plot signify? Which is true: T1 > T2 or T1 << T2? What is the value of PV/T where the curves meet on the y-axis? If we obtained similar plots for 1.00 ×10–3kg of hydrogen, would we get the same value of PV/T at the point where the curves meet on the y-axis?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Graph showing the relationship between PV/T and pressure for oxygen gas at different temperatures.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754240/ncert/physics/13/img_2_1.jpg",
+      "latex_extracted": "\\left.{\\begin{array}{l}{\\nu_{1}}\\\\ {\\Gamma\\left(\\Re^{+}\\right)}\\\\ {\\Gamma\\left(\\Omega^{+}\\right)}\\right|\\right.\\stackrel{\\scriptstyle{\\frac{\\scriptstyle{\\boldsymbol{\\Omega}}}{}}\\sim\\cdots\\otimes\\infty{\\sqrt{-2\\sqrt{-2}}}/{\\mathcal{L}}_{\\ldots}}\\\\ {\\Psi}\\end{array}}\\right.",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The dotted plot signifies the ideal behavior of the gas. T1 > T2 is true for the given plot. The value of PV/T where the curves meet is μR.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify that the dotted plot represents ideal gas behavior.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Determine the relationship between temperatures T1 and T2.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "State the value of PV/T where the curves meet.",
+        "expression": "PV/T = μR"
+      }
+    ],
+    "final_answer": "Therefore, the dotted plot signifies ideal gas behavior, T1 > T2 is true, and the value of PV/T where the curves meet is μR.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding gas behavior and interpreting graphical data.",
+    "topics_tags": [
+      "Gas Behavior",
+      "PV/T Plot",
+      "Ideal Gas"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Graph showing the relationship between PV/T and pressure for oxygen gas at different temperatures.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754240/ncert/physics/13/img_2_1.jpg",
+        "latex_extracted": "\\left.{\\begin{array}{l}{\\nu_{1}}\\\\ {\\Gamma\\left(\\Re^{+}\\right)}\\\\ {\\Gamma\\left(\\Omega^{+}\\right)}\\right|\\right.\\stackrel{\\scriptstyle{\\frac{\\scriptstyle{\\boldsymbol{\\Omega}}}{}}\\sim\\cdots\\otimes\\infty{\\sqrt{-2\\sqrt{-2}}}/{\\mathcal{L}}_{\\ldots}}\\\\ {\\Psi}\\end{array}}\\right.",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.4",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 13,
+    "chapter_name": "Kinetic Theory",
+    "question_type": "mcq",
+    "question_text": "An oxygen cylinder of volume 30 litres has an initial gauge pressure of 15 atm and a temperature of 27 °C. After some oxygen is withdrawn from the cylinder, the gauge pressure drops to 11 atm and its temperature drops to 17 °C. Estimate the mass of oxygen taken out of the cylinder (R = 8.31 J mol–1K–1, molecular mass of O = 32 u).",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of the gas law PV = nRT at constant temperature.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754241/ncert/physics/13/img_4_0.png",
+      "latex_extracted": "\\frac{P V}{T}=\\mu R\\ \\mathrm{at~constant~temperature}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Therefore, 0.131 kg of oxygen is taken out of the cylinder.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Convert the initial conditions of the gas into SI units.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the ideal gas equation to find the initial number of moles of oxygen.",
+        "expression": "P V = n R T"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the initial mass of oxygen using the number of moles and molecular mass.",
+        "expression": "m = n M"
+      },
+      {
+        "step_number": 4,
+        "description": "Repeat the process for the final conditions after oxygen is withdrawn.",
+        "expression": "P V = n R T"
+      },
+      {
+        "step_number": 5,
+        "description": "Calculate the final mass of oxygen remaining in the cylinder.",
+        "expression": "m = n M"
+      },
+      {
+        "step_number": 6,
+        "description": "Determine the mass of oxygen taken out by subtracting the final mass from the initial mass.",
+        "expression": "m_1 - m_2"
+      }
+    ],
+    "final_answer": "Therefore, 0.131 kg of oxygen is taken out of the cylinder.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps of calculation using the ideal gas law.",
+    "topics_tags": [
+      "Ideal Gas Law",
+      "Pressure",
+      "Temperature",
+      "Mass Calculation"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the gas law PV = nRT at constant temperature.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754241/ncert/physics/13/img_4_0.png",
+        "latex_extracted": "\\frac{P V}{T}=\\mu R\\ \\mathrm{at~constant~temperature}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.5",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 13,
+    "chapter_name": "Kinetic Theory",
+    "question_type": "numerical",
+    "question_text": "Estimate the total number of air molecules (inclusive of oxygen, nitrogen, water vapour) in a room of capacity 25.0 m³ at a temperature of 27 °C and 1 atm pressure.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical expression related to the volume and pressure of the air bubble.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754244/ncert/physics/13/img_7_0.png",
+      "latex_extracted": "={\\frac{\\left(493300\\right)\\left(1.0\\times10^{\\circ}\\right)308}{285\\times1.013\\times10^{\\circ}}}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The total number of air molecules in the given room is 6.11 × 10²⁶.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Use the ideal gas equation PV = kNT to find N.",
+        "expression": "N = \\frac{PV}{kT}"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values for P, V, k, and T.",
+        "expression": "N = \\frac{(1.013 \\times 10^5)(25.0)}{(1.38 \\times 10^{-23})(300)}"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the number of molecules.",
+        "expression": "N = 6.11 \\times 10^{26}"
+      }
+    ],
+    "final_answer": "Therefore, the total number of air molecules in the room is 6.11 × 10²⁶.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves application of the ideal gas law and requires substitution of multiple values.",
+    "topics_tags": [
+      "Ideal Gas Law",
+      "Air Molecules",
+      "Thermodynamics"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical expression related to the volume and pressure of the air bubble.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754244/ncert/physics/13/img_7_0.png",
+        "latex_extracted": "={\\frac{\\left(493300\\right)\\left(1.0\\times10^{\\circ}\\right)308}{285\\times1.013\\times10^{\\circ}}}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.6",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 13,
+    "chapter_name": "Kinetic Theory",
+    "question_type": "numerical",
+    "question_text": "Estimate the average thermal energy of a helium atom at (i) room temperature (27 °C), (ii) the temperature on the surface of the Sun (6000 K), (iii) the temperature of 10 million Kelvin (the typical core temperature in the case of a star).",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "Calculate the average thermal energy of a helium atom at room temperature (27 °C).",
+        "part_latex": null,
+        "answer_text": "The average thermal energy of a helium atom at room temperature is 6.21 × 10⁻²¹ J.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the formula for average thermal energy: E = \\frac{3}{2}kT.",
+            "expression": "E = \\frac{3}{2}(1.38 \\times 10^{-23})(300)"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the average thermal energy.",
+            "expression": "E = 6.21 \\times 10^{-21}"
+          }
+        ],
+        "final_answer": "Hence, the average thermal energy of a helium atom at room temperature is 6.21 × 10⁻²¹ J.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "Calculate the average thermal energy of a helium atom on the surface of the Sun (6000 K).",
+        "part_latex": null,
+        "answer_text": "The average thermal energy of a helium atom on the surface of the Sun is 1.241 × 10⁻¹⁹ J.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the formula for average thermal energy: E = \\frac{3}{2}kT.",
+            "expression": "E = \\frac{3}{2}(1.38 \\times 10^{-23})(6000)"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the average thermal energy.",
+            "expression": "E = 1.241 \\times 10^{-19}"
+          }
+        ],
+        "final_answer": "Hence, the average thermal energy of a helium atom on the surface of the Sun is 1.241 × 10⁻¹⁹ J.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "Calculate the average thermal energy of a helium atom at a temperature of 10 million Kelvin.",
+        "part_latex": null,
+        "answer_text": "The average thermal energy of a helium atom at the core of a star is 2.07 × 10⁻¹⁶ J.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the formula for average thermal energy: E = \\frac{3}{2}kT.",
+            "expression": "E = \\frac{3}{2}(1.38 \\times 10^{-23})(10^7)"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the average thermal energy.",
+            "expression": "E = 2.07 \\times 10^{-16}"
+          }
+        ],
+        "final_answer": "Hence, the average thermal energy of a helium atom at the core of a star is 2.07 × 10⁻¹⁶ J.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations using the average thermal energy formula.",
+    "topics_tags": [
+      "Thermal Energy",
+      "Helium Atom",
+      "Temperature"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [],
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    }
+  },
+  {
+    "question_id": "Q13.7",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 13,
+    "chapter_name": "Kinetic Theory",
+    "question_type": "conceptual",
+    "question_text": "Three vessels of equal capacity have gases at the same temperature and pressure. The first vessel contains neon (monatomic), the second contains chlorine (diatomic), and the third contains uranium hexafluoride (polyatomic). Do the vessels contain equal number of respective molecules? Is the root mean square speed of molecules the same in the three cases? If not, in which case is v the largest?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Yes. All contain the same number of the respective molecules. No. The root mean square speed of neon is the largest.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the root mean square speed of neon is the largest among the given gases.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of gas laws and molecular speed concepts.",
+    "topics_tags": [
+      "Kinetic Theory",
+      "Gas Laws",
+      "Root Mean Square Speed"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.8",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 13,
+    "chapter_name": "Kinetic Theory",
+    "question_type": "numerical",
+    "question_text": "At what temperature is the root mean square speed of an atom in an argon gas cylinder equal to the rms speed of a helium gas atom at –20 °C? (atomic mass of Ar = 39.9 u, of He = 4.0 u).",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of the root mean square speed of argon gas.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754245/ncert/physics/13/img_11_0.png",
+      "latex_extracted": "(\\nu_{\\mathrm{ms}})_{\\mathrm{Ar}}\\ ={\\sqrt{\\frac{3R T_{\\mathrm{as}}}{M_{\\mathrm{Ar}}}}}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Therefore, the temperature of the argon atom is 2.52 × 10^3 K.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the temperature of the argon atom is 2.52 × 10^3 K.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves calculations using gas properties and requires understanding of rms speed.",
+    "topics_tags": [
+      "Root Mean Square Speed",
+      "Temperature",
+      "Gas Properties"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the root mean square speed of argon gas.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754245/ncert/physics/13/img_11_0.png",
+        "latex_extracted": "(\\nu_{\\mathrm{ms}})_{\\mathrm{Ar}}\\ ={\\sqrt{\\frac{3R T_{\\mathrm{as}}}{M_{\\mathrm{Ar}}}}}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.9",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 13,
+    "chapter_name": "Kinetic Theory",
+    "question_type": "mcq",
+    "question_text": "Estimate the mean free path and collision frequency of a nitrogen molecule in a cylinder containing nitrogen at 2.0 atm and temperature 17 °C. Take the radius of a nitrogen molecule to be roughly 1.0 Å. Compare the collision time with the time the molecule moves freely between two successive collisions (Molecular mass of N = 28.0 u).",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation related to the root mean square speed of nitrogen gas.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754249/ncert/physics/13/img_12_0.png",
+      "latex_extracted": "\\begin{array}{c}{{\\sqrt{\\frac{M R T_{\\mathrm{Ag}}}{M_{\\mathrm{Ar}}}}=\\sqrt{\\frac{M R T_{\\mathrm{B}}}{M_{\\mathrm{Hs}}}}}}\\\\ {{T_{\\mathrm{Ar}}=\\frac{T_{\\mathrm{Hs}}}{M_{\\mathrm{Hs}}}}}\\\\ {{M_{\\mathrm{Ar}}=\\frac{T_{\\mathrm{Hs}}}{M_{\\mathrm{Hs}}}}}\\\\ {{=\\frac{253}{4}\\times39.9}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Mean free path = 1.11 × 10^–7 m, Collision frequency = 4.58 × 10^9 s^–1.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the mean free path is 1.11 × 10^–7 m and the collision frequency is 4.58 × 10^9 s^–1.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Involves multiple calculations and understanding of molecular dynamics.",
+    "topics_tags": [
+      "Mean Free Path",
+      "Collision Frequency",
+      "Molecular Dynamics"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation related to the root mean square speed of nitrogen gas.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754249/ncert/physics/13/img_12_0.png",
+        "latex_extracted": "\\begin{array}{c}{{\\sqrt{\\frac{M R T_{\\mathrm{Ag}}}{M_{\\mathrm{Ar}}}}=\\sqrt{\\frac{M R T_{\\mathrm{B}}}{M_{\\mathrm{Hs}}}}}}\\\\ {{T_{\\mathrm{Ar}}=\\frac{T_{\\mathrm{Hs}}}{M_{\\mathrm{Hs}}}}}\\\\ {{M_{\\mathrm{Ar}}=\\frac{T_{\\mathrm{Hs}}}{M_{\\mathrm{Hs}}}}}\\\\ {{=\\frac{253}{4}\\times39.9}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.10",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 13,
+    "chapter_name": "Kinetic Theory",
+    "question_type": "numerical",
+    "question_text": "A metre long narrow bore held horizontally (and closed at one end) contains a 76 cm long mercury thread, which traps a 15 cm column of air. What happens if the tube is held vertically with the open end at the bottom?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The total length of the air column will be 24 cm after the tube is held vertically.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the length of the mercury that occupies the air space.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Add the lengths of the air column before and after the tube is held vertically.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, the total length of the air column will be 24 cm.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of fluid mechanics and basic calculations.",
+    "topics_tags": [
+      "Fluid Mechanics",
+      "Air Column",
+      "Pressure"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.11",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 13,
+    "chapter_name": "Kinetic Theory",
+    "question_type": "numerical",
+    "question_text": "From a certain apparatus, the diffusion rate of hydrogen has an average value of 28.7 cm³s⁻¹. The diffusion of another gas under the same conditions is measured to have an average rate of 7.2 cm³s⁻¹. Identify the gas.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Using Graham's law of diffusion, we can identify the gas based on its diffusion rate.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Apply Graham's law of diffusion: R1/R2 = √(M2/M1).",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the known diffusion rates into the equation.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the gas can be identified based on the calculated molecular mass.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves application of a law and understanding of molecular masses.",
+    "topics_tags": [
+      "Diffusion",
+      "Graham's Law",
+      "Gas Laws"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.12",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 13,
+    "chapter_name": "Kinetic Theory",
+    "question_type": "derivation",
+    "question_text": "Use the relation to derive the equation for sedimentation equilibrium of a suspension in a liquid column: n = n exp [-mg N (ρ - P′) (h2 – h1) / (ρRT)]",
+    "question_latex": "n = n \\exp \\left[-\\frac{mg N (\\rho - P') (h_2 - h_1)}{\\rho RT}\\right]",
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical expression related to molecular mass and gas laws.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754256/ncert/physics/13/img_16_0.png",
+      "latex_extracted": ":M_{2}=M_{1}\\!\\left({\\frac{R_{1}}{R_{2}}}\\right)^{2}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "According to the law of atmospheres, we have: n = n exp [-mg (h2 - h1) / k_B T]",
+    "answer_latex": "n = n \\exp \\left[-\\frac{mg (h_2 - h_1)}{k_B T}\\right]",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Start with the law of atmospheres equation.",
+        "expression": "n = n \\exp \\left[-\\frac{mg (h_2 - h_1)}{k_B T}\\right]"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the expression for mg using Archimedes' principle.",
+        "expression": "mg = m g \\left(1 - \\frac{\\rho'}{\\rho}\\right)"
+      }
+    ],
+    "final_answer": "Thus, the derived equation for sedimentation equilibrium is n = n exp [-mg N (ρ - P′) (h2 – h1) / (ρRT)].",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Involves multi-step derivation and application of principles.",
+    "topics_tags": [
+      "Sedimentation",
+      "Equilibrium",
+      "Archimedes' Principle"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical expression related to molecular mass and gas laws.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754256/ncert/physics/13/img_16_0.png",
+        "latex_extracted": ":M_{2}=M_{1}\\!\\left({\\frac{R_{1}}{R_{2}}}\\right)^{2}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.13",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 13,
+    "chapter_name": "Kinetic Theory",
+    "question_type": "conceptual",
+    "question_text": "Given below are densities of some solids and liquids. Give rough estimates of the size of their atoms.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The estimated atomic sizes are as follows: Carbon (diamond) 1.29 Å, Gold 1.59 Å, Nitrogen (liquid) 1.77 Å, Lithium 1.73 Å, Fluorine (liquid) 1.88 Å.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "The atomic sizes are in the range of a few Å.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires basic understanding of atomic structure and density.",
+    "topics_tags": [
+      "Atomic Size",
+      "Density",
+      "Solids and Liquids"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.14",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 13,
+    "chapter_name": "Kinetic Theory",
+    "question_type": "numerical",
+    "question_text": "Calculate the radius of a carbon atom given its molar mass M = 12.01 × 10–3 kg and density ρ = 2.22 × 10³ kg/m³.",
+    "question_latex": "\\therefore r={\\left({\\frac{3\\times12.01\\times10^{-3}}{4\\pi\\times2.2\\times10^{3}\\times6.023\\times10^{23}}}\\right)}^{\\frac{1}{2}}",
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The radius of a carbon atom is 1.29 Å.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Substitute the values of M and ρ into the formula for radius.",
+        "expression": "\\therefore r={\\left({\\frac{3\\times12.01\\times10^{-3}}{4\\pi\\times2.2\\times10^{3}\\times6.023\\times10^{23}}}\\right)}^{\\frac{1}{2}}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the radius using the substituted values.",
+        "expression": "r = 1.29"
+      }
+    ],
+    "final_answer": "Therefore, the radius of a carbon atom is 1.29 Å.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical expression for calculating the radius of a carbon atom.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754261/ncert/physics/13/img_19_0.png",
+      "latex_extracted": "\\therefore r={\\left({\\frac{3\\times12.01\\times10^{-3}}{4\\pi\\times2.2\\times10^{3}\\times6.023\\times10^{23}}}\\right)}^{\\frac{1}{2}}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of the formula and basic substitution.",
+    "topics_tags": [
+      "Atomic Radius",
+      "Carbon",
+      "Kinetic Theory"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical expression for calculating the radius of a carbon atom.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754261/ncert/physics/13/img_19_0.png",
+        "latex_extracted": "\\therefore r={\\left({\\frac{3\\times12.01\\times10^{-3}}{4\\pi\\times2.2\\times10^{3}\\times6.023\\times10^{23}}}\\right)}^{\\frac{1}{2}}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q13.15",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 13,
+    "chapter_name": "Kinetic Theory",
+    "question_type": "numerical",
+    "question_text": "Calculate the radius of a gold atom given its molar mass M = 197.00 × 10–3 kg and density ρ = 19.32 × 10³ kg/m³.",
+    "question_latex": ":r=\\left({\\frac{3\\times197\\times10^{-3}}{4\\pi\\times19.32\\times10^{3}\\times6.023\\times10^{23}}}\\right)^{1}",
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The radius of a gold atom is 1.59 Å.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Substitute the values of M and ρ into the formula for radius.",
+        "expression": ":r=\\left({\\frac{3\\times197\\times10^{-3}}{4\\pi\\times19.32\\times10^{3}\\times6.023\\times10^{23}}}\\right)^{1}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the radius using the substituted values.",
+        "expression": "r = 1.59"
+      }
+    ],
+    "final_answer": "Therefore, the radius of a gold atom is 1.59 Å.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical expression for calculating the radius of a gold atom.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754263/ncert/physics/13/img_19_1.png",
+      "latex_extracted": ":r=\\left({\\frac{3\\times197\\times10^{-3}}{4\\pi\\times19.32\\times10^{3}\\times6.023\\times10^{23}}}\\right)^{1}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of the formula and basic substitution.",
+    "topics_tags": [
+      "Atomic Radius",
+      "Gold",
+      "Kinetic Theory"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical expression for calculating the radius of a gold atom.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754263/ncert/physics/13/img_19_1.png",
+        "latex_extracted": ":r=\\left({\\frac{3\\times197\\times10^{-3}}{4\\pi\\times19.32\\times10^{3}\\times6.023\\times10^{23}}}\\right)^{1}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q13.16",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 13,
+    "chapter_name": "Kinetic Theory",
+    "question_type": "numerical",
+    "question_text": "Calculate the radius of a liquid nitrogen atom given its molar mass M = 14.01 × 10–3 kg and density ρ = 1.00 × 10³ kg/m³.",
+    "question_latex": ":r=\\left({\\frac{3\\times14.01\\times10^{-3}}{4\\pi\\times1.00\\times10^{3}\\times6.23\\times10^{23}}}\\right)^{1}",
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The radius of a liquid nitrogen atom is 1.77 Å.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Substitute the values of M and ρ into the formula for radius.",
+        "expression": ":r=\\left({\\frac{3\\times14.01\\times10^{-3}}{4\\pi\\times1.00\\times10^{3}\\times6.23\\times10^{23}}}\\right)^{1}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the radius using the substituted values.",
+        "expression": "r = 1.77"
+      }
+    ],
+    "final_answer": "Therefore, the radius of a liquid nitrogen atom is 1.77 Å.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical expression for calculating the radius of a liquid nitrogen atom.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754264/ncert/physics/13/img_20_0.png",
+      "latex_extracted": ":r=\\left({\\frac{3\\times14.01\\times10^{-3}}{4\\pi\\times1.00\\times10^{3}\\times6.23\\times10^{23}}}\\right)^{1}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of the formula and basic substitution.",
+    "topics_tags": [
+      "Atomic Radius",
+      "Liquid Nitrogen",
+      "Kinetic Theory"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical expression for calculating the radius of a liquid nitrogen atom.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754264/ncert/physics/13/img_20_0.png",
+        "latex_extracted": ":r=\\left({\\frac{3\\times14.01\\times10^{-3}}{4\\pi\\times1.00\\times10^{3}\\times6.23\\times10^{23}}}\\right)^{1}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q13.17",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 13,
+    "chapter_name": "Kinetic Theory",
+    "question_type": "numerical",
+    "question_text": "Calculate the radius of a lithium atom given its molar mass M = 6.94 × 10–3 kg and density ρ = 0.53 × 10³ kg/m³.",
+    "question_latex": ":r=\\left({\\frac{3\\times6.94\\times10^{-3}}{4\\pi\\times0.53\\times10^{3}\\times6.23\\times10^{23}}}\\right)^{1}",
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The radius of a lithium atom is 1.73 Å.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Substitute the values of M and ρ into the formula for radius.",
+        "expression": ":r=\\left({\\frac{3\\times6.94\\times10^{-3}}{4\\pi\\times0.53\\times10^{3}\\times6.23\\times10^{23}}}\\right)^{1}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the radius using the substituted values.",
+        "expression": "r = 1.73"
+      }
+    ],
+    "final_answer": "Therefore, the radius of a lithium atom is 1.73 Å.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical expression for calculating the radius of a lithium atom.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754265/ncert/physics/13/img_20_1.png",
+      "latex_extracted": ":r=\\left({\\frac{3\\times6.94\\times10^{-3}}{4\\pi\\times0.53\\times10^{3}\\times6.23\\times10^{23}}}\\right)^{1}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of the formula and basic substitution.",
+    "topics_tags": [
+      "Atomic Radius",
+      "Lithium",
+      "Kinetic Theory"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical expression for calculating the radius of a lithium atom.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754265/ncert/physics/13/img_20_1.png",
+        "latex_extracted": ":r=\\left({\\frac{3\\times6.94\\times10^{-3}}{4\\pi\\times0.53\\times10^{3}\\times6.23\\times10^{23}}}\\right)^{1}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q13.18",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 13,
+    "chapter_name": "Kinetic Theory",
+    "question_type": "numerical",
+    "question_text": "Calculate the radius of a liquid fluorine atom given its molar mass M = 19.00 × 10–3 kg and density ρ = 1.14 × 10³ kg/m³.",
+    "question_latex": ":r=\\left({\\frac{3\\times19\\times10^{-3}}{4\\pi\\times1.14\\times10^{3}\\times6.023\\times10^{-3}}}\\right)^{\\frac{1}{3}}",
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The radius of a liquid fluorine atom is 1.88 Å.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Substitute the values of M and ρ into the formula for radius.",
+        "expression": ":r=\\left({\\frac{3\\times19\\times10^{-3}}{4\\pi\\times1.14\\times10^{3}\\times6.023\\times10^{-3}}}\\right)^{\\frac{1}{3}}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the radius using the substituted values.",
+        "expression": "r = 1.88"
+      }
+    ],
+    "final_answer": "Therefore, the radius of a liquid fluorine atom is 1.88 Å.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical expression for calculating the radius of a liquid fluorine atom.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754266/ncert/physics/13/img_20_2.png",
+      "latex_extracted": ":r=\\left({\\frac{3\\times19\\times10^{-3}}{4\\pi\\times1.14\\times10^{3}\\times6.023\\times10^{-3}}}\\right)^{\\frac{1}{3}}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of the formula and basic substitution.",
+    "topics_tags": [
+      "Atomic Radius",
+      "Liquid Fluorine",
+      "Kinetic Theory"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical expression for calculating the radius of a liquid fluorine atom.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754266/ncert/physics/13/img_20_2.png",
+        "latex_extracted": ":r=\\left({\\frac{3\\times19\\times10^{-3}}{4\\pi\\times1.14\\times10^{3}\\times6.023\\times10^{-3}}}\\right)^{\\frac{1}{3}}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  }
+]

@@ -1,0 +1,2784 @@
+[
+  {
+    "question_id": "Q3.1",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 3,
+    "chapter_name": "classification of elements and periodicity in properties",
+    "question_type": "conceptual",
+    "question_text": "What is the basic theme of organisation in the periodic table?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The basic theme of organisation of elements in the periodic table is to classify the elements in periods and groups according to their properties. This arrangement makes the study of elements and their compounds simple and systematic. In the periodic table, elements with similar properties are placed in the same group.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the periodic table organizes elements based on their properties into periods and groups.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of the basic concept of the periodic table.",
+    "topics_tags": [
+      "Periodic Table",
+      "Element Classification",
+      "Chemical Properties"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.2",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 3,
+    "chapter_name": "classification of elements and periodicity in properties",
+    "question_type": "conceptual",
+    "question_text": "Which important property did Mendeleev use to classify the elements in his periodic table and did he stick to that?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Mendeleev arranged the elements in his periodic table ordered by atomic weight or mass. He arranged the elements in periods and groups in order of their increasing atomic weight. He placed the elements with similar properties in the same group. However, he did not stick to this arrangement for long. He found out that if the elements were arranged strictly in order of their increasing atomic weights, then some elements did not fit within this scheme of classification. Therefore, he ignored the order of atomic weights in some cases.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, Mendeleev's classification was based on atomic weight, but he made exceptions when necessary.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of Mendeleev's approach and its limitations.",
+    "topics_tags": [
+      "Mendeleev",
+      "Periodic Table",
+      "Atomic Weight"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.3",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 3,
+    "chapter_name": "classification of elements and periodicity in properties",
+    "question_type": "conceptual",
+    "question_text": "What is the basic difference in approach between the Mendeleev's Periodic Law and the Modern Periodic Law?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Mendeleev's Periodic Law states that the physical and chemical properties of elements are periodic functions of their atomic weights. On the other hand, the Modern periodic Law states that the physical and chemical properties of elements are periodic functions of their atomic numbers.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the key difference lies in the basis of classification: atomic weight versus atomic number.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of historical context and scientific evolution.",
+    "topics_tags": [
+      "Periodic Law",
+      "Atomic Number",
+      "Atomic Weight"
+    ],
+    "confidence_score": 0.93,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.4",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 3,
+    "chapter_name": "classification of elements and periodicity in properties",
+    "question_type": "conceptual",
+    "question_text": "On the basis of quantum numbers, justify that the sixth period of the periodic table should have 32 elements.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "In the periodic table of the elements, a period indicates the value of the principal quantum number (n) for the outermost shells. Each period begins with the filling of principal quantum number (n). The value of n for the sixth period is 6. For n = 6, azimuthal quantum number (l) can have values of 0, 1, 2, 3, 4. According to Aufbau's principle, electrons are added to different orbitals in order of their increasing energies. The energy of the 6d subshell is even higher than that of the 7s subshell. In the 6th period, electrons can be filled in only 6s, 4f, 5d, and 6p subshells. Now, 6s has one orbital, 4f has seven orbitals, 5d has five orbitals, and 6p has three orbitals. Therefore, there are a total of sixteen (1 + 7 + 5 + 3 = 16) orbitals available. According to Pauli's exclusion principle, each orbital can accommodate a maximum of 2 electrons. Thus, 16 orbitals can accommodate a maximum of 32 electrons. Hence, the sixth period of the periodic table should have 32 elements.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the sixth period can accommodate 32 elements based on quantum numbers.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of quantum mechanics and electron configuration.",
+    "topics_tags": [
+      "Quantum Numbers",
+      "Periodic Table",
+      "Electron Configuration"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.5",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 3,
+    "chapter_name": "classification of elements and periodicity in properties",
+    "question_type": "conceptual",
+    "question_text": "In terms of period and group where would you locate the element with Z =114?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Elements with atomic numbers from Z = 87 to Z = 114 are present in the 7th period of the periodic table. Thus, the element with Z = 114 is present in the 7th period of the periodic table. In the 7th period, first two elements with Z = 87 and Z= 88 are s-block elements, the next 14 elements excluding Z = 89 i.e., those with Z = 90 - 103 are f - block elements, ten elements with Z = 89 and Z = 104 - 112 are d - block elements, and the elements with Z = 113 - 118 are p - block elements. Therefore, the element with Z = 114 is the second p - block element in the 7th period. Thus, the element with Z = 114 is present in the 7th period and 14th group of the periodic table.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the element with Z = 114 is located in the 7th period and 14th group.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires knowledge of periodic table layout and element classification.",
+    "topics_tags": [
+      "Element Location",
+      "Periodic Table",
+      "Atomic Number"
+    ],
+    "confidence_score": 0.91,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.6",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 3,
+    "chapter_name": "classification of elements and periodicity in properties",
+    "question_type": "numerical",
+    "question_text": "Write the atomic number of the element present in the third period and seventeenth group of the periodic table.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "There are two elements in the 1st period and eight elements in the 2nd period. The third period starts with the element with Z = 11. Now, there are eight elements in the third period. Thus, the 3rd period ends with the element with Z = 18 i.e., the element in the 18th group of the third period has Z = 18. Hence, the element in the 17th group of the third period has atomic number Z = 17.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the atomic number of the element in the third period and seventeenth group is Z = 17.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic counting and understanding of periodic table structure.",
+    "topics_tags": [
+      "Atomic Number",
+      "Periodic Table",
+      "Element Classification"
+    ],
+    "confidence_score": 0.94,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.7",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 3,
+    "chapter_name": "classification of elements and periodicity in properties",
+    "question_type": "conceptual",
+    "question_text": "Which element do you think would have been named by (i) Lawrence Berkeley Laboratory (ii) Seaborg's group?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "(i) Lawrencium (Lr) with Z = 103 and Berkelium (Bk) with Z = 97 (ii) Seaborgium (Sg) with Z = 106.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, Lawrencium and Berkelium were named by Lawrence Berkeley Laboratory, while Seaborgium was named by Seaborg's group.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of element names and their origins.",
+    "topics_tags": [
+      "Element Naming",
+      "Lawrencium",
+      "Seaborgium"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.8",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 3,
+    "chapter_name": "classification of elements and periodicity in properties",
+    "question_type": "conceptual",
+    "question_text": "Why do elements in the same group have similar physical and chemical properties?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The physical and chemical properties of elements depend on the number of valence electrons. Elements present in the same group have the same number of valence electrons. Therefore, elements present in the same group have similar physical and chemical properties.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, similar valence electron configurations lead to similar properties in elements of the same group.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of atomic structure and periodic trends.",
+    "topics_tags": [
+      "Valence Electrons",
+      "Chemical Properties",
+      "Periodic Trends"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.9",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 3,
+    "chapter_name": "classification of elements and periodicity in properties",
+    "question_type": "conceptual",
+    "question_text": "What does atomic radius and ionic radius really mean to you?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Atomic radius is the radius of an atom. It measures the size of an atom. If the element is a metal, then the atomic radius refers to the metallic radius, and if the element is a non-metal, then it refers to the covalent radius. Metallic radius is calculated as half the internuclear distance separating the metal cores in the metallic crystal. For example, the internuclear distance between two adjacent copper atoms in solid copper is 256 pm. Thus, the metallic radius of copper is taken as . Covalent radius is measured as the distance between two atoms when they are found together by a single bond in a covalent molecule. For example, the distance between two chlorine atoms in chlorine molecule is 198 pm. Thus, the covalent radius of chlorine is taken as . Ionic radius means the radius of an ion (cation or anion). The ionic radii can be calculated by measuring the distances between the cations and anions in ionic crystals. Since a cation is formed by removing an electron from an atom, the cation has fewer electrons than the parent atom resulting in an increase in the effective nuclear charge. Thus, a cation is smaller than the parent atom. For example, the ionic radius of ion is 95 pm, whereas the atomic radius of Na atom is 186 pm. On the other hand, an anion is larger in size than its parent atom. This is because an anion has the same nuclear charge, but more electrons than.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, atomic radius measures the size of an atom, while ionic radius refers to the size of an ion.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of atomic structure and properties.",
+    "topics_tags": [
+      "Atomic Radius",
+      "Ionic Radius",
+      "Atomic Structure"
+    ],
+    "confidence_score": 0.89,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.10",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 3,
+    "chapter_name": "classification of elements and periodicity in properties",
+    "question_type": "conceptual",
+    "question_text": "How does atomic radius vary in a period and in a group? How do you explain the variation?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Atomic radius generally decreases from left to right across a period due to increased effective nuclear charge. It generally increases down a group due to an increase in the principal quantum number.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, atomic radius decreases across a period and increases down a group.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of atomic structure and periodic trends.",
+    "topics_tags": [
+      "Atomic Radius",
+      "Periodic Trends",
+      "Effective Nuclear Charge"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.11",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 3,
+    "chapter_name": "classification of elements and periodicity in properties",
+    "question_type": "multipart",
+    "question_text": "What do you understand by isoelectronic species? Name a species that will be isoelectronic with each of the following atoms or ions. (i) F- (ii) Ar (iii) Mg2+ (iv) Rb+",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "F-",
+        "part_latex": null,
+        "answer_text": "Isoelectronic species with F- include Na+ (10 electrons), Ne (10 electrons), O2- (10 electrons), and Al3+ (10 electrons).",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, F- is isoelectronic with Na+, Ne, O2-, and Al3+.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "Ar",
+        "part_latex": null,
+        "answer_text": "Isoelectronic species with Ar include S2- (18 electrons), Cl- (18 electrons), K+ (18 electrons), and Ca2+ (18 electrons).",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, Ar is isoelectronic with S2-, Cl-, K+, and Ca2+.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "Mg2+",
+        "part_latex": null,
+        "answer_text": "Isoelectronic species with Mg2+ include F- (10 electrons), Ne (10 electrons), O2- (10 electrons), and Al3+ (10 electrons).",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, Mg2+ is isoelectronic with F-, Ne, O2-, and Al3+.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iv)",
+        "part_text": "Rb+",
+        "part_latex": null,
+        "answer_text": "Isoelectronic species with Rb+ include Br- (36 electrons), Kr (36 electrons), and Sr2+ (36 electrons).",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, Rb+ is isoelectronic with Br-, Kr, and Sr2+.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of electronic configuration and comparison of ions.",
+    "topics_tags": [
+      "Isoelectronic Species",
+      "Electron Configuration",
+      "Ions"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.12",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 3,
+    "chapter_name": "classification of elements and periodicity in properties",
+    "question_type": "mcq",
+    "question_text": "Consider the following species: N3-, O2-, F-, Na+, Mg2+ and Al3+ (a) What is common in them? (b) Arrange them in the order of increasing ionic radii.",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "What is common in them?"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "Arrange them in the order of increasing ionic radii."
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": null,
+        "part_latex": null,
+        "answer_text": "Each of the given species has the same number of electrons (10 electrons). Hence, the given species are isoelectronic.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, they are isoelectronic species.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": null,
+        "part_latex": null,
+        "answer_text": "The arrangement of the given species in order of their increasing ionic radii is Al3+ < Mg2+ < Na+ < F- < O2- < N3-.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Therefore, the order of increasing ionic radii is Al3+ < Mg2+ < Na+ < F- < O2- < N3-.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of ionic sizes and electronic configurations.",
+    "topics_tags": [
+      "Ionic Radii",
+      "Isoelectronic Species",
+      "Periodic Trends"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.13",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 3,
+    "chapter_name": "classification of elements and periodicity in properties",
+    "question_type": "conceptual",
+    "question_text": "Explain why cations are smaller and anions larger in radii than their parent atoms?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Cations are smaller because they have fewer electrons than their parent atoms, leading to greater attraction of remaining electrons to the nucleus. Anions are larger due to increased electron repulsion and a decrease in effective nuclear charge.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, cations are smaller and anions are larger than their parent atoms.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of atomic structure and electron interactions.",
+    "topics_tags": [
+      "Cations",
+      "Anions",
+      "Atomic Radius"
+    ],
+    "confidence_score": 0.93,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.14",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 3,
+    "chapter_name": "classification of elements and periodicity in properties",
+    "question_type": "conceptual",
+    "question_text": "What is the significance of the terms - 'isolated gaseous atom' and 'ground state' while defining the ionization enthalpy and electron gain enthalpy?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Ionization enthalpy is defined for an isolated gaseous atom in its ground state to ensure that the energy required to remove an electron is measured under standard conditions, minimizing interactions with other atoms.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, these terms ensure accurate comparison of ionization and electron gain enthalpies.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of atomic theory and enthalpy definitions.",
+    "topics_tags": [
+      "Ionization Enthalpy",
+      "Electron Gain Enthalpy",
+      "Atomic Theory"
+    ],
+    "confidence_score": 0.94,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.15",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 3,
+    "chapter_name": "classification of elements and periodicity in properties",
+    "question_type": "mcq",
+    "question_text": "Energy of an electron in the ground state of the hydrogen atom is -2.18 x 10-18 J. Calculate the ionization enthalpy of atomic hydrogen in terms of J mol-1.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Ionization enthalpy of atomic hydrogen = 2.18 × 10–18 J. In terms of J mol–1, it is 2.18 × 10–18 × 6.02 × 10^23 = 1.31 × 10^6 J mol–1.",
+    "answer_latex": "I_{H} = 2.18 \\times 10^{-18} \\times 6.02 \\times 10^{23} = 1.31 \\times 10^{6} \\text{ J mol}^{-1}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the ionization enthalpy in J mol-1 using Avogadro's number.",
+        "expression": "I_{H} = 2.18 \\times 10^{-18} \\times 6.02 \\times 10^{23}"
+      }
+    ],
+    "final_answer": "Therefore, the ionization enthalpy of atomic hydrogen in terms of J mol-1 is 1.31 × 10^6 J mol-1.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves calculation and application of Avogadro's number.",
+    "topics_tags": [
+      "Ionization Enthalpy",
+      "Hydrogen Atom",
+      "Energy Calculations"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.16",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 3,
+    "chapter_name": "classification of elements and periodicity in properties",
+    "question_type": "conceptual",
+    "question_text": "Among the second period elements the actual ionization enthalpies are in the order Li < B < Be < C < O < N < F < Ne. Explain why (i) Be has higher ΔH than B (ii) O has lower ΔH than N and F?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": null,
+        "part_latex": null,
+        "answer_text": "Beryllium has higher ΔH than boron because the electron to be removed from beryllium is a 2s-electron, which is more strongly attached to the nucleus than the 2p-electron of boron.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, more energy is required to remove a 2s-electron from beryllium than a 2p-electron from boron.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": null,
+        "part_latex": null,
+        "answer_text": "Oxygen has lower ΔH than nitrogen and fluorine because in oxygen, two of the four 2p-electrons occupy the same orbital, leading to increased electron-electron repulsion, making it easier to remove an electron.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Therefore, oxygen has lower ΔH than nitrogen and fluorine.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of ionization enthalpy and electron configurations.",
+    "topics_tags": [
+      "Ionization Enthalpy",
+      "Second Period Elements",
+      "Electron Configuration"
+    ],
+    "confidence_score": 0.91,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.17",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 3,
+    "chapter_name": "classification of elements and periodicity in properties",
+    "question_type": "conceptual",
+    "question_text": "How would you explain the fact that the first ionization enthalpy of sodium is lower than that of magnesium but its second ionization enthalpy is higher than that of magnesium?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The first ionization enthalpy of sodium is lower than that of magnesium primarily because of two reasons: 1. The atomic size of sodium is greater than that of magnesium. 2. The effective nuclear charge of magnesium is higher than that of sodium. For these reasons, the energy required to remove an electron from magnesium is more than the energy required in sodium. Hence, the first ionization enthalpy of sodium is lower than that of magnesium. However, the second ionization enthalpy of sodium is higher than that of magnesium because after losing an electron, sodium attains the stable noble gas configuration, while magnesium still has one electron in the 3s-orbital and needs to lose one more electron to attain stability.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the second ionization enthalpy of sodium is higher than that of magnesium.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of atomic structure and ionization enthalpy concepts.",
+    "topics_tags": [
+      "Ionization Enthalpy",
+      "Sodium",
+      "Magnesium"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.18",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 3,
+    "chapter_name": "classification of elements and periodicity in properties",
+    "question_type": "conceptual",
+    "question_text": "What are the various factors due to which the ionization enthalpy of the main group elements tends to decrease down a group?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The factors responsible for the ionization enthalpy of the main group elements to decrease down a group are: (i) Increase in atomic size: As we move down a group, the number of shells increases, leading to a larger atomic size. This increases the distance of the valence electrons from the nucleus, making them easier to remove. (ii) Increase in shielding effect: The number of inner shells increases, enhancing the shielding of valence electrons from the nucleus, which decreases the energy required to remove a valence electron.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, both atomic size and shielding effect contribute to the decrease in ionization enthalpy down a group.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic understanding of atomic structure and periodic trends.",
+    "topics_tags": [
+      "Ionization Enthalpy",
+      "Periodic Trends",
+      "Atomic Size"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.19",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 3,
+    "chapter_name": "classification of elements and periodicity in properties",
+    "question_type": "conceptual",
+    "question_text": "How would you explain the deviation in the first ionization enthalpy values of group 13 elements?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "On moving down group 13, ionization enthalpy generally decreases due to an increase in atomic size and shielding. However, Ga has a higher ionization enthalpy than Al because Ga follows after d-block elements, where the shielding provided by d-electrons is not very effective. This results in Ga's valence electrons experiencing a greater effective nuclear charge than those of Al. Further, the ionization enthalpy decreases from Ga to In due to increased atomic size and shielding, but increases from In to Tl because Tl follows after 4f and 5d electrons, which also provide ineffective shielding.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the deviations in ionization enthalpy values in group 13 can be attributed to the effects of d-block and f-block electron shielding.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of periodic trends and electron shielding effects.",
+    "topics_tags": [
+      "Ionization Enthalpy",
+      "Group 13 Elements",
+      "Periodic Trends"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.20",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 3,
+    "chapter_name": "classification of elements and periodicity in properties",
+    "question_type": "conceptual",
+    "question_text": "Which of the following pairs of elements would have a more negative electron gain enthalpy? (i) O or F (ii) F or Cl",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "(i) F has a more negative electron gain enthalpy than O because F has a smaller atomic size and a higher effective nuclear charge, allowing it to attract an incoming electron more strongly. (ii) Cl has a more negative electron gain enthalpy than F because, despite F's smaller size, the electron is added to a higher quantum level in Cl, resulting in less electron-electron repulsion and easier accommodation of the additional electron.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, Cl has a more negative electron gain enthalpy than F.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of electron gain enthalpy and periodic trends.",
+    "topics_tags": [
+      "Electron Gain Enthalpy",
+      "Oxygen",
+      "Fluorine",
+      "Chlorine"
+    ],
+    "confidence_score": 0.97,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.21",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 3,
+    "chapter_name": "classification of elements and periodicity in properties",
+    "question_type": "conceptual",
+    "question_text": "Would you expect the second electron gain enthalpy of O as positive, more negative or less negative than the first? Justify your answer.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The first electron gain enthalpy of O is negative because energy is released when an electron is added to form O⁻ ion. However, the second electron gain enthalpy of O is positive because energy must be supplied to overcome the strong repulsions when adding an electron to the already negatively charged O⁻ ion.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the second electron gain enthalpy of O is positive.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic understanding of electron gain enthalpy concepts.",
+    "topics_tags": [
+      "Electron Gain Enthalpy",
+      "Oxygen"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.22",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 3,
+    "chapter_name": "classification of elements and periodicity in properties",
+    "question_type": "conceptual",
+    "question_text": "What is the basic difference between the terms electron gain enthalpy and electronegativity?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Electron gain enthalpy measures the tendency of an isolated gaseous atom to accept an electron, while electronegativity measures the tendency of an atom in a chemical compound to attract a shared pair of electrons.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, they represent different concepts in chemistry.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct definition recall.",
+    "topics_tags": [
+      "Electron Gain Enthalpy",
+      "Electronegativity"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.23",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 3,
+    "chapter_name": "classification of elements and periodicity in properties",
+    "question_type": "conceptual",
+    "question_text": "How would you react to the statement that the electronegativity of N on Pauling scale is 3.0 in all the nitrogen compounds?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Electronegativity is a variable property and differs in different compounds. Therefore, the statement that the electronegativity of N on Pauling scale is 3.0 in all nitrogen compounds is incorrect, as it varies in compounds like NH₃ and NO.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, electronegativity of N is not constant across all compounds.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of electronegativity variations.",
+    "topics_tags": [
+      "Electronegativity",
+      "Nitrogen Compounds"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.24",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 3,
+    "chapter_name": "classification of elements and periodicity in properties",
+    "question_type": "mcq",
+    "question_text": "Describe the theory associated with the radius of an atom as it (a) gains an electron (b) loses an electron.",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "gains an electron"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "loses an electron."
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Describe the theory associated with the radius of an atom as it gains an electron.",
+        "part_latex": null,
+        "answer_text": "When an atom gains an electron, the radius generally increases due to the added electron repulsion and the increased electron-electron repulsion in the outer shell.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, the atomic radius increases when an atom gains an electron.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Describe the theory associated with the radius of an atom as it loses an electron.",
+        "part_latex": null,
+        "answer_text": "When an atom loses an electron, the radius generally decreases because the remaining electrons are held more tightly by the nucleus due to reduced electron-electron repulsion.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, the atomic radius decreases when an atom loses an electron.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves understanding of atomic structure and electron interactions.",
+    "topics_tags": [
+      "Atomic Radius",
+      "Electron Gain",
+      "Electron Loss"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.25",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 3,
+    "chapter_name": "classification of elements and periodicity in properties",
+    "question_type": "conceptual",
+    "question_text": "Would you expect the first ionization enthalpies for two isotopes of the same element to be the same or different? Justify your answer.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The first ionization enthalpy for two isotopes of the same element should be the same because isotopes have the same number of protons and electrons.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the first ionization enthalpy for two isotopes of the same element is the same.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of isotopes and ionization enthalpy.",
+    "topics_tags": [
+      "Ionization Enthalpy",
+      "Isotopes",
+      "Periodic Properties"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.26",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 3,
+    "chapter_name": "classification of elements and periodicity in properties",
+    "question_type": "conceptual",
+    "question_text": "What are the major differences between metals and non-metals?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "1. Metals can lose electrons easily, while non-metals cannot.\n2. Metals cannot gain electrons easily, while non-metals can.\n3. Metals generally form ionic compounds, while non-metals form covalent compounds.\n4. Metal oxides are basic, while non-metallic oxides are acidic.\n5. Metals have low ionization enthalpies, while non-metals have high ionization enthalpies.\n6. Metals have less negative electron gain enthalpies, while non-metals have high negative electron gain enthalpies.\n7. Metals are less electronegative, while non-metals are electronegative.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "These differences highlight the contrasting chemical properties of metals and non-metals.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of basic properties of metals and non-metals.",
+    "topics_tags": [
+      "Metals",
+      "Non-Metals",
+      "Periodic Table"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.27",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 3,
+    "chapter_name": "classification of elements and periodicity in properties",
+    "question_type": "mcq",
+    "question_text": "Use the periodic table to answer the following questions.\n(a) Identify an element with five electrons in the outer subshell.\n(b) Identify an element that would tend to lose two electrons.\n(c) Identify an element that would tend to gain two electrons.\n(d) Identify the group having metal, non-metal, liquid as well as gas at the room temperature.",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "Identify an element with five electrons in the outer subshell."
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "Identify an element that would tend to lose two electrons."
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "Identify an element that would tend to gain two electrons."
+      },
+      {
+        "option_label": "(D)",
+        "option_text": "Identify the group having metal, non-metal, liquid as well as gas at the room temperature."
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Identify an element with five electrons in the outer subshell.",
+        "part_latex": null,
+        "answer_text": "The element can be F, Cl, Br, I, or At.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, the element with five electrons in the outer subshell belongs to the halogen group.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Identify an element that would tend to lose two electrons.",
+        "part_latex": null,
+        "answer_text": "The elements present in group 2 are Be, Mg, Ca, Sr, Ba.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "These elements have two valence electrons and can lose them easily.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "Identify an element that would tend to gain two electrons.",
+        "part_latex": null,
+        "answer_text": "The element is likely to be from the oxygen family.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "These elements need two electrons to attain a stable noble gas configuration.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(d)",
+        "part_text": "Identify the group having metal, non-metal, liquid as well as gas at the room temperature.",
+        "part_latex": null,
+        "answer_text": "Group 17 has metal, non-metal, liquid as well as gas at room temperature.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, group 17 contains a variety of states of matter.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires knowledge of periodic table and element properties.",
+    "topics_tags": [
+      "Periodic Table",
+      "Element Properties",
+      "Reactivity"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.28",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 3,
+    "chapter_name": "classification of elements and periodicity in properties",
+    "question_type": "conceptual",
+    "question_text": "The increasing order of reactivity among group 1 elements is Li < Na < K < Rb < Cs whereas that among group 17 elements is F > Cl > Br > I. Explain.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "In group 1, reactivity increases down the group as ionization enthalpies decrease, making it easier to lose the valence electron. In group 17, reactivity decreases down the group as electron gain enthalpy becomes less negative, making it harder to gain an electron.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the reactivity trends differ between group 1 and group 17 elements.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of periodic trends and reactivity.",
+    "topics_tags": [
+      "Reactivity",
+      "Periodic Trends",
+      "Group 1",
+      "Group 17"
+    ],
+    "confidence_score": 0.94,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.29",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 3,
+    "chapter_name": "classification of elements and periodicity in properties",
+    "question_type": "conceptual",
+    "question_text": "Write the general outer electronic configuration of s-, p-, d- and f- block elements.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "s-block: ns (n = 2-7); p-block: nsnp (n = 2-6); d-block: (n-1)d ns (n = 4-7); f-block: (n-2)f (n-1)d ns (n = 6-7).",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "These configurations define the electron arrangements in different blocks.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires knowledge of electronic configurations.",
+    "topics_tags": [
+      "Electronic Configuration",
+      "s-block",
+      "p-block",
+      "d-block",
+      "f-block"
+    ],
+    "confidence_score": 0.97,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.30",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 3,
+    "chapter_name": "classification of elements and periodicity in properties",
+    "question_type": "mcq",
+    "question_text": "Assign the position of the element having outer electronic configuration (i) ns2np4 for n = 3 (ii) (n - 1)d2ns2 for n = 4, and (iii) (n - 2)f7(n - 1)d1ns2 for n = 6, in the periodic table.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "Assign the position of the element having outer electronic configuration ns2np4 for n = 3.",
+        "part_latex": null,
+        "answer_text": "The element is Sulphur, belonging to the 3rd period and 16th group.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, the element is positioned in the 3rd period and 16th group.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "Assign the position of the element having outer electronic configuration (n - 1)d2ns2 for n = 4.",
+        "part_latex": null,
+        "answer_text": "The element is Titanium, belonging to the 4th period and 4th group.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, the element is positioned in the 4th period and 4th group.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "Assign the position of the element having outer electronic configuration (n - 2)f7(n - 1)d1ns2 for n = 6.",
+        "part_latex": null,
+        "answer_text": "The element is Gadolinium, belonging to the 6th period and group 3.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, the element is positioned in the 6th period and group 3.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of periodic table and electronic configurations.",
+    "topics_tags": [
+      "Periodic Table",
+      "Electronic Configuration",
+      "Element Positioning"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.31",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 3,
+    "chapter_name": "classification of elements and periodicity in properties",
+    "question_type": "mcq",
+    "question_text": "The first (ΔH1) and the second (ΔH2) ionization enthalpies (in kJ mol-1) and the (ΔHeg) electron gain enthalpy (in kJ mol-1) of a few elements are given below: Elements ΔH1 ΔH2 ΔHeg I 520 7300 -60 II 419 3051 -48 III 1681 3374 -328 IV 1008 1846 -295 V 2372 5251 +48 VI 738 1451 -40 Which of the above elements is likely to be : (a) the least reactive element. (b) the most reactive metal. (c) the most reactive non-metal.",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "the least reactive element."
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "the most reactive metal."
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "the most reactive non-metal."
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "the least reactive element.",
+        "part_latex": null,
+        "answer_text": "Element V is likely to be the least reactive element. This is because it has the highest first ionization enthalpy (ΔH1) and a positive electron gain enthalpy (ΔHeg).",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Therefore, Element V is the least reactive element.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "the most reactive metal.",
+        "part_latex": null,
+        "answer_text": "Element II is likely to be the most reactive metal as it has the lowest first ionization enthalpy (ΔH1) and a low negative electron gain enthalpy (ΔHeg).",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, Element II is the most reactive metal.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "the most reactive non-metal.",
+        "part_latex": null,
+        "answer_text": "Element III is likely to be the most reactive non-metal as it has a high first ionization enthalpy (ΔH1) and the highest negative electron gain enthalpy (ΔHeg).",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Therefore, Element III is the most reactive non-metal.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of ionization enthalpy and electron gain enthalpy to determine reactivity.",
+    "topics_tags": [
+      "Ionization Enthalpy",
+      "Reactivity",
+      "Periodic Trends"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.32",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 3,
+    "chapter_name": "classification of elements and periodicity in properties",
+    "question_type": "mcq",
+    "question_text": "Predict the formula of the stable binary compounds that would be formed by the combination of the following pairs of elements. (a) Lithium and oxygen (b) Magnesium and nitrogen (c) Aluminium and iodine (d) Silicon and oxygen (e) Phosphorus and fluorine (f) Element 71 and fluorine.",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "Lithium and oxygen"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "Magnesium and nitrogen"
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "Aluminium and iodine"
+      },
+      {
+        "option_label": "(D)",
+        "option_text": "Silicon and oxygen (e) Phosphorus and fluorine (f) Element 71 and fluorine."
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Lithium and oxygen.",
+        "part_latex": null,
+        "answer_text": "LiO",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "The formula is LiO.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Magnesium and nitrogen.",
+        "part_latex": null,
+        "answer_text": "MgN",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "The formula is MgN.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "Aluminium and iodine.",
+        "part_latex": null,
+        "answer_text": "AlI3",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "The formula is AlI3.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(d)",
+        "part_text": "Silicon and oxygen.",
+        "part_latex": null,
+        "answer_text": "SiO2",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "The formula is SiO2.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(e)",
+        "part_text": "Phosphorus and fluorine.",
+        "part_latex": null,
+        "answer_text": "PF3 or PF5",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "The formula can be PF3 or PF5.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(f)",
+        "part_text": "Element 71 and fluorine.",
+        "part_latex": null,
+        "answer_text": "LuF3",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "The formula is LuF3.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires knowledge of valency and compound formation.",
+    "topics_tags": [
+      "Binary Compounds",
+      "Chemical Formulas",
+      "Valency"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.33",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 3,
+    "chapter_name": "classification of elements and periodicity in properties",
+    "question_type": "mcq",
+    "question_text": "In the modern periodic table, the period indicates the value of:",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(a)",
+        "option_text": "Atomic number"
+      },
+      {
+        "option_label": "(b)",
+        "option_text": "Atomic mass"
+      },
+      {
+        "option_label": "(c)",
+        "option_text": "Principal quantum number"
+      },
+      {
+        "option_label": "(d)",
+        "option_text": "Azimuthal quantum number."
+      }
+    ],
+    "correct_option": "(c)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The value of the principal quantum number (n) for the outermost shell or the valence shell indicates a period in the Modern periodic table.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the period corresponds to the principal quantum number.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of periodic table structure.",
+    "topics_tags": [
+      "Periodic Table",
+      "Quantum Number",
+      "Element Properties"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.34",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 3,
+    "chapter_name": "classification of elements and periodicity in properties",
+    "question_type": "mcq",
+    "question_text": "Which of the following statements related to the modern periodic table is incorrect?",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(a)",
+        "option_text": "The p-block has 6 columns, because a maximum of 6 electrons can occupy all the orbitals in a p-shell."
+      },
+      {
+        "option_label": "(b)",
+        "option_text": "The d-block has 8 columns, because a maximum of 8 electrons can occupy all the orbitals in a d-subshell."
+      },
+      {
+        "option_label": "(c)",
+        "option_text": "Each block contains a number of columns equal to the number of electrons that can occupy that subshell."
+      },
+      {
+        "option_label": "(d)",
+        "option_text": "The block indicates value of azimuthal quantum number (l) for the last subshell that received electrons in building up the electronic configuration."
+      }
+    ],
+    "correct_option": "(b)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The d-block has 10 columns because a maximum of 10 electrons can occupy all the orbitals in a d subshell.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the statement about the d-block is incorrect.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires knowledge of periodic table structure and electron configuration.",
+    "topics_tags": [
+      "Periodic Table",
+      "Electron Configuration",
+      "Block Structure"
+    ],
+    "confidence_score": 0.97,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.35",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 3,
+    "chapter_name": "classification of elements and periodicity in properties",
+    "question_type": "mcq",
+    "question_text": "Anything that influences the valence electrons will affect the chemistry of the element. Which one of the following factors does not affect the valence shell?",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(a)",
+        "option_text": "Valence principal quantum number (n)"
+      },
+      {
+        "option_label": "(b)",
+        "option_text": "Nuclear charge (Z)"
+      },
+      {
+        "option_label": "(c)",
+        "option_text": "Nuclear mass"
+      },
+      {
+        "option_label": "(d)",
+        "option_text": "Number of core electrons."
+      }
+    ],
+    "correct_option": "(c)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Nuclear mass does not affect the valence electrons.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the factor that does not affect the valence shell is nuclear mass.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of factors affecting valence electrons.",
+    "topics_tags": [
+      "Valence Electrons",
+      "Nuclear Charge",
+      "Chemistry Factors"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.36",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 3,
+    "chapter_name": "classification of elements and periodicity in properties",
+    "question_type": "mcq",
+    "question_text": "The size of isoelectronic species — F-, Ne and Na+ is affected by:",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(a)",
+        "option_text": "Nuclear charge (Z)"
+      },
+      {
+        "option_label": "(b)",
+        "option_text": "Valence principal quantum number (n)"
+      },
+      {
+        "option_label": "(c)",
+        "option_text": "Electron-electron interaction in the outer orbitals"
+      },
+      {
+        "option_label": "(d)",
+        "option_text": "None of the factors because their size is the same."
+      }
+    ],
+    "correct_option": "(a)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The size of an isoelectronic species increases with a decrease in the nuclear charge (Z). For example, the order of the increasing nuclear charge of F-, Ne, and Na+ is as follows: F- < Ne < Na+. Therefore, the order of the increasing size of F-, Ne and Na+ is as follows: Na+ < Ne < F-.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the order of increasing size is Na+ < Ne < F-.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of isoelectronic species and their properties.",
+    "topics_tags": [
+      "Isoelectronic Species",
+      "Nuclear Charge",
+      "Atomic Size"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.37",
+    "class": 11,
+    "subject": "Chemistry",
+    "chapter_number": 3,
+    "chapter_name": "classification of elements and periodicity in properties",
+    "question_type": "mcq",
+    "question_text": "Considering the elements B, Al, Mg, and K, the correct order of their metallic character is:",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(a)",
+        "option_text": "B > Al > Mg > K"
+      },
+      {
+        "option_label": "(b)",
+        "option_text": "Al > Mg > B > K"
+      },
+      {
+        "option_label": "(c)",
+        "option_text": "Mg > Al > K > B"
+      },
+      {
+        "option_label": "(d)",
+        "option_text": "K > Mg > Al > B"
+      }
+    ],
+    "correct_option": "(d)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The correct order of metallic character is K > Mg > Al > B.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the trend of metallic character across a period and down a group.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Apply the trends to the elements B, Al, Mg, and K.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the correct order of metallic character is K > Mg > Al > B.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding periodic trends in metallic character.",
+    "topics_tags": [
+      "Metallic Character",
+      "Periodic Trends",
+      "Elements"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.38",
+    "class": 11,
+    "subject": "Chemistry",
+    "chapter_number": 3,
+    "chapter_name": "classification of elements and periodicity in properties",
+    "question_type": "mcq",
+    "question_text": "Considering the elements B, C, N, F, and Si, the correct order of their non-metallic character is:",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(a)",
+        "option_text": "B > C > Si > N > F"
+      },
+      {
+        "option_label": "(b)",
+        "option_text": "Si > C > B > N > F"
+      },
+      {
+        "option_label": "(c)",
+        "option_text": "F > N > C > B > Si"
+      },
+      {
+        "option_label": "(d)",
+        "option_text": "F > N > C > Si > B"
+      }
+    ],
+    "correct_option": "(d)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The correct order of non-metallic characters is F > N > C > B > Si.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the trend of non-metallic character across a period and down a group.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Apply the trends to the elements B, C, N, F, and Si.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the correct order of non-metallic characters is F > N > C > B > Si.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding periodic trends in non-metallic character.",
+    "topics_tags": [
+      "Non-Metallic Character",
+      "Periodic Trends",
+      "Elements"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.39",
+    "class": 11,
+    "subject": "Chemistry",
+    "chapter_number": 3,
+    "chapter_name": "classification of elements and periodicity in properties",
+    "question_type": "mcq",
+    "question_text": "Considering the elements F, Cl, O and N, the correct order of their chemical reactivity in terms of oxidizing property is:",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(a)",
+        "option_text": "F > Cl > O > N"
+      },
+      {
+        "option_label": "(b)",
+        "option_text": "F > O > Cl > N"
+      },
+      {
+        "option_label": "(c)",
+        "option_text": "Cl > F > O > N"
+      },
+      {
+        "option_label": "(d)",
+        "option_text": "O > F > N > Cl"
+      }
+    ],
+    "correct_option": "(b)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The correct order of chemical reactivity in terms of oxidizing property is F > O > Cl > N.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the trend of oxidizing character across a period and down a group.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Apply the trends to the elements F, Cl, O, and N.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the correct order of chemical reactivity in terms of oxidizing property is F > O > Cl > N.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding periodic trends in oxidizing properties.",
+    "topics_tags": [
+      "Oxidizing Property",
+      "Periodic Trends",
+      "Elements"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  }
+]

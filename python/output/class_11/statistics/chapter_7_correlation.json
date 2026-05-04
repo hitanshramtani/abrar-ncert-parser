@@ -1,0 +1,862 @@
+[
+  {
+    "question_id": "Q7.1",
+    "class": 11,
+    "subject": "statistics",
+    "chapter_number": 7,
+    "chapter_name": "correlation",
+    "question_type": "mcq",
+    "question_text": "The unit of correlation coefficient between height in feet and weight in kgs is",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(i)",
+        "option_text": "kg/feet"
+      },
+      {
+        "option_label": "(ii)",
+        "option_text": "percentage"
+      },
+      {
+        "option_label": "(iii)",
+        "option_text": "non-existent"
+      }
+    ],
+    "correct_option": "(iii)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "As there is non-existent of correlation between the height in feet and weight in kilograms, so the unit of correlation between the two is zero.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the unit of correlation is non-existent.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of the concept of correlation coefficient.",
+    "topics_tags": [
+      "Correlation Coefficient",
+      "Statistics",
+      "Measurement"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.2",
+    "class": 11,
+    "subject": "statistics",
+    "chapter_number": 7,
+    "chapter_name": "correlation",
+    "question_type": "mcq",
+    "question_text": "The range of simple correlation coefficient is",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(i)",
+        "option_text": "0 to infinity"
+      },
+      {
+        "option_label": "(ii)",
+        "option_text": "minus one to plus one"
+      },
+      {
+        "option_label": "(iii)",
+        "option_text": "minus infinity to infinity"
+      }
+    ],
+    "correct_option": "(ii)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The range of simple correlation coefficient is from (-) 1 to (+) 1.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the range is from -1 to 1.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of the properties of correlation coefficient.",
+    "topics_tags": [
+      "Correlation Coefficient",
+      "Statistics",
+      "Range"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.3",
+    "class": 11,
+    "subject": "statistics",
+    "chapter_number": 7,
+    "chapter_name": "correlation",
+    "question_type": "mcq",
+    "question_text": "If r is positive the relation between X and Y is of the type",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(i)",
+        "option_text": "When Y increases X increases"
+      },
+      {
+        "option_label": "(ii)",
+        "option_text": "When Y decreases X increases"
+      },
+      {
+        "option_label": "(iii)",
+        "option_text": "When Y increases X does not change"
+      }
+    ],
+    "correct_option": "(i)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "When the variables Y and X share positive relationship (i.e. when Y and X both increases simultaneously), then the value of r is positive.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, a positive r indicates that as Y increases, X also increases.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of the definition of positive correlation.",
+    "topics_tags": [
+      "Positive Correlation",
+      "Statistics",
+      "Variables"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.4",
+    "class": 11,
+    "subject": "statistics",
+    "chapter_number": 7,
+    "chapter_name": "correlation",
+    "question_type": "mcq",
+    "question_text": "If r = 0 the variable X and Y are",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(i)",
+        "option_text": "linearly related"
+      },
+      {
+        "option_label": "(ii)",
+        "option_text": "not linearly related"
+      },
+      {
+        "option_label": "(iii)",
+        "option_text": "independent"
+      }
+    ],
+    "correct_option": "(ii)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The value of r becomes 0 when the two variables are not linearly related to each other.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, r = 0 indicates that X and Y are not linearly related.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of correlation concepts.",
+    "topics_tags": [
+      "Correlation",
+      "Linear Relationship",
+      "Statistics"
+    ],
+    "confidence_score": 0.94,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.5",
+    "class": 11,
+    "subject": "statistics",
+    "chapter_number": 7,
+    "chapter_name": "correlation",
+    "question_type": "mcq",
+    "question_text": "Of the following three measures which can measure any type of relationship",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(i)",
+        "option_text": "Karl Pearson's coefficient of correlation"
+      },
+      {
+        "option_label": "(ii)",
+        "option_text": "Spearman's rank correlation"
+      },
+      {
+        "option_label": "(iii)",
+        "option_text": "Scatter diagram"
+      }
+    ],
+    "correct_option": "(iii)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Scatter diagram can measure any type of relationship whether the variables are highly related or not at all related.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the scatter diagram is the most versatile measure.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of different correlation measures.",
+    "topics_tags": [
+      "Scatter Diagram",
+      "Correlation Measures",
+      "Statistics"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.6",
+    "class": 11,
+    "subject": "statistics",
+    "chapter_number": 7,
+    "chapter_name": "correlation",
+    "question_type": "mcq",
+    "question_text": "If precisely measured data are available the simple correlation coefficient is",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(i)",
+        "option_text": "more accurate than rank correlation coefficient"
+      },
+      {
+        "option_label": "(ii)",
+        "option_text": "less accurate than rank correlation coefficient"
+      },
+      {
+        "option_label": "(iii)",
+        "option_text": "as accurate as the rank correlation coefficient"
+      }
+    ],
+    "correct_option": "(i)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Generally, all the properties of Karl Pearson's coefficient of correlation are similar to that of the rank correlation coefficient.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, it is more accurate when precisely measured data are available.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of correlation coefficients.",
+    "topics_tags": [
+      "Correlation Coefficient",
+      "Statistics",
+      "Accuracy"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.7",
+    "class": 11,
+    "subject": "statistics",
+    "chapter_number": 7,
+    "chapter_name": "correlation",
+    "question_type": "conceptual",
+    "question_text": "Why is r preferred to covariance as a measure of association?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Although correlation coefficient is similar to the covariance in a manner that both measure the degree of linear relationship between two variables, but the former is generally preferred to covariance due to the following reasons: 1. The value of the correlation coefficient (r) lies between 0 and 1. Symbolically -1 ≤ r ≤ +1 2. The correlation coefficient is scale free.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, r is preferred due to its bounded nature and scale-free property.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires explanation of concepts and comparison.",
+    "topics_tags": [
+      "Correlation",
+      "Covariance",
+      "Statistics"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.8",
+    "class": 11,
+    "subject": "statistics",
+    "chapter_number": 7,
+    "chapter_name": "correlation",
+    "question_type": "conceptual",
+    "question_text": "Can r lie outside the -1 and 1 range depending on the type of data?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "No, the value of r cannot lie outside the range of -1 to 1. If r = -1, then there exists perfect negative correlation and if r = 1, then there exists perfect positive correlation between the two variables.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, r must always be within the range of -1 to 1.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of correlation limits.",
+    "topics_tags": [
+      "Correlation",
+      "Statistics",
+      "Range"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.9",
+    "class": 11,
+    "subject": "statistics",
+    "chapter_number": 7,
+    "chapter_name": "correlation",
+    "question_type": "conceptual",
+    "question_text": "Does correlation imply causation?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "No, correlation does not imply causation. The correlation between the two variables does not imply that one variable causes the other.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, correlation only measures the degree of relationship, not causation.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of correlation vs causation.",
+    "topics_tags": [
+      "Correlation",
+      "Causation",
+      "Statistics"
+    ],
+    "confidence_score": 0.93,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.10",
+    "class": 11,
+    "subject": "statistics",
+    "chapter_number": 7,
+    "chapter_name": "correlation",
+    "question_type": "conceptual",
+    "question_text": "When is rank correlation more precise than simple correlation coefficient?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Rank Correlation method is more precise than simple correlation coefficient when the variables cannot be measured quantitatively.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, rank correlation is preferred for qualitative variables or when extreme values are present.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of when to use different correlation methods.",
+    "topics_tags": [
+      "Rank Correlation",
+      "Statistics",
+      "Precision"
+    ],
+    "confidence_score": 0.91,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.11",
+    "class": 11,
+    "subject": "statistics",
+    "chapter_number": 7,
+    "chapter_name": "correlation",
+    "question_type": "conceptual",
+    "question_text": "Does zero correlation mean independence?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Correlation measures the linear relationship between the two variables. So, r being 0 implies the absence of linear relationship.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "However, they may still be non-linearly related, so zero correlation does not imply independence.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of correlation and independence.",
+    "topics_tags": [
+      "Correlation",
+      "Independence",
+      "Statistics"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.12",
+    "class": 11,
+    "subject": "statistics",
+    "chapter_number": 7,
+    "chapter_name": "correlation",
+    "question_type": "conceptual",
+    "question_text": "Can simple correlation coefficient measure any type of relationship?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "No, the simple correlation coefficient cannot measure any type of relationship. It can only measure the direction and magnitude of linear relationship.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, it falls short for non-linear relationships.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of the limitations of correlation coefficients.",
+    "topics_tags": [
+      "Simple Correlation",
+      "Statistics",
+      "Limitations"
+    ],
+    "confidence_score": 0.94,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.13",
+    "class": 11,
+    "subject": "statistics",
+    "chapter_number": 7,
+    "chapter_name": "correlation",
+    "question_type": "conceptual",
+    "question_text": "Collect the price of five vegetables from your local market every day for a week. Calculate their correlation coefficients. Interpret the result.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "This question is about multivariate correlation that is out of syllabus.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "This question is about multivariate correlation that is out of syllabus.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of correlation concepts.",
+    "topics_tags": [
+      "Correlation",
+      "Statistics",
+      "Data Collection"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.14",
+    "class": 11,
+    "subject": "statistics",
+    "chapter_number": 7,
+    "chapter_name": "correlation",
+    "question_type": "numerical",
+    "question_text": "Measure the height of your classmates. Ask them the height of their benchmate. Calculate the correlation coefficient of these two variables. Interpret the result.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Height of Classmate Height of Benchmate\nX Y\n67 65\n56 66\n65 57",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "The correlation coefficient can be calculated based on the provided heights.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires data collection and calculation of correlation coefficient.",
+    "topics_tags": [
+      "Correlation Coefficient",
+      "Height Measurement",
+      "Statistics"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.15",
+    "class": 11,
+    "subject": "statistics",
+    "chapter_number": 7,
+    "chapter_name": "correlation",
+    "question_type": "conceptual",
+    "question_text": "List some variables where accurate measurement is difficult.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The following are the some variables where the accurate measurement is difficult:\n1. Temperature and number of people falling ill.\n2. Change in temperature with the height of mountain.\n3. Low rainfall and agricultural productivity.\n4. High population growth and degree of poverty.\n5. Number of tourists and change in the political atmosphere in India.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "These variables are challenging to measure accurately due to various factors.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of measurement challenges in statistics.",
+    "topics_tags": [
+      "Measurement Challenges",
+      "Statistics",
+      "Variables"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.16",
+    "class": 11,
+    "subject": "statistics",
+    "chapter_number": 7,
+    "chapter_name": "correlation",
+    "question_type": "conceptual",
+    "question_text": "Interpret the values of r as 1, -1 and 0.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The value of r being 1 implies that there is a perfect positive correlation between the two variables involved. A high value of r (i.e. close to 1) represents a strong positive linear relationship between the two variables. If r = -1, then the correlation is perfectly negative. A negative value of r indicates an inverse relation. A low value of r (i.e. close to -1) represents a strong negative linear relationship between the variables. On the other hand, if the value of r = 0, then it implies that the two variables are uncorrelated to each other. But this should not be misunderstood as the variables are independent of each other. The value of r equals zero confirms only the non-existence of any linear relation but the variables may be non-linearly related to each other.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, r values indicate the strength and direction of the linear relationship between variables.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of correlation coefficients.",
+    "topics_tags": [
+      "Correlation Coefficient",
+      "Statistics",
+      "Interpretation"
+    ],
+    "confidence_score": 0.94,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.17",
+    "class": 11,
+    "subject": "statistics",
+    "chapter_number": 7,
+    "chapter_name": "correlation",
+    "question_type": "conceptual",
+    "question_text": "Why does rank correlation coefficient differ from Pearsonian correlation coefficient?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Generally, all the properties of Karl Pearson's coefficient of correlation are similar to that of the rank correlation coefficient. However, rank correlation coefficient is generally lower or equal to Karl Pearson's coefficient. Rank correlation coefficient is generally preferred to measure the correlation between the two qualitative variables. These variable attributes are given the ranks on the basis of preferences. The difference between the two coefficients is due to the fact that the rank correlation coefficient uses ranks instead of the full set of observations that leads to some loss of information. If the precisely measured data are available, then both the coefficients will be identical. Secondly, if extreme values are present in the data, then the rank correlation coefficient is more precise and reliable and consequently its value differs from that of the Karl Pearson's coefficient.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the rank correlation coefficient is often more reliable in the presence of extreme values.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of different correlation methods.",
+    "topics_tags": [
+      "Rank Correlation",
+      "Pearson Correlation",
+      "Statistics"
+    ],
+    "confidence_score": 0.93,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  }
+]

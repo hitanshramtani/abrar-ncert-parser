@@ -1,0 +1,5146 @@
+[
+  {
+    "question_id": "Q1.1",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "relations and functions",
+    "question_type": "mcq",
+    "question_text": "Determine whether each of the following relations are reflexive, symmetric and transitive:\n(i) Relation R in the set A = {1, 2, 3…13, 14} defined as R = {(x, y): 3x − y = 0}\n(ii) Relation R in the set N of natural numbers defined as R = {(x, y): y = x + 5 and x < 4}\n(iii) Relation R in the set A = {1, 2, 3, 4, 5, 6} as R = {(x, y): y is divisible by x}\n(iv) Relation R in the set Z of all integers defined as R = {(x, y): x − y is an integer}\n(v) Relation R in the set A of human beings in a town at a particular time given by\n(a) R = {(x, y): x and y work at the same place}\n(b) R = {(x, y): x and y live in the same locality}\n(c) R = {(x, y): x is exactly 7 cm taller than y}\n(d) R = {(x, y): x is wife of y}\n(e) R = {(x, y): x is father of y}",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "R = {(x, y): x and y work at the same place}"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "R = {(x, y): x and y live in the same locality}"
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "R = {(x, y): x is exactly 7 cm taller than y}"
+      },
+      {
+        "option_label": "(D)",
+        "option_text": "R = {(x, y): x is wife of y}\n(e) R = {(x, y): x is father of y}"
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "An image related to the question context, possibly showing relations or functions.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892650/ncert/maths/1/img_1_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "Relation R in the set A = {1, 2, 3…13, 14} defined as R = {(x, y): 3x − y = 0}",
+        "part_latex": null,
+        "answer_text": "R is neither reflexive, nor symmetric, nor transitive.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Check reflexivity by verifying if (x, x) ∈ R for all x in A.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Check symmetry by verifying if (y, x) ∈ R for all (x, y) ∈ R.",
+            "expression": null
+          },
+          {
+            "step_number": 3,
+            "description": "Check transitivity by verifying if (x, z) ∈ R for all (x, y), (y, z) ∈ R.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Hence, R is neither reflexive, nor symmetric, nor transitive.",
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "Relation R in the set N of natural numbers defined as R = {(x, y): y = x + 5 and x < 4}",
+        "part_latex": null,
+        "answer_text": "R is not reflexive and not symmetric but it is transitive.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Check reflexivity by verifying if (x, x) ∈ R for all x in N.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Check symmetry by verifying if (y, x) ∈ R for all (x, y) ∈ R.",
+            "expression": null
+          },
+          {
+            "step_number": 3,
+            "description": "Check transitivity by verifying if (x, z) ∈ R for all (x, y), (y, z) ∈ R.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Hence, R is not reflexive and not symmetric but it is transitive.",
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "Relation R in the set A = {1, 2, 3, 4, 5, 6} as R = {(x, y): y is divisible by x}",
+        "part_latex": null,
+        "answer_text": "R is reflexive and transitive but not symmetric.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Check reflexivity by verifying if (x, x) ∈ R for all x in A.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Check symmetry by verifying if (y, x) ∈ R for all (x, y) ∈ R.",
+            "expression": null
+          },
+          {
+            "step_number": 3,
+            "description": "Check transitivity by verifying if (x, z) ∈ R for all (x, y), (y, z) ∈ R.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Hence, R is reflexive and transitive but not symmetric.",
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iv)",
+        "part_text": "Relation R in the set Z of all integers defined as R = {(x, y): x − y is an integer}",
+        "part_latex": null,
+        "answer_text": "R is reflexive, symmetric, and transitive.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Check reflexivity by verifying if (x, x) ∈ R for all x in Z.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Check symmetry by verifying if (y, x) ∈ R for all (x, y) ∈ R.",
+            "expression": null
+          },
+          {
+            "step_number": 3,
+            "description": "Check transitivity by verifying if (x, z) ∈ R for all (x, y), (y, z) ∈ R.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Hence, R is reflexive, symmetric, and transitive.",
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(v)",
+        "part_text": "Relation R in the set A of human beings in a town at a particular time given by (a) R = {(x, y): x and y work at the same place}",
+        "part_latex": null,
+        "answer_text": "R is reflexive, symmetric, and transitive.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Check reflexivity by verifying if (x, x) ∈ R for all x in A.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Check symmetry by verifying if (y, x) ∈ R for all (x, y) ∈ R.",
+            "expression": null
+          },
+          {
+            "step_number": 3,
+            "description": "Check transitivity by verifying if (x, z) ∈ R for all (x, y), (y, z) ∈ R.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Hence, R is reflexive, symmetric, and transitive.",
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of properties of relations and multiple checks.",
+    "topics_tags": [
+      "Relations",
+      "Functions",
+      "Mathematics"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "An image related to the question context, possibly showing relations or functions.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892650/ncert/maths/1/img_1_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.2",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "relations and functions",
+    "question_type": "conceptual",
+    "question_text": "Show that the relation R in the set R of real numbers, defined as R = {(a, b): a ≤ b²} is neither reflexive nor symmetric nor transitive.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to the properties of the relation R.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892665/ncert/maths/1/img_5_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "R is not reflexive because (1, 4) ∈ R but (4, 1) ∉ R. R is not symmetric as (1, 4) ∈ R but (4, 1) ∉ R. R is not transitive because (3, 2) and (2, 1.5) ∈ R but (3, 1.5) ∉ R.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Check reflexivity by finding if (a, a) ∈ R for any a.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Check symmetry by finding if (b, a) ∈ R when (a, b) ∈ R.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Check transitivity by finding if (a, b) ∈ R and (b, c) ∈ R implies (a, c) ∈ R.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Hence, R is neither reflexive, nor symmetric, nor transitive.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of properties of relations and applying them to specific examples.",
+    "topics_tags": [
+      "Relations",
+      "Properties of Relations",
+      "Mathematical Proof"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the properties of the relation R.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892665/ncert/maths/1/img_5_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.3",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "relations and functions",
+    "question_type": "conceptual",
+    "question_text": "Check whether the relation R defined in the set {1, 2, 3, 4, 5, 6} as R = {(a, b): b = a + 1} is reflexive, symmetric or transitive.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to the relation R defined on set A.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892667/ncert/maths/1/img_6_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "R is not reflexive because (a, a) ∉ R for all a in A. R is not symmetric as (1, 2) ∈ R but (2, 1) ∉ R. R is not transitive because (1, 2) and (2, 3) ∈ R but (1, 3) ∉ R.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Check reflexivity by finding if (a, a) ∈ R for any a in A.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Check symmetry by finding if (b, a) ∈ R when (a, b) ∈ R.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Check transitivity by finding if (a, b) ∈ R and (b, c) ∈ R implies (a, c) ∈ R.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Hence, R is neither reflexive, nor symmetric, nor transitive.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of properties of relations and applying them to specific examples.",
+    "topics_tags": [
+      "Relations",
+      "Properties of Relations",
+      "Mathematical Proof"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the relation R defined on set A.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892667/ncert/maths/1/img_6_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.4",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "relations and functions",
+    "question_type": "conceptual",
+    "question_text": "Check whether the relation R in R defined as R = {(a, b): a ≤ b³} is reflexive, symmetric or transitive.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image related to the explanation of the relation R.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892669/ncert/maths/1/img_7_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "R is not reflexive, not symmetric, and not transitive.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Check reflexivity by verifying if (a, a) ∈ R for all a.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Check symmetry by verifying if (b, a) ∈ R when (a, b) ∈ R.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Check transitivity by verifying if (a, c) ∈ R when (a, b) ∈ R and (b, c) ∈ R.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Hence, R is neither reflexive, nor symmetric, nor transitive.",
+    "answer_image": {
+      "present": true,
+      "description": "Image related to the conclusion of the relation R.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892670/ncert/maths/1/img_7_1.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of properties of relations.",
+    "topics_tags": [
+      "Relations",
+      "Reflexivity",
+      "Symmetry",
+      "Transitivity"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image related to the explanation of the relation R.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892669/ncert/maths/1/img_7_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image related to the conclusion of the relation R.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892670/ncert/maths/1/img_7_1.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q1.5",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "relations and functions",
+    "question_type": "mcq",
+    "question_text": "Show that the relation R in the set {1, 2, 3} given by R = {(1, 2), (2, 1)} is symmetric but neither reflexive nor transitive.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image related to the explanation of the relation R.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892671/ncert/maths/1/img_8_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "R is symmetric but neither reflexive nor transitive.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Check reflexivity by verifying if (1, 1), (2, 2), (3, 3) ∈ R.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Check symmetry by verifying if (2, 1) ∈ R when (1, 2) ∈ R.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Check transitivity by verifying if (1, 2) and (2, 1) imply (1, 1) ∈ R.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Hence, R is symmetric but neither reflexive nor transitive.",
+    "answer_image": {
+      "present": true,
+      "description": "Image related to the conclusion of the relation R.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892672/ncert/maths/1/img_8_1.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of properties of relations.",
+    "topics_tags": [
+      "Relations",
+      "Symmetry",
+      "Reflexivity",
+      "Transitivity"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image related to the explanation of the relation R.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892671/ncert/maths/1/img_8_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image related to the conclusion of the relation R.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892672/ncert/maths/1/img_8_1.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q1.6",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "relations and functions",
+    "question_type": "conceptual",
+    "question_text": "Show that the relation R in the set A of all the books in a library of a college, given by R = {(x, y): x and y have same number of pages} is an equivalence relation.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image related to the explanation of the equivalence relation R.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892673/ncert/maths/1/img_9_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "R is reflexive, symmetric, and transitive, hence it is an equivalence relation.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Check reflexivity by verifying if (x, x) ∈ R for all x.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Check symmetry by verifying if (y, x) ∈ R when (x, y) ∈ R.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Check transitivity by verifying if (x, z) ∈ R when (x, y) ∈ R and (y, z) ∈ R.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Hence, R is an equivalence relation.",
+    "answer_image": {
+      "present": true,
+      "description": "Image related to the conclusion of the equivalence relation R.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892674/ncert/maths/1/img_9_1.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of equivalence relations and their properties.",
+    "topics_tags": [
+      "Equivalence Relation",
+      "Reflexivity",
+      "Symmetry",
+      "Transitivity"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image related to the explanation of the equivalence relation R.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892673/ncert/maths/1/img_9_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image related to the conclusion of the equivalence relation R.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892674/ncert/maths/1/img_9_1.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q1.7",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "relations and functions",
+    "question_type": "conceptual",
+    "question_text": "Show that the relation R in the set A = {1, 2, 3, 4, 5} is an equivalence relation. Show that all the elements of {1, 3, 5} are related to each other and all the elements of {2, 4} are related to each other.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image related to the explanation of the equivalence relation R.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892675/ncert/maths/1/img_9_2.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "R is reflexive, symmetric, and transitive, hence it is an equivalence relation.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Check reflexivity by verifying if (a, a) ∈ R for all a.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Check symmetry by verifying if (b, a) ∈ R when (a, b) ∈ R.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Check transitivity by verifying if (a, c) ∈ R when (a, b) ∈ R and (b, c) ∈ R.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Hence, R is an equivalence relation.",
+    "answer_image": {
+      "present": true,
+      "description": "Image related to the conclusion of the equivalence relation R.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892676/ncert/maths/1/img_9_3.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of equivalence relations and their properties.",
+    "topics_tags": [
+      "Equivalence Relation",
+      "Reflexivity",
+      "Symmetry",
+      "Transitivity"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image related to the explanation of the equivalence relation R.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892675/ncert/maths/1/img_9_2.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image related to the conclusion of the equivalence relation R.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892676/ncert/maths/1/img_9_3.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q1.8",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "relations and functions",
+    "question_type": "conceptual",
+    "question_text": "Show that each of the relation R in the set, given by (i) is an equivalence relation. Find the set of all elements related to 1 in each case.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram illustrating the equivalence relation properties.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892677/ncert/maths/1/img_10_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "R is reflexive, symmetric, and transitive, hence it is an equivalence relation. The set of elements related to 1 is {1, 5, 9}.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Show that R is reflexive by demonstrating (a, a) ∈ R for any a ∈ A.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Show that R is symmetric by demonstrating if (a, b) ∈ R then (b, a) ∈ R.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Show that R is transitive by demonstrating if (a, b) ∈ R and (b, c) ∈ R then (a, c) ∈ R.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, the set of elements related to 1 is {1, 5, 9}.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of equivalence relations and their properties.",
+    "topics_tags": [
+      "Equivalence Relation",
+      "Reflexive",
+      "Symmetric",
+      "Transitive"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram illustrating the equivalence relation properties.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892677/ncert/maths/1/img_10_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.9",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "relations and functions",
+    "question_type": "conceptual",
+    "question_text": "Given an example of a relation. Which is (i) Symmetric but neither reflexive nor transitive.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram illustrating the properties of the relation.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892680/ncert/maths/1/img_11_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Let A = {5, 6, 7}. Define a relation R on A as R = {(5, 6), (6, 5)}. Relation R is symmetric but not reflexive or transitive.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Define the set A and the relation R.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Show that R is symmetric by demonstrating (5, 6) and (6, 5) are in R.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Show that R is not reflexive as (5, 5), (6, 6), (7, 7) ∉ R.",
+        "expression": null
+      },
+      {
+        "step_number": 4,
+        "description": "Show that R is not transitive as (5, 6) and (6, 5) do not imply (5, 5) ∈ R.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, relation R is symmetric but neither reflexive nor transitive.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of relation properties and providing a specific example.",
+    "topics_tags": [
+      "Symmetric Relation",
+      "Reflexive",
+      "Transitive"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram illustrating the properties of the relation.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892680/ncert/maths/1/img_11_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.10",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "relations and functions",
+    "question_type": "conceptual",
+    "question_text": "Show that the relation R in the set A of points in a plane given by R = {(P, Q): distance of the point P from the origin is same as the distance of the point Q from the origin}, is an equivalence relation. Further, show that the set of all point related to a point P ≠ (0, 0) is the circle passing through P with origin as centre.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram illustrating points in a plane related by distance from the origin.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892684/ncert/maths/1/img_13_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "R is reflexive since (P, P) ∈ R. R is symmetric as (P, Q) ∈ R implies (Q, P) ∈ R. R is transitive since (P, Q) ∈ R and (Q, S) ∈ R implies (P, S) ∈ R. Therefore, R is an equivalence relation. The set of all points related to P forms a circle with the origin as the center.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Show reflexivity by demonstrating (P, P) ∈ R.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Show symmetry by proving (P, Q) ∈ R leads to (Q, P) ∈ R.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Show transitivity by proving (P, Q) ∈ R and (Q, S) ∈ R leads to (P, S) ∈ R.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, R is an equivalence relation and the related points form a circle.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of equivalence relations and geometric interpretation.",
+    "topics_tags": [
+      "Equivalence Relation",
+      "Geometry",
+      "Distance"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram illustrating points in a plane related by distance from the origin.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892684/ncert/maths/1/img_13_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.11",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "relations and functions",
+    "question_type": "conceptual",
+    "question_text": "Show that the relation R defined in the set A of all triangles as R = {(T1, T2): T1 is similar to T2}, is an equivalence relation. Consider three right angle triangles T1 with sides 3, 4, 5, T2 with sides 5, 12, 13 and T3 with sides 6, 8, 10. Which triangles among T1, T2 and T3 are related?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the three right angle triangles with specified sides.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892686/ncert/maths/1/img_14_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "R is reflexive since every triangle is similar to itself. R is symmetric since if T1 is similar to T2, then T2 is similar to T1. R is transitive since if T1 is similar to T2 and T2 is similar to T3, then T1 is similar to T3. Thus, R is an equivalence relation. Triangles T1 and T3 are related as they are similar.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Show reflexivity by demonstrating (T1, T1) ∈ R.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Show symmetry by proving (T1, T2) ∈ R leads to (T2, T1) ∈ R.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Show transitivity by proving (T1, T2) ∈ R and (T2, T3) ∈ R leads to (T1, T3) ∈ R.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, R is an equivalence relation and triangles T1 and T3 are related.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of similarity in triangles and equivalence relations.",
+    "topics_tags": [
+      "Similarity",
+      "Triangles",
+      "Equivalence Relation"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the three right angle triangles with specified sides.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892686/ncert/maths/1/img_14_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.12",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "relations and functions",
+    "question_type": "conceptual",
+    "question_text": "Show that the relation R defined in the set A of all polygons as R = {(P1, P2): P1 and P2 have the same number of sides}, is an equivalence relation. What is the set of all elements in A related to the right angle triangle T with sides 3, 4 and 5?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram illustrating polygons with the same number of sides.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892688/ncert/maths/1/img_15_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "R is reflexive since (P1, P1) ∈ R as the same polygon has the same number of sides with itself. R is symmetric since if (P1, P2) ∈ R, then (P2, P1) ∈ R. R is transitive since if (P1, P2) ∈ R and (P2, P3) ∈ R, then (P1, P3) ∈ R. Thus, R is an equivalence relation. The set of all elements related to the triangle T with sides 3, 4, and 5 would include all right angle triangles.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Show reflexivity by demonstrating (P1, P1) ∈ R.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Show symmetry by proving (P1, P2) ∈ R leads to (P2, P1) ∈ R.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Show transitivity by proving (P1, P2) ∈ R and (P2, P3) ∈ R leads to (P1, P3) ∈ R.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, R is an equivalence relation and includes all polygons with the same number of sides.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of equivalence relations and properties of polygons.",
+    "topics_tags": [
+      "Polygons",
+      "Equivalence Relation",
+      "Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram illustrating polygons with the same number of sides.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892688/ncert/maths/1/img_15_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.13",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "relations and functions",
+    "question_type": "conceptual",
+    "question_text": "Let L be the set of all lines in XY plane and R be the relation in L defined as R = {(L1, L2): L1 is parallel to L2}. Show that R is an equivalence relation. Find the set of all lines related to the line y = 2x + 4.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to lines in the XY plane.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892690/ncert/maths/1/img_16_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "R is reflexive as any line L is parallel to itself. R is symmetric as if L1 is parallel to L2, then L2 is parallel to L1. R is transitive as if L1 is parallel to L2 and L2 is parallel to L3, then L1 is parallel to L3. Hence, R is an equivalence relation. The set of all lines related to the line y = 2x + 4 is given by y = 2x + c, where c ∈ R.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Show that R is reflexive.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Show that R is symmetric.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Show that R is transitive.",
+        "expression": null
+      },
+      {
+        "step_number": 4,
+        "description": "Identify the set of lines parallel to y = 2x + 4.",
+        "expression": "y = 2x + c"
+      }
+    ],
+    "final_answer": "Thus, R is an equivalence relation and the set of all lines related to y = 2x + 4 is y = 2x + c, where c ∈ R.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of equivalence relations and properties of parallel lines.",
+    "topics_tags": [
+      "Equivalence Relation",
+      "Parallel Lines",
+      "Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to lines in the XY plane.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892690/ncert/maths/1/img_16_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.14",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "relations and functions",
+    "question_type": "mcq",
+    "question_text": "Let R be the relation in the set {1, 2, 3, 4} given by R = {(1, 2), (2, 2), (1, 1), (4, 4), (1, 3), (3, 3), (3, 2)}. Choose the correct answer.",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "R is reflexive and symmetric but not transitive."
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "R is reflexive and transitive but not symmetric."
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "R is symmetric and transitive but not reflexive."
+      },
+      {
+        "option_label": "(D)",
+        "option_text": "R is an equivalence relation."
+      }
+    ],
+    "correct_option": "(B)",
+    "question_image": {
+      "present": true,
+      "description": "Question regarding properties of a relation.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892692/ncert/maths/1/img_17_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "R is reflexive and transitive but not symmetric. The correct answer is B.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Check reflexivity: (a, a) ∈ R for all a.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Check symmetry: (1, 2) ∈ R but (2, 1) ∉ R.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Check transitivity: (a, b), (b, c) ∈ R implies (a, c) ∈ R.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Hence, R is reflexive and transitive but not symmetric.",
+    "answer_image": {
+      "present": true,
+      "description": "Image showing the answer to the question.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892693/ncert/maths/1/img_17_1.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of properties of relations.",
+    "topics_tags": [
+      "Relations",
+      "Properties",
+      "Mathematics"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Question regarding properties of a relation.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892692/ncert/maths/1/img_17_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image showing the answer to the question.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892693/ncert/maths/1/img_17_1.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q1.15",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "relations and functions",
+    "question_type": "conceptual",
+    "question_text": "Show that the function f: R → R defined by is one-one and onto, where R is the set of all non-zero real numbers. Is the result true, if the domain R is replaced by N with co-domain being same as R?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Question regarding the function's properties.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892693/ncert/maths/1/img_18_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The function f is one-one and onto. If the domain is replaced by N, the function is not onto as not all real numbers can be achieved.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Prove that f is one-one.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Prove that f is onto.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Consider the case when the domain is N.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the function is one-one and onto for R, but not onto for N.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of function properties and their implications.",
+    "topics_tags": [
+      "Functions",
+      "One-One",
+      "Onto"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Question regarding the function's properties.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892693/ncert/maths/1/img_18_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.16",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "relations and functions",
+    "question_type": "multipart",
+    "question_text": "Check the injectivity and surjectivity of the following functions: (i) f: N → N given by f(x) = x² (ii) f: Z → Z given by f(x) = x² (iii) f: R → R given by f(x) = x² (iv) f: N → N given by f(x) = x³ (v) f: Z → Z given by f(x) = x³",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "f: N → N given by f(x) = x²",
+        "part_latex": null,
+        "answer_text": "f is injective but not surjective.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Show that f(x) = f(y) implies x = y.",
+            "expression": "f(x) = f(y) \\Rightarrow x^2 = y^2 \\Rightarrow x = y"
+          },
+          {
+            "step_number": 2,
+            "description": "Show that there is no x in N such that f(x) = 2.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Hence, function f is injective but not surjective.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "f: Z → Z given by f(x) = x²",
+        "part_latex": null,
+        "answer_text": "f is neither injective nor surjective.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Show that f(-1) = f(1) but -1 ≠ 1.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Show that there is no x in Z such that f(x) = -2.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Hence, function f is neither injective nor surjective.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "f: R → R given by f(x) = x²",
+        "part_latex": null,
+        "answer_text": "f is neither injective nor surjective.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Show that f(-1) = f(1) but -1 ≠ 1.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Show that there is no x in R such that f(x) = -2.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Hence, function f is neither injective nor surjective.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iv)",
+        "part_text": "f: N → N given by f(x) = x³",
+        "part_latex": null,
+        "answer_text": "f is injective but not surjective.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Show that f(x) = f(y) implies x = y.",
+            "expression": "f(x) = f(y) \\Rightarrow x^3 = y^3 \\Rightarrow x = y"
+          },
+          {
+            "step_number": 2,
+            "description": "Show that there is no x in N such that f(x) = 2.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Hence, function f is injective but not surjective.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(v)",
+        "part_text": "f: Z → Z given by f(x) = x³",
+        "part_latex": null,
+        "answer_text": "f is injective but not surjective.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Show that f(x) = f(y) implies x = y.",
+            "expression": "f(x) = f(y) \\Rightarrow x^3 = y^3 \\Rightarrow x = y"
+          },
+          {
+            "step_number": 2,
+            "description": "Show that there is no x in Z such that f(x) = 2.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Hence, function f is injective but not surjective.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of injectivity and surjectivity concepts and multiple evaluations.",
+    "topics_tags": [
+      "Injective Functions",
+      "Surjective Functions",
+      "Mathematical Functions"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.17",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "relations and functions",
+    "question_type": "conceptual",
+    "question_text": "Prove that the Greatest Integer Function f: R → R given by f(x) = [x], is neither one-one nor onto.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The greatest integer function is neither one-one nor onto.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Show that f(1.2) = f(1.9) but 1.2 ≠ 1.9.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Show that there is no x in R such that f(x) = 0.7.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Hence, the greatest integer function is neither one-one nor onto.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of the greatest integer function and its properties.",
+    "topics_tags": [
+      "Greatest Integer Function",
+      "Injective Functions",
+      "Surjective Functions"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.18",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "relations and functions",
+    "question_type": "conceptual",
+    "question_text": "Show that the Modulus Function f: R → R given by f(x) = |x|, is neither one-one nor onto.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The modulus function is neither one-one nor onto.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Show that f(-1) = f(1) but -1 ≠ 1.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Show that there is no x in R such that f(x) = -1.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Hence, the modulus function is neither one-one nor onto.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of the modulus function and its properties.",
+    "topics_tags": [
+      "Modulus Function",
+      "Injective Functions",
+      "Surjective Functions"
+    ],
+    "confidence_score": 0.97,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.19",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "relations and functions",
+    "question_type": "conceptual",
+    "question_text": "Show that the Signum Function f: R → R, given by f(x) = sign(x), is neither one-one nor onto.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The signum function is neither one-one nor onto.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Show that f(1) = f(2) = 1 but 1 ≠ 2.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Hence, the signum function is neither one-one nor onto.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of the signum function and its properties.",
+    "topics_tags": [
+      "Signum Function",
+      "Injective Functions",
+      "Surjective Functions"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.20",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "relations and functions",
+    "question_type": "mcq",
+    "question_text": "Let A = {1, 2, 3}, B = {4, 5, 6, 7} and let f = {(1, 4), (2, 5), (3, 6)} be a function from A to B. Show that f is one-one.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "It is seen that the images of distinct elements of A under f are distinct. Hence, function f is one-one.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the function f and its mapping.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Show that distinct elements in A map to distinct elements in B.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, f is one-one.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of one-one functions and basic justification.",
+    "topics_tags": [
+      "Functions",
+      "One-One Function",
+      "Set Theory"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.21",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "relations and functions",
+    "question_type": "conceptual",
+    "question_text": "In each of the following cases, state whether the function is one-one, onto or bijective. Justify your answer. (i) f: R → R defined by f(x) = 3 − 4x (ii) f: R → R defined by f(x) = 1 + x^2",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram or illustration related to the functions discussed.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892703/ncert/maths/1/img_22_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "f: R → R is defined as f(x) = 3 − 4x.",
+        "part_latex": null,
+        "answer_text": "f is one-one. For any real number (y) in R, there exists in R such that f is onto.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Show that f is one-one by demonstrating that distinct inputs yield distinct outputs.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Show that for every y in R, there exists an x such that f(x) = y.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Hence, f is bijective.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "f: R → R is defined as f(x) = 1 + x^2.",
+        "part_latex": null,
+        "answer_text": "f is not one-one. It is seen that f is not onto as there does not exist any x in domain R such that f(x) = -2.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify that f(x) = 1 + x^2 is always positive.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Show that there are values in the co-domain that cannot be achieved by f.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, f is neither one-one nor onto.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of function properties and justification for each case.",
+    "topics_tags": [
+      "Functions",
+      "One-One Function",
+      "Onto Function",
+      "Bijective Function"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram or illustration related to the functions discussed.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892703/ncert/maths/1/img_22_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.22",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "relations and functions",
+    "question_type": "conceptual",
+    "question_text": "Is f one-one and onto? Justify your answer.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to the function f: A → B.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892722/ncert/maths/1/img_25_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Hence, function f is one-one and onto.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, function f is one-one and onto.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of one-one and onto functions.",
+    "topics_tags": [
+      "Functions",
+      "One-One Function",
+      "Onto Function"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the function f: A → B.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892722/ncert/maths/1/img_25_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.23",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "relations and functions",
+    "question_type": "mcq",
+    "question_text": "Let f: R → R be defined as f(x) = x^4. Choose the correct answer.",
+    "question_latex": "f(x) = x^4",
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "f is one-one onto"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "f is many-one onto"
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "f is one-one but not onto"
+      },
+      {
+        "option_label": "(D)",
+        "option_text": "f is neither one-one nor onto"
+      }
+    ],
+    "correct_option": "(D)",
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to the function f: R → R.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892727/ncert/maths/1/img_26_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Hence, function f is neither one-one nor onto.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "The correct answer is D.",
+    "answer_image": {
+      "present": true,
+      "description": "Answer indicating that function f is neither one-one nor onto.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892728/ncert/maths/1/img_26_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding properties of functions and justifying the answer.",
+    "topics_tags": [
+      "Functions",
+      "One-One Function",
+      "Onto Function"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the function f: R → R.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892727/ncert/maths/1/img_26_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Answer indicating that function f is neither one-one nor onto.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892728/ncert/maths/1/img_26_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q1.24",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "relations and functions",
+    "question_type": "mcq",
+    "question_text": "Let f: R → R be defined as f(x) = 3x. Choose the correct answer.",
+    "question_latex": "f(x) = 3x",
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "f is one-one onto"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "f is many-one onto"
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "f is one-one but not onto"
+      },
+      {
+        "option_label": "(D)",
+        "option_text": "f is neither one-one nor onto"
+      }
+    ],
+    "correct_option": "(A)",
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to the function f: R → R.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892730/ncert/maths/1/img_27_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Hence, function f is one-one and onto.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "The correct answer is A.",
+    "answer_image": {
+      "present": true,
+      "description": "Answer indicating that function f is one-one and onto.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892731/ncert/maths/1/img_27_1.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of one-one and onto functions.",
+    "topics_tags": [
+      "Functions",
+      "One-One Function",
+      "Onto Function"
+    ],
+    "confidence_score": 0.88,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the function f: R → R.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892730/ncert/maths/1/img_27_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Answer indicating that function f is one-one and onto.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892731/ncert/maths/1/img_27_1.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q1.25",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "relations and functions",
+    "question_type": "mcq",
+    "question_text": "Let f: {1, 3, 4} → {1, 2, 5} and g: {1, 2, 5} → {1, 3} be given by f = {(1, 2), (3, 5), (4, 1)} and g = {(1, 3), (2, 3), (5, 1)}. Write down gof.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the functions f and g with their mappings.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892737/ncert/maths/1/img_28_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The functions f: {1, 3, 4} → {1, 2, 5} and g: {1, 2, 5} → {1, 3} are defined as f = {(1, 2), (3, 5), (4, 1)} and g = {(1, 3), (2, 3), (5, 1)}.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, gof can be determined by applying g to the output of f.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of function composition.",
+    "topics_tags": [
+      "Function Composition",
+      "Relations",
+      "Mathematics"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the functions f and g with their mappings.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892737/ncert/maths/1/img_28_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.26",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "relations and functions",
+    "question_type": "conceptual",
+    "question_text": "Let f, g and h be functions from R to R. Show that.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram or text showing functions f, g, and h.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892738/ncert/maths/1/img_28_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "To prove: The statement regarding functions f, g, and h.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "The proof will demonstrate the relationship between the functions.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding and proving properties of functions.",
+    "topics_tags": [
+      "Functions",
+      "Real Numbers",
+      "Mathematics"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram or text showing functions f, g, and h.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892738/ncert/maths/1/img_28_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.27",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "relations and functions",
+    "question_type": "conceptual",
+    "question_text": "Find gof and fog, if.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram or text showing the functions for gof and fog.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892744/ncert/maths/1/img_29_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "To find gof and fog, we need the definitions of functions g and f.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "The results will depend on the specific definitions of g and f.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires basic understanding of function composition.",
+    "topics_tags": [
+      "Function Composition",
+      "Mathematics",
+      "Relations"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram or text showing the functions for gof and fog.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892744/ncert/maths/1/img_29_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.28",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "relations and functions",
+    "question_type": "conceptual",
+    "question_text": "If , show that f o f(x) = x, for all . What is the inverse of f?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "It is given that . Hence, the given function f is invertible and the inverse of f is f itself.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the inverse of f is f itself.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram or text showing the function f and its properties.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892749/ncert/maths/1/img_30_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of function properties and inverses.",
+    "topics_tags": [
+      "Inverse Functions",
+      "Mathematics",
+      "Relations"
+    ],
+    "confidence_score": 0.91,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram or text showing the function f and its properties.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892749/ncert/maths/1/img_30_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q1.29",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "relations and functions",
+    "question_type": "conceptual",
+    "question_text": "Show that f: [−1, 1] → R, given by is one-one. Find the inverse of the function f: [−1, 1] → Range f.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to the function f and its properties.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892755/ncert/maths/1/img_32_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "f: [−1, 1] → R is given as. Let f(x) = f(y). ∴ f is a one-one function. It is clear that f: [−1, 1] → Range f is onto. ∴ f: [−1, 1] → Range f is one-one and onto and therefore, the inverse of the function exists.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Assume f(x) = f(y) to show that f is one-one.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Show that f is onto by demonstrating that every element in Range f is covered.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the inverse of the function exists.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of one-one and onto functions and their inverses.",
+    "topics_tags": [
+      "One-One Function",
+      "Inverse Function",
+      "Relations"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the function f and its properties.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892755/ncert/maths/1/img_32_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.30",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "relations and functions",
+    "question_type": "conceptual",
+    "question_text": "Consider f: R → R given by f(x) = 4x + 3. Show that f is invertible. Find the inverse of f.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "f: R → R is given by, f(x) = 4x + 3. To show that f is one-one, we assume f(x) = f(y). Therefore, for any y ∈ R, there exists such that f is onto. Thus, f is one-one and onto and therefore, f−1 exists.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Assume f(x) = f(y) to show that f is one-one.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Show that for any y ∈ R, there exists an x such that f(x) = y to prove f is onto.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Hence, f is invertible and the inverse of f is given by g(y) = (y-3)/4.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram related to the function f(x) = 4x + 3 and its properties.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892759/ncert/maths/1/img_33_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of linear functions and their inverses.",
+    "topics_tags": [
+      "Invertible Function",
+      "Linear Function",
+      "Inverse Function"
+    ],
+    "confidence_score": 0.88,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the function f(x) = 4x + 3 and its properties.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892759/ncert/maths/1/img_33_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q1.31",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "relations and functions",
+    "question_type": "conceptual",
+    "question_text": "Consider f: R → [−5, ∞) given by f(x) = 9x² + 6x − 5. Show that f is invertible.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram illustrating the function f(x) = 9x² + 6x - 5.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892767/ncert/maths/1/img_35_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "f: R → [−5, ∞) is given as f(x) = 9x² + 6x − 5. Let y be an arbitrary element of [−5, ∞). Let y = 9x² + 6x − 5.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, f is invertible.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of function properties and basic algebra.",
+    "topics_tags": [
+      "Invertible Functions",
+      "Quadratic Functions",
+      "Function Properties"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram illustrating the function f(x) = 9x² + 6x - 5.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892767/ncert/maths/1/img_35_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.32",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "relations and functions",
+    "question_type": "conceptual",
+    "question_text": "Let f: X → Y be an invertible function. Show that f has a unique inverse.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Let f: X → Y be an invertible function. Also, suppose f has two inverses (say g1 and g2). Then, for all y ∈ Y, we have: fog1(y) = I(y) = fog2(y).",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, f has a unique inverse.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram illustrating the concept of unique inverse functions.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892770/ncert/maths/1/img_36_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of function inverses and logical reasoning.",
+    "topics_tags": [
+      "Unique Inverse",
+      "Invertible Functions",
+      "Function Theory"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram illustrating the concept of unique inverse functions.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892770/ncert/maths/1/img_36_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q1.33",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "relations and functions",
+    "question_type": "mcq",
+    "question_text": "Consider f: {1, 2, 3} → {a, b, c} given by f(1) = a, f(2) = b and f(3) = c. Find f−1 and show that (f−1)−1 = f.",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(1)",
+        "option_text": "= a, f"
+      },
+      {
+        "option_label": "(2)",
+        "option_text": "= b and f"
+      },
+      {
+        "option_label": "(3)",
+        "option_text": "= c. Find f−1 and show that (f−1)−1 = f."
+      }
+    ],
+    "correct_option": "(A)",
+    "question_image": {
+      "present": true,
+      "description": "Diagram illustrating the function f and its inverse.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892774/ncert/maths/1/img_37_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The inverse of f exists and f−1 = g, where g: {a, b, c} → {1, 2, 3} is defined as g(a) = 1, g(b) = 2, g(c) = 3. Hence, (f−1)−1 = f.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Define the function g as the inverse of f.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Show that applying the inverse function twice returns the original function.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, we conclude that (f−1)−1 = f.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the relationship between f and its inverse.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892776/ncert/maths/1/img_37_3.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of inverse functions and their properties.",
+    "topics_tags": [
+      "Inverse Functions",
+      "Relations",
+      "Mathematics"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram illustrating the function f and its inverse.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892774/ncert/maths/1/img_37_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the relationship between f and its inverse.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892776/ncert/maths/1/img_37_3.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q1.34",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "relations and functions",
+    "question_type": "conceptual",
+    "question_text": "Let f: X → Y be an invertible function. Show that the inverse of f−1 is f, i.e., (f−1)−1 = f.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram illustrating the relationship between f and its inverse.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892776/ncert/maths/1/img_38_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Since f is invertible, we have g: Y → X such that gof = I and fog = I. Therefore, (f−1)−1 = f.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Define the function g as the inverse of f.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Show that applying the inverse function twice returns the original function.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, we conclude that (f−1)−1 = f.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the relationship between f and its inverse.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892778/ncert/maths/1/img_38_2.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of inverse functions and their properties.",
+    "topics_tags": [
+      "Inverse Functions",
+      "Relations",
+      "Mathematics"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram illustrating the relationship between f and its inverse.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892776/ncert/maths/1/img_38_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the relationship between f and its inverse.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892778/ncert/maths/1/img_38_2.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q1.35",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "relations and functions",
+    "question_type": "multipart",
+    "question_text": "Determine whether or not each of the definition of given below gives a binary operation. In the event that * is not a binary operation, give justification for this. (i) On Z+, define * by a * b = a − b (ii) On Z+, define * by a * b = ab (iii) On R, define * by a * b = ab² (iv) On Z+, define * by a * b = |a − b| (v) On Z+, define * by a * b = a",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image related to the question about binary operations.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892785/ncert/maths/1/img_41_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "On Z+, * is defined by a * b = a − b.",
+        "part_latex": null,
+        "answer_text": "It is not a binary operation as the image of (1, 2) under * is 1 * 2 = 1 − 2 = −1 ∉ Z+.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Therefore, * is not a binary operation.",
+        "answer_image": {
+          "present": true,
+          "description": "Image showing the answer to part (i).",
+          "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892785/ncert/maths/1/img_41_1.jpg",
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "answer"
+        },
+        "question_images": [],
+        "answer_images": [
+          {
+            "present": true,
+            "description": "Image showing the answer to part (i).",
+            "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892785/ncert/maths/1/img_41_1.jpg",
+            "latex_extracted": null,
+            "source_page_number": null,
+            "source_image_index": null,
+            "ownership": "answer"
+          }
+        ],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "On Z+, * is defined by a * b = ab.",
+        "part_latex": null,
+        "answer_text": "It is seen that for each a, b ∈ Z+, there is a unique element ab in Z+. Therefore, * is a binary operation.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, * is a binary operation.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "On R, * is defined by a * b = ab².",
+        "part_latex": null,
+        "answer_text": "It is seen that for each a, b ∈ R, there is a unique element ab² in R. Therefore, * is a binary operation.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, * is a binary operation.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iv)",
+        "part_text": "On Z+, * is defined by a * b = |a − b|.",
+        "part_latex": null,
+        "answer_text": "It is seen that for each a, b ∈ Z+, there is a unique element |a − b| in Z+. Therefore, * is a binary operation.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, * is a binary operation.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(v)",
+        "part_text": "On Z+, * is defined by a * b = a.",
+        "part_latex": null,
+        "answer_text": "* carries each pair (a, b) to a unique element a * b = a in Z+. Therefore, * is a binary operation.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, * is a binary operation.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of binary operations and justification for each case.",
+    "topics_tags": [
+      "Binary Operations",
+      "Set Theory",
+      "Mathematical Justification"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image related to the question about binary operations.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892785/ncert/maths/1/img_41_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.36",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "relations and functions",
+    "question_type": "multipart",
+    "question_text": "For each binary operation * defined below, determine whether * is commutative or associative. (i) On Z, define a * b = a − b (ii) On Q, define a * b = ab + 1 (iii) On Q, define a * b (iv) On Z+, define a * b = 2ab (v) On Z+, define a * b = ab (vi) On R − {−1}, define",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image related to the question about commutative and associative properties.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892786/ncert/maths/1/img_42_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "On Z, * is defined by a * b = a − b.",
+        "part_latex": null,
+        "answer_text": "It can be observed that 1 * 2 = 1 − 2 = -1 and 2 * 1 = 2 − 1 = 1. ∴1 * 2 ≠ 2 * 1; where 1, 2 ∈ Z. Hence, the operation * is not commutative.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Therefore, the operation * is not commutative.",
+        "answer_image": {
+          "present": true,
+          "description": "Image showing the answer to part (i).",
+          "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892787/ncert/maths/1/img_42_1.jpg",
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "answer"
+        },
+        "question_images": [],
+        "answer_images": [
+          {
+            "present": true,
+            "description": "Image showing the answer to part (i).",
+            "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892787/ncert/maths/1/img_42_1.jpg",
+            "latex_extracted": null,
+            "source_page_number": null,
+            "source_image_index": null,
+            "ownership": "answer"
+          }
+        ],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "On Q, * is defined by a * b = ab + 1.",
+        "part_latex": null,
+        "answer_text": "It is known that ab = ba ∀ a, b ∈ Q. Therefore, the operation * is commutative.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, the operation * is commutative.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "On Q, * is defined by a * b.",
+        "part_latex": null,
+        "answer_text": "Answer is missing for this part.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iv)",
+        "part_text": "On Z+, * is defined by a * b = 2ab.",
+        "part_latex": null,
+        "answer_text": "It can be observed that a * b = 2ab = 2ba = b * a. Therefore, the operation * is commutative.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, the operation * is commutative.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(v)",
+        "part_text": "On Z+, * is defined by a * b = ab.",
+        "part_latex": null,
+        "answer_text": "It is known that ab = ba ∀ a, b ∈ Z+. Therefore, the operation * is commutative.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, the operation * is commutative.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(vi)",
+        "part_text": "On R − {−1}, define",
+        "part_latex": null,
+        "answer_text": "Answer is missing for this part.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of commutative and associative properties for various operations.",
+    "topics_tags": [
+      "Commutative Property",
+      "Associative Property",
+      "Binary Operations"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image related to the question about commutative and associative properties.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892786/ncert/maths/1/img_42_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.37",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "relations and functions",
+    "question_type": "conceptual",
+    "question_text": "Consider the binary operation ∨ on the set {1, 2, 3, 4, 5} defined by a ∨ b = min {a, b}. Write the operation table of the operation ∨.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The binary operation ∨ on the set {1, 2, 3, 4, 5} is defined as a ∨ b = min {a, b}. Thus, the operation table for the given operation ∨ can be given as: \n∨ 1 2 3 4 5\n1 1 1 1 1 1\n2 1 2 2 2 2\n3 1 2 3 3 3\n4 1 2 3 4 4\n5 1 2 3 4 5",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "The operation table for the binary operation ∨ is provided above.",
+    "answer_image": {
+      "present": true,
+      "description": "Operation table for the binary operation ∨ on the set {1, 2, 3, 4, 5}.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892791/ncert/maths/1/img_44_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of binary operations and constructing a table.",
+    "topics_tags": [
+      "Binary Operations",
+      "Set Theory",
+      "Mathematical Functions"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Operation table for the binary operation ∨ on the set {1, 2, 3, 4, 5}.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892791/ncert/maths/1/img_44_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q1.38",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "relations and functions",
+    "question_type": "mcq",
+    "question_text": "Consider a binary operation * on the set {1, 2, 3, 4, 5} given by the following multiplication table. (i) Compute (2 * 3) * 4 and 2 * (3 * 4). (ii) Is * commutative? (iii) Compute (2 * 3) * (4 * 5).",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Multiplication table for the binary operation * on the set {1, 2, 3, 4, 5}.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892795/ncert/maths/1/img_45_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "(2 * 3) * 4 and 2 * (3 * 4)",
+        "part_latex": null,
+        "answer_text": "(2 * 3) * 4 = 1 * 4 = 1; 2 * (3 * 4) = 2 * 1 = 1.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Find the value of (2 * 3) using the table.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Use the result to compute (2 * 3) * 4.",
+            "expression": null
+          },
+          {
+            "step_number": 3,
+            "description": "Find the value of (3 * 4) using the table.",
+            "expression": null
+          },
+          {
+            "step_number": 4,
+            "description": "Use the result to compute 2 * (3 * 4).",
+            "expression": null
+          }
+        ],
+        "final_answer": "Both computations yield 1.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "Is * commutative?",
+        "part_latex": null,
+        "answer_text": "For every a, b ∈ {1, 2, 3, 4, 5}, we have a * b = b * a. Therefore, the operation * is commutative.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "The operation * is commutative.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "(2 * 3) * (4 * 5)",
+        "part_latex": null,
+        "answer_text": "(2 * 3) = 1 and (4 * 5) = 1.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "The result is 1.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations and understanding of commutativity.",
+    "topics_tags": [
+      "Binary Operations",
+      "Commutativity",
+      "Mathematical Functions"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Multiplication table for the binary operation * on the set {1, 2, 3, 4, 5}.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892795/ncert/maths/1/img_45_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.39",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "relations and functions",
+    "question_type": "mcq",
+    "question_text": "Let *′ be the binary operation on the set {1, 2, 3, 4, 5} defined by a *′ b = H.C.F. of a and b. Is the operation *′ same as the operation * defined in Exercise 4 above? Justify your answer.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing operation tables for binary operations.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892797/ncert/maths/1/img_46_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The binary operation *′ on the set {1, 2, 3, 4, 5} is defined as a *′ b = H.C.F of a and b. The operation table for the operation *′ can be given as: *′ 1 2 3 4 5 1 1 1 1 1 1 2 1 2 1 2 1 3 1 1 3 1 1 4 1 2 1 4 1 5 1 1 1 1 5. We observe that the operation tables for the operations * and *′ are the same. Thus, the operation *′ is same as the operation *.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the operation *′ is the same as the operation *.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of binary operations and justification.",
+    "topics_tags": [
+      "Binary Operations",
+      "H.C.F.",
+      "Set Theory"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing operation tables for binary operations.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892797/ncert/maths/1/img_46_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.40",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "relations and functions",
+    "question_type": "mcq",
+    "question_text": "Let * be the binary operation on N given by a * b = L.C.M. of a and b. Find (i) 5 * 7, 20 * 16 (ii) Is * commutative? (iii) Is * associative? (iv) Find the identity of * in N (v) Which elements of N are invertible for the operation *?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing operation tables for binary operations.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892798/ncert/maths/1/img_46_1.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "5 * 7, 20 * 16",
+        "part_latex": null,
+        "answer_text": "5 * 7 = 35, 20 * 16 = 80.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate L.C.M. of 5 and 7.",
+            "expression": "L.C.M(5, 7) = 35"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate L.C.M. of 20 and 16.",
+            "expression": "L.C.M(20, 16) = 80"
+          }
+        ],
+        "final_answer": "Thus, 5 * 7 = 35 and 20 * 16 = 80.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "Is * commutative?",
+        "part_latex": null,
+        "answer_text": "Yes, * is commutative.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, the operation * is commutative.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "Is * associative?",
+        "part_latex": null,
+        "answer_text": "Yes, * is associative.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, the operation * is associative.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iv)",
+        "part_text": "Find the identity of * in N",
+        "part_latex": null,
+        "answer_text": "The identity of * in N is 1.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, 1 is the identity element.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(v)",
+        "part_text": "Which elements of N are invertible for the operation *?",
+        "part_latex": null,
+        "answer_text": "Only 1 is invertible for the operation *.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, 1 is the only invertible element.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple concepts of binary operations and their properties.",
+    "topics_tags": [
+      "L.C.M.",
+      "Commutative Property",
+      "Associative Property"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing operation tables for binary operations.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892798/ncert/maths/1/img_46_1.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.41",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "relations and functions",
+    "question_type": "conceptual",
+    "question_text": "Find which of the binary operations are commutative and which are associative.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image showing operations defined on Q and their properties regarding commutativity and associativity.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892802/ncert/maths/1/img_49_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The operations defined in (ii), (iv), (v) are commutative and the operation defined in (v) is associative.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Evaluate the operation * defined as a * b = a - b.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Determine that the operation is not commutative.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Evaluate the operation * defined as a * b = a^2 + b^2.",
+        "expression": null
+      },
+      {
+        "step_number": 4,
+        "description": "Determine that the operation is commutative.",
+        "expression": null
+      },
+      {
+        "step_number": 5,
+        "description": "Evaluate the operation * defined as a * b = a + ab.",
+        "expression": null
+      },
+      {
+        "step_number": 6,
+        "description": "Determine that the operation is not associative.",
+        "expression": null
+      },
+      {
+        "step_number": 7,
+        "description": "Evaluate the operation * defined as a * b = (a - b)^2.",
+        "expression": null
+      },
+      {
+        "step_number": 8,
+        "description": "Determine that the operation is commutative.",
+        "expression": null
+      },
+      {
+        "step_number": 9,
+        "description": "Evaluate the operation * defined as a * b = ab^2.",
+        "expression": null
+      },
+      {
+        "step_number": 10,
+        "description": "Determine that the operation is not commutative and not associative.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Hence, the operations defined in (ii), (iv), (v) are commutative and the operation defined in (v) is associative.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of commutative and associative properties and evaluating multiple operations.",
+    "topics_tags": [
+      "Binary Operations",
+      "Commutativity",
+      "Associativity"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image showing operations defined on Q and their properties regarding commutativity and associativity.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892802/ncert/maths/1/img_49_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.42",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "relations and functions",
+    "question_type": "conceptual",
+    "question_text": "Find which of the operations given above has identity.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image related to the question about identity in operations.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892814/ncert/maths/1/img_52_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Thus, none of the six operations has identity.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, there is no identity element for the operations.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of identity elements in operations.",
+    "topics_tags": [
+      "Identity Element",
+      "Binary Operations",
+      "Algebra"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image related to the question about identity in operations.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892814/ncert/maths/1/img_52_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.43",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "relations and functions",
+    "question_type": "mcq",
+    "question_text": "Let A = N × N and * be the binary operation on A defined by (a, b) * (c, d) = (a + c, b + d). Show that * is commutative and associative. Find the identity element for * on A, if any.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, the operation * is commutative. However, it does not have any identity element.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the operation * is commutative but does not have an identity element.",
+    "answer_image": {
+      "present": true,
+      "description": "Image related to the question about commutativity and associativity of operations.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892816/ncert/maths/1/img_53_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding and proving properties of binary operations.",
+    "topics_tags": [
+      "Commutative Property",
+      "Associative Property",
+      "Binary Operations"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image related to the question about commutativity and associativity of operations.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892816/ncert/maths/1/img_53_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q1.44",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "relations and functions",
+    "question_type": "mcq",
+    "question_text": "State whether the following statements are true or false. Justify. (i) For an arbitrary binary operation * on a set N, a * a = a a * N. (ii) If * is a commutative binary operation on N, then a * (b * c) = (c * b) * a.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Statement (i) is false, and statement (ii) is true.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, statement (i) is false and statement (ii) is true.",
+    "answer_image": {
+      "present": true,
+      "description": "Image related to the question about truth values of statements in binary operations.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892817/ncert/maths/1/img_53_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of properties of binary operations and justification.",
+    "topics_tags": [
+      "True/False Statements",
+      "Binary Operations",
+      "Algebra"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image related to the question about truth values of statements in binary operations.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892817/ncert/maths/1/img_53_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q1.45",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "relations and functions",
+    "question_type": "mcq",
+    "question_text": "Consider a binary operation * on N defined as a * b = a^3 + b^3. Choose the correct answer. (A) Is * both associative and commutative? (B) Is * commutative but not associative? (C) Is * associative but not commutative? (D) Is * neither commutative nor associative?",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "Is * both associative and commutative?"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "Is * commutative but not associative?"
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "Is * associative but not commutative?"
+      },
+      {
+        "option_label": "(D)",
+        "option_text": "Is * neither commutative nor associative?"
+      }
+    ],
+    "correct_option": "(B)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Hence, the operation * is commutative, but not associative. Thus, the correct answer is B.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the correct answer is B.",
+    "answer_image": {
+      "present": true,
+      "description": "Image related to the question about properties of the binary operation defined on N.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892819/ncert/maths/1/img_54_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding and proving properties of a defined binary operation.",
+    "topics_tags": [
+      "Binary Operations",
+      "Commutativity",
+      "Associativity"
+    ],
+    "confidence_score": 0.93,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image related to the question about properties of the binary operation defined on N.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892819/ncert/maths/1/img_54_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q1.46",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "relations and functions",
+    "question_type": "mcq",
+    "question_text": "Let f: R → R be defined as f(x) = 10x + 7. Find the function g: R → R such that g o f = f and o g = 1.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image related to the function definition and properties.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892821/ncert/maths/1/img_55_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The function g is defined as the inverse of f, which is g(x) = (x - 7)/10.",
+    "answer_latex": "g(x) = \frac{x - 7}{10}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Show that f is one-one by proving f(x) = f(y) implies x = y.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Show that f is onto by demonstrating that for every y in R, there exists an x such that f(x) = y.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Define g as the inverse of f.",
+        "expression": "g(x) = \frac{x - 7}{10}"
+      }
+    ],
+    "final_answer": "Thus, the function g is defined as g(x) = (x - 7)/10.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of function properties and finding inverses.",
+    "topics_tags": [
+      "Functions",
+      "Inverse Functions",
+      "One-One Functions"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image related to the function definition and properties.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892821/ncert/maths/1/img_55_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.47",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "relations and functions",
+    "question_type": "conceptual",
+    "question_text": "Let f: W → W be defined as f(n) = n − 1, if n is odd and f(n) = n + 1, if n is even. Show that f is invertible. Find the inverse of f.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The function f is invertible, and its inverse is f itself.",
+    "answer_latex": "f^{-1} = f",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Show that f is one-one by proving f(n) = f(m) implies n = m.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Show that f is onto by demonstrating that every element in W has a pre-image.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Conclude that f is invertible and define the inverse.",
+        "expression": "f^{-1} = f"
+      }
+    ],
+    "final_answer": "Hence, the inverse of f is f itself.",
+    "answer_image": {
+      "present": true,
+      "description": "Image related to the function definition and properties.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892823/ncert/maths/1/img_56_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of function properties and proving invertibility.",
+    "topics_tags": [
+      "Invertible Functions",
+      "One-One Functions",
+      "Even and Odd Functions"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image related to the function definition and properties.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892823/ncert/maths/1/img_56_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q1.48",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "relations and functions",
+    "question_type": "conceptual",
+    "question_text": "If f: R → R is defined by f(x) = x^2 − 3x + 2, find f(f(x)).",
+    "question_latex": "f(x) = x^2 - 3x + 2",
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image related to the function definition.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892825/ncert/maths/1/img_57_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires substitution and understanding of function composition.",
+    "topics_tags": [
+      "Function Composition",
+      "Quadratic Functions",
+      "Algebra"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image related to the function definition.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892825/ncert/maths/1/img_57_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.49",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "relations and functions",
+    "question_type": "conceptual",
+    "question_text": "Show that the function f: R → R given by f(x) = x³ is injective.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "f: R → R is given as f(x) = x³. Suppose f(x) = f(y), where x, y ∈ R. Then, x³ = y³. Now, we need to show that x = y. Suppose x ≠ y, their cubes will also not be equal. This leads to a contradiction, hence x = y. Therefore, f is injective.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Assume f(x) = f(y) and set up the equation x³ = y³.",
+        "expression": "x³ = y³"
+      },
+      {
+        "step_number": 2,
+        "description": "Assume x ≠ y, which implies x³ ≠ y³, leading to a contradiction.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Conclude that x must equal y, proving injectivity.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Hence, f is injective.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of injective functions and basic algebra.",
+    "topics_tags": [
+      "Injective Functions",
+      "Relations",
+      "Functions"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.50",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "relations and functions",
+    "question_type": "conceptual",
+    "question_text": "Give examples of two functions f: N → Z and g: Z → Z such that g o f is injective but g is not injective.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Define f: N → Z as f(x) = x and g: Z → Z as g(x) = . We first show that g is not injective. It can be observed that g(−1) = .",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Define the functions f and g as specified.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Show that g is not injective by finding two different inputs that yield the same output.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, g is not injective.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of function composition and injectivity.",
+    "topics_tags": [
+      "Function Composition",
+      "Injective Functions",
+      "Relations"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.51",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "relations and functions",
+    "question_type": "conceptual",
+    "question_text": "Given examples of two functions f: N → N and g: N → N such that g o f is onto but f is not onto.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Define f: N → N by f(x) = x + 1 and g: N → N by . We first show that g is not onto. For this, consider element 1 in co-domain N. It is clear that this element is not an image of any of the elements in domain N. Therefore, f is not onto.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Define the functions f and g as specified.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Show that g is not onto by identifying an element in the codomain that is not an image.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Hence, g o f is onto.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of onto functions and function definitions.",
+    "topics_tags": [
+      "Onto Functions",
+      "Function Composition",
+      "Relations"
+    ],
+    "confidence_score": 0.88,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.52",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "relations and functions",
+    "question_type": "conceptual",
+    "question_text": "Given a non empty set X, consider P(X) which is the set of all subsets of X. Define the relation R in P(X) as follows: For subsets A, B in P(X), ARB if and only if A ⊂ B. Is R an equivalence relation on P(X)? Justify your answer.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to subsets and relations in set theory.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892833/ncert/maths/1/img_61_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "R is reflexive because every set is a subset of itself. R is not symmetric because if A ⊂ B, it does not imply B ⊂ A. R is transitive because if A ⊂ B and B ⊂ C, then A ⊂ C. Hence, R is not an equivalence relation since it is not symmetric.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Check reflexivity: A is a subset of itself.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Check symmetry: A ⊂ B does not imply B ⊂ A.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Check transitivity: A ⊂ B and B ⊂ C implies A ⊂ C.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, R is not an equivalence relation since it is not symmetric.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of set relations and properties of equivalence relations.",
+    "topics_tags": [
+      "Set Theory",
+      "Relations",
+      "Equivalence Relations"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to subsets and relations in set theory.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892833/ncert/maths/1/img_61_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.53",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "relations and functions",
+    "question_type": "conceptual",
+    "question_text": "Given a non-empty set X, consider the binary operation *: P(X) × P(X) → P(X) given by A * B = A ∩ B. Show that X is the identity element for this operation and X is the only invertible element in P(X) with respect to the operation *.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram illustrating the intersection of sets.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892834/ncert/maths/1/img_61_1.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "X is the identity element for the operation * because A * X = A for any subset A in P(X). The only invertible element is X itself, as A * B = X implies A = B = X.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Show that A * X = A for any A in P(X).",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Show that if A * B = X, then A = B = X.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, X is the identity element and the only invertible element in P(X) with respect to the operation *.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of binary operations and properties of identity elements.",
+    "topics_tags": [
+      "Binary Operations",
+      "Identity Element",
+      "Set Theory"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram illustrating the intersection of sets.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892834/ncert/maths/1/img_61_1.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.54",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "relations and functions",
+    "question_type": "conceptual",
+    "question_text": "Find the number of all onto functions from the set {1, 2, 3, … , n} to itself.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The number of onto functions from the set {1, 2, 3, … , n} to itself is n!, which is the total number of permutations of n symbols.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Recognize that onto functions correspond to permutations.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the total number of permutations of n symbols.",
+        "expression": "n!"
+      }
+    ],
+    "final_answer": "Therefore, the total number of onto functions is n!.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of permutations and onto functions.",
+    "topics_tags": [
+      "Functions",
+      "Onto Functions",
+      "Permutations"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.55",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "relations and functions",
+    "question_type": "mcq",
+    "question_text": "Let S = {a, b, c} and T = {1, 2, 3}. Find F−1 of the following functions F from S to T, if it exists. (i) F = {(a, 3), (b, 2), (c, 1)} (ii) F = {(a, 2), (b, 1), (c, 1)}",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the mapping of elements from set S to set T.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892835/ncert/maths/1/img_62_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "For (i), F−1 = {(3, a), (2, b), (1, c)} exists. For (ii), F is not one-one, hence F−1 does not exist.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Determine F−1 for the first function.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Check if the second function is one-one.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, F−1 exists for the first function but not for the second.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of inverse functions and one-to-one mappings.",
+    "topics_tags": [
+      "Functions",
+      "Inverse Functions",
+      "Set Theory"
+    ],
+    "confidence_score": 0.93,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the mapping of elements from set S to set T.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892835/ncert/maths/1/img_62_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.56",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "relations and functions",
+    "question_type": "mcq",
+    "question_text": "Given a non-empty set X, let *: P(X) × P(X) → P(X) be defined as A * B = (A − B) ∪ (B − A), ∀ A, B ∈ P(X). Show that the empty set Φ is the identity for the operation * and all the elements A of P(X) are invertible with A−1 = A.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to the operation defined on set P(X)",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892841/ncert/maths/1/img_64_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Thus, Φ is the identity element for the given operation*. All elements A of P(X) are invertible with A−1 = A.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Show that A * Φ = A and Φ * A = A for all A in P(X).",
+        "expression": "A * Φ = (A − Φ) ∪ (Φ − A) = A"
+      },
+      {
+        "step_number": 2,
+        "description": "Demonstrate that A is invertible with A−1 = A.",
+        "expression": "A * A = Φ"
+      }
+    ],
+    "final_answer": "Therefore, the empty set Φ is the identity for the operation *.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of set operations and properties of identity and invertibility.",
+    "topics_tags": [
+      "Set Theory",
+      "Binary Operations",
+      "Identity Element"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the operation defined on set P(X)",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892841/ncert/maths/1/img_64_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.57",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "relations and functions",
+    "question_type": "conceptual",
+    "question_text": "Show that zero is the identity for this operation and each element a ≠ 0 of the set is invertible with 6 − a being the inverse of a.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to the identity element in the operation defined on set X",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892842/ncert/maths/1/img_65_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Thus, 0 is the identity element for the given operation *, and the inverse of each element a ≠ 0 is 6 − a.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Define the operation and show that 0 acts as the identity element.",
+        "expression": "a * 0 = a"
+      },
+      {
+        "step_number": 2,
+        "description": "Show that for each a ≠ 0, the inverse is 6 − a.",
+        "expression": "a * (6 - a) = 0"
+      }
+    ],
+    "final_answer": "Therefore, zero is the identity for this operation.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of identity and inverse elements in binary operations.",
+    "topics_tags": [
+      "Set Theory",
+      "Identity Element",
+      "Invertible Elements"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the identity element in the operation defined on set X",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892842/ncert/maths/1/img_65_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.58",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "relations and functions",
+    "question_type": "conceptual",
+    "question_text": "Let A = {−1, 0, 1, 2}, B = {−4, −2, 0, 2} and f, g: A → B be functions defined by f(x) = x² − x, x ∈ A and g(x) = ... Are f and g equal? Justify your answer.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to the functions defined on sets A and B",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892845/ncert/maths/1/img_66_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The functions f and g are equal if f(a) = g(a) for all a ∈ A.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Evaluate f(x) and g(x) for all x in A.",
+        "expression": "f(x) = x^2 - x"
+      },
+      {
+        "step_number": 2,
+        "description": "Compare the outputs of f and g for each element in A.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Hence, the functions f and g are equal.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of function equality and evaluation.",
+    "topics_tags": [
+      "Functions",
+      "Set Theory",
+      "Function Equality"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the functions defined on sets A and B",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892845/ncert/maths/1/img_66_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.59",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "relations and functions",
+    "question_type": "mcq",
+    "question_text": "Let A = {1, 2, 3}. Then number of equivalence relations containing (1, 2) is",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "1"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "2"
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "3"
+      },
+      {
+        "option_label": "(D)",
+        "option_text": "4"
+      }
+    ],
+    "correct_option": "(B)",
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to equivalence relations",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892848/ncert/maths/1/img_67_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The total number of equivalence relations containing (1, 2) is two.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the smallest equivalence relation containing (1, 2).",
+        "expression": "R = {(1, 1), (2, 2), (3, 3), (1, 2), (2, 1)}"
+      },
+      {
+        "step_number": 2,
+        "description": "Determine the remaining pairs and their implications for symmetry and transitivity.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the total number of equivalence relations containing (1, 2) is two.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of equivalence relations and basic combinatorial reasoning.",
+    "topics_tags": [
+      "Equivalence Relations",
+      "Set Theory",
+      "Mathematical Functions"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to equivalence relations",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892848/ncert/maths/1/img_67_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.60",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "relations and functions",
+    "question_type": "conceptual",
+    "question_text": "Let f: R → R be the Signum Function defined as and g: R → R be the Greatest Integer Function given by g(x) = [x], where [x] is greatest integer less than or equal to x. Then does fog and gof coincide in (0, 1]?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to the Signum Function and Greatest Integer Function",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892849/ncert/maths/1/img_68_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Fog and gof do not coincide in (0, 1].",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Evaluate fog(x) and gof(x) for x in (0, 1].",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Determine the values of fog and gof.",
+        "expression": "fog(x) = 0, gof(x) = 1"
+      }
+    ],
+    "final_answer": "Hence, fog and gof do not coincide in (0, 1].",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of function composition and piecewise definitions.",
+    "topics_tags": [
+      "Signum Function",
+      "Greatest Integer Function",
+      "Function Composition"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the Signum Function and Greatest Integer Function",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777892849/ncert/maths/1/img_68_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  }
+]

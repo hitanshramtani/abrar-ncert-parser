@@ -1,0 +1,3047 @@
+[
+  {
+    "question_id": "Q16.1",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 16,
+    "chapter_name": "probability",
+    "question_type": "conceptual",
+    "question_text": "Describe the sample space for the indicated experiment: A coin is tossed three times.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The sample space is given by: S = {HHH, HHT, HTH, HTT, THH, THT, TTH, TTT}",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, when a coin is tossed three times, the sample space is given by: S = {HHH, HHT, HTH, HTT, THH, THT, TTH, TTT}",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of outcomes from a simple experiment.",
+    "topics_tags": [
+      "Sample Space",
+      "Coin Toss",
+      "Probability"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q16.2",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 16,
+    "chapter_name": "probability",
+    "question_type": "conceptual",
+    "question_text": "Describe the sample space for the indicated experiment: A die is thrown two times.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The sample space is given by S = {(x, y): x, y = 1, 2, 3, 4, 5, 6} and consists of 36 outcomes.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the sample space is given by: S = {(1, 1), (1, 2), (1, 3), (1, 4), (1, 5), (1, 6), (2, 1), (2, 2), (2, 3), (2, 4), (2, 5), (2, 6), (3, 1), (3, 2), (3, 3), (3, 4), (3, 5), (3, 6), (4, 1), (4, 2), (4, 3), (4, 4), (4, 5), (4, 6), (5, 1), (5, 2), (5, 3), (5, 4), (5, 5), (5, 6), (6, 1), (6, 2), (6, 3), (6, 4), (6, 5), (6, 6)}.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of outcomes from a simple experiment.",
+    "topics_tags": [
+      "Sample Space",
+      "Die Roll",
+      "Probability"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q16.3",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 16,
+    "chapter_name": "probability",
+    "question_type": "conceptual",
+    "question_text": "Describe the sample space for the indicated experiment: A coin is tossed four times.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The sample space is given by: S = {HHHH, HHHT, HHTH, HHTT, HTHH, HTHT, HTTH, HTTT, THHH, THHT, THTH, THTT, TTHH, TTHT, TTTH, TTTT}",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, when a coin is tossed four times, the sample space is given by: S = {HHHH, HHHT, HHTH, HHTT, HTHH, HTHT, HTTH, HTTT, THHH, THHT, THTH, THTT, TTHH, TTHT, TTTH, TTTT}.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of outcomes from a simple experiment.",
+    "topics_tags": [
+      "Sample Space",
+      "Coin Toss",
+      "Probability"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q16.4",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 16,
+    "chapter_name": "probability",
+    "question_type": "conceptual",
+    "question_text": "Describe the sample space for the indicated experiment: A coin is tossed and a die is thrown.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The sample space is given by: S = {H1, H2, H3, H4, H5, H6, T1, T2, T3, T4, T5, T6}.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, when a coin is tossed and a die is thrown, the sample space is given by: S = {H1, H2, H3, H4, H5, H6, T1, T2, T3, T4, T5, T6}.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of outcomes from a simple experiment.",
+    "topics_tags": [
+      "Sample Space",
+      "Coin Toss",
+      "Die Roll",
+      "Probability"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q16.5",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 16,
+    "chapter_name": "probability",
+    "question_type": "conceptual",
+    "question_text": "Describe the sample space for the indicated experiment: A coin is tossed and then a die is rolled only in case a head is shown on the coin.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The sample space is given by: S = {H1, H2, H3, H4, H5, H6, T}.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, when a coin is tossed and then a die is rolled only if a head is shown, the sample space is given by: S = {H1, H2, H3, H4, H5, H6, T}.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of outcomes from a simple experiment.",
+    "topics_tags": [
+      "Sample Space",
+      "Coin Toss",
+      "Die Roll",
+      "Probability"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q16.6",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 16,
+    "chapter_name": "probability",
+    "question_type": "conceptual",
+    "question_text": "2 boys and 2 girls are in Room X, and 1 boy and 3 girls in Room Y. Specify the sample space for the experiment in which a room is selected and then a person.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The sample space is given by S = {XB1, XB2, XG1, XG2, YB1, YG1, YG2, YG3}.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the sample space for selecting a room and then a person is S = {XB1, XB2, XG1, XG2, YB1, YG1, YG2, YG3}.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of outcomes from a simple experiment.",
+    "topics_tags": [
+      "Sample Space",
+      "Room Selection",
+      "Probability"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q16.7",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 16,
+    "chapter_name": "probability",
+    "question_type": "conceptual",
+    "question_text": "One die of red colour, one of white colour and one of blue colour are placed in a bag. One die is selected at random and rolled, its colour and the number on its uppermost face is noted. Describe the sample space.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The sample space is given by S = {R1, R2, R3, R4, R5, R6, W1, W2, W3, W4, W5, W6, B1, B2, B3, B4, B5, B6}.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, when a die is selected and rolled, the sample space is given by: S = {R1, R2, R3, R4, R5, R6, W1, W2, W3, W4, W5, W6, B1, B2, B3, B4, B5, B6}.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of outcomes from a simple experiment.",
+    "topics_tags": [
+      "Sample Space",
+      "Die Selection",
+      "Probability"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q16.8",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 16,
+    "chapter_name": "probability",
+    "question_type": "multipart",
+    "question_text": "An experiment consists of recording boy-girl composition of families with 2 children. (i) What is the sample space if we are interested in knowing whether it is a boy or girl in the order of their births? (ii) What is the sample space if we are interested in the number of girls in the family?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "What is the sample space if we are interested in knowing whether it is a boy or girl in the order of their births?",
+        "part_latex": null,
+        "answer_text": "The sample space is given by S = {GG, GB, BG, BB}.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, the sample space considering the order of births is S = {GG, GB, BG, BB}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "What is the sample space if we are interested in the number of girls in the family?",
+        "part_latex": null,
+        "answer_text": "The sample space is given by S = {0, 1, 2}.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, the sample space considering the number of girls is S = {0, 1, 2}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of outcomes from a simple experiment.",
+    "topics_tags": [
+      "Sample Space",
+      "Family Composition",
+      "Probability"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [],
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    }
+  },
+  {
+    "question_id": "Q16.9",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 16,
+    "chapter_name": "probability",
+    "question_type": "conceptual",
+    "question_text": "A box contains 1 red and 3 identical white balls. Two balls are drawn at random in succession without replacement. Write the sample space for this experiment.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The sample space is given by S = {RW, WR, WW}.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, when two balls are drawn at random, the sample space is S = {RW, WR, WW}.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of outcomes from a simple experiment.",
+    "topics_tags": [
+      "Sample Space",
+      "Ball Drawing",
+      "Probability"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q16.10",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 16,
+    "chapter_name": "probability",
+    "question_type": "conceptual",
+    "question_text": "An experiment consists of tossing a coin and then throwing it a second time if a head occurs. If a tail occurs on the first toss, then a die is rolled once. Find the sample space.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The sample space is given by S = {H1, H2, H3, H4, H5, H6, T1, T2, T3, T4, T5, T6}.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the sample space for this experiment is S = {H1, H2, H3, H4, H5, H6, T1, T2, T3, T4, T5, T6}.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of outcomes from a simple experiment.",
+    "topics_tags": [
+      "Sample Space",
+      "Coin Toss",
+      "Die Roll",
+      "Probability"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q16.11",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 16,
+    "chapter_name": "probability",
+    "question_type": "conceptual",
+    "question_text": "Suppose 3 bulbs are selected at random from a lot. Each bulb is tested and classified as defective (D) or non-defective (N). Write the sample space of this experiment?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The sample space of this experiment is given by S = {DDD, DDN, DND, DNN, NDD, NDN, NND, NNN}.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the sample space is S = {DDD, DDN, DND, DNN, NDD, NDN, NND, NNN}.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of the concept of sample space.",
+    "topics_tags": [
+      "Sample Space",
+      "Probability",
+      "Random Selection"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q16.12",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 16,
+    "chapter_name": "probability",
+    "question_type": "conceptual",
+    "question_text": "A coin is tossed. If the outcome is a head, a die is thrown. If the die shows up an even number, the die is thrown again. What is the sample space for the experiment?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The sample space of this experiment is given by S = {T, H1, H3, H5, H21, H22, H23, H24, H25, H26, H41, H42, H43, H44, H45, H46, H61, H62, H63, H64, H65, H66}.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the sample space is S = {T, H1, H3, H5, H21, H22, H23, H24, H25, H26, H41, H42, H43, H44, H45, H46, H61, H62, H63, H64, H65, H66}.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of conditional outcomes and multiple events.",
+    "topics_tags": [
+      "Sample Space",
+      "Coin Toss",
+      "Die Roll"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q16.13",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 16,
+    "chapter_name": "probability",
+    "question_type": "conceptual",
+    "question_text": "The numbers 1, 2, 3 and 4 are written separately on four slips of paper. The slips are put in a box and mixed thoroughly. A person draws two slips from the box, one after the other, without replacement. Describe the sample space for the experiment.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The sample space of this experiment is given by S = {(1, 2), (1, 3), (1, 4), (2, 1), (2, 3), (2, 4), (3, 1), (3, 2), (3, 4), (4, 1), (4, 2), (4, 3)}.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the sample space is S = {(1, 2), (1, 3), (1, 4), (2, 1), (2, 3), (2, 4), (3, 1), (3, 2), (3, 4), (4, 1), (4, 2), (4, 3)}.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves understanding combinations and order of selection.",
+    "topics_tags": [
+      "Sample Space",
+      "Combinations",
+      "Probability"
+    ],
+    "confidence_score": 0.94,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q16.14",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 16,
+    "chapter_name": "probability",
+    "question_type": "conceptual",
+    "question_text": "An experiment consists of rolling a die and then tossing a coin once if the number on the die is even. If the number on the die is odd, the coin is tossed twice. Write the sample space for this experiment.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The sample space of this experiment is given by S = {2H, 2T, 4H, 4T, 6H, 6T, 1HH, 1HT, 1TH, 1TT, 3HH, 3HT, 3TH, 3TT, 5HH, 5HT, 5TH, 5TT}.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the sample space is S = {2H, 2T, 4H, 4T, 6H, 6T, 1HH, 1HT, 1TH, 1TT, 3HH, 3HT, 3TH, 3TT, 5HH, 5HT, 5TH, 5TT}.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of conditional outcomes based on die results.",
+    "topics_tags": [
+      "Sample Space",
+      "Coin Toss",
+      "Die Roll"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q16.15",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 16,
+    "chapter_name": "probability",
+    "question_type": "conceptual",
+    "question_text": "A coin is tossed. If it shows a tail, we draw a ball from a box which contains 2 red and 3 black balls. If it shows head, we throw a die. Find the sample space for this experiment.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The sample space of this experiment is given by S = {TR1, TR2, TB1, TB2, TB3, H1, H2, H3, H4, H5, H6}.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the sample space is S = {TR1, TR2, TB1, TB2, TB3, H1, H2, H3, H4, H5, H6}.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves understanding of conditional outcomes based on coin toss.",
+    "topics_tags": [
+      "Sample Space",
+      "Coin Toss",
+      "Probability"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q16.16",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 16,
+    "chapter_name": "probability",
+    "question_type": "conceptual",
+    "question_text": "A die is thrown repeatedly until a six comes up. What is the sample space for this experiment?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The sample space of this experiment is given by S = {6, (1, 6), (2, 6), (3, 6), (4, 6), (5, 6), (1, 1, 6), (1, 2, 6), ..., (5, 2, 6), ...}.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the sample space is S = {6, (1, 6), (2, 6), (3, 6), (4, 6), (5, 6), (1, 1, 6), (1, 2, 6), ..., (5, 2, 6), ...}.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of infinite outcomes and sequences.",
+    "topics_tags": [
+      "Sample Space",
+      "Die Roll",
+      "Probability"
+    ],
+    "confidence_score": 0.94,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q16.17",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 16,
+    "chapter_name": "probability",
+    "question_type": "mcq",
+    "question_text": "An experiment involves rolling a pair of dice and recording the numbers that come up. Describe the following events: A: the sum is greater than 8, B: 2 occurs on either die, C: The sum is at least 7 and a multiple of 3. Which pairs of these events are mutually exclusive?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "When a pair of dice is rolled, the sample space is given by. It is observed that A ∩ B = ∅, B ∩ C = ∅. Hence, events A and B and events B and C are mutually exclusive.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, events A and B, and events B and C are mutually exclusive.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the sample space for rolling a pair of dice.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777821828/ncert/maths/16/img_7_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of mutually exclusive events and basic probability concepts.",
+    "topics_tags": [
+      "Probability",
+      "Mutually Exclusive Events",
+      "Dice"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the sample space for rolling a pair of dice.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777821828/ncert/maths/16/img_7_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q16.18",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 16,
+    "chapter_name": "probability",
+    "question_type": "conceptual",
+    "question_text": "Three coins are tossed once. Let A denote the event ‘three heads show’, B denote the event ‘two heads and one tail show’, C denote the event ‘three tails show’ and D denote the event ‘a head shows on the first coin’. Which events are (i) mutually exclusive? (ii) simple? (iii) compound?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "When three coins are tossed, the sample space is given by S = {HHH, HHT, HTH, HTT, THH, THT, TTH, TTT}. (i) Event A and B; event A and C; event B and C; and event C and D are all mutually exclusive. (ii) A and C are simple events. (iii) B and D are compound events.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, A and C are simple events, while B and D are compound events.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves understanding of event types in probability.",
+    "topics_tags": [
+      "Probability",
+      "Coin Toss",
+      "Events"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q16.19",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 16,
+    "chapter_name": "probability",
+    "question_type": "conceptual",
+    "question_text": "State true or false: (i) A and B are mutually exclusive (ii) A and B are mutually exclusive and exhaustive (iii) (iv) A and C are mutually exclusive (v) A and are mutually exclusive (vi) are mutually exclusive and exhaustive.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Images showing the events related to the outcomes of throwing two dice.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777821831/ncert/maths/16/img_11_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "(i) It is observed that A ∩ B = ∅. Thus, the given statement is true. (ii) It is observed that A ∩ B = ∅ and A ∪ B = S. Thus, the given statement is true. (iv) It is observed that A ∩ C = {(2, 1), (2, 2), (2, 3), (4, 1)} ≠ ∅. Thus, the given statement is false.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Check if A and B are mutually exclusive by finding their intersection.",
+        "expression": "A ∩ B = ∅"
+      },
+      {
+        "step_number": 2,
+        "description": "Check if A and B are exhaustive by finding their union.",
+        "expression": "A ∪ B = S"
+      },
+      {
+        "step_number": 3,
+        "description": "Check if A and C are mutually exclusive by finding their intersection.",
+        "expression": "A ∩ C = {(2, 1), (2, 2), (2, 3), (4, 1)}"
+      }
+    ],
+    "final_answer": "Thus, statements (i) and (ii) are true, while statement (iv) is false.",
+    "answer_image": {
+      "present": true,
+      "description": "Images showing the events related to the outcomes of throwing two dice.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777821832/ncert/maths/16/img_12_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of mutually exclusive and exhaustive events.",
+    "topics_tags": [
+      "Probability",
+      "Mutually Exclusive Events",
+      "Exhaustive Events"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "Some parts of the question are unclear or incomplete."
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Images showing the events related to the outcomes of throwing two dice.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777821831/ncert/maths/16/img_11_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Images showing the events related to the outcomes of throwing two dice.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777821832/ncert/maths/16/img_12_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q16.20",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 16,
+    "chapter_name": "probability",
+    "question_type": "mcq",
+    "question_text": "Which of the following can not be valid assignment of probabilities for outcomes of sample space S?",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(a)",
+        "option_text": "0.1, 0.01, 0.05, 0.03, 0.01, 0.2, 0.6"
+      },
+      {
+        "option_label": "(b)",
+        "option_text": "0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7"
+      },
+      {
+        "option_label": "(c)",
+        "option_text": "0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7"
+      },
+      {
+        "option_label": "(d)",
+        "option_text": "-0.1, 0.2, 0.3, 0.4, -0.2, 0.1, 0.3"
+      }
+    ],
+    "correct_option": "(d)",
+    "question_image": {
+      "present": true,
+      "description": "Image showing assignments of probabilities for outcomes.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777821834/ncert/maths/16/img_13_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The assignment (d) is not valid because it contains negative probabilities.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the assignment (d) is not valid.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of probability assignment rules.",
+    "topics_tags": [
+      "Probability",
+      "Sample Space",
+      "Valid Assignments"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image showing assignments of probabilities for outcomes.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777821834/ncert/maths/16/img_13_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q16.21",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 16,
+    "chapter_name": "probability",
+    "question_type": "conceptual",
+    "question_text": "A coin is tossed twice, what is the probability that at least one tail occurs?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image showing the sample space for tossing a coin twice.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777821835/ncert/maths/16/img_14_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The sample space is S = {HH, HT, TH, TT}. The event of at least one tail is A = {HT, TH, TT}.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the sample space for tossing a coin twice.",
+        "expression": "S = {HH, HT, TH, TT}"
+      },
+      {
+        "step_number": 2,
+        "description": "Identify the event of at least one tail.",
+        "expression": "A = {HT, TH, TT}"
+      }
+    ],
+    "final_answer": "Thus, the probability of getting at least one tail is calculated from the event A.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of sample space and event identification.",
+    "topics_tags": [
+      "Probability",
+      "Coin Toss",
+      "Sample Space"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image showing the sample space for tossing a coin twice.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777821835/ncert/maths/16/img_14_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q16.22",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 16,
+    "chapter_name": "probability",
+    "question_type": "numerical",
+    "question_text": "A die is thrown, find the probability of the following events: (i) A prime number will appear, (ii) A number greater than or equal to 3 will appear, (iii) A number less than or equal to one will appear, (iv) A number more than 6 will appear, (v) A number less than 6 will appear.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image showing the sample space for throwing a die.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777821837/ncert/maths/16/img_15_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "A prime number will appear.",
+        "part_latex": null,
+        "answer_text": "The prime numbers on a die are {2, 3, 5}.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the prime numbers in the sample space.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, the probability of rolling a prime number is \\frac{3}{6} = \\frac{1}{2}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "A number greater than or equal to 3 will appear.",
+        "part_latex": null,
+        "answer_text": "The numbers greater than or equal to 3 are {3, 4, 5, 6}.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the numbers greater than or equal to 3.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, the probability is \\frac{4}{6} = \\frac{2}{3}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "A number less than or equal to one will appear.",
+        "part_latex": null,
+        "answer_text": "The only number less than or equal to one is {1}.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the number less than or equal to one.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, the probability is \\frac{1}{6}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iv)",
+        "part_text": "A number more than 6 will appear.",
+        "part_latex": null,
+        "answer_text": "There are no numbers more than 6 on a die.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify if there are any numbers more than 6.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, the probability is 0.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(v)",
+        "part_text": "A number less than 6 will appear.",
+        "part_latex": null,
+        "answer_text": "The numbers less than 6 are {1, 2, 3, 4, 5}.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the numbers less than 6.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, the probability is \\frac{5}{6}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires multiple calculations and understanding of probability.",
+    "topics_tags": [
+      "Probability",
+      "Die",
+      "Events"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image showing the sample space for throwing a die.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777821837/ncert/maths/16/img_15_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q16.23",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 16,
+    "chapter_name": "probability",
+    "question_type": "mcq",
+    "question_text": "A card is selected from a pack of 52 cards.\n(a) How many points are there in the sample space?\n(b) Calculate the probability that the card is an ace of spades.\n(c) Calculate the probability that the card is (i) an ace (ii) black card.",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "How many points are there in the sample space?"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "Calculate the probability that the card is an ace of spades."
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "Calculate the probability that the card is (i) an ace (ii) black card."
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "How many points are there in the sample space?",
+        "part_latex": null,
+        "answer_text": "There are 52 points in the sample space.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the total number of cards in the pack.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Therefore, there are 52 points in the sample space.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Calculate the probability that the card is an ace of spades.",
+        "part_latex": null,
+        "answer_text": "The probability of drawing an ace of spades is 1/52.",
+        "answer_latex": "\\frac{1}{52}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the number of favorable outcomes for drawing an ace of spades.",
+            "expression": "n(A) = 1"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the probability using the formula P(A) = n(A)/n(S).",
+            "expression": "P(A) = \\frac{1}{52}"
+          }
+        ],
+        "final_answer": "Thus, the probability of drawing an ace of spades is \\frac{1}{52}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "Calculate the probability that the card is (i) an ace (ii) black card.",
+        "part_latex": null,
+        "answer_text": "The probability of drawing an ace is 4/52 and the probability of drawing a black card is 26/52.",
+        "answer_latex": "\\frac{4}{52}, \\frac{26}{52}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the number of favorable outcomes for drawing an ace.",
+            "expression": "n(E) = 4"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the probability of drawing an ace.",
+            "expression": "P(E) = \\frac{4}{52}"
+          },
+          {
+            "step_number": 3,
+            "description": "Identify the number of favorable outcomes for drawing a black card.",
+            "expression": "n(F) = 26"
+          },
+          {
+            "step_number": 4,
+            "description": "Calculate the probability of drawing a black card.",
+            "expression": "P(F) = \\frac{26}{52}"
+          }
+        ],
+        "final_answer": "Therefore, the probabilities are \\frac{4}{52} for an ace and \\frac{26}{52} for a black card.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires basic understanding of probability and counting outcomes.",
+    "topics_tags": [
+      "Probability",
+      "Sample Space",
+      "Card Games"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q16.24",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 16,
+    "chapter_name": "probability",
+    "question_type": "multipart",
+    "question_text": "A fair coin with 1 marked on one face and 6 on the other and a fair die are both tossed. Find the probability that the sum of numbers that turn up is (i) 3 (ii) 12.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "Find the probability that the sum of numbers that turn up is 3.",
+        "part_latex": null,
+        "answer_text": "The probability that the sum is 3 is 1/12.",
+        "answer_latex": "\\frac{1}{12}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the favorable outcome for the sum being 3.",
+            "expression": "A = {(1, 2)}"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the probability using the total outcomes.",
+            "expression": "P(A) = \\frac{1}{12}"
+          }
+        ],
+        "final_answer": "Thus, the probability of the sum being 3 is \\frac{1}{12}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "Find the probability that the sum of numbers that turn up is 12.",
+        "part_latex": null,
+        "answer_text": "The probability that the sum is 12 is 1/12.",
+        "answer_latex": "\\frac{1}{12}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the favorable outcome for the sum being 12.",
+            "expression": "B = {(6, 6)}"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the probability using the total outcomes.",
+            "expression": "P(B) = \\frac{1}{12}"
+          }
+        ],
+        "final_answer": "Thus, the probability of the sum being 12 is \\frac{1}{12}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic probability calculations with a small sample space.",
+    "topics_tags": [
+      "Probability",
+      "Coin Toss",
+      "Dice"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q16.25",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 16,
+    "chapter_name": "probability",
+    "question_type": "conceptual",
+    "question_text": "There are four men and six women on the city council. If one council member is selected for a committee at random, how likely is it that it is a woman?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The probability of selecting a woman is 6/10.",
+    "answer_latex": "\\frac{6}{10}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the total number of council members.",
+        "expression": "n(S) = 10"
+      },
+      {
+        "step_number": 2,
+        "description": "Identify the number of favorable outcomes for selecting a woman.",
+        "expression": "n(A) = 6"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the probability using the formula P(A) = n(A)/n(S).",
+        "expression": "P(A) = \\frac{6}{10}"
+      }
+    ],
+    "final_answer": "Thus, the probability of selecting a woman is \\frac{6}{10}.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires basic understanding of probability and counting outcomes.",
+    "topics_tags": [
+      "Probability",
+      "Council Members",
+      "Random Selection"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q16.26",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 16,
+    "chapter_name": "probability",
+    "question_type": "conceptual",
+    "question_text": "A fair coin is tossed four times, and a person wins Re 1 for each head and loses Rs 1.50 for each tail that turns up. From the sample space calculate how many different amounts of money you can have after four tosses and the probability of having each of these amounts.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The different amounts of money possible are Rs 4, Rs 1.50, -Rs 1, -Rs 3.50, -Rs 6.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the outcomes for 4 heads, 3 heads and 1 tail, 2 heads and 2 tails, 1 head and 3 tails, and 4 tails.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Identify the probabilities for each outcome.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the possible amounts are Rs 4, Rs 1.50, -Rs 1, -Rs 3.50, -Rs 6.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple outcomes and calculations for probabilities.",
+    "topics_tags": [
+      "Probability",
+      "Coin Toss",
+      "Gambling"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q16.27",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 16,
+    "chapter_name": "probability",
+    "question_type": "conceptual",
+    "question_text": "When three coins are tossed once, the sample space is given by S = {HHH, HHT, HTH, THH, HTT, THT, TTH, TTT}. Accordingly, n(S) = 8. What is the probability of the following events? (i) 3 heads (ii) 2 heads (iii) at least 2 heads (iv) at most 2 heads (v) no head (vi) 3 tails (vii) exactly 2 tails (viii) no tail (ix) at most 2 tails.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The probabilities for the events are as follows: (i) P(B) = 1/8, (ii) P(C) = 3/8, (iii) P(D) = 4/8 = 1/2, (iv) P(E) = 7/8, (v) P(F) = 1/8, (vi) P(G) = 1/8, (vii) P(H) = 3/8, (viii) P(I) = 1/8, (ix) P(J) = 7/8.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the probabilities for the events are calculated based on the sample space.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of basic probability concepts and application of counting principles.",
+    "topics_tags": [
+      "Probability",
+      "Sample Space",
+      "Coin Toss"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q16.28",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 16,
+    "chapter_name": "probability",
+    "question_type": "numerical",
+    "question_text": "If P(A) is the probability of an event, what is the probability of the event ‘not A’?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "It is given that P(A) = p. Accordingly, P(not A) = 1 - P(A) = 1 - p.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the probability of the event ‘not A’ is 1 - P(A).",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct application of the complement rule in probability.",
+    "topics_tags": [
+      "Probability",
+      "Complementary Events"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q16.29",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 16,
+    "chapter_name": "probability",
+    "question_type": "numerical",
+    "question_text": "A letter is chosen at random from the word ‘ASSASSINATION’. Find the probability that the letter is (i) a vowel (ii) a consonant.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "Find the probability of choosing a vowel.",
+        "part_latex": null,
+        "answer_text": "There are 6 vowels in the word ASSASSINATION. Hence, the probability of choosing a vowel is 6/13.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, the probability of choosing a vowel is 6/13.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "Find the probability of choosing a consonant.",
+        "part_latex": null,
+        "answer_text": "There are 7 consonants in the word ASSASSINATION. Hence, the probability of choosing a consonant is 7/13.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, the probability of choosing a consonant is 7/13.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires counting and basic probability calculation.",
+    "topics_tags": [
+      "Probability",
+      "Vowels",
+      "Consonants"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q16.30",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 16,
+    "chapter_name": "probability",
+    "question_type": "numerical",
+    "question_text": "In a lottery, a person chooses six different natural numbers at random from 1 to 20. What is the probability of winning the prize in the game?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Total number of ways to choose six different numbers from 1 to 20 is 38760. The probability of winning the prize is 1/38760.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the probability of winning the prize in the lottery is 1/38760.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves combinatorial counting and probability calculation.",
+    "topics_tags": [
+      "Probability",
+      "Lottery",
+      "Combinations"
+    ],
+    "confidence_score": 0.94,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q16.31",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 16,
+    "chapter_name": "probability",
+    "question_type": "mcq",
+    "question_text": "Check whether the following probabilities P(A) and P(B) are consistently defined: (i) P(A) = 0.5, P(B) = 0.7, P(A ∩ B) = 0.6 (ii) P(A) = 0.5, P(B) = 0.4, P(A ∪ B) = 0.8.",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "and P"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "are consistently defined: (i) P"
+      },
+      {
+        "option_label": "(A)",
+        "option_text": "= 0.5, P"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "= 0.7, P(A ∩ B) = 0.6 (ii) P"
+      },
+      {
+        "option_label": "(A)",
+        "option_text": "= 0.5, P"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "= 0.4, P(A ∪ B) = 0.8."
+      }
+    ],
+    "correct_option": "(A)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "For (i), P(A ∩ B) > P(A), hence not consistently defined. For (ii), P(A ∪ B) > P(A) and P(B), hence consistently defined.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the probabilities are inconsistently defined in the first case and consistently defined in the second case.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of probability rules and definitions.",
+    "topics_tags": [
+      "Probability",
+      "Event Definitions",
+      "Set Theory"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q16.36",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 16,
+    "chapter_name": "probability",
+    "question_type": "numerical",
+    "question_text": "In an entrance test that is graded on the basis of two examinations, the probability of a randomly chosen student passing the first examination is 0.8 and the probability of passing the second examination is 0.7. The probability of passing at least one of them is 0.95. What is the probability of passing both?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Thus, the probability of passing both the examinations is 0.55.",
+    "answer_latex": "P(A \\text{ and } B) = 0.8 + 0.7 - 0.95 = 0.55",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Use the formula for the probability of passing at least one examination.",
+        "expression": "P(A \\text{ or } B) = P(A) + P(B) - P(A \\text{ and } B)"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the known probabilities into the formula.",
+        "expression": "0.95 = 0.8 + 0.7 - P(A \\text{ and } B)"
+      },
+      {
+        "step_number": 3,
+        "description": "Rearrange the equation to solve for P(A and B).",
+        "expression": "P(A \\text{ and } B) = 0.8 + 0.7 - 0.95"
+      }
+    ],
+    "final_answer": "Therefore, the probability of passing both the examinations is 0.55.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of probability concepts and basic algebra.",
+    "topics_tags": [
+      "Probability",
+      "Examinations",
+      "Events"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q16.37",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 16,
+    "chapter_name": "probability",
+    "question_type": "numerical",
+    "question_text": "The probability that a student will pass the final examination in both English and Hindi is 0.5 and the probability of passing neither is 0.1. If the probability of passing the English examination is 0.75, what is the probability of passing the Hindi examination?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Thus, the probability of passing the Hindi examination is 0.65.",
+    "answer_latex": "P(B) = 0.9 - 0.75 + 0.5 = 0.65",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the known probabilities: P(A and B), P(not A and not B), and P(A).",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the formula for the probability of passing at least one examination.",
+        "expression": "P(A \\text{ or } B) = P(A) + P(B) - P(A \\text{ and } B)"
+      },
+      {
+        "step_number": 3,
+        "description": "Substitute the known values into the formula.",
+        "expression": "0.9 = 0.75 + P(B) - 0.5"
+      },
+      {
+        "step_number": 4,
+        "description": "Rearrange the equation to solve for P(B).",
+        "expression": "P(B) = 0.9 - 0.75 + 0.5"
+      }
+    ],
+    "final_answer": "Therefore, the probability of passing the Hindi examination is 0.65.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of probability concepts and basic algebra.",
+    "topics_tags": [
+      "Probability",
+      "Examinations",
+      "Events"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q16.38",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 16,
+    "chapter_name": "probability",
+    "question_type": "multipart",
+    "question_text": "In a class of 60 students, 30 opted for NCC, 32 opted for NSS and 24 opted for both NCC and NSS. If one of these students is selected at random, find the probability that (i) The student opted for NCC or NSS. (ii) The student has opted neither NCC nor NSS. (iii) The student has opted NSS but not NCC.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "The student opted for NCC or NSS.",
+        "part_latex": null,
+        "answer_text": null,
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "The student has opted neither NCC nor NSS.",
+        "part_latex": null,
+        "answer_text": null,
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "The student has opted NSS but not NCC.",
+        "part_latex": null,
+        "answer_text": null,
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations and understanding of set theory.",
+    "topics_tags": [
+      "Probability",
+      "NCC",
+      "NSS"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q16.39",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 16,
+    "chapter_name": "probability",
+    "question_type": "numerical",
+    "question_text": "4 cards are drawn from a well-shuffled deck of 52 cards. What is the probability of obtaining 3 diamonds and one spade?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The probability of obtaining 3 diamonds and one spade is calculated using combinations.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the total number of ways to draw 4 cards from 52 cards.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the number of ways to draw 3 diamonds from 13 diamonds.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the number of ways to draw 1 spade from 13 spades.",
+        "expression": null
+      },
+      {
+        "step_number": 4,
+        "description": "Combine the results to find the probability.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the probability of obtaining 3 diamonds and one spade is determined by the combination calculations.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps of combination calculations.",
+    "topics_tags": [
+      "Probability",
+      "Combinations",
+      "Card Games"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q16.40",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 16,
+    "chapter_name": "probability",
+    "question_type": "mcq",
+    "question_text": "A die has two faces each with number ‘1’, three faces each with number ‘2’ and one face with number ‘3’. If die is rolled once, determine (i) P(2) (ii) P(1 or 3) (iii) P(not 3)",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "A die showing different numbers on its faces.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777821842/ncert/maths/16/img_29_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "P(2)",
+        "part_latex": null,
+        "answer_text": "P(2) = \\frac{3}{6} = \\frac{1}{2}",
+        "answer_latex": "P(2) = \\frac{3}{6} = \\frac{1}{2}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Count the number of faces with number '2'.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the probability of rolling a '2'.",
+            "expression": "P(2) = \\frac{3}{6}"
+          }
+        ],
+        "final_answer": "Thus, P(2) is \\frac{1}{2}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "P(1 or 3)",
+        "part_latex": null,
+        "answer_text": "P(1 or 3) = P(not 2) = 1 - P(2) = 1 - \\frac{1}{2} = \\frac{1}{2}",
+        "answer_latex": "P(1 or 3) = 1 - P(2) = 1 - \\frac{1}{2} = \\frac{1}{2}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the complement rule to find P(1 or 3).",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the value of P(2).",
+            "expression": "P(1 or 3) = 1 - \\frac{1}{2}"
+          }
+        ],
+        "final_answer": "Thus, P(1 or 3) is \\frac{1}{2}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "P(not 3)",
+        "part_latex": null,
+        "answer_text": "P(not 3) = 1 - P(3) = 1 - \\frac{1}{6} = \\frac{5}{6}",
+        "answer_latex": "P(not 3) = 1 - \\frac{1}{6} = \\frac{5}{6}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the probability of rolling a '3'.",
+            "expression": "P(3) = \\frac{1}{6}"
+          },
+          {
+            "step_number": 2,
+            "description": "Use the complement rule to find P(not 3).",
+            "expression": "P(not 3) = 1 - P(3)"
+          }
+        ],
+        "final_answer": "Thus, P(not 3) is \\frac{5}{6}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires basic understanding of probability and simple calculations.",
+    "topics_tags": [
+      "Probability",
+      "Dice",
+      "Events"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "A die showing different numbers on its faces.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777821842/ncert/maths/16/img_29_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [],
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    }
+  },
+  {
+    "question_id": "Q16.41",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 16,
+    "chapter_name": "probability",
+    "question_type": "mcq",
+    "question_text": "In a certain lottery, 10,000 tickets are sold and ten equal prizes are awarded. What is the probability of not getting a prize if you buy (a) one ticket (b) two tickets (c) 10 tickets?",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "one ticket"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "two tickets"
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "10 tickets?"
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "one ticket",
+        "part_latex": null,
+        "answer_text": "P(not getting a prize) = 1 - P(getting a prize) = 1 - \\frac{10}{10000} = \\frac{9990}{10000}",
+        "answer_latex": "P(not getting a prize) = 1 - \\frac{10}{10000} = \\frac{9990}{10000}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the probability of getting a prize with one ticket.",
+            "expression": "P(getting a prize) = \\frac{10}{10000}"
+          },
+          {
+            "step_number": 2,
+            "description": "Use the complement to find the probability of not getting a prize.",
+            "expression": "P(not getting a prize) = 1 - P(getting a prize)"
+          }
+        ],
+        "final_answer": "Thus, the probability of not getting a prize when buying one ticket is \\frac{9990}{10000}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "two tickets",
+        "part_latex": null,
+        "answer_text": "P(not getting a prize) = \\left(\\frac{9990}{10000}\\right)^2",
+        "answer_latex": "P(not getting a prize) = \\left(\\frac{9990}{10000}\\right)^2",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the probability of not getting a prize with two tickets.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Use the probability of not getting a prize with one ticket.",
+            "expression": "P(not getting a prize) = \\left(\\frac{9990}{10000}\\right)^2"
+          }
+        ],
+        "final_answer": "Thus, the probability of not getting a prize when buying two tickets is \\left(\\frac{9990}{10000}\\right)^2.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "10 tickets",
+        "part_latex": null,
+        "answer_text": "P(not getting a prize) = \\left(\\frac{9990}{10000}\\right)^{10}",
+        "answer_latex": "P(not getting a prize) = \\left(\\frac{9990}{10000}\\right)^{10}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the probability of not getting a prize with 10 tickets.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Use the probability of not getting a prize with one ticket.",
+            "expression": "P(not getting a prize) = \\left(\\frac{9990}{10000}\\right)^{10}"
+          }
+        ],
+        "final_answer": "Thus, the probability of not getting a prize when buying 10 tickets is \\left(\\frac{9990}{10000}\\right)^{10}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of probability and multiple calculations.",
+    "topics_tags": [
+      "Probability",
+      "Lottery",
+      "Events"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [],
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    }
+  },
+  {
+    "question_id": "Q16.42",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 16,
+    "chapter_name": "probability",
+    "question_type": "mcq",
+    "question_text": "A and B are two events such that P(A) = 0.54, P(B) = 0.69 and P(A ∩ B) = 0.35. Find (i) P(A ∪ B) (ii) P(A′ ∩ B′) (iii) P(A ∩ B′) (iv) P(B ∩ A′)",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "= 0.54, P"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "= 0.69 and P(A ∩ B) = 0.35. Find (i) P(A ∪ B) (ii) P(A′ ∩ B′) (iii) P(A ∩ B′) (iv) P(B ∩ A′)"
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "P(A ∪ B)",
+        "part_latex": null,
+        "answer_text": "P(A ∪ B) = 0.88",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the formula for the union of two events.",
+            "expression": "P(A ∪ B) = P(A) + P(B) - P(A ∩ B)"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the values into the formula.",
+            "expression": "P(A ∪ B) = 0.54 + 0.69 - 0.35"
+          }
+        ],
+        "final_answer": "Thus, P(A ∪ B) = 0.88.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "P(A′ ∩ B′)",
+        "part_latex": null,
+        "answer_text": "P(A′ ∩ B′) = 0.12",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Apply De Morgan's law to find the probability of the complements.",
+            "expression": "P(A′ ∩ B′) = P(A ∪ B)′"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the complement of P(A ∪ B).",
+            "expression": "P(A′ ∩ B′) = 1 - P(A ∪ B) = 1 - 0.88"
+          }
+        ],
+        "final_answer": "Thus, P(A′ ∩ B′) = 0.12.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "P(A ∩ B′)",
+        "part_latex": null,
+        "answer_text": "P(A ∩ B′) = 0.19",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the formula for the intersection of A and the complement of B.",
+            "expression": "P(A ∩ B′) = P(A) - P(A ∩ B)"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the values into the formula.",
+            "expression": "P(A ∩ B′) = 0.54 - 0.35"
+          }
+        ],
+        "final_answer": "Thus, P(A ∩ B′) = 0.19.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iv)",
+        "part_text": "P(B ∩ A′)",
+        "part_latex": null,
+        "answer_text": null,
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of probability concepts and application of formulas.",
+    "topics_tags": [
+      "Probability",
+      "Events",
+      "Set Theory"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q16.43",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 16,
+    "chapter_name": "probability",
+    "question_type": "conceptual",
+    "question_text": "There is only one number that can open the suitcase. Thus, the required probability is.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of the concept of probability.",
+    "topics_tags": [
+      "Probability",
+      "Basic Concepts"
+    ],
+    "confidence_score": 0.8,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [],
+    "answer_images": []
+  }
+]

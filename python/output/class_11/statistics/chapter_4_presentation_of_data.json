@@ -1,0 +1,812 @@
+[
+  {
+    "question_id": "Q4.1",
+    "class": 11,
+    "subject": "statistics",
+    "chapter_number": 4,
+    "chapter_name": "presentation of data",
+    "question_type": "mcq",
+    "question_text": "Bar diagram is a",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(i)",
+        "option_text": "one-dimensional diagram"
+      },
+      {
+        "option_label": "(ii)",
+        "option_text": "two-dimensional diagram"
+      },
+      {
+        "option_label": "(iii)",
+        "option_text": "diagram with no dimension"
+      },
+      {
+        "option_label": "(iv)",
+        "option_text": "none of the above"
+      }
+    ],
+    "correct_option": "(i)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Bar diagrams are One-dimensional diagrams. These are represented on a plane of two axis and depicts the relationship between the two variables (plotted on the either axis) in form of rectangular bars.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, bar diagrams are one-dimensional diagrams.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of the definition of bar diagrams.",
+    "topics_tags": [
+      "Bar Diagram",
+      "Data Presentation",
+      "Statistics"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.2",
+    "class": 11,
+    "subject": "statistics",
+    "chapter_number": 4,
+    "chapter_name": "presentation of data",
+    "question_type": "mcq",
+    "question_text": "Data represented through a histogram can help in finding graphically the",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(i)",
+        "option_text": "mean"
+      },
+      {
+        "option_label": "(ii)",
+        "option_text": "mode"
+      },
+      {
+        "option_label": "(iii)",
+        "option_text": "median"
+      },
+      {
+        "option_label": "(iv)",
+        "option_text": "all the above"
+      }
+    ],
+    "correct_option": "(ii)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Graphically mode can be determined by presenting the data in the form of Histogram. The highest Histogram indicates the modal class.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, data represented through a histogram can help in finding the mode graphically.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of histogram representation.",
+    "topics_tags": [
+      "Histogram",
+      "Mode",
+      "Data Analysis"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.3",
+    "class": 11,
+    "subject": "statistics",
+    "chapter_number": 4,
+    "chapter_name": "presentation of data",
+    "question_type": "mcq",
+    "question_text": "Ogives can be helpful in locating graphically the",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(i)",
+        "option_text": "mode"
+      },
+      {
+        "option_label": "(ii)",
+        "option_text": "mean"
+      },
+      {
+        "option_label": "(iii)",
+        "option_text": "median"
+      },
+      {
+        "option_label": "(iv)",
+        "option_text": "none of the above"
+      }
+    ],
+    "correct_option": "(iii)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Graphically, Median can be determined by the intersection point of Less than Ogive and More than Ogive.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, ogives can be helpful in locating the median graphically.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of ogives and their graphical representation.",
+    "topics_tags": [
+      "Ogives",
+      "Median",
+      "Graphical Representation"
+    ],
+    "confidence_score": 0.93,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.4",
+    "class": 11,
+    "subject": "statistics",
+    "chapter_number": 4,
+    "chapter_name": "presentation of data",
+    "question_type": "mcq",
+    "question_text": "Data represented through arithmetic line graph help in understanding",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(i)",
+        "option_text": "long-term trend"
+      },
+      {
+        "option_label": "(ii)",
+        "option_text": "cyclicity in data"
+      },
+      {
+        "option_label": "(iii)",
+        "option_text": "seasonality in data"
+      },
+      {
+        "option_label": "(iv)",
+        "option_text": "all the above"
+      }
+    ],
+    "correct_option": "(iv)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Data represented through arithmetic line graph (or time series graph) helps in understanding the long-term trend and periodicity.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, arithmetic line graphs help in understanding long-term trends, cyclicity, and seasonality.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of line graphs and their applications.",
+    "topics_tags": [
+      "Line Graph",
+      "Data Trends",
+      "Statistics"
+    ],
+    "confidence_score": 0.94,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.5",
+    "class": 11,
+    "subject": "statistics",
+    "chapter_number": 4,
+    "chapter_name": "presentation of data",
+    "question_type": "mcq",
+    "question_text": "Width of bars in a bar diagram need not be equal (True/False).",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": "(False)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The above statement is false as all bars in a bar diagram need to be of equal width.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the width of bars in a bar diagram must be equal.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of the properties of bar diagrams.",
+    "topics_tags": [
+      "Bar Diagram",
+      "Data Presentation",
+      "Statistics"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.6",
+    "class": 11,
+    "subject": "statistics",
+    "chapter_number": 4,
+    "chapter_name": "presentation of data",
+    "question_type": "mcq",
+    "question_text": "Width of rectangles in a histogram should essentially be equal (True/False).",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": "(False)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The above statement is false, as the width of all rectangles in a histogram may or may not be equal.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the width of rectangles in a histogram does not need to be equal.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of the properties of histograms.",
+    "topics_tags": [
+      "Histogram",
+      "Data Presentation",
+      "Statistics"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.7",
+    "class": 11,
+    "subject": "statistics",
+    "chapter_number": 4,
+    "chapter_name": "presentation of data",
+    "question_type": "mcq",
+    "question_text": "Histogram can only be formed with continuous classification of data (True/False).",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": "(True)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Yes, a Histogram can only be formed with the continuous classification of data.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, histograms can only be prepared for continuous data.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of the properties of histograms.",
+    "topics_tags": [
+      "Histogram",
+      "Continuous Data",
+      "Statistics"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.8",
+    "class": 11,
+    "subject": "statistics",
+    "chapter_number": 4,
+    "chapter_name": "presentation of data",
+    "question_type": "mcq",
+    "question_text": "Histogram and column diagram are the same method of presentation of data (True/False).",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": "(False)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The above statement is false. This is because Histogram and column diagram are different methods of presentation.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, histogram and column diagram are not the same.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of the differences between histogram and column diagram.",
+    "topics_tags": [
+      "Histogram",
+      "Column Diagram",
+      "Data Presentation"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.9",
+    "class": 11,
+    "subject": "statistics",
+    "chapter_number": 4,
+    "chapter_name": "presentation of data",
+    "question_type": "mcq",
+    "question_text": "Mode of a frequency distribution can be known graphically with the help of histogram (True/False).",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": "(True)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The above statement is true. Graphically, mode can be determined by presenting the data in the form of Histogram.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, mode can be known graphically with the help of a histogram.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of the properties of histograms.",
+    "topics_tags": [
+      "Histogram",
+      "Mode",
+      "Data Analysis"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.10",
+    "class": 11,
+    "subject": "statistics",
+    "chapter_number": 4,
+    "chapter_name": "presentation of data",
+    "question_type": "mcq",
+    "question_text": "Median of a frequency distribution cannot be known from the ogives (True/False).",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": "(False)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The statement is false. Graphically Ogives can be determined by the intersection point of the less than Ogive and more than Ogive.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, median can be known from the ogives.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of ogives and their graphical representation.",
+    "topics_tags": [
+      "Ogives",
+      "Median",
+      "Statistics"
+    ],
+    "confidence_score": 0.93,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.11",
+    "class": 11,
+    "subject": "statistics",
+    "chapter_number": 4,
+    "chapter_name": "presentation of data",
+    "question_type": "conceptual",
+    "question_text": "What kinds of diagrams are more effective in representing the following?\n(i) Monthly rainfall in a year\n(ii) Composition of the population of Delhi by religion\n(iii) Components of cost in a factory",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "(i) The monthly rainfall in a year can be best represented by a bar diagram as only one variable i.e. monthly rainfall is to be compared visually.\n(ii) Composition of the population of Delhi by religion can be represented by a simple bar diagram.\n(iii) In order to represent different components of cost in a factory, a pie chart is more effective.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, different types of diagrams are effective for different data representations.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of various data representation methods.",
+    "topics_tags": [
+      "Data Representation",
+      "Bar Diagram",
+      "Pie Chart"
+    ],
+    "confidence_score": 0.91,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.12",
+    "class": 11,
+    "subject": "statistics",
+    "chapter_number": 4,
+    "chapter_name": "presentation of data",
+    "question_type": "mcq",
+    "question_text": "Suppose you want to emphasise the increase in the share of urban non-workers and lower level of urbanisation in India as shown in Example 4.2. How would you do it in the tabular form?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": "(1)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Share of Rural and Urban Non-workers in India\nNon-workers in Urban Population\n(1) (2) (3) = (1) + (2)\n19,31,38,837 42,96,00,032 62,27,38,869\nWe can infer from the above table that the absolute number of the rural non-workers is greater than the absolute number of the urban non-workers.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "The higher (lower) share of the rural non-workers (urban non-workers) reveals lower degree of urbanisation in India.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires constructing a table and interpreting data.",
+    "topics_tags": [
+      "Urbanisation",
+      "Data Representation",
+      "Statistics"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.13",
+    "class": 11,
+    "subject": "statistics",
+    "chapter_number": 4,
+    "chapter_name": "presentation of data",
+    "question_type": "conceptual",
+    "question_text": "How does the procedure of drawing a histogram differ when class intervals are unequal in comparison to equal class intervals in a frequency table?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "A Histogram of equal class intervals has equal width of all rectangles indicating the same class intervals. In contrast, a Histogram of unequal class intervals has rectangles of varying width as per their corresponding class intervals. Before constructing a Histogram, frequencies of unequal class intervals are to be adjusted. The adjustment factor of each class is calculated with the following formula. And the adjusted frequency will be calculated by dividing the original frequency by adjustment factor.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the main difference lies in the width of the rectangles and the need for adjustment in unequal class intervals.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of histogram construction principles.",
+    "topics_tags": [
+      "Histogram",
+      "Data Presentation",
+      "Frequency Distribution"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.14",
+    "class": 11,
+    "subject": "statistics",
+    "chapter_number": 4,
+    "chapter_name": "presentation of data",
+    "question_type": "multipart",
+    "question_text": "The Indian Sugar Mills Association reported that, 'Sugar production during the first fortnight of December 2001 was about 3,87,000 tonnes, as against 3,78,000 tonnes during the same fortnight last year (2000). The off-take of sugar from factories during the first fortnight of December 2001 was 2,83,000 tonnes for internal consumption and 41,000 tonnes for exports as against 1,54,000 tonnes for internal consumption and nil for exports during the same fortnight last season.'",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "Present the data in tabular form.",
+        "part_latex": null,
+        "answer_text": "Sugar Production in India\nMonth, Total Production, Internal Consumption, Export of Sugar\nYear (tonnes) (tonnes) (tonnes)\nDec, 2000 3,78,000 1,54,000 -\nDec, 2001 3,87,000 2,83,000 41,000",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "The data has been presented in a tabular format.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "Suppose you were to present these data in diagrammatic form which of the diagrams would you use and why?",
+        "part_latex": null,
+        "answer_text": "I would use a bar chart to present the data diagrammatically because it allows for easy comparison of the sugar production and consumption across the two years.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "A bar chart is suitable for comparing categorical data.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "Present these data diagrammatically.",
+        "part_latex": null,
+        "answer_text": null,
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": true,
+          "description": "Diagram showing sugar production and consumption data.",
+          "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777745368/ncert/statistics/4/img_5_0.jpg",
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "answer"
+        },
+        "question_images": [],
+        "answer_images": [
+          {
+            "present": true,
+            "description": "Diagram showing sugar production and consumption data.",
+            "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777745368/ncert/statistics/4/img_5_0.jpg",
+            "latex_extracted": null,
+            "source_page_number": null,
+            "source_image_index": null,
+            "ownership": "answer"
+          }
+        ],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves data presentation in multiple formats and requires understanding of diagrammatic representation.",
+    "topics_tags": [
+      "Sugar Production",
+      "Data Presentation",
+      "Bar Chart"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  }
+]

@@ -1,0 +1,856 @@
+[
+  {
+    "question_id": "Q16.1",
+    "class": 8,
+    "subject": "science",
+    "chapter_number": 16,
+    "chapter_name": "light",
+    "question_type": "conceptual",
+    "question_text": "Suppose you are in a dark room. Can you see objects in the room? Can you see objects outside the room? Explain.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "If we are in a dark room, then it is not possible for us to see objects in the room. However, objects outside the room are visible to us. An object becomes visible when light reaches our eye after being reflected from the object. If there is no light in the room, then the objects inside the room cannot reflect any light. Hence, we cannot see in a dark room. If there is light present outside the room, then we can see the objects outside the room.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, we cannot see objects in a dark room, but we can see objects outside if there is light.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of light reflection and visibility.",
+    "topics_tags": [
+      "Light",
+      "Visibility",
+      "Reflection"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q16.2",
+    "class": 8,
+    "subject": "science",
+    "chapter_number": 16,
+    "chapter_name": "light",
+    "question_type": "conceptual",
+    "question_text": "Differentiate between regular and diffused reflection. Does diffused reflection mean the failure of the laws of reflection?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Regular reflection takes place from a smooth or a regular surface. In regular reflection, all reflected rays are parallel to each other for parallel incident rays. Irregular or diffused reflection takes place from an irregular surface. In diffused reflection, the reflected rays are not parallel to each other for parallel incident rays. This happens because of the presence of irregular microscopic surfaces. However, each ray obeys the laws of reflection. Therefore, laws of reflections are not violated in diffused or irregular reflections.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, diffused reflection does not mean the failure of the laws of reflection.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of reflection types and their properties.",
+    "topics_tags": [
+      "Reflection",
+      "Regular Reflection",
+      "Diffused Reflection"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q16.3",
+    "class": 8,
+    "subject": "science",
+    "chapter_number": 16,
+    "chapter_name": "light",
+    "question_type": "multipart",
+    "question_text": "Mention against each of the following whether regular or diffused reflection will take place when a beam of light strikes. Justify your answer in each case.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Polished wooden table",
+        "part_latex": null,
+        "answer_text": "Regular reflection. A polished surface is an example of a smooth surface. A polished wooden table has a smooth surface. Hence, reflections from the polished table will be regular.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Therefore, regular reflection occurs from a polished wooden table.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Chalk powder",
+        "part_latex": null,
+        "answer_text": "Diffused reflection. Chalk powder spread on a surface is an example of an irregular surface. It is not smooth. Therefore, diffused reflection will take place from chalk powder.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, diffused reflection occurs from chalk powder.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "Cardboard surface",
+        "part_latex": null,
+        "answer_text": "Diffused reflection. Cardboard surface is also an example of an irregular surface. Hence, diffused reflection will take place from a cardboard surface.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Therefore, diffused reflection occurs from a cardboard surface.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(d)",
+        "part_text": "Marble floor with water spread over it",
+        "part_latex": null,
+        "answer_text": "Regular reflection. Marble floor with water spread over it is an example of a regular surface. This is because water makes the marble surface smooth. Hence, regular reflection will take place from this surface.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, regular reflection occurs from a marble floor with water.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(e)",
+        "part_text": "Mirror",
+        "part_latex": null,
+        "answer_text": "Regular reflection. Mirror has a smooth surface. Therefore, it will give a regular reflection.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, regular reflection occurs from a mirror.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(f)",
+        "part_text": "Piece of paper",
+        "part_latex": null,
+        "answer_text": "Diffused reflection. Although a piece of paper may look smooth, but it has many irregularities on its surface. Due to this reason, it will give a diffused reflection.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Therefore, diffused reflection occurs from a piece of paper.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of reflection types and justification for each case.",
+    "topics_tags": [
+      "Reflection",
+      "Regular Reflection",
+      "Diffused Reflection"
+    ],
+    "confidence_score": 0.94,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q16.4",
+    "class": 8,
+    "subject": "science",
+    "chapter_number": 16,
+    "chapter_name": "light",
+    "question_type": "conceptual",
+    "question_text": "State the laws of reflection.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Laws of reflection: (i) The angle of reflection is always equal to the angle of incidence. (ii) The incident ray, the reflected ray and the normal to the reflective surface at the point of incidence all lie in the same plane.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "These are the fundamental laws governing reflection.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of basic laws.",
+    "topics_tags": [
+      "Laws of Reflection",
+      "Reflection",
+      "Physics"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q16.5",
+    "class": 8,
+    "subject": "science",
+    "chapter_number": 16,
+    "chapter_name": "light",
+    "question_type": "conceptual",
+    "question_text": "Describe an activity to show that the incident ray, the reflected ray and the normal at the point of incidence lie in the same plane.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Place a plane mirror on the table. Take a paper sheet and make a small hole in its centre. Make sure that the light in the room is not bright. Hold the sheet normal to the table. Take another sheet and place it on the table in contact with the vertical mirror. Draw a normal line on the second sheet from the mirror. Now, light a torch on the mirror through the small hole such that the ray of light falls on the normal at the bottom of the mirror. When the ray from this hole is incident on the mirror, it gets reflected in a certain direction. You can easily observe the incident ray, reflected ray and the normal to the mirror at the point of incidence on the sheet placed on the table. This shows that the incident ray, the reflected ray, and the normal to the surface at the point of incidence all lie in the same plane.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, this activity demonstrates that the incident ray, reflected ray, and normal lie in the same plane.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding and explaining a practical activity.",
+    "topics_tags": [
+      "Reflection",
+      "Plane Mirror",
+      "Activity"
+    ],
+    "confidence_score": 0.97,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q16.6",
+    "class": 8,
+    "subject": "science",
+    "chapter_number": 16,
+    "chapter_name": "light",
+    "question_type": "mcq",
+    "question_text": "Angle of incidence is equal to the angle of reflection.",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(a)",
+        "option_text": "Always"
+      },
+      {
+        "option_label": "(b)",
+        "option_text": "Sometimes"
+      },
+      {
+        "option_label": "(c)",
+        "option_text": "Under special conditions"
+      },
+      {
+        "option_label": "(d)",
+        "option_text": "Never"
+      }
+    ],
+    "correct_option": "(a)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of a fundamental law of reflection.",
+    "topics_tags": [
+      "Laws of Reflection",
+      "Reflection",
+      "Physics"
+    ],
+    "confidence_score": 0.99,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q16.7",
+    "class": 8,
+    "subject": "science",
+    "chapter_number": 16,
+    "chapter_name": "light",
+    "question_type": "mcq",
+    "question_text": "Image formed by a plane mirror is",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(a)",
+        "option_text": "virtual, behind the mirror and enlarged."
+      },
+      {
+        "option_label": "(b)",
+        "option_text": "virtual, behind the mirror and of the same size as the object."
+      },
+      {
+        "option_label": "(c)",
+        "option_text": "real at the surface of the mirror and enlarged."
+      },
+      {
+        "option_label": "(d)",
+        "option_text": "real, behind the mirror and of the same size as the object."
+      }
+    ],
+    "correct_option": "(b)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of properties of images formed by mirrors.",
+    "topics_tags": [
+      "Plane Mirror",
+      "Image Formation",
+      "Reflection"
+    ],
+    "confidence_score": 0.99,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q16.8",
+    "class": 8,
+    "subject": "science",
+    "chapter_number": 16,
+    "chapter_name": "light",
+    "question_type": "conceptual",
+    "question_text": "Describe the construction of a kaleidoscope.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the construction of a kaleidoscope with mirror strips and a circular tube.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777738439/ncert/science/16/img_4_0.jpg",
+      "latex_extracted": "\\left.{\\begin{array}{c}{{\\left.\\P\\right.\\oplus\\left[\\begin{array}{c}{{\\scriptstyle\\oplus\\pi\\left.-\\oplus-\\pi\\right.\\kern}}}\\\\ {{\\W\\right.}}\\end{array}\\right]}\\right|\\left.{\\left.\\begin{array}{c}{{\\left.\\ll\\bigoplus\\infty\\oplus\\xi}}\\\\ {{\\W\\left|\\begin{array}{c}{{\\scriptstyle\\cosh\\psi}}\\\\ {{\\downarrow\\end{array}\\right|}}\\end{array}\\right|}}\\end{array}}\\right|\\right|\\left|\\begin{array}{c}{{\\left|\\sum_{\\scriptstyle\\K\\bigotimes\\Lambda\\atop\\downarrow}}\\\\ {{\\left|\\bigcup\\bigcup\\left|\\begin{array}{c}{{\\left|\\bigcup\\right|}}\\\\ {{\\downarrow\\right|}}\\\\ {{\\left|\\begin{array}{c}{{\\downarrow\\right|}}\\\\ {{\\downarrow\\right|}}\\end{array}\\right|}}\\\\ {{\\left|\\begin{array}{c}{{\\downarrow\\phantom{\\uparrow}}}\\\\ {{\\downarrow\\right|}}\\\\ {{\\downarrow\\right|}}\\\\ {{\\downarrow\\right|}}\\end{array}\\right|\\right|}}\\\\ {{{\\downarrow\\right|}}}\\\\ {{\\right|}}\\\\ {{\\right|\\right|}}}\\right|\\right|\\right\\}",
+      "source_page_number": 4,
+      "source_image_index": 0,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Construction of a kaleidoscope: Three rectangular mirror strips of dimensions 15cm x 4cm (l x b) are joined together to form a prism. This prism is fixed into a circular cardboard tube. The circular cardboard tube should be slightly longer than the prism. This circular tube is now closed at one end with a cardboard disc. This disc has a hole in it through which we can see. At the other end of the circular tube, a plane glass plate is fixed. It is important that this glass plate touches the prism mirrors. On this glass plate, several small and broken pieces of coloured glass are placed. This end is now closed by a round glass plate allowing enough space for the coloured glass pieces to move.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the kaleidoscope is constructed using mirrors, a tube, and colored glass pieces.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of the components and assembly of a kaleidoscope.",
+    "topics_tags": [
+      "Kaleidoscope",
+      "Optics",
+      "Light"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the construction of a kaleidoscope with mirror strips and a circular tube.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777738439/ncert/science/16/img_4_0.jpg",
+        "latex_extracted": "\\left.{\\begin{array}{c}{{\\left.\\P\\right.\\oplus\\left[\\begin{array}{c}{{\\scriptstyle\\oplus\\pi\\left.-\\oplus-\\pi\\right.\\kern}}}\\\\ {{\\W\\right.}}\\end{array}\\right]}\\right|\\left.{\\left.\\begin{array}{c}{{\\left.\\ll\\bigoplus\\infty\\oplus\\xi}}\\\\ {{\\W\\left|\\begin{array}{c}{{\\scriptstyle\\cosh\\psi}}\\\\ {{\\downarrow\\end{array}\\right|}}\\end{array}\\right|}}\\end{array}}\\right|\\right|\\left|\\begin{array}{c}{{\\left|\\sum_{\\scriptstyle\\K\\bigotimes\\Lambda\\atop\\downarrow}}\\\\ {{\\left|\\bigcup\\bigcup\\left|\\begin{array}{c}{{\\left|\\bigcup\\right|}}\\\\ {{\\downarrow\\right|}}\\\\ {{\\left|\\begin{array}{c}{{\\downarrow\\right|}}\\\\ {{\\downarrow\\right|}}\\end{array}\\right|}}\\\\ {{\\left|\\begin{array}{c}{{\\downarrow\\phantom{\\uparrow}}}\\\\ {{\\downarrow\\right|}}\\\\ {{\\downarrow\\right|}}\\\\ {{\\downarrow\\right|}}\\end{array}\\right|\\right|}}\\\\ {{{\\downarrow\\right|}}}\\\\ {{\\right|}}\\\\ {{\\right|\\right|}}}\\right|\\right|\\right\\}",
+        "source_page_number": 4,
+        "source_image_index": 0,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q16.9",
+    "class": 8,
+    "subject": "science",
+    "chapter_number": 16,
+    "chapter_name": "light",
+    "question_type": "conceptual",
+    "question_text": "Gurmit wanted to perform Activity 16.8 using a laser torch. Her teacher advised her not to do so. Can you explain the basis of the teacher's advice?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Laser light is harmful for the human eyes, because its intensity is very high. It can cause damage to the retina and lead to blindness. Hence, it is advisable not to look at a laser beam directly.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, it is important to avoid direct exposure to laser beams to protect the eyes.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram related to laser light and its effects on human eyes.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777738447/ncert/science/16/img_4_1.jpg",
+      "latex_extracted": "\\begin{array}{l}{{\\mathrm{cysuline{s}/\\langle r,\\bar{\\chi}}\\displaystyle\\sqrt{\\ell\\sqrt{\\ell}\\displaystyle\\frac{\\displaystyle<\\sqrt{\\ell^{\\mathrm{hary~musties}}}}{\\displaystyle\\ p_{\\mathrm{uns}}\\langle r,\\bar{\\omega}\\rangle}}}\\\\ {{\\mathrm{sume{s}}\\displaystyle\\frac{\\scriptstyle\\ p_{\\mathrm{uns}}}{\\displaystyle\\langle\\tilde{\\omega}\\rangle}\\displaystyle\\langle\\hat{\\chi}\\langle\\hat{\\chi}\\langle\\hat{\\tilde{\\omega}}\\hat{\\omega}\\rangle}}}\\\\ {{\\mathrm{come{s}}\\displaystyle\\left.\\tilde{\\omega}\\right.\\langle\\hat{\\omega}\\rangle}\\displaystyle\\langle\\hat{\\chi}\\langle\\hat{\\tilde{\\omega}\\hat{\\omega}}\\hat{\\tilde{\\omega}}\\hat{\\tilde{\\omega}}\\hat{\\tilde{\\omega}}}\\right.}\\\\ {{\\mathrm{s}\\hat{\\omega}\\hat{\\omega}\\hat{\\omega}\\hat{\\omega}\\hat{\\omega}\\hat{\\omega}\\hat{\\omega}\\hat{\\omega}}}\\end{array}",
+      "source_page_number": 4,
+      "source_image_index": 1,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of the effects of laser light on human health.",
+    "topics_tags": [
+      "Laser Safety",
+      "Human Eye",
+      "Optics"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram related to laser light and its effects on human eyes.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777738447/ncert/science/16/img_4_1.jpg",
+        "latex_extracted": "\\begin{array}{l}{{\\mathrm{cysuline{s}/\\langle r,\\bar{\\chi}}\\displaystyle\\sqrt{\\ell\\sqrt{\\ell}\\displaystyle\\frac{\\displaystyle<\\sqrt{\\ell^{\\mathrm{hary~musties}}}}{\\displaystyle\\ p_{\\mathrm{uns}}\\langle r,\\bar{\\omega}\\rangle}}}\\\\ {{\\mathrm{sume{s}}\\displaystyle\\frac{\\scriptstyle\\ p_{\\mathrm{uns}}}{\\displaystyle\\langle\\tilde{\\omega}\\rangle}\\displaystyle\\langle\\hat{\\chi}\\langle\\hat{\\chi}\\langle\\hat{\\tilde{\\omega}}\\hat{\\omega}\\rangle}}}\\\\ {{\\mathrm{come{s}}\\displaystyle\\left.\\tilde{\\omega}\\right.\\langle\\hat{\\omega}\\rangle}\\displaystyle\\langle\\hat{\\chi}\\langle\\hat{\\tilde{\\omega}\\hat{\\omega}}\\hat{\\tilde{\\omega}}\\hat{\\tilde{\\omega}}\\hat{\\tilde{\\omega}}}\\right.}\\\\ {{\\mathrm{s}\\hat{\\omega}\\hat{\\omega}\\hat{\\omega}\\hat{\\omega}\\hat{\\omega}\\hat{\\omega}\\hat{\\omega}\\hat{\\omega}}}\\end{array}",
+        "source_page_number": 4,
+        "source_image_index": 1,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q16.10",
+    "class": 8,
+    "subject": "science",
+    "chapter_number": 16,
+    "chapter_name": "light",
+    "question_type": "mcq",
+    "question_text": "Q17 : (a) Find out the position of the image of an object situated at A in the plane mirror (Fig. 16.21). (b) Can Paheli at B see this image? (c) Can Boojho at C see this image? (d) When Paheli moves from B to C, where does the image of A move?",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "Find out the position of the image of an object situated at A in the plane mirror (Fig. 16.21)."
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "Can Paheli at B see this image?"
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "Can Boojho at C see this image?"
+      },
+      {
+        "option_label": "(D)",
+        "option_text": "When Paheli moves from B to C, where does the image of A move?"
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Find out the position of the image of an object situated at A in the plane mirror.",
+        "part_latex": null,
+        "answer_text": "Image of the object placed at A is formed behind the mirror. The distance of the image from the mirror is equal to the distance of A from the mirror.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the position of the object A relative to the mirror.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Determine that the image is formed behind the mirror at the same distance as the object.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Therefore, the image of A is formed behind the mirror at the same distance as A.",
+        "answer_image": {
+          "present": true,
+          "description": "Diagram showing the position of the object A and its image in the plane mirror.",
+          "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777738464/ncert/science/16/img_7_0.jpg",
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "answer"
+        },
+        "question_images": [],
+        "answer_images": [
+          {
+            "present": true,
+            "description": "Diagram showing the position of the object A and its image in the plane mirror.",
+            "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777738464/ncert/science/16/img_7_0.jpg",
+            "latex_extracted": null,
+            "source_page_number": null,
+            "source_image_index": null,
+            "ownership": "answer"
+          }
+        ],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Can Paheli at B see this image?",
+        "part_latex": null,
+        "answer_text": "Yes. Paheli at B can see this image.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, Paheli can see the image.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "Can Boojho at C see this image?",
+        "part_latex": null,
+        "answer_text": "Yes. Boojho at C can see this image.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Therefore, Boojho can also see the image.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(d)",
+        "part_text": "When Paheli moves from B to C, where does the image of A move?",
+        "part_latex": null,
+        "answer_text": "Image of the object at A will not move. It will remain at the same position when Paheli moves from B to C.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, the image remains stationary.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the position of the object A and its image in the plane mirror.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777738464/ncert/science/16/img_7_0.jpg",
+      "latex_extracted": "\\begin{array}{l l}{{\\mathrm{\\boldmath{~A}_{X}~}}}&{{\\mathrm{\\boldmath{~e~g~(phigh)}}}}\\\\ {{\\mathrm{\\boldmath{~x~}}~}}&{{\\mathrm{\\boldmath{~\\e~c~}}(\\mathrm{\\boldmath{~gooplio~}})}}\\\\ {{\\mathrm{\\boldmath{~x~}}(\\mathrm{\\boldmath{~x~}}(\\mathrm{\\boldmath{~x~}}(\\mathrm{\\boldmath{~x~}})}}&{{\\mathrm{\\boldmath{~x~}}(\\mathrm{\\boldmath{~x~}})}}\\\\ {{\\mathrm{\\boldmath{~\\mathrm{\\boldmath{~x~}}}{\\mathrm{\\boldmath{~x~}}~}}l\\mathrm{\\boldmath{~x~}}l\\mathrm{\\boldmath{~x~}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of image formation in mirrors and basic reasoning.",
+    "topics_tags": [
+      "Plane Mirror",
+      "Image Formation",
+      "Reflection"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the position of the object A and its image in the plane mirror.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777738464/ncert/science/16/img_7_0.jpg",
+        "latex_extracted": "\\begin{array}{l l}{{\\mathrm{\\boldmath{~A}_{X}~}}}&{{\\mathrm{\\boldmath{~e~g~(phigh)}}}}\\\\ {{\\mathrm{\\boldmath{~x~}}~}}&{{\\mathrm{\\boldmath{~\\e~c~}}(\\mathrm{\\boldmath{~gooplio~}})}}\\\\ {{\\mathrm{\\boldmath{~x~}}(\\mathrm{\\boldmath{~x~}}(\\mathrm{\\boldmath{~x~}}(\\mathrm{\\boldmath{~x~}})}}&{{\\mathrm{\\boldmath{~x~}}(\\mathrm{\\boldmath{~x~}})}}\\\\ {{\\mathrm{\\boldmath{~\\mathrm{\\boldmath{~x~}}}{\\mathrm{\\boldmath{~x~}}~}}l\\mathrm{\\boldmath{~x~}}l\\mathrm{\\boldmath{~x~}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  }
+]

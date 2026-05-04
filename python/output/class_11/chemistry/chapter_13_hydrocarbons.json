@@ -1,0 +1,1170 @@
+[
+  {
+    "question_id": "Q13.1",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 13,
+    "chapter_name": "hydrocarbons",
+    "question_type": "conceptual",
+    "question_text": "How do you account for the formation of ethane during chlorination of methane?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram illustrating the chlorination process of methane showing free radicals.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777747740/ncert/chemistry/13/img_1_0.png",
+      "latex_extracted": "\\underbrace{\\mathbb{C}-\\mathbb{C}1}_{\\mathrm{Chiornaell\\;free\\;radicals}}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Chlorination of methane proceeds via a free radical chain mechanism. The whole reaction takes place in three steps: Initiation, Propagation, and Termination. Ethane is formed as a by-product during the termination step.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Initiation step involves the homolytic cleavage of Cl-Cl bond.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Chlorine free radicals attack methane to generate methyl radicals.",
+        "expression": "\\mathrm{CH}_{4} + \\dot{\\mathrm{Cl}} \\rightarrow \\dot{\\mathrm{CH}}_{3} + \\mathrm{HCl}"
+      },
+      {
+        "step_number": 3,
+        "description": "Methyl radicals react with chlorine free radicals to form methyl chloride and regenerate chlorine radicals.",
+        "expression": "\\dot{\\mathrm{CH}}_{3} + \\dot{\\mathrm{Cl}} \\rightarrow \\mathrm{CH}_{3}\\mathrm{Cl} + \\dot{\\mathrm{Cl}}"
+      },
+      {
+        "step_number": 4,
+        "description": "Termination step leads to the formation of ethane.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Hence, by this process, ethane is obtained as a by-product of chlorination of methane.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of free radical mechanisms and multi-step reactions.",
+    "topics_tags": [
+      "Chlorination",
+      "Free Radicals",
+      "Ethane Formation"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram illustrating the chlorination process of methane showing free radicals.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777747740/ncert/chemistry/13/img_1_0.png",
+        "latex_extracted": "\\underbrace{\\mathbb{C}-\\mathbb{C}1}_{\\mathrm{Chiornaell\\;free\\;radicals}}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.2",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 13,
+    "chapter_name": "hydrocarbons",
+    "question_type": "mcq",
+    "question_text": "For the following compounds, write structural formulas and IUPAC names for all possible isomers having the number of double or triple bond as indicated:\n(a) C4H8 (one double bond)\n(b) C5H8 (one triple bond)",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "C4H8 (one double bond)"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "C5H8 (one triple bond)"
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "The following structural isomers are possible for C4H8 with one double bond: The IUPAC name of Compound (I) is But-1-ene, Compound (II) is But-2-ene, and Compound (III) is 2-Methylprop-1-ene.",
+        "part_latex": null,
+        "answer_text": "The structural isomers are But-1-ene, But-2-ene, and 2-Methylprop-1-ene.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, the isomers for C4H8 with one double bond are But-1-ene, But-2-ene, and 2-Methylprop-1-ene.",
+        "answer_image": {
+          "present": true,
+          "description": "Structural formulas for isomers of C4H8 with one double bond.",
+          "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777747776/ncert/chemistry/13/img_4_1.png",
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "answer"
+        },
+        "question_images": [],
+        "answer_images": [
+          {
+            "present": true,
+            "description": "Structural formulas for isomers of C4H8 with one double bond.",
+            "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777747776/ncert/chemistry/13/img_4_1.png",
+            "latex_extracted": null,
+            "source_page_number": null,
+            "source_image_index": null,
+            "ownership": "answer"
+          }
+        ],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "The following structural isomers are possible for C5H8 with one triple bond: The IUPAC name of Compound (I) is Pent-1-yne, Compound (II) is Pent-2-yne, and Compound (III) is 3-Methylbut-1-yne.",
+        "part_latex": null,
+        "answer_text": "The structural isomers are Pent-1-yne, Pent-2-yne, and 3-Methylbut-1-yne.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, the isomers for C5H8 with one triple bond are Pent-1-yne, Pent-2-yne, and 3-Methylbut-1-yne.",
+        "answer_image": {
+          "present": true,
+          "description": "Structural formulas for isomers of C5H8 with one triple bond.",
+          "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777747780/ncert/chemistry/13/img_4_4.png",
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "answer"
+        },
+        "question_images": [],
+        "answer_images": [
+          {
+            "present": true,
+            "description": "Structural formulas for isomers of C5H8 with one triple bond.",
+            "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777747780/ncert/chemistry/13/img_4_4.png",
+            "latex_extracted": null,
+            "source_page_number": null,
+            "source_image_index": null,
+            "ownership": "answer"
+          }
+        ],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Structural formulas for isomers of C4H8 with one double bond.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777747774/ncert/chemistry/13/img_4_0.png",
+      "latex_extracted": "\\begin{array}{r}{\\mathbf{\\hat{I}}_{2}\\mathbf{\\hat{C}}={\\frac{\\mathbf{\\hat{C}}}{C}}\\mathbf{H}-{\\dot{\\mathbf{C}}}\\mathbf{H}_{2}-{\\dot{\\mathbf{C}}}\\mathbf{H}_{3}}\\\\ {\\mathbf{\\varepsilon}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of structural isomers and IUPAC naming conventions.",
+    "topics_tags": [
+      "Isomers",
+      "IUPAC Naming",
+      "Hydrocarbons"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Structural formulas for isomers of C4H8 with one double bond.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777747774/ncert/chemistry/13/img_4_0.png",
+        "latex_extracted": "\\begin{array}{r}{\\mathbf{\\hat{I}}_{2}\\mathbf{\\hat{C}}={\\frac{\\mathbf{\\hat{C}}}{C}}\\mathbf{H}-{\\dot{\\mathbf{C}}}\\mathbf{H}_{2}-{\\dot{\\mathbf{C}}}\\mathbf{H}_{3}}\\\\ {\\mathbf{\\varepsilon}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q13.3",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 13,
+    "chapter_name": "hydrocarbons",
+    "question_type": "conceptual",
+    "question_text": "An alkene 'A' contains three C - C, eight C - H bonds and one C - C π bond. 'A' on ozonolysis gives two moles of an aldehyde of molar mass 44 u. Write IUPAC name of 'A'.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The IUPAC name of 'A' is But-2-ene.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the IUPAC name of 'A' is But-2-ene.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the structure of the ozonide formed during ozonolysis.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777747813/ncert/chemistry/13/img_7_0.jpg",
+      "latex_extracted": "\\mathrm{\\boldmath~\\sianal\\longrightarrow\\f\\left(\\begin{array}{c}{{\\mathrm{H_{N}\\times_{j}^{\\dagger}\\times_{j}^{0}\\times\\zeta}}\\\\ {{\\mathrm{H_{j}\\thinspace(\\sum_{j}\\frac{\\hat{\\cdot}_{j}\\cdot\\hat{\\mathrm{\\boldmath~\\omega}}}{\\cdot\\mathrm{\\boldmath~\\hat{\\ell}}}}\\mathrm{\\boldmath~V_{cH_{2}\\mathrm{\\boldmath~ch}_{3}~}}\\end{array}\\right)\\cong\\mathrm{\\boldmath~\\rona~\\mathrm{\\boldmath~\\o~\\bar{\\ell}~}}}}\\\\ {{\\mathrm{\\boldmath~\\p_{zond\\mathrm{\\boldmath~\\hat{e}}\\ ~}}}}\\end{array}\\right)}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of ozonolysis and structural inference.",
+    "topics_tags": [
+      "Ozonolysis",
+      "Alkenes",
+      "IUPAC Naming"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the structure of the ozonide formed during ozonolysis.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777747813/ncert/chemistry/13/img_7_0.jpg",
+        "latex_extracted": "\\mathrm{\\boldmath~\\sianal\\longrightarrow\\f\\left(\\begin{array}{c}{{\\mathrm{H_{N}\\times_{j}^{\\dagger}\\times_{j}^{0}\\times\\zeta}}\\\\ {{\\mathrm{H_{j}\\thinspace(\\sum_{j}\\frac{\\hat{\\cdot}_{j}\\cdot\\hat{\\mathrm{\\boldmath~\\omega}}}{\\cdot\\mathrm{\\boldmath~\\hat{\\ell}}}}\\mathrm{\\boldmath~V_{cH_{2}\\mathrm{\\boldmath~ch}_{3}~}}\\end{array}\\right)\\cong\\mathrm{\\boldmath~\\rona~\\mathrm{\\boldmath~\\o~\\bar{\\ell}~}}}}\\\\ {{\\mathrm{\\boldmath~\\p_{zond\\mathrm{\\boldmath~\\hat{e}}\\ ~}}}}\\end{array}\\right)}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q13.4",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 13,
+    "chapter_name": "hydrocarbons",
+    "question_type": "conceptual",
+    "question_text": "Propanal and pentan-3-one are the ozonolysis products of an alkene. What is the structural formula of the alkene?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the ozonide structure formed from the alkene.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777747820/ncert/chemistry/13/img_8_0.jpg",
+      "latex_extracted": "\\begin{array}{r l}{\\mathrm{H_{3}C-C H-C H_{3}}+}&{{}0_{3}}\\\\ {\\P}&{{}}\\\\ {\\mathrm{M}}&{{}\\ \\\\ {\\P_{1}\\nabla_{2}\\varphi_{1}}\\\\ {\\downarrow}\\\\ {\\mid_{\\mathrm{H}_{3}C-C^{\\prime}}}\\\\ {\\mid_{\\mathrm{En+H_{2}0}}}\\\\ {\\mathrm{Einmn}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The possible structure of alkene 'A' can be represented as a cyclic ozonide containing both products.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the structural formula of alkene 'A' is derived from the ozonide structure.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding ozonolysis and structural representation.",
+    "topics_tags": [
+      "Ozonolysis",
+      "Alkene Structure",
+      "Chemical Reactions"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the ozonide structure formed from the alkene.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777747820/ncert/chemistry/13/img_8_0.jpg",
+        "latex_extracted": "\\begin{array}{r l}{\\mathrm{H_{3}C-C H-C H_{3}}+}&{{}0_{3}}\\\\ {\\P}&{{}}\\\\ {\\mathrm{M}}&{{}\\ \\\\ {\\P_{1}\\nabla_{2}\\varphi_{1}}\\\\ {\\downarrow}\\\\ {\\mid_{\\mathrm{H}_{3}C-C^{\\prime}}}\\\\ {\\mid_{\\mathrm{En+H_{2}0}}}\\\\ {\\mathrm{Einmn}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.5",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 13,
+    "chapter_name": "hydrocarbons",
+    "question_type": "conceptual",
+    "question_text": "Write chemical equations for combustion reaction of the following hydrocarbons: (i) Butane (ii) Pentene (iii) Hexyne (iv) Toluene.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Combustion can be defined as a reaction of a compound with oxygen.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "The combustion reactions for the hydrocarbons can be written accordingly.",
+    "answer_image": {
+      "present": true,
+      "description": "Chemical equations for the combustion of hydrocarbons.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777747839/ncert/chemistry/13/img_9_1.png",
+      "latex_extracted": "\\begin{array}{r l}{{\\mathrm{(i)}\\qquad{\\mathrm{2C_{4}H_{1,(g_{c})}}}+130_{3,(g)}\\longrightarrow8C\\Omega_{\\left(g\\right)}+10\\ H_{\\mathrm{z}}\\Omega_{\\left(g\\right)}+1{\\mathrm{Heal}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires knowledge of combustion reactions and writing equations.",
+    "topics_tags": [
+      "Combustion",
+      "Hydrocarbons",
+      "Chemical Reactions"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Chemical equations for the combustion of hydrocarbons.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777747839/ncert/chemistry/13/img_9_1.png",
+        "latex_extracted": "\\begin{array}{r l}{{\\mathrm{(i)}\\qquad{\\mathrm{2C_{4}H_{1,(g_{c})}}}+130_{3,(g)}\\longrightarrow8C\\Omega_{\\left(g\\right)}+10\\ H_{\\mathrm{z}}\\Omega_{\\left(g\\right)}+1{\\mathrm{Heal}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q13.6",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 13,
+    "chapter_name": "hydrocarbons",
+    "question_type": "conceptual",
+    "question_text": "Why is benzene extra ordinarily stable though it contains three double bonds?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram illustrating the structure of benzene and its resonance forms.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777747853/ncert/chemistry/13/img_10_2.jpg",
+      "latex_extracted": "\\begin{array}{c}{{\\displaystyle{}_{*}\\sqrt{\\backslash\\cdots}\\bar{\\P}_{*}}}\\\\ {{\\scriptstyle{}_{\\sqrt{\\backslash\\bar{\\backslash}}^{*}\\cdots\\hat{\\vartheta}_{\\zeta}^{*}\\bar{\\surd}}}}\\\\ {{\\scriptstyle{}_{\\sqrt{\\backslash}}^{*}\\bar{\\surd}\\bar{\\surd}^{*}\\bar{\\ /}^{*}\\cot\\vartheta^{*}\\odot\\ell\\sqrt{\\r}\\sqrt{\\vphantom{\\P}_{2}}^{2}}}\\\\ {{\\scriptstyle{}_{*\\bar{\\surd}}^{*}\\bar{\\surd}^{3}\\cdots\\hat{\\surd}^{*}\\langle*\\sqrt{\\q\\diamond}\\not{\\ /}_{\\to}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Benzene is a hybrid of resonating structures, which stabilizes it despite having three double bonds.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify that benzene has a planar structure with sp2 hybridized carbon atoms.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Explain that the delocalized π-electrons contribute to the stability of benzene.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the delocalization of π-electrons stabilizes benzene, making it extraordinarily stable.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of resonance and hybridization concepts.",
+    "topics_tags": [
+      "Benzene",
+      "Resonance",
+      "Stability",
+      "Aromatic Compounds"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram illustrating the structure of benzene and its resonance forms.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777747853/ncert/chemistry/13/img_10_2.jpg",
+        "latex_extracted": "\\begin{array}{c}{{\\displaystyle{}_{*}\\sqrt{\\backslash\\cdots}\\bar{\\P}_{*}}}\\\\ {{\\scriptstyle{}_{\\sqrt{\\backslash\\bar{\\backslash}}^{*}\\cdots\\hat{\\vartheta}_{\\zeta}^{*}\\bar{\\surd}}}}\\\\ {{\\scriptstyle{}_{\\sqrt{\\backslash}}^{*}\\bar{\\surd}\\bar{\\surd}^{*}\\bar{\\ /}^{*}\\cot\\vartheta^{*}\\odot\\ell\\sqrt{\\r}\\sqrt{\\vphantom{\\P}_{2}}^{2}}}\\\\ {{\\scriptstyle{}_{*\\bar{\\surd}}^{*}\\bar{\\surd}^{3}\\cdots\\hat{\\surd}^{*}\\langle*\\sqrt{\\q\\diamond}\\not{\\ /}_{\\to}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.7",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 13,
+    "chapter_name": "hydrocarbons",
+    "question_type": "conceptual",
+    "question_text": "What are the necessary conditions for any system to be aromatic?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "It should have a planar structure.",
+        "part_latex": null,
+        "answer_text": "The compound must be planar to allow for effective overlap of p-orbitals.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, planarity is essential for aromaticity.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "The π-electrons of the compound are completely delocalized in the ring.",
+        "part_latex": null,
+        "answer_text": "Complete delocalization of π-electrons is necessary for stability.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Therefore, delocalization is crucial for aromatic compounds.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "The total number of π-electrons present in the ring should be equal to (4n + 2), where n = 0, 1, 2 … etc.",
+        "part_latex": null,
+        "answer_text": "This is known as Huckel's rule, which defines the aromaticity condition.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, Huckel's rule is a key criterion for aromaticity.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of aromaticity and Huckel's rule.",
+    "topics_tags": [
+      "Aromaticity",
+      "Huckel's Rule",
+      "Planarity",
+      "Delocalization"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.8",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 13,
+    "chapter_name": "hydrocarbons",
+    "question_type": "conceptual",
+    "question_text": "In the alkane H3C-CH2-C(CH3)2-CH2-CH(CH3)2, identify 1°, 2°, 3° carbon atoms and give the number of H atoms bonded to each one of these.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "1° carbon atoms are those which are bonded to only one carbon atom, i.e., they have only one carbon atom as their neighbour. The given structure has five 1° carbon atoms and fifteen hydrogen atoms are attached to it. 2° carbon atoms are those which are bonded to two carbon atoms, i.e., they have two carbon atoms as their neighbours. The given structure has two 2° carbon atoms and four hydrogen atoms are attached to it. 3° carbon atoms are those which are bonded to three carbon atoms, i.e., they have three carbon atoms as their neighbours. The given structure has one 3° carbon atom and only one hydrogen atom is attached to it.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the structure has five 1° carbon atoms, two 2° carbon atoms, and one 3° carbon atom.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the structure of the alkane with carbon and hydrogen atoms.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777747872/ncert/chemistry/13/img_14_2.jpg",
+      "latex_extracted": "\\begin{array}{r l l}{{\\mathrm{H}}}&{{\\mathrm{H}}}&{{\\mathrm{cih}_{\\mathrm{3}}\\ \\ \\mathrm{H}}}&{{\\mathrm{cit}_{\\mathrm{5}}}}\\\\ {{\\mathrm{n-{\\frac{1}{c}}-\\mathrm{c}}-\\mathrm{c-}\\mathrm{c-}\\mathrm{c-}\\mathrm{c-}\\mathrm{c-}\\mathrm{c-}\\mathrm{c-}\\mathrm{a_{\\mathrm{b}}}}}\\\\ {{\\mathrm{in}}}&{{\\mathrm{n_{\\mathrm{\\boldmath~1~1~1~1~2~1~2~M~\\bar{H}}~\\ n_{\\mathrm{\\boldmath~1~2~M~\\bar{H}}~\\ n_{\\mathrm{\\boldmath~1~2~NH}}~}}}}\\end{array}}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of carbon atom classification and counting.",
+    "topics_tags": [
+      "Alkanes",
+      "Carbon Atoms",
+      "Hydrocarbons"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the structure of the alkane with carbon and hydrogen atoms.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777747872/ncert/chemistry/13/img_14_2.jpg",
+        "latex_extracted": "\\begin{array}{r l l}{{\\mathrm{H}}}&{{\\mathrm{H}}}&{{\\mathrm{cih}_{\\mathrm{3}}\\ \\ \\mathrm{H}}}&{{\\mathrm{cit}_{\\mathrm{5}}}}\\\\ {{\\mathrm{n-{\\frac{1}{c}}-\\mathrm{c}}-\\mathrm{c-}\\mathrm{c-}\\mathrm{c-}\\mathrm{c-}\\mathrm{c-}\\mathrm{c-}\\mathrm{c-}\\mathrm{a_{\\mathrm{b}}}}}\\\\ {{\\mathrm{in}}}&{{\\mathrm{n_{\\mathrm{\\boldmath~1~1~1~1~2~1~2~M~\\bar{H}}~\\ n_{\\mathrm{\\boldmath~1~2~M~\\bar{H}}~\\ n_{\\mathrm{\\boldmath~1~2~NH}}~}}}}\\end{array}}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q13.9",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 13,
+    "chapter_name": "hydrocarbons",
+    "question_type": "conceptual",
+    "question_text": "What effect does branching of an alkane chain has on its boiling point?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Alkanes experience inter-molecular Van der Waals forces. The stronger the force, the greater will be the boiling point of the alkane. As branching increases, the surface area of the molecule decreases which results in a small area of contact. As a result, the Van der Waals force also decreases which can be overcome at a relatively lower temperature. Hence, the boiling point of an alkane chain decreases with an increase in branching.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the boiling point of an alkane chain decreases with an increase in branching.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of molecular forces and their impact on boiling point.",
+    "topics_tags": [
+      "Boiling Point",
+      "Alkanes",
+      "Branching"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.10",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 13,
+    "chapter_name": "hydrocarbons",
+    "question_type": "conceptual",
+    "question_text": "Addition of HBr to propene yields 2-bromopropane, while in the presence of benzoyl peroxide, the same reaction yields 1-bromopropane. Explain and give mechanism.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Addition of HBr to propene is an example of an electrophilic substitution reaction. Hydrogen bromide provides an electrophile, H+. This electrophile attacks the double bond to form 1° and 2° carbocations as shown: Secondary carbocations are more stable than primary carbocations. Hence, the former predominates since it will form at a faster rate. Thus, in the next step, Br- attacks the carbocation to form 2-bromopropane as the major product. This reaction follows Markovnikov's rule where the negative part of the addendum is attached to the carbon atom having a lesser number of hydrogen atoms. In the presence of benzoyl peroxide, an addition reaction takes place anti to Markovnikov's rule.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the reaction mechanism illustrates the formation of 2-bromopropane under normal conditions and 1-bromopropane in the presence of benzoyl peroxide.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram illustrating the electrophilic addition mechanism of HBr to propene.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777747885/ncert/chemistry/13/img_15_0.jpg",
+      "latex_extracted": "\\begin{array}{r l}{{\\mathrm{H_{3}}\\stackrel{\\mathrm{d}}{\\mathrm{C}}-\\mathrm{CH}=\\stackrel{\\mathrm{d}}{\\mathrm{H}}_{2}+\\mathrm{H}-\\mathrm{Br}}}\\\\ {{\\sqrt{\\mathrm{H}^{\\circ}}}&{{\\mathrm{H}_{3}\\mathrm{C}-\\mathrm{cH}_{2}+\\mathrm{B}_{3}\\mathrm{c}}}\\\\ {{\\mathrm{pime{s}}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\bar{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{\\mathrm{s}\\mathrm{s}\\mathrm{\\mathrm{\\mathrm{s}\\mathrm{s}\\mathrm{\\bar{\\mathrm{s}\\bar{s}\\mathrm{\\mathrm{\\mathrm{\\bar{s}\\bar{\\mathrm{s}\\mathrm{s}}\\mathrm{s}\\underline{\\mathrm{\\mathrm{s}\\mathrm{s}\\mathrm",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of reaction mechanisms and stability of carbocations.",
+    "topics_tags": [
+      "Electrophilic Addition",
+      "Propene",
+      "Bromination"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram illustrating the electrophilic addition mechanism of HBr to propene.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777747885/ncert/chemistry/13/img_15_0.jpg",
+        "latex_extracted": "\\begin{array}{r l}{{\\mathrm{H_{3}}\\stackrel{\\mathrm{d}}{\\mathrm{C}}-\\mathrm{CH}=\\stackrel{\\mathrm{d}}{\\mathrm{H}}_{2}+\\mathrm{H}-\\mathrm{Br}}}\\\\ {{\\sqrt{\\mathrm{H}^{\\circ}}}&{{\\mathrm{H}_{3}\\mathrm{C}-\\mathrm{cH}_{2}+\\mathrm{B}_{3}\\mathrm{c}}}\\\\ {{\\mathrm{pime{s}}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\bar{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{s}\\mathrm{\\mathrm{s}\\mathrm{s}\\mathrm{\\mathrm{\\mathrm{s}\\mathrm{s}\\mathrm{\\bar{\\mathrm{s}\\bar{s}\\mathrm{\\mathrm{\\mathrm{\\bar{s}\\bar{\\mathrm{s}\\mathrm{s}}\\mathrm{s}\\underline{\\mathrm{\\mathrm{s}\\mathrm{s}\\mathrm",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q13.11",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 13,
+    "chapter_name": "hydrocarbons",
+    "question_type": "conceptual",
+    "question_text": "Write down the products of ozonolysis of 1, 2-dimethylbenzene (o-xylene). How does the result support Kekulé structure for benzene?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "o-xylene has two resonance structures: All three products, i.e., methyl glyoxal, 1, 2-dimethylglyoxal, and glyoxal are obtained from two Kekule structures. Since all three products cannot be obtained from any one of the two structures, this proves that o-xylene is a resonance hybrid of two Kekule structures (I and II).",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the result supports the Kekulé structure for benzene.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the products of ozonolysis of o-xylene.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777747890/ncert/chemistry/13/img_16_0.jpg",
+      "latex_extracted": "\\begin{array}{c}{{\\mathrm{coll}_{5}-\\mathrm{C-O-C}-\\mathrm{C}-\\mathrm{C}_{6}\\mathrm{H}_{5}}}\\\\ {{\\mathrm{o}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of resonance structures and their implications.",
+    "topics_tags": [
+      "Ozonolysis",
+      "Kekulé Structure",
+      "Resonance"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the products of ozonolysis of o-xylene.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777747890/ncert/chemistry/13/img_16_0.jpg",
+        "latex_extracted": "\\begin{array}{c}{{\\mathrm{coll}_{5}-\\mathrm{C-O-C}-\\mathrm{C}-\\mathrm{C}_{6}\\mathrm{H}_{5}}}\\\\ {{\\mathrm{o}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      },
+      {
+        "present": true,
+        "description": "Diagram showing the resonance structures of o-xylene.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777747893/ncert/chemistry/13/img_16_1.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q13.12",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 13,
+    "chapter_name": "hydrocarbons",
+    "question_type": "conceptual",
+    "question_text": "Arrange benzene, n-hexane and ethyne in decreasing order of acidic behaviour. Also give reason for this behaviour.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The acidic character of a species is defined on the basis of ease with which it can lose its H-atoms. The hybridization state of carbon in the given compound is: As the s-character increases, the electronegativity of carbon increases and the electrons of C-H bond pair lie closer to the carbon atom. As a result, partial positive charge of H-atom increases and H+ ions are set free. The s-character increases in the order: sp3 < sp2 < sp. Hence, the decreasing order of acidic behaviour is Ethyne > Benzene > Hexane.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the decreasing order of acidic behaviour is Ethyne > Benzene > Hexane.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of acidity and hybridization.",
+    "topics_tags": [
+      "Acidity",
+      "Hybridization",
+      "Hydrocarbons"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.13",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 13,
+    "chapter_name": "hydrocarbons",
+    "question_type": "conceptual",
+    "question_text": "Why does benzene undergo electrophilic substitution reactions easily and nucleophilic substitutions with difficulty?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Benzene is a planar molecule having delocalized electrons above and below the plane of ring. Hence, it is electron-rich. As a result, it is highly attractive to electron deficient species i.e., electrophiles. Therefore, it undergoes electrophilic substitution reactions very easily. Nucleophiles are electron-rich. Hence, they are repelled by benzene. Hence, benzene undergoes nucleophilic substitutions with difficulty.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, benzene easily undergoes electrophilic substitution but not nucleophilic substitution.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves understanding of electrophiles and nucleophiles.",
+    "topics_tags": [
+      "Electrophilic Substitution",
+      "Nucleophilic Substitution",
+      "Benzene"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.14",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 13,
+    "chapter_name": "hydrocarbons",
+    "question_type": "conceptual",
+    "question_text": "Write structures of all the alkenes which on hydrogenation give 2-methylbutane.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Basic skeleton of 2-methylbutane with various alkenes that can yield it upon hydrogenation.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777747917/ncert/chemistry/13/img_19_0.jpg",
+      "latex_extracted": "\\begin{array}{l}{{\\mathrm{H_{3}C}}}\\\\ {{\\mathrm{H_{3}C}\\quad\\mathrm{CH_{2}}\\quad\\mathrm{CH_{2}}\\quad\\mathrm{Cyclanston}}}\\\\ {{\\mathrm{H_{2}C}\\qquad\\mathrm{CH_{2}}\\qquad\\mathrm{CNclonstration}}}\\\\ {{\\mathrm{M_{2}C}\\qquad\\qquad\\qquad\\qquad\\left\\{\\mathrm{Acmenstre}.}}\\end{array}\\right.}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The basic skeleton of 2-methylbutane is shown below. Various alkenes that will give 2-methylbutane on hydrogenation are provided in the images.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "The structures of the alkenes that yield 2-methylbutane upon hydrogenation are illustrated in the images.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of organic reactions and structural representation.",
+    "topics_tags": [
+      "Alkenes",
+      "Hydrogenation",
+      "2-Methylbutane"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "Some structural details may be unclear due to image quality."
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Basic skeleton of 2-methylbutane with various alkenes that can yield it upon hydrogenation.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777747917/ncert/chemistry/13/img_19_0.jpg",
+        "latex_extracted": "\\begin{array}{l}{{\\mathrm{H_{3}C}}}\\\\ {{\\mathrm{H_{3}C}\\quad\\mathrm{CH_{2}}\\quad\\mathrm{CH_{2}}\\quad\\mathrm{Cyclanston}}}\\\\ {{\\mathrm{H_{2}C}\\qquad\\mathrm{CH_{2}}\\qquad\\mathrm{CNclonstration}}}\\\\ {{\\mathrm{M_{2}C}\\qquad\\qquad\\qquad\\qquad\\left\\{\\mathrm{Acmenstre}.}}\\end{array}\\right.}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.15",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 13,
+    "chapter_name": "hydrocarbons",
+    "question_type": "mcq",
+    "question_text": "Arrange the following set of compounds in order of their decreasing relative reactivity with an electrophile, E+: (a) Chlorobenzene, 2,4-dinitrochlorobenzene, p-nitrochlorobenzene (b) Toluene, p-HC-CH-NO, p-ON-CH-NO.",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "Chlorobenzene, 2,4-dinitrochlorobenzene, p-nitrochlorobenzene"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "Toluene, p-HC-CH-NO, p-ON-CH-NO."
+      }
+    ],
+    "correct_option": "(A)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Electrophiles are reagents that participate in a reaction by accepting an electron pair in order to bond to nucleophiles. The higher the electron density on a benzene ring, the more reactive is the compound towards an electrophile. The decreasing order of reactivity is as follows: Chlorobenzene > p-nitrochlorobenzene > 2,4-dinitrochlorobenzene for part (a) and Toluene > p-CH-CH-NO, p-ON-CH-NO for part (b).",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the order of reactivity is established based on the electron density influenced by substituents.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of electrophilic substitution and the effects of substituents.",
+    "topics_tags": [
+      "Electrophilic Substitution",
+      "Reactivity",
+      "Benzene Derivatives"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.16",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 13,
+    "chapter_name": "hydrocarbons",
+    "question_type": "conceptual",
+    "question_text": "Out of benzene, m-dinitrobenzene and toluene which will undergo nitration most easily and why?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The ease of nitration depends on the presence of electron density on the compound to form nitrates. Toluene will have the maximum electron density among the three compounds followed by benzene, while m-dinitrobenzene will have the least electron density and will undergo nitration with difficulty.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, toluene undergoes nitration most easily due to its higher electron density.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves understanding of electrophilic substitution and electron density effects.",
+    "topics_tags": [
+      "Nitration",
+      "Electrophilic Substitution",
+      "Benzene"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.17",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 13,
+    "chapter_name": "hydrocarbons",
+    "question_type": "conceptual",
+    "question_text": "Suggest the name of a Lewis acid other than anhydrous aluminium chloride which can be used during ethylation of benzene.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Any Lewis acid like anhydrous FeCl3, SnCl4, or BF3 can be used during the ethylation of benzene.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, various Lewis acids can facilitate the ethylation process.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of knowledge regarding Lewis acids.",
+    "topics_tags": [
+      "Lewis Acids",
+      "Ethylation",
+      "Friedel-Crafts Reaction"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.18",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 13,
+    "chapter_name": "hydrocarbons",
+    "question_type": "conceptual",
+    "question_text": "Why is Wurtz reaction not preferred for the preparation of alkanes containing odd number of carbon atoms? Illustrate your answer by taking one example.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Illustration of Wurtz reaction showing the formation of symmetrical alkanes.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777747932/ncert/chemistry/13/img_21_0.jpg",
+      "latex_extracted": "\\underbrace{\\mathrm{cH}_{3}\\to\\cdots,\\cdots,\\cdots,\\cdots,\\cdots,\\cdots,\\cdots,\\cdots,\\cdots,\\cdots,}_{\\mathrm{cr},\\mathrm{cl}_{3}}\\underbrace{D y}_{\\mathrm{elar}}\\mathrm{cH}_{\\mathrm{elame}}\\mathrm{cH}_{3}\\longrightarrow\\mathrm{cH}_{3}\\longrightarrow\\mathrm{cH}_{3}+2N a B_{T}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Wurtz reaction is limited for the synthesis of symmetrical alkanes (alkanes with an even number of carbon atoms). It cannot be used for the preparation of unsymmetrical alkanes because if two dissimilar alkyl halides are taken as reactants, a mixture of alkanes is obtained. For example, the reaction of bromomethane and iodoethane gives a mixture of alkanes.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, Wurtz reaction is not preferred for odd-numbered alkanes due to the formation of mixtures.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of reaction mechanisms and examples.",
+    "topics_tags": [
+      "Wurtz Reaction",
+      "Alkanes",
+      "Organic Synthesis"
+    ],
+    "confidence_score": 0.88,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Illustration of Wurtz reaction showing the formation of symmetrical alkanes.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777747932/ncert/chemistry/13/img_21_0.jpg",
+        "latex_extracted": "\\underbrace{\\mathrm{cH}_{3}\\to\\cdots,\\cdots,\\cdots,\\cdots,\\cdots,\\cdots,\\cdots,\\cdots,\\cdots,\\cdots,}_{\\mathrm{cr},\\mathrm{cl}_{3}}\\underbrace{D y}_{\\mathrm{elar}}\\mathrm{cH}_{\\mathrm{elame}}\\mathrm{cH}_{3}\\longrightarrow\\mathrm{cH}_{3}\\longrightarrow\\mathrm{cH}_{3}+2N a B_{T}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  }
+]

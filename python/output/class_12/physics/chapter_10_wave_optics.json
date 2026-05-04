@@ -1,0 +1,1425 @@
+[
+  {
+    "question_id": "Q10.1",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 10,
+    "chapter_name": "Wave Optics",
+    "question_type": "mcq",
+    "question_text": "Monochromatic light of wavelength 589 nm is incident from air on a water surface. What are the wavelength, frequency and speed of (a) reflected, and (b) refracted light? Refractive index of water is 1.33.",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "reflected, and"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "refracted light? Refractive index of water is 1.33."
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "What are the wavelength, frequency and speed of the reflected light?",
+        "part_latex": null,
+        "answer_text": "The wavelength, speed, and frequency of the reflected light are 589 nm, 3 × 10^8 m/s, and 5.09 × 10^14 Hz respectively.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify that the reflected ray will have the same properties as the incident ray.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "State the values for wavelength, speed, and frequency of the reflected light.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Therefore, the reflected light has a wavelength of 589 nm, speed of 3 × 10^8 m/s, and frequency of 5.09 × 10^14 Hz.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "What are the wavelength, frequency and speed of the refracted light?",
+        "part_latex": null,
+        "answer_text": "The frequency of the refracted ray in water will be equal to the frequency of the incident or reflected light in air, which is 5.09 × 10^14 Hz. The speed of light in water can be calculated using the refractive index.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the refractive index to find the speed of light in water.",
+            "expression": "v = \\frac{c}{\\mu} = \\frac{3 \\times 10^8}{1.33}"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the speed of light in water.",
+            "expression": "v \\approx 2.26 \\times 10^8 m/s"
+          }
+        ],
+        "final_answer": "Thus, the refracted light has a frequency of 5.09 × 10^14 Hz and speed of approximately 2.26 × 10^8 m/s.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical relation for frequency and speed of light in different media.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777742734/ncert/physics/10/img_1_0.png",
+      "latex_extracted": "\\begin{array}{c}{{\\frac{3\\times10^{\\circ}}{589\\times10^{\\circ}}}}\\\\ {{=\\frac{3\\times10^{\\circ}}{5.09\\times10^{\\circ}}\\mathrm{Hz}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of light properties and application of refractive index.",
+    "topics_tags": [
+      "Refraction",
+      "Reflection",
+      "Wavelength",
+      "Frequency",
+      "Speed of Light"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical relation for frequency and speed of light in different media.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777742734/ncert/physics/10/img_1_0.png",
+        "latex_extracted": "\\begin{array}{c}{{\\frac{3\\times10^{\\circ}}{589\\times10^{\\circ}}}}\\\\ {{=\\frac{3\\times10^{\\circ}}{5.09\\times10^{\\circ}}\\mathrm{Hz}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q10.2",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 10,
+    "chapter_name": "wave optics",
+    "question_type": "conceptual",
+    "question_text": "What is the shape of the wavefront in each of the following cases: Light diverging from a point source. Light emerging out of a convex lens when a point source is placed at its focus. The portion of the wavefront of light from a distant star intercepted by the Earth.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of the speed of light in water and its wavelength.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758837/ncert/physics/10/img_2_0.png",
+      "latex_extracted": "\\begin{array}{c}{{\\nu=\\frac{c}{\\mu}}}\\\\ {{\\mu}}\\\\ {{\\nu=\\frac{3\\times10^{5}}{1.33}=2.26\\times10^{5}\\mathrm{m/s}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The shape of the wavefront in case of light diverging from a point source is spherical. The wavefront emanating from a point source is shown in the given figure.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the wavefronts are spherical for a point source and planar for distant sources.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of the wavelength of light in water.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777742738/ncert/physics/10/img_2_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of wavefront concepts and basic optics.",
+    "topics_tags": [
+      "Wavefront",
+      "Optics",
+      "Light Divergence"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the speed of light in water and its wavelength.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758837/ncert/physics/10/img_2_0.png",
+        "latex_extracted": "\\begin{array}{c}{{\\nu=\\frac{c}{\\mu}}}\\\\ {{\\mu}}\\\\ {{\\nu=\\frac{3\\times10^{5}}{1.33}=2.26\\times10^{5}\\mathrm{m/s}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the wavelength of light in water.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777742738/ncert/physics/10/img_2_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q10.3",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 10,
+    "chapter_name": "wave optics",
+    "question_type": "mcq",
+    "question_text": "The refractive index of glass is 1.5. What is the speed of light in glass? Speed of light in vacuum is 3.0 × 10^8 m/s. Is the speed of light in glass independent of the colour of light? If not, which of the two colours red and violet travels slower in a glass prism?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagrams related to wavefronts and light propagation through a convex lens.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758842/ncert/physics/10/img_3_0.png",
+      "latex_extracted": "\\begin{array}{c}{{\\stackrel{\\scriptstyle{\\ --\\infty}}}}\\\\ {{\\cdots\\sim\\sim}}\\\\ {{\\sim\\sim\\sim}}\\\\ {{\\sim\\sum_{\\sim}\\mathcal{X}_{\\cdot}^{\\times}\\sum_{\\cdot}^{\\prime}}}\\\\ {{\\sim\\sum_{\\sim}\\sum_{\\cdot}^{\\prime}\\sum_{\\\\{}^{\\prime}}}\\\\ {{\\sim\\sum_{\\sim1}^{\\prime}\\sum_{\\cdot}^{\\prime}\\sum_{\\cdot}^{\\prime}}}\\\\ {{\\sim\\sum_{\\cdot}^{\\prime}\\sum_{\\cdot}^{\\prime}\\sum_{\\cdot}^{\\prime}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "What is the speed of light in glass?",
+        "part_latex": null,
+        "answer_text": "The speed of light in glass can be calculated using the formula: v = c / μ, where c is the speed of light in vacuum and μ is the refractive index.",
+        "answer_latex": "v = \\frac{c}{\\mu} = \\frac{3 \\times 10^8 \\text{ m/s}}{1.5} = 2 \\times 10^8 \\text{ m/s}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the formula for speed of light in a medium.",
+            "expression": "v = \\frac{c}{\\mu}"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the values of c and μ.",
+            "expression": "v = \\frac{3 \\times 10^8}{1.5}"
+          },
+          {
+            "step_number": 3,
+            "description": "Calculate the speed of light in glass.",
+            "expression": "v = 2 \\times 10^8 \\text{ m/s}"
+          }
+        ],
+        "final_answer": "Therefore, the speed of light in glass is 2 × 10^8 m/s.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Is the speed of light in glass independent of the colour of light?",
+        "part_latex": null,
+        "answer_text": "No, the speed of light in glass is not independent of the colour of light.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Violet light travels slower than red light in a glass prism.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of refractive index and its application in calculating speed of light.",
+    "topics_tags": [
+      "Refractive Index",
+      "Speed of Light",
+      "Wave Optics"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "Some text garbling in the question extraction."
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagrams related to wavefronts and light propagation through a convex lens.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758842/ncert/physics/10/img_3_0.png",
+        "latex_extracted": "\\begin{array}{c}{{\\stackrel{\\scriptstyle{\\ --\\infty}}}}\\\\ {{\\cdots\\sim\\sim}}\\\\ {{\\sim\\sim\\sim}}\\\\ {{\\sim\\sum_{\\sim}\\mathcal{X}_{\\cdot}^{\\times}\\sum_{\\cdot}^{\\prime}}}\\\\ {{\\sim\\sum_{\\sim}\\sum_{\\cdot}^{\\prime}\\sum_{\\\\{}^{\\prime}}}\\\\ {{\\sim\\sum_{\\sim1}^{\\prime}\\sum_{\\cdot}^{\\prime}\\sum_{\\cdot}^{\\prime}}}\\\\ {{\\sim\\sum_{\\cdot}^{\\prime}\\sum_{\\cdot}^{\\prime}\\sum_{\\cdot}^{\\prime}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q10.4",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 10,
+    "chapter_name": "wave optics",
+    "question_type": "mcq",
+    "question_text": "In a Young’s double-slit experiment, the slits are separated by 0.28 mm and the screen is placed 1.4 m away. The distance between the central bright fringe and the fourth bright fringe is measured to be 1.2 cm. Determine the wavelength of light used in the experiment.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Hence, the wavelength of the light is 600 nm.",
+    "answer_latex": "600\\;\\mathrm{nm}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Convert the measurements to meters.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the formula for wavelength in a double-slit experiment.",
+        "expression": "\\lambda = \\frac{y D}{d} = \\frac{1.2 \\times 10^{-2} \\times 1.4}{0.28 \\times 10^{-3}}"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the wavelength.",
+        "expression": "600 \\; \\mathrm{nm}"
+      }
+    ],
+    "final_answer": "Therefore, the wavelength of the light used in the experiment is 600 nm.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical calculation showing the relationship for wavelength determination in a double-slit experiment.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758849/ncert/physics/10/img_5_0.png",
+      "latex_extracted": "\\begin{array}{c}{{=\\frac{1.2\\times10^{-2}\\times0.28\\times10^{-3}}}}\\\\ {{=6\\times10^{-4}}}\\\\ {{=600\\;\\mathrm{nm}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of the double-slit experiment and basic calculations.",
+    "topics_tags": [
+      "Young's Double-Slit Experiment",
+      "Wavelength",
+      "Interference"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical calculation showing the relationship for wavelength determination in a double-slit experiment.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758849/ncert/physics/10/img_5_0.png",
+        "latex_extracted": "\\begin{array}{c}{{=\\frac{1.2\\times10^{-2}\\times0.28\\times10^{-3}}}}\\\\ {{=6\\times10^{-4}}}\\\\ {{=600\\;\\mathrm{nm}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q10.5",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 10,
+    "chapter_name": "wave optics",
+    "question_type": "conceptual",
+    "question_text": "In Young’s double-slit experiment using monochromatic light of wavelength λ, the intensity of light at a point on the screen where path difference is λ, is K units. What is the intensity of light at a point where path difference is λ/3?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical expression showing the relationship for intensity in a double-slit experiment.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758852/ncert/physics/10/img_5_1.png",
+      "latex_extracted": "\\begin{array}{c}{{\\stackrel{.}{\\sim}}\\:I_{1}^{\\prime}=I_{1}+I_{1}+2\\sqrt{I_{1}I_{1}}\\cos\\phi}}\\\\ {{=2I_{1}+2I_{1}\\cos\\phi}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of intensity and phase difference in wave optics.",
+    "topics_tags": [
+      "Intensity",
+      "Path Difference",
+      "Wave Optics"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical expression showing the relationship for intensity in a double-slit experiment.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758852/ncert/physics/10/img_5_1.png",
+        "latex_extracted": "\\begin{array}{c}{{\\stackrel{.}{\\sim}}\\:I_{1}^{\\prime}=I_{1}+I_{1}+2\\sqrt{I_{1}I_{1}}\\cos\\phi}}\\\\ {{=2I_{1}+2I_{1}\\cos\\phi}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q10.6",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 10,
+    "chapter_name": "wave optics",
+    "question_type": "conceptual",
+    "question_text": "Let the nth bright fringe due to wavelength and (n − 1)th bright fringe due to wavelength coincide on the screen. We can equate the conditions for bright fringes as: Hence, the least distance from the central maximum can be obtained by the relation.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical relation for nth bright fringe in terms of wavelength and distances.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758854/ncert/physics/10/img_7_0.png",
+      "latex_extracted": "\\begin{array}{r}{x=n\\lambda_{1}{\\bigg(}{\\frac{D}{d}}{\\bigg)}}\\\\ {\\operatorname{For\\third\\brightfinge,}\\ n=3}\\\\ {\\vdots}\\\\ {\\therefore{x}=3\\times650{\\frac{D}{d}}=1950{\\bigg(}{\\frac{D}{d}}{\\bigg)}{\\mathrm{nm}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of fringe conditions and mathematical relations.",
+    "topics_tags": [
+      "Interference",
+      "Fringe Width",
+      "Double-Slit Experiment"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical relation for nth bright fringe in terms of wavelength and distances.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758854/ncert/physics/10/img_7_0.png",
+        "latex_extracted": "\\begin{array}{r}{x=n\\lambda_{1}{\\bigg(}{\\frac{D}{d}}{\\bigg)}}\\\\ {\\operatorname{For\\third\\brightfinge,}\\ n=3}\\\\ {\\vdots}\\\\ {\\therefore{x}=3\\times650{\\frac{D}{d}}=1950{\\bigg(}{\\frac{D}{d}}{\\bigg)}{\\mathrm{nm}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q10.7",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 10,
+    "chapter_name": "wave optics",
+    "question_type": "numerical",
+    "question_text": "In a double-slit experiment the angular width of a fringe is found to be 0.2° on a screen placed 1 m away. The wavelength of light used is 600 nm. What will be the angular width of the fringe if the entire experimental apparatus is immersed in water? Take refractive index of water to be 4/3.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, the angular width of the fringe in water will reduce to 0.15°.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the relationship between angular width and refractive index.",
+        "expression": "\\mu=\\frac{\\theta_{1}}{\\theta_{2}}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the new angular width in water using the refractive index.",
+        "expression": "\\theta_{2}=\\frac{3}{4}\\times0.2"
+      }
+    ],
+    "final_answer": "Thus, the angular width of the fringe in water is 0.15°.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical relation for angular width of fringe in terms of refractive index.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758861/ncert/physics/10/img_8_0.png",
+      "latex_extracted": "\\begin{array}{c}{{\\mu=\\frac{\\theta_{1}}{\\theta_{2}}}}\\\\ {{\\theta_{2}=\\frac{3}{4}\\theta_{1}}}\\\\ {{\\theta_{2}=\\frac{3}{4}\\theta_{1}}}\\\\ {{\\nonumber=\\frac{3}{4}\\times0.2=0.15}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic application of refractive index and angular width.",
+    "topics_tags": [
+      "Double-Slit Experiment",
+      "Angular Width",
+      "Refraction"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical relation for angular width of fringe in terms of refractive index.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758861/ncert/physics/10/img_8_0.png",
+        "latex_extracted": "\\begin{array}{c}{{\\mu=\\frac{\\theta_{1}}{\\theta_{2}}}}\\\\ {{\\theta_{2}=\\frac{3}{4}\\theta_{1}}}\\\\ {{\\theta_{2}=\\frac{3}{4}\\theta_{1}}}\\\\ {{\\nonumber=\\frac{3}{4}\\times0.2=0.15}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q10.8",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 10,
+    "chapter_name": "wave optics",
+    "question_type": "mcq",
+    "question_text": "What is the Brewster angle for air to glass transition? (Refractive index of glass = 1.5.)",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, the Brewster angle for air to glass transition is 56.31°.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the Brewster angle is 56.31°.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of Brewster's law and basic calculation.",
+    "topics_tags": [
+      "Brewster Angle",
+      "Refraction",
+      "Optics"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q10.9",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 10,
+    "chapter_name": "wave optics",
+    "question_type": "numerical",
+    "question_text": "Light of wavelength 5000 Å falls on a plane reflecting surface. What are the wavelength and frequency of the reflected light? For what angle of incidence is the reflected ray normal to the incident ray?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Hence, the wavelength of reflected light is 5000 Å and its frequency is 6 × 10^14 Hz.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the frequency using the speed of light and wavelength.",
+        "expression": "\\nu=\\frac{c}{\\lambda}"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values to find frequency.",
+        "expression": "\\frac{3\\times10^{8}}{5000\\times10^{-10}}=6\\times10^{14}"
+      }
+    ],
+    "final_answer": "Thus, the wavelength of reflected light is 5000 Å and its frequency is 6 × 10^14 Hz.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical relation for frequency of light in terms of wavelength.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758863/ncert/physics/10/img_9_0.png",
+      "latex_extracted": "\\begin{array}{l}{{\\nu=\\frac{c}{\\lambda}}}\\\\ {{\\frac{3\\times10^{\\mathrm{in}}}{5000\\times10^{-10}}=6\\times10^{14}\\,\\mathrm{Hz}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic calculations of wavelength and frequency.",
+    "topics_tags": [
+      "Reflection",
+      "Wavelength",
+      "Frequency"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical relation for frequency of light in terms of wavelength.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758863/ncert/physics/10/img_9_0.png",
+        "latex_extracted": "\\begin{array}{l}{{\\nu=\\frac{c}{\\lambda}}}\\\\ {{\\frac{3\\times10^{\\mathrm{in}}}{5000\\times10^{-10}}=6\\times10^{14}\\,\\mathrm{Hz}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q10.10",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 10,
+    "chapter_name": "wave optics",
+    "question_type": "numerical",
+    "question_text": "Estimate the distance for which ray optics is a good approximation for an aperture of 4 mm and wavelength 400 nm.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The distance for which ray optics is a good approximation is 40 m.",
+    "answer_latex": "Z_{F}={\\frac{\\left(4\\times10^{-3}\\right)^{2}}{400\\times10^{-9}}}=40~\\mathrm{m}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the formula for Fresnel's distance.",
+        "expression": "Z_{F}={\\frac{a^{2}}{\\lambda}}"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values of aperture width and wavelength into the formula.",
+        "expression": "Z_{F}={\\frac{\\left(4\\times10^{-3}\\right)^{2}}{400\\times10^{-9}}}"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the distance.",
+        "expression": "Z_{F}=40~\\mathrm{m}"
+      }
+    ],
+    "final_answer": "Therefore, the distance for which ray optics is a good approximation is 40 m.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of the angle of incidence being 45 degrees.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758866/ncert/physics/10/img_10_0.png",
+      "latex_extracted": "\\begin{array}{c}{{{\\mathcal{L}}i+\\mathbb{Z}^{r}=90}}\\\\ {{\\angle i+\\mathbb{Z}i=90}}\\\\ {{\\angle i={\\frac{90}{2}}=45^{\\circ}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of the formula and basic substitution.",
+    "topics_tags": [
+      "Ray Optics",
+      "Fresnel's Distance",
+      "Wavelength"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the angle of incidence being 45 degrees.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758866/ncert/physics/10/img_10_0.png",
+        "latex_extracted": "\\begin{array}{c}{{{\\mathcal{L}}i+\\mathbb{Z}^{r}=90}}\\\\ {{\\angle i+\\mathbb{Z}i=90}}\\\\ {{\\angle i={\\frac{90}{2}}=45^{\\circ}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      },
+      {
+        "present": true,
+        "description": "Mathematical calculation showing the derivation of Fresnel's distance.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758867/ncert/physics/10/img_10_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q10.11",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 10,
+    "chapter_name": "wave optics",
+    "question_type": "conceptual",
+    "question_text": "Explain how Corpuscular theory predicts the speed of light in a medium, say water, to be greater than the speed of light in vacuum. Is the prediction confirmed by experimental determination of the speed of light in water? If not, which alternative picture of light is consistent with experiment?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The speed of light in a medium is predicted to be greater than in vacuum due to the interaction of light particles with the medium. However, experimental results show that light travels slower in water than in vacuum, confirming the wave theory of light instead.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the wave theory of light is consistent with experimental observations.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of both corpuscular and wave theories of light.",
+    "topics_tags": [
+      "Corpuscular Theory",
+      "Wave Theory",
+      "Speed of Light"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q10.12",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 10,
+    "chapter_name": "Wave Optics",
+    "question_type": "conceptual",
+    "question_text": "Use Huygens’ principle to deduce directly that a point object placed in front of a plane mirror produces a virtual image whose distance from the mirror is equal to the object distance from the mirror.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "According to Huygens' principle, every point on a wavefront acts as a source of secondary wavelets. When a point object is placed in front of a plane mirror, the wavefronts from the object reach the mirror and reflect back. The virtual image formed is at the same distance behind the mirror as the object is in front of it.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the distance of the virtual image from the mirror is equal to the object distance from the mirror.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of Huygens' principle and basic reflection concepts.",
+    "topics_tags": [
+      "Huygens' Principle",
+      "Reflection",
+      "Virtual Image"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q10.13",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 10,
+    "chapter_name": "wave optics",
+    "question_type": "conceptual",
+    "question_text": "List some of the factors which could possibly influence the speed of wave propagation.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram illustrating the concept of wavefront and reflection in a plane mirror.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758875/ncert/physics/10/img_13_0.png",
+      "latex_extracted": "\\begin{array}{l}{{\\left.\\left.\\phantom{\\frac{\\scriptstyle M a s o m e r}{\\scriptstyle\\Phi A}}}\\right.}}\\\\ {{\\left.\\left.\\right.\\left.\\phantom{\\frac{A}{\\scriptstyle A}}\\right.\\right.\\right.\\right.\\right.\\sim\\cdots\\ldots\\ldots\\ldots\\ldots\\ldots}}\\\\ {{\\left.\\left.\\left.\\begin{array}{c}{{\\scriptstyle\\sim}}\\\\ {{\\scriptstyle A}}\\\\ {{\\scriptstyle\\sigma\\right.\\sim}}\\\\ {{\\scriptstyle\\sum_{\\mathrm{e}}\\cdots\\ldots\\ldots\\ldots}}\\end{array}\\right.}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The speed of light in a vacuum is a universal constant and is not affected by the motion of the source or observer. The speed of light in a medium depends on the wavelength of light in that medium.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the speed of light in a vacuum remains constant, while in a medium, it varies with wavelength.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of wave propagation principles and their dependence on medium properties.",
+    "topics_tags": [
+      "Wave Propagation",
+      "Speed of Light",
+      "Medium Effects"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram illustrating the concept of wavefront and reflection in a plane mirror.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758875/ncert/physics/10/img_13_0.png",
+        "latex_extracted": "\\begin{array}{l}{{\\left.\\left.\\phantom{\\frac{\\scriptstyle M a s o m e r}{\\scriptstyle\\Phi A}}}\\right.}}\\\\ {{\\left.\\left.\\right.\\left.\\phantom{\\frac{A}{\\scriptstyle A}}\\right.\\right.\\right.\\right.\\right.\\sim\\cdots\\ldots\\ldots\\ldots\\ldots\\ldots}}\\\\ {{\\left.\\left.\\left.\\begin{array}{c}{{\\scriptstyle\\sim}}\\\\ {{\\scriptstyle A}}\\\\ {{\\scriptstyle\\sigma\\right.\\sim}}\\\\ {{\\scriptstyle\\sum_{\\mathrm{e}}\\cdots\\ldots\\ldots\\ldots}}\\end{array}\\right.}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q10.14",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 10,
+    "chapter_name": "wave optics",
+    "question_type": "conceptual",
+    "question_text": "Explain why the Doppler formulas for light waves in vacuum are identical for two situations: (i) source at rest and observer moving, and (ii) source moving and observer at rest.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The Doppler formulas for light waves in vacuum are identical because the speed of light is constant and does not depend on the motion of the source or observer.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the formulas remain the same regardless of the relative motion of the source and observer in vacuum.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram related to the Doppler effect in light waves.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758877/ncert/physics/10/img_13_1.png",
+      "latex_extracted": "\\begin{array}{c l c r}{{{\\cal J}^{X}}}&{{{\\cal J}^{X}}}\\\\ {{\\left({\\left.\\tilde{\\left(\\cdots\\right.{_{\\gamma}\\cdots\\mathcal{Q}}}^{\\prime}\\right(\\cdots\\mathcal{\\gamma}\\cdots\\check{\\Phi}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding the principles of the Doppler effect and the constancy of the speed of light.",
+    "topics_tags": [
+      "Doppler Effect",
+      "Light Waves",
+      "Relativity"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the Doppler effect in light waves.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758877/ncert/physics/10/img_13_1.png",
+        "latex_extracted": "\\begin{array}{c l c r}{{{\\cal J}^{X}}}&{{{\\cal J}^{X}}}\\\\ {{\\left({\\left.\\tilde{\\left(\\cdots\\right.{_{\\gamma}\\cdots\\mathcal{Q}}}^{\\prime}\\right(\\cdots\\mathcal{\\gamma}\\cdots\\check{\\Phi}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q10.15",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 10,
+    "chapter_name": "wave optics",
+    "question_type": "conceptual",
+    "question_text": "Would you expect the Doppler formulas to be strictly identical for the two situations in case of light traveling in a medium?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "No, the Doppler formulas would not be identical for light traveling in a medium because the speed of light depends on the medium's properties, which affects the observed frequency.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the formulas differ when light travels through a medium due to the dependence on wavelength.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of how medium affects wave properties and Doppler effect.",
+    "topics_tags": [
+      "Doppler Effect",
+      "Light in Medium",
+      "Wave Properties"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q10.16",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 10,
+    "chapter_name": "wave optics",
+    "question_type": "numerical",
+    "question_text": "In a double-slit experiment using light of wavelength 600 nm, the angular width of a fringe formed on a distant screen is 0.1º. What is the spacing between the two slits?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The spacing between the slits is calculated using the formula d = \\frac{\\lambda}{\\theta}.",
+    "answer_latex": "d = \\frac{600 \\times 10^{-9}}{0.00174533} = 3.44 \\times 10^{-4} \\text{ m}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Convert angular width from degrees to radians.",
+        "expression": "0.1^{\\circ} = 0.00174533 \\text{ radians}"
+      },
+      {
+        "step_number": 2,
+        "description": "Use the formula for slit spacing.",
+        "expression": "d = \\frac{600 \\times 10^{-9}}{0.00174533}"
+      }
+    ],
+    "final_answer": "Therefore, the spacing between the slits is 3.44 x 10^{-4} m.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the setup of a double-slit experiment.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758879/ncert/physics/10/img_15_0.png",
+      "latex_extracted": "\\begin{array}{l}{{d=\\frac{\\hat{\\lambda}}{\\theta}}}\\\\ {{=\\frac{600\\times10^{-9}}{3.14}=3.44\\times10^{-4}\\mathrm{~m}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves calculation and understanding of the double-slit experiment.",
+    "topics_tags": [
+      "Double-Slit Experiment",
+      "Wavelength",
+      "Interference"
+    ],
+    "confidence_score": 0.93,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the setup of a double-slit experiment.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758879/ncert/physics/10/img_15_0.png",
+        "latex_extracted": "\\begin{array}{l}{{d=\\frac{\\hat{\\lambda}}{\\theta}}}\\\\ {{=\\frac{600\\times10^{-9}}{3.14}=3.44\\times10^{-4}\\mathrm{~m}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q10.17",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 10,
+    "chapter_name": "wave optics",
+    "question_type": "multipart",
+    "question_text": "In a single slit diffraction experiment, the width of the slit is made double the original width. How does this affect the size and intensity of the central diffraction band? In what way is diffraction from each slit related to the interference pattern in a double-slit experiment? When a tiny circular obstacle is placed in the path of light from a distant source, a bright spot is seen at the centre of the shadow of the obstacle. Explain why? Two students are separated by a 7 m partition wall in a room 10 m high. If both light and sound waves can bend around obstacles, how is it that the students are unable to see each other even though they can converse easily? Ray optics is based on the assumption that light travels in a straight line. Diffraction effects (observed when light propagates through small apertures/slits or around small obstacles) disprove this assumption. Yet the ray optics assumption is so commonly used in understanding location and several other properties of images in optical instruments. What is the justification?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "If the width of the slit is made double the original width, then the size of the central diffraction band reduces to half and the intensity of the central diffraction band increases up to four times.",
+        "part_latex": null,
+        "answer_text": "The size of the central diffraction band reduces to half and the intensity increases up to four times.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, the size of the central diffraction band is halved and its intensity is quadrupled.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "The interference pattern in a double-slit experiment is modulated by diffraction from each slit. The pattern is the result of the interference of the diffracted wave from each slit.",
+        "part_latex": null,
+        "answer_text": "Diffraction from each slit modulates the interference pattern.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "The interference pattern is influenced by the diffraction from each slit.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "When a tiny circular obstacle is placed in the path of light from a distant source, a bright spot is seen at the centre of the shadow of the obstacle. This is because light waves are diffracted from the edge of the circular obstacle, which interferes constructively at the centre of the shadow.",
+        "part_latex": null,
+        "answer_text": "Light waves diffracted from the edge of the obstacle interfere constructively at the center.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "This constructive interference produces a bright spot at the center of the shadow.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(d)",
+        "part_text": "The bending of waves by obstacles by a large angle is possible when the size of the obstacle is comparable to the wavelength of the waves. The wavelength of the light waves is too small in comparison to the size of the obstacle. Thus, the diffraction angle will be very small. Hence, the students are unable to see each other.",
+        "part_latex": null,
+        "answer_text": "Students cannot see each other due to the small diffraction angle of light.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, they are unable to see each other.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(e)",
+        "part_text": "The justification is that in ordinary optical instruments, the size of the aperture involved is much larger than the wavelength of the light used.",
+        "part_latex": null,
+        "answer_text": "In optical instruments, the aperture size is larger than the wavelength of light.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "This justifies the use of ray optics despite diffraction effects.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of diffraction and interference concepts.",
+    "topics_tags": [
+      "Diffraction",
+      "Interference",
+      "Optical Instruments"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q10.19",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 10,
+    "chapter_name": "wave optics",
+    "question_type": "numerical",
+    "question_text": "A parallel beam of light of wavelength 500 nm falls on a narrow slit and the resulting diffraction pattern is observed on a screen 1 m away. It is observed that the first minimum is at a distance of 2.5 mm from the centre of the screen. Find the width of the slit.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The width of the slit is 0.2 mm.",
+    "answer_latex": "d = 0.2 \\, \\mathrm{mm}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the parameters for the calculation.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the formula for the width of the slit based on the first minimum.",
+        "expression": "d = \\frac{n \\lambda D}{x}"
+      },
+      {
+        "step_number": 3,
+        "description": "Substitute the values into the formula.",
+        "expression": "d = \\frac{1 \\times 500 \\times 10^{-9} \\times 1}{2.5 \\times 10^{-3}} = 0.2 \\text{ mm}"
+      }
+    ],
+    "final_answer": "Therefore, the width of the slit is 0.2 mm.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of the calculation for the width of the slit.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758887/ncert/physics/10/img_18_0.png",
+      "latex_extracted": "\\begin{array}{l}{{d={\\frac{n\\lambda D}{x}}}}\\\\ {{\\frac{1}{x}500\\times10^{-9}\\times1}}\\\\ {{={\\frac{1\\times500\\times10^{-9}\\times1}{2.5\\times10^{-4}}}=2\\times10^{-4}\\ \\mathrm{m}=\\,0.2\\,\\operatorname{mm}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic application of the diffraction formula.",
+    "topics_tags": [
+      "Diffraction",
+      "Slit Width",
+      "Wavelength"
+    ],
+    "confidence_score": 0.97,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the calculation for the width of the slit.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758887/ncert/physics/10/img_18_0.png",
+        "latex_extracted": "\\begin{array}{l}{{d={\\frac{n\\lambda D}{x}}}}\\\\ {{\\frac{1}{x}500\\times10^{-9}\\times1}}\\\\ {{={\\frac{1\\times500\\times10^{-9}\\times1}{2.5\\times10^{-4}}}=2\\times10^{-4}\\ \\mathrm{m}=\\,0.2\\,\\operatorname{mm}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q10.20",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 10,
+    "chapter_name": "wave optics",
+    "question_type": "conceptual",
+    "question_text": "Justify that the intensity is zero at angles of nλ/a in the single slit diffraction pattern.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Consider that a single slit of width d is divided into n smaller slits. Each of these infinitesimally small slits sends zero intensity in direction θ. Hence, the combination of these slits will give zero intensity.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the intensity is zero at angles of nλ/a due to the cancellation of contributions from the individual slits.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves understanding of diffraction and superposition of wave contributions.",
+    "topics_tags": [
+      "Single Slit Diffraction",
+      "Intensity Distribution",
+      "Wave Interference"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  }
+]

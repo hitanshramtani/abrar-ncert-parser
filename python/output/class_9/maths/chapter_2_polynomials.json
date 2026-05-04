@@ -1,0 +1,2268 @@
+[
+  {
+    "question_id": "Q2.1",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 2,
+    "chapter_name": "polynomials",
+    "question_type": "conceptual",
+    "question_text": "Which of the following expressions are polynomials in one variable and which are not?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "No. It can be observed that the exponent of variable t in term is not a whole number. Therefore, this expression is not a polynomial.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the expression is not a polynomial.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical expressions related to polynomials.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777721534/ncert/maths/2/img_1_0.jpg",
+      "latex_extracted": "\\begin{array}{l l}{{\\frac{\\mathrm{fiffifijfigifi}}{\\sqrt{\\frac{(p+N)\\mathrm{fiffifififi}}{(p+M)\\mathrm{fiffififififi}}}}}}&{{\\frac{\\mathbb{F f i f f i f f i f i f i}}{\\mathrm{fiffifififi}}}}\\\\ {{\\frac{\\mathrm{fiffiffififfi}}{\\mathrm{fiffiffiffi}}}}&{{}}\\\\ {{\\frac{\\mathrm{fiffiffiffiffiffi}}{\\mathrm{fiffiffifi}}}}&{{}}\\end{array}",
+      "source_page_number": 1,
+      "source_image_index": 0,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of polynomial definitions and properties.",
+    "topics_tags": [
+      "Polynomials",
+      "Variables",
+      "Exponents"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical expressions related to polynomials.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777721534/ncert/maths/2/img_1_0.jpg",
+        "latex_extracted": "\\begin{array}{l l}{{\\frac{\\mathrm{fiffifijfigifi}}{\\sqrt{\\frac{(p+N)\\mathrm{fiffifififi}}{(p+M)\\mathrm{fiffififififi}}}}}}&{{\\frac{\\mathbb{F f i f f i f f i f i f i}}{\\mathrm{fiffifififi}}}}\\\\ {{\\frac{\\mathrm{fiffiffififfi}}{\\mathrm{fiffiffiffi}}}}&{{}}\\\\ {{\\frac{\\mathrm{fiffiffiffiffiffi}}{\\mathrm{fiffiffifi}}}}&{{}}\\end{array}",
+        "source_page_number": 1,
+        "source_image_index": 0,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q2.2",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 2,
+    "chapter_name": "polynomials",
+    "question_type": "conceptual",
+    "question_text": "Give one example each of a binomial of degree 35, and of a monomial of degree 100.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "A binomial of degree 35 can be written as x^{35} + y^{35}. A monomial of degree 100 can be written as x^{100}.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, examples of a binomial and a monomial of the specified degrees are provided.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of definitions and examples.",
+    "topics_tags": [
+      "Binomials",
+      "Monomials",
+      "Degree of Polynomials"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.3",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 2,
+    "chapter_name": "polynomials",
+    "question_type": "numerical",
+    "question_text": "Write the degree of each of the following polynomials: (i) x^3, (ii) y^2, (iii) t, (iv) 3.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The degrees are: (i) 3, (ii) 2, (iii) 1, (iv) 0.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the degrees of the polynomials are identified.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Simple identification of polynomial degrees.",
+    "topics_tags": [
+      "Degree of Polynomials",
+      "Polynomial Classification"
+    ],
+    "confidence_score": 0.99,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.4",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 2,
+    "chapter_name": "polynomials",
+    "question_type": "mcq",
+    "question_text": "Find the value of the polynomial at (i) x = 0 (ii) x = −1 (iii) x = 2. Find p(0), p(1) and p(2) for each of the following polynomials: (i) p(y) = y² − y + 1 (ii) p(t) = 2 + t + 2t² − t³ (iii) p(x) = x³ (iv) p(x) = (x − 1)(x + 1)",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(1)",
+        "option_text": "and p"
+      },
+      {
+        "option_label": "(2)",
+        "option_text": "for each of the following polynomials: (i) p(y) = y² − y + 1 (ii) p(t) = 2 + t + 2t² − t³ (iii) p(x) = x³ (iv) p(x) = (x − 1)(x + 1)"
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical expressions for polynomials and their evaluations.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777721558/ncert/maths/2/img_5_0.jpg",
+      "latex_extracted": "\\begin{array}{l}{{\\frac{\\mathbb{Q}^{n,n=0,n+n+n+\\infty}}{\\left(\\frac{n}{\\sqrt[[object Object]]{-\\left(1\\right)+1}+\\cdots+\\left|}\\right)}}}\\\\ {{\\frac{\\mathbb{Q}^{n,\\left(1\\right)-\\left(1+1\\right)}{\\left(-\\left(\\frac{1}{2}+1+\\left(2\\right)+1}\\right)}\\overline{{\\mathbb{Q}}}}}\\\\ {{\\frac{\\left|\\begin{array}{l}{{-\\left(1\\right)-\\left(1\\right)+\\left(1\\right)-1}\\\\ {-\\left(1\\right)+\\left(-1\\right)-1}\\right)}{\\sqrt{0}}}}\\\\ {{\\left|\\frac{-\\left(1\\right)-\\left(1\\right)+\\left(2\\right)+\\left|0\\right|}{\\sqrt{-\\frac{1}{2\\sqrt{0}}-\\frac{1}{2}-1}}\\right)}}}\\\\ {{\\left|\\frac{-\\left|0\\right|^{n+1}{-\\left(1\\right|0\\sqrt{-1}-1}+\\frac{-1}{-1}{\\sqrt{1}}{\\mathbb{\\sqrt{1}}}}\\end{array}",
+      "source_page_number": 5,
+      "source_image_index": 0,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "p(y) = y² − y + 1",
+        "part_latex": "p(y) = y^{2} - y + 1",
+        "answer_text": "p(0) = (0)² − (0) + 1 = 1; p(1) = (1)² − (1) + 1 = 1; p(2) = (2)² − (2) + 1 = 3.",
+        "answer_latex": "p(0) = 1; p(1) = 1; p(2) = 3",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate p(0)",
+            "expression": "p(0) = (0)^{2} - (0) + 1"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate p(1)",
+            "expression": "p(1) = (1)^{2} - (1) + 1"
+          },
+          {
+            "step_number": 3,
+            "description": "Calculate p(2)",
+            "expression": "p(2) = (2)^{2} - (2) + 1"
+          }
+        ],
+        "final_answer": "Thus, p(0) = 1, p(1) = 1, and p(2) = 3.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "p(t) = 2 + t + 2t² − t³",
+        "part_latex": "p(t) = 2 + t + 2t^{2} - t^{3}",
+        "answer_text": "p(0) = 2; p(1) = 4; p(2) = 4.",
+        "answer_latex": "p(0) = 2; p(1) = 4; p(2) = 4",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate p(0)",
+            "expression": "p(0) = 2 + 0 + 2(0)^{2} - (0)^{3}"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate p(1)",
+            "expression": "p(1) = 2 + (1) + 2(1)^{2} - (1)^{3}"
+          },
+          {
+            "step_number": 3,
+            "description": "Calculate p(2)",
+            "expression": "p(2) = 2 + (2) + 2(2)^{2} - (2)^{3}"
+          }
+        ],
+        "final_answer": "Thus, p(0) = 2, p(1) = 4, and p(2) = 4.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "p(x) = x³",
+        "part_latex": "p(x) = x^{3}",
+        "answer_text": "p(0) = 0; p(1) = 1; p(2) = 8.",
+        "answer_latex": "p(0) = 0; p(1) = 1; p(2) = 8",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate p(0)",
+            "expression": "p(0) = (0)^{3}"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate p(1)",
+            "expression": "p(1) = (1)^{3}"
+          },
+          {
+            "step_number": 3,
+            "description": "Calculate p(2)",
+            "expression": "p(2) = (2)^{3}"
+          }
+        ],
+        "final_answer": "Thus, p(0) = 0, p(1) = 1, and p(2) = 8.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iv)",
+        "part_text": "p(x) = (x − 1)(x + 1)",
+        "part_latex": "p(x) = (x - 1)(x + 1)",
+        "answer_text": "p(0) = -1; p(1) = 0; p(2) = 3.",
+        "answer_latex": "p(0) = -1; p(1) = 0; p(2) = 3",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate p(0)",
+            "expression": "p(0) = (0 - 1)(0 + 1)"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate p(1)",
+            "expression": "p(1) = (1 - 1)(1 + 1)"
+          },
+          {
+            "step_number": 3,
+            "description": "Calculate p(2)",
+            "expression": "p(2) = (2 - 1)(2 + 1)"
+          }
+        ],
+        "final_answer": "Thus, p(0) = -1, p(1) = 0, and p(2) = 3.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires evaluating multiple polynomials at different values, involving basic algebra.",
+    "topics_tags": [
+      "Polynomials",
+      "Evaluation",
+      "Mathematics"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical expressions for polynomials and their evaluations.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777721558/ncert/maths/2/img_5_0.jpg",
+        "latex_extracted": "\\begin{array}{l}{{\\frac{\\mathbb{Q}^{n,n=0,n+n+n+\\infty}}{\\left(\\frac{n}{\\sqrt[[object Object]]{-\\left(1\\right)+1}+\\cdots+\\left|}\\right)}}}\\\\ {{\\frac{\\mathbb{Q}^{n,\\left(1\\right)-\\left(1+1\\right)}{\\left(-\\left(\\frac{1}{2}+1+\\left(2\\right)+1}\\right)}\\overline{{\\mathbb{Q}}}}}\\\\ {{\\frac{\\left|\\begin{array}{l}{{-\\left(1\\right)-\\left(1\\right)+\\left(1\\right)-1}\\\\ {-\\left(1\\right)+\\left(-1\\right)-1}\\right)}{\\sqrt{0}}}}\\\\ {{\\left|\\frac{-\\left(1\\right)-\\left(1\\right)+\\left(2\\right)+\\left|0\\right|}{\\sqrt{-\\frac{1}{2\\sqrt{0}}-\\frac{1}{2}-1}}\\right)}}}\\\\ {{\\left|\\frac{-\\left|0\\right|^{n+1}{-\\left(1\\right|0\\sqrt{-1}-1}+\\frac{-1}{-1}{\\sqrt{1}}{\\mathbb{\\sqrt{1}}}}\\end{array}",
+        "source_page_number": 5,
+        "source_image_index": 0,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.5",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 2,
+    "chapter_name": "polynomials",
+    "question_type": "mcq",
+    "question_text": "If x = -1 and x = 2 are zeroes of polynomial p(x) = (x + 1)(x - 2), then p(-1) and p(2) should be 0.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing polynomial function with roots at x = -1 and x = 2.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777721564/ncert/maths/2/img_7_0.png",
+      "latex_extracted": "\\begin{array}{l}{{\\frac{\\mathrm{fifinibingh}^{\\mathrm{ifinisgingh}}}{(\\frac{\\mathbb{R}(\\log\\log\\theta)}{|\\frac{\\pi\\hbar^{\\frac{\\sqrt{\\log\\ln\\log\\log\\log\\theta}}{|\\sin\\theta\\cos\\theta\\sin\\theta}}}}{\\sqrt{\\frac{\\sqrt{\\sin\\theta+\\theta+\\theta}}{|\\theta|\\sin\\theta\\sin\\theta|\\cos\\theta|}}}}}\\\\ {{\\frac{\\mathrm{fiffigh}}{|\\frac{\\pi\\theta}{\\sqrt{\\sin\\theta\\cos\\theta}}}}}\\\\ {{\\frac{\\sqrt{\\sin\\theta\\theta\\cos\\theta\\theta}{\\sqrt{\\sin\\theta\\theta}}}{\\sqrt{\\sin\\theta\\theta}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Therefore, x = -1 and x = 2 are zeroes of the given polynomial.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, both values satisfy the polynomial equation.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of polynomial zeroes and basic evaluation.",
+    "topics_tags": [
+      "Polynomials",
+      "Zeroes",
+      "Roots"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing polynomial function with roots at x = -1 and x = 2.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777721564/ncert/maths/2/img_7_0.png",
+        "latex_extracted": "\\begin{array}{l}{{\\frac{\\mathrm{fifinibingh}^{\\mathrm{ifinisgingh}}}{(\\frac{\\mathbb{R}(\\log\\log\\theta)}{|\\frac{\\pi\\hbar^{\\frac{\\sqrt{\\log\\ln\\log\\log\\log\\theta}}{|\\sin\\theta\\cos\\theta\\sin\\theta}}}}{\\sqrt{\\frac{\\sqrt{\\sin\\theta+\\theta+\\theta}}{|\\theta|\\sin\\theta\\sin\\theta|\\cos\\theta|}}}}}\\\\ {{\\frac{\\mathrm{fiffigh}}{|\\frac{\\pi\\theta}{\\sqrt{\\sin\\theta\\cos\\theta}}}}}\\\\ {{\\frac{\\sqrt{\\sin\\theta\\theta\\cos\\theta\\theta}{\\sqrt{\\sin\\theta\\theta}}}{\\sqrt{\\sin\\theta\\theta}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.6",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 2,
+    "chapter_name": "polynomials",
+    "question_type": "conceptual",
+    "question_text": "If x = 0 is a zero of polynomial p(x) = x^2, then p(0) should be zero.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, p(0) = 0, confirming that x = 0 is a zero of the polynomial.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the polynomial evaluates to zero at x = 0.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing polynomial function with root at x = 0.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777721574/ncert/maths/2/img_8_0.png",
+      "latex_extracted": "\\begin{array}{c}{{\\left\\{\\frac{\\Gamma_{0}^{\\scriptstyle(1,57,7})}{\\scriptstyle[\\frac{6-6}{167/6}\\Bigg]}}}\\\\ {{\\frac{\\Gamma_{0}^{\\scriptstyle(1-6/2)}}{\\sqrt{\\frac{6-57}{6-57/6}}}}}\\\\ {{\\frac{\\sqrt{\\frac{1-6-57}{167/6}}}{\\sqrt{\\frac{5-6-57/3}{165675}}}}}\\\\ {{\\frac{\\sqrt{\\frac{6-5-57/5}{6-57/5}}}{\\sqrt{\\frac{6-57}{6-575}{16755}}}}}\\\\ {{\\frac{\\sqrt{\\frac{1-5-57}{6-57/5}{16}}}{\\sqrt{\\frac{5-5-57}{16}{6+55}}}}}\\\\ {{\\frac{\\sqrt{\\sqrt{\\frac{9-5-57}{6-57}{55}}{6}}}}}\\\\ {{\\frac{\\sqrt{\\frac{5-57}{61}{80555}}}}}\\\\ {{\\sqrt{555557}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct evaluation of polynomial at a specific point.",
+    "topics_tags": [
+      "Polynomials",
+      "Zeroes",
+      "Evaluation"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing polynomial function with root at x = 0.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777721574/ncert/maths/2/img_8_0.png",
+        "latex_extracted": "\\begin{array}{c}{{\\left\\{\\frac{\\Gamma_{0}^{\\scriptstyle(1,57,7})}{\\scriptstyle[\\frac{6-6}{167/6}\\Bigg]}}}\\\\ {{\\frac{\\Gamma_{0}^{\\scriptstyle(1-6/2)}}{\\sqrt{\\frac{6-57}{6-57/6}}}}}\\\\ {{\\frac{\\sqrt{\\frac{1-6-57}{167/6}}}{\\sqrt{\\frac{5-6-57/3}{165675}}}}}\\\\ {{\\frac{\\sqrt{\\frac{6-5-57/5}{6-57/5}}}{\\sqrt{\\frac{6-57}{6-575}{16755}}}}}\\\\ {{\\frac{\\sqrt{\\frac{1-5-57}{6-57/5}{16}}}{\\sqrt{\\frac{5-5-57}{16}{6+55}}}}}\\\\ {{\\frac{\\sqrt{\\sqrt{\\frac{9-5-57}{6-57}{55}}{6}}}}}\\\\ {{\\frac{\\sqrt{\\frac{5-57}{61}{80555}}}}}\\\\ {{\\sqrt{555557}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q2.7",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 2,
+    "chapter_name": "polynomials",
+    "question_type": "conceptual",
+    "question_text": "Find the remainder when x^3 + 3x^2 + 3x + 1 is divided by (i) x + 1 (ii) x (iii) x + π (iv) 5 + 2x.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires polynomial long division and understanding of remainders.",
+    "topics_tags": [
+      "Polynomials",
+      "Remainder Theorem",
+      "Division"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.8",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 2,
+    "chapter_name": "polynomials",
+    "question_type": "conceptual",
+    "question_text": "By long division, find the remainder when dividing the polynomial.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical expressions related to polynomial long division.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777721603/ncert/maths/2/img_14_0.jpg",
+      "latex_extracted": "\\begin{array}{c}{{\\frac{x^{3}+3x+3}{3x^{3}}}}\\\\ {{\\frac{3x^{4}+3x+1}{3x^{4}}}}\\\\ {{\\frac{3x^{4}}{2}}}\\\\ {{\\frac{x^{5}}{2}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Therefore, the remainder is 1.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the remainder is 1.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical expressions showing the remainder from polynomial division.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777721605/ncert/maths/2/img_14_1.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of polynomial long division and identifying the remainder.",
+    "topics_tags": [
+      "Polynomials",
+      "Long Division",
+      "Remainder Theorem"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical expressions related to polynomial long division.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777721603/ncert/maths/2/img_14_0.jpg",
+        "latex_extracted": "\\begin{array}{c}{{\\frac{x^{3}+3x+3}{3x^{3}}}}\\\\ {{\\frac{3x^{4}+3x+1}{3x^{4}}}}\\\\ {{\\frac{3x^{4}}{2}}}\\\\ {{\\frac{x^{5}}{2}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical expressions showing the remainder from polynomial division.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777721605/ncert/maths/2/img_14_1.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q2.9",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 2,
+    "chapter_name": "polynomials",
+    "question_type": "conceptual",
+    "question_text": "By long division, find the remainder when dividing the polynomial x + π.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, the remainder is not specified.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the remainder is not provided.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical expressions related to polynomial long division.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777721609/ncert/maths/2/img_15_0.jpg",
+      "latex_extracted": "\\begin{array}{c}{{x+e^{\\frac{x+\\left(1-x\\right)x^{2}+\\left(3-x+\\right)}{x^{4}+3x^{2}+1}}}}\\\\ {{\\frac{x^{+}+\\left(1-x\\right)x+1}{\\left(5-n\\right)^{2}+\\left(0-5+\\pi\\right)x}}}\\\\ {{\\frac{\\left(1-\\hbar^{2}+\\delta^{2}\\left(0-n+\\pi\\right)x}{\\left[1-3+\\delta x^{2}-1\\right)x}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of polynomial long division and identifying the remainder.",
+    "topics_tags": [
+      "Polynomials",
+      "Long Division",
+      "Remainder Theorem"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical expressions related to polynomial long division.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777721609/ncert/maths/2/img_15_0.jpg",
+        "latex_extracted": "\\begin{array}{c}{{x+e^{\\frac{x+\\left(1-x\\right)x^{2}+\\left(3-x+\\right)}{x^{4}+3x^{2}+1}}}}\\\\ {{\\frac{x^{+}+\\left(1-x\\right)x+1}{\\left(5-n\\right)^{2}+\\left(0-5+\\pi\\right)x}}}\\\\ {{\\frac{\\left(1-\\hbar^{2}+\\delta^{2}\\left(0-n+\\pi\\right)x}{\\left[1-3+\\delta x^{2}-1\\right)x}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q2.10",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 2,
+    "chapter_name": "polynomials",
+    "question_type": "numerical",
+    "question_text": "Find the remainder when x^3 − ax^2 + 6x − a is divided by x − a.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, when x^3 − ax^2 + 6x − a is divided by x − a, the remainder obtained is 5a.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Perform polynomial long division of x^3 − ax^2 + 6x − a by x − a.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the remainder is 5a.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of polynomial long division.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777721611/ncert/maths/2/img_16_0.jpg",
+      "latex_extracted": "\\begin{array}{c}{{x^{2}+6}}\\\\ {{x-a{\\tiny\\!\\!\\!\\sqrt{\\begin{array}{c}{x^{1}-\\alpha x^{2}+6x-a}}\\\\ {-\\sum}\\\\ {-\\sum}\\\\ {-\\ \\ +}\\end{array}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of polynomial long division and basic algebra.",
+    "topics_tags": [
+      "Polynomials",
+      "Remainder Theorem",
+      "Long Division"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of polynomial long division.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777721611/ncert/maths/2/img_16_0.jpg",
+        "latex_extracted": "\\begin{array}{c}{{x^{2}+6}}\\\\ {{x-a{\\tiny\\!\\!\\!\\sqrt{\\begin{array}{c}{x^{1}-\\alpha x^{2}+6x-a}}\\\\ {-\\sum}\\\\ {-\\sum}\\\\ {-\\ \\ +}\\end{array}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q2.11",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 2,
+    "chapter_name": "polynomials",
+    "question_type": "conceptual",
+    "question_text": "Check whether 7 + 3x is a factor of 3x^3 + 7x.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "As the remainder is not zero, therefore, 7 + 3x is not a factor of 3x^3 + 7x.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Divide 3x^3 + 7x by 7 + 3x and check the remainder.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, 7 + 3x is not a factor of 3x^3 + 7x.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of polynomial long division.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777721619/ncert/maths/2/img_17_0.jpg",
+      "latex_extracted": "\\begin{array}{c}{{\\frac{x^{\\ast}-{\\frac{\\omega^{\\ast}}{2^{\\ast}+\\omega^{\\ast}}}}{\\frac{\\omega}{\\omega^{\\ast}}}}}\\\\ {{\\frac{\\stackrel{\\leftarrow}{\\partial^{\\ast}+\\mu^{\\ast}}}{\\frac{\\omega}{\\omega}}{\\omega}}}\\\\ {{\\frac{-\\gamma^{\\ast}-{\\frac{\\omega}{\\omega}}}{\\frac{\\omega}{\\omega}}{\\omega}}}\\\\ {{\\frac{\\stackrel{\\rightarrow}{\\omega}}{\\omega}{\\omega}}}\\\\ {{\\frac{-{\\varphi}}{\\omega}}}\\\\ {{\\frac{\\stackrel{\\omega}{\\omega}}{\\omega}}}{-{\\frac{\\omega}{\\omega}}}{\\frac{\\omega}{\\omega}}{\\omega}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves understanding of factors and polynomial division.",
+    "topics_tags": [
+      "Polynomials",
+      "Factors",
+      "Long Division"
+    ],
+    "confidence_score": 0.93,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of polynomial long division.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777721619/ncert/maths/2/img_17_0.jpg",
+        "latex_extracted": "\\begin{array}{c}{{\\frac{x^{\\ast}-{\\frac{\\omega^{\\ast}}{2^{\\ast}+\\omega^{\\ast}}}}{\\frac{\\omega}{\\omega^{\\ast}}}}}\\\\ {{\\frac{\\stackrel{\\leftarrow}{\\partial^{\\ast}+\\mu^{\\ast}}}{\\frac{\\omega}{\\omega}}{\\omega}}}\\\\ {{\\frac{-\\gamma^{\\ast}-{\\frac{\\omega}{\\omega}}}{\\frac{\\omega}{\\omega}}{\\omega}}}\\\\ {{\\frac{\\stackrel{\\rightarrow}{\\omega}}{\\omega}{\\omega}}}\\\\ {{\\frac{-{\\varphi}}{\\omega}}}\\\\ {{\\frac{\\stackrel{\\omega}{\\omega}}{\\omega}}}{-{\\frac{\\omega}{\\omega}}}{\\frac{\\omega}{\\omega}}{\\omega}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q2.12",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 2,
+    "chapter_name": "polynomials",
+    "question_type": "multipart",
+    "question_text": "Determine which of the following polynomials has (x + 1) as a factor: (i) x^3 + x^2 + x + 1 (ii) x^4 + x^3 + x^2 + x + 1 (iii) x^4 + 3x^3 + 3x^2 + x + 1",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "If (x + 1) is a factor of p(x) = x^3 + x^2 + x + 1, then p(−1) must be zero.",
+        "part_latex": null,
+        "answer_text": "p(−1) = (−1)^3 + (−1)^2 + (−1) + 1 = 0. Hence, x + 1 is a factor.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Substitute -1 into the polynomial.",
+            "expression": "p(-1) = (-1)^3 + (-1)^2 + (-1) + 1"
+          }
+        ],
+        "final_answer": "Thus, x + 1 is a factor of x^3 + x^2 + x + 1.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "If (x + 1) is a factor of p(x) = x^4 + x^3 + x^2 + x + 1, then p(−1) must be zero.",
+        "part_latex": null,
+        "answer_text": "p(−1) = (−1)^4 + (−1)^3 + (−1)^2 + (−1) + 1 = 1. Therefore, x + 1 is not a factor.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Substitute -1 into the polynomial.",
+            "expression": "p(-1) = (-1)^4 + (-1)^3 + (-1)^2 + (-1) + 1"
+          }
+        ],
+        "final_answer": "Thus, x + 1 is not a factor of x^4 + x^3 + x^2 + x + 1.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "If (x + 1) is a factor of p(x) = x^4 + 3x^3 + 3x^2 + x + 1, then p(−1) must be zero.",
+        "part_latex": null,
+        "answer_text": "p(−1) = (−1)^4 + 3(-1)^3 + 3(-1)^2 + (-1) + 1 = 0. Hence, x + 1 is a factor.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Substitute -1 into the polynomial.",
+            "expression": "p(-1) = (-1)^4 + 3(-1)^3 + 3(-1)^2 + (-1) + 1"
+          }
+        ],
+        "final_answer": "Thus, x + 1 is a factor of x^4 + 3x^3 + 3x^2 + x + 1.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple evaluations and understanding of factors.",
+    "topics_tags": [
+      "Polynomials",
+      "Factor Theorem",
+      "Evaluation"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.13",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 2,
+    "chapter_name": "polynomials",
+    "question_type": "multipart",
+    "question_text": "Use the Factor Theorem to determine whether g(x) is a factor of p(x) in each of the following cases: (i) p(x) = 2x³ + x² − 2x − 1, g(x) = x + 1 (ii) p(x) = x³ + 3x² + 3x + 1, g(x) = x + 2 (iii) p(x) = x³ − 4x² + x + 6, g(x) = x − 3",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical expression showing the evaluation of p(-1) for the polynomial.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777721635/ncert/maths/2/img_19_0.jpg",
+      "latex_extracted": "\\begin{array}{c c}{{\\left\\{\\frac{\\sqrt{\\varepsilon_{1}^{\\mu}-\\frac{\\partial\\Omega_{0}^{\\mu}-\\frac{\\partial\\Omega_{0}^{\\mu}-\\frac{\\partial\\Omega_{0}^{\\mu}-\\frac{\\partial\\Omega_{0}^{\\mu}}{\\partial\\Omega_{0}^{\\mu}-\\frac{\\partial\\Omega_{0}^{\\mu}}{\\partial\\Omega_{0}^{\\mu}}\\frac{\\partial\\Omega_{0}^{\\nu}}{\\partial\\Omega_{0}^{\\nu}}}{\\partial\\Omega_{0}^{\\mu}}}\\right\\}\\frac{\\partial^{\\mu}-\\frac{\\partial\\Omega_{0}^{\\mu}-\\frac{\\partial\\Omega_{0}^{\\mu}}{\\partial\\Omega_{0}^{\\nu}}{\\partial\\Omega_{0}^{\\nu}}\\partial_{0}^{\\nu}}{\\partial\\Omega_{0}^{\\mu}}}}{\\left\\{\\frac{\\partial\\Omega_{0}^{\\mu}-\\frac{\\partial\\Omega_{0}^{\\mu}}{\\partial\\Omega_{0}^{0}\\Omega_{0}^{\\mu}\\Delta\\Delta u b a b a b a b a r a b a b a b a b a b a b a b a b a b a b a b a b a b a b a b a b a b a b a b a b a b a b b a b a b a b a b a b a b a b a b a b a b a b a b b b b b b b b a b a b b b b b b b a b b b a b b b b b b b b b b b b b b b b b b b b b b b b a b b b b b b b b b b b b b b b b b",
+      "source_page_number": 19,
+      "source_image_index": 0,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "p(x) = 2x³ + x² − 2x − 1, g(x) = x + 1",
+        "part_latex": null,
+        "answer_text": "g(x) = x + 1 is a factor of the polynomial p(x) because p(-1) = 0.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Evaluate p(-1) to check if g(x) is a factor.",
+            "expression": "p(-1) = 2(-1)^3 + (-1)^2 - 2(-1) - 1"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the value of p(-1).",
+            "expression": "p(-1) = 2(-1) + 1 + 2 - 1 = 0"
+          }
+        ],
+        "final_answer": "Hence, g(x) = x + 1 is a factor of the given polynomial.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "p(x) = x³ + 3x² + 3x + 1, g(x) = x + 2",
+        "part_latex": null,
+        "answer_text": "g(x) = x + 2 is not a factor of the polynomial p(x) because p(-2) ≠ 0.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Evaluate p(-2) to check if g(x) is a factor.",
+            "expression": "p(-2) = (-2)^3 + 3(-2)^2 + 3(-2) + 1"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the value of p(-2).",
+            "expression": "p(-2) = -8 + 12 - 6 + 1 = -1"
+          }
+        ],
+        "final_answer": "Hence, g(x) = x + 2 is not a factor of the given polynomial.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "p(x) = x³ − 4x² + x + 6, g(x) = x − 3",
+        "part_latex": null,
+        "answer_text": "g(x) = x − 3 is a factor of the polynomial p(x) because p(3) = 0.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Evaluate p(3) to check if g(x) is a factor.",
+            "expression": "p(3) = (3)^3 - 4(3)^2 + (3) + 6"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the value of p(3).",
+            "expression": "p(3) = 27 - 36 + 3 + 6 = 0"
+          }
+        ],
+        "final_answer": "Hence, g(x) = x − 3 is a factor of the given polynomial.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of the Factor Theorem and evaluating polynomials.",
+    "topics_tags": [
+      "Factor Theorem",
+      "Polynomials",
+      "Mathematical Evaluation"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical expression showing the evaluation of p(-1) for the polynomial.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777721635/ncert/maths/2/img_19_0.jpg",
+        "latex_extracted": "\\begin{array}{c c}{{\\left\\{\\frac{\\sqrt{\\varepsilon_{1}^{\\mu}-\\frac{\\partial\\Omega_{0}^{\\mu}-\\frac{\\partial\\Omega_{0}^{\\mu}-\\frac{\\partial\\Omega_{0}^{\\mu}-\\frac{\\partial\\Omega_{0}^{\\mu}}{\\partial\\Omega_{0}^{\\mu}-\\frac{\\partial\\Omega_{0}^{\\mu}}{\\partial\\Omega_{0}^{\\mu}}\\frac{\\partial\\Omega_{0}^{\\nu}}{\\partial\\Omega_{0}^{\\nu}}}{\\partial\\Omega_{0}^{\\mu}}}\\right\\}\\frac{\\partial^{\\mu}-\\frac{\\partial\\Omega_{0}^{\\mu}-\\frac{\\partial\\Omega_{0}^{\\mu}}{\\partial\\Omega_{0}^{\\nu}}{\\partial\\Omega_{0}^{\\nu}}\\partial_{0}^{\\nu}}{\\partial\\Omega_{0}^{\\mu}}}}{\\left\\{\\frac{\\partial\\Omega_{0}^{\\mu}-\\frac{\\partial\\Omega_{0}^{\\mu}}{\\partial\\Omega_{0}^{0}\\Omega_{0}^{\\mu}\\Delta\\Delta u b a b a b a b a r a b a b a b a b a b a b a b a b a b a b a b a b a b a b a b a b a b a b a b a b a b a b b a b a b a b a b a b a b a b a b a b a b a b a b b b b b b b b a b a b b b b b b b a b b b a b b b b b b b b b b b b b b b b b b b b b b b b a b b b b b b b b b b b b b b b b b",
+        "source_page_number": 19,
+        "source_image_index": 0,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.14",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 2,
+    "chapter_name": "polynomials",
+    "question_type": "multipart",
+    "question_text": "Find the value of k, if x − 1 is a factor of p(x) in each of the following cases: (i) p(x) = x² + x + k",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical expression showing the evaluation of p(1) for the polynomial.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777721650/ncert/maths/2/img_20_0.jpg",
+      "latex_extracted": "\\begin{array}{c c}{{\\left|\\begin{array}{c c}{{\\frac{\\cos\\Phi^{n}\\phi^{n}}\\phi^{n}}}\\end{array}\\right|}}&{{\\left|\\frac{\\Gamma^{-n\\phi^{n}\\phi^{n}\\sin^{n}\\phi^{n}}\\right|}{\\sqrt{\\frac{\\theta^{n}\\phi^{n}}{\\sin\\theta^{n}\\sin\\theta^{n}\\sin\\theta^{n}\\theta^{n}\\sin\\theta^{n}\\theta^{n}\\sin\\theta^{n}\\theta^{n}\\sin\\theta^{n}\\sin\\theta^{n}\\theta^{n}\\phi^{n}\\sin\\theta^{n}\\theta^{n}\\phi^{n}\\phi^{n}\\phi^{n}\\phi^{n}\\right\\|^{n}\\theta^{n}\\phi^{n}}{\\phi^{n}\\phi^{n}}}}}\\\\ {{\\left|\\frac{\\left|\\frac{\\phi^{n}\\phi^{n}\\phi^{n}\\right|\\phi^{n}\\equiv\\equiv\\xi^{n}\\equiv\\operatorname*{n}\\equiv\\operatorname~\\equiv\\frac{n^{n^{n^{n^{n^{n^{c}}}}}\\phi^{n^{n^{n^{n}}}\\equiv n^{n^{n}\\sqrt{n^{n^{n^{n}}\\equiv n^{n(n^{\\prime}\\phi^{\\prime{n}\\prime}\\sqrt{\\sqrt{n^{n^{n^{\\phi^{\\prime}\\sqrt{n^{n(n}\\mathrm{\\phi^{n}\\prime}\\equiv\\prime}\\sqrt{n\\sqrt{n\\sqrt{n\\sqrt{",
+      "source_page_number": 20,
+      "source_image_index": 0,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "p(x) = x² + x + k",
+        "part_latex": null,
+        "answer_text": "The value of k is -2.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Evaluate p(1) to find k.",
+            "expression": "p(1) = 1^2 + 1 + k"
+          },
+          {
+            "step_number": 2,
+            "description": "Set p(1) to 0 and solve for k.",
+            "expression": "1 + 1 + k = 0"
+          }
+        ],
+        "final_answer": "Therefore, the value of k is -2.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires basic algebraic manipulation and understanding of factors.",
+    "topics_tags": [
+      "Factors",
+      "Polynomials",
+      "Algebra"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical expression showing the evaluation of p(1) for the polynomial.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777721650/ncert/maths/2/img_20_0.jpg",
+        "latex_extracted": "\\begin{array}{c c}{{\\left|\\begin{array}{c c}{{\\frac{\\cos\\Phi^{n}\\phi^{n}}\\phi^{n}}}\\end{array}\\right|}}&{{\\left|\\frac{\\Gamma^{-n\\phi^{n}\\phi^{n}\\sin^{n}\\phi^{n}}\\right|}{\\sqrt{\\frac{\\theta^{n}\\phi^{n}}{\\sin\\theta^{n}\\sin\\theta^{n}\\sin\\theta^{n}\\theta^{n}\\sin\\theta^{n}\\theta^{n}\\sin\\theta^{n}\\theta^{n}\\sin\\theta^{n}\\sin\\theta^{n}\\theta^{n}\\phi^{n}\\sin\\theta^{n}\\theta^{n}\\phi^{n}\\phi^{n}\\phi^{n}\\phi^{n}\\right\\|^{n}\\theta^{n}\\phi^{n}}{\\phi^{n}\\phi^{n}}}}}\\\\ {{\\left|\\frac{\\left|\\frac{\\phi^{n}\\phi^{n}\\phi^{n}\\right|\\phi^{n}\\equiv\\equiv\\xi^{n}\\equiv\\operatorname*{n}\\equiv\\operatorname~\\equiv\\frac{n^{n^{n^{n^{n^{n^{c}}}}}\\phi^{n^{n^{n^{n}}}\\equiv n^{n^{n}\\sqrt{n^{n^{n^{n}}\\equiv n^{n(n^{\\prime}\\phi^{\\prime{n}\\prime}\\sqrt{\\sqrt{n^{n^{n^{\\phi^{\\prime}\\sqrt{n^{n(n}\\mathrm{\\phi^{n}\\prime}\\equiv\\prime}\\sqrt{n\\sqrt{n\\sqrt{n\\sqrt{",
+        "source_page_number": 20,
+        "source_image_index": 0,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.15",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 2,
+    "chapter_name": "polynomials",
+    "question_type": "multipart",
+    "question_text": "Factorise the following polynomials:\n(i) x³ − 2x² − x + 2\n(ii) x³ + 3x² − 9x − 5\n(iii) x³ + 13x² + 32x + 20\n(iv) 2y³ + y² − 2y − 1",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Long division process for polynomial factorization.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777721659/ncert/maths/2/img_23_0.jpg",
+      "latex_extracted": "\\frac{x^{2}-3x^{1}-x^{2}}{x^{2}+x^{2}-x+2}}{-\\frac{-3x^{2}-2}{x^{2}-2x}}{x}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "Factorise x³ − 2x² − x + 2",
+        "part_latex": null,
+        "answer_text": "The factors are (x - 2)(x - 1)(x + 1).",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the trial method to find a root, p(2) = 0.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Perform polynomial long division to find the quotient.",
+            "expression": null
+          },
+          {
+            "step_number": 3,
+            "description": "Factor the resulting quadratic to get the complete factorization.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, the polynomial can be factored as (x - 2)(x - 1)(x + 1).",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "Factorise x³ + 3x² − 9x − 5",
+        "part_latex": null,
+        "answer_text": "The factors are (x + 1)(x - 5)(x + 1).",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the trial method to find a root, p(-1) = 0.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Perform polynomial long division to find the quotient.",
+            "expression": null
+          },
+          {
+            "step_number": 3,
+            "description": "Factor the resulting quadratic to get the complete factorization.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, the polynomial can be factored as (x + 1)(x - 5)(x + 1).",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "Factorise x³ + 13x² + 32x + 20",
+        "part_latex": null,
+        "answer_text": "The factors are (x + 1)(x - 4)(x + 5).",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the trial method to find a root, p(-1) = 0.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Perform polynomial long division to find the quotient.",
+            "expression": null
+          },
+          {
+            "step_number": 3,
+            "description": "Factor the resulting quadratic to get the complete factorization.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, the polynomial can be factored as (x + 1)(x - 4)(x + 5).",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iv)",
+        "part_text": "Factorise 2y³ + y² − 2y − 1",
+        "part_latex": null,
+        "answer_text": "The factors are (2y + 1)(y - 1)(y + 1).",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the trial method to find a root.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Perform polynomial long division to find the quotient.",
+            "expression": null
+          },
+          {
+            "step_number": 3,
+            "description": "Factor the resulting quadratic to get the complete factorization.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, the polynomial can be factored as (2y + 1)(y - 1)(y + 1).",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of polynomial factorization and trial method.",
+    "topics_tags": [
+      "Polynomials",
+      "Factorization",
+      "Algebra"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Long division process for polynomial factorization.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777721659/ncert/maths/2/img_23_0.jpg",
+        "latex_extracted": "\\frac{x^{2}-3x^{1}-x^{2}}{x^{2}+x^{2}-x+2}}{-\\frac{-3x^{2}-2}{x^{2}-2x}}{x}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.16",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 2,
+    "chapter_name": "polynomials",
+    "question_type": "conceptual",
+    "question_text": "Let us find the quotient on dividing x³ + 13x² + 32x + 20 by (x + 1).",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of polynomial division showing the steps involved.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777721665/ncert/maths/2/img_25_0.jpg",
+      "latex_extracted": "\\begin{array}{c}{{x^{\\ast}+1x^{\\ast}+3x^{\\ast}+20}}\\\\ {{x^{\\ast}+1x^{\\ast}+3x^{\\ast}+20}}\\\\ {{\\frac{-x^{\\ast}+12x^{\\ast}}{x^{\\ast}+2x}}}\\\\ {{\\frac{1x^{\\ast}+3x^{\\ast}}{x^{\\ast}+5x}}}\\\\ {{\\frac{-}{-}{\\frac{-}{c}}-{\\frac{-}{c}}}}\\\\ {{\\frac{-}{0}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The quotient is (x² + 12x + 20) when dividing x³ + 13x² + 32x + 20 by (x + 1).",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set up the polynomial division with x³ + 13x² + 32x + 20 as the dividend and (x + 1) as the divisor.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Perform the division to find the quotient.",
+        "expression": "x³ + 13x² + 32x + 20 = (x + 1)(x² + 12x + 20) + 0"
+      }
+    ],
+    "final_answer": "Therefore, the quotient is (x² + 12x + 20).",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding polynomial division and applying it correctly.",
+    "topics_tags": [
+      "Polynomial Division",
+      "Factors",
+      "Quotient"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of polynomial division showing the steps involved.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777721665/ncert/maths/2/img_25_0.jpg",
+        "latex_extracted": "\\begin{array}{c}{{x^{\\ast}+1x^{\\ast}+3x^{\\ast}+20}}\\\\ {{x^{\\ast}+1x^{\\ast}+3x^{\\ast}+20}}\\\\ {{\\frac{-x^{\\ast}+12x^{\\ast}}{x^{\\ast}+2x}}}\\\\ {{\\frac{1x^{\\ast}+3x^{\\ast}}{x^{\\ast}+5x}}}\\\\ {{\\frac{-}{-}{\\frac{-}{c}}-{\\frac{-}{c}}}}\\\\ {{\\frac{-}{0}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.17",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 2,
+    "chapter_name": "polynomials",
+    "question_type": "conceptual",
+    "question_text": "Let us find the quotient on dividing 2y³ + y² − 2y − 1 by y − 1.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of polynomial division showing the steps involved.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777721667/ncert/maths/2/img_26_0.jpg",
+      "latex_extracted": "\\frac{y-\\frac{2y^{2}+3y+1}{3y^{2}-2y^{2}}}{\\frac{3y^{2}-2y-1}{x}}{\\frac{y-1}{x}}{\\frac{y-1}{y-1}}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The quotient is (2y² + 3y + 1) when dividing 2y³ + y² − 2y − 1 by (y − 1).",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set up the polynomial division with 2y³ + y² − 2y − 1 as the dividend and (y − 1) as the divisor.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Perform the division to find the quotient.",
+        "expression": "2y³ + y² − 2y − 1 = (y − 1)(2y² + 3y + 1)"
+      }
+    ],
+    "final_answer": "Therefore, the quotient is (2y² + 3y + 1).",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding polynomial division and applying it correctly.",
+    "topics_tags": [
+      "Polynomial Division",
+      "Factors",
+      "Quotient"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of polynomial division showing the steps involved.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777721667/ncert/maths/2/img_26_0.jpg",
+        "latex_extracted": "\\frac{y-\\frac{2y^{2}+3y+1}{3y^{2}-2y^{2}}}{\\frac{3y^{2}-2y-1}{x}}{\\frac{y-1}{x}}{\\frac{y-1}{y-1}}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.18",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 2,
+    "chapter_name": "polynomials",
+    "question_type": "conceptual",
+    "question_text": "Let us find the quotient on dividing x³ − 2x² − x + 2 by x − 2.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of polynomial division showing the steps involved.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777721668/ncert/maths/2/img_27_0.jpg",
+      "latex_extracted": "\\frac{x^{2}-3x^{1}-x^{1}-2}{x^{2}+x^{2}-x+2}}{-{\\frac{2x+2}{-3x^{2}-2x}}}{\\nonumber",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The quotient is (x² - 3x + 2) when dividing x³ − 2x² − x + 2 by (x − 2).",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set up the polynomial division with x³ − 2x² − x + 2 as the dividend and (x − 2) as the divisor.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Perform the division to find the quotient.",
+        "expression": "x³ − 2x² − x + 2 = (x − 2)(x² - 3x + 2)"
+      }
+    ],
+    "final_answer": "Therefore, the quotient is (x² - 3x + 2).",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding polynomial division and applying it correctly.",
+    "topics_tags": [
+      "Polynomial Division",
+      "Factors",
+      "Quotient"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of polynomial division showing the steps involved.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777721668/ncert/maths/2/img_27_0.jpg",
+        "latex_extracted": "\\frac{x^{2}-3x^{1}-x^{1}-2}{x^{2}+x^{2}-x+2}}{-{\\frac{2x+2}{-3x^{2}-2x}}}{\\nonumber",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.19",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 2,
+    "chapter_name": "polynomials",
+    "question_type": "conceptual",
+    "question_text": "Let p(x) = x^3 + 13x^2 + 32x + 20. Show that x + 1 is a factor of this polynomial.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical expressions showing polynomial division and factorization steps.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777721670/ncert/maths/2/img_28_0.jpg",
+      "latex_extracted": "\\begin{array}{c}{{x^{+}x^{-}x^{-}x^{-}x^{-}}}\\\\ {{x^{+}y^{2}-x^{i}-5x^{-}}}\\\\ {{\\frac{-x^{i}}{x^{i}}x^{-}x^{-}}}\\\\ {{\\frac{-4x^{2}-9x^{-}}{x^{2}-5x^{-}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Since p(-1) = 0, x + 1 is a factor of the polynomial p(x).",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Substitute x = -1 into p(x).",
+        "expression": "p(-1) = (-1)^3 + 13(-1)^2 + 32(-1) + 20"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the value of p(-1).",
+        "expression": "p(-1) = -1 + 13 - 32 + 20 = 0"
+      }
+    ],
+    "final_answer": "Therefore, x + 1 is a factor of the polynomial p(x).",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of polynomial factorization and substitution.",
+    "topics_tags": [
+      "Polynomials",
+      "Factorization",
+      "Roots"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical expressions showing polynomial division and factorization steps.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777721670/ncert/maths/2/img_28_0.jpg",
+        "latex_extracted": "\\begin{array}{c}{{x^{+}x^{-}x^{-}x^{-}x^{-}}}\\\\ {{x^{+}y^{2}-x^{i}-5x^{-}}}\\\\ {{\\frac{-x^{i}}{x^{i}}x^{-}x^{-}}}\\\\ {{\\frac{-4x^{2}-9x^{-}}{x^{2}-5x^{-}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.20",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 2,
+    "chapter_name": "polynomials",
+    "question_type": "conceptual",
+    "question_text": "Let p(y) = 2y^3 + y^2 - 2y - 1. Show that y - 1 is a factor of this polynomial.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical expressions showing polynomial division and factorization steps.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777721673/ncert/maths/2/img_29_0.jpg",
+      "latex_extracted": "\\begin{array}{c}{{x^{*}+1x^{*}+30}}\\\\ {{x+1)_{x^{*}+13x^{*}+2x+20}}}\\\\ {{\\frac{1x^{*}+32x^{*}}{x^{*}+x^{*}}}}\\\\ {{\\frac{-}{1x^{*}+32x}}}\\\\ {{\\frac{-}{c^{*}+12x^{*}}}}\\\\ {{\\frac{-}{6}}}&{{\\frac{-}{6}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Since p(1) = 0, y - 1 is a factor of the polynomial p(y).",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Substitute y = 1 into p(y).",
+        "expression": "p(1) = 2(1)^3 + (1)^2 - 2(1) - 1"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the value of p(1).",
+        "expression": "p(1) = 2 + 1 - 2 - 1 = 0"
+      }
+    ],
+    "final_answer": "Therefore, y - 1 is a factor of the polynomial p(y).",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of polynomial factorization and substitution.",
+    "topics_tags": [
+      "Polynomials",
+      "Factorization",
+      "Roots"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical expressions showing polynomial division and factorization steps.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777721673/ncert/maths/2/img_29_0.jpg",
+        "latex_extracted": "\\begin{array}{c}{{x^{*}+1x^{*}+30}}\\\\ {{x+1)_{x^{*}+13x^{*}+2x+20}}}\\\\ {{\\frac{1x^{*}+32x^{*}}{x^{*}+x^{*}}}}\\\\ {{\\frac{-}{1x^{*}+32x}}}\\\\ {{\\frac{-}{c^{*}+12x^{*}}}}\\\\ {{\\frac{-}{6}}}&{{\\frac{-}{6}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.21",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 2,
+    "chapter_name": "polynomials",
+    "question_type": "numerical",
+    "question_text": "(i) 103 × 107 (ii) 95 × 96 (iii) 104 × 96",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "103 × 107 = (100 + 3)(100 + 7)",
+        "part_latex": null,
+        "answer_text": "The result of 103 × 107 is 11021.",
+        "answer_latex": "11021",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Apply the identity for the product of two binomials.",
+            "expression": "(100 + 3)(100 + 7) = (100)^2 + (3 + 7)(100) + (3)(7)"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate each term.",
+            "expression": "10000 + 1000 + 21"
+          }
+        ],
+        "final_answer": "Therefore, 103 × 107 = 11021.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "95 × 96 = (100 - 5)(100 - 4)",
+        "part_latex": null,
+        "answer_text": "The result of 95 × 96 is 9120.",
+        "answer_latex": "9120",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Apply the identity for the product of two binomials.",
+            "expression": "(100 - 5)(100 - 4) = (100)^2 + (-5 - 4)(100) + (-5)(-4)"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate each term.",
+            "expression": "10000 - 900 + 20"
+          }
+        ],
+        "final_answer": "Therefore, 95 × 96 = 9120.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "104 × 96 = (100 + 4)(100 - 4)",
+        "part_latex": null,
+        "answer_text": "The result of 104 × 96 is 9984.",
+        "answer_latex": "9984",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Apply the difference of squares identity.",
+            "expression": "(100 + 4)(100 - 4) = (100)^2 - (4)^2"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the result.",
+            "expression": "10000 - 16"
+          }
+        ],
+        "final_answer": "Therefore, 104 × 96 = 9984.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical derivation showing the calculation of 103 × 107 using the identity.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777721693/ncert/maths/2/img_31_0.jpg",
+      "latex_extracted": "\\scriptstyle{\\frac{\\Gamma_{\\mathrm{adjafigfigfigigigigh}}^{\\mathrm{Eomangingingingingingingigh}}}{\\scriptstyle\\int_{\\Gamma=\\varepsilon_{\\mathrm{biffigigh}}^{\\mathrm{Eomgingigh}}}}{\\Big[\\frac{\\Gamma_{\\mathrm{inffigh}}^{\\mathrm{Eomangingingigh}}}{\\Big[[\\frac{\\Gamma_{\\mathrm{inffigh}}^{\\mathrm{Eomgingingingingigh}}}{\\Big[[\\frac{\\Gamma_{\\mathrm{foffigh}}^{\\mathrm{Eomangingigh}}}{\\mathrm{fgighgigh}}}}",
+      "source_page_number": 31,
+      "source_image_index": 0,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of polynomial identities and basic arithmetic.",
+    "topics_tags": [
+      "Polynomials",
+      "Multiplication",
+      "Algebra"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical derivation showing the calculation of 103 × 107 using the identity.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777721693/ncert/maths/2/img_31_0.jpg",
+        "latex_extracted": "\\scriptstyle{\\frac{\\Gamma_{\\mathrm{adjafigfigfigigigigh}}^{\\mathrm{Eomangingingingingingingigh}}}{\\scriptstyle\\int_{\\Gamma=\\varepsilon_{\\mathrm{biffigigh}}^{\\mathrm{Eomgingigh}}}}{\\Big[\\frac{\\Gamma_{\\mathrm{inffigh}}^{\\mathrm{Eomangingingigh}}}{\\Big[[\\frac{\\Gamma_{\\mathrm{inffigh}}^{\\mathrm{Eomgingingingingigh}}}{\\Big[[\\frac{\\Gamma_{\\mathrm{foffigh}}^{\\mathrm{Eomangingigh}}}{\\mathrm{fgighgigh}}}}",
+        "source_page_number": 31,
+        "source_image_index": 0,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q2.22",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 2,
+    "chapter_name": "polynomials",
+    "question_type": "mcq",
+    "question_text": "It is known that, (i) (99)3 = (100 − 1)3 = (100)3 − (1)3 − 3(100)(1)(100 − 1)",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(1)",
+        "option_text": "3 − 3(100)"
+      },
+      {
+        "option_label": "(1)",
+        "option_text": "(100 − 1)"
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical expression showing the expansion of (99)^3 using the binomial theorem.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777721728/ncert/maths/2/img_36_0.jpg",
+      "latex_extracted": "\\scriptstyle{\\frac{\\Gamma_{\\mathrm{initining}}^{\\gamma_{\\mathrm{fliningle}}}}{\\mathrm{{\\frac{\\Gamma_{\\mathrm{initingle}}^{\\varepsilon_{\\mathrm{initinglinglifiginglinglingl}}}}{\\left.\\Gamma_{\\mathrm{initisinglitiginglifigigigigigh}}}}}}{\\scriptstyle\\scriptstyle{\\scriptstyle\\mathrm{fiffien}=\\frac{\\Gamma_{\\mathrm{infliffighiffigh}}}{\\scriptstyle\\left.\\Gamma_{\\mathrm{initigingl}}^{\\varepsilon_{\\mathrm{flighfligh}}}\\right.}}}}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The expansion shows that (99)^3 can be expressed as (100)^3 - 1 - 300(99).",
+    "answer_latex": "970299",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Apply the binomial theorem to expand (100 - 1)^3.",
+        "expression": "(100)^3 - (1)^3 - 3(100)(1)(100 - 1)"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the values.",
+        "expression": "1000000 - 1 - 300(99)"
+      },
+      {
+        "step_number": 3,
+        "description": "Simplify the expression.",
+        "expression": "1000000 - 1 - 29700"
+      }
+    ],
+    "final_answer": "Therefore, (99)^3 equals 970299.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical expression showing the calculation steps.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777721731/ncert/maths/2/img_36_1.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of the binomial theorem and basic arithmetic.",
+    "topics_tags": [
+      "Binomial Theorem",
+      "Polynomials",
+      "Expansion"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "mixed_or_weak_context"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical expression showing the expansion of (99)^3 using the binomial theorem.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777721728/ncert/maths/2/img_36_0.jpg",
+        "latex_extracted": "\\scriptstyle{\\frac{\\Gamma_{\\mathrm{initining}}^{\\gamma_{\\mathrm{fliningle}}}}{\\mathrm{{\\frac{\\Gamma_{\\mathrm{initingle}}^{\\varepsilon_{\\mathrm{initinglinglifiginglinglingl}}}}{\\left.\\Gamma_{\\mathrm{initisinglitiginglifigigigigigh}}}}}}{\\scriptstyle\\scriptstyle{\\scriptstyle\\mathrm{fiffien}=\\frac{\\Gamma_{\\mathrm{infliffighiffigh}}}{\\scriptstyle\\left.\\Gamma_{\\mathrm{initigingl}}^{\\varepsilon_{\\mathrm{flighfligh}}}\\right.}}}}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical expression showing the calculation steps.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777721731/ncert/maths/2/img_36_1.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q2.23",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 2,
+    "chapter_name": "polynomials",
+    "question_type": "conceptual",
+    "question_text": "Calculate (102)^3 and (998)^3 using the binomial theorem.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical derivation showing the expansion of (102)^3 and (998)^3 using the binomial theorem.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777721746/ncert/maths/2/img_37_0.jpg",
+      "latex_extracted": "\\begin{array}{c}{{\\mathrm{Feffifighfifififififigh}^{\\mathrm{Eiffififififififijijk}^{\\mathrm{Effifififififijijk}}}}}\\\\ {{\\mathrm{fifififififififififififififififififigh^{\\mathrm{E}}}^{\\mathrm{Effiffifififififififififififififigigifigifigifififigisisisisisisisise}}}}\\\\ {{\\mathrm{fififififjifjifififififififififififififififififififififififififisisisisisisisisitisisisisisisisisisisisisise}}}\\\\ {{\\phi_{s}}}&{{\\mathrm{f f i f i f i f i f i f i f i f i f i f i f i f i f i f i f i f i f i f i f i f i f i f i f i f i f i f i f i f i f i f i s i f i s i f i f i s i s i f i f i s i f i s i s i s i f i s i s i s i s i s i s i s i s i s i s i f i s i s i s i s i s i s i s i s i s i s i s i s i s i s i s i s i s i s i s i s i s i}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Using the binomial theorem, (102)^3 = 1061208 and (998)^3 = 994011992.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Expand (102)^3 using the binomial theorem.",
+        "expression": "(100 + 2)^3 = (100)^3 + (2)^3 + 3(100)(2)(100 + 2)"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the individual terms.",
+        "expression": "1000000 + 8 + 600(102)"
+      },
+      {
+        "step_number": 3,
+        "description": "Combine the results to find (102)^3.",
+        "expression": "1000000 + 8 + 61200 = 1061208"
+      },
+      {
+        "step_number": 4,
+        "description": "Expand (998)^3 using the binomial theorem.",
+        "expression": "(1000 - 2)^3 = (1000)^3 - (2)^3 - 3(1000)(2)(1000 - 2)"
+      },
+      {
+        "step_number": 5,
+        "description": "Calculate the individual terms.",
+        "expression": "1000000000 - 8 - 6000(998)"
+      },
+      {
+        "step_number": 6,
+        "description": "Combine the results to find (998)^3.",
+        "expression": "1000000000 - 5988008 = 994011992"
+      }
+    ],
+    "final_answer": "Thus, (102)^3 = 1061208 and (998)^3 = 994011992.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of the binomial theorem and multi-step calculations.",
+    "topics_tags": [
+      "Binomial Theorem",
+      "Polynomials",
+      "Expansion"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical derivation showing the expansion of (102)^3 and (998)^3 using the binomial theorem.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777721746/ncert/maths/2/img_37_0.jpg",
+        "latex_extracted": "\\begin{array}{c}{{\\mathrm{Feffifighfifififififigh}^{\\mathrm{Eiffififififififijijk}^{\\mathrm{Effifififififijijk}}}}}\\\\ {{\\mathrm{fifififififififififififififififififigh^{\\mathrm{E}}}^{\\mathrm{Effiffifififififififififififififigigifigifigifififigisisisisisisisise}}}}\\\\ {{\\mathrm{fififififjifjifififififififififififififififififififififififififisisisisisisisisitisisisisisisisisisisisisise}}}\\\\ {{\\phi_{s}}}&{{\\mathrm{f f i f i f i f i f i f i f i f i f i f i f i f i f i f i f i f i f i f i f i f i f i f i f i f i f i f i f i f i f i f i s i f i s i f i f i s i s i f i f i s i f i s i s i s i f i s i s i s i s i s i s i s i s i s i s i f i s i s i s i s i s i s i s i s i s i s i s i s i s i s i s i s i s i s i s i s i s i}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.24",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 2,
+    "chapter_name": "polynomials",
+    "question_type": "conceptual",
+    "question_text": "Without actually calculating the cubes, find the value of each of the following: It is known that if x + y + z = 0, then",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical expressions related to the problem of cubes and variables.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777721765/ncert/maths/2/img_41_0.jpg",
+      "latex_extracted": "\\begin{array}{c}{{\\frac{\\mathbb{F}^{1-2,2,5-2,27,25-5-5555755559}}{|\\langle\\frac{1}{\\uparrow(1+5+5+5+5-5-5-5}\\leq\\pi}{|\\infty}}}\\\\ {{\\frac{|\\varepsilon|+\\varepsilon=5+5-1-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5}{|\\vec{F}|}{\\scriptstyle\\frac{\\sqrt{1+5+5+5+5-5-5-5-5}}{|\\Delta(1+5)(\\vec{5+5+5+5+5+5-5-5-5-5-5)}}}}}\\\\ {{\\frac{\\sqrt{10.5=10.50.5+5+5+5-5-5-5-5-5-50}{|\\vec{5}|\\leq1}}{\\frac{|\\vec{5}(1-5)(-1,1+5+5+5-5-5-5-5-5-5-5)}{\\vec{5}}{\\vec{1}}}{\\sqrt{10.50050....}}}}\\end{array}",
+      "source_page_number": 41,
+      "source_image_index": 0,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of algebraic identities and reasoning without direct calculation.",
+    "topics_tags": [
+      "Cubes",
+      "Algebra",
+      "Polynomials"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical expressions related to the problem of cubes and variables.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777721765/ncert/maths/2/img_41_0.jpg",
+        "latex_extracted": "\\begin{array}{c}{{\\frac{\\mathbb{F}^{1-2,2,5-2,27,25-5-5555755559}}{|\\langle\\frac{1}{\\uparrow(1+5+5+5+5-5-5-5}\\leq\\pi}{|\\infty}}}\\\\ {{\\frac{|\\varepsilon|+\\varepsilon=5+5-1-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5}{|\\vec{F}|}{\\scriptstyle\\frac{\\sqrt{1+5+5+5+5-5-5-5-5}}{|\\Delta(1+5)(\\vec{5+5+5+5+5+5-5-5-5-5-5)}}}}}\\\\ {{\\frac{\\sqrt{10.5=10.50.5+5+5+5-5-5-5-5-5-50}{|\\vec{5}|\\leq1}}{\\frac{|\\vec{5}(1-5)(-1,1+5+5+5-5-5-5-5-5-5-5)}{\\vec{5}}{\\vec{1}}}{\\sqrt{10.50050....}}}}\\end{array}",
+        "source_page_number": 41,
+        "source_image_index": 0,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.25",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 2,
+    "chapter_name": "polynomials",
+    "question_type": "conceptual",
+    "question_text": "Give possible expressions for the length and breadth of each of the following rectangles, in which their areas are given:",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical expressions related to the area of rectangles.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777721788/ncert/maths/2/img_42_0.jpg",
+      "latex_extracted": "\\begin{array}{c}{{\\mathrm{fffif\\leq\\cdotsj\\varepsilon=\\gamma\\varepsilon=\\gamma\\varepsilon}}}\\\\ {{\\mathrm{ffi=\\delta\\overline{{{\\varepsilon}}}[\\scriptstyle-\\mathrm{jtfi}\\mathrm{jtij\\varepsilon}]\\mathrm{jfij\\varepsilon\\mathrm{jfifij\\varepsilon}\\mathrm{jf\\delta\\overline{{{k}}}\\mathrm{jf\\delta\\bar{k}\\ell}\\mathrm{jf\\varepsilon}\\mathrm{jf\\delta\\bar{k}\\ell}\\mathrm{jf\\delta\\bar{k}\\ell}\\mathrm{jf\\delta\\bar{k}\\ell}\\mathrm{jf\\ell}\\mathrm{jf\\b\\bar{k}\\bar{k}\\ell}}}}}}\\\\ {{\\mathrm{ffin\\delta\\varepsilon\\varepsilon\\overline{{{{m}}}\\varepsilon\\hbar\\varepsilon\\hbar\\omega\\omega\\varepsilon\\omega\\varepsilon\\overline{{{\\beta}}}\\varepsilon\\overline{{{\\beta\\theta\\theta\\varepsilon\\hbar\\ k\\bar{k}\\beta\\omega\\beta\\omega\\varepsilon\\bar{k}\\beta\\omega\\bar{k}\\theta}\\overline{{\\beta}\\varepsilon\\beta}\\overline{{{\\ k\\beta}\\theta}\\ell\\hbar\\ell\\ell}\\omega\\ell\\ell}}}}}\\end{array}",
+      "source_page_number": 42,
+      "source_image_index": 0,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Area = Length × Breadth. The expression given for the area of the rectangle has to be factorised.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic understanding of area and factorization.",
+    "topics_tags": [
+      "Area",
+      "Rectangles",
+      "Factorization"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical expressions related to the area of rectangles.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777721788/ncert/maths/2/img_42_0.jpg",
+        "latex_extracted": "\\begin{array}{c}{{\\mathrm{fffif\\leq\\cdotsj\\varepsilon=\\gamma\\varepsilon=\\gamma\\varepsilon}}}\\\\ {{\\mathrm{ffi=\\delta\\overline{{{\\varepsilon}}}[\\scriptstyle-\\mathrm{jtfi}\\mathrm{jtij\\varepsilon}]\\mathrm{jfij\\varepsilon\\mathrm{jfifij\\varepsilon}\\mathrm{jf\\delta\\overline{{{k}}}\\mathrm{jf\\delta\\bar{k}\\ell}\\mathrm{jf\\varepsilon}\\mathrm{jf\\delta\\bar{k}\\ell}\\mathrm{jf\\delta\\bar{k}\\ell}\\mathrm{jf\\delta\\bar{k}\\ell}\\mathrm{jf\\ell}\\mathrm{jf\\b\\bar{k}\\bar{k}\\ell}}}}}}\\\\ {{\\mathrm{ffin\\delta\\varepsilon\\varepsilon\\overline{{{{m}}}\\varepsilon\\hbar\\varepsilon\\hbar\\omega\\omega\\varepsilon\\omega\\varepsilon\\overline{{{\\beta}}}\\varepsilon\\overline{{{\\beta\\theta\\theta\\varepsilon\\hbar\\ k\\bar{k}\\beta\\omega\\beta\\omega\\varepsilon\\bar{k}\\beta\\omega\\bar{k}\\theta}\\overline{{\\beta}\\varepsilon\\beta}\\overline{{{\\ k\\beta}\\theta}\\ell\\hbar\\ell\\ell}\\omega\\ell\\ell}}}}}\\end{array}",
+        "source_page_number": 42,
+        "source_image_index": 0,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  }
+]

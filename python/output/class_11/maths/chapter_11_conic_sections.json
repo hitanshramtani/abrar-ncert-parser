@@ -1,0 +1,2714 @@
+[
+  {
+    "question_id": "Q11.1",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "conic sections",
+    "question_type": "mcq",
+    "question_text": "Find the equation of the circle with centre (0, 2) and radius 2.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The equation of the circle is x^2 + y^2 - 4y = 0.",
+    "answer_latex": "x^2 + y^2 - 4y = 0",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Substitute the center and radius into the circle equation formula.",
+        "expression": "(x - 0)^2 + (y - 2)^2 = 2^2"
+      },
+      {
+        "step_number": 2,
+        "description": "Expand and simplify the equation.",
+        "expression": "x^2 + (y^2 - 4y + 4) = 4"
+      },
+      {
+        "step_number": 3,
+        "description": "Rearrange the equation to standard form.",
+        "expression": "x^2 + y^2 - 4y = 0"
+      }
+    ],
+    "final_answer": "Therefore, the equation of the circle is x^2 + y^2 - 4y = 0.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of the circle equation and basic algebra.",
+    "topics_tags": [
+      "Circle Equation",
+      "Conic Sections",
+      "Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.2",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "conic sections",
+    "question_type": "mcq",
+    "question_text": "Find the equation of the circle with centre (-2, 3) and radius 4.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The equation of the circle is x^2 + 4x - 6y - 3 = 0.",
+    "answer_latex": "x^2 + 4x - 6y - 3 = 0",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Substitute the center and radius into the circle equation formula.",
+        "expression": "(x + 2)^2 + (y - 3)^2 = 4^2"
+      },
+      {
+        "step_number": 2,
+        "description": "Expand and simplify the equation.",
+        "expression": "x^2 + 4x + 4 + y^2 - 6y + 9 = 16"
+      },
+      {
+        "step_number": 3,
+        "description": "Rearrange the equation to standard form.",
+        "expression": "x^2 + y^2 + 4x - 6y - 3 = 0"
+      }
+    ],
+    "final_answer": "Therefore, the equation of the circle is x^2 + 4x - 6y - 3 = 0.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of the circle equation and basic algebra.",
+    "topics_tags": [
+      "Circle Equation",
+      "Conic Sections",
+      "Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.3",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "conic sections",
+    "question_type": "numerical",
+    "question_text": "Find the equation for the ellipse that satisfies the given conditions: Vertices (0, ±13), foci (0, ±5).",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the ellipse with specified vertices and foci.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819869/ncert/maths/11/img_23_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The equation of the ellipse is of the form \\frac{y^2}{169} + \\frac{x^2}{20} = 1.",
+    "answer_latex": "\\frac{y^2}{169} + \\frac{x^2}{20} = 1",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the values of a and c from the given vertices and foci.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the relationship c^2 = a^2 - b^2 to find b.",
+        "expression": "c^2 = a^2 - b^2"
+      },
+      {
+        "step_number": 3,
+        "description": "Substitute the values to form the equation of the ellipse.",
+        "expression": "\\frac{y^2}{169} + \\frac{x^2}{20} = 1"
+      }
+    ],
+    "final_answer": "Thus, the equation of the ellipse is \\frac{y^2}{169} + \\frac{x^2}{20} = 1.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of ellipse properties and calculations.",
+    "topics_tags": [
+      "Ellipse",
+      "Equation",
+      "Vertices",
+      "Foci"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the ellipse with specified vertices and foci.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819869/ncert/maths/11/img_23_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.4",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "conic sections",
+    "question_type": "numerical",
+    "question_text": "Find the equation for the ellipse that satisfies the given conditions: Vertices (±6, 0), foci (±4, 0).",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the ellipse with specified vertices and foci.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819870/ncert/maths/11/img_24_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The equation of the ellipse is of the form \\frac{x^2}{36} + \\frac{y^2}{16} = 1.",
+    "answer_latex": "\\frac{x^2}{36} + \\frac{y^2}{16} = 1",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the values of a and c from the given vertices and foci.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the relationship c^2 = a^2 - b^2 to find b.",
+        "expression": "c^2 = a^2 - b^2"
+      },
+      {
+        "step_number": 3,
+        "description": "Substitute the values to form the equation of the ellipse.",
+        "expression": "\\frac{x^2}{36} + \\frac{y^2}{16} = 1"
+      }
+    ],
+    "final_answer": "Thus, the equation of the ellipse is \\frac{x^2}{36} + \\frac{y^2}{16} = 1.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of ellipse properties and calculations.",
+    "topics_tags": [
+      "Ellipse",
+      "Equation",
+      "Vertices",
+      "Foci"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the ellipse with specified vertices and foci.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819870/ncert/maths/11/img_24_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.5",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "conic sections",
+    "question_type": "mcq",
+    "question_text": "Find the centre and radius of the circle (x + 5)² + (y - 3)² = 36.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The centre of the circle is (-5, 3) and the radius is 6.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the center and radius from the standard form of the circle equation.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, the centre is (-5, 3) and the radius is 6.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of the circle equation and basic algebra.",
+    "topics_tags": [
+      "Circle Equation",
+      "Conic Sections",
+      "Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.6",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "conic sections",
+    "question_type": "derivation",
+    "question_text": "Find the centre and radius of the circle x² + y² - 4x - 8y - 45 = 0.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The centre of the circle is (2, 4) and the radius is √65.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Rearrange the equation to standard form and identify h, k, and r.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, the centre is (2, 4) and the radius is √65.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves rearranging and completing the square.",
+    "topics_tags": [
+      "Circle Equation",
+      "Conic Sections",
+      "Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.7",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "conic sections",
+    "question_type": "numerical",
+    "question_text": "Find the centre and radius of the circle x^2 + y^2 - 8x + 10y - 12 = 0.",
+    "question_latex": "x^2 + y^2 - 8x + 10y - 12 = 0",
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The centre of the given circle is (4, -5) and its radius is √53.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Rearrange the equation to complete the square.",
+        "expression": "(x - 4)^2 + (y + 5)^2 = 53"
+      },
+      {
+        "step_number": 2,
+        "description": "Identify the center (h, k) and radius r from the standard form.",
+        "expression": "h = 4, k = -5, r = \\sqrt{53}"
+      }
+    ],
+    "final_answer": "Thus, the centre of the given circle is (4, -5) and its radius is √53.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of completing the square and identifying circle parameters.",
+    "topics_tags": [
+      "Circle",
+      "Conic Sections",
+      "Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.8",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "conic sections",
+    "question_type": "mcq",
+    "question_text": "Find the equation of the circle passing through the points (4, 1) and (6, 5) and whose centre is on the line 4x + y = 16.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The equation of the required circle is x^2 + y^2 - 6x - 8y + 15 = 0.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set up the equations based on the points and the line.",
+        "expression": "(4 - h)^2 + (1 - k)^2 = r^2, (6 - h)^2 + (5 - k)^2 = r^2"
+      },
+      {
+        "step_number": 2,
+        "description": "Solve the system of equations to find h and k.",
+        "expression": "h = 3, k = 4"
+      },
+      {
+        "step_number": 3,
+        "description": "Substitute h and k back to find r.",
+        "expression": "(4 - 3)^2 + (1 - 4)^2 = r^2"
+      }
+    ],
+    "final_answer": "Thus, the equation of the required circle is x^2 + y^2 - 6x - 8y + 15 = 0.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps to solve for the circle's equation.",
+    "topics_tags": [
+      "Circle",
+      "Coordinate Geometry",
+      "Equations"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.9",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "conic sections",
+    "question_type": "mcq",
+    "question_text": "Find the equation of the hyperbola satisfying the given conditions: Vertices (0, ±3), foci (0, ±5).",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The equation of the hyperbola is of the form \\frac{y^2}{a^2} - \\frac{x^2}{b^2} = 1, where a = 3 and b = 4.",
+    "answer_latex": "\\frac{y^2}{9} - \\frac{x^2}{16} = 1",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the values of a and c from the vertices and foci.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the relationship a^2 + b^2 = c^2 to find b.",
+        "expression": "9 + b^2 = 25"
+      },
+      {
+        "step_number": 3,
+        "description": "Solve for b^2.",
+        "expression": "b^2 = 16"
+      }
+    ],
+    "final_answer": "Thus, the equation of the hyperbola is \\frac{y^2}{9} - \\frac{x^2}{16} = 1.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding hyperbola properties and applying the relationship between a, b, and c.",
+    "topics_tags": [
+      "Hyperbola",
+      "Conic Sections",
+      "Vertices",
+      "Foci"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.10",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "conic sections",
+    "question_type": "conceptual",
+    "question_text": "Find the equation of the circle with radius 5 whose centre lies on x-axis and passes through the point (2, 3).",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to the circle with radius and center on x-axis.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819859/ncert/maths/11/img_7_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The equation of the circle becomes (x + 2)² + y² = 25 when h = -2, and (x - 6)² + y² = 25 when h = 6.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set up the equation of the circle with center (h, 0) and radius 5.",
+        "expression": "(x - h)² + y² = 25"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the point (2, 3) into the equation to find h.",
+        "expression": "(2 - h)² + 3² = 25"
+      },
+      {
+        "step_number": 3,
+        "description": "Solve for h to find the possible values.",
+        "expression": "h = -2 \\text{ or } h = 6"
+      }
+    ],
+    "final_answer": "Thus, the equations of the circles are (x + 2)² + y² = 25 and (x - 6)² + y² = 25.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of circle equations and substitution.",
+    "topics_tags": [
+      "Circle Equation",
+      "Geometry",
+      "Coordinate Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the circle with radius and center on x-axis.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819859/ncert/maths/11/img_7_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.11",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "conic sections",
+    "question_type": "conceptual",
+    "question_text": "Find the equation of the hyperbola satisfying the given conditions: Foci (0, ±13), the conjugate axis is of length 24.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The equation of the hyperbola is of the form \\frac{y^2}{a^2} - \\frac{x^2}{b^2} = 1, where a = 5 and b = 12.",
+    "answer_latex": "\\frac{y^2}{25} - \\frac{x^2}{144} = 1",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the values of a and c from the foci and conjugate axis.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the relationship a^2 + b^2 = c^2 to find a.",
+        "expression": "a^2 + 144 = 169"
+      },
+      {
+        "step_number": 3,
+        "description": "Solve for a^2.",
+        "expression": "a^2 = 25"
+      }
+    ],
+    "final_answer": "Thus, the equation of the hyperbola is \\frac{y^2}{25} - \\frac{x^2}{144} = 1.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding hyperbola properties and applying the relationship between a, b, and c.",
+    "topics_tags": [
+      "Hyperbola",
+      "Conic Sections",
+      "Foci",
+      "Conjugate Axis"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.12",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "conic sections",
+    "question_type": "mcq",
+    "question_text": "Find the equation of a circle with centre (2, 2) and passes through the point (4, 5).",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to the circle with center (2, 2) and passing through (4, 5).",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819860/ncert/maths/11/img_9_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The radius of the circle is the distance between (2, 2) and (4, 5).",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the center of the circle and the point it passes through.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the radius using the distance formula.",
+        "expression": "r = \\sqrt{(4 - 2)² + (5 - 2)²}"
+      },
+      {
+        "step_number": 3,
+        "description": "Write the equation of the circle using the center and radius.",
+        "expression": "(x - 2)² + (y - 2)² = r²"
+      }
+    ],
+    "final_answer": "Thus, the equation of the circle can be expressed as (x - 2)² + (y - 2)² = r².",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic application of the distance formula.",
+    "topics_tags": [
+      "Circle Equation",
+      "Geometry",
+      "Coordinate Geometry"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the circle with center (2, 2) and passing through (4, 5).",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819860/ncert/maths/11/img_9_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.13",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "conic sections",
+    "question_type": "multipart",
+    "question_text": "Find the coordinates of the focus, axis of the parabola, the equation of directrix and the length of the latus rectum for y^2 = 12x.",
+    "question_latex": "y^2 = 12x",
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Coordinates of the focus.",
+        "part_latex": null,
+        "answer_text": "Coordinates of the focus = (3, 0).",
+        "answer_latex": "(3, 0)",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the value of 'a' from the equation.",
+            "expression": "4a = 12 \\Rightarrow a = 3"
+          }
+        ],
+        "final_answer": "Thus, the coordinates of the focus are (3, 0).",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Axis of the parabola.",
+        "part_latex": null,
+        "answer_text": "The axis of the parabola is the x-axis.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Therefore, the axis of the parabola is the x-axis.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "Equation of directrix.",
+        "part_latex": null,
+        "answer_text": "Equation of directrix is x = -3.",
+        "answer_latex": "x = -3",
+        "steps": [],
+        "final_answer": "Thus, the equation of the directrix is x = -3.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(d)",
+        "part_text": "Length of latus rectum.",
+        "part_latex": null,
+        "answer_text": "Length of latus rectum = 12.",
+        "answer_latex": "12",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the length of latus rectum using the formula.",
+            "expression": "4a = 12"
+          }
+        ],
+        "final_answer": "Therefore, the length of the latus rectum is 12.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of parabola properties and basic calculations.",
+    "topics_tags": [
+      "Parabola",
+      "Focus",
+      "Directrix",
+      "Latus Rectum"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.14",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "conic sections",
+    "question_type": "multipart",
+    "question_text": "Find the coordinates of the focus, axis of the parabola, the equation of directrix and the length of the latus rectum for x^2 = 6y.",
+    "question_latex": "x^2 = 6y",
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Coordinates of the focus.",
+        "part_latex": null,
+        "answer_text": "Coordinates of the focus = (0, 1.5).",
+        "answer_latex": "(0, 1.5)",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the value of 'a' from the equation.",
+            "expression": "4a = 6 \\Rightarrow a = 1.5"
+          }
+        ],
+        "final_answer": "Thus, the coordinates of the focus are (0, 1.5).",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Axis of the parabola.",
+        "part_latex": null,
+        "answer_text": "The axis of the parabola is the y-axis.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Therefore, the axis of the parabola is the y-axis.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "Equation of directrix.",
+        "part_latex": null,
+        "answer_text": "Equation of directrix is y = -1.5.",
+        "answer_latex": "y = -1.5",
+        "steps": [],
+        "final_answer": "Thus, the equation of the directrix is y = -1.5.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(d)",
+        "part_text": "Length of latus rectum.",
+        "part_latex": null,
+        "answer_text": "Length of latus rectum = 6.",
+        "answer_latex": "6",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the length of latus rectum using the formula.",
+            "expression": "4a = 6"
+          }
+        ],
+        "final_answer": "Therefore, the length of the latus rectum is 6.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of parabola properties and basic calculations.",
+    "topics_tags": [
+      "Parabola",
+      "Focus",
+      "Directrix",
+      "Latus Rectum"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.15",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "conic sections",
+    "question_type": "conceptual",
+    "question_text": "Find the equation of the parabola that satisfies the following conditions: Vertex (0, 0), passing through (5, 2) and symmetric with respect to y-axis.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to the parabola passing through point (5, 2)",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819864/ncert/maths/11/img_15_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The equation of the parabola is of the form x^2 = 4ay, where point (5, 2) must satisfy the equation.",
+    "answer_latex": "x^2 = 4ay",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the form of the parabola based on symmetry about the y-axis.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the point (5, 2) into the equation to find 'a'.",
+        "expression": "5^2 = 4a(2)"
+      }
+    ],
+    "final_answer": "Thus, the equation of the parabola is x^2 = 4ay.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of parabola properties and substitution.",
+    "topics_tags": [
+      "Parabola",
+      "Vertex",
+      "Symmetry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the parabola passing through point (5, 2)",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819864/ncert/maths/11/img_15_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.16",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "conic sections",
+    "question_type": "conceptual",
+    "question_text": "Find the equation of the parabola that satisfies the following conditions: Vertex (0, 0) focus (-2, 0).",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The equation of the parabola is of the form y^2 = -4ax, where a = 2.",
+    "answer_latex": "y^2 = -8x",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the form of the parabola based on the focus position.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the focus (-2, 0) to find 'a'.",
+        "expression": "a = 2"
+      }
+    ],
+    "final_answer": "Thus, the equation of the parabola is y^2 = -8x.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of parabola properties and substitution.",
+    "topics_tags": [
+      "Parabola",
+      "Vertex",
+      "Focus"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.17",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "conic sections",
+    "question_type": "conceptual",
+    "question_text": "Find the equation of the parabola that satisfies the following conditions: Vertex (0, 0); focus (3, 0).",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The equation of the parabola is of the form y^2 = 4ax, where a = 3.",
+    "answer_latex": "y^2 = 12x",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the form of the parabola based on the focus position.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the focus (3, 0) to find 'a'.",
+        "expression": "a = 3"
+      }
+    ],
+    "final_answer": "Thus, the equation of the parabola is y^2 = 12x.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of parabola properties and substitution.",
+    "topics_tags": [
+      "Parabola",
+      "Vertex",
+      "Focus"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.18",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "conic sections",
+    "question_type": "multipart",
+    "question_text": "Find the coordinates of the foci, the vertices, the length of major axis, the minor axis, the eccentricity and the length of the latus rectum of the ellipse.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Coordinates of the foci.",
+        "part_latex": null,
+        "answer_text": "The coordinates of the foci are (0, ±5).",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the values of a and b from the equation of the ellipse.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the coordinates of the foci using the formula c = √(a² - b²).",
+            "expression": "c = \\sqrt{10^2 - 5^2} = \\sqrt{75} = 5"
+          }
+        ],
+        "final_answer": "Therefore, the coordinates of the foci are (0, ±5).",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Coordinates of the vertices.",
+        "part_latex": null,
+        "answer_text": "The coordinates of the vertices are (0, ±10).",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the value of a from the equation of the ellipse.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, the coordinates of the vertices are (0, ±10).",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "Length of major axis.",
+        "part_latex": null,
+        "answer_text": "Length of major axis = 2a = 20.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the length of the major axis using the formula 2a.",
+            "expression": "2a = 2 \\times 10 = 20"
+          }
+        ],
+        "final_answer": "Therefore, the length of the major axis is 20.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(d)",
+        "part_text": "Length of minor axis.",
+        "part_latex": null,
+        "answer_text": "Length of minor axis = 2b = 10.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the length of the minor axis using the formula 2b.",
+            "expression": "2b = 2 \\times 5 = 10"
+          }
+        ],
+        "final_answer": "Thus, the length of the minor axis is 10.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(e)",
+        "part_text": "Eccentricity.",
+        "part_latex": null,
+        "answer_text": "Eccentricity e = c/a = 5/10 = 0.5.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the eccentricity using the formula e = c/a.",
+            "expression": "e = \\frac{5}{10} = 0.5"
+          }
+        ],
+        "final_answer": "Therefore, the eccentricity is 0.5.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(f)",
+        "part_text": "Length of latus rectum.",
+        "part_latex": null,
+        "answer_text": "Length of latus rectum = 2b²/a = 2(5²)/10 = 5.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the length of the latus rectum using the formula 2b²/a.",
+            "expression": "Length = \\frac{2 \\times 5^2}{10} = 5"
+          }
+        ],
+        "final_answer": "Thus, the length of the latus rectum is 5.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations and understanding of ellipse properties.",
+    "topics_tags": [
+      "Ellipse",
+      "Foci",
+      "Vertices",
+      "Eccentricity",
+      "Latus Rectum"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "Incomplete equations and missing values in the text."
+    ],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.26",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "conic sections",
+    "question_type": "numerical",
+    "question_text": "Find the equation for the ellipse that satisfies the given conditions: Length of major axis 26, foci (±5, 0)",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to the ellipse with major axis and foci",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819872/ncert/maths/11/img_25_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The equation of the ellipse is derived from the given conditions.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the length of the major axis and foci.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the semi-major axis a and c.",
+        "expression": "2a = 26 \\Rightarrow a = 13, c = 5"
+      },
+      {
+        "step_number": 3,
+        "description": "Use the relationship between a, b, and c to find b.",
+        "expression": "c^2 = a^2 - b^2"
+      }
+    ],
+    "final_answer": "Thus, the equation of the ellipse is derived based on the calculated values.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of ellipse properties and calculations.",
+    "topics_tags": [
+      "Ellipse",
+      "Conic Sections",
+      "Geometry"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the ellipse with major axis and foci",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819872/ncert/maths/11/img_25_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.27",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "conic sections",
+    "question_type": "numerical",
+    "question_text": "Find the equation for the ellipse that satisfies the given conditions: Length of minor axis 16, foci (0, ±6)",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to the ellipse with minor axis and foci",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819873/ncert/maths/11/img_26_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The equation of the ellipse is derived from the given conditions.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the length of the minor axis and foci.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the semi-minor axis b and c.",
+        "expression": "2b = 16 \\Rightarrow b = 8, c = 6"
+      },
+      {
+        "step_number": 3,
+        "description": "Use the relationship between a, b, and c to find a.",
+        "expression": "c^2 = a^2 - b^2"
+      }
+    ],
+    "final_answer": "Thus, the equation of the ellipse is derived based on the calculated values.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of ellipse properties and calculations.",
+    "topics_tags": [
+      "Ellipse",
+      "Conic Sections",
+      "Geometry"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the ellipse with minor axis and foci",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819873/ncert/maths/11/img_26_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.28",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "conic sections",
+    "question_type": "numerical",
+    "question_text": "Find the equation for the ellipse that satisfies the given conditions: Foci (±3, 0), a = 4",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The equation of the ellipse is derived from the given conditions.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the foci and semi-major axis.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate c based on the foci.",
+        "expression": "c = 3"
+      },
+      {
+        "step_number": 3,
+        "description": "Use the relationship between a, b, and c to find b.",
+        "expression": "c^2 = a^2 - b^2"
+      }
+    ],
+    "final_answer": "Thus, the equation of the ellipse is derived based on the calculated values.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram related to the ellipse with foci and semi-major axis",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819876/ncert/maths/11/img_27_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of ellipse properties and calculations.",
+    "topics_tags": [
+      "Ellipse",
+      "Conic Sections",
+      "Geometry"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the ellipse with foci and semi-major axis",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819876/ncert/maths/11/img_27_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q11.29",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "conic sections",
+    "question_type": "conceptual",
+    "question_text": "Find the coordinates of the foci and the vertices, the eccentricity, and the length of the latus rectum of the hyperbola.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The coordinates of the foci are (±5, 0). The coordinates of the vertices are (±4, 0).",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the standard form of the hyperbola and compare it to find a and b.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the coordinates of the foci using c = √(a² + b²).",
+        "expression": "c = \\sqrt{a^2 + b^2} = \\sqrt{4^2 + 3^2} = 5"
+      }
+    ],
+    "final_answer": "Therefore, the coordinates of the foci are (±5, 0) and the vertices are (±4, 0).",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram related to hyperbola properties.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819877/ncert/maths/11/img_28_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of hyperbola properties and calculations.",
+    "topics_tags": [
+      "Hyperbola",
+      "Foci",
+      "Vertices",
+      "Eccentricity"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram related to hyperbola properties.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819877/ncert/maths/11/img_28_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q11.30",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "conic sections",
+    "question_type": "conceptual",
+    "question_text": "Find the coordinates of the foci and the vertices, the eccentricity, and the length of the latus rectum of the hyperbola 9y² - 4x² = 36.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The coordinates of the foci are (0, ±6). The coordinates of the vertices are (0, ±3).",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Rewrite the hyperbola equation in standard form.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Identify a and b from the standard form to find c.",
+        "expression": "c = \\sqrt{a^2 + b^2} = \\sqrt{3^2 + 6^2} = 6"
+      }
+    ],
+    "final_answer": "Therefore, the coordinates of the foci are (0, ±6) and the vertices are (0, ±3).",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram related to hyperbola properties.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819879/ncert/maths/11/img_29_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding hyperbola properties and calculations.",
+    "topics_tags": [
+      "Hyperbola",
+      "Foci",
+      "Vertices",
+      "Eccentricity"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram related to hyperbola properties.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819879/ncert/maths/11/img_29_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q11.31",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "conic sections",
+    "question_type": "conceptual",
+    "question_text": "Find the coordinates of the foci and the vertices, the eccentricity, and the length of the latus rectum of the hyperbola 16x² - 9y² = 576.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to hyperbola properties.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819880/ncert/maths/11/img_30_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The coordinates of the foci are (±10, 0). The coordinates of the vertices are (±6, 0).",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Rewrite the hyperbola equation in standard form.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Identify a and b from the standard form to find c.",
+        "expression": "c = \\sqrt{a^2 + b^2} = \\sqrt{6^2 + 8^2} = 10"
+      }
+    ],
+    "final_answer": "Therefore, the coordinates of the foci are (±10, 0) and the vertices are (±6, 0).",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding hyperbola properties and calculations.",
+    "topics_tags": [
+      "Hyperbola",
+      "Foci",
+      "Vertices",
+      "Eccentricity"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to hyperbola properties.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819880/ncert/maths/11/img_30_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.32",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "conic sections",
+    "question_type": "multipart",
+    "question_text": "Find the coordinates of the foci and the vertices, the eccentricity, and the length of the latus rectum of the hyperbola 49y² - 16x² = 784.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to hyperbola properties.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819885/ncert/maths/11/img_32_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Find the coordinates of the foci.",
+        "part_latex": null,
+        "answer_text": "The coordinates of the foci are (±7, 0).",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify a and b from the standard form of the hyperbola.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate c using the formula c² = a² + b².",
+            "expression": "c = \\sqrt{a^2 + b^2} = \\sqrt{4 + 49} = 7"
+          }
+        ],
+        "final_answer": "Therefore, the coordinates of the foci are (±7, 0).",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Find the coordinates of the vertices.",
+        "part_latex": null,
+        "answer_text": "The coordinates of the vertices are (0, ±4).",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the vertices from the hyperbola equation.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, the coordinates of the vertices are (0, ±4).",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "Find the eccentricity.",
+        "part_latex": null,
+        "answer_text": "The eccentricity e is given by e = c/a = 7/4.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate eccentricity using the formula e = c/a.",
+            "expression": "e = \\frac{c}{a} = \\frac{7}{4}"
+          }
+        ],
+        "final_answer": "Therefore, the eccentricity is 1.75.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(d)",
+        "part_text": "Find the length of the latus rectum.",
+        "part_latex": null,
+        "answer_text": "The length of the latus rectum is given by 2b²/a = 2*49/4 = 24.5.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the length of the latus rectum using the formula.",
+            "expression": "Length = \\frac{2b^2}{a} = \\frac{2 \\times 49}{4}"
+          }
+        ],
+        "final_answer": "Thus, the length of the latus rectum is 24.5.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of hyperbola properties and multiple calculations.",
+    "topics_tags": [
+      "Hyperbola",
+      "Conic Sections",
+      "Eccentricity",
+      "Latus Rectum"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to hyperbola properties.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819885/ncert/maths/11/img_32_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.38",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "conic sections",
+    "question_type": "conceptual",
+    "question_text": "Find the equation of the hyperbola satisfying the given conditions: Foci, passing through (2, 3).",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram representing the hyperbola with foci and passing through point (2, 3).",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819890/ncert/maths/11/img_38_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Thus, the equation of the hyperbola is derived from the conditions given.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the foci and the point through which the hyperbola passes.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the relationship a² + b² = c² to find a² and b².",
+        "expression": "a^2 + b^2 = 10"
+      },
+      {
+        "step_number": 3,
+        "description": "Substitute the values to find a² and b².",
+        "expression": "b^2 = 10 - a^2"
+      }
+    ],
+    "final_answer": "Therefore, the equation of the hyperbola is established based on the derived values.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multi-step reasoning to derive the equation from given conditions.",
+    "topics_tags": [
+      "Hyperbola",
+      "Conic Sections",
+      "Foci"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram representing the hyperbola with foci and passing through point (2, 3).",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819890/ncert/maths/11/img_38_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.39",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "conic sections",
+    "question_type": "numerical",
+    "question_text": "An arch is in the form of a parabola with its axis vertical. The arch is 10 m high and 5 m wide at the base. How wide is it 2 m from the vertex of the parabola?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram representing the arch in the form of a parabola.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819892/ncert/maths/11/img_40_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "When the arch is 2 m from the vertex of the parabola, its width is approximately 2.23 m.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the vertex of the parabola and set up the coordinate system.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the properties of the parabola to find the width at 2 m from the vertex.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the width of the arch 2 m from the vertex is approximately 2.23 m.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of parabolic properties and basic calculations.",
+    "topics_tags": [
+      "Parabola",
+      "Arch",
+      "Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram representing the arch in the form of a parabola.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819892/ncert/maths/11/img_40_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.40",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "conic sections",
+    "question_type": "numerical",
+    "question_text": "The cable of a uniformly loaded suspension bridge hangs in the form of a parabola. The roadway which is horizontal and 100 m long is supported by vertical wires attached to the cable, the longest wire being 30 m and the shortest being 6 m. Find the length of a supporting wire attached to the roadway 18 m from the middle.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the suspension bridge and the parabolic cable.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819896/ncert/maths/11/img_42_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The length of the supporting wire attached to the roadway 18 m from the middle is approximately 9.11 m.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set up the coordinate system with the vertex of the parabola at the lowest point of the cable.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the length of the supporting wire using the properties of the parabola.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the length of the supporting wire is approximately 9.11 m.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps and understanding of parabolic equations.",
+    "topics_tags": [
+      "Parabola",
+      "Suspension Bridge",
+      "Geometry"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the suspension bridge and the parabolic cable.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819896/ncert/maths/11/img_42_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.41",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "conic sections",
+    "question_type": "numerical",
+    "question_text": "An arch is in the form of a semi-ellipse. It is 8 m wide and 2 m high at the centre. Find the height of the arch at a point 1.5 m from one end.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Thus, the height of the arch at a point 1.5 m from one end is approximately 1.56 m.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the semi-major and semi-minor axes of the ellipse.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the equation of the semi-ellipse to find the height at x = 2.5 m.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, the height of the arch at the specified point is approximately 1.56 m.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram representing the semi-ellipse arch.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819900/ncert/maths/11/img_43_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of semi-ellipse properties and substitution into the equation.",
+    "topics_tags": [
+      "Semi-Ellipse",
+      "Geometry",
+      "Arch Height"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram representing the semi-ellipse arch.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819900/ncert/maths/11/img_43_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q11.42",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "conic sections",
+    "question_type": "numerical",
+    "question_text": "A rod of length 12 cm moves with its ends always touching the coordinate axes. Determine the equation of the locus of a point P on the rod, which is 3 cm from the end in contact with the x-axis.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram illustrating the rod and its position relative to the coordinate axes.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819901/ncert/maths/11/img_44_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Thus, the equation of the locus of point P on the rod is .",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Define the position of point P on the rod and its distances from the axes.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the properties of the triangle formed to derive the equation.",
+        "expression": null
+      }
+    ],
+    "final_answer": "The equation of the locus of point P on the rod is derived from the triangle properties.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of locus and triangle properties, requiring multiple steps.",
+    "topics_tags": [
+      "Locus",
+      "Coordinate Geometry",
+      "Rod Movement"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram illustrating the rod and its position relative to the coordinate axes.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819901/ncert/maths/11/img_44_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.43",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "conic sections",
+    "question_type": "numerical",
+    "question_text": "Find the area of the triangle formed by the lines joining the vertex of the parabola x^2 = 12y to the ends of its latus rectum.",
+    "question_latex": "x^2 = 12y",
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the parabola and its latus rectum.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819902/ncert/maths/11/img_45_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The area of the triangle formed by the vertex and the ends of the latus rectum can be calculated.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the coordinates of the vertex and the ends of the latus rectum.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the formula for the area of a triangle given its vertices.",
+        "expression": null
+      }
+    ],
+    "final_answer": "The area of the triangle formed is calculated using the coordinates derived.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of parabola properties and area calculation.",
+    "topics_tags": [
+      "Parabola",
+      "Area of Triangle",
+      "Latus Rectum"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the parabola and its latus rectum.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819902/ncert/maths/11/img_45_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.44",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "conic sections",
+    "question_type": "conceptual",
+    "question_text": "A man running a racecourse notes that the sum of the distances from the two flag posts from him is always 10 m and the distance between the flag posts is 8 m. Find the equation of the posts traced by the man.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram representing the ellipse traced by the man with foci at the flag posts.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819905/ncert/maths/11/img_46_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The path described by the man is an ellipse where the length of the major axis is 10 m, and the distance between the foci is 8 m.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the equation of the path traced by the man is that of an ellipse.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of the properties of ellipses and their equations.",
+    "topics_tags": [
+      "Ellipse",
+      "Conic Sections",
+      "Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram representing the ellipse traced by the man with foci at the flag posts.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819905/ncert/maths/11/img_46_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.45",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "conic sections",
+    "question_type": "numerical",
+    "question_text": "An equilateral triangle is inscribed in the parabola y^2 = 4ax, where one vertex is at the vertex of the parabola. Find the length of the side of the triangle.",
+    "question_latex": "y^2 = 4ax",
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the equilateral triangle inscribed in the parabola.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819906/ncert/maths/11/img_47_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The side of the equilateral triangle inscribed in the parabola can be derived using the properties of the triangle and the parabola.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the side of the equilateral triangle inscribed in the parabola y^2 = 4ax is determined.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of geometric properties and algebraic manipulation.",
+    "topics_tags": [
+      "Equilateral Triangle",
+      "Parabola",
+      "Geometry"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the equilateral triangle inscribed in the parabola.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819906/ncert/maths/11/img_47_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  }
+]

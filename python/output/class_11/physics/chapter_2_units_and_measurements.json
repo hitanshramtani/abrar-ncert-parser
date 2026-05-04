@@ -1,0 +1,1905 @@
+[
+  {
+    "question_id": "Q2.1",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 2,
+    "chapter_name": "Units and Measurements",
+    "question_type": "mcq",
+    "question_text": "Fill in the blanks: The volume of a cube of side 1 cm is equal to.....m³. The surface area of a solid cylinder of radius 2.0 cm and height 10.0 cm is equal to ....(mm)². A vehicle moving with a speed of 18 km/h covers....m in 1 s. The relative density of lead is 11.3. Its density is ....g/cm³ or ....kg/m³.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "The volume of a cube of side 1 cm is equal to.....m³.",
+        "part_latex": null,
+        "answer_text": "The volume of a cube of side 1 cm is equal to 10^{-6} m³.",
+        "answer_latex": "10^{-6} m^{3}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the volume of the cube using the formula for volume.",
+            "expression": "V = a^3 = 1 cm^3"
+          },
+          {
+            "step_number": 2,
+            "description": "Convert cm³ to m³.",
+            "expression": "1 cm^3 = 10^{-6} m^3"
+          }
+        ],
+        "final_answer": "Hence, the volume of a cube of side 1 cm is equal to 10^{-6} m³.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "The surface area of a solid cylinder of radius 2.0 cm and height 10.0 cm is equal to ....(mm)².",
+        "part_latex": null,
+        "answer_text": "The surface area of the cylinder is equal to 1507.2 mm².",
+        "answer_latex": "1507.2 mm^{2}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the formula for the surface area of a cylinder.",
+            "expression": "S = 2\\pi r (r + h)"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the values of r and h.",
+            "expression": "S = 2\\pi (2 cm)(2 cm + 10 cm)"
+          },
+          {
+            "step_number": 3,
+            "description": "Convert the result to mm².",
+            "expression": "S = 1507.2 mm^{2}"
+          }
+        ],
+        "final_answer": "Thus, the surface area of the cylinder is equal to 1507.2 mm².",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "A vehicle moving with a speed of 18 km/h covers....m in 1 s.",
+        "part_latex": null,
+        "answer_text": "The vehicle covers 5 m in 1 s.",
+        "answer_latex": "5 m",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Convert speed from km/h to m/s.",
+            "expression": "18 km/h = 5 m/s"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the distance covered in 1 second.",
+            "expression": "Distance = Speed × Time = 5 m/s × 1 s"
+          }
+        ],
+        "final_answer": "Hence, the vehicle covers 5 m in 1 s.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(d)",
+        "part_text": "The relative density of lead is 11.3. Its density is ....g/cm³ or ....kg/m³.",
+        "part_latex": null,
+        "answer_text": "The density of lead is 11.3 g/cm³ or 11300 kg/m³.",
+        "answer_latex": "11.3 g/cm^{3} or 11300 kg/m^{3}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the definition of relative density.",
+            "expression": "Relative density = Density of substance / Density of water"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the density of lead.",
+            "expression": "Density of lead = 11.3 g/cm^{3} = 11.3 × 10^{3} kg/m^{3}"
+          }
+        ],
+        "final_answer": "Thus, the density of lead is 11.3 g/cm³ or 11300 kg/m³.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires basic understanding of volume, surface area, and unit conversions.",
+    "topics_tags": [
+      "Volume",
+      "Surface Area",
+      "Unit Conversion"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.2",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 2,
+    "chapter_name": "Units and Measurements",
+    "question_type": "multipart",
+    "question_text": "Fill in the blanks by suitable conversion of units: 1 kg m²s⁻²= ....g cm²s⁻². 1 m =..... ly.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "1 kg m²s⁻²= ....g cm²s⁻².",
+        "part_latex": null,
+        "answer_text": "1 kg m²s⁻² = 10⁷ g cm²s⁻².",
+        "answer_latex": "10^{7} g cm^{2}s^{-2}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Convert kg to g and m² to cm².",
+            "expression": "1 kg = 10^{3} g, 1 m^{2} = 10^{4} cm^{2}"
+          },
+          {
+            "step_number": 2,
+            "description": "Combine the conversions.",
+            "expression": "1 kg m^{2}s^{-2} = 10^{3} g × 10^{4} cm^{2} × s^{-2} = 10^{7} g cm^{2}s^{-2}"
+          }
+        ],
+        "final_answer": "Thus, 1 kg m²s⁻² = 10⁷ g cm²s⁻².",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "1 m =..... ly.",
+        "part_latex": null,
+        "answer_text": "1 m = 1.057 × 10⁻¹² ly.",
+        "answer_latex": "1.057 \\times 10^{-12} ly",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the distance light travels in one year.",
+            "expression": "1 ly = (3 × 10^{8} m/s) × (365 × 24 × 60 × 60 s)"
+          },
+          {
+            "step_number": 2,
+            "description": "Convert 1 m to light years.",
+            "expression": "1 m = 1/9.46 × 10^{15} m = 1.057 × 10^{-12} ly"
+          }
+        ],
+        "final_answer": "Therefore, 1 m = 1.057 × 10⁻¹² ly.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple unit conversions and understanding of light year.",
+    "topics_tags": [
+      "Unit Conversion",
+      "Light Year",
+      "Physics Measurements"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.3",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 2,
+    "chapter_name": "Units and Measurements",
+    "question_type": "conceptual",
+    "question_text": "Suppose we employ a system of units in which the unit of mass equals α kg, the unit of length equals β m, the unit of time is γ s. Show that a calorie has a magnitude 4.2 α–1β–2γ2 in terms of the new units.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of unit conversions involving time.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777755593/ncert/physics/2/img_4_0.png",
+      "latex_extracted": "\\begin{array}{r}{1\\operatorname{s=}{\\frac{1}{\\gamma}}=\\gamma^{-1}}\\\\ {\\mid\\mathbf{s}^{2}=\\gamma^{-2}}\\\\ {\\mid\\mathbf{s}^{-2}=\\gamma^{2}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "1 calorie = 4.2 (1 α–1) (1 β–2) (1 γ2) = 4.2 α–1 β–2 γ2.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Convert calorie to the new unit of mass, length, and time.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the new units into the equation for calorie.",
+        "expression": "1 calorie = 4.2 (1 α^{-1}) (1 β^{-2}) (1 γ^{2})"
+      }
+    ],
+    "final_answer": "Thus, a calorie has a magnitude of 4.2 α–1 β–2 γ2 in the new units.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of unit conversion and dimensional analysis.",
+    "topics_tags": [
+      "Dimensional Analysis",
+      "Units",
+      "Calorie"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of unit conversions involving time.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777755593/ncert/physics/2/img_4_0.png",
+        "latex_extracted": "\\begin{array}{r}{1\\operatorname{s=}{\\frac{1}{\\gamma}}=\\gamma^{-1}}\\\\ {\\mid\\mathbf{s}^{2}=\\gamma^{-2}}\\\\ {\\mid\\mathbf{s}^{-2}=\\gamma^{2}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.4",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 2,
+    "chapter_name": "Units and Measurements",
+    "question_type": "conceptual",
+    "question_text": "Explain this statement clearly: 'To call a dimensional quantity ‘large’ or ‘small’ is meaningless without specifying a standard for comparison'.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The given statement is true because a dimensionless quantity may be large or small in comparison to some standard reference.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the statement emphasizes the need for a reference standard when describing sizes.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of dimensional quantities and their comparisons.",
+    "topics_tags": [
+      "Dimensional Analysis",
+      "Measurement",
+      "Standards"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.5",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 2,
+    "chapter_name": "Units and Measurements",
+    "question_type": "conceptual",
+    "question_text": "Reframe the following statements wherever necessary: atoms are very small objects, a jet plane moves with great speed, the mass of Jupiter is very large, the air inside this room contains a large number of molecules, a proton is much more massive than an electron, the speed of sound is much smaller than the speed of light.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "An atom is a very small object in comparison to a soccer ball. A jet plane moves with a speed greater than that of a bicycle. Mass of Jupiter is very large as compared to the mass of a cricket ball. The air inside this room contains a large number of molecules as compared to that present in a geometry box. A proton is more massive than an electron. Speed of sound is less than the speed of light.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "These reframed statements provide context for the comparisons made.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of relative comparisons in measurements.",
+    "topics_tags": [
+      "Measurement",
+      "Comparison",
+      "Dimensional Analysis"
+    ],
+    "confidence_score": 0.97,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.6",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 2,
+    "chapter_name": "Units and Measurements",
+    "question_type": "numerical",
+    "question_text": "A new unit of length is chosen such that the speed of light in vacuum is unity. What is the distance between the Sun and the Earth in terms of the new unit if light takes 8 min and 20 s to cover this distance?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Distance between the Sun and the Earth = Speed of light × Time taken by light to cover the distance = 1 × 500 = 500 units.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Convert time taken from minutes to seconds.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate distance using the speed of light in the new unit.",
+        "expression": "Distance = 1 × 500"
+      }
+    ],
+    "final_answer": "Thus, the distance between the Sun and the Earth is 500 units.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic calculations and unit conversions.",
+    "topics_tags": [
+      "Speed of Light",
+      "Distance",
+      "Time"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.7",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 2,
+    "chapter_name": "Units and Measurements",
+    "question_type": "numerical",
+    "question_text": "A student measures the thickness of a human hair by looking at it through a microscope of magnification 100. He makes 20 observations and finds that the average width of the hair in the field of view of the microscope is 3.5 mm. What is the estimate on the thickness of hair?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The actual thickness of the hair is 0.035 mm.",
+    "answer_latex": "t = \frac{3.5 \text{ mm}}{100} = 0.035 \text{ mm}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Use the magnification formula to find the actual thickness.",
+        "expression": "t = \frac{3.5 \text{ mm}}{100}"
+      }
+    ],
+    "final_answer": "Therefore, the estimated thickness of the hair is 0.035 mm.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of magnification and simple division.",
+    "topics_tags": [
+      "Magnification",
+      "Measurement",
+      "Optics"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.8",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 2,
+    "chapter_name": "Units and Measurements",
+    "question_type": "conceptual",
+    "question_text": "You are given a thread and a metre scale. How will you estimate the diameter of the thread?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Wrap the thread on a uniform smooth rod in such a way that the coils thus formed are very close to each other. Measure the length of the thread using a metre scale.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the diameter of the thread can be estimated by measuring the length of the wrapped thread.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves understanding of measurement techniques.",
+    "topics_tags": [
+      "Measurement",
+      "Diameter",
+      "Thread"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.9",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 2,
+    "chapter_name": "Units and Measurements",
+    "question_type": "mcq",
+    "question_text": "The photograph of a house occupies an area of 1.75 cm² on a 35 mm slide. The slide is projected on to a screen, and the area of the house on the screen is 1.55 m². What is the linear magnification of the projector-screen arrangement?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The linear magnification is calculated as the ratio of the area of the image to the area of the slide.",
+    "answer_latex": "m = \frac{1.55 \times 10^4 \text{ cm}^2}{1.75 \text{ cm}^2}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Convert the area of the image from m² to cm².",
+        "expression": "1.55 \text{ m}^2 = 1.55 \times 10^4 \text{ cm}^2"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the linear magnification using the areas.",
+        "expression": "m = \frac{1.55 \times 10^4 \text{ cm}^2}{1.75 \text{ cm}^2}"
+      }
+    ],
+    "final_answer": "Therefore, the linear magnification of the projector-screen arrangement is approximately 8857.14.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves area conversion and ratio calculation.",
+    "topics_tags": [
+      "Magnification",
+      "Projection",
+      "Optics"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.10",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 2,
+    "chapter_name": "Units and Measurements",
+    "question_type": "mcq",
+    "question_text": "State the number of significant figures in the following: 0.007 m², 2.64 × 10²⁴ kg, 0.2370 g cm⁻³, 6.320 J, 6.032 N m⁻², 0.0006032 m².",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "0.007 m² has 1 significant figure, 2.64 × 10²⁴ kg has 3 significant figures, 0.2370 g cm⁻³ has 4 significant figures, 6.320 J has 4 significant figures, 6.032 N m⁻² has 4 significant figures, and 0.0006032 m² has 4 significant figures.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the significant figures for each quantity are as stated.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of significant figures rules.",
+    "topics_tags": [
+      "Significant Figures",
+      "Measurement",
+      "Precision"
+    ],
+    "confidence_score": 0.93,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.11",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 2,
+    "chapter_name": "Units and Measurements",
+    "question_type": "mcq",
+    "question_text": "The length, breadth and thickness of a rectangular sheet of metal are 4.234 mm, 1.005 m, and 2.01 cm respectively. Give the area and volume of the sheet to correct significant figures.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The surface area of the sheet is 8.72 m² and the volume is 0.0855 m³, both rounded to 3 significant figures.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the surface area using the formula 2(l × b + b × h + h × l).",
+        "expression": "Surface Area = 2(4.234 × 1.005 + 1.005 × 0.0201 + 0.0201 × 4.234)"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the volume using the formula l × b × h.",
+        "expression": "Volume = 4.234 × 1.005 × 0.0201"
+      }
+    ],
+    "final_answer": "Therefore, the surface area is 8.72 m² and the volume is 0.0855 m³.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multi-step calculations and understanding of significant figures.",
+    "topics_tags": [
+      "Significant Figures",
+      "Area",
+      "Volume"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.12",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 2,
+    "chapter_name": "Units and Measurements",
+    "question_type": "mcq",
+    "question_text": "The mass of a box measured by a grocer’s balance is 2.300 kg. Two gold pieces of masses 20.15 g and 20.17 g are added to the box. What is (a) the total mass of the box, (b) the difference in the masses of the pieces to correct significant figures?",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "the total mass of the box,"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "the difference in the masses of the pieces to correct significant figures?"
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Calculate the total mass of the box.",
+        "part_latex": null,
+        "answer_text": "The total mass of the box is 2.3 kg.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Convert the masses of gold pieces to kg and add to the mass of the box.",
+            "expression": "Total Mass = 2.300 + 0.02015 + 0.02017"
+          },
+          {
+            "step_number": 2,
+            "description": "Round the total mass to the least number of decimal places.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, the total mass of the box is 2.3 kg.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Calculate the difference in the masses of the gold pieces.",
+        "part_latex": null,
+        "answer_text": "The difference in masses is 0.02 g.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Subtract the mass of the first gold piece from the second.",
+            "expression": "Difference = 20.177 - 20.15"
+          },
+          {
+            "step_number": 2,
+            "description": "Round the result to the least number of decimal places.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Therefore, the difference in masses is 0.02 g.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires basic addition and subtraction with significant figures.",
+    "topics_tags": [
+      "Mass",
+      "Significant Figures",
+      "Measurement"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.13",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 2,
+    "chapter_name": "Units and Measurements",
+    "question_type": "numerical",
+    "question_text": "A physical quantity P is related to four observables a, b, c and d as follows: The percentage errors of measurement in a, b, c and d are 1%, 3%, 4% and 22%, respectively. What is the percentage error in the quantity P? If the value of P calculated using the above relation turns out to be 3.763, to what value should you round off the result?",
+    "question_latex": "P={\\frac{a^{5}b^{2}}{\\left({\\sqrt{c d}}\\right)}}",
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Formula relating physical quantity P to observables a, b, c, and d.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777755594/ncert/physics/2/img_12_0.png",
+      "latex_extracted": "P={\\frac{a^{5}b^{2}}{\\left({\\sqrt{c d}}\\right)}}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The percentage error in P is 30%. The value should be rounded to 3.76.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the total percentage error using the formula for multiplication and division.",
+        "expression": "Total Error = 1% + 3% + 4% + 22%"
+      },
+      {
+        "step_number": 2,
+        "description": "Round the value of P to the appropriate number of significant figures.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, the percentage error in P is 30% and the rounded value is 3.76.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of percentage errors and rounding rules.",
+    "topics_tags": [
+      "Percentage Error",
+      "Measurement",
+      "Significant Figures"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Formula relating physical quantity P to observables a, b, c, and d.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777755594/ncert/physics/2/img_12_0.png",
+        "latex_extracted": "P={\\frac{a^{5}b^{2}}{\\left({\\sqrt{c d}}\\right)}}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.14",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 2,
+    "chapter_name": "Units and Measurements",
+    "question_type": "conceptual",
+    "question_text": "A book with many printing errors contains four different formulas for the displacement y of a particle undergoing a certain periodic motion: y = a sin vt (a = maximum displacement of the particle, v = speed of the particle, T = time-period of motion). Rule out the wrong formulas on dimensional grounds.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical expressions related to the formulas for displacement in periodic motion.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777755599/ncert/physics/2/img_13_0.png",
+      "latex_extracted": "\\begin{array}{l l}{{P=\\frac{a b^{c}}{\\left(\\sqrt{c}d\\right)},}}&{{}}\\\\ {{\\Delta\\left(\\frac{\\partial P}{P}=\\frac{2\\Delta b}{a}+\\frac{1}{b}+\\frac{1}{2}\\frac{\\Delta c}{c}+\\frac{M}{d}}}\\\\ {{\\left(\\frac{\\Delta P}{P}\\right)\\Phi_{0}=\\left(3\\times\\frac{\\Delta a}{a}\\times100+2\\times\\frac{\\Delta a}{b}\\times100+\\frac{1}{2}\\times\\frac{\\Delta c}{c}\\times100+\\frac{\\Delta d}{d}\\times100\\right)\\phi_{0}}}}\\\\ {{=3+6+2+2=1\\cdot4+2+2=1\\cdot\\phi_{0}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The given formula is dimensionally correct. The formula y = a sin vt is dimensionally incorrect because the argument of the trigonometric function must be dimensionless.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the dimensions of y and a.",
+        "expression": "Dimension of y = M^0L^1T^0, Dimension of a = M^0L^1T^0"
+      },
+      {
+        "step_number": 2,
+        "description": "Check the dimensions of vt.",
+        "expression": "Dimension of vt = M^0L^1T^{-1} \\times M^0L^0T^1 = M^0L^1T^0"
+      },
+      {
+        "step_number": 3,
+        "description": "Determine if the argument of sin is dimensionless.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Hence, the formula y = a sin vt is dimensionally incorrect.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of dimensional analysis and periodic motion.",
+    "topics_tags": [
+      "Dimensional Analysis",
+      "Periodic Motion",
+      "Trigonometric Functions"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical expressions related to the formulas for displacement in periodic motion.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777755599/ncert/physics/2/img_13_0.png",
+        "latex_extracted": "\\begin{array}{l l}{{P=\\frac{a b^{c}}{\\left(\\sqrt{c}d\\right)},}}&{{}}\\\\ {{\\Delta\\left(\\frac{\\partial P}{P}=\\frac{2\\Delta b}{a}+\\frac{1}{b}+\\frac{1}{2}\\frac{\\Delta c}{c}+\\frac{M}{d}}}\\\\ {{\\left(\\frac{\\Delta P}{P}\\right)\\Phi_{0}=\\left(3\\times\\frac{\\Delta a}{a}\\times100+2\\times\\frac{\\Delta a}{b}\\times100+\\frac{1}{2}\\times\\frac{\\Delta c}{c}\\times100+\\frac{\\Delta d}{d}\\times100\\right)\\phi_{0}}}}\\\\ {{=3+6+2+2=1\\cdot4+2+2=1\\cdot\\phi_{0}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.15",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 2,
+    "chapter_name": "Units and Measurements",
+    "question_type": "mcq",
+    "question_text": "A famous relation in physics relates ‘moving mass’ m to the ‘rest mass’ m0 of a particle in terms of its speed v and the speed of light, c. (This relation first arose as a consequence of special relativity due to Albert Einstein). A boy recalls the relation almost correctly but forgets where to put the constant c. He writes:",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The relation is m = m0 / (1 - v^2)^{1/2}. The dimensions of m and m0 are both M^1L^0T^0.",
+    "answer_latex": "m={\\frac{m_{0}}{\\left(1-{v^{2}}\\right)^{\\frac{1}{2}}}}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the dimensions of moving mass m and rest mass m0.",
+        "expression": "Dimension of m = M^1L^0T^0, Dimension of m0 = M^1L^0T^0"
+      },
+      {
+        "step_number": 2,
+        "description": "Check the dimensions of speed v.",
+        "expression": "Dimension of v = M^0L^1T^{-1}"
+      }
+    ],
+    "final_answer": "Thus, the dimensions of both moving mass and rest mass are consistent.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical expression for the relation between moving mass and rest mass.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777755605/ncert/physics/2/img_15_0.png",
+      "latex_extracted": "m={\\frac{m_{0}}{\\left(1-{v^{2}}\\right)^{\\frac{1}{2}}}}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires basic understanding of mass and dimensional analysis.",
+    "topics_tags": [
+      "Relativity",
+      "Mass",
+      "Dimensional Analysis"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical expression for the relation between moving mass and rest mass.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777755605/ncert/physics/2/img_15_0.png",
+        "latex_extracted": "m={\\frac{m_{0}}{\\left(1-{v^{2}}\\right)^{\\frac{1}{2}}}}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q2.16",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 2,
+    "chapter_name": "Units and Measurements",
+    "question_type": "numerical",
+    "question_text": "What is the total atomic volume in m³ of a mole of hydrogen atoms?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical expression for the mass in terms of velocity and speed of light.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777755609/ncert/physics/2/img_16_0.png",
+      "latex_extracted": "\\begin{array}{r}{m={\\cfrac{m_{0}}{\\left(1-{\\frac{V^{2}}{c^{2}}}\\right)^{\\frac{1}{2}}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The total atomic volume of a mole of hydrogen atoms is approximately 9.524 × 10⁻³⁰ m³.",
+    "answer_latex": "V = 6.023 \\times 10^{23} \\times \\left(0.5 \\times 10^{-10}\\right)^{3} = 9.524 \\times 10^{-30} \\mathrm{~m^{3}}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the volume of a single hydrogen atom using the formula for the volume of a sphere.",
+        "expression": "V = \\frac{4}{3} \\times \\frac{22}{7} \\times \\left(0.5 \\times 10^{-10}\\right)^{3}"
+      },
+      {
+        "step_number": 2,
+        "description": "Multiply the volume of a single hydrogen atom by Avogadro's number to find the total volume for one mole.",
+        "expression": "V_{total} = 6.023 \\times 10^{23} \\times \\left(0.5 \\times 10^{-10}\\right)^{3}"
+      }
+    ],
+    "final_answer": "Therefore, the total atomic volume of a mole of hydrogen atoms is approximately 9.524 × 10⁻³⁰ m³.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical expression for the volume of a hydrogen atom.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777755611/ncert/physics/2/img_16_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multi-step calculations and application of volume formulas.",
+    "topics_tags": [
+      "Atomic Volume",
+      "Hydrogen Atom",
+      "Avogadro's Number"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical expression for the mass in terms of velocity and speed of light.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777755609/ncert/physics/2/img_16_0.png",
+        "latex_extracted": "\\begin{array}{r}{m={\\cfrac{m_{0}}{\\left(1-{\\frac{V^{2}}{c^{2}}}\\right)^{\\frac{1}{2}}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical expression for the volume of a hydrogen atom.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777755611/ncert/physics/2/img_16_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q2.17",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 2,
+    "chapter_name": "Units and Measurements",
+    "question_type": "numerical",
+    "question_text": "One mole of an ideal gas at standard temperature and pressure occupies 22.4 L (molar volume). What is the ratio of molar volume to the atomic volume of a mole of hydrogen? (Take the size of hydrogen molecule to be about 1). Why is this ratio so large?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical expression for the volume of a hydrogen atom based on its radius.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777755613/ncert/physics/2/img_17_0.png",
+      "latex_extracted": "{\\frac{4}{3}}\\times{\\frac{22}{7}}\\times{\\left(0.5\\times10^{-10}\\right)}^{3}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The volume of 1 mole of hydrogen atoms is 3.16 × 10–7 m³, and the molar volume is 77.08 × 10⁴ times higher than the atomic volume. This indicates that the inter-atomic separation in hydrogen gas is much larger than the size of a hydrogen atom.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the volume of a hydrogen atom using its radius.",
+        "expression": "{\\frac{4}{3}}\\times{\\frac{22}{7}}\\times{\\left(0.5\\times10^{-10}\\right)}^{3}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the volume of 1 mole of hydrogen atoms using Avogadro's number.",
+        "expression": "V = 6.023 \\times 10^{23} \\times \\text{Volume of one hydrogen atom}"
+      },
+      {
+        "step_number": 3,
+        "description": "Compare the molar volume of hydrogen at STP with the atomic volume.",
+        "expression": "Ratio = \\frac{22.4 \\times 10^{-3}}{\\text{Volume of 1 mole of hydrogen atoms}}"
+      }
+    ],
+    "final_answer": "Thus, the molar volume is significantly larger than the atomic volume due to the large inter-atomic separation in hydrogen gas.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations and understanding of gas laws.",
+    "topics_tags": [
+      "Molar Volume",
+      "Atomic Volume",
+      "Ideal Gas"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical expression for the volume of a hydrogen atom based on its radius.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777755613/ncert/physics/2/img_17_0.png",
+        "latex_extracted": "{\\frac{4}{3}}\\times{\\frac{22}{7}}\\times{\\left(0.5\\times10^{-10}\\right)}^{3}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.18",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 2,
+    "chapter_name": "Units and Measurements",
+    "question_type": "numerical",
+    "question_text": "How much is a parsec in terms of meters?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Parsec is defined as the distance at which the average radius of the Earth’s orbit subtends an angle of 1 arcsecond.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the baseline for parallax measurement.",
+        "expression": "Baseline = 3 × 10^{11} m"
+      },
+      {
+        "step_number": 2,
+        "description": "Convert the parallax angle from arcseconds to radians.",
+        "expression": "4.847 × 10^{-6} rad"
+      },
+      {
+        "step_number": 3,
+        "description": "Use the definition of parsec to find the distance.",
+        "expression": "D = \\frac{Baseline}{\\tan(4.847 × 10^{-6})}"
+      }
+    ],
+    "final_answer": "Therefore, a parsec is the distance at which the average radius of the Earth’s orbit subtends an angle of 1 arcsecond.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of parallax and conversion of angles.",
+    "topics_tags": [
+      "Parallax",
+      "Astronomical Distance",
+      "Units of Measurement"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "Text extraction issues leading to incomplete context."
+    ],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.19",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 2,
+    "chapter_name": "Units and Measurements",
+    "question_type": "numerical",
+    "question_text": "The nearest star to our solar system is 4.29 light years away. How much is this distance in terms of parsecs? How much parallax would this star (named Alpha Centauri) show when viewed from two locations on the Earth six months apart in its orbit around the Sun?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The distance of the star from the solar system is approximately 1.32 parsecs.",
+    "answer_latex": "4.29 \\text{ ly} = 1.32 \\text{ parsec}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Convert light years to meters using the speed of light.",
+        "expression": "1 \\text{ ly} = 3 \\times 10^8 \\times 365 \\times 24 \\times 60 \\times 60 = 94608 \\times 10^{11} \\text{ m}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the distance in meters for 4.29 light years.",
+        "expression": "4.29 \\text{ ly} = 4.29 \\times 94608 \\times 10^{11} \\text{ m} = 405868.32 \\times 10^{11} \\text{ m}"
+      },
+      {
+        "step_number": 3,
+        "description": "Convert the distance from meters to parsecs.",
+        "expression": "1 \\text{ parsec} = 3.08 \\times 10^{16} \\text{ m} \\Rightarrow 4.29 \\text{ ly} = \\frac{405868.32 \\times 10^{11}}{3.08 \\times 10^{16}} \\approx 1.32 \\text{ parsec}"
+      }
+    ],
+    "final_answer": "Therefore, the distance to Alpha Centauri is approximately 1.32 parsecs.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical derivation showing the relationship between distance and angle for parallax measurement.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777755616/ncert/physics/2/img_19_0.png",
+      "latex_extracted": "\\begin{array}{l}{{D=\\frac{r}{\\theta}=\\frac{1.5\\times10^{11}}{4.847\\times10^{-6}}}}\\\\ {{=0.309\\times10^{6}\\approx3.09\\times10^{16}\\mathrm{~m}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple conversions and calculations.",
+    "topics_tags": [
+      "Parallax",
+      "Distance Measurement",
+      "Astronomy"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical derivation showing the relationship between distance and angle for parallax measurement.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777755616/ncert/physics/2/img_19_0.png",
+        "latex_extracted": "\\begin{array}{l}{{D=\\frac{r}{\\theta}=\\frac{1.5\\times10^{11}}{4.847\\times10^{-6}}}}\\\\ {{=0.309\\times10^{6}\\approx3.09\\times10^{16}\\mathrm{~m}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q2.20",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 2,
+    "chapter_name": "Units and Measurements",
+    "question_type": "conceptual",
+    "question_text": "Precise measurements of physical quantities are a need of science. For example, to ascertain the speed of an aircraft, one must have an accurate method to find its positions at closely separated instants of time. Think of different examples in modern science where precise measurements of length, time, mass etc. are needed. Also, wherever you can, give a quantitative idea of the precision needed.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "It is indeed very true that precise measurements of physical quantities are essential for the development of science. For example, ultra-short laser pulses (time interval ∼10–15 s) are used to measure time intervals in several physical and chemical processes. X-ray spectroscopy is used to determine the inter-atomic separation or inter-planer spacing. The development of mass spectrometer makes it possible to measure the mass of atoms precisely.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, precise measurements are crucial in various scientific fields.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of the importance of precision in measurements.",
+    "topics_tags": [
+      "Precision Measurement",
+      "Scientific Method",
+      "Applications of Physics"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.23",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 2,
+    "chapter_name": "Units and Measurements",
+    "question_type": "mcq",
+    "question_text": "In what range do you expect the mass density of the Sun to be, in the range of densities of solids and liquids or gases? Check if your guess is correct from the following data: mass of the Sun = 2.0 × 10^30 kg, radius of the Sun = 7.0 × 10^8 m.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The density of the Sun is in the density range of solids and liquids. This high density is attributed to the intense gravitational attraction of the inner layers on the outer layer of the Sun.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the density of the Sun is consistent with that of solids and liquids.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of density concepts and application of mass and volume.",
+    "topics_tags": [
+      "Density",
+      "Mass",
+      "Sun"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.24",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 2,
+    "chapter_name": "Units and Measurements",
+    "question_type": "mcq",
+    "question_text": "Estimate the average mass density of a sodium atom assuming its size to be about 2.5. Compare it with the density of sodium in its crystalline phase: 970 kg m–3. Are the two densities of the same order of magnitude? If so, why?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The density of sodium atom and the density of sodium in its crystalline phase are not in the same order. This is because in solid phase, atoms are closely packed.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the densities are not of the same order due to the packing of atoms in the crystalline phase.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of atomic structure and density comparison.",
+    "topics_tags": [
+      "Density",
+      "Sodium",
+      "Atomic Structure"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.25",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 2,
+    "chapter_name": "Units and Measurements",
+    "question_type": "numerical",
+    "question_text": "Estimate the mass density of sodium nucleus. Compare it with the average mass density of a sodium atom obtained in Exercise 2.27.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical expression for density of sodium nucleus.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777755636/ncert/physics/2/img_27_0.png",
+      "latex_extracted": "\\frac{23\\times10^{-5}}{4\\times8.023\\times10^{-10}}{\\cdot3\\times14\\times\\left(1.25\\times10^{-10}\\right)^{3}}=4.67\\times10^{-3}{\\mathrm{~kg~m^{-1}}}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The density of sodium nucleus is approximately 2.29 × 10^7 kg/m³.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the mass density using the formula for nuclear density.",
+        "expression": "=\\frac{d\\times1.66\\times10^{-77}}{4\\pi r_{0}^{3}\\,A}=\\frac{3\\times1.66\\times10^{-77}}{4\\pi r_{0}^{3}}\\,\\mathrm{kg/m^{3}}"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values to find the density.",
+        "expression": "\\begin{array}{c}{{\\rho_{\\mathrm{seaim}}={\\frac{3\\times1.66\\times10^{-27}}{4\\times3.14\\times\\bigl(1.2\\times10^{-5}\\bigr)}}}\\\\ {{={\\frac{4\\times3.8}{21\\times10^{18}}}=2.29\\times10^{7}{\\mathrm{~kg~m^{-3}}}}}\\end{array}"
+      }
+    ],
+    "final_answer": "Thus, the density of sodium nucleus is significantly higher than that of sodium atom.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves calculation and understanding of nuclear density.",
+    "topics_tags": [
+      "Nuclear Density",
+      "Sodium",
+      "Atomic Structure"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical expression for density of sodium nucleus.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777755636/ncert/physics/2/img_27_0.png",
+        "latex_extracted": "\\frac{23\\times10^{-5}}{4\\times8.023\\times10^{-10}}{\\cdot3\\times14\\times\\left(1.25\\times10^{-10}\\right)^{3}}=4.67\\times10^{-3}{\\mathrm{~kg~m^{-1}}}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      },
+      {
+        "present": true,
+        "description": "Mathematical expression for density of sodium nucleus.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777755649/ncert/physics/2/img_27_5.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.30",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 2,
+    "chapter_name": "Units and Measurements",
+    "question_type": "numerical",
+    "question_text": "A SONAR (sound navigation and ranging) uses ultrasonic waves to detect and locate objects under water. In a submarine equipped with a SONAR the time delay between generation of a probe wave and the reception of its echo after reflection from an enemy submarine is found to be 77.00 s. What is the distance of the enemy submarine? (Speed of sound in water = 1450 m/s)",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The distance between the ship and the enemy submarine is calculated using the formula S = (Speed of sound in water) × (Time lag) / 2.",
+    "answer_latex": "S = \\frac{1450 \\times 77}{2} = 55825 \\text{ mm} = 55.8 \\text{ km}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the formula to calculate the distance using speed and time.",
+        "expression": "S = \\frac{v \\times t}{2}"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values into the formula.",
+        "expression": "S = \\frac{1450 \\times 77}{2} = 55825"
+      }
+    ],
+    "final_answer": "Therefore, the distance of the enemy submarine is 55.8 km.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of speed, time, and distance relationship.",
+    "topics_tags": [
+      "SONAR",
+      "Speed of Sound",
+      "Distance Calculation"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.31",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 2,
+    "chapter_name": "Units and Measurements",
+    "question_type": "numerical",
+    "question_text": "What is the distance in km of a quasar from which light takes 3.0 billion years to reach us?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The distance to the quasar is calculated using the speed of light and the time taken for light to reach Earth.",
+    "answer_latex": "D = (3 \\times 10^8) \\times (3 \\times 10^9 \\times 365 \\times 24 \\times 60 \\times 60) = 2.8 \\times 10^{22} \\text{ km}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Convert the time taken by quasar light to seconds.",
+        "expression": "3 \\times 10^9 \\text{ years} = 3 \\times 10^9 \\times 365 \\times 24 \\times 60 \\times 60"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the distance using the speed of light.",
+        "expression": "D = (3 \\times 10^8) \\times (3 \\times 10^9 \\times 365 \\times 24 \\times 60 \\times 60)"
+      }
+    ],
+    "final_answer": "Thus, the distance of the quasar is approximately 2.8 × 10^{22} km.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps of calculation and unit conversion.",
+    "topics_tags": [
+      "Quasars",
+      "Speed of Light",
+      "Distance Calculation"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.32",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 2,
+    "chapter_name": "Units and Measurements",
+    "question_type": "conceptual",
+    "question_text": "Determine the approximate diameter of the moon during a total solar eclipse when the disk of the moon almost completely covers the disk of the Sun.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The diameter of the Moon is approximately 3.57 × 10^6 m.",
+    "answer_latex": "D_{Moon} = 3.57 \\times 10^6 \\text{ m}",
+    "steps": [],
+    "final_answer": "Hence, the diameter of the Moon is approximately 3.57 × 10^6 m.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the position of the Sun, Moon, and Earth during a lunar eclipse.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777755656/ncert/physics/2/img_30_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of the relationship between the sizes of celestial bodies.",
+    "topics_tags": [
+      "Solar Eclipse",
+      "Diameter of Moon",
+      "Celestial Mechanics"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the position of the Sun, Moon, and Earth during a lunar eclipse.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777755656/ncert/physics/2/img_30_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q2.29",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 2,
+    "chapter_name": "Units and Measurements",
+    "question_type": "numerical",
+    "question_text": "Substituting the given values in the equation, calculate the result.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical equation involving constants like charge of electrons, mass of protons, and speed of light.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777755664/ncert/physics/2/img_31_0.png",
+      "latex_extracted": "\\begin{array}{c}{{\\left(1.6\\times10^{++}\\right)^{*}\\times\\left(9\\times10^{+}\\right)^{2}}}\\\\ {{\\left(-\\frac{1}{9.1\\times10^{-1}\\times27\\times6.67\\times10^{-1}\\times6.67\\times24\\times10^{-1}}{\\times\\left(1.6\\right)^{4}\\times81}}}\\\\ {{=\\left(0.1\\times1.67\\times27\\times6.6.67\\times365\\times24\\times5000}}\\\\ {{=6.01\\mathrm{finon~years}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The result of the substitution is approximately 6.01 finon years.",
+    "answer_latex": "6.01 \\text{ finon years}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Substitute the known values into the equation.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Perform the calculations as per the equation.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the calculated result is approximately 6.01 finon years.",
+    "answer_image": {
+      "present": true,
+      "description": "Another mathematical equation related to the previous calculations.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777755668/ncert/physics/2/img_31_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps of substitution and calculation.",
+    "topics_tags": [
+      "Units",
+      "Measurements",
+      "Physics Constants"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "Some text garbling in the equations."
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical equation involving constants like charge of electrons, mass of protons, and speed of light.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777755664/ncert/physics/2/img_31_0.png",
+        "latex_extracted": "\\begin{array}{c}{{\\left(1.6\\times10^{++}\\right)^{*}\\times\\left(9\\times10^{+}\\right)^{2}}}\\\\ {{\\left(-\\frac{1}{9.1\\times10^{-1}\\times27\\times6.67\\times10^{-1}\\times6.67\\times24\\times10^{-1}}{\\times\\left(1.6\\right)^{4}\\times81}}}\\\\ {{=\\left(0.1\\times1.67\\times27\\times6.6.67\\times365\\times24\\times5000}}\\\\ {{=6.01\\mathrm{finon~years}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Another mathematical equation related to the previous calculations.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777755668/ncert/physics/2/img_31_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  }
+]

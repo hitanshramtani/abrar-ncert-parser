@@ -1,0 +1,493 @@
+[
+  {
+    "question_id": "Q6.1",
+    "class": 11,
+    "subject": "statistics",
+    "chapter_number": 6,
+    "chapter_name": "measures of dispersion",
+    "question_type": "conceptual",
+    "question_text": "A measure of dispersion is a good supplement to the central value in understanding a frequency distribution. Comment.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The study of the averages is only one sided distribution story. In order to understand the frequency distribution fully, it is essential to study the variability of the observations. The average measures center of the data whereas the quantum of the variation is measured by the measures of dispersion like range, quartile deviation, mean deviation and Standard Deviation. For example, if a country has very high income group people and very low income group people, then we can say that the country has large income disparity.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, measures of dispersion provide essential insights into the variability of data beyond just the average.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of statistical concepts and their implications.",
+    "topics_tags": [
+      "Measures of Dispersion",
+      "Frequency Distribution",
+      "Statistics"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.2",
+    "class": 11,
+    "subject": "statistics",
+    "chapter_number": 6,
+    "chapter_name": "measures of dispersion",
+    "question_type": "conceptual",
+    "question_text": "Which measure of dispersion is the best and how?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Standard Deviation is the best measure of dispersion as it satisfies the most essentials of the good measure of dispersion. The following points make Standard Deviation the best measure of dispersion: 1. Most of the statistical theory is based on Standard Deviation. It helps to make comparison between variability of two or more sets of data. Also, Standard Deviation helps in testing the significance of random samples and in regression and correlation analysis. 2. It is based on the values of all the observations. In other words, Standard Deviation makes use of every item in a particular distribution. 3. Standard Deviation has a precise value and is a well-defined and definite measure of dispersion. That is, it is rigidly defined. 4. It is independent of the origin. 5. It is widely used measure of dispersion as all data distribution is nearer to the normal distribution. 6. It enables algebraic treatment. It has correct mathematical processes in comparison to range, quartile deviation and mean deviation.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, Standard Deviation is considered the best measure of dispersion due to its comprehensive nature and applicability.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves understanding and explaining statistical concepts.",
+    "topics_tags": [
+      "Standard Deviation",
+      "Measures of Dispersion",
+      "Statistics"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.3",
+    "class": 11,
+    "subject": "statistics",
+    "chapter_number": 6,
+    "chapter_name": "measures of dispersion",
+    "question_type": "conceptual",
+    "question_text": "Some measures of dispersion depend upon the spread of values whereas some are estimated on the basis of the variation of values from a central value. Do you agree?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Yes, it is true that some measures of dispersion depend upon the spread of values, whereas some calculate the variation of values from the central value. The spread of values is determined by the absolute measures of dispersion like Range, Quartile Mean Deviation, and Standard Deviation. These measures express dispersion in terms of original unit of the series and it cannot be used for the comparison of statistical data having different units. On the other hand, the relative measures of the dispersion calculate the variability of the values from a central value. The relative measure includes coefficient of Range, Mean Deviation and Variation. It is used when the comparison has to be made between two statistical sets. These measures are free from any units.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, both types of measures serve different purposes in statistical analysis.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of different statistical measures and their applications.",
+    "topics_tags": [
+      "Measures of Dispersion",
+      "Statistical Analysis",
+      "Statistics"
+    ],
+    "confidence_score": 0.94,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.4",
+    "class": 11,
+    "subject": "statistics",
+    "chapter_number": 6,
+    "chapter_name": "measures of dispersion",
+    "question_type": "numerical",
+    "question_text": "In a town, 25% of the persons earned more than Rs 45,000 whereas 75% earned more than 18,000. Calculate the absolute and relative values of dispersion.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves calculation of dispersion values based on given data.",
+    "topics_tags": [
+      "Income Distribution",
+      "Dispersion Calculation",
+      "Statistics"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.5",
+    "class": 11,
+    "subject": "statistics",
+    "chapter_number": 6,
+    "chapter_name": "measures of dispersion",
+    "question_type": "numerical",
+    "question_text": "The yield of wheat and rice per acre for 10 districts of a state is as under: District 1 2 3 4 5",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "Range",
+        "part_latex": null,
+        "answer_text": "a. Wheat: Highest value of distribution (H) = 25, Lowest value of distribution (L) = 9, Range = H - L = 25 - 9 = 16. b. Rice: Highest value of distribution (H) = 34, Lowest value of distribution (L) = 12, Range = H - L = 34 - 12 = 22.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the highest and lowest values for wheat.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the range for wheat.",
+            "expression": "Range = H - L = 25 - 9 = 16"
+          },
+          {
+            "step_number": 3,
+            "description": "Identify the highest and lowest values for rice.",
+            "expression": null
+          },
+          {
+            "step_number": 4,
+            "description": "Calculate the range for rice.",
+            "expression": "Range = H - L = 34 - 12 = 22"
+          }
+        ],
+        "final_answer": "Thus, the range for wheat is 16 and for rice is 22.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic calculations of range.",
+    "topics_tags": [
+      "Yield Calculation",
+      "Range",
+      "Statistics"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.6",
+    "class": 11,
+    "subject": "statistics",
+    "chapter_number": 6,
+    "chapter_name": "measures of dispersion",
+    "question_type": "numerical",
+    "question_text": "Average daily wage of 50 workers of a factory was Rs 200 with a Standard Deviation of Rs 40. Each worker is given a raise of Rs 20. What is the new average daily wage and Standard Deviation? Have the wages become more or less uniform?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of new average wage calculation.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777745589/ncert/statistics/6/img_6_1.jpg",
+      "latex_extracted": null,
+      "source_page_number": 6,
+      "source_image_index": 1,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The new average daily wage is Rs 220 and the new Standard Deviation is Rs 60. The wages have become less uniform.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate total wages before the raise.",
+        "expression": "Total Wages = 200 x 50 = Rs 10,000"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate total raise for all workers.",
+        "expression": "Total raise = 50 x 20 = Rs 1,000"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate total wages after the raise.",
+        "expression": "Total Wage after raise = 10,000 + 1,000 = Rs 11,000"
+      },
+      {
+        "step_number": 4,
+        "description": "Calculate new average wage.",
+        "expression": "New Average Wage = \\frac{11,000}{50} = Rs 220"
+      },
+      {
+        "step_number": 5,
+        "description": "Calculate new standard deviation.",
+        "expression": "New Standard Deviation = 40 + 20 = Rs 60"
+      }
+    ],
+    "final_answer": "Therefore, the new average daily wage is Rs 220 and the new Standard Deviation is Rs 60, indicating the wages have become less uniform.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of average wage and total wages calculation.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777745587/ncert/statistics/6/img_6_0.jpg",
+      "latex_extracted": "\\begin{array}{c}{{\\mathrm{Average~Wage=~\\mathrm{Total~Wages}}}}\\\\ {{\\mathrm{200=\\mathrm{\\Total~Wages}~}}}\\end{array}",
+      "source_page_number": 6,
+      "source_image_index": 0,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of average and standard deviation calculations with a single adjustment.",
+    "topics_tags": [
+      "Average Wage",
+      "Standard Deviation",
+      "Wage Adjustment"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of new average wage calculation.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777745589/ncert/statistics/6/img_6_1.jpg",
+        "latex_extracted": null,
+        "source_page_number": 6,
+        "source_image_index": 1,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of average wage and total wages calculation.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777745587/ncert/statistics/6/img_6_0.jpg",
+        "latex_extracted": "\\begin{array}{c}{{\\mathrm{Average~Wage=~\\mathrm{Total~Wages}}}}\\\\ {{\\mathrm{200=\\mathrm{\\Total~Wages}~}}}\\end{array}",
+        "source_page_number": 6,
+        "source_image_index": 0,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q6.7",
+    "class": 11,
+    "subject": "statistics",
+    "chapter_number": 6,
+    "chapter_name": "measures of dispersion",
+    "question_type": "numerical",
+    "question_text": "Calculate the Mean Deviation using mean and Standard Deviation for the following distribution.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of New Average Wage calculation.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777745590/ncert/statistics/6/img_7_0.jpg",
+      "latex_extracted": "\\begin{array}{c}{{\\mathrm{New~Average~Wage=~\\frac{New~Total~Wage}{50}}}}\\\\ {{=\\displaystyle\\frac{11,000}{50}=\\mathrm{Rs~220}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of mean deviation and standard deviation calculations.",
+    "topics_tags": [
+      "Mean Deviation",
+      "Standard Deviation",
+      "Statistics"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of New Average Wage calculation.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777745590/ncert/statistics/6/img_7_0.jpg",
+        "latex_extracted": "\\begin{array}{c}{{\\mathrm{New~Average~Wage=~\\frac{New~Total~Wage}{50}}}}\\\\ {{=\\displaystyle\\frac{11,000}{50}=\\mathrm{Rs~220}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.8",
+    "class": 11,
+    "subject": "statistics",
+    "chapter_number": 6,
+    "chapter_name": "measures of dispersion",
+    "question_type": "numerical",
+    "question_text": "The sum of 10 values is 100 and the sum of their squares is 1090. Find out the Coefficient of Variation.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical expressions related to Coefficient of Variation.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777745593/ncert/statistics/6/img_8_0.jpg",
+      "latex_extracted": "\\begin{array}{c}{{\\frac{\\Gamma^{X}+\\log}{\\Gamma^{X}-\\log}}}\\\\ {{\\sec{\\frac{\\Gamma^{X}+\\log}{\\Gamma^{X}}}}}\\\\ {{\\frac{\\Gamma^{X}-\\sqrt{\\frac{Y}{2}}}{\\sqrt{\\frac{Y}{2}}}}}\\\\ {{\\vdots}}\\\\ {{\\frac{\\sigma}{\\sqrt{\\log}}}}\\\\ {{\\frac{\\sigma}{2\\sqrt{\\frac{N}{2}}}}}\\\\ {{\\frac{\\sigma}{2\\sqrt{\\log^{2}(x)}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves calculation of Coefficient of Variation from given sums.",
+    "topics_tags": [
+      "Coefficient of Variation",
+      "Statistics",
+      "Data Analysis"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical expressions related to Coefficient of Variation.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777745593/ncert/statistics/6/img_8_0.jpg",
+        "latex_extracted": "\\begin{array}{c}{{\\frac{\\Gamma^{X}+\\log}{\\Gamma^{X}-\\log}}}\\\\ {{\\sec{\\frac{\\Gamma^{X}+\\log}{\\Gamma^{X}}}}}\\\\ {{\\frac{\\Gamma^{X}-\\sqrt{\\frac{Y}{2}}}{\\sqrt{\\frac{Y}{2}}}}}\\\\ {{\\vdots}}\\\\ {{\\frac{\\sigma}{\\sqrt{\\log}}}}\\\\ {{\\frac{\\sigma}{2\\sqrt{\\frac{N}{2}}}}}\\\\ {{\\frac{\\sigma}{2\\sqrt{\\log^{2}(x)}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  }
+]

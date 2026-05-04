@@ -38,7 +38,7 @@ Return ONLY a valid JSON array. No explanation, no markdown, no preamble.
     "subject": "<string>",
     "chapter_number": <integer>,
     "chapter_name": "<string>",
-    "question_type": "<mcq|numerical|conceptual|derivation|diagram_based>",
+    "question_type": "<mcq|numerical|conceptual|derivation|diagram_based|multipart>",
     "question_text": "<plain text of the question>",
     "question_latex": "<LaTeX version if math is present, else null>",
     "mcq_options": [
@@ -115,6 +115,7 @@ Return ONLY a valid JSON array. No explanation, no markdown, no preamble.
 - Preserve source labels where possible: (1), (2), (3), (4) or (A), (B), (C), (D)
 - Set `correct_option` from answer key/solution if present, otherwise null
 - For non-MCQ questions, set `mcq_options` to [] and `correct_option` to null
+- but If options are instructions or tasks, NOT selectable answers, then question_type = conceptual
 
 ### difficulty_rating (1-5)
 1 -> Direct recall or single-step calculation

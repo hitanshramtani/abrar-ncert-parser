@@ -1,0 +1,2132 @@
+[
+  {
+    "question_id": "Q15.1",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 15,
+    "chapter_name": "probability",
+    "question_type": "multipart",
+    "question_text": "Complete the following statements:",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "Probability of an event E + Probability of the event 'not E' = _______.",
+        "part_latex": null,
+        "answer_text": "1",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Therefore, the sum of the probabilities of an event and its complement is 1.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "The probability of an event that cannot happen is _________. Such as event is called _________.",
+        "part_latex": null,
+        "answer_text": "0, impossible event",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, the probability of an impossible event is 0.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "The probability of an event that is certain to happen is _________. Such as event is called ________.",
+        "part_latex": null,
+        "answer_text": "1, sure event or certain event",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Hence, the probability of a certain event is 1.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iv)",
+        "part_text": "The sum of the probabilities of all the elementary events of an experiment is _________.",
+        "part_latex": null,
+        "answer_text": "1",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Therefore, the total probability of all elementary events is 1.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(v)",
+        "part_text": "The probability of an event is greater than or equal to _______ and less than or equal to _______.",
+        "part_latex": null,
+        "answer_text": "0, 1",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, the probability of any event lies between 0 and 1.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of basic probability concepts.",
+    "topics_tags": [
+      "Probability",
+      "Elementary Events",
+      "Certain Events"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q15.2",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 15,
+    "chapter_name": "probability",
+    "question_type": "conceptual",
+    "question_text": "Which of the following experiments have equally likely outcomes? Explain.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "(i) It is not an equally likely event, as it depends on various factors such as whether the car will start or not. And factors for both the conditions are not the same.\n(ii) It is not an equally likely event, as it depends on the player's ability and there is no information given about that.\n(iii) It is an equally likely event.\n(iv) It is an equally likely event.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires analysis of different scenarios and understanding of equally likely outcomes.",
+    "topics_tags": [
+      "Equally Likely Outcomes",
+      "Probability Experiments",
+      "Analysis"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q15.3",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 15,
+    "chapter_name": "probability",
+    "question_type": "conceptual",
+    "question_text": "Why is tossing a coin considered to be a fair way of deciding which team should get the ball at the beginning of a football game?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "When we toss a coin, the possible outcomes are only two, head or tail, which are equally likely outcomes. Therefore, the result of an individual toss is completely unpredictable.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, tossing a coin is a fair method as both outcomes are equally likely.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves understanding of fairness in probability.",
+    "topics_tags": [
+      "Coin Toss",
+      "Fairness",
+      "Equally Likely Outcomes"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q15.4",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 15,
+    "chapter_name": "probability",
+    "question_type": "conceptual",
+    "question_text": "Which of the following cannot be the probability of an event?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Probability of an event (E) is always greater than or equal to 0. Also, it is always less than or equal to one. This implies that the probability of an event cannot be negative or greater than 1. Therefore, out of these alternatives, -1.5 cannot be a probability of an event.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, -1.5 is not a valid probability.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of the range of probability values.",
+    "topics_tags": [
+      "Probability Range",
+      "Valid Probabilities",
+      "Conceptual Understanding"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q15.5",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 15,
+    "chapter_name": "probability",
+    "question_type": "numerical",
+    "question_text": "If P(E) = 0.05, what is the probability of 'not E'?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The probability of 'not E' is 0.95.",
+    "answer_latex": "P(\\overline{E}) = 1 - P(E) = 1 - 0.05 = 0.95",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Use the formula for the probability of 'not E'.",
+        "expression": "P(\\overline{E}) = 1 - P(E)"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the value of P(E).",
+        "expression": "P(\\overline{E}) = 1 - 0.05"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the result.",
+        "expression": "P(\\overline{E}) = 0.95"
+      }
+    ],
+    "final_answer": "Therefore, the probability of 'not E' is 0.95.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of the probability of 'not E'.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777657272/ncert/maths/15/img_2_0.png",
+      "latex_extracted": "\\begin{array}{r}{\\mathbb{P}{\\bigg(}{\\overline{{\\mathbf{E}}}}{\\bigg)}=1-\\mathrm{P}{\\big(}\\mathbf{E}{\\big)}}\\\\ {\\mathbb{P}{\\bigg(}{\\overline{{\\mathbf{E}}}}{\\bigg)}=1-0.05}\\\\ {=0.95}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic probability calculation.",
+    "topics_tags": [
+      "Probability",
+      "Complementary Events",
+      "Basic Calculation"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the probability of 'not E'.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777657272/ncert/maths/15/img_2_0.png",
+        "latex_extracted": "\\begin{array}{r}{\\mathbb{P}{\\bigg(}{\\overline{{\\mathbf{E}}}}{\\bigg)}=1-\\mathrm{P}{\\big(}\\mathbf{E}{\\big)}}\\\\ {\\mathbb{P}{\\bigg(}{\\overline{{\\mathbf{E}}}}{\\bigg)}=1-0.05}\\\\ {=0.95}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q15.6",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 15,
+    "chapter_name": "probability",
+    "question_type": "numerical",
+    "question_text": "A bag contains lemon flavoured candies only. Malini takes out one candy without looking into the bag. What is the probability that she takes out (i) an orange flavoured candy?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "(i) The bag contains lemon flavoured candies only. It does not contain any orange flavoured candies. This implies that every time, she will take out only lemon flavoured candies. Therefore, event that Malini will take out an orange flavoured candy is an impossible event.\nHence, P (an orange flavoured candy) = 0",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the probability of taking out an orange flavoured candy is 0.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct application of the concept of impossible events.",
+    "topics_tags": [
+      "Probability",
+      "Impossible Events",
+      "Candy"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q15.7",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 15,
+    "chapter_name": "probability",
+    "question_type": "numerical",
+    "question_text": "What is the probability that the 2 students have the same birthday?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Probability that two students are not having same birthday P ( ) = 0.992\nProbability that two students are having same birthday P (E) = 1 - P ( ) = 1 - 0.992 = 0.008",
+    "answer_latex": "P(E) = 1 - P(\\text{not same birthday}) = 1 - 0.992 = 0.008",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the probability of not having the same birthday.",
+        "expression": "P(\\text{not same birthday}) = 0.992"
+      },
+      {
+        "step_number": 2,
+        "description": "Use the complementary probability to find the probability of having the same birthday.",
+        "expression": "P(E) = 1 - P(\\text{not same birthday})"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the result.",
+        "expression": "P(E) = 1 - 0.992 = 0.008"
+      }
+    ],
+    "final_answer": "Therefore, the probability that the two students have the same birthday is 0.008.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves understanding of complementary probabilities.",
+    "topics_tags": [
+      "Probability",
+      "Birthdays",
+      "Complementary Events"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q15.8",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 15,
+    "chapter_name": "probability",
+    "question_type": "numerical",
+    "question_text": "A bag contains 3 red balls and 5 black balls. A ball is drawn at random from the bag. What is the probability that the ball drawn is (i) red? (ii) not red?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "What is the probability that the ball drawn is red?",
+        "part_latex": null,
+        "answer_text": "Total number of balls in the bag = 8\nProbability of getting a red ball = \\frac{3}{8}",
+        "answer_latex": "P(\\text{red}) = \\frac{3}{8}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the total number of balls.",
+            "expression": "Total = 3 + 5 = 8"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the probability of drawing a red ball.",
+            "expression": "P(\\text{red}) = \\frac{3}{8}"
+          }
+        ],
+        "final_answer": "Therefore, the probability of drawing a red ball is \\frac{3}{8}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "What is the probability that the ball drawn is not red?",
+        "part_latex": null,
+        "answer_text": "Probability of not getting red ball = 1 - Probability of getting a red ball = 1 - \\frac{3}{8} = \\frac{5}{8}",
+        "answer_latex": "P(\\text{not red}) = 1 - P(\\text{red}) = 1 - \\frac{3}{8} = \\frac{5}{8}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the complementary probability to find the probability of not drawing a red ball.",
+            "expression": "P(\\text{not red}) = 1 - P(\\text{red})"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the value of P(red).",
+            "expression": "P(\\text{not red}) = 1 - \\frac{3}{8}"
+          },
+          {
+            "step_number": 3,
+            "description": "Calculate the result.",
+            "expression": "P(\\text{not red}) = \\frac{5}{8}"
+          }
+        ],
+        "final_answer": "Thus, the probability of drawing a ball that is not red is \\frac{5}{8}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of the probability of drawing a red ball.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777657274/ncert/maths/15/img_3_0.png",
+      "latex_extracted": "\\begin{array}{l}{{\\mathrm{Probabiity~of~geting~arcd~ball=\\frac{Number~of~fievourcomes}{\\ b u t}}}}\\\\ {{\\mathrm{=\\frac{3}{g}}}}\\\\ {{\\mathrm{=\\frac{3}{g}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic probability calculations and understanding of complementary events.",
+    "topics_tags": [
+      "Probability",
+      "Red Balls",
+      "Complementary Events"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the probability of drawing a red ball.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777657274/ncert/maths/15/img_3_0.png",
+        "latex_extracted": "\\begin{array}{l}{{\\mathrm{Probabiity~of~geting~arcd~ball=\\frac{Number~of~fievourcomes}{\\ b u t}}}}\\\\ {{\\mathrm{=\\frac{3}{g}}}}\\\\ {{\\mathrm{=\\frac{3}{g}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q15.9",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 15,
+    "chapter_name": "probability",
+    "question_type": "multipart",
+    "question_text": "A box contains 5 red marbles, 8 white marbles and 4 green marbles. One marble is taken out of the box at random. What is the probability that the marble taken out will be (i) red? (ii) white? (iii) not green?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of the probability of getting a red marble.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777657277/ncert/maths/15/img_4_0.png",
+      "latex_extracted": "\\begin{array}{r l}{{\\mathrm{probabiliry\\,\\,of\\,gecting\\,\\,ared~marble}={\\frac{\\mathrm{Numberof\\,faroproble\\,opteomess}}{\\mathrm{Number\\,\\,of\\,tothlyosilie\\,\\,outcomes}}}}\\\\ {{\\mathrm{={\\frac{5}{17}}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "What is the probability that the marble taken out will be red?",
+        "part_latex": null,
+        "answer_text": "The probability of getting a red marble is \\frac{5}{17}.",
+        "answer_latex": "\\frac{5}{17}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the total number of marbles.",
+            "expression": "5 + 8 + 4 = 17"
+          },
+          {
+            "step_number": 2,
+            "description": "Identify the number of red marbles.",
+            "expression": "5"
+          },
+          {
+            "step_number": 3,
+            "description": "Calculate the probability of drawing a red marble.",
+            "expression": "\\frac{5}{17}"
+          }
+        ],
+        "final_answer": "Therefore, the probability of drawing a red marble is \\frac{5}{17}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "What is the probability that the marble taken out will be white?",
+        "part_latex": null,
+        "answer_text": "The probability of getting a white marble is \\frac{8}{17}.",
+        "answer_latex": "\\frac{8}{17}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the number of white marbles.",
+            "expression": "8"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the probability of drawing a white marble.",
+            "expression": "\\frac{8}{17}"
+          }
+        ],
+        "final_answer": "Therefore, the probability of drawing a white marble is \\frac{8}{17}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "What is the probability that the marble taken out will not be green?",
+        "part_latex": null,
+        "answer_text": "The probability of not getting a green marble is \\frac{13}{17}.",
+        "answer_latex": "\\frac{13}{17}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the total number of non-green marbles.",
+            "expression": "5 + 8 = 13"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the probability of not drawing a green marble.",
+            "expression": "\\frac{13}{17}"
+          }
+        ],
+        "final_answer": "Therefore, the probability of not drawing a green marble is \\frac{13}{17}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of basic probability concepts and simple calculations.",
+    "topics_tags": [
+      "Probability",
+      "Marbles",
+      "Random Selection"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the probability of getting a red marble.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777657277/ncert/maths/15/img_4_0.png",
+        "latex_extracted": "\\begin{array}{r l}{{\\mathrm{probabiliry\\,\\,of\\,gecting\\,\\,ared~marble}={\\frac{\\mathrm{Numberof\\,faroproble\\,opteomess}}{\\mathrm{Number\\,\\,of\\,tothlyosilie\\,\\,outcomes}}}}\\\\ {{\\mathrm{={\\frac{5}{17}}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q15.10",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 15,
+    "chapter_name": "probability",
+    "question_type": "multipart",
+    "question_text": "A piggy bank contains hundred 50 p coins, fifty Rs 1 coins, twenty Rs 2 coins and ten Rs 5 coins. If it is equally likely that one of the coins will fall out when the bank is turned upside down, what is the probability that the coin (i) will be a 50 p coin?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "What is the probability that the coin will be a 50 p coin?",
+        "part_latex": null,
+        "answer_text": "The probability of getting a 50 p coin is \\frac{100}{180} = \\frac{5}{9}.",
+        "answer_latex": "\\frac{5}{9}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the total number of coins.",
+            "expression": "100 + 50 + 20 + 10 = 180"
+          },
+          {
+            "step_number": 2,
+            "description": "Identify the number of 50 p coins.",
+            "expression": "100"
+          },
+          {
+            "step_number": 3,
+            "description": "Calculate the probability of drawing a 50 p coin.",
+            "expression": "\\frac{100}{180} = \\frac{5}{9}"
+          }
+        ],
+        "final_answer": "Therefore, the probability of drawing a 50 p coin is \\frac{5}{9}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "What is the probability that the coin will not be a Rs 5 coin?",
+        "part_latex": null,
+        "answer_text": "The probability of not getting a Rs 5 coin is \\frac{170}{180} = \\frac{17}{18}.",
+        "answer_latex": "\\frac{17}{18}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the number of Rs 5 coins.",
+            "expression": "10"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the number of coins that are not Rs 5.",
+            "expression": "180 - 10 = 170"
+          },
+          {
+            "step_number": 3,
+            "description": "Calculate the probability of not drawing a Rs 5 coin.",
+            "expression": "\\frac{170}{180} = \\frac{17}{18}"
+          }
+        ],
+        "final_answer": "Therefore, the probability of not drawing a Rs 5 coin is \\frac{17}{18}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of basic probability concepts and simple calculations.",
+    "topics_tags": [
+      "Probability",
+      "Coins",
+      "Random Selection"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q15.11",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 15,
+    "chapter_name": "probability",
+    "question_type": "conceptual",
+    "question_text": "Gopi buys a fish from a shop for his aquarium. The shopkeeper takes out one fish at random from a tank containing 5 male fish and 8 female fish. What is the probability that the fish taken out is a male fish?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of the probability of getting a male fish.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777657297/ncert/maths/15/img_6_0.png",
+      "latex_extracted": "\\begin{array}{r l}{{\\mathrm{Probabiity~of~geting~a~made~fish~=\\frac{Number~of~fievourablecomes}{N u m b e r~o f~t o r a l~p o s i b l e~o u f t o m e s}}}}\\\\ {{}}&{{=\\frac{5}{13}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The probability of getting a male fish is \\frac{5}{13}.",
+    "answer_latex": "\\frac{5}{13}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the total number of fishes.",
+        "expression": "5 + 8 = 13"
+      },
+      {
+        "step_number": 2,
+        "description": "Identify the number of male fishes.",
+        "expression": "5"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the probability of drawing a male fish.",
+        "expression": "\\frac{5}{13}"
+      }
+    ],
+    "final_answer": "Therefore, the probability of drawing a male fish is \\frac{5}{13}.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of basic probability concepts and simple calculations.",
+    "topics_tags": [
+      "Probability",
+      "Fish",
+      "Random Selection"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the probability of getting a male fish.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777657297/ncert/maths/15/img_6_0.png",
+        "latex_extracted": "\\begin{array}{r l}{{\\mathrm{Probabiity~of~geting~a~made~fish~=\\frac{Number~of~fievourablecomes}{N u m b e r~o f~t o r a l~p o s i b l e~o u f t o m e s}}}}\\\\ {{}}&{{=\\frac{5}{13}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q15.12",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 15,
+    "chapter_name": "probability",
+    "question_type": "multipart",
+    "question_text": "A game of chance consists of spinning an arrow which comes to rest pointing at one of the numbers 1, 2, 3, 4, 5, 6, 7, 8, and these are equally likely outcomes. What is the probability that it will point at (i) 8? (ii) an odd number? (iii) a number greater than 2? (iv) a number less than 9?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "What is the probability that it will point at 8?",
+        "part_latex": null,
+        "answer_text": "The probability of pointing at 8 is \\frac{1}{8}.",
+        "answer_latex": "\\frac{1}{8}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the total number of outcomes.",
+            "expression": "8"
+          },
+          {
+            "step_number": 2,
+            "description": "Identify the favorable outcome for pointing at 8.",
+            "expression": "1"
+          },
+          {
+            "step_number": 3,
+            "description": "Calculate the probability of pointing at 8.",
+            "expression": "\\frac{1}{8}"
+          }
+        ],
+        "final_answer": "Therefore, the probability of pointing at 8 is \\frac{1}{8}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "What is the probability that it will point at an odd number?",
+        "part_latex": null,
+        "answer_text": "The probability of pointing at an odd number is \\frac{4}{8} = \\frac{1}{2}.",
+        "answer_latex": "\\frac{1}{2}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the total number of odd numbers.",
+            "expression": "4"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the probability of pointing at an odd number.",
+            "expression": "\\frac{4}{8} = \\frac{1}{2}"
+          }
+        ],
+        "final_answer": "Therefore, the probability of pointing at an odd number is \\frac{1}{2}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "What is the probability that it will point at a number greater than 2?",
+        "part_latex": null,
+        "answer_text": "The probability of pointing at a number greater than 2 is \\frac{6}{8} = \\frac{3}{4}.",
+        "answer_latex": "\\frac{3}{4}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the total numbers greater than 2.",
+            "expression": "6"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the probability of pointing at a number greater than 2.",
+            "expression": "\\frac{6}{8} = \\frac{3}{4}"
+          }
+        ],
+        "final_answer": "Therefore, the probability of pointing at a number greater than 2 is \\frac{3}{4}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iv)",
+        "part_text": "What is the probability that it will point at a number less than 9?",
+        "part_latex": null,
+        "answer_text": "The probability of pointing at a number less than 9 is \\frac{8}{8} = 1.",
+        "answer_latex": "1",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the total numbers less than 9.",
+            "expression": "8"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the probability of pointing at a number less than 9.",
+            "expression": "\\frac{8}{8} = 1"
+          }
+        ],
+        "final_answer": "Therefore, the probability of pointing at a number less than 9 is 1.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of basic probability concepts and simple calculations.",
+    "topics_tags": [
+      "Probability",
+      "Game of Chance",
+      "Random Selection"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q16.1",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 15,
+    "chapter_name": "probability",
+    "question_type": "numerical",
+    "question_text": "12 defective pens are accidentally mixed with 132 good ones. It is not possible to just look at a pen and tell whether or not it is defective. One pen is taken out at random from this lot. Determine the probability that the pen taken out is a good one.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The probability of getting a good pen is \\frac{132}{144}.",
+    "answer_latex": "\\frac{132}{144}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the total number of pens and the number of good pens.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the probability formula P = \\frac{favorable\\ outcomes}{total\\ outcomes}.",
+        "expression": "\\frac{132}{144}"
+      }
+    ],
+    "final_answer": "Therefore, the probability of drawing a good pen is \\frac{11}{12}.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic probability calculation with simple arithmetic.",
+    "topics_tags": [
+      "Probability",
+      "Pens",
+      "Random Selection"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q15.17",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 15,
+    "chapter_name": "probability",
+    "question_type": "multipart",
+    "question_text": "A lot of 20 bulbs contain 4 defective ones. One bulb is drawn at random from the lot. What is the probability that this bulb is defective? Suppose the bulb drawn in (i) is not defective and is not replaced. Now one bulb is drawn at random from the rest. What is the probability that this bulb is not defective?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "What is the probability that this bulb is defective?",
+        "part_latex": null,
+        "answer_text": "The probability of getting a defective bulb is \\frac{4}{20} = \\frac{1}{5}.",
+        "answer_latex": "\\frac{4}{20} = \\frac{1}{5}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the total number of bulbs and defective bulbs.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the probability of drawing a defective bulb.",
+            "expression": "\\frac{4}{20}"
+          }
+        ],
+        "final_answer": "Therefore, the probability that the bulb is defective is \\frac{1}{5}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "What is the probability that this bulb is not defective?",
+        "part_latex": null,
+        "answer_text": "The probability of getting a non-defective bulb is \\frac{15}{19}.",
+        "answer_latex": "\\frac{15}{19}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the remaining total number of bulbs and non-defective bulbs after one non-defective bulb is drawn.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the probability of drawing a non-defective bulb.",
+            "expression": "\\frac{15}{19}"
+          }
+        ],
+        "final_answer": "Therefore, the probability that the bulb drawn is not defective is \\frac{15}{19}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of basic probability concepts and simple calculations.",
+    "topics_tags": [
+      "Probability",
+      "Defective Items",
+      "Random Selection"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q15.18",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 15,
+    "chapter_name": "probability",
+    "question_type": "multipart",
+    "question_text": "A box contains 90 discs which are numbered from 1 to 90. If one disc is drawn at random from the box, find the probability that it bears (i) a two-digit number (ii) a perfect square number (iii) a number divisible by 5.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "What is the probability that it bears a two-digit number?",
+        "part_latex": null,
+        "answer_text": "The probability of getting a two-digit number is \\frac{81}{90}.",
+        "answer_latex": "\\frac{81}{90}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the total number of two-digit numbers between 1 and 90.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the probability of drawing a two-digit number.",
+            "expression": "\\frac{81}{90}"
+          }
+        ],
+        "final_answer": "Therefore, the probability of drawing a two-digit number is \\frac{81}{90}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "What is the probability that it bears a perfect square number?",
+        "part_latex": null,
+        "answer_text": "The probability of getting a perfect square number is \\frac{9}{90} = \\frac{1}{10}.",
+        "answer_latex": "\\frac{9}{90} = \\frac{1}{10}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the total number of perfect squares between 1 and 90.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the probability of drawing a perfect square number.",
+            "expression": "\\frac{9}{90}"
+          }
+        ],
+        "final_answer": "Therefore, the probability of drawing a perfect square number is \\frac{1}{10}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "What is the probability that it bears a number divisible by 5?",
+        "part_latex": null,
+        "answer_text": "The probability of getting a number divisible by 5 is \\frac{18}{90} = \\frac{1}{5}.",
+        "answer_latex": "\\frac{18}{90} = \\frac{1}{5}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the total numbers between 1 and 90 that are divisible by 5.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the probability of drawing a number divisible by 5.",
+            "expression": "\\frac{18}{90}"
+          }
+        ],
+        "final_answer": "Therefore, the probability of drawing a number divisible by 5 is \\frac{1}{5}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of basic probability concepts and simple calculations.",
+    "topics_tags": [
+      "Probability",
+      "Discs",
+      "Random Selection"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q15.19",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 15,
+    "chapter_name": "probability",
+    "question_type": "multipart",
+    "question_text": "A child has a die whose six faces shows the letters as given below: The die is thrown once. What is the probability of getting (i) A? (ii) D?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "What is the probability of getting A?",
+        "part_latex": null,
+        "answer_text": "The probability of getting A is \\frac{2}{6} = \\frac{1}{3}.",
+        "answer_latex": "\\frac{2}{6} = \\frac{1}{3}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the total number of faces on the die and the number of faces with A.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the probability of drawing A.",
+            "expression": "\\frac{2}{6}"
+          }
+        ],
+        "final_answer": "Therefore, the probability of getting A is \\frac{1}{3}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "What is the probability of getting D?",
+        "part_latex": null,
+        "answer_text": "The probability of getting D is \\frac{1}{6}.",
+        "answer_latex": "\\frac{1}{6}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the total number of faces on the die and the number of faces with D.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the probability of drawing D.",
+            "expression": "\\frac{1}{6}"
+          }
+        ],
+        "final_answer": "Therefore, the probability of getting D is \\frac{1}{6}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct application of probability concepts with simple calculations.",
+    "topics_tags": [
+      "Probability",
+      "Dice",
+      "Random Selection"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q15.20",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 15,
+    "chapter_name": "probability",
+    "question_type": "numerical",
+    "question_text": "A game consists of tossing a one rupee coin 3 times and noting its outcome each time. Hanif wins if all the tosses give the same result i.e., three heads or three tails, and loses otherwise. Calculate the probability that Hanif will lose the game.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The total number of outcomes is 8, and the number of favorable outcomes for Hanif winning is 2. Therefore, the probability that Hanif will lose the game is 6 out of 8.",
+    "answer_latex": "P(Hanif \\text{ loses}) = \\frac{6}{8} = \\frac{3}{4}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the total number of outcomes when tossing a coin 3 times.",
+        "expression": "2^3 = 8"
+      },
+      {
+        "step_number": 2,
+        "description": "Identify the favorable outcomes for Hanif winning.",
+        "expression": "HHH, TTT"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the probability of Hanif losing.",
+        "expression": "P(Hanif \\text{ loses}) = \\frac{6}{8}"
+      }
+    ],
+    "final_answer": "Therefore, the probability that Hanif will lose the game is \\frac{3}{4}.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of basic probability and counting outcomes.",
+    "topics_tags": [
+      "Probability",
+      "Coin Toss",
+      "Outcomes"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q15.21",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 15,
+    "chapter_name": "probability",
+    "question_type": "multipart",
+    "question_text": "A lot consists of 144 ball pens of which 20 are defective and the others are good. Nuri will buy a pen if it is good, but will not buy if it is defective. The shopkeeper draws one pen at random and gives it to her. What is the probability that (i) She will buy it? (ii) She will not buy it?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "What is the probability that she will buy it?",
+        "part_latex": null,
+        "answer_text": "The probability that she will buy it is \\frac{124}{144} = \\frac{31}{36}.",
+        "answer_latex": "\\frac{124}{144} = \\frac{31}{36}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the total number of good pens.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the probability of drawing a good pen.",
+            "expression": "\\frac{124}{144}"
+          }
+        ],
+        "final_answer": "Therefore, the probability that Nuri will buy the pen is \\frac{31}{36}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "What is the probability that she will not buy it?",
+        "part_latex": null,
+        "answer_text": "The probability that she will not buy it is \\frac{20}{144} = \\frac{5}{36}.",
+        "answer_latex": "\\frac{20}{144} = \\frac{5}{36}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the total number of defective pens.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the probability of drawing a defective pen.",
+            "expression": "\\frac{20}{144}"
+          }
+        ],
+        "final_answer": "Therefore, the probability that Nuri will not buy the pen is \\frac{5}{36}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of basic probability concepts and simple calculations.",
+    "topics_tags": [
+      "Probability",
+      "Ball Pens",
+      "Random Selection"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q15.22",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 15,
+    "chapter_name": "probability",
+    "question_type": "numerical",
+    "question_text": "A bag contains 5 red balls and some blue balls. If the probability of drawing a blue ball is double that of a red ball, determine the number of blue balls in the bag.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Hence, number of blue balls = 10.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set up the equation based on the probability of drawing a blue ball being double that of a red ball.",
+        "expression": "2{\\left(\\frac{5}{x+5}\\right)}={\\frac{x}{x+5}}"
+      },
+      {
+        "step_number": 2,
+        "description": "Solve the equation to find the value of x.",
+        "expression": "10(x+5)=x^{2}+5x"
+      },
+      {
+        "step_number": 3,
+        "description": "Rearrange the equation to standard form.",
+        "expression": "x^{2}-5x-50=0"
+      }
+    ],
+    "final_answer": "Therefore, the number of blue balls in the bag is 10.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical equations related to the probability of drawing balls from a bag.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777657317/ncert/maths/15/img_17_0.png",
+      "latex_extracted": "\\begin{array}{r}{2{\\left(\\frac{5}{x+5}\\right)}={\\frac{x}{x+5}}}\\\\ {10(x+5)=x^{2}+5x}\\\\ {x=10x+52-50=0}\\\\ {x^{2}-5x-50=0}\\\\ {x^{2}-10)(x+5)=0}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves setting up and solving a quadratic equation.",
+    "topics_tags": [
+      "Probability",
+      "Combinatorics",
+      "Equations"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical equations related to the probability of drawing balls from a bag.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777657317/ncert/maths/15/img_17_0.png",
+        "latex_extracted": "\\begin{array}{r}{2{\\left(\\frac{5}{x+5}\\right)}={\\frac{x}{x+5}}}\\\\ {10(x+5)=x^{2}+5x}\\\\ {x=10x+52-50=0}\\\\ {x^{2}-5x-50=0}\\\\ {x^{2}-10)(x+5)=0}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q15.23",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 15,
+    "chapter_name": "probability",
+    "question_type": "numerical",
+    "question_text": "A box contains 12 balls out of which x are black. If one ball is drawn at random from the box, what is the probability that it will be a black ball? If 6 more black balls are put in the box, the probability of drawing a black ball is now double of what it was before. Find x.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical equations related to the probability of drawing black balls from a box.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777657318/ncert/maths/15/img_17_1.png",
+      "latex_extracted": "2{\\bigg(}{\\frac{x}{12}}{\\bigg)}{\\frac{x+6}{18}}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set up the initial probability of drawing a black ball.",
+        "expression": "\\frac{x}{12}"
+      },
+      {
+        "step_number": 2,
+        "description": "Set up the new probability after adding 6 black balls.",
+        "expression": "\\frac{x+6}{18}"
+      },
+      {
+        "step_number": 3,
+        "description": "Set up the equation based on the condition that the new probability is double the old probability.",
+        "expression": "2{\\bigg(}{\\frac{x}{12}}{\\bigg)}={\\frac{x+6}{18}}"
+      }
+    ],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves setting up and solving a probability equation.",
+    "topics_tags": [
+      "Probability",
+      "Combinatorics",
+      "Equations"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical equations related to the probability of drawing black balls from a box.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777657318/ncert/maths/15/img_17_1.png",
+        "latex_extracted": "2{\\bigg(}{\\frac{x}{12}}{\\bigg)}{\\frac{x+6}{18}}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q15.24",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 15,
+    "chapter_name": "probability",
+    "question_type": "numerical",
+    "question_text": "In a jar, there are blue and green marbles. If the total number of marbles is 24 and the number of green marbles is 16, find the number of blue marbles.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The total number of blue marbles is 8.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the number of blue marbles by subtracting the number of green marbles from the total.",
+        "expression": "24 - 16 = 8"
+      }
+    ],
+    "final_answer": "Therefore, the number of blue marbles is 8.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical equation showing the relationship between the number of blue marbles and total marbles.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777657319/ncert/maths/15/img_19_0.png",
+      "latex_extracted": "\\frac{x}{24}=\\frac{2}{3}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct calculation based on given values.",
+    "topics_tags": [
+      "Probability",
+      "Marbles",
+      "Basic Arithmetic"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical equation showing the relationship between the number of blue marbles and total marbles.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777657319/ncert/maths/15/img_19_0.png",
+        "latex_extracted": "\\frac{x}{24}=\\frac{2}{3}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  }
+]

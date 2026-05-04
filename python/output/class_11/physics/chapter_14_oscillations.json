@@ -1,0 +1,1615 @@
+[
+  {
+    "question_id": "Q14.1",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 14,
+    "chapter_name": "Oscillations",
+    "question_type": "mcq",
+    "question_text": "Which of the following examples represent periodic motion?",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "A swimmer completing one return trip from one bank of a river to the other and back."
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "A freely suspended bar magnet displaced from its N-S direction and released."
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "A hydrogen molecule rotating about its center of mass."
+      },
+      {
+        "option_label": "(D)",
+        "option_text": "An arrow released from a bow."
+      }
+    ],
+    "correct_option": "(B)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Answer: (B) and (C). The swimmer’s motion is not periodic. The motion of the swimmer between the banks of a river is back and forth. However, it does not have a definite period. This is because the time taken by the swimmer during his back and forth journey may not be the same. The motion of a freely-suspended magnet, if displaced from its N-S direction and released, is periodic. This is because the magnet oscillates about its position with a definite period of time. When a hydrogen molecule rotates about its centre of mass, it comes to the same position again and again after an equal interval of time. Such motion is periodic. An arrow released from a bow moves only in the forward direction. It does not come backward. Hence, this motion is not periodic.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the correct answers are (B) and (C).",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of periodic motion and examples.",
+    "topics_tags": [
+      "Periodic Motion",
+      "Oscillations",
+      "Examples"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q14.2",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 14,
+    "chapter_name": "Oscillations",
+    "question_type": "mcq",
+    "question_text": "Which of the following examples represent (nearly) simple harmonic motion and which represent periodic but not simple harmonic motion?",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "The rotation of earth about its axis."
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "Motion of an oscillating mercury column in a U-tube."
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "Motion of a ball bearing inside a smooth curved bowl, when released from a point slightly above the lower most point."
+      },
+      {
+        "option_label": "(D)",
+        "option_text": "General vibrations of a polyatomic molecule about its equilibrium position."
+      }
+    ],
+    "correct_option": "(B)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Answer: (B) and (C) are SHMMs and (A) and (D) are periodic, but not SHMs. During its rotation about its axis, earth comes to the same position again and again in equal intervals of time. Hence, it is a periodic motion. However, this motion is not simple harmonic. This is because earth does not have a to and fro motion about its axis. An oscillating mercury column in a U-tube is simple harmonic. This is because the mercury moves to and fro on the same path, about the fixed position, with a certain period of time. The ball moves to and fro about the lowermost point of the bowl when released. Also, the ball comes back to its initial position in the same period of time, again and again. Hence, its motion is periodic as well as simple harmonic. A polyatomic molecule has many natural frequencies of oscillation. Its vibration is the superposition of individual simple harmonic motions of a number of different molecules. Hence, it is not simple harmonic, but periodic.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, (B) and (C) are nearly simple harmonic motions.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of simple harmonic motion and periodic motion.",
+    "topics_tags": [
+      "Simple Harmonic Motion",
+      "Periodic Motion",
+      "Oscillations"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q14.3",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 14,
+    "chapter_name": "Oscillations",
+    "question_type": "mcq",
+    "question_text": "Which of the following functions of time represent (a) simple harmonic, (b) periodic but not simple harmonic, and (c) non-periodic motion? Give period for each case of periodic motion (ω is any positive constant): sin ωt – cos ωt, sin3ωt, 3 cos (π/4 – 2ωt), cos ωt + cos 3ωt + cos 5ωt, exp (–ω²t²), 1 + ωt + ω²t².",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "simple harmonic,"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "periodic but not simple harmonic, and"
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "non-periodic motion? Give period for each case of periodic motion (ω is any positive constant): sin ωt – cos ωt, sin3ωt, 3 cos (π/4 – 2ωt), cos ωt + cos 3ωt + cos 5ωt, exp (–ω²t²), 1 + ωt + ω²t²."
+      }
+    ],
+    "correct_option": "(A)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The given functions are categorized as follows: (a) SHM: sin ωt – cos ωt; (b) Periodic but not SHM: cos ωt + cos 3ωt + cos 5ωt; (c) Non-periodic motion: exp (–ω²t²), 1 + ωt + ω²t².",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the functions are classified based on their periodicity and nature.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of different types of motion and their characteristics.",
+    "topics_tags": [
+      "Simple Harmonic Motion",
+      "Periodic Motion",
+      "Non-Periodic Motion"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q14.4",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 14,
+    "chapter_name": "Oscillations",
+    "question_type": "conceptual",
+    "question_text": "A particle is in linear simple harmonic motion between two points, A and B, 10 cm apart. Take the direction from A to B as the positive direction and give the signs of velocity, acceleration and force on the particle when it is at the end A, at the end B, at the mid-point of AB going towards A, at 2 cm away from B going towards A, at 3 cm away from A going towards B, and at 4 cm away from B going towards A.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The signs of velocity, acceleration, and force are as follows: At A: Zero, Positive, Positive; At B: Zero, Negative, Negative; At midpoint towards A: Negative, Zero, Zero; At 2 cm from B towards A: Negative, Negative, Negative; At 3 cm from A towards B: Zero, Positive, Positive; At 4 cm from B towards A: Negative, Negative, Negative.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the signs of velocity, acceleration, and force vary based on the position of the particle.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of motion dynamics and requires multiple evaluations.",
+    "topics_tags": [
+      "Simple Harmonic Motion",
+      "Velocity",
+      "Acceleration",
+      "Force"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q14.5",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 14,
+    "chapter_name": "oscillations",
+    "question_type": "conceptual",
+    "question_text": "Which of the following relationships between the acceleration a and the displacement x of a particle involve simple harmonic motion?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Among the given equations, only equation a = –10x is written in the form that represents simple harmonic motion.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the relation a = –10x represents SHM.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of SHM conditions and identifying the correct equation.",
+    "topics_tags": [
+      "Simple Harmonic Motion",
+      "Acceleration",
+      "Displacement"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q14.6",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 14,
+    "chapter_name": "oscillations",
+    "question_type": "numerical",
+    "question_text": "The motion of a particle executing simple harmonic motion is described by the displacement function, x(t) = A cos(ωt + φ). If the initial (t = 0) position of the particle is 1 cm and its initial velocity is ω cm/s, what are its amplitude and initial phase angle?",
+    "question_latex": "\\begin{array}{l l}{x\\left(t\\right)=A\\cos\\left(\\omega t+\\phi\\right)}\\\\ {1=A\\cos\\left(\\omega\\times0+\\phi\\right)=A\\cos\\phi}\\\\ {A\\cos\\phi=1}&{}&{}&{}&{{\\mathrm{(}i\\right)}}\\end{array}",
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of the displacement function for SHM.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754509/ncert/physics/14/img_9_0.png",
+      "latex_extracted": "\\begin{array}{l l}{x\\left(t\\right)=A\\cos\\left(\\omega t+\\phi\\right)}\\\\ {1=A\\cos\\left(\\omega\\times0+\\phi\\right)=A\\cos\\phi}\\\\ {A\\cos\\phi=1}&{}&{}&{}&{{\\mathrm{(}i\\right)}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Find the amplitude and initial phase angle using the given conditions.",
+        "part_latex": null,
+        "answer_text": "The amplitude A is 1 cm and the initial phase angle φ is 0.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Substitute the initial conditions into the displacement equation.",
+            "expression": "1 = A \\cos(0 + \\phi)"
+          },
+          {
+            "step_number": 2,
+            "description": "Solve for A and φ.",
+            "expression": "A \\cos \\phi = 1"
+          }
+        ],
+        "final_answer": "Therefore, the amplitude is 1 cm and the initial phase angle is 0.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "If instead of the cosine function, we choose the sine function to describe the SHM: x = B sin(ωt + α), what are the amplitude and initial phase of the particle with the above initial conditions?",
+        "part_latex": null,
+        "answer_text": "The amplitude B is 1 cm and the initial phase angle α is π/2.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the sine function to find the amplitude and phase.",
+            "expression": "1 = B \\sin(0 + \\alpha)"
+          },
+          {
+            "step_number": 2,
+            "description": "Solve for B and α.",
+            "expression": "B \\sin \\alpha = 1"
+          }
+        ],
+        "final_answer": "Thus, the amplitude is 1 cm and the initial phase angle is π/2.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding SHM equations and solving for multiple parameters.",
+    "topics_tags": [
+      "Simple Harmonic Motion",
+      "Amplitude",
+      "Phase Angle"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the displacement function for SHM.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754509/ncert/physics/14/img_9_0.png",
+        "latex_extracted": "\\begin{array}{l l}{x\\left(t\\right)=A\\cos\\left(\\omega t+\\phi\\right)}\\\\ {1=A\\cos\\left(\\omega\\times0+\\phi\\right)=A\\cos\\phi}\\\\ {A\\cos\\phi=1}&{}&{}&{}&{{\\mathrm{(}i\\right)}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q14.7",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 14,
+    "chapter_name": "oscillations",
+    "question_type": "numerical",
+    "question_text": "A spring balance has a scale that reads from 0 to 50 kg. The length of the scale is 20 cm. A body suspended from this balance, when displaced and released, oscillates with a period of 0.6 s. What is the weight of the body?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the spring balance and its scale.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754519/ncert/physics/14/img_11_0.png",
+      "latex_extracted": "\\begin{array}{r}{{\\frac{\\beta\\sin\\alpha}{\\beta\\cos\\alpha}}={\\frac{1}{4}}}\\\\ {{\\tan\\alpha=1=\\tan{\\frac{\\pi}{4}},{\\frac{5\\pi}{4}},\\dots....}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Weight of the body = mg = 22.36 × 9.8 = 219.167 N. Hence, the weight of the body is about 219 N.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the maximum force exerted on the spring using F = Mg.",
+        "expression": "F = 50 \\times 9.8 = 490"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the weight of the body using the formula mg.",
+        "expression": "Weight = 22.36 \\times 9.8"
+      }
+    ],
+    "final_answer": "Therefore, the weight of the body is approximately 219 N.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of oscillation and basic calculations.",
+    "topics_tags": [
+      "Oscillation",
+      "Spring Balance",
+      "Weight"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the spring balance and its scale.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754519/ncert/physics/14/img_11_0.png",
+        "latex_extracted": "\\begin{array}{r}{{\\frac{\\beta\\sin\\alpha}{\\beta\\cos\\alpha}}={\\frac{1}{4}}}\\\\ {{\\tan\\alpha=1=\\tan{\\frac{\\pi}{4}},{\\frac{5\\pi}{4}},\\dots....}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q14.8",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 14,
+    "chapter_name": "oscillations",
+    "question_type": "numerical",
+    "question_text": "A spring having a spring constant 1200 N m–1 is mounted on a horizontal table. A mass of 3 kg is attached to the free end of the spring. The mass is then pulled sideways to a distance of 2.0 cm and released. Determine (i) the frequency of oscillations, (ii) maximum acceleration of the mass, and (iii) the maximum speed of the mass.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the spring and mass setup.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754521/ncert/physics/14/img_12_0.jpg",
+      "latex_extracted": "\\left|\\left|\\begin{array}{c}{{\\ }}\\\\ {{\\left|\\displaystyle\\left[\\begin{array}{c}{{\\ }}\\\\ {{\\left[\\frac{\\equiv}{\\sqrt[[object Object]]{\\sqrt[[object Object]]{\\frac{\\cos\\phi}{\\sqrt[[object Object]]{\\frac{\\cos\\phi}{\\sqrt[[object Object]]{4}}}}}}}\\end{array}\\right]}}}\\end{array}\\right.",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations for frequency, acceleration, and speed.",
+    "topics_tags": [
+      "Spring Constant",
+      "Oscillation",
+      "Frequency"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the spring and mass setup.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754521/ncert/physics/14/img_12_0.jpg",
+        "latex_extracted": "\\left|\\left|\\begin{array}{c}{{\\ }}\\\\ {{\\left|\\displaystyle\\left[\\begin{array}{c}{{\\ }}\\\\ {{\\left[\\frac{\\equiv}{\\sqrt[[object Object]]{\\sqrt[[object Object]]{\\frac{\\cos\\phi}{\\sqrt[[object Object]]{\\frac{\\cos\\phi}{\\sqrt[[object Object]]{4}}}}}}}\\end{array}\\right]}}}\\end{array}\\right.",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q14.9",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 14,
+    "chapter_name": "Oscillations",
+    "question_type": "conceptual",
+    "question_text": "In Exercise 14.9, let us take the position of mass when the spring is unstretched as x = 0, and the direction from left to right as the positive direction of x-axis. Give x as a function of time t for the oscillating mass if at the moment we start the stopwatch (t = 0), the mass is at the mean position, at the maximum stretched position, and at the maximum compressed position. In what way do these functions for SHM differ from each other, in frequency, in amplitude or the initial phase?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "x = 2sin(20t), x = 2cos(20t), x = -2cos(20t). The functions have the same frequency and amplitude, but different initial phases.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "The functions have the same frequency and amplitude (2 cm), but different initial phases.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of simple harmonic motion and phase differences.",
+    "topics_tags": [
+      "Simple Harmonic Motion",
+      "Oscillation",
+      "Phase Difference"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q14.10",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 14,
+    "chapter_name": "Oscillations",
+    "question_type": "conceptual",
+    "question_text": "Obtain the corresponding simple harmonic motions of the x-projection of the radius vector of the revolving particle P, in each case.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Figures showing circular motions and their corresponding simple harmonic motions.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754528/ncert/physics/14/img_15_0.png",
+      "latex_extracted": "\\begin{array}{c l}{{}}&{{}}\\\\ {{\\mp{\\frac{2i}{\\gg}}\\displaystyle{\\sum_{\\Psi\\left(t\\right)}^{\\left.\\frac{1}{\\gg}}\\right)\\right.}}}\\\\ {{}}&{{}}&{{(a=0)\\displaystyle{\\left(\\begin{array}{c}{{\\exp}}\\\\ {{\\exp}}\\\\ {{\\left(\\left)\\right.}}\\end{array}\\right)}}\\\\ {{}}&{{}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Time period, T = 2 s; Amplitude, A = 3 cm.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "The time period is 2 seconds and the amplitude is 3 cm.",
+    "answer_image": {
+      "present": true,
+      "description": "Figures showing the mathematical representation of the harmonic motions.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754533/ncert/physics/14/img_15_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of circular motion and its relation to simple harmonic motion.",
+    "topics_tags": [
+      "Circular Motion",
+      "Simple Harmonic Motion",
+      "Oscillation"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Figures showing circular motions and their corresponding simple harmonic motions.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754528/ncert/physics/14/img_15_0.png",
+        "latex_extracted": "\\begin{array}{c l}{{}}&{{}}\\\\ {{\\mp{\\frac{2i}{\\gg}}\\displaystyle{\\sum_{\\Psi\\left(t\\right)}^{\\left.\\frac{1}{\\gg}}\\right)\\right.}}}\\\\ {{}}&{{}}&{{(a=0)\\displaystyle{\\left(\\begin{array}{c}{{\\exp}}\\\\ {{\\exp}}\\\\ {{\\left(\\left)\\right.}}\\end{array}\\right)}}\\\\ {{}}&{{}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Figures showing the mathematical representation of the harmonic motions.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754533/ncert/physics/14/img_15_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q14.11",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 14,
+    "chapter_name": "Oscillations",
+    "question_type": "diagram_based",
+    "question_text": "Plot the corresponding reference circle for each of the following simple harmonic motions. Indicate the initial (t = 0) position of the particle, the radius of the circle, and the angular speed of the rotating particle. For simplicity, the sense of rotation may be fixed to be anticlockwise in every case: (x is in cm and t is in s).",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of SHM and ability to plot reference circles.",
+    "topics_tags": [
+      "Simple Harmonic Motion",
+      "Reference Circle",
+      "Angular Speed"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q14.12",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 14,
+    "chapter_name": "Oscillations",
+    "question_type": "conceptual",
+    "question_text": "If this equation is compared with the standard SHM equation, then we get:",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The motion of the particle can be plotted as shown in the following figure.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "The motion of the particle can be plotted as shown in the following figure.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of amplitude, phase angle, and angular velocity.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754535/ncert/physics/14/img_17_0.png",
+      "latex_extracted": "\\begin{array}{r}{{\\mathrm{Amplitude},A=2\\ c m}}\\\\ {{\\mathrm{phase\\;angle,\\;}\\phi=\\frac{5\\pi}{E}=150^{\\circ}}}\\\\ {{\\mathrm{gnase\\;angle,\\;}\\phi=\\frac{2\\pi}{T}=3\\;\\mathrm{rad/sec}.}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires basic understanding of SHM equations and their components.",
+    "topics_tags": [
+      "Simple Harmonic Motion",
+      "Amplitude",
+      "Phase Angle"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of amplitude, phase angle, and angular velocity.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754535/ncert/physics/14/img_17_0.png",
+        "latex_extracted": "\\begin{array}{r}{{\\mathrm{Amplitude},A=2\\ c m}}\\\\ {{\\mathrm{phase\\;angle,\\;}\\phi=\\frac{5\\pi}{E}=150^{\\circ}}}\\\\ {{\\mathrm{gnase\\;angle,\\;}\\phi=\\frac{2\\pi}{T}=3\\;\\mathrm{rad/sec}.}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q14.13",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 14,
+    "chapter_name": "Oscillations",
+    "question_type": "mcq",
+    "question_text": "Figure 14.30 (a) shows a spring of force constant k clamped rigidly at one end and a mass m attached to its free end. A force F applied at the free end stretches the spring. Figure 14.30 (b) shows the same spring with both ends free and attached to a mass m at either end. What is the maximum extension of the spring in the two cases? If the mass in Fig. (a) and the two masses in Fig. (b) are released, what is the period of oscillation in each case?",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "shows a spring of force constant k clamped rigidly at one end and a mass m attached to its free end. A force F applied at the free end stretches the spring. Figure 14.30"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "shows the same spring with both ends free and attached to a mass m at either end. What is the maximum extension of the spring in the two cases? If the mass in Fig."
+      },
+      {
+        "option_label": "(A)",
+        "option_text": "and the two masses in Fig."
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "are released, what is the period of oscillation in each case?"
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Figure showing a spring with one end clamped and a mass attached, and another figure with both ends free and attached to masses.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754544/ncert/physics/14/img_19_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "What is the maximum extension of the spring in the two cases?",
+        "part_latex": null,
+        "answer_text": "For the one block system, when a force F is applied to the free end of the spring, an extension l is produced. For the maximum extension, it can be written as: F = kl, where k is the spring constant.",
+        "answer_latex": "F = kl",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the relationship between force and extension for the spring.",
+            "expression": "F = kl"
+          }
+        ],
+        "final_answer": "Therefore, the maximum extension produced in the spring can be calculated using the formula F = kl.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "If the mass in Fig. (a) and the two masses in Fig. (b) are released, what is the period of oscillation in each case?",
+        "part_latex": null,
+        "answer_text": "For the one block system, the time period of oscillation is given by T = 2π√(m/k). For the two block system, the effective mass is doubled, leading to T = 2π√(2m/k).",
+        "answer_latex": "T = 2\\pi\\sqrt{\\frac{m}{k}} \\text{ and } T = 2\\pi\\sqrt{\\frac{2m}{k}}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the time period for the one block system.",
+            "expression": "T = 2\\pi\\sqrt{\\frac{m}{k}}"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the time period for the two block system.",
+            "expression": "T = 2\\pi\\sqrt{\\frac{2m}{k}}"
+          }
+        ],
+        "final_answer": "Thus, the periods of oscillation for the one block and two block systems are T = 2π√(m/k) and T = 2π√(2m/k) respectively.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of spring mechanics and oscillation periods, involving multiple steps.",
+    "topics_tags": [
+      "Spring Constant",
+      "Oscillation",
+      "Hooke's Law"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Figure showing a spring with one end clamped and a mass attached, and another figure with both ends free and attached to masses.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754544/ncert/physics/14/img_19_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q14.14",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 14,
+    "chapter_name": "oscillations",
+    "question_type": "numerical",
+    "question_text": "The piston in the cylinder head of a locomotive has a stroke (twice the amplitude) of 1.0 m. If the piston moves with simple harmonic motion with an angular frequency of 200 rad/min, what is its maximum speed?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The maximum speed (v_max) of the piston is given by the relation: v_max = ωA, where ω is the angular frequency and A is the amplitude.",
+    "answer_latex": "v_{max} = \\omega A = 200 \\times 0.5 = 100 \\text{ m/min}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the relationship between maximum speed, angular frequency, and amplitude.",
+        "expression": "v_{max} = \\omega A"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values of angular frequency and amplitude.",
+        "expression": "v_{max} = 200 \\times 0.5"
+      }
+    ],
+    "final_answer": "Therefore, the maximum speed of the piston is 100 m/min.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of simple harmonic motion and substitution of values.",
+    "topics_tags": [
+      "Simple Harmonic Motion",
+      "Maximum Speed",
+      "Piston Motion"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q14.15",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 14,
+    "chapter_name": "oscillations",
+    "question_type": "mcq",
+    "question_text": "The acceleration due to gravity on the surface of moon is 1.7 m/s². What is the time period of a simple pendulum on the surface of moon if its time period on the surface of earth is 3.5 s?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The time period of the simple pendulum on the surface of moon is 8.4 s.",
+    "answer_latex": "T_{moon} = 2\\pi\\sqrt{\\frac{(3.5)^{2}}{4\\times\\left(3.14\\right)^{2}\\times9.8}{1.7}}=8.4~s",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Use the formula for the time period of a pendulum and substitute the values for g on the moon and earth.",
+        "expression": "T_{moon} = 2\\pi\\sqrt{\\frac{T_{earth}^{2} \\cdot g_{earth}}{g_{moon}}}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the time period using the given values.",
+        "expression": "T_{moon} = 2\\pi\\sqrt{\\frac{(3.5)^{2} \\cdot 9.8}{1.7}}"
+      }
+    ],
+    "final_answer": "Hence, the time period of the simple pendulum on the surface of moon is 8.4 s.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical derivation for the time period of a pendulum on the moon.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754558/ncert/physics/14/img_23_1.png",
+      "latex_extracted": "2\\pi\\sqrt{\\frac{(3.5)^{2}}{4\\times\\left(3.14\\right)^{2}\\times9.8}{1.7}}=8.4~s",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of pendulum motion and substitution of values.",
+    "topics_tags": [
+      "Pendulum",
+      "Time Period",
+      "Gravity"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical derivation for the time period of a pendulum on the moon.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754558/ncert/physics/14/img_23_1.png",
+        "latex_extracted": "2\\pi\\sqrt{\\frac{(3.5)^{2}}{4\\times\\left(3.14\\right)^{2}\\times9.8}{1.7}}=8.4~s",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q14.17",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 14,
+    "chapter_name": "oscillations",
+    "question_type": "numerical",
+    "question_text": "A simple pendulum of length l and having a bob of mass M is suspended in a car. The car is moving on a circular track of radius R with a uniform speed v. If the pendulum makes small oscillations in a radial direction about its equilibrium position, what will be its time period?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The bob of the simple pendulum will experience the acceleration due to gravity and the centripetal acceleration provided by the circular motion of the car.",
+    "answer_latex": "T=2\\pi{\\sqrt{\\frac{l}{a_{\\mathrm{eff}}}}}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the effective acceleration acting on the pendulum.",
+        "expression": "a_{\\mathrm{eff}}={\\sqrt{g^{2}+\\left({\\frac{\\nu^{2}}{R}}\\right)^{2}}}"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the effective acceleration into the time period formula.",
+        "expression": "T=2\\pi{\\sqrt{\\frac{l}{a_{\\mathrm{eff}}}}}"
+      }
+    ],
+    "final_answer": "Therefore, the time period of the pendulum is T=2\\pi{\\sqrt{\\frac{l}{g^{2}+\\frac{\\nu^{4}}{R^{2}}}}}.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of centripetal acceleration and its effect on the time period of oscillation.",
+    "topics_tags": [
+      "Simple Pendulum",
+      "Centripetal Acceleration",
+      "Time Period"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q14.18",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 14,
+    "chapter_name": "Oscillations",
+    "question_type": "conceptual",
+    "question_text": "One end of a U-tube containing mercury is connected to a suction pump and the other end to atmosphere. A small pressure difference is maintained between the two columns. Show that, when the suction pump is removed, the column of mercury in the U-tube executes simple harmonic motion.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing U-tube with mercury columns and suction pump setup.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754566/ncert/physics/14/img_28_0.png",
+      "latex_extracted": "T=2\\pi{\\sqrt{\\frac{A h\\rho}{A\\rho_{i}g}}}=2\\pi{\\sqrt{\\frac{h\\rho}{\\rho_{i}g}}}",
+      "source_page_number": 28,
+      "source_image_index": 0,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The mercury column executes simple harmonic motion with time period T = 2π√(hρ/(ρ_i g)).",
+    "answer_latex": "T=2\\pi{\\sqrt{\\frac{h\\rho}{\\rho_{i}g}}}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the restoring force acting on the mercury column.",
+        "expression": "F = -2Aρgh"
+      },
+      {
+        "step_number": 2,
+        "description": "Relate the restoring force to the displacement to show it follows SHM.",
+        "expression": "F = -k * h"
+      }
+    ],
+    "final_answer": "Thus, the mercury column executes simple harmonic motion.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of SHM and derivation of the time period.",
+    "topics_tags": [
+      "Simple Harmonic Motion",
+      "U-tube",
+      "Mercury Column"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing U-tube with mercury columns and suction pump setup.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754566/ncert/physics/14/img_28_0.png",
+        "latex_extracted": "T=2\\pi{\\sqrt{\\frac{A h\\rho}{A\\rho_{i}g}}}=2\\pi{\\sqrt{\\frac{h\\rho}{\\rho_{i}g}}}",
+        "source_page_number": 28,
+        "source_image_index": 0,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q14.19",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 14,
+    "chapter_name": "Oscillations",
+    "question_type": "conceptual",
+    "question_text": "An air chamber of volume V has a neck area of cross section a into which a ball of mass m just fits and can move up and down without any friction. Show that when the ball is pressed down a little and released, it executes SHM. Obtain an expression for the time period of oscillations assuming pressure-volume variations of air to be isothermal.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The ball executes simple harmonic motion with a time period that can be derived from the pressure-volume relationship.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Determine the change in volume and pressure when the ball is depressed.",
+        "expression": "ΔV = ax"
+      },
+      {
+        "step_number": 2,
+        "description": "Relate the restoring force to the displacement to show it follows SHM.",
+        "expression": "F = -kx"
+      }
+    ],
+    "final_answer": "Thus, the ball executes SHM with a specific time period.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing air chamber with a ball that can move up and down.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754569/ncert/physics/14/img_29_0.jpg",
+      "latex_extracted": "\\left|\\begin{array}{l l}{\\mathbf{_{m}}\\left|\\mathbf{\\frac{v}{\\exp}}\\right|_{\\frac{\\mathrm{d-1}}{\\mathrm{d.t}}}}\\\\ {\\left|\\begin{array}{l l}{\\quad\\mathbf{}\\\\ {\\quad\\mathrm{A}\\tau}\\quad}\\end{array}\\right|}\\right|",
+      "source_page_number": 29,
+      "source_image_index": 0,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of SHM and derivation of time period from pressure-volume relationships.",
+    "topics_tags": [
+      "Simple Harmonic Motion",
+      "Air Chamber",
+      "Pressure-Volume"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing air chamber with a ball that can move up and down.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754569/ncert/physics/14/img_29_0.jpg",
+        "latex_extracted": "\\left|\\begin{array}{l l}{\\mathbf{_{m}}\\left|\\mathbf{\\frac{v}{\\exp}}\\right|_{\\frac{\\mathrm{d-1}}{\\mathrm{d.t}}}}\\\\ {\\left|\\begin{array}{l l}{\\quad\\mathbf{}\\\\ {\\quad\\mathrm{A}\\tau}\\quad}\\end{array}\\right|}\\right|",
+        "source_page_number": 29,
+        "source_image_index": 0,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q14.20",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 14,
+    "chapter_name": "oscillations",
+    "question_type": "mcq",
+    "question_text": "You are riding in an automobile of mass 3000 kg. Assuming that you are examining the oscillation characteristics of its suspension system. The suspension sags 15 cm when the entire automobile is placed on it. Also, the amplitude of oscillation decreases by 50% during one complete oscillation. Estimate the values of (a) the spring constant k and (b) the damping constant b for the spring and shock absorber system of one wheel, assuming that each wheel supports 750 kg.",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "the spring constant k and"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "the damping constant b for the spring and shock absorber system of one wheel, assuming that each wheel supports 750 kg."
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Estimate the spring constant k.",
+        "part_latex": null,
+        "answer_text": "The spring constant, k = 5 × 10^4 N/m.",
+        "answer_latex": "k = 5 \\times 10^{4} \\text{ N/m}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the equation for restoring force: F = -4kx = mg.",
+            "expression": "F = -4kx = mg"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute values to find k.",
+            "expression": "k = \\frac{mg}{4x} = \\frac{3000 \\times 9.81}{4 \\times 0.15}"
+          }
+        ],
+        "final_answer": "Therefore, the spring constant k is 5 × 10^4 N/m.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Estimate the damping constant b.",
+        "part_latex": null,
+        "answer_text": "The damping constant b = 1351.58 kg/s.",
+        "answer_latex": "b = 1351.58 \\text{ kg/s}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the equation for displacement considering the amplitude decreases by 50%.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the damping constant using the given amplitude decrease.",
+            "expression": "b = \\frac{m}{T} = \\frac{750}{0.7691}"
+          }
+        ],
+        "final_answer": "Therefore, the damping constant b is 1351.58 kg/s.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of oscillation principles and application of formulas.",
+    "topics_tags": [
+      "Oscillation",
+      "Spring Constant",
+      "Damping"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q14.21",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 14,
+    "chapter_name": "oscillations",
+    "question_type": "numerical",
+    "question_text": "A circular disc of mass 10 kg is suspended by a wire attached to its centre. The wire is twisted by rotating the disc and released. The period of torsional oscillations is found to be 1.5 s. The radius of the disc is 15 cm. Determine the torsional spring constant of the wire. (Torsional spring constant α is defined by the relation J = –α θ, where J is the restoring couple and θ the angle of twist).",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the setup of a circular disc suspended by a wire.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754581/ncert/physics/14/img_34_0.png",
+      "latex_extracted": "\\begin{array}{l}{{\\frac{1}{2T}M^{i}\\omega^{i}\\left\\{\\frac{1+\\cos^{2}\\omega t}{2}\\right\\}}}\\\\ {{\\frac{1}{4T}M^{i}\\omega^{i}\\omega^{i}\\left[t+\\frac{\\sin2\\omega t}{2\\omega}\\right]_{n}^{r}}}\\\\ {{\\frac{1}{4T}M^{i}\\omega^{i}\\omega^{i}\\right.}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The torsional spring constant of the wire is 1.972 Nm rad–1.",
+    "answer_latex": "α = 1.972 \\text{ Nm rad}^{-1}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the moment of inertia of the disc using the formula I = \\frac{1}{2} m r^2.",
+        "expression": "I = \\frac{1}{2} \\times 10 \\times (0.15)^2 = 0.1125 \\text{ kg m}^2"
+      },
+      {
+        "step_number": 2,
+        "description": "Use the formula for the time period of torsional oscillations T = 2\\pi \\sqrt{\\frac{I}{α}} to find α.",
+        "expression": "T = 1.5 \\text{ s} \\Rightarrow α = \\frac{4\\pi^2 I}{T^2} = \\frac{4\\times{\\bigl(}\\pi{\\bigr)}^{2}\\times0.1125}{\\bigl(}1.5{\\bigr)}^{2} = 1.972 \\text{ Nm rad}^{-1}"
+      }
+    ],
+    "final_answer": "Hence, the torsional spring constant of the wire is 1.972 Nm rad–1.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves calculation of moment of inertia and application of the torsional oscillation formula.",
+    "topics_tags": [
+      "Torsional Oscillations",
+      "Moment of Inertia",
+      "Torsional Spring Constant"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the setup of a circular disc suspended by a wire.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754581/ncert/physics/14/img_34_0.png",
+        "latex_extracted": "\\begin{array}{l}{{\\frac{1}{2T}M^{i}\\omega^{i}\\left\\{\\frac{1+\\cos^{2}\\omega t}{2}\\right\\}}}\\\\ {{\\frac{1}{4T}M^{i}\\omega^{i}\\omega^{i}\\left[t+\\frac{\\sin2\\omega t}{2\\omega}\\right]_{n}^{r}}}\\\\ {{\\frac{1}{4T}M^{i}\\omega^{i}\\omega^{i}\\right.}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q14.22",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 14,
+    "chapter_name": "Oscillations",
+    "question_type": "conceptual",
+    "question_text": "A mass attached to a spring is free to oscillate, with angular velocity ω, in a horizontal plane without friction or damping. It is pulled to a distance x and pushed towards the centre with a velocity v at time t = 0. Determine the amplitude of the resulting oscillations in terms of the parameters ω, x and v. [Hint: Start with the equation x = A cos(ωt + θ) and note that the initial velocity is negative.]",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of acceleration in oscillations.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754610/ncert/physics/14/img_37_0.png",
+      "latex_extracted": "=-\\left({\\frac{2\\pi}{T}}\\right)^{2}x",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of oscillation principles and application of the displacement equation.",
+    "topics_tags": [
+      "Oscillation",
+      "Amplitude",
+      "Angular Velocity"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of acceleration in oscillations.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754610/ncert/physics/14/img_37_0.png",
+        "latex_extracted": "=-\\left({\\frac{2\\pi}{T}}\\right)^{2}x",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q14.23",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 14,
+    "chapter_name": "Oscillations",
+    "question_type": "numerical",
+    "question_text": "When the displacement of the body is 0, its acceleration is 0 and velocity is 0.5 π m/s.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of velocity in oscillations.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754615/ncert/physics/14/img_38_0.png",
+      "latex_extracted": "\\begin{array}{c}{{=\\frac{2\\pi}{0.2}\\sqrt{\\left(0.05\\right)^{2}-0}}}\\\\ {{=0.5\\pi\\ {\\mathrm{m/s}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The velocity of the body when the displacement is zero is 0.5 π m/s.",
+    "answer_latex": "v = 0.5\\pi \\text{ m/s}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the conditions when displacement is zero.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the velocity equation to find the velocity at this displacement.",
+        "expression": "v = 0.5\\pi"
+      }
+    ],
+    "final_answer": "Thus, the velocity is 0.5 π m/s.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic application of oscillation principles.",
+    "topics_tags": [
+      "Oscillation",
+      "Velocity",
+      "Displacement"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of velocity in oscillations.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754615/ncert/physics/14/img_38_0.png",
+        "latex_extracted": "\\begin{array}{c}{{=\\frac{2\\pi}{0.2}\\sqrt{\\left(0.05\\right)^{2}-0}}}\\\\ {{=0.5\\pi\\ {\\mathrm{m/s}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q14.24",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 14,
+    "chapter_name": "Oscillations",
+    "question_type": "derivation",
+    "question_text": "Squaring and adding equations (i) and (ii), we get: Hence, the amplitude of the resulting oscillation is.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The amplitude of the resulting oscillation is given by A = \\sqrt{x_{0}^{2}+\\left({\\frac{\\nu_{0}}{\\omega}}\\right)^{2}}.",
+    "answer_latex": "A = \\sqrt{x_{0}^{2}+\\left({\\frac{\\nu_{0}}{\\omega}}\\right)^{2}}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Square both sides of the equations to eliminate the square root.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Add the squared equations to find the relationship for amplitude.",
+        "expression": "A^{2} = x_{0}^{2}+\\left({\\frac{\\nu_{0}}{\\omega}}\\right)^{2}"
+      }
+    ],
+    "final_answer": "Therefore, the amplitude is A = \\sqrt{x_{0}^{2}+\\left({\\frac{\\nu_{0}}{\\omega}}\\right)^{2}}.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of the relationship between amplitude and other parameters.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754616/ncert/physics/14/img_39_0.png",
+      "latex_extracted": "\\begin{array}{r}{A^{2}\\left(\\cos^{2}\\theta+\\sin^{2}\\theta\\right)=x_{0}^{2}+\\left({\\frac{\\nu_{0}^{2}}{\\omega}}\\right)}\\\\ {\\vdots}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Involves multi-step derivation and understanding of oscillation equations.",
+    "topics_tags": [
+      "Amplitude",
+      "Oscillation",
+      "Derivation"
+    ],
+    "confidence_score": 0.88,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the relationship between amplitude and other parameters.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754616/ncert/physics/14/img_39_0.png",
+        "latex_extracted": "\\begin{array}{r}{A^{2}\\left(\\cos^{2}\\theta+\\sin^{2}\\theta\\right)=x_{0}^{2}+\\left({\\frac{\\nu_{0}^{2}}{\\omega}}\\right)}\\\\ {\\vdots}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  }
+]

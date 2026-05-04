@@ -1,0 +1,780 @@
+[
+  {
+    "question_id": "Q8.1",
+    "class": 11,
+    "subject": "accountancy_2",
+    "chapter_number": 8,
+    "chapter_name": "accounting system using database management",
+    "question_type": "conceptual",
+    "question_text": "State what you understand by accounting reports.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The accounting reports are the physical form of accounting information. They act as a summary of all the relevant facts and information related to a particular event. The accounting reports are basically the end (or final) reports depicting the performance of an organisation during an accounting period. They show the information that is acquired from processing and transforming the data in an organised manner. The accounting reports display the information content in such a manner that the users can understand them without any ambiguity. These reports form the basis of the decision making process as they minimise the risks associated with uncertainty. Ledgers, Trial Balance, Cash/Bank Book, Financial Statements etc. are some of the examples of accounting reports.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, accounting reports are essential for summarizing and presenting financial information clearly.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of accounting concepts and their applications.",
+    "topics_tags": [
+      "Accounting Reports",
+      "Financial Statements",
+      "Decision Making"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.2",
+    "class": 11,
+    "subject": "accountancy_2",
+    "chapter_number": 8,
+    "chapter_name": "accounting system using database management",
+    "question_type": "conceptual",
+    "question_text": "Discuss the SQL view method of creating a query?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The following clauses are used for generating information queries using SQL statements. 1. SELECT: This clause specifies the fields to display data or information. For example SELECT Code, Name, Amount. This statement indicates that the fields Code, Name and Amount are to be displayed by the query statement. 2. FROM: This clause specifies the source of data in terms of tables or queries or a combination of both. By specifying the JOIN clause, two tables are joined. Join clause can be of following three types. a) INNER- This Join clause displays only those records that are exactly matching between two data sources. For example, FROM Accounts INNER JOIN AccountType ON (CatId = Type). Here, only those records of Accounts and AccountType table are a part of source of query data, which match exactly on CatId = Type. b) LEFT- This JOIN clause displays all the records in the primary table in a relationship irrespective of whether there are matching records in the related table or not. For example, FROM Accounts LEFT JOIN AccountType ON (CatId = Type). Here, all the records of Accounts along with the matching records form a part of the source of the query data. c) RIGHT- This JOIN clause displays all the records of related table in a relationship irrespective of whether there are matching records in the primary table or not. For example, FROM Accounts RIGHT JOIN AccountType ON (CatId = Type). Here, all records of the AccountType along with the matching records of the Accounts table form a part of the source of query data. 3. WHERE: This clause provides the condition to restrict the records to be returned by the query. The result records of the query must satisfy the condition which is specified after the WHERE clause. 4. ORDER BY- This clause specifies the order in which the resultant records of the query are required to appear. The basis on which this ordering is done is determined by the list of the fields specified after the ORDER BY clause. For example, ORDER BY Type, Code. This statement implies that the resultant record set is ordered by the 'Type' field of Accounts and within Type, by 'Code' field of Accounts. 5. GROUP BY- This clause enables the grouping of records for creating summary query. The fields specified after the GROUP BY clause form the basis of grouping for which the summary results are obtained. For example, SELECT Debit, Sum (Amount) FROM Vouchers GROUP BY Debit. Here, the GROUP BY clause uses debit account codes for calculating the sum total of the amount of the vouchers.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "The answer outlines the SQL clauses used for creating queries and their functions.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of SQL syntax and multi-step reasoning.",
+    "topics_tags": [
+      "SQL",
+      "Query Creation",
+      "Database Management"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.3",
+    "class": 11,
+    "subject": "accountancy_2",
+    "chapter_number": 8,
+    "chapter_name": "accounting system using database management",
+    "question_type": "conceptual",
+    "question_text": "With the help of an example, briefly state the meaning of parameter queries.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "A Parameter Query is a query where for selecting a set of records, the user is asked to enter parameters or criteria through an input box. For example, the same set of queries is required for different accounts code, while extracting the information to prepare ledger.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, parameter queries allow users to input specific criteria for data retrieval.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of database queries and their applications.",
+    "topics_tags": [
+      "Parameter Queries",
+      "Database Management",
+      "SQL"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.4",
+    "class": 11,
+    "subject": "accountancy_2",
+    "chapter_number": 8,
+    "chapter_name": "accounting system using database management",
+    "question_type": "conceptual",
+    "question_text": "Briefly state the purpose of functions in SQL environment.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "In the access environment, a function is named and followed by parenthesis ( ). The function takes some inputs as its argument and in turn sends a value. Functions are used to perform calculations based on the values in a field of a table or query.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, functions in SQL are essential for data manipulation and calculations.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic understanding of SQL functions and their usage.",
+    "topics_tags": [
+      "SQL Functions",
+      "Database Management",
+      "Data Manipulation"
+    ],
+    "confidence_score": 0.94,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.5",
+    "class": 11,
+    "subject": "accountancy_2",
+    "chapter_number": 8,
+    "chapter_name": "accounting system using database management",
+    "question_type": "numerical",
+    "question_text": "Briefly explain in steps the method of creating a query, using wizard.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The following are the steps involved in creating a query using the wizard method: 1. In the Database window, select 'Queries' from Object list. 2. Double click at 'Create Query' using wizard. 3. Select a field name from a table or existing query. 4. Click 'Next' and specify the name of the query being created and click 'Finish'.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Select 'Queries' from the Object list in the Database window.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Double click 'Create Query' using wizard.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Select a field name from a table or existing query.",
+        "expression": null
+      },
+      {
+        "step_number": 4,
+        "description": "Click 'Next' and specify the name of the query, then click 'Finish'.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, following these steps allows users to create a query efficiently using the wizard.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps and understanding of the software interface.",
+    "topics_tags": [
+      "Query Creation",
+      "Database Management",
+      "Access Wizard"
+    ],
+    "confidence_score": 0.91,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.6",
+    "class": 11,
+    "subject": "accountancy_2",
+    "chapter_number": 8,
+    "chapter_name": "accounting system using database management",
+    "question_type": "conceptual",
+    "question_text": "List the structure of a good report created in Access.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "A good report designed in Access must have the following sections: 1. Report Header, 2. Page Header, 3. Group Header, 4. Details, 5. Group Footer, 6. Page Footer, 7. Report Footer.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, these sections ensure that the report is well-structured and informative.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires knowledge of report design principles.",
+    "topics_tags": [
+      "Report Structure",
+      "Access Reports",
+      "Database Management"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.7",
+    "class": 11,
+    "subject": "accountancy_2",
+    "chapter_number": 8,
+    "chapter_name": "accounting system using database management",
+    "question_type": "conceptual",
+    "question_text": "List the ways to refine the design of a report.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "A report design can be refined using the following ways: 1. Adding Dates and Page Numbers, 2. Adding and Deleting Report Controls, 3. Conditionally Formatting the Report Controls, 4. Grouping Levels and Sorting Order.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, these methods enhance the clarity and usability of the report.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves understanding design principles and user needs.",
+    "topics_tags": [
+      "Report Design",
+      "Refinement Techniques",
+      "Database Management"
+    ],
+    "confidence_score": 0.94,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.8",
+    "class": 11,
+    "subject": "accountancy_2",
+    "chapter_number": 8,
+    "chapter_name": "accounting system using database management",
+    "question_type": "conceptual",
+    "question_text": "Briefly explain the purpose of grouping and sorting of the data as a means to refine a report.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The purpose of grouping is to arrange the information content of a report into various categories, while sorting organizes the information content into numerical or alphabetical order. Both methods make the report more meaningful and useful to the users.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, grouping and sorting enhance the clarity and accessibility of report data.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of data organization principles.",
+    "topics_tags": [
+      "Grouping",
+      "Sorting",
+      "Report Refinement"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.9",
+    "class": 11,
+    "subject": "accountancy_2",
+    "chapter_number": 8,
+    "chapter_name": "accounting system using database management",
+    "question_type": "conceptual",
+    "question_text": "What do you understand by saving a report as snapshot?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Saving a report as a snapshot file enables the users to view it without the help of access. When a report is saved as a snapshot, a high quality picture image of each page of the report is created with Adobe Acrobat Software. With this the users can view the report and print any of its pages. However; the users cannot modify the contents of the reports in a snapshot file.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, a snapshot allows users to view and print reports without modifying them.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of report formats and their functionalities.",
+    "topics_tags": [
+      "Report Generation",
+      "Database Management",
+      "Snapshot"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.10",
+    "class": 11,
+    "subject": "accountancy_2",
+    "chapter_number": 8,
+    "chapter_name": "accounting system using database management",
+    "question_type": "multipart",
+    "question_text": "State the procedure for creating ledger in MS Access.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "To produce a ledger, it is essential to retrieve a set of processed data records providing information on Code (Account Number), Name of Accounts, Particulars, Date, Debit Balance and Credit Balance with reference to each particular account.",
+        "part_latex": null,
+        "answer_text": null,
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Retrieve processed data records for ledger creation.",
+            "expression": null
+          }
+        ],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "In order to get all this information, it is necessary to make certain SQL statements and save them as Query. Suppose, we have saved the last query as 'query L'.",
+        "part_latex": null,
+        "answer_text": null,
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 2,
+            "description": "Create SQL statements and save them as Query.",
+            "expression": null
+          }
+        ],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "In Access, a ledger account can be created by taking the following steps in the design view method: 1. Select 'Reports' from the 'Object' list in the Database window. 2. Click 'New' button so that 'New Report' window is displayed. 3. Select 'Design View' and 'Query L' from the combo control. 4. Click 'OK'.",
+        "part_latex": null,
+        "answer_text": null,
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 3,
+            "description": "Select 'Reports' and create a new report in Design View.",
+            "expression": null
+          }
+        ],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps and understanding of MS Access functionalities.",
+    "topics_tags": [
+      "Ledger Creation",
+      "MS Access",
+      "Database Queries"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.13",
+    "class": 11,
+    "subject": "accountancy_2",
+    "chapter_number": 8,
+    "chapter_name": "accounting system using database management",
+    "question_type": "conceptual",
+    "question_text": "Describe the series of SQL statements to produce trial balance data base design for Model-II.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "In the following set of SQL statement, the accounts have been categorised within the Trial Balance according to the Account Type as: Expenses, Revenues, Assets and Liabilities. The below mentioned series of SQL Statement retrieve the record set for producing Trial Balance when database design for Model-II is used.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Ascertain the total amount by which the accounts have been debited using SQL statements.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Ascertain the total amount by which the accounts have been credited using SQL statements.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Compute a collective record set of accounts with their debit and credit totals using a union query.",
+        "expression": null
+      },
+      {
+        "step_number": 4,
+        "description": "Ascertain the net amount with which an account has been debited or credited.",
+        "expression": null
+      },
+      {
+        "step_number": 5,
+        "description": "Form the record set which consists of Account Code, Name of Account, Debit Amount and Credit Amount.",
+        "expression": null
+      }
+    ],
+    "final_answer": "This series of SQL statements provides a comprehensive method to generate a trial balance for Model-II.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of SQL and the ability to apply it to produce a trial balance.",
+    "topics_tags": [
+      "SQL Statements",
+      "Trial Balance",
+      "Database Management"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.14",
+    "class": 11,
+    "subject": "accountancy_2",
+    "chapter_number": 8,
+    "chapter_name": "accounting system using database management",
+    "question_type": "conceptual",
+    "question_text": "Using Model-I discuss the series of SQL statements to produce a trial balance up to a particular date.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The below mentioned series of SQL Statement retrieve the record set for producing Trial Balance when database design for Model-I is used.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Ascertain the total amount by which the accounts have been debited using SQL statements.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Ascertain the total amount by which the accounts have been credited using SQL statements.",
+        "expression": null
+      }
+    ],
+    "final_answer": "This series of SQL statements provides a method to generate a trial balance for Model-I up to a specific date.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of SQL and the ability to apply it to produce a trial balance.",
+    "topics_tags": [
+      "SQL Statements",
+      "Trial Balance",
+      "Database Management"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.15",
+    "class": 11,
+    "subject": "accountancy_2",
+    "chapter_number": 8,
+    "chapter_name": "accounting system using database management",
+    "question_type": "conceptual",
+    "question_text": "Explain how to generate a collective record set of accounts with their debit and credit totals using SQL.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "A collective record set of accounts with their debit and credit totals can be generated by executing a union query between the queries that calculate total debits and total credits. The SQL statement for this is: SELECT * FROM Query 01 UNION SELECT * FROM Query 02.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Execute the first query to get total debits.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Execute the second query to get total credits.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Combine the results of both queries using a UNION.",
+        "expression": "SELECT * FROM Query 01 UNION SELECT * FROM Query 02"
+      }
+    ],
+    "final_answer": "Thus, the collective record set is generated by combining the results of the debit and credit queries.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of SQL queries and union operations.",
+    "topics_tags": [
+      "SQL",
+      "Union Query",
+      "Accounting Records"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  }
+]

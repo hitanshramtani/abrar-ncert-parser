@@ -1,0 +1,1171 @@
+[
+  {
+    "question_id": "Q14.1",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 14,
+    "chapter_name": "semiconductor electronics",
+    "question_type": "mcq",
+    "question_text": "In an n-type silicon, which of the following statement is true: Electrons are majority carriers and trivalent atoms are the dopants. Electrons are minority carriers and pentavalent atoms are the dopants. Holes are minority carriers and pentavalent atoms are the dopants. Holes are majority carriers and trivalent atoms are the dopants.",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(1)",
+        "option_text": "Electrons are majority carriers and trivalent atoms are the dopants."
+      },
+      {
+        "option_label": "(2)",
+        "option_text": "Electrons are minority carriers and pentavalent atoms are the dopants."
+      },
+      {
+        "option_label": "(3)",
+        "option_text": "Holes are minority carriers and pentavalent atoms are the dopants."
+      },
+      {
+        "option_label": "(4)",
+        "option_text": "Holes are majority carriers and trivalent atoms are the dopants."
+      }
+    ],
+    "correct_option": "(3)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The correct statement is (c). In an n-type silicon, the electrons are the majority carriers, while the holes are the minority carriers. An n-type semiconductor is obtained when pentavalent atoms, such as phosphorus, are doped in silicon atoms.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the correct statement is (3).",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of definitions related to n-type semiconductors.",
+    "topics_tags": [
+      "n-type Semiconductor",
+      "Doping",
+      "Charge Carriers"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q14.2",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 14,
+    "chapter_name": "semiconductor electronics",
+    "question_type": "mcq",
+    "question_text": "Which of the statements given in Exercise 14.1 is true for p-type semiconductors.",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(1)",
+        "option_text": "Electrons are majority carriers and trivalent atoms are the dopants."
+      },
+      {
+        "option_label": "(2)",
+        "option_text": "Electrons are minority carriers and pentavalent atoms are the dopants."
+      },
+      {
+        "option_label": "(3)",
+        "option_text": "Holes are minority carriers and pentavalent atoms are the dopants."
+      },
+      {
+        "option_label": "(4)",
+        "option_text": "Holes are majority carriers and trivalent atoms are the dopants."
+      }
+    ],
+    "correct_option": "(4)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The correct statement is (d). In a p-type semiconductor, the holes are the majority carriers, while the electrons are the minority carriers. A p-type semiconductor is obtained when trivalent atoms, such as aluminium, are doped in silicon atoms.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the correct statement is (4).",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of definitions related to p-type semiconductors.",
+    "topics_tags": [
+      "p-type Semiconductor",
+      "Doping",
+      "Charge Carriers"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q14.3",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 14,
+    "chapter_name": "semiconductor electronics",
+    "question_type": "mcq",
+    "question_text": "Carbon, silicon and germanium have four valence electrons each. These are characterised by valence and conduction bands separated by energy band gap respectively equal to (E_gC), (E_gSi) and (E_gGe). Which of the following statements is true?",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(1)",
+        "option_text": "(E_gC) < (E_gSi) < (E_gGe)"
+      },
+      {
+        "option_label": "(2)",
+        "option_text": "(E_gSi) < (E_gGe) < (E_gC)"
+      },
+      {
+        "option_label": "(3)",
+        "option_text": "(E_gC) > (E_gGe) > (E_gSi)"
+      },
+      {
+        "option_label": "(4)",
+        "option_text": "(E_gC) = (E_gSi) = (E_gGe)"
+      }
+    ],
+    "correct_option": "(3)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The correct statement is (c). Of the three given elements, the energy band gap of carbon is the maximum and that of germanium is the least. The energy band gap of these elements are related as: (E_gC) > (E_gSi) > (E_gGe).",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the correct statement is (3).",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of energy band gaps in semiconductors.",
+    "topics_tags": [
+      "Energy Band Gap",
+      "Semiconductors",
+      "Carbon",
+      "Silicon",
+      "Germanium"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q14.4",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 14,
+    "chapter_name": "semiconductor electronics",
+    "question_type": "mcq",
+    "question_text": "In an unbiased p-n junction, holes diffuse from the p-region to n-region because: free electrons in the n-region attract them. they move across the junction by the potential difference. hole concentration in p-region is more as compared to n-region. All the above.",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(1)",
+        "option_text": "free electrons in the n-region attract them."
+      },
+      {
+        "option_label": "(2)",
+        "option_text": "they move across the junction by the potential difference."
+      },
+      {
+        "option_label": "(3)",
+        "option_text": "hole concentration in p-region is more as compared to n-region."
+      },
+      {
+        "option_label": "(4)",
+        "option_text": "All the above."
+      }
+    ],
+    "correct_option": "(3)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The correct statement is (c).",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the correct statement is (3).",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of concepts related to p-n junctions.",
+    "topics_tags": [
+      "p-n Junction",
+      "Holes",
+      "Charge Carriers"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q14.5",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 14,
+    "chapter_name": "semiconductor electronics",
+    "question_type": "mcq",
+    "question_text": "When a forward bias is applied to a p-n junction, it: raises the potential barrier. reduces the majority carrier current to zero. lowers the potential barrier. None of the above.",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(1)",
+        "option_text": "raises the potential barrier."
+      },
+      {
+        "option_label": "(2)",
+        "option_text": "reduces the majority carrier current to zero."
+      },
+      {
+        "option_label": "(3)",
+        "option_text": "lowers the potential barrier."
+      },
+      {
+        "option_label": "(4)",
+        "option_text": "None of the above."
+      }
+    ],
+    "correct_option": "(3)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The correct statement is (c). When a forward bias is applied to a p-n junction, it lowers the value of potential barrier. In the case of a forward bias, the potential barrier opposes the applied voltage. Hence, the potential barrier across the junction gets reduced.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the correct statement is (3).",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of the effects of forward bias on p-n junctions.",
+    "topics_tags": [
+      "p-n Junction",
+      "Forward Bias",
+      "Potential Barrier"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q14.6",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 14,
+    "chapter_name": "semiconductor electronics",
+    "question_type": "mcq",
+    "question_text": "For transistor action, which of the following statements are correct: Base, emitter and collector regions should have similar size and doping concentrations. The base region must be very thin and lightly doped. The emitter junction is forward biased and collector junction is reverse biased. Both the emitter junction as well as the collector junction are forward biased.",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(1)",
+        "option_text": "Base, emitter and collector regions should have similar size and doping concentrations."
+      },
+      {
+        "option_label": "(2)",
+        "option_text": "The base region must be very thin and lightly doped."
+      },
+      {
+        "option_label": "(3)",
+        "option_text": "The emitter junction is forward biased and collector junction is reverse biased."
+      },
+      {
+        "option_label": "(4)",
+        "option_text": "Both the emitter junction as well as the collector junction are forward biased."
+      }
+    ],
+    "correct_option": "(2)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The correct statement is (b).",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the correct statement is (2).",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of transistor operation and structure.",
+    "topics_tags": [
+      "Transistor Action",
+      "Doping",
+      "Junction Biasing"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q14.7",
+    "class": 12,
+    "subject": "physics",
+    "chapter_number": 14,
+    "chapter_name": "semiconductor electronics",
+    "question_type": "mcq",
+    "question_text": "For a transistor amplifier, the voltage gain",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(a)",
+        "option_text": "remains constant for all frequencies."
+      },
+      {
+        "option_label": "(b)",
+        "option_text": "is high at high and low frequencies and constant in the middle frequency range."
+      },
+      {
+        "option_label": "(c)",
+        "option_text": "is low at high and low frequencies and constant at mid frequencies."
+      },
+      {
+        "option_label": "(d)",
+        "option_text": "None of the above."
+      }
+    ],
+    "correct_option": "(c)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The voltage gain of a transistor amplifier is constant at mid frequency range only. It is low at high and low frequencies.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the correct statement is (c).",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of transistor amplifier behavior across frequencies.",
+    "topics_tags": [
+      "Transistor Amplifier",
+      "Voltage Gain",
+      "Frequency Response"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q14.8",
+    "class": 12,
+    "subject": "physics",
+    "chapter_number": 14,
+    "chapter_name": "semiconductor electronics",
+    "question_type": "numerical",
+    "question_text": "In half-wave rectification, what is the output frequency if the input frequency is 50 Hz? What is the output frequency of a full-wave rectifier for the same input frequency?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "For a half-wave rectifier, the output frequency is equal to the input frequency, which is 50 Hz. For a full-wave rectifier, the output frequency is twice the input frequency, which is 100 Hz.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the output frequency for half-wave rectification is 50 Hz and for full-wave rectification is 100 Hz.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct application of the definition of rectification frequencies.",
+    "topics_tags": [
+      "Half-Wave Rectification",
+      "Full-Wave Rectification",
+      "Output Frequency"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q14.9",
+    "class": 12,
+    "subject": "physics",
+    "chapter_number": 14,
+    "chapter_name": "semiconductor electronics",
+    "question_type": "numerical",
+    "question_text": "For a CE-transistor amplifier, the audio signal voltage across the collector resistance of 2 kΩ is 2 V. Suppose the current amplification factor of the transistor is 100, find the input signal voltage and base current, if the base resistance is 1 kΩ.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The input signal voltage of the amplifier is 0.01 V. The base current of the amplifier is 10 μA.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the base current using the relation I_g = V/R.",
+        "expression": "\\frac{0.01}{1000}"
+      }
+    ],
+    "final_answer": "Therefore, the base current of the amplifier is 10 μA.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical relation for base resistance calculation.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777794216/ncert/physics/14/img_6_0.png",
+      "latex_extracted": "\\begin{array}{r l}{{R_{8}={\\frac{V_{\\mathrm{i}}}{I_{\\mathrm{g}}}}}}\\\\ {{\\qquad\\qquad}}&{{}}\\\\ {{={\\frac{0.01}{1000}}=10\\times10{\\mathrm{ifA}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations and understanding of transistor parameters.",
+    "topics_tags": [
+      "Transistor Amplifier",
+      "Input Signal Voltage",
+      "Base Current"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical relation for base resistance calculation.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777794216/ncert/physics/14/img_6_0.png",
+        "latex_extracted": "\\begin{array}{r l}{{R_{8}={\\frac{V_{\\mathrm{i}}}{I_{\\mathrm{g}}}}}}\\\\ {{\\qquad\\qquad}}&{{}}\\\\ {{={\\frac{0.01}{1000}}=10\\times10{\\mathrm{ifA}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q14.10",
+    "class": 12,
+    "subject": "physics",
+    "chapter_number": 14,
+    "chapter_name": "semiconductor electronics",
+    "question_type": "numerical",
+    "question_text": "Two amplifiers are connected one after the other in series (cascaded). The first amplifier has a voltage gain of 10 and the second has a voltage gain of 20. If the input signal is 0.01 volt, calculate the output AC signal.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The total voltage gain of a two-stage cascaded amplifier is given by the product of voltage gains of both stages, which is 200. Therefore, the output AC signal voltage is 2 V.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the total voltage gain by multiplying the gains of both amplifiers.",
+        "expression": "10 \\times 20"
+      }
+    ],
+    "final_answer": "Therefore, the output AC signal voltage is 2 V.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of cascaded amplifier gain calculations.",
+    "topics_tags": [
+      "Cascaded Amplifiers",
+      "Voltage Gain",
+      "Output Signal"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q14.11",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 14,
+    "chapter_name": "semiconductor electronics",
+    "question_type": "conceptual",
+    "question_text": "A p-n photodiode is fabricated from a semiconductor with band gap of 2.8 eV. Can it detect a wavelength of 6000 nm?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The energy of a signal of wavelength 6000 nm is 0.207 eV, which is less than 2.8 eV, the energy band gap of a photodiode. Hence, the photodiode cannot detect the signal.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Convert wavelength to energy using the formula E = \\frac{hc}{\\lambda}.",
+        "expression": "E = \\frac{(6.626 \\times 10^{-34})(3 \\times 10^{8})}{6000 \\times 10^{-9}}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the energy.",
+        "expression": "E = 3.313 \\times 10^{-20} J = 0.207 eV"
+      }
+    ],
+    "final_answer": "Therefore, the photodiode cannot detect the signal.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of energy-wavelength relationship and comparison with band gap.",
+    "topics_tags": [
+      "Photodiode",
+      "Band Gap",
+      "Wavelength Detection"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q14.12",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 14,
+    "chapter_name": "semiconductor electronics",
+    "question_type": "numerical",
+    "question_text": "The number of silicon atoms per m³ is 5 × 10²⁸. This is doped simultaneously with 5 × 10²² atoms per m³ of Arsenic and 5 × 10²⁰ atoms per m³ of Indium. Calculate the number of electrons and holes. Given that n = 1.5 × 10¹⁶ m⁻³. Is the material n-type or p-type?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The number of electrons is approximately 4.99 × 10²² and the number of holes is about 4.51 × 10⁹. Since the number of electrons is more than the number of holes, the material is an n-type semiconductor.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the number of electrons by subtracting thermally generated electrons from the number of doped electrons.",
+        "expression": "n = 5 \\times 10^{22} - 1.5 \\times 10^{16} \\approx 4.99 \\times 10^{22}"
+      },
+      {
+        "step_number": 2,
+        "description": "Determine the number of holes using the relation n * p = n_i^2.",
+        "expression": "p = \\frac{n_i^2}{n} \\text{ (where } n_i = 1.5 \\times 10^{16})"
+      }
+    ],
+    "final_answer": "Therefore, the material is an n-type semiconductor.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations and understanding of semiconductor doping.",
+    "topics_tags": [
+      "Doping",
+      "n-type Semiconductor",
+      "Electrons and Holes"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q14.13",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 14,
+    "chapter_name": "semiconductor electronics",
+    "question_type": "numerical",
+    "question_text": "In an intrinsic semiconductor, the energy gap E is 1.2 eV. Its hole mobility is much smaller than electron mobility and independent of temperature. What is the ratio between conductivity at 600K and that at 300K? Assume that the temperature dependence of intrinsic carrier concentration n is given by n_i = n_0 exp[-E_g/(2k_bT)].",
+    "question_latex": "\\frac{n_{i}=n_{0}\\exp\\left[-{\\frac{E_{g}}{2k_{\\mathrm{b}}T}}\\right]}",
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of intrinsic carrier concentration dependence on temperature.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777794230/ncert/physics/14/img_9_2.png",
+      "latex_extracted": "\\frac{n_{i}=n_{0}\\exp\\left[-{\\frac{E_{g}}{2k_{\\mathrm{b}}T}}\\right]}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Requires understanding of temperature dependence and intrinsic carrier concentration.",
+    "topics_tags": [
+      "Intrinsic Semiconductor",
+      "Conductivity",
+      "Temperature Dependence"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of intrinsic carrier concentration dependence on temperature.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777794230/ncert/physics/14/img_9_2.png",
+        "latex_extracted": "\\frac{n_{i}=n_{0}\\exp\\left[-{\\frac{E_{g}}{2k_{\\mathrm{b}}T}}\\right]}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q14.14",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 14,
+    "chapter_name": "semiconductor electronics",
+    "question_type": "numerical",
+    "question_text": "In a p-n junction diode, the current I can be expressed as I=I_{0}\\exp\\left({\\frac{\\mathrm{eV}}{2k_{\\mathrm{B}}T}}-1\\right). If for a given diode I = 5 × 10^{-12} A and T = 300 K, what will be the forward current at a forward voltage of 0.6 V?",
+    "question_latex": "I=I_{0}\\exp\\left({\\frac{\\mathrm{eV}}{2k_{\\mathrm{B}}T}}-1\\right)",
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical expression for current in a p-n junction diode.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777794241/ncert/physics/14/img_10_3.png",
+      "latex_extracted": "I=I_{0}\\exp\\left({\\frac{\\mathrm{eV}}{2k_{\\mathrm{B}}T}}-1\\right)",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Therefore, the forward current is about 0.0256 A.",
+    "answer_latex": "I=5\\times10^{-12}\\Bigg[\\exp\\Bigg(\\frac{1.6\\times10^{-19}\\times0.6}{1.376\\times10^{23}\\times300}\\Bigg)-1\\Bigg]",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Substitute the values of I0, V, k, and T into the diode current equation.",
+        "expression": "I=5\\times10^{-12}\\Bigg[\\exp\\Bigg(\\frac{1.6\\times10^{-19}\\times0.6}{1.376\\times10^{23}\\times300}\\Bigg)-1\\Bigg]"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the exponential term and then the current I.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the forward current at a forward voltage of 0.6 V is approximately 0.0256 A.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of the diode equation and substitution of values.",
+    "topics_tags": [
+      "p-n Junction Diode",
+      "Current",
+      "Voltage",
+      "Semiconductors"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical expression for current in a p-n junction diode.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777794241/ncert/physics/14/img_10_3.png",
+        "latex_extracted": "I=I_{0}\\exp\\left({\\frac{\\mathrm{eV}}{2k_{\\mathrm{B}}T}}-1\\right)",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q14.15",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 14,
+    "chapter_name": "semiconductor electronics",
+    "question_type": "mcq",
+    "question_text": "You are given the two circuits as shown in Fig. 14.44. Show that circuit (a) acts as OR gate while the circuit (b) acts as AND gate.",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "acts as OR gate while the circuit"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "acts as AND gate."
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagrams showing two circuits, one acting as an OR gate and the other as an AND gate.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777794251/ncert/physics/14/img_12_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The left half of the given figure acts as the NOR Gate, while the right half acts as the NOT Gate.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Hence, the output of the NOR Gate is determined by the inputs A and B.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of logic gates and their configurations.",
+    "topics_tags": [
+      "Logic Gates",
+      "OR Gate",
+      "AND Gate",
+      "Digital Electronics"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagrams showing two circuits, one acting as an OR gate and the other as an AND gate.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777794251/ncert/physics/14/img_12_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q14.16",
+    "class": 12,
+    "subject": "physics",
+    "chapter_number": 14,
+    "chapter_name": "semiconductor electronics",
+    "question_type": "conceptual",
+    "question_text": "Write the truth table for a NAND gate connected as given in Fig. 14.45. Hence identify the exact logic operation carried out by this circuit.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "A acts as the two inputs of the NAND gate and Y is the output, as shown in the following figure.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "The output of the NAND gate can be determined from the truth table.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the configuration of a NAND gate with inputs A and B.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777794257/ncert/physics/14/img_13_0.png",
+      "latex_extracted": "\\begin{array}{l}{{\\mathrm{4\\ast\\underline{{{D}}}\\gg\\underline{{{\\bar{d}}}}}}}\\\\ {{\\mathrm{g}\\gg\\underline{{B}}}}\\\\ {{\\mathrm{gor}\\qquad\\mathrm{gor}\\qquad\\mathrm{goscate}}}\\end{array}\\nonumber\\nonumber}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of NAND gate operation and truth table construction.",
+    "topics_tags": [
+      "NAND Gate",
+      "Logic Circuits",
+      "Truth Table"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the configuration of a NAND gate with inputs A and B.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777794257/ncert/physics/14/img_13_0.png",
+        "latex_extracted": "\\begin{array}{l}{{\\mathrm{4\\ast\\underline{{{D}}}\\gg\\underline{{{\\bar{d}}}}}}}\\\\ {{\\mathrm{g}\\gg\\underline{{B}}}}\\\\ {{\\mathrm{gor}\\qquad\\mathrm{gor}\\qquad\\mathrm{goscate}}}\\end{array}\\nonumber\\nonumber}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      },
+      {
+        "present": true,
+        "description": "Truth table for the NAND gate.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777794258/ncert/physics/14/img_13_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q14.17",
+    "class": 12,
+    "subject": "physics",
+    "chapter_number": 14,
+    "chapter_name": "semiconductor electronics",
+    "question_type": "conceptual",
+    "question_text": "You are given two circuits as shown in Fig. 14.46, which consist of NAND gates. Identify the logic operation carried out by the two circuits.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "In both the given circuits, A and B are the inputs and Y is the output.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "The output of the left NAND gate will be determined based on the inputs A and B.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagrams of two circuits using NAND gates.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777794264/ncert/physics/14/img_14_0.jpg",
+      "latex_extracted": "\\begin{array}{l}{{\\stackrel{\\mathrm{A{\\longrightarrow}}}{\\mathrm{B}-\\displaystyle\\left[\\displaystyle\\frac{\\gamma}{\\left[\\displaystyle\\equiv\\iint\\!\\!\\int\\!\\!\\begin{array}{c}{{\\left[\\displaystyle\\equiv\\int\\prod_{i=\\Rightarrow}^{\\infty}\\right]}}}\\end{array}\\right]}}}\\\\ {{\\mathrm{~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\\mathrm{~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of NAND gate logic and circuit analysis.",
+    "topics_tags": [
+      "NAND Gate",
+      "Logic Circuits",
+      "Circuit Analysis"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagrams of two circuits using NAND gates.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777794264/ncert/physics/14/img_14_0.jpg",
+        "latex_extracted": "\\begin{array}{l}{{\\stackrel{\\mathrm{A{\\longrightarrow}}}{\\mathrm{B}-\\displaystyle\\left[\\displaystyle\\frac{\\gamma}{\\left[\\displaystyle\\equiv\\iint\\!\\!\\int\\!\\!\\begin{array}{c}{{\\left[\\displaystyle\\equiv\\int\\prod_{i=\\Rightarrow}^{\\infty}\\right]}}}\\end{array}\\right]}}}\\\\ {{\\mathrm{~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\\mathrm{~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      },
+      {
+        "present": true,
+        "description": "Output representation of the NAND gate circuits.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777794267/ncert/physics/14/img_14_1.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q14.18",
+    "class": 12,
+    "subject": "physics",
+    "chapter_number": 14,
+    "chapter_name": "semiconductor electronics",
+    "question_type": "conceptual",
+    "question_text": "Write the truth table for the circuit given in Fig. 14.47 below consisting of NOR gates and identify the logic operation (OR, AND, NOT) which this circuit is performing.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Diagram of a circuit using NOR gates.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777794270/ncert/physics/14/img_15_0.png",
+      "latex_extracted": "\\underbrace{{\\frac{4-{\\sqrt{\\sin^{2}\\lambda^{-2}}}{\\left|\\mathbf{v}_{\\mathrm{AAD}}\\right.G^{-1}}}}}_{\\mathrm{NAND}\\operatorname{Guue}}{\\frac{\\left|{\\frac{\\exp{\\sqrt{\\frac{\\lambda\\cdot{\\sqrt{\\cdot3}\\cdot{\\sqrt{\\cdot\\lambda}}}}}{\\lambda}}}}{\\left|\\begin{array}{l l}{\\scriptstyle-{\\sqrt{\\frac{\\sqrt{\\cdot3\\cdot{\\sqrt{\\cdot3}\\cdot{\\sqrt{\\cdot3}}}}{\\lambda^{-2}}}}}}\\\\ {\\mathrm{NAN\\cos\\mathrm{Gate}}}\\end{array}\\right|}}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires constructing a truth table and understanding NOR gate logic.",
+    "topics_tags": [
+      "NOR Gate",
+      "Logic Circuits",
+      "Truth Table"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram of a circuit using NOR gates.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777794270/ncert/physics/14/img_15_0.png",
+        "latex_extracted": "\\underbrace{{\\frac{4-{\\sqrt{\\sin^{2}\\lambda^{-2}}}{\\left|\\mathbf{v}_{\\mathrm{AAD}}\\right.G^{-1}}}}}_{\\mathrm{NAND}\\operatorname{Guue}}{\\frac{\\left|{\\frac{\\exp{\\sqrt{\\frac{\\lambda\\cdot{\\sqrt{\\cdot3}\\cdot{\\sqrt{\\cdot\\lambda}}}}}{\\lambda}}}}{\\left|\\begin{array}{l l}{\\scriptstyle-{\\sqrt{\\frac{\\sqrt{\\cdot3\\cdot{\\sqrt{\\cdot3}\\cdot{\\sqrt{\\cdot3}}}}{\\lambda^{-2}}}}}}\\\\ {\\mathrm{NAN\\cos\\mathrm{Gate}}}\\end{array}\\right|}}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      },
+      {
+        "present": true,
+        "description": "Truth table for the NOR gate.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777794272/ncert/physics/14/img_15_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q14.19",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 14,
+    "chapter_name": "semiconductor electronics",
+    "question_type": "conceptual",
+    "question_text": "Write the truth table for the circuits given in Fig. 14.48 consisting of NOR gates only. Identify the logic operations (OR, AND, NOT) performed by the two circuits.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "A acts as the two inputs of the NOR gate and Y is the output, as shown in the following figure. Hence, the output of the circuit is . The truth table for the same is given as: 0 1 1 0. This is the truth table of a NOT gate. Hence, this circuit functions as a NOT gate.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the circuit functions as a NOT gate.",
+    "answer_image": {
+      "present": true,
+      "description": "Circuit diagram showing NOR gates and their connections.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777794280/ncert/physics/14/img_16_0.png",
+      "latex_extracted": "\\operatorname*{lim}_{\\beta\\mp\\atop{\\mathrm{SOR\\Gate}}}\\prod_{\\mathrm{~\\NOR\\Gate}}\\overline{{{\\left(\\begin{array}{c}{{\\qquad{\\overline{{\\overline{{\\overline{{\\overline{{\\overline{{\\overline{{\\sqrt{\\ +.beta}}}}}\\ +{\\overline{{\\sqrt{\\sqrt{\\vphantom{\\mathrm{ï¿½}}}}}}}}}}}}}\\end{array}\\right)}}}{\\mathrm{~}}}}}\\gamma\\right.",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of logic gates and their truth tables.",
+    "topics_tags": [
+      "Logic Gates",
+      "NOR Gate",
+      "Truth Table"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Circuit diagram showing NOR gates and their connections.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777794280/ncert/physics/14/img_16_0.png",
+        "latex_extracted": "\\operatorname*{lim}_{\\beta\\mp\\atop{\\mathrm{SOR\\Gate}}}\\prod_{\\mathrm{~\\NOR\\Gate}}\\overline{{{\\left(\\begin{array}{c}{{\\qquad{\\overline{{\\overline{{\\overline{{\\overline{{\\overline{{\\overline{{\\sqrt{\\ +.beta}}}}}\\ +{\\overline{{\\sqrt{\\sqrt{\\vphantom{\\mathrm{ï¿½}}}}}}}}}}}}}\\end{array}\\right)}}}{\\mathrm{~}}}}}\\gamma\\right.",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      },
+      {
+        "present": true,
+        "description": "Truth table showing the output of the NOR gate.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777794288/ncert/physics/14/img_17_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  }
+]

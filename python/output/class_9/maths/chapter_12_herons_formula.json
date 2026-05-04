@@ -1,0 +1,902 @@
+[
+  {
+    "question_id": "Q12.1",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "herons formula",
+    "question_type": "numerical",
+    "question_text": "A traffic signal board, indicating ‘SCHOOL AHEAD’, is an equilateral triangle with side ‘a’. Find the area of the signal board, using Heron’s formula. If its perimeter is 180 cm, what will be the area of the signal board?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The area of the signal board can be calculated using Heron's formula.",
+    "answer_latex": "A = \\sqrt{s(s-a)(s-b)(s-c)}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the semi-perimeter of the triangle.",
+        "expression": "s = \\frac{180}{2} = 90"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values into Heron's formula.",
+        "expression": "A = \\sqrt{90(90-a)(90-a)(90-a)}"
+      }
+    ],
+    "final_answer": "Thus, the area of the signal board can be expressed in terms of 'a'.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of Heron's formula and basic substitution.",
+    "topics_tags": [
+      "Heron's Formula",
+      "Area of Triangle",
+      "Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.2",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "herons formula",
+    "question_type": "numerical",
+    "question_text": "The floor of a rectangular hall has a perimeter 250 m. If the cost of painting the four walls at the rate of Rs.10 per m² is Rs.15000, find the height of the hall.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, the height of the hall is 6 m.",
+    "answer_latex": "h = 6",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the area of the four walls using the perimeter.",
+        "expression": "Area = 250h"
+      },
+      {
+        "step_number": 2,
+        "description": "Set up the equation for the cost of painting the walls.",
+        "expression": "15000 = 2500h"
+      },
+      {
+        "step_number": 3,
+        "description": "Solve for h.",
+        "expression": "h = 6"
+      }
+    ],
+    "final_answer": "Thus, the height of the hall is 6 m.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of perimeter and area calculations.",
+    "topics_tags": [
+      "Perimeter",
+      "Area",
+      "Cost Calculation"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.3",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "herons formula",
+    "question_type": "numerical",
+    "question_text": "Find the area of a triangle two sides of which are 18 cm and 10 cm and the perimeter is 42 cm.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the triangle with sides 18 cm, 10 cm, and the third side.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488318/ncert/maths/12/img_5_0.jpg",
+      "latex_extracted": "\\begin{array}{l}{{\\left[\\operatorname{Arca~ofatiangle}={\\sqrt{s(s-a)(s-a)(s-c)}}}}\\\\ {{\\left[\\operatorname{Axea\\;of~the~given\\;triangle}=\\left({\\sqrt{21(21-1)(21-10)(21-14)}}\\right){\\cos^{2}(}}\\\\ {{\\left[\\operatorname{Area~of~the~given~triangle=10}\\right)\\cos^{2}}}\\\\ {{\\left(\\left.\\left(\\begin{array}{l}{{{\\sqrt{21}}(3)(11)(7)}}\\end{array}\\right){\\cos^{2}}}}\\\\ {{=21/{\\sqrt{11}}~\\cos^{2}}}\\end{array}\\right.}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The area of the triangle is calculated using Heron's formula.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the semi-perimeter of the triangle.",
+        "expression": "s = \\frac{42}{2} = 21"
+      },
+      {
+        "step_number": 2,
+        "description": "Apply Heron's formula to find the area.",
+        "expression": "Area = \\sqrt{s(s-a)(s-b)(s-c)}"
+      }
+    ],
+    "final_answer": "Thus, the area of the triangle is calculated using the values.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves application of Heron's formula and semi-perimeter calculation.",
+    "topics_tags": [
+      "Triangle Area",
+      "Heron's Formula",
+      "Geometry"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the triangle with sides 18 cm, 10 cm, and the third side.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488318/ncert/maths/12/img_5_0.jpg",
+        "latex_extracted": "\\begin{array}{l}{{\\left[\\operatorname{Arca~ofatiangle}={\\sqrt{s(s-a)(s-a)(s-c)}}}}\\\\ {{\\left[\\operatorname{Axea\\;of~the~given\\;triangle}=\\left({\\sqrt{21(21-1)(21-10)(21-14)}}\\right){\\cos^{2}(}}\\\\ {{\\left[\\operatorname{Area~of~the~given~triangle=10}\\right)\\cos^{2}}}\\\\ {{\\left(\\left.\\left(\\begin{array}{l}{{{\\sqrt{21}}(3)(11)(7)}}\\end{array}\\right){\\cos^{2}}}}\\\\ {{=21/{\\sqrt{11}}~\\cos^{2}}}\\end{array}\\right.}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.4",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "herons formula",
+    "question_type": "numerical",
+    "question_text": "A park, in the shape of a quadrilateral ABCD, has C = 90°, AB = 9 m, BC = 12 m, CD = 5 m and AD = 8 m. How much area does it occupy?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "To find the area of quadrilateral ABCD, we can divide it into two triangles, BCD and ABD. Using the Pythagorean theorem, we find BD and then apply Heron's formula.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Apply Pythagorean theorem to find BD in triangle BCD.",
+        "expression": "BD^2 = BC^2 + CD^2 = 12^2 + 5^2 = 169"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the area of triangle BCD using the formula.",
+        "expression": "Area_{BCD} = \\frac{1}{2} \\times BC \\times CD = \\frac{1}{2} \\times 12 \\times 5"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the area of triangle ABD using Heron's formula.",
+        "expression": "s = \\frac{AB + AD + BD}{2}"
+      }
+    ],
+    "final_answer": "Thus, the area of the quadrilateral ABCD can be calculated by summing the areas of triangles BCD and ABD.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of both Pythagorean theorem and Heron's formula, involving multiple steps.",
+    "topics_tags": [
+      "Quadrilateral Area",
+      "Heron's Formula",
+      "Pythagorean Theorem"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.5",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "herons formula",
+    "question_type": "numerical",
+    "question_text": "Find the area of a quadrilateral ABCD in which AB = 3 cm, BC = 4 cm, CD = 4 cm, DA = 5 cm and AC = 5 cm.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing quadrilateral ABCD with given side lengths.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488351/ncert/maths/12/img_8_0.jpg",
+      "latex_extracted": "\\scriptstyle{\\frac{\\Gamma=\\frac{\\Gamma=\\Gamma=\\Sigma=\\infty}{\\Gamma=\\left(-\\delta=\\varepsilon\\Delta t\\Delta t\\Delta t\\Delta t\\Delta t\\Delta t\\Delta t\\Delta t\\Delta t\\Delta t\\Delta t\\Delta t\\Delta t\\Delta t\\Delta t\\Delta t\\Delta t\\Delta t\\Delta t}}{\\right.}}}\\\\ {\\frac{\\Gamma_{\\mathrm{Eert}+\\frac{\\Gamma_{0}}{\\sqrt{\\Delta t\\Delta t\\Delta t\\Delta t\\Delta t\\Delta t\\Delta t\\Delta t\\Delta t\\Delta t\\Delta t}}}}{\\sqrt[[object Object]]{2\\left.\\frac{\\Gamma_{0}+\\Delta t\\Delta t\\Delta t\\Delta t\\Delta t\\Delta t\\Delta t\\Delta t\\Delta t\\Delta t\\Delta t\\Delta t\\Delta t\\Delta t\\Delta t\\Delta t}{\\Delta t}}}}\\\\ {\\frac{\\Gamma_{\\mathrm{Eersin\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\right)}}}}\\end{array}}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "To find the area of quadrilateral ABCD, we can divide it into two triangles, ABC and ADC, and apply Heron's formula to each.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the semi-perimeter s for triangle ABC.",
+        "expression": "s = \\frac{AB + BC + AC}{2} = \\frac{3 + 4 + 5}{2} = 6"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the area of triangle ABC using Heron's formula.",
+        "expression": "Area_{ABC} = \\sqrt{s(s-AB)(s-BC)(s-AC)}"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the semi-perimeter s for triangle ADC.",
+        "expression": "s = \\frac{AD + CD + AC}{2} = \\frac{5 + 4 + 5}{2} = 7"
+      },
+      {
+        "step_number": 4,
+        "description": "Calculate the area of triangle ADC using Heron's formula.",
+        "expression": "Area_{ADC} = \\sqrt{s(s-AD)(s-CD)(s-AC)}"
+      }
+    ],
+    "final_answer": "Thus, the total area of quadrilateral ABCD is the sum of the areas of triangles ABC and ADC.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of Heron's formula and involves multiple calculations.",
+    "topics_tags": [
+      "Quadrilateral Area",
+      "Heron's Formula",
+      "Triangle Area"
+    ],
+    "confidence_score": 0.75,
+    "confidence_issues": [
+      "LaTeX extraction issues",
+      "Some text garbling"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing quadrilateral ABCD with given side lengths.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488351/ncert/maths/12/img_8_0.jpg",
+        "latex_extracted": "\\scriptstyle{\\frac{\\Gamma=\\frac{\\Gamma=\\Gamma=\\Sigma=\\infty}{\\Gamma=\\left(-\\delta=\\varepsilon\\Delta t\\Delta t\\Delta t\\Delta t\\Delta t\\Delta t\\Delta t\\Delta t\\Delta t\\Delta t\\Delta t\\Delta t\\Delta t\\Delta t\\Delta t\\Delta t\\Delta t\\Delta t\\Delta t}}{\\right.}}}\\\\ {\\frac{\\Gamma_{\\mathrm{Eert}+\\frac{\\Gamma_{0}}{\\sqrt{\\Delta t\\Delta t\\Delta t\\Delta t\\Delta t\\Delta t\\Delta t\\Delta t\\Delta t\\Delta t\\Delta t}}}}{\\sqrt[[object Object]]{2\\left.\\frac{\\Gamma_{0}+\\Delta t\\Delta t\\Delta t\\Delta t\\Delta t\\Delta t\\Delta t\\Delta t\\Delta t\\Delta t\\Delta t\\Delta t\\Delta t\\Delta t\\Delta t\\Delta t}{\\Delta t}}}}\\\\ {\\frac{\\Gamma_{\\mathrm{Eersin\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\Deltat\\right)}}}}\\end{array}}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      },
+      {
+        "present": true,
+        "description": "Diagram showing quadrilateral ABCD with given side lengths.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488353/ncert/maths/12/img_9_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.6",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "herons formula",
+    "question_type": "conceptual",
+    "question_text": "By Heron’s formula, Area of triangle Area of ABCD = Area of ∆ABC + Area of ∆ACD = (6 + 9.166) cm² = 15.166 cm² = 15.2 cm² (approximately)",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the calculation of area using Heron's formula.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488357/ncert/maths/12/img_10_0.jpg",
+      "latex_extracted": "\\left[\\begin{array}{c c}{{\\left|\\begin{array}{c c}{{\\scriptstyle{\\mathrm{irea~of~ABDC=\\left[\\sqrt{7(7-5)(7-4)}}\\right]\\cos^{2}\\right|}}}\\\\ {{}}&{{=\\left(2\\sqrt{7\\times2\\times2\\times3}\\right)\\cos^{2}}}\\\\ {{}}&{{=\\left(2\\times4.583\\right)\\cos^{2}}}\\\\ {{}}&{{=\\left.{\\sqrt{7\\times2\\times2\\times3}}\\right.}}\\\\ {{}}&{{=\\sqrt{2\\times4.583}\\cos^{2}}}\\\\ {{}}&{{=\\ 9.166\\cos\\infty^{2}}}\\end{array}\\right]",
+      "source_page_number": 10,
+      "source_image_index": 0,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of Heron's formula and basic area calculations.",
+    "topics_tags": [
+      "Heron's Formula",
+      "Area of Triangle",
+      "Geometry"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the calculation of area using Heron's formula.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488357/ncert/maths/12/img_10_0.jpg",
+        "latex_extracted": "\\left[\\begin{array}{c c}{{\\left|\\begin{array}{c c}{{\\scriptstyle{\\mathrm{irea~of~ABDC=\\left[\\sqrt{7(7-5)(7-4)}}\\right]\\cos^{2}\\right|}}}\\\\ {{}}&{{=\\left(2\\sqrt{7\\times2\\times2\\times3}\\right)\\cos^{2}}}\\\\ {{}}&{{=\\left(2\\times4.583\\right)\\cos^{2}}}\\\\ {{}}&{{=\\left.{\\sqrt{7\\times2\\times2\\times3}}\\right.}}\\\\ {{}}&{{=\\sqrt{2\\times4.583}\\cos^{2}}}\\\\ {{}}&{{=\\ 9.166\\cos\\infty^{2}}}\\end{array}\\right]",
+        "source_page_number": 10,
+        "source_image_index": 0,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.7",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "herons formula",
+    "question_type": "conceptual",
+    "question_text": "Radha made a picture of an aeroplane with coloured papers as shown in the given figure. Find the total area of the paper used.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the coloured paper used to make an aeroplane.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488361/ncert/maths/12/img_12_0.jpg",
+      "latex_extracted": "\\begin{array}{c}{{\\displaystyle\\left|\\displaystyle\\left|\\displaystyle\\left|\\displaystyle\\left|\\displaystyle\\left|\\displaystyle\\left|\\displaystyle\\left|\\displaystyle\\left|\\displaystyle\\left|\\displaystyle\\frac{\\right|}{\\left|\\displaystyle\\sum_{i=0}^{n}\\left|\\displaystyle\\left|\\displaystyle\\left|\\begin{array}{c}{{\\displaystyle\\left|\\begin{array}{c}{{\\displaystyle\\left|\\vphantom\\right|}}{\\displaystyle\\left|\\begin{array}{c}{{\\displaystyle\\left|\\vphantom=\\left|\\infty\\right|\\infty}}\\right|}}\\right|}}\\\\ {{\\displaystyle\\langle\\displaystyle\\sum_{i=0}^{\\mathrm{N}\\left|\\displaystyle\\frac{1}{\\displaystyle\\left|\\begin{array}{c}{{\\displaystyle\\left|\\infty\\right|\\sqrt{-\\left|\\infty\\right|}}}\\end{array}\\right|}}}\\end{array}\\right|}}\\end{array}",
+      "source_page_number": 12,
+      "source_image_index": 0,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of area calculation based on the figure.",
+    "topics_tags": [
+      "Area Calculation",
+      "Geometry",
+      "Shapes"
+    ],
+    "confidence_score": 0.75,
+    "confidence_issues": [
+      "mixed_or_weak_context"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the coloured paper used to make an aeroplane.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488361/ncert/maths/12/img_12_0.jpg",
+        "latex_extracted": "\\begin{array}{c}{{\\displaystyle\\left|\\displaystyle\\left|\\displaystyle\\left|\\displaystyle\\left|\\displaystyle\\left|\\displaystyle\\left|\\displaystyle\\left|\\displaystyle\\left|\\displaystyle\\left|\\displaystyle\\frac{\\right|}{\\left|\\displaystyle\\sum_{i=0}^{n}\\left|\\displaystyle\\left|\\displaystyle\\left|\\begin{array}{c}{{\\displaystyle\\left|\\begin{array}{c}{{\\displaystyle\\left|\\vphantom\\right|}}{\\displaystyle\\left|\\begin{array}{c}{{\\displaystyle\\left|\\vphantom=\\left|\\infty\\right|\\infty}}\\right|}}\\right|}}\\\\ {{\\displaystyle\\langle\\displaystyle\\sum_{i=0}^{\\mathrm{N}\\left|\\displaystyle\\frac{1}{\\displaystyle\\left|\\begin{array}{c}{{\\displaystyle\\left|\\infty\\right|\\sqrt{-\\left|\\infty\\right|}}}\\end{array}\\right|}}}\\end{array}\\right|}}\\end{array}",
+        "source_page_number": 12,
+        "source_image_index": 0,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.8",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "herons formula",
+    "question_type": "conceptual",
+    "question_text": "For quadrilateral III, this quadrilateral is a trapezium.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to trapezium and its properties.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488373/ncert/maths/12/img_13_0.jpg",
+      "latex_extracted": "\\begin{array}{l}{{\\hat{\\overline{{{\\hat{\\scriptstyle{\\hat{\\scriptstyle{\\scriptstyle{\\scriptstyle{\\scriptstyle{\\scriptstyle{\\scriptstyle{\\scriptstyle E}({\\frac{\\sqrt{\\scriptstyle{\\scriptstyle{\\mathrm{E}}}}}({\\frac{\\sqrt{\\mathrm{E}}}}}{\\mathrm{E}}}({\\frac{\\mathrm{-1}}}{\\mathrm{d}}}}})}}}}}}}}\\\\ {{\\frac{\\left|\\frac{1}{\\mathrm{\\scriptstyle{\\frac{1}{\\mathrm{\\scriptsize{\\scriptstyle{\\scriptstyle{\\scriptstyle{\\scriptstyle{\\frac{\\scriptstyle{\\mathrm{(scriptsize{\\frac{}}{}}}}}}}-{\\sqrt{{\\mathrm{\\scriptsize{\\frac{\\sqrt{\\mathrm{\\scriptsize{E}}}}{\\mathrm{\\scriptsize{\\frac{\\sqrt{\\mathrm{\\scriptsize{E}}}{\\mathrm{\\scriptsize{\\frac{\\sqrt{\\mathrm{(scriptsize{\\frac{\\sqrt{\\mathrm{(scriptsize{\\sqrt{\\mathrm{(scriptsize{\\frac{}}{\\mathrm{\\scriptsize{E}}}}}}}\\mathrm{\\scriptsize{\\frac{\\sqrt{\\sqrt{\\mathrm{\\mathrm{\\scriptsize{\\sqrt{\\mathrm{\\mathrm{\\mathrm{\\mathrm{\\sqrt{\\mathrm{\\sqrt{\\sqrt{\\mathrm{\\sqrt{\\mathrm{\\sqrt{\\mathrm{\\mathrm{\\sqrt{\\mathrm{\\mathrm{\\sqrt{\\mathrm{\\sqrt{\\mathrm{\\sqrt{\\sqrt{\\sqrt}}}}}}}}}}}}}}}}}}}}}}}}}}}}}{\\sqrt{\\sqrt{\\sqrt{\\scriptstyle{\\sqrt{\\sqrt{\\sqrt{\\times\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\scriptstyle{\\sqrt{\\sqrt{\\sqrt{\\scriptstyle{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt",
+      "source_page_number": 13,
+      "source_image_index": 0,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct identification of the shape based on given information.",
+    "topics_tags": [
+      "Trapezium",
+      "Quadrilaterals",
+      "Geometry"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "mixed_or_weak_context"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to trapezium and its properties.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488373/ncert/maths/12/img_13_0.jpg",
+        "latex_extracted": "\\begin{array}{l}{{\\hat{\\overline{{{\\hat{\\scriptstyle{\\hat{\\scriptstyle{\\scriptstyle{\\scriptstyle{\\scriptstyle{\\scriptstyle{\\scriptstyle{\\scriptstyle E}({\\frac{\\sqrt{\\scriptstyle{\\scriptstyle{\\mathrm{E}}}}}({\\frac{\\sqrt{\\mathrm{E}}}}}{\\mathrm{E}}}({\\frac{\\mathrm{-1}}}{\\mathrm{d}}}}})}}}}}}}}\\\\ {{\\frac{\\left|\\frac{1}{\\mathrm{\\scriptstyle{\\frac{1}{\\mathrm{\\scriptsize{\\scriptstyle{\\scriptstyle{\\scriptstyle{\\scriptstyle{\\frac{\\scriptstyle{\\mathrm{(scriptsize{\\frac{}}{}}}}}}}-{\\sqrt{{\\mathrm{\\scriptsize{\\frac{\\sqrt{\\mathrm{\\scriptsize{E}}}}{\\mathrm{\\scriptsize{\\frac{\\sqrt{\\mathrm{\\scriptsize{E}}}{\\mathrm{\\scriptsize{\\frac{\\sqrt{\\mathrm{(scriptsize{\\frac{\\sqrt{\\mathrm{(scriptsize{\\sqrt{\\mathrm{(scriptsize{\\frac{}}{\\mathrm{\\scriptsize{E}}}}}}}\\mathrm{\\scriptsize{\\frac{\\sqrt{\\sqrt{\\mathrm{\\mathrm{\\scriptsize{\\sqrt{\\mathrm{\\mathrm{\\mathrm{\\mathrm{\\sqrt{\\mathrm{\\sqrt{\\sqrt{\\mathrm{\\sqrt{\\mathrm{\\sqrt{\\mathrm{\\mathrm{\\sqrt{\\mathrm{\\mathrm{\\sqrt{\\mathrm{\\sqrt{\\mathrm{\\sqrt{\\sqrt{\\sqrt}}}}}}}}}}}}}}}}}}}}}}}}}}}}}{\\sqrt{\\sqrt{\\sqrt{\\scriptstyle{\\sqrt{\\sqrt{\\sqrt{\\times\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\scriptstyle{\\sqrt{\\sqrt{\\sqrt{\\scriptstyle{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt",
+        "source_page_number": 13,
+        "source_image_index": 0,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.9",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "herons formula",
+    "question_type": "numerical",
+    "question_text": "A triangle and a parallelogram have the same base and the same area. If the sides of triangle are 26 cm, 28 cm and 30 cm, and the parallelogram stands on the base 28 cm, find the height of the parallelogram.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing a triangle and a parallelogram with given dimensions.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488381/ncert/maths/12/img_14_0.jpg",
+      "latex_extracted": "\\begin{array}{l}{{\\left.\\stackrel{\\scriptstyle\\scriptstyle\\scriptstyle\\scriptstyle\\scriptstyle\\scriptstyle\\scriptstyle\\scriptstyle(n\\scriptstyle o u,6u,6u,6u,6u,6u,6u,6u,6u,6u,6u,6u,6u,6u,6u,6u,6u,6u,6u,6u,6u,6u,0u,6u,0u,e t}{\\leq\\scriptstyle{\\scriptstyle{\\frac{{\\scriptstyle{\\sqrt{u}}}{{\\scriptstyle{\\sqrt{6u}}}{{\\sqrt{6}}}{{\\sqrt{5}}}+{\\frac{{\\sqrt{-1}}{{\\sqrt{-1}}}}{{\\sqrt{{\\sqrt{5}}}+{\\frac{{\\sqrt{{\\sqrt{{\\sqrt{-1}}}{{\\sqrt{{\\sqrt{-1}}}}}{{\\sqrt{{\\sqrt{{\\sqrt{{\\sqrt{{\\sqrt{u}}}}}}}}}}}}}}}}}}}}}\\\\ {{\\scriptstyle\\left.\\underbrace{{\\frac{-\\cdot{-1}{{\\sqrt{{-u}}}{{-{\\sqrt{{\\sqrt{{\\sqrt{{-1}}}}}}-{{\\sqrt{{{{\\sqrt{{{\\sqrt{{\\sqrt{\\sqrt{\\sqrt{u}}}}}}}}}}}}}}}}}}}}\\end{array}\\right\\}}}}}}}\\end{array}",
+      "source_page_number": 14,
+      "source_image_index": 0,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "To find the height of the parallelogram, we first calculate the area of the triangle using Heron's formula.",
+    "answer_latex": "A = \\sqrt{s(s-a)(s-b)(s-c)} = \\sqrt{42(42-26)(42-28)(42-30)} = 336 \\text{ cm}^2",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the semi-perimeter of the triangle.",
+        "expression": "s = \\frac{26 + 28 + 30}{2} = 42"
+      },
+      {
+        "step_number": 2,
+        "description": "Use Heron's formula to find the area of the triangle.",
+        "expression": "A = \\sqrt{s(s-a)(s-b)(s-c)} = \\sqrt{42(42-26)(42-28)(42-30)}"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the height of the parallelogram using the area.",
+        "expression": "h = \\frac{A}{b} = \\frac{336}{28} = 12"
+      }
+    ],
+    "final_answer": "Therefore, the height of the parallelogram is 12 cm.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multi-step reasoning and application of Heron's formula.",
+    "topics_tags": [
+      "Heron's Formula",
+      "Area of Triangle",
+      "Parallelogram"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "Some text garbling in the image extraction."
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing a triangle and a parallelogram with given dimensions.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488381/ncert/maths/12/img_14_0.jpg",
+        "latex_extracted": "\\begin{array}{l}{{\\left.\\stackrel{\\scriptstyle\\scriptstyle\\scriptstyle\\scriptstyle\\scriptstyle\\scriptstyle\\scriptstyle\\scriptstyle(n\\scriptstyle o u,6u,6u,6u,6u,6u,6u,6u,6u,6u,6u,6u,6u,6u,6u,6u,6u,6u,6u,6u,6u,6u,0u,6u,0u,e t}{\\leq\\scriptstyle{\\scriptstyle{\\frac{{\\scriptstyle{\\sqrt{u}}}{{\\scriptstyle{\\sqrt{6u}}}{{\\sqrt{6}}}{{\\sqrt{5}}}+{\\frac{{\\sqrt{-1}}{{\\sqrt{-1}}}}{{\\sqrt{{\\sqrt{5}}}+{\\frac{{\\sqrt{{\\sqrt{{\\sqrt{-1}}}{{\\sqrt{{\\sqrt{-1}}}}}{{\\sqrt{{\\sqrt{{\\sqrt{{\\sqrt{{\\sqrt{u}}}}}}}}}}}}}}}}}}}}}\\\\ {{\\scriptstyle\\left.\\underbrace{{\\frac{-\\cdot{-1}{{\\sqrt{{-u}}}{{-{\\sqrt{{\\sqrt{{\\sqrt{{-1}}}}}}-{{\\sqrt{{{{\\sqrt{{{\\sqrt{{\\sqrt{\\sqrt{\\sqrt{u}}}}}}}}}}}}}}}}}}}}\\end{array}\\right\\}}}}}}}\\end{array}",
+        "source_page_number": 14,
+        "source_image_index": 0,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.10",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "herons formula",
+    "question_type": "numerical",
+    "question_text": "A rhombus shaped field has green grass for 18 cows to graze. If each side of the rhombus is 30 m and its longer diagonal is 48 m, how much area of grass field will each cow be getting?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The area of the rhombus is calculated using the formula: Area = \\frac{1}{2} \\times d_1 \\times d_2, where d_1 and d_2 are the diagonals.",
+    "answer_latex": "Area = \\frac{1}{2} \\times 48 \\times \\sqrt{30^2 - \\left(\\frac{48}{2}\\right)^2} = 720 \\text{ m}^2",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the length of the second diagonal using the Pythagorean theorem.",
+        "expression": "d_2 = 2 \\sqrt{30^2 - \\left(\\frac{48}{2}\\right)^2}"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values into the area formula.",
+        "expression": "Area = \\frac{1}{2} \\times 48 \\times d_2"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the area and then divide by the number of cows.",
+        "expression": "Area_{per\\ cow} = \\frac{720}{18} = 40 \\text{ m}^2"
+      }
+    ],
+    "final_answer": "Therefore, each cow will be getting 40 m² of grass field.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing a rhombus-shaped field with dimensions labeled.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488383/ncert/maths/12/img_15_0.jpg",
+      "latex_extracted": "\\begin{array}{c}{{\\stackrel{\\mathrm{A}}{\\sqrt{}\\displaystyle{\\sum\\displaystyle{\\sqrt{}}}\\displaystyle{\\sum\\displaystyle{\\frac{\\displaystyle{\\mathrm{Som}}}{\\displaystyle{\\sum}}\\times\\sum\\sqrt{}}}}}\\\\ {{\\displaystyle{\\left.{\\frac{\\vphantom{\\mathrm{A}}}{}_{\\displaystyle{\\textrm{S o m}}}}\\right{array}\\right{}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of area calculation and application of the formula.",
+    "topics_tags": [
+      "Rhombus",
+      "Area",
+      "Heron's Formula"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing a rhombus-shaped field with dimensions labeled.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488383/ncert/maths/12/img_15_0.jpg",
+        "latex_extracted": "\\begin{array}{c}{{\\stackrel{\\mathrm{A}}{\\sqrt{}\\displaystyle{\\sum\\displaystyle{\\sqrt{}}}\\displaystyle{\\sum\\displaystyle{\\frac{\\displaystyle{\\mathrm{Som}}}{\\displaystyle{\\sum}}\\times\\sum\\sqrt{}}}}}\\\\ {{\\displaystyle{\\left.{\\frac{\\vphantom{\\mathrm{A}}}{}_{\\displaystyle{\\textrm{S o m}}}}\\right{array}\\right{}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q12.11",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "herons formula",
+    "question_type": "conceptual",
+    "question_text": "An umbrella is made by stitching 10 triangular pieces of cloth of two different colours (see the given figure), each piece measuring 20 cm, 50 cm and 50 cm. How much cloth of each colour is required for the umbrella?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the triangular pieces of cloth used for the umbrella.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488388/ncert/maths/12/img_16_0.jpg",
+      "latex_extracted": "\\begin{array}{c l}{{\\frac{\\sqrt{\\frac{\\rho(1)^{1-3}(1)^{1-3}(1)^{2}-1)}-\\sqrt{1-3}}}}}\\\\ {{\\frac{\\sqrt{\\frac{\\rho(1)(1+6)+6\\sqrt{1-3}(1)(1-5+5)(1-3\\sqrt{1-3})}}{\\sqrt{\\frac{1}{6}}(1)(2\\sqrt{1+5\\sqrt{1-3}(1)(1-5+5+5+5)(1+5+5+5+5+5+5)(1-3)}{1+5}}}}}\\\\ {{\\frac{\\sqrt{5+5}(1)(1-4)(5)(1-5)(10\\sqrt{1-6.5-3})}{8\\sqrt{1-3}}}}\\\\ {{\\frac{\\sqrt{1-5}(10000000000\\sqrt{1-5}}{1+5+5+5+5+5+5+5+5+50001001}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of area calculation for triangles and application of Heron's formula.",
+    "topics_tags": [
+      "Heron's Formula",
+      "Triangles",
+      "Area Calculation"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the triangular pieces of cloth used for the umbrella.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488388/ncert/maths/12/img_16_0.jpg",
+        "latex_extracted": "\\begin{array}{c l}{{\\frac{\\sqrt{\\frac{\\rho(1)^{1-3}(1)^{1-3}(1)^{2}-1)}-\\sqrt{1-3}}}}}\\\\ {{\\frac{\\sqrt{\\frac{\\rho(1)(1+6)+6\\sqrt{1-3}(1)(1-5+5)(1-3\\sqrt{1-3})}}{\\sqrt{\\frac{1}{6}}(1)(2\\sqrt{1+5\\sqrt{1-3}(1)(1-5+5+5+5)(1+5+5+5+5+5+5)(1-3)}{1+5}}}}}\\\\ {{\\frac{\\sqrt{5+5}(1)(1-4)(5)(1-5)(10\\sqrt{1-6.5-3})}{8\\sqrt{1-3}}}}\\\\ {{\\frac{\\sqrt{1-5}(10000000000\\sqrt{1-5}}{1+5+5+5+5+5+5+5+5+50001001}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.12",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "herons formula",
+    "question_type": "conceptual",
+    "question_text": "A kite in the shape of a square with a diagonal 32 cm and an isosceles triangles of base 8 cm and sides 6 cm each is to be made of three different shades as shown in the given figure. How much paper of each shade has been used in it?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the kite shape with dimensions and shades.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488393/ncert/maths/12/img_17_0.jpg",
+      "latex_extracted": "\\begin{array}{c}{{\\frac{\\left|\\frac{\\mathrm{Bea,Eou,E}}{\\scriptstyle|\\frac{\\beta(n+\\delta)\\mathrm{Bu,E}}{\\mathrm{Bu,E}}}}}\\\\ {{\\left|\\frac{\\gamma-\\sqrt{-\\frac{\\sqrt{-\\delta-\\delta-\\varepsilon}}{\\sqrt{\\delta+\\delta+\\delta+\\delta+\\delta+\\delta+\\delta+\\delta+\\delta+\\delta+\\delta+\\delta+\\delta+\\delta+\\delta+\\delta+\\delta+\\delta+\\delta+\\delta+\\delta+\\delta+\\delta+\\delta+\\delta+\\delta+\\delta+\\delta+\\delta\\right\\}}}{\\mathrm{Eu,}}}}\\\\ {{\\left|\\frac{\\gamma}{\\sinh\\delta+\\delta+\\delta+\\delta}\\right|}{\\left\\{\\frac{\\delta+\\varepsilon+\\delta+\\delta+\\delta+\\delta+\\delta+\\delta}{\\sinh\\delta\\delta\\Delta,}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding the area of a kite and triangles, requiring multiple calculations.",
+    "topics_tags": [
+      "Kite Area",
+      "Isosceles Triangle",
+      "Geometry"
+    ],
+    "confidence_score": 0.8,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the kite shape with dimensions and shades.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488393/ncert/maths/12/img_17_0.jpg",
+        "latex_extracted": "\\begin{array}{c}{{\\frac{\\left|\\frac{\\mathrm{Bea,Eou,E}}{\\scriptstyle|\\frac{\\beta(n+\\delta)\\mathrm{Bu,E}}{\\mathrm{Bu,E}}}}}\\\\ {{\\left|\\frac{\\gamma-\\sqrt{-\\frac{\\sqrt{-\\delta-\\delta-\\varepsilon}}{\\sqrt{\\delta+\\delta+\\delta+\\delta+\\delta+\\delta+\\delta+\\delta+\\delta+\\delta+\\delta+\\delta+\\delta+\\delta+\\delta+\\delta+\\delta+\\delta+\\delta+\\delta+\\delta+\\delta+\\delta+\\delta+\\delta+\\delta+\\delta+\\delta+\\delta\\right\\}}}{\\mathrm{Eu,}}}}\\\\ {{\\left|\\frac{\\gamma}{\\sinh\\delta+\\delta+\\delta+\\delta}\\right|}{\\left\\{\\frac{\\delta+\\varepsilon+\\delta+\\delta+\\delta+\\delta+\\delta+\\delta}{\\sinh\\delta\\delta\\Delta,}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.13",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "herons formula",
+    "question_type": "conceptual",
+    "question_text": "Therefore, the area of paper required in each shape is 256 cm².",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the area calculation for the shapes.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488396/ncert/maths/12/img_18_0.jpg",
+      "latex_extracted": "\\begin{array}{c}{{\\left.\\begin{array}{c}{{\\nabla\\frac{\\sqrt{\\gamma}y\\right|^{2}\\cos\\phi}}{\\left\\{\\frac{\\cos\\psi}{\\cosh}\\left|\\frac{-\\mathrm{d}}{\\sqrt{\\lambda}}\\right\\|}{\\left\\{\\frac{\\mathrm{BP}}{\\sinh\\left(\\frac{\\gamma}{\\sqrt{\\omega}}\\right)}\\right\\}}}}\\\\ {{\\frac{\\mathrm{BP}}{\\left\\{\\frac{\\gamma}{\\sqrt{\\sinh\\theta\\phi\\cos\\theta\\Delta\\mathrm{BH}\\sin\\mathrm{BH}}}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Simple conclusion based on previous calculations.",
+    "topics_tags": [
+      "Area Calculation",
+      "Geometry",
+      "Shapes"
+    ],
+    "confidence_score": 0.75,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the area calculation for the shapes.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488396/ncert/maths/12/img_18_0.jpg",
+        "latex_extracted": "\\begin{array}{c}{{\\left.\\begin{array}{c}{{\\nabla\\frac{\\sqrt{\\gamma}y\\right|^{2}\\cos\\phi}}{\\left\\{\\frac{\\cos\\psi}{\\cosh}\\left|\\frac{-\\mathrm{d}}{\\sqrt{\\lambda}}\\right\\|}{\\left\\{\\frac{\\mathrm{BP}}{\\sinh\\left(\\frac{\\gamma}{\\sqrt{\\omega}}\\right)}\\right\\}}}}\\\\ {{\\frac{\\mathrm{BP}}{\\left\\{\\frac{\\gamma}{\\sqrt{\\sinh\\theta\\phi\\cos\\theta\\Delta\\mathrm{BH}\\sin\\mathrm{BH}}}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.14",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "herons formula",
+    "question_type": "numerical",
+    "question_text": "A floral design on a floor is made up of 16 tiles which are triangular, the sides of the triangle being 9 cm, 28 cm and 35 cm. Find the cost of polishing the tiles at the rate of 50p per cm².",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing triangular tiles with sides 9 cm, 28 cm, and 35 cm.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488400/ncert/maths/12/img_19_0.jpg",
+      "latex_extracted": "\\begin{array}{c l}{{}}&{{\\Gamma_{\\widetilde{b u s o n i o n i o n i n g h}}^{1}}}\\\\ {{}}&{{\\frac{\\Gamma_{\\widetilde{b u t o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n}}}}\\\\ {{}}&{{}}\\\\ {{}}&{{}}\\\\ {{}}&{{}}\\\\ {{}}&{{}}\\\\ {{\\left.\\frac{{}_{e e o n i o n i o n i o n i o n i o n i o n o n i o n i o n}^{*}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The cost of polishing all the tiles is Rs 705.60.",
+    "answer_latex": "Cost = 1411.2 \\times 0.50 = 705.60",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the semi-perimeter of the triangle.",
+        "expression": "s = \\frac{9 + 28 + 35}{2} = 36"
+      },
+      {
+        "step_number": 2,
+        "description": "Use Heron's formula to find the area of one tile.",
+        "expression": "A = \\sqrt{s(s-a)(s-b)(s-c)} = \\sqrt{36(36-9)(36-28)(36-35)}"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the area of one tile.",
+        "expression": "A = \\sqrt{36 \\times 27 \\times 8 \\times 1} = 1411.2 \\text{ cm}^2"
+      },
+      {
+        "step_number": 4,
+        "description": "Calculate the total cost of polishing 16 tiles.",
+        "expression": "Total Cost = 16 \\times 1411.2 \\times 0.50"
+      }
+    ],
+    "final_answer": "Therefore, it will cost Rs 705.60 while polishing all the tiles.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multi-step calculations using Heron's formula and cost calculation.",
+    "topics_tags": [
+      "Heron's Formula",
+      "Area of Triangle",
+      "Cost Calculation"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing triangular tiles with sides 9 cm, 28 cm, and 35 cm.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488400/ncert/maths/12/img_19_0.jpg",
+        "latex_extracted": "\\begin{array}{c l}{{}}&{{\\Gamma_{\\widetilde{b u s o n i o n i o n i n g h}}^{1}}}\\\\ {{}}&{{\\frac{\\Gamma_{\\widetilde{b u t o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n i o n}}}}\\\\ {{}}&{{}}\\\\ {{}}&{{}}\\\\ {{}}&{{}}\\\\ {{}}&{{}}\\\\ {{\\left.\\frac{{}_{e e o n i o n i o n i o n i o n i o n i o n o n i o n i o n}^{*}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  }
+]

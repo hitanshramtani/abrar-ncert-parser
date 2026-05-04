@@ -1,0 +1,2424 @@
+[
+  {
+    "question_id": "Q7.1",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 7,
+    "chapter_name": "alternating current",
+    "question_type": "mcq",
+    "question_text": "A 100 Ω resistor is connected to a 220 V, 50 Hz ac supply. (a) What is the rms value of current in the circuit? (b) What is the net power consumed over a full cycle?",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "What is the rms value of current in the circuit?"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "What is the net power consumed over a full cycle?"
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to the circuit with a resistor connected to an AC supply.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777797332/ncert/physics/7/img_1_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "What is the rms value of current in the circuit?",
+        "part_latex": null,
+        "answer_text": "The rms value of current in the circuit is given as:",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "What is the net power consumed over a full cycle?",
+        "part_latex": null,
+        "answer_text": "The net power consumed over a full cycle is given as: P = VI = 220 × 2.2 = 484 W",
+        "answer_latex": "P = VI = 220 \\times 2.2 = 484 \\text{ W}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the power using the formula P = VI.",
+            "expression": "P = VI"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the values of V and I.",
+            "expression": "P = 220 \\times 2.2"
+          }
+        ],
+        "final_answer": "Therefore, the net power consumed over a full cycle is 484 W.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of AC circuit concepts and power calculation.",
+    "topics_tags": [
+      "AC Circuit",
+      "RMS Current",
+      "Power Consumption"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the circuit with a resistor connected to an AC supply.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777797332/ncert/physics/7/img_1_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.2",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 7,
+    "chapter_name": "alternating current",
+    "question_type": "mcq",
+    "question_text": "(a) The peak voltage of an ac supply is 300 V. What is the rms voltage? (b) The rms value of current in an ac circuit is 10 A. What is the peak current?",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "The peak voltage of an ac supply is 300 V. What is the rms voltage?"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "The rms value of current in an ac circuit is 10 A. What is the peak current?"
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to the peak voltage and rms current in an AC circuit.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777797333/ncert/physics/7/img_1_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "What is the rms voltage?",
+        "part_latex": null,
+        "answer_text": "Rms voltage is given as:",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "What is the peak current?",
+        "part_latex": null,
+        "answer_text": "Now, peak current is given as:",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires basic understanding of AC voltage relationships.",
+    "topics_tags": [
+      "Peak Voltage",
+      "RMS Voltage",
+      "AC Current"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the peak voltage and rms current in an AC circuit.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777797333/ncert/physics/7/img_1_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.3",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 7,
+    "chapter_name": "alternating current",
+    "question_type": "numerical",
+    "question_text": "A 44 mH inductor is connected to 220 V, 50 Hz ac supply. Determine the rms value of the current in the circuit.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to the inductor connected to an AC supply.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777797345/ncert/physics/7/img_2_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Hence, the rms value of current in the circuit is 15.92 A.",
+    "answer_latex": "I_{rms} = 15.92 \\text{ A}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the angular frequency ω.",
+        "expression": "ω = 2 \\pi f"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the inductive reactance X.",
+        "expression": "X_L = ω L"
+      },
+      {
+        "step_number": 3,
+        "description": "Use the formula to find the rms current.",
+        "expression": "I_{rms} = \\frac{V}{X_L}"
+      }
+    ],
+    "final_answer": "Therefore, the rms value of current in the circuit is 15.92 A.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves calculation of reactance and current in an AC circuit.",
+    "topics_tags": [
+      "Inductor",
+      "RMS Current",
+      "AC Circuit"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the inductor connected to an AC supply.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777797345/ncert/physics/7/img_2_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.4",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 7,
+    "chapter_name": "alternating current",
+    "question_type": "numerical",
+    "question_text": "A 60 µF capacitor is connected to a 110 V, 60 Hz ac supply. Determine the rms value of the current in the circuit.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to the capacitor connected to an AC supply.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777797346/ncert/physics/7/img_2_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Rms value of current is given as:",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of capacitive circuits and current calculation.",
+    "topics_tags": [
+      "Capacitor",
+      "RMS Current",
+      "AC Circuit"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the capacitor connected to an AC supply.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777797346/ncert/physics/7/img_2_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.5",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 7,
+    "chapter_name": "alternating current",
+    "question_type": "mcq",
+    "question_text": "In Exercises 7.3 and 7.4, what is the net power absorbed by each circuit over a complete cycle? Explain your answer.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to power absorption in inductive and capacitive circuits.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777797360/ncert/physics/7/img_3_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "In the inductive circuit, the net power is zero. In the capacitive circuit, the net power is also zero.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the net power absorbed by each circuit over a complete cycle is zero.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of power in AC circuits and phase relationships.",
+    "topics_tags": [
+      "Power Absorption",
+      "Inductive Circuit",
+      "Capacitive Circuit"
+    ],
+    "confidence_score": 0.93,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to power absorption in inductive and capacitive circuits.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777797360/ncert/physics/7/img_3_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.7",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 7,
+    "chapter_name": "alternating current",
+    "question_type": "numerical",
+    "question_text": "A charged 30 µF capacitor is connected to a 27 mH inductor. What is the angular frequency of free oscillations of the circuit?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to the circuit with a capacitor and inductor.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777797375/ncert/physics/7/img_4_2.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Hence, the angular frequency of free oscillations of the circuit is 1.11 × 10^3 rad/s.",
+    "answer_latex": "\\omega = 1.11 \\times 10^3 \\text{ rad/s}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the formula for angular frequency in an LC circuit.",
+        "expression": "\\omega = \\frac{1}{\\sqrt{LC}}"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values of L and C into the formula.",
+        "expression": "\\omega = \\frac{1}{\\sqrt{27 \\times 10^{-3} \\times 30 \\times 10^{-6}}}"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the angular frequency.",
+        "expression": "\\omega \\approx 1.11 \\times 10^3"
+      }
+    ],
+    "final_answer": "Therefore, the angular frequency of free oscillations of the circuit is 1.11 × 10^3 rad/s.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of LC circuit dynamics and basic calculations.",
+    "topics_tags": [
+      "Angular Frequency",
+      "LC Circuit",
+      "Oscillations"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the circuit with a capacitor and inductor.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777797375/ncert/physics/7/img_4_2.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.8",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 7,
+    "chapter_name": "alternating current",
+    "question_type": "numerical",
+    "question_text": "A series LCR circuit with R = 20 Ω, L = 1.5 H and C = 35 µF is connected to a variable-frequency 200 V ac supply. When the frequency of the supply equals the natural frequency of the circuit, what is the average power transferred to the circuit in one complete cycle?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Images related to the LCR circuit parameters and energy calculations.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777797385/ncert/physics/7/img_5_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "At resonance, the average power transferred to the circuit can be calculated using the formula P = \frac{V^2}{R}.",
+    "answer_latex": "P = \frac{200^2}{20} = 2000 \text{ W}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the formula for average power at resonance.",
+        "expression": "P = \frac{V^2}{R}"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values of voltage and resistance.",
+        "expression": "P = \frac{200^2}{20}"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the average power.",
+        "expression": "P = 2000"
+      }
+    ],
+    "final_answer": "Therefore, the average power transferred to the circuit in one complete cycle is 2000 W.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of resonance in LCR circuits and basic power calculation.",
+    "topics_tags": [
+      "LCR Circuit",
+      "Resonance",
+      "Average Power"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Images related to the LCR circuit parameters and energy calculations.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777797385/ncert/physics/7/img_5_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.9",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 7,
+    "chapter_name": "alternating current",
+    "question_type": "numerical",
+    "question_text": "A radio can tune over the frequency range of a portion of MW broadcast band: (800 kHz to 1200 kHz). If its LC circuit has an effective inductance of 200 µH, what must be the range of its variable capacitor?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The range of frequency (ν) of a radio is 800 kHz to 1200 kHz. Lower tuning frequency, ν = 800 kHz = 800 × 10^3 Hz. Upper tuning frequency, ν = 1200 kHz = 1200 × 10^3 Hz. Effective inductance of circuit L = 200 µH = 200 × 10^{-6} H.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Convert the frequency range from kHz to Hz.",
+        "expression": "ν_{lower} = 800 \times 10^3, ν_{upper} = 1200 \times 10^3"
+      },
+      {
+        "step_number": 2,
+        "description": "Convert the inductance from µH to H.",
+        "expression": "L = 200 \times 10^{-6}"
+      }
+    ],
+    "final_answer": "Thus, the effective inductance and frequency range are established for tuning the radio.",
+    "answer_image": {
+      "present": true,
+      "description": "Image related to the LC circuit and tuning of the radio.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777797403/ncert/physics/7/img_6_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of LC circuits and basic frequency calculations.",
+    "topics_tags": [
+      "LC Circuit",
+      "Tuning",
+      "Frequency"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image related to the LC circuit and tuning of the radio.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777797403/ncert/physics/7/img_6_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q7.10",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 7,
+    "chapter_name": "alternating current",
+    "question_type": "mcq",
+    "question_text": "Question 7.11: Figure 7.21 shows a series LCR circuit connected to a variable frequency 230 V source. L = 5.0 H, C = 80µF, R = 40 Ω (a) Determine the source frequency which drives the circuit in resonance. (b) Obtain the impedance of the circuit and the amplitude of current at the resonating frequency. (c) Determine the rms potential drops across the three elements of the circuit. Show that the potential drop across the LC combination is zero at the resonating frequency.",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "Determine the source frequency which drives the circuit in resonance."
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "Obtain the impedance of the circuit and the amplitude of current at the resonating frequency."
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "Determine the rms potential drops across the three elements of the circuit. Show that the potential drop across the LC combination is zero at the resonating frequency."
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Figure showing a series LCR circuit connected to a variable frequency source.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777797416/ncert/physics/7/img_7_2.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Determine the source frequency which drives the circuit in resonance.",
+        "part_latex": null,
+        "answer_text": "The circuit will come in resonance for a source frequency of 50 rad/s.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the resonance angular frequency using the formula.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Hence, the circuit will come in resonance for a source frequency of 50 rad/s.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Obtain the impedance of the circuit and the amplitude of current at the resonating frequency.",
+        "part_latex": null,
+        "answer_text": "At resonance, the impedance of the circuit is 40 Ω and the amplitude of the current is 8.13 A.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the formula for impedance at resonance.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the amplitude of the current using the peak voltage.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Hence, at resonance, the impedance of the circuit is 40 Ω and the amplitude of the current is 8.13 A.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "Determine the rms potential drops across the three elements of the circuit. Show that the potential drop across the LC combination is zero at the resonating frequency.",
+        "part_latex": null,
+        "answer_text": "The potential drop across the LC combination is zero at resonating frequency.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the potential drop across each element using the rms current.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Show that the potential drop across the LC combination is zero.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, it is proved that the potential drop across the LC combination is zero at resonating frequency.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of resonance and calculations for impedance and current.",
+    "topics_tags": [
+      "LCR Circuit",
+      "Resonance",
+      "Impedance",
+      "Alternating Current"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Figure showing a series LCR circuit connected to a variable frequency source.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777797416/ncert/physics/7/img_7_2.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.11",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 7,
+    "chapter_name": "alternating current",
+    "question_type": "mcq",
+    "question_text": "A coil of inductance 0.50 H and resistance 100 Ω is connected to a 240 V, 50 Hz ac supply. (a) What is the maximum current in the coil? (b) What is the time lag between the voltage maximum and the current maximum?",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "What is the maximum current in the coil?"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "What is the time lag between the voltage maximum and the current maximum?"
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "What is the maximum current in the coil?",
+        "part_latex": null,
+        "answer_text": "The maximum current in the coil can be calculated using the formula I_{max} = \\frac{V}{R} = \\frac{240}{100} = 2.4 A.",
+        "answer_latex": "I_{max} = \\frac{V}{R} = \\frac{240}{100} = 2.4 \\text{ A}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the formula for maximum current in an AC circuit.",
+            "expression": "I_{max} = \\frac{V}{R}"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the values of voltage and resistance.",
+            "expression": "I_{max} = \\frac{240}{100} = 2.4"
+          }
+        ],
+        "final_answer": "Therefore, the maximum current in the coil is 2.4 A.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "What is the time lag between the voltage maximum and the current maximum?",
+        "part_latex": null,
+        "answer_text": "The time lag can be calculated using the phase difference, which is given by Φ = \\tan^{-1}(\\frac{X_L}{R}).",
+        "answer_latex": "Φ = \\tan^{-1}(\\frac{X_L}{R})",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the inductive reactance X_L using X_L = \\omega L.",
+            "expression": "X_L = \\omega L = 2 \\pi \\times 50 \\times 0.50"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the values to find the phase difference.",
+            "expression": "Φ = \\tan^{-1}(\\frac{X_L}{R})"
+          }
+        ],
+        "final_answer": "Thus, the time lag between the voltage maximum and the current maximum can be determined from the phase difference.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of AC circuit concepts and calculations.",
+    "topics_tags": [
+      "Inductance",
+      "AC Circuit",
+      "Maximum Current",
+      "Phase Difference"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.12",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 7,
+    "chapter_name": "alternating current",
+    "question_type": "mcq",
+    "question_text": "Obtain the answers (a) to (b) in Exercise 7.13 if the circuit is connected to a high frequency supply (240 V, 10 kHz). Hence, explain the statement that at very high frequency, an inductor in a circuit nearly amounts to an open circuit. How does an inductor behave in a dc circuit after the steady state?",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "to"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "in Exercise 7.13 if the circuit is connected to a high frequency supply (240 V, 10 kHz). Hence, explain the statement that at very high frequency, an inductor in a circuit nearly amounts to an open circuit. How does an inductor behave in a dc circuit after the steady state?"
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Images related to the question context, possibly showing circuit diagrams or related concepts.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777797485/ncert/physics/7/img_13_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Peak voltage, Maximum current,",
+        "part_latex": null,
+        "answer_text": null,
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "For phase differenceΦ, we have the relation:",
+        "part_latex": null,
+        "answer_text": null,
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of AC circuits and inductor behavior, involving multiple concepts.",
+    "topics_tags": [
+      "Alternating Current",
+      "Inductance",
+      "High Frequency Circuits"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Images related to the question context, possibly showing circuit diagrams or related concepts.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777797485/ncert/physics/7/img_13_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.13",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 7,
+    "chapter_name": "Alternating Current",
+    "question_type": "mcq",
+    "question_text": "A 100 µF capacitor in series with a 40 Ω resistance is connected to a 110 V, 60 Hz supply. (a) What is the maximum current in the circuit? (b) What is the time lag between the current maximum and the voltage maximum?",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "What is the maximum current in the circuit?"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "What is the time lag between the current maximum and the voltage maximum?"
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "What is the maximum current in the circuit?",
+        "part_latex": null,
+        "answer_text": "The maximum current can be calculated using the formula I_{max} = \\frac{V_{max}}{Z}, where Z is the impedance of the circuit.",
+        "answer_latex": "I_{max} = \\frac{V_{max}}{Z}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the impedance Z of the RC circuit.",
+            "expression": "Z = \\sqrt{R^2 + \\left( \\frac{1}{\\omega C} \\right)^2}"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the values to find Z.",
+            "expression": "Z = \\sqrt{40^2 + \\left( \\frac{1}{2 \\pi \\times 60 \\times 100 \\times 10^{-6}} \\right)^2}"
+          },
+          {
+            "step_number": 3,
+            "description": "Calculate the maximum current I_{max}.",
+            "expression": "I_{max} = \\frac{110}{Z}"
+          }
+        ],
+        "final_answer": "Thus, the maximum current in the circuit can be calculated once Z is determined.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "What is the time lag between the current maximum and the voltage maximum?",
+        "part_latex": null,
+        "answer_text": "The time lag can be calculated using the formula \\Delta t = \\frac{\\phi}{\\omega}, where \\phi is the phase difference.",
+        "answer_latex": "\\Delta t = \\frac{\\phi}{\\omega}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the phase difference \\phi using \\phi = \\tan^{-1}\\left(\\frac{1}{\\omega RC}\\right).",
+            "expression": "\\phi = \\tan^{-1}\\left(\\frac{1}{2 \\pi \\times 60 \\times 100 \\times 10^{-6} \\times 40}\\right)"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the values to find \\phi.",
+            "expression": "\\phi = \\tan^{-1}\\left(\\frac{1}{2 \\pi \\times 60 \\times 100 \\times 10^{-6} \\times 40}\\right)"
+          },
+          {
+            "step_number": 3,
+            "description": "Calculate the time lag \\Delta t.",
+            "expression": "\\Delta t = \\frac{\\phi}{2 \\pi \\times 60}"
+          }
+        ],
+        "final_answer": "Therefore, the time lag between the current maximum and the voltage maximum can be calculated once \\phi is determined.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of RC circuits and calculations involving impedance and phase difference.",
+    "topics_tags": [
+      "RC Circuit",
+      "Impedance",
+      "Phase Difference"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.14",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 7,
+    "chapter_name": "alternating current",
+    "question_type": "mcq",
+    "question_text": "Obtain the answers to (a) and (b) in Exercise 7.15 if the circuit is connected to a 110 V, 12 kHz supply? Hence, explain the statement that a capacitor is a conductor at very high frequencies. Compare this behaviour with that of a capacitor in a dc circuit after the steady state.",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "and"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "in Exercise 7.15 if the circuit is connected to a 110 V, 12 kHz supply? Hence, explain the statement that a capacitor is a conductor at very high frequencies. Compare this behaviour with that of a capacitor in a dc circuit after the steady state."
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Images related to the capacitor circuit and phase angle in AC circuits.",
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Obtain the answers to (a) in Exercise 7.15.",
+        "part_latex": null,
+        "answer_text": null,
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Explain the statement that a capacitor is a conductor at very high frequencies. Compare this behaviour with that of a capacitor in a dc circuit after the steady state.",
+        "part_latex": null,
+        "answer_text": null,
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of AC circuits and capacitor behavior in different conditions.",
+    "topics_tags": [
+      "Capacitor",
+      "Alternating Current",
+      "Phase Angle",
+      "High Frequency"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Images related to the capacitor circuit and phase angle in AC circuits.",
+        "cloudinary_url": null,
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.15",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 7,
+    "chapter_name": "alternating current",
+    "question_type": "conceptual",
+    "question_text": "Keeping the source frequency equal to the resonating frequency of the series LCR circuit, if the three elements, L, C and R are arranged in parallel, show that the total current in the parallel LCR circuit is minimum at this frequency. Obtain the current rms value in each branch of the circuit for the elements and source specified in Exercise 7.11 for this frequency.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "An inductor (L), a capacitor (C), and a resistor (R) is connected in parallel with each other in a circuit where, L = 5.0 H, C = 80 µF = 80 × 10−6 F, R = 40 Ω, Potential of the voltage source, V = 230 V.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "The total current is minimum at the resonating frequency.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram related to the parallel LCR circuit showing components L, C, and R.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777797522/ncert/physics/7/img_17_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of LCR circuits and resonance conditions.",
+    "topics_tags": [
+      "LCR Circuit",
+      "Resonance",
+      "Current",
+      "Parallel Circuit"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "Some context may be missing regarding the current rms value calculation."
+    ],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the parallel LCR circuit showing components L, C, and R.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777797522/ncert/physics/7/img_17_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      },
+      {
+        "present": true,
+        "description": "Diagram showing the parallel LCR circuit with specified components.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777797530/ncert/physics/7/img_17_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q7.16",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 7,
+    "chapter_name": "alternating current",
+    "question_type": "numerical",
+    "question_text": "A circuit containing a 80 mH inductor and a 60 µF capacitor in series is connected to a 230 V, 50 Hz supply. Obtain the current amplitude and rms values.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the series circuit with an inductor and capacitor.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777797540/ncert/physics/7/img_18_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Obtain the current amplitude.",
+        "part_latex": null,
+        "answer_text": "The current amplitude can be calculated using the formula I = \\frac{V}{Z}, where Z is the impedance of the circuit.",
+        "answer_latex": "I = \\frac{V}{Z}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the impedance Z of the series circuit.",
+            "expression": "Z = \\sqrt{R^2 + (X_L - X_C)^2}"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the values to find the current amplitude.",
+            "expression": "I = \\frac{230}{Z}"
+          }
+        ],
+        "final_answer": "Thus, the current amplitude can be determined from the impedance.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves calculation of impedance and current values.",
+    "topics_tags": [
+      "Inductor",
+      "Capacitor",
+      "Series Circuit",
+      "Current"
+    ],
+    "confidence_score": 0.8,
+    "confidence_issues": [
+      "Answer details for current rms value are not provided."
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the series circuit with an inductor and capacitor.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777797540/ncert/physics/7/img_18_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.17",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 7,
+    "chapter_name": "alternating current",
+    "question_type": "multipart",
+    "question_text": "Obtain the rms values of potential drops across each element. What is the average power transferred to the inductor? What is the average power transferred to the capacitor? What is the total average power absorbed by the circuit?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to alternating current circuit elements.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777797555/ncert/physics/7/img_19_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(b)",
+        "part_text": "Obtain the rms values of potential drops across each element.",
+        "part_latex": null,
+        "answer_text": "The rms value of the potential drop across the inductor is 206.61 V.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the potential difference across the inductor using the formula V = I × ωL.",
+            "expression": "V = I × ωL"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the values to find the potential drop.",
+            "expression": "V = 8.22 × 100 π × 80 × 10^{-3} = 206.61"
+          }
+        ],
+        "final_answer": "Therefore, the rms value of the potential drop across the inductor is 206.61 V.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "What is the average power transferred to the inductor?",
+        "part_latex": null,
+        "answer_text": "The average power consumed by the inductor is zero as actual voltage leads the current.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, the average power transferred to the inductor is zero.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(d)",
+        "part_text": "What is the average power transferred to the capacitor?",
+        "part_latex": null,
+        "answer_text": "The average power consumed by the capacitor is zero as voltage lags current.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Hence, the average power transferred to the capacitor is zero.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(e)",
+        "part_text": "What is the total average power absorbed by the circuit?",
+        "part_latex": null,
+        "answer_text": "The total average power absorbed by the circuit is zero.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Therefore, the total average power absorbed by the circuit is zero.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of AC circuit behavior and calculations for multiple components.",
+    "topics_tags": [
+      "RMS Values",
+      "Average Power",
+      "Inductor",
+      "Capacitor",
+      "AC Circuit"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to alternating current circuit elements.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777797555/ncert/physics/7/img_19_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.18",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 7,
+    "chapter_name": "alternating current",
+    "question_type": "mcq",
+    "question_text": "Obtain the resonant frequency and Q-factor of a series LCR circuit with L = 3.0 H, C = 27 µF, and R = 7.4 Ω. It is desired to improve the sharpness of the resonance of the circuit by reducing its ‘full width at half maximum’ by a factor of 2. Suggest a suitable way.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to the LCR circuit and its parameters.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777897710/ncert/physics/7/img_24_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Obtain the resonant frequency and Q-factor of a series LCR circuit with L = 3.0 H, C = 27 µF, and R = 7.4 Ω.",
+        "part_latex": null,
+        "answer_text": "The resonant frequency is calculated using the formula \\omega_0 = \\frac{1}{\\sqrt{LC}} and the Q-factor is given by Q = \\frac{\\omega_0 L}{R}.",
+        "answer_latex": "\\omega_0 = \\frac{1}{\\sqrt{3.0 \\times 27 \\times 10^{-6}}} \\approx  60.1 \\text{ rad/s}, \\quad Q = \\frac{60.1 \\times 3.0}{7.4} \\approx 24.4.",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the resonant frequency using the formula.",
+            "expression": "\\omega_0 = \\frac{1}{\\sqrt{LC}}"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the values of L and C to find \\omega_0.",
+            "expression": "\\omega_0 = \\frac{1}{\\sqrt{3.0 \\times 27 \\times 10^{-6}}}"
+          },
+          {
+            "step_number": 3,
+            "description": "Calculate the Q-factor using the formula.",
+            "expression": "Q = \\frac{\\omega_0 L}{R}"
+          },
+          {
+            "step_number": 4,
+            "description": "Substitute the values to find Q.",
+            "expression": "Q = \\frac{60.1 \\times 3.0}{7.4}"
+          }
+        ],
+        "final_answer": "Therefore, the resonant frequency is approximately 60.1 rad/s and the Q-factor is approximately 24.4.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Suggest a suitable way to improve the sharpness of the resonance by reducing its ‘full width at half maximum’ by a factor of 2.",
+        "part_latex": null,
+        "answer_text": "To improve the sharpness of the resonance, we need to reduce the resistance R to half.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, reducing the resistance to half will improve the sharpness of the resonance.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of resonant frequency and Q-factor calculations.",
+    "topics_tags": [
+      "LCR Circuit",
+      "Resonant Frequency",
+      "Q-Factor"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the LCR circuit and its parameters.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777897710/ncert/physics/7/img_24_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.19",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 7,
+    "chapter_name": "alternating current",
+    "question_type": "conceptual",
+    "question_text": "A choke coil in series with a lamp is connected to a dc line. The lamp is seen to shine brightly. Insertion of an iron core in the choke causes no change in the lamp’s brightness. Predict the corresponding observations if the connection is to an ac line.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to choke coil and lamp connection",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777897713/ncert/physics/7/img_25_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "If the connection is to an ac line, the lamp will glow dimly due to increased impedance from the choke coil and iron core.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the lamp will not shine brightly when connected to an ac line.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of ac circuits and impedance effects.",
+    "topics_tags": [
+      "Choke Coil",
+      "AC Circuits",
+      "Impedance"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to choke coil and lamp connection",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777897713/ncert/physics/7/img_25_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.20",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 7,
+    "chapter_name": "alternating current",
+    "question_type": "conceptual",
+    "question_text": "Why is choke coil needed in the use of fluorescent tubes with ac mains? Why can we not use an ordinary resistor instead of the choke coil?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "A choke coil is needed because it reduces the voltage across the tube without wasting much power, unlike an ordinary resistor which wastes power as heat.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, a choke coil is more efficient than a resistor for this application.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves understanding of electrical components and their functions.",
+    "topics_tags": [
+      "Fluorescent Tubes",
+      "Choke Coil",
+      "Power Efficiency"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.21",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 7,
+    "chapter_name": "alternating current",
+    "question_type": "numerical",
+    "question_text": "A power transmission line feeds input power at 2300 V to a stepdown transformer with its primary windings having 4000 turns. What should be the number of turns in the secondary in order to get output power at 230 V?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing transformer with primary and secondary windings",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777897715/ncert/physics/7/img_26_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Using the transformer equation, the number of turns in the secondary coil is 400.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Use the transformer turns ratio formula: V1/V2 = N1/N2.",
+        "expression": "N2 = N1 * (V2/V1)"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values: N2 = 4000 * (230/2300).",
+        "expression": "N2 = 400"
+      }
+    ],
+    "final_answer": "Hence, there are 400 turns in the secondary winding.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic application of transformer principles.",
+    "topics_tags": [
+      "Transformer",
+      "Voltage",
+      "Turns Ratio"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing transformer with primary and secondary windings",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777897715/ncert/physics/7/img_26_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.22",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 7,
+    "chapter_name": "alternating current",
+    "question_type": "numerical",
+    "question_text": "At a hydroelectric power plant, the water pressure head is at a height of 300 m and the water flow available is 100 m³/s. If the turbine generator efficiency is 60%, estimate the electric power available from the plant (g= 9.8 m/s²).",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The electric power available from the plant is 176.4 MW.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the potential energy per second using PE = ρghV.",
+        "expression": "P = η × hρgV"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values: P = 0.6 × 300 × 1000 × 9.8 × 100.",
+        "expression": "P = 176.4 × 10^6"
+      }
+    ],
+    "final_answer": "Thus, the electric power available from the plant is 176.4 MW.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of energy conversion and efficiency calculations.",
+    "topics_tags": [
+      "Hydroelectric Power",
+      "Energy Efficiency",
+      "Power Calculation"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.23",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 7,
+    "chapter_name": "alternating current",
+    "question_type": "mcq",
+    "question_text": "A small town with a demand of 800 kW of electric power at 220 V is situated 15 km away from an electric plant generating power at 440 V. The resistance of the two wire line carrying power is 0.5 Ω per km. The town gets power from the line through a 4000-220 V step-down transformer at a sub-station in the town. (a) Estimate the line power loss in the form of heat. (b) How much power must the plant supply, assuming there is negligible power loss due to leakage? (c) Characterise the step up transformer at the plant.",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "Estimate the line power loss in the form of heat."
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "How much power must the plant supply, assuming there is negligible power loss due to leakage?"
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "Characterise the step up transformer at the plant."
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to power transmission and transformer setup",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777897717/ncert/physics/7/img_27_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Estimate the line power loss in the form of heat.",
+        "part_latex": null,
+        "answer_text": "The line power loss is 600 kW.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the total resistance of the wires: R = (15 + 15) * 0.5.",
+            "expression": "R = 15 Ω"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the line power loss using P_loss = I²R.",
+            "expression": "P_loss = (200)² × 15"
+          }
+        ],
+        "final_answer": "Thus, the line power loss is 600 kW.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "How much power must the plant supply, assuming there is negligible power loss due to leakage?",
+        "part_latex": null,
+        "answer_text": "The total power supplied by the plant must be 1400 kW.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Therefore, the plant must supply 1400 kW.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "Characterise the step up transformer at the plant.",
+        "part_latex": null,
+        "answer_text": "The rating of the step-up transformer is 440 V - 7000 V.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, the step-up transformer at the plant is rated 440 V - 7000 V.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Involves multiple calculations and understanding of power transmission.",
+    "topics_tags": [
+      "Power Transmission",
+      "Transformer",
+      "Electrical Efficiency"
+    ],
+    "confidence_score": 0.94,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to power transmission and transformer setup",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777897717/ncert/physics/7/img_27_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.24",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 7,
+    "chapter_name": "Alternating Current",
+    "question_type": "multipart",
+    "question_text": "Do the same exercise as above with the replacement of the earlier transformer by a 40,000-220 V step-down transformer. Neglect, as before, leakage losses though this may not be a good assumption any longer because of the very high voltage transmission involved. Hence, explain why high voltage transmission is preferred?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image related to the question about transformers and power transmission.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777897719/ncert/physics/7/img_28_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Line power loss = I²R",
+        "part_latex": null,
+        "answer_text": "Line power loss is calculated as I²R = (20)² × 15 = 6 kW.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the line power loss using the formula I²R.",
+            "expression": "I^2 R = (20)^2 \\times 15"
+          }
+        ],
+        "final_answer": "Thus, the line power loss is 6 kW.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Assuming that the power loss is negligible due to the leakage of current.",
+        "part_latex": null,
+        "answer_text": "Hence, power supplied by the plant = 800 kW + 6 kW = 806 kW.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Add the power loss to the total power required.",
+            "expression": "P_{supplied} = 800 \\text{ kW} + 6 \\text{ kW}"
+          }
+        ],
+        "final_answer": "Therefore, the total power supplied by the plant is 806 kW.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "Voltage drop in the power line = IR.",
+        "part_latex": null,
+        "answer_text": "Voltage drop is calculated as IR = 20 × 15 = 300 V.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the voltage drop using the formula IR.",
+            "expression": "V_{drop} = I \\times R = 20 \\times 15"
+          }
+        ],
+        "final_answer": "Thus, the voltage drop in the power line is 300 V.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": "Since the power loss is less for a high voltage transmission, high voltage transmissions are preferred for this purpose.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Hence, high voltage transmission is preferred due to lower power losses.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations and understanding of transformer operations.",
+    "topics_tags": [
+      "Transformers",
+      "Power Transmission",
+      "High Voltage"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image related to the question about transformers and power transmission.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777897719/ncert/physics/7/img_28_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  }
+]

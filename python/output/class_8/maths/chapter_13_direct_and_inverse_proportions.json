@@ -1,0 +1,1488 @@
+[
+  {
+    "question_id": "Q13.1",
+    "class": 8,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "direct and inverse proportions",
+    "question_type": "conceptual",
+    "question_text": "Check if the parking charges are in direct proportion to the parking time.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The parking charges are not in direct proportion to the parking time as the ratio of parking charges to the respective number of hours is not the same.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Form a table of parking charges and hours.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the ratio of parking charges to hours.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Determine if the ratios are the same.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, the parking charges are not in direct proportion to the parking time.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of direct proportion and comparison of ratios.",
+    "topics_tags": [
+      "Direct Proportion",
+      "Ratios",
+      "Proportions"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.2",
+    "class": 8,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "direct and inverse proportions",
+    "question_type": "numerical",
+    "question_text": "If 1 part of a red pigment requires 75 mL of base, how much red pigment should we mix with 1800 mL of base?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "24 parts of red pigments should be mixed with 1800 mL of base.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set up the proportion based on the given information.",
+        "expression": "\\frac{1}{75}=\\frac{x}{1800}"
+      },
+      {
+        "step_number": 2,
+        "description": "Cross-multiply to solve for x.",
+        "expression": "x = \\frac{1800}{75}"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the value of x.",
+        "expression": "x = 24"
+      }
+    ],
+    "final_answer": "Thus, 24 parts of red pigments should be mixed with 1800 mL of base.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of the relationship between red pigment and base.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777407681/ncert/maths/13/img_3_0.png",
+      "latex_extracted": "\\frac{1}{75}=\\frac{x}{1800}{1800}{75}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves setting up and solving a proportion.",
+    "topics_tags": [
+      "Direct Proportion",
+      "Mixtures",
+      "Ratios"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the relationship between red pigment and base.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777407681/ncert/maths/13/img_3_0.png",
+        "latex_extracted": "\\frac{1}{75}=\\frac{x}{1800}{1800}{75}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q13.3",
+    "class": 8,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "direct and inverse proportions",
+    "question_type": "numerical",
+    "question_text": "A photograph of a bacteria enlarged 50,000 times attains a length of 5 cm. What is the actual length of the bacteria? If the photograph is enlarged 20,000 times only, what would be its enlarged length?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of the relationship between the enlarged length and actual length of bacteria.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777407682/ncert/maths/13/img_4_0.png",
+      "latex_extracted": "\\frac{840}{6}=\\frac{x}{5}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "What is the actual length of the bacteria?",
+        "part_latex": null,
+        "answer_text": "The actual length of the bacteria is 10^-4 cm.",
+        "answer_latex": "x=10^{-4}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Set up the proportion based on the enlargement.",
+            "expression": "\\frac{5}{50,000}=\\frac{x}{1}"
+          },
+          {
+            "step_number": 2,
+            "description": "Solve for x.",
+            "expression": "x=\\frac{5}{50,000}"
+          }
+        ],
+        "final_answer": "Thus, the actual length of the bacteria is 10^-4 cm.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "If the photograph is enlarged 20,000 times, what would be its enlarged length?",
+        "part_latex": null,
+        "answer_text": "The enlarged length of bacteria is 2 cm.",
+        "answer_latex": "y=2",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Set up the proportion for the new enlargement.",
+            "expression": "\\frac{5}{50,000}=\\frac{y}{20,000}"
+          },
+          {
+            "step_number": 2,
+            "description": "Solve for y.",
+            "expression": "y=\\frac{20,000}{50,000} \\times 5"
+          }
+        ],
+        "final_answer": "Hence, the enlarged length of bacteria is 2 cm.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves setting up and solving proportions, requiring understanding of direct proportions.",
+    "topics_tags": [
+      "Direct Proportion",
+      "Enlargement",
+      "Mathematics"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the relationship between the enlarged length and actual length of bacteria.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777407682/ncert/maths/13/img_4_0.png",
+        "latex_extracted": "\\frac{840}{6}=\\frac{x}{5}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.4",
+    "class": 8,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "direct and inverse proportions",
+    "question_type": "numerical",
+    "question_text": "In a model of a ship, the mast is 9 cm high, while the mast of the actual ship is 12 m high. If the length of the ship is 28 m, how long is the model ship?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Thus, the length of the model ship is 21 cm.",
+    "answer_latex": "x=21",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set up the proportion based on the heights of the masts.",
+        "expression": "\\frac{12}{9}=\\frac{28}{x}"
+      },
+      {
+        "step_number": 2,
+        "description": "Solve for x.",
+        "expression": "x=\\frac{28\\times9}{12}"
+      }
+    ],
+    "final_answer": "Therefore, the length of the model ship is 21 cm.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of the relationship between the model ship and actual ship dimensions.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777407686/ncert/maths/13/img_5_0.png",
+      "latex_extracted": "\\begin{array}{c}{{\\frac{12}{9}={\\frac{28}{x}}}\\\\ {{x={\\frac{28\\times9}{12}}=21}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of direct proportions and basic calculations.",
+    "topics_tags": [
+      "Direct Proportion",
+      "Model Ship",
+      "Mathematics"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the relationship between the model ship and actual ship dimensions.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777407686/ncert/maths/13/img_5_0.png",
+        "latex_extracted": "\\begin{array}{c}{{\\frac{12}{9}={\\frac{28}{x}}}\\\\ {{x={\\frac{28\\times9}{12}}=21}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q13.5",
+    "class": 8,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "direct and inverse proportions",
+    "question_type": "numerical",
+    "question_text": "Suppose 2 kg of sugar contains 9 x 10^6 crystals. How many sugar crystals are there in (i) 5 kg of sugar? (ii) 1.2 kg of sugar?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "How many sugar crystals are there in 5 kg of sugar?",
+        "part_latex": null,
+        "answer_text": "The number of sugar crystals is 2.25 × 10^7.",
+        "answer_latex": "x=2.25 \\times 10^{7}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Set up the proportion based on the amount of sugar.",
+            "expression": "\\frac{2}{9 \\times 10^{6}}=\\frac{5}{x}"
+          },
+          {
+            "step_number": 2,
+            "description": "Solve for x.",
+            "expression": "x=\\frac{5 \\times 9 \\times 10^{6}}{2}"
+          }
+        ],
+        "final_answer": "Hence, the number of sugar crystals in 5 kg of sugar is 2.25 × 10^7.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "How many sugar crystals are there in 1.2 kg of sugar?",
+        "part_latex": null,
+        "answer_text": "The number of sugar crystals is 5.4 × 10^6.",
+        "answer_latex": "y=5.4 \\times 10^{6}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Set up the proportion for the new amount of sugar.",
+            "expression": "\\frac{2}{9 \\times 10^{6}}=\\frac{1.2}{y}"
+          },
+          {
+            "step_number": 2,
+            "description": "Solve for y.",
+            "expression": "y=\\frac{1.2 \\times 9 \\times 10^{6}}{2}"
+          }
+        ],
+        "final_answer": "Thus, the number of sugar crystals in 1.2 kg of sugar is 5.4 × 10^6.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of the relationship between the amount of sugar and the number of crystals.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777407688/ncert/maths/13/img_6_0.png",
+      "latex_extracted": "\\frac{2}{9\\times10^{6}\\times\\sum_{x}^{2}}_{2}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves setting up and solving proportions for two different scenarios.",
+    "topics_tags": [
+      "Direct Proportion",
+      "Sugar Crystals",
+      "Mathematics"
+    ],
+    "confidence_score": 0.94,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the relationship between the amount of sugar and the number of crystals.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777407688/ncert/maths/13/img_6_0.png",
+        "latex_extracted": "\\frac{2}{9\\times10^{6}\\times\\sum_{x}^{2}}_{2}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q13.6",
+    "class": 8,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "direct and inverse proportions",
+    "question_type": "numerical",
+    "question_text": "Rashmi has a road map with a scale of 1 cm representing 18 km. She drives on a road for 72 km. What would be her distance covered in the map?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Hence, the distance represented on the map is 4 cm.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set up the proportion based on the scale of the map.",
+        "expression": "\\frac{18}{1}=\\frac{72}{x}"
+      },
+      {
+        "step_number": 2,
+        "description": "Solve for x to find the distance on the map.",
+        "expression": "x=\\frac{72}{18}=4"
+      }
+    ],
+    "final_answer": "Therefore, the distance covered on the map is 4 cm.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of the proportion between distance on the road and distance on the map.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777407691/ncert/maths/13/img_7_0.png",
+      "latex_extracted": "\\begin{array}{l}{{\\frac{18}{1}}={\\frac{72}{x}}}\\\\ {{\\Rightarrow x={\\frac{72}{18}}=4}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of direct proportions and basic algebra.",
+    "topics_tags": [
+      "Direct Proportion",
+      "Scale",
+      "Distance"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the proportion between distance on the road and distance on the map.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777407691/ncert/maths/13/img_7_0.png",
+        "latex_extracted": "\\begin{array}{l}{{\\frac{18}{1}}={\\frac{72}{x}}}\\\\ {{\\Rightarrow x={\\frac{72}{18}}=4}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q13.7",
+    "class": 8,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "direct and inverse proportions",
+    "question_type": "multipart",
+    "question_text": "A 5 m 60 cm high vertical pole casts a shadow 3 m 20 cm long. Find at the same time - (i) the length of the shadow cast by another pole 10 m 50 cm high (ii) the height of a pole which casts a shadow 5 m long.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "the length of the shadow cast by another pole 10 m 50 cm high",
+        "part_latex": null,
+        "answer_text": "Hence, the length of the shadow will be 6 m.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Set up the proportion based on the heights and shadows of the poles.",
+            "expression": "\\frac{5.60}{3.20}=\\frac{10.50}{x}"
+          },
+          {
+            "step_number": 2,
+            "description": "Solve for x to find the length of the shadow.",
+            "expression": "x=\\frac{10.50 \\times 3.20}{5.60}=6"
+          }
+        ],
+        "final_answer": "Therefore, the length of the shadow cast by the 10 m 50 cm pole is 6 m.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "the height of a pole which casts a shadow 5 m long",
+        "part_latex": null,
+        "answer_text": "Thus, the height of the pole is 8.75 m or 8 m 75 cm.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Set up the proportion based on the height and shadow of the known pole.",
+            "expression": "\\frac{5.60}{3.20}=\\frac{y}{5}"
+          },
+          {
+            "step_number": 2,
+            "description": "Solve for y to find the height of the pole.",
+            "expression": "y=\\frac{5.60 \\times 5}{3.20}=8.75"
+          }
+        ],
+        "final_answer": "Therefore, the height of the pole is 8.75 m or 8 m 75 cm.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of the relationship between the height of poles and the length of their shadows.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777407694/ncert/maths/13/img_8_0.png",
+      "latex_extracted": "\\begin{array}{l}{{5.60~}}\\\\ {{\\overline{{{3.20}}}=\\frac{10.50~}{x}~}}\\\\ {{~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~}}}\\\\ {{\\ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves setting up and solving proportions for two different parts.",
+    "topics_tags": [
+      "Shadows",
+      "Proportions",
+      "Height"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the relationship between the height of poles and the length of their shadows.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777407694/ncert/maths/13/img_8_0.png",
+        "latex_extracted": "\\begin{array}{l}{{5.60~}}\\\\ {{\\overline{{{3.20}}}=\\frac{10.50~}{x}~}}\\\\ {{~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~}}}\\\\ {{\\ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q13.8",
+    "class": 8,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "direct and inverse proportions",
+    "question_type": "numerical",
+    "question_text": "A loaded truck travels 14 km in 25 minutes. If the speed remains the same, how far can it travel in 5 hours?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Hence, the distance travelled by the truck is 168 km.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Convert 5 hours into minutes.",
+        "expression": "5 \\times 60 = 300"
+      },
+      {
+        "step_number": 2,
+        "description": "Set up the proportion based on distance and time.",
+        "expression": "\\frac{14}{25}=\\frac{x}{300}"
+      },
+      {
+        "step_number": 3,
+        "description": "Solve for x to find the distance.",
+        "expression": "x=\\frac{14 \\times 300}{25}=168"
+      }
+    ],
+    "final_answer": "Therefore, the truck can travel 168 km in 5 hours.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of the relationship between distance traveled and time taken.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777407697/ncert/maths/13/img_9_0.png",
+      "latex_extracted": "\\frac{14}{25}=\\frac{x}{300}{300}{\\mathrm{=}}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of direct proportions and basic calculations.",
+    "topics_tags": [
+      "Distance",
+      "Time",
+      "Speed"
+    ],
+    "confidence_score": 0.94,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the relationship between distance traveled and time taken.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777407697/ncert/maths/13/img_9_0.png",
+        "latex_extracted": "\\frac{14}{25}=\\frac{x}{300}{300}{\\mathrm{=}}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q13.9",
+    "class": 8,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "direct and inverse proportions",
+    "question_type": "multipart",
+    "question_text": "Rehman is making a wheel using spokes. He wants to fix equal spokes in such a way that the angles between any pair of consecutive spokes are equal. Help him by completing the following table.\nNumber of spokes 4 6 8 10 12\nAngle between a pair of consecutive spokes 90° 60° … … …\n(i) Are the number of spokes and the angles formed between the pairs of consecutive spokes in inverse proportion?\n(ii) Calculate the angle between a pair of consecutive spokes on a wheel with 15 spokes.\n(iii) How many spokes would be needed, if the angle between a pair of consecutive spokes is 40°?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "Are the number of spokes and the angles formed between the pairs of consecutive spokes in inverse proportion?",
+        "part_latex": null,
+        "answer_text": "Yes, the number of spokes and the angles formed between the pairs of consecutive spokes are in inverse proportion.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, the number of spokes and the angle between a pair of consecutive spokes are inversely proportional to each other.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "Calculate the angle between a pair of consecutive spokes on a wheel with 15 spokes.",
+        "part_latex": "4 \\times 90^{\\circ} = 15 \\times x",
+        "answer_text": "Let the angle between a pair of consecutive spokes on a wheel with 15 spokes be x. Therefore, 4 × 90° = 15 × x.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Set up the equation based on the inverse proportion.",
+            "expression": "4 \\times 90^{\\circ} = 15 \\times x"
+          },
+          {
+            "step_number": 2,
+            "description": "Solve for x.",
+            "expression": "x = \\frac{4 \\times 90^{\\circ}}{15}"
+          }
+        ],
+        "final_answer": "Therefore, the angle between a pair of consecutive spokes on a wheel with 15 spokes is 24°.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "How many spokes would be needed, if the angle between a pair of consecutive spokes is 40°?",
+        "part_latex": "4 \\times 90^{\\circ} = x \\times 40^{\\circ}",
+        "answer_text": "Using the inverse proportion, we can set up the equation: 4 × 90° = x × 40°.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Set up the equation based on the inverse proportion.",
+            "expression": "4 \\times 90^{\\circ} = x \\times 40^{\\circ}"
+          },
+          {
+            "step_number": 2,
+            "description": "Solve for x.",
+            "expression": "x = \\frac{4 \\times 90^{\\circ}}{40^{\\circ}}"
+          }
+        ],
+        "final_answer": "Therefore, 9 spokes would be needed if the angle between a pair of consecutive spokes is 40°.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of inverse proportions and solving equations.",
+    "topics_tags": [
+      "Inverse Proportion",
+      "Angles",
+      "Spokes"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.10",
+    "class": 8,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "direct and inverse proportions",
+    "question_type": "numerical",
+    "question_text": "If a box of sweets is divided among 24 children, they will get 5 sweets each. How many would each get, if the number of the children is reduced by 4?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Each student will get 6 sweets.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the number of remaining children after reducing by 4.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Set up the inverse proportion equation based on the number of children and sweets.",
+        "expression": "24 \\times 5 = 20 \\times x"
+      },
+      {
+        "step_number": 3,
+        "description": "Solve for x to find the number of sweets each of the 20 students will get.",
+        "expression": "x = 6"
+      }
+    ],
+    "final_answer": "Therefore, each student will get 6 sweets.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of inverse proportions and basic algebra.",
+    "topics_tags": [
+      "Inverse Proportion",
+      "Sweets Distribution",
+      "Basic Algebra"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.11",
+    "class": 8,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "direct and inverse proportions",
+    "question_type": "numerical",
+    "question_text": "A farmer has enough food to feed 20 animals in his cattle for 6 days. How long would the food last if there were 10 more animals in his cattle?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Thus, the food will last for 4 days.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set up the inverse proportion equation based on the number of animals and days.",
+        "expression": "20 \\times 6 = 30 \\times x"
+      },
+      {
+        "step_number": 2,
+        "description": "Solve for x to find the number of days the food will last.",
+        "expression": "x = 4"
+      }
+    ],
+    "final_answer": "Therefore, the food will last for 4 days.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves setting up and solving an inverse proportion equation.",
+    "topics_tags": [
+      "Inverse Proportion",
+      "Food Supply",
+      "Animal Feeding"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.12",
+    "class": 8,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "direct and inverse proportions",
+    "question_type": "numerical",
+    "question_text": "A contractor estimates that 3 persons could rewire Jasminder's house in 4 days. If he uses 4 persons instead of three, how long should they take to complete the job?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Thus, the number of days required to complete the job is 3.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set up the inverse proportion equation based on the number of persons and days.",
+        "expression": "4 \\times 3 = x \\times 4"
+      },
+      {
+        "step_number": 2,
+        "description": "Solve for x to find the number of days required.",
+        "expression": "x = 3"
+      }
+    ],
+    "final_answer": "Therefore, the number of days required to complete the job is 3.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves understanding inverse proportions and basic algebra.",
+    "topics_tags": [
+      "Inverse Proportion",
+      "Work Completion",
+      "Contractor"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.13",
+    "class": 8,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "direct and inverse proportions",
+    "question_type": "numerical",
+    "question_text": "A batch of bottles was packed in 25 boxes with 12 bottles in each box. If the same batch is packed using 20 bottles in each box, how many boxes would be filled?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of inverse proportions and basic calculations.",
+    "topics_tags": [
+      "Inverse Proportion",
+      "Bottles Packing",
+      "Boxes"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.14",
+    "class": 8,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "direct and inverse proportions",
+    "question_type": "numerical",
+    "question_text": "A factory required 42 machines to produce a given number of articles in 63 days. How many machines would be required to produce the same number of articles in 54 days?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Hence, the required number of machines to produce the given number of articles in 54 days is 49.",
+    "answer_latex": "x = 49",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set up the inverse proportion equation based on the number of machines and days.",
+        "expression": "42 \\times 63 = 54 \\times x"
+      },
+      {
+        "step_number": 2,
+        "description": "Solve for x to find the number of machines required.",
+        "expression": "x = \\frac{42 \\times 63}{54} = 49"
+      }
+    ],
+    "final_answer": "Therefore, 49 machines are required to produce the articles in 54 days.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of inverse proportions and basic algebra.",
+    "topics_tags": [
+      "Inverse Proportion",
+      "Machines",
+      "Production"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.15",
+    "class": 8,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "direct and inverse proportions",
+    "question_type": "numerical",
+    "question_text": "A car takes 2 hours to reach a destination by travelling at the speed of 60 km/h. How long will it take when the car travels at the speed of 80 km/h?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The time required by the car to reach the given destination is 1.5 hours.",
+    "answer_latex": "x = 1.5",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set up the inverse proportion equation based on speed and time.",
+        "expression": "60 \\times 2 = 80 \\times x"
+      },
+      {
+        "step_number": 2,
+        "description": "Solve for x to find the time taken at 80 km/h.",
+        "expression": "x = \\frac{60 \\times 2}{80} = 1.5"
+      }
+    ],
+    "final_answer": "Therefore, it will take 1.5 hours to reach the destination at 80 km/h.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves understanding inverse proportions and simple calculations.",
+    "topics_tags": [
+      "Speed",
+      "Time",
+      "Inverse Proportion"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.16",
+    "class": 8,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "direct and inverse proportions",
+    "question_type": "multipart",
+    "question_text": "Two persons could fit new windows in house in 3 days. (i) One of the persons fell ill before the work started. How long would the job take now? (ii) How many persons would be needed to fit the windows in one day?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "One of the persons fell ill before the work started. How long would the job take now?",
+        "part_latex": null,
+        "answer_text": "Hence, the number of days taken by 1 man to fit all the windows is 6.",
+        "answer_latex": "x = 6",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Set up the inverse proportion equation based on the number of persons and days.",
+            "expression": "2 \\times 3 = 1 \\times x"
+          },
+          {
+            "step_number": 2,
+            "description": "Solve for x to find the number of days required by 1 man.",
+            "expression": "x = 6"
+          }
+        ],
+        "final_answer": "Therefore, it will take 6 days for 1 man to fit all the windows.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "How many persons would be needed to fit the windows in one day?",
+        "part_latex": null,
+        "answer_text": "Hence, 6 persons are required to fit all the windows in one day.",
+        "answer_latex": "y = 6",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Set up the inverse proportion equation based on the number of persons and days.",
+            "expression": "2 \\times 3 = y \\times 1"
+          },
+          {
+            "step_number": 2,
+            "description": "Solve for y to find the number of persons required.",
+            "expression": "y = 6"
+          }
+        ],
+        "final_answer": "Therefore, 6 persons are required to fit all the windows in one day.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps and understanding of inverse proportions.",
+    "topics_tags": [
+      "Work",
+      "Inverse Proportion",
+      "Days"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.17",
+    "class": 8,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "direct and inverse proportions",
+    "question_type": "numerical",
+    "question_text": "A school has 8 periods a day each of 45 minutes duration. How long would each period be, if the school has 9 periods a day, assuming the number of school hours to be the same?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Each period would be 40 minutes long if there are 9 periods a day.",
+    "answer_latex": "x = 40",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set up the inverse proportion equation based on the number of periods and duration.",
+        "expression": "8 \\times 45 = 9 \\times x"
+      },
+      {
+        "step_number": 2,
+        "description": "Solve for x to find the duration of each period.",
+        "expression": "x = \\frac{8 \\times 45}{9} = 40"
+      }
+    ],
+    "final_answer": "Therefore, each period would be 40 minutes long.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of inverse proportions and simple calculations.",
+    "topics_tags": [
+      "Periods",
+      "School Hours",
+      "Inverse Proportion"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.18",
+    "class": 8,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "direct and inverse proportions",
+    "question_type": "conceptual",
+    "question_text": "If there is more number of periods a day in the school, then the duration of each period will be lesser. Explain this case of inverse proportion.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, 45 × 8 = x × 9, hence, in this case, the duration of each period will be 40 minutes.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set up the equation based on inverse proportion.",
+        "expression": "45 \\times 8 = x \\times 9"
+      },
+      {
+        "step_number": 2,
+        "description": "Solve for x to find the duration of each period.",
+        "expression": "x = \\frac{45 \\times 8}{9} = 40"
+      }
+    ],
+    "final_answer": "Thus, the duration of each period will be 40 minutes.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of inverse proportion and basic algebra.",
+    "topics_tags": [
+      "Inverse Proportion",
+      "Algebra",
+      "Proportions"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  }
+]

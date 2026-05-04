@@ -1,0 +1,670 @@
+[
+  {
+    "question_id": "Q5.1",
+    "class": 11,
+    "subject": "statistics",
+    "chapter_number": 5,
+    "chapter_name": "measures of central tendency",
+    "question_type": "conceptual",
+    "question_text": "Which average would be suitable in the following cases? (i) Average size of readymade garments. (ii) Average intelligence of students in a class. (iii) Average production in a factory per shift. (iv) Average wage in an industrial concern. (v) When the sum of absolute deviations from average is least. (vi) When quantities of the variable are in ratios. (vii) In case of open-ended frequency distribution.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "(i) The demand for the average size of any readymade garment is the maximum. As, the modal value represents the value with the highest frequency, so the number of the average size to be produced is given by the Modal value. (ii) Median will be the best measure for calculating the average intelligence of students in a class. It is the value that divides the series into two equal parts. So, number of students below and above the average intelligence can easily be estimated by median. (iii) It is advisable to use mean for calculating the average production in a factory per shift. The average production is best calculated by arithmetic mean. (iv) Mean will be the most suitable measure. It is calculated by dividing the sum of wages of all the labour by the total number of labours in the industry. (v) When the sum of absolute deviations from average is the least, then mean could be used to calculate the average. This is an important mathematical property of arithmetic mean. The algebraic sum of the deviations of a set of n values from A.M. is 0. (vi) Median will be the most suitable measure in case the variables are in ratios. It is least affected by the extreme values. (vii) In case of open ended frequency distribution, Median is the most suitable measure as it can be easily computed. Moreover, the median value can be estimated even in case of incomplete statistical series.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of different averages and their applications.",
+    "topics_tags": [
+      "Averages",
+      "Statistics",
+      "Central Tendency"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.2",
+    "class": 11,
+    "subject": "statistics",
+    "chapter_number": 5,
+    "chapter_name": "measures of central tendency",
+    "question_type": "mcq",
+    "question_text": "The most suitable average for qualitative measurement is",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(a)",
+        "option_text": "arithmetic mean"
+      },
+      {
+        "option_label": "(b)",
+        "option_text": "median"
+      },
+      {
+        "option_label": "(c)",
+        "option_text": "mode"
+      },
+      {
+        "option_label": "(d)",
+        "option_text": "geometric mean"
+      },
+      {
+        "option_label": "(e)",
+        "option_text": "none of the above"
+      }
+    ],
+    "correct_option": "(c)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Median is the most suitable average for qualitative measurement. This is because Median divides a series in two equal parts.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of the concept of averages.",
+    "topics_tags": [
+      "Qualitative Measurement",
+      "Statistics",
+      "Median"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.3",
+    "class": 11,
+    "subject": "statistics",
+    "chapter_number": 5,
+    "chapter_name": "measures of central tendency",
+    "question_type": "mcq",
+    "question_text": "Which average is affected most by the presence of extreme items?",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(a)",
+        "option_text": "median"
+      },
+      {
+        "option_label": "(b)",
+        "option_text": "mode"
+      },
+      {
+        "option_label": "(c)",
+        "option_text": "arithmetic mean"
+      },
+      {
+        "option_label": "(d)",
+        "option_text": "none of the above"
+      }
+    ],
+    "correct_option": "(c)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Arithmetic mean is the most affected by the presence of extreme items. It is one of the prime demerits of the arithmetic mean.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of the impact of extreme values on averages.",
+    "topics_tags": [
+      "Extreme Values",
+      "Statistics",
+      "Arithmetic Mean"
+    ],
+    "confidence_score": 0.97,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.4",
+    "class": 11,
+    "subject": "statistics",
+    "chapter_number": 5,
+    "chapter_name": "measures of central tendency",
+    "question_type": "mcq",
+    "question_text": "The algebraic sum of deviation of a set of n values from A.M. is",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(a)",
+        "option_text": "n"
+      },
+      {
+        "option_label": "(b)",
+        "option_text": "0"
+      },
+      {
+        "option_label": "(c)",
+        "option_text": "1"
+      },
+      {
+        "option_label": "(d)",
+        "option_text": "none of the above"
+      }
+    ],
+    "correct_option": "(b)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The algebraic sum of deviation of a set of n values from A.M. is zero. This is one of the mathematical properties of arithmetic mean.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of a mathematical property.",
+    "topics_tags": [
+      "Arithmetic Mean",
+      "Statistics",
+      "Deviation"
+    ],
+    "confidence_score": 0.99,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.5",
+    "class": 11,
+    "subject": "statistics",
+    "chapter_number": 5,
+    "chapter_name": "measures of central tendency",
+    "question_type": "multipart",
+    "question_text": "Comment whether the following statements are true or false. (i) The sum of deviation of items from median is zero. (ii) An average alone is not enough to compare series. (iii) Arithmetic mean is a positional value. (iv) Upper quartile is the lowest value of top 25% of items. (v) Median is unduly affected by extreme observations.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "The sum of deviation of items from median is zero.",
+        "part_latex": null,
+        "answer_text": "False",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "The statement is false. This mathematical property applies to the arithmetic mean.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "An average alone is not enough to compare series.",
+        "part_latex": null,
+        "answer_text": "True",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "An average indicates only the behaviour of a particular series.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "Arithmetic mean is a positional value.",
+        "part_latex": null,
+        "answer_text": "False",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "This statement is false as mean is not a positional average.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iv)",
+        "part_text": "Upper quartile is the lowest value of top 25% of items.",
+        "part_latex": null,
+        "answer_text": "True",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(v)",
+        "part_text": "Median is unduly affected by extreme observations.",
+        "part_latex": null,
+        "answer_text": "False",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "This statement is true for Arithmetic mean.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of multiple concepts and their properties.",
+    "topics_tags": [
+      "True or False",
+      "Statistics",
+      "Central Tendency"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.6",
+    "class": 11,
+    "subject": "statistics",
+    "chapter_number": 5,
+    "chapter_name": "measures of central tendency",
+    "question_type": "numerical",
+    "question_text": "The size of land holdings of 380 families in a village is given below. Find the median size of land holdings.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "To find the median size of land holdings, we need to calculate the cumulative frequency and identify the median class.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate cumulative frequency for each class interval.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Identify the median class using the total number of families.",
+        "expression": null
+      }
+    ],
+    "final_answer": "The median size of land holdings can be determined from the cumulative frequency table.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of cumulative frequency and median calculation.",
+    "topics_tags": [
+      "Median",
+      "Cumulative Frequency",
+      "Land Holdings"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.7",
+    "class": 11,
+    "subject": "statistics",
+    "chapter_number": 5,
+    "chapter_name": "measures of central tendency",
+    "question_type": "mcq",
+    "question_text": "The following series relates to the daily income of workers employed in a firm. Compute (a) highest income of lowest 50% workers (b) minimum income earned by the top 25% workers and (c) maximum income earned by lowest 25% workers.",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "highest income of lowest 50% workers"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "minimum income earned by the top 25% workers and"
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "maximum income earned by lowest 25% workers."
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "highest income of lowest 50% workers",
+        "part_latex": null,
+        "answer_text": "To find the highest income of the lowest 50% workers, we need to determine the median income.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate cumulative frequency for the income intervals.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Identify the median class and find the highest income in that class.",
+            "expression": null
+          }
+        ],
+        "final_answer": "The highest income of the lowest 50% workers is determined from the median class.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "minimum income earned by the top 25% workers",
+        "part_latex": null,
+        "answer_text": "To find the minimum income earned by the top 25% workers, we need to calculate the cumulative frequency and identify the class.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate cumulative frequency for the income intervals.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Identify the class corresponding to the top 25% workers.",
+            "expression": null
+          }
+        ],
+        "final_answer": "The minimum income earned by the top 25% workers is found from the identified class.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "maximum income earned by lowest 25% workers",
+        "part_latex": null,
+        "answer_text": "To find the maximum income earned by the lowest 25% workers, we need to determine the cumulative frequency and identify the class.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate cumulative frequency for the income intervals.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Identify the class corresponding to the lowest 25% workers.",
+            "expression": null
+          }
+        ],
+        "final_answer": "The maximum income earned by the lowest 25% workers is determined from the identified class.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Involves multiple calculations and understanding of income distribution.",
+    "topics_tags": [
+      "Income Distribution",
+      "Percentiles",
+      "Statistics"
+    ],
+    "confidence_score": 0.8,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [],
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    }
+  }
+]

@@ -1,0 +1,898 @@
+[
+  {
+    "question_id": "Q1.1",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "real numbers",
+    "question_type": "numerical",
+    "question_text": "Use Euclid's division algorithm to find the HCF of: (i) 135 and 225.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, the HCF of 135 and 225 is 45.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Apply the division lemma to 225 and 135.",
+        "expression": "225 = 135 \\times 1 + 90"
+      },
+      {
+        "step_number": 2,
+        "description": "Apply the division lemma to 135 and 90.",
+        "expression": "135 = 90 \\times 1 + 45"
+      },
+      {
+        "step_number": 3,
+        "description": "Apply the division lemma to 90 and 45.",
+        "expression": "90 = 2 \\times 45 + 0"
+      }
+    ],
+    "final_answer": "Thus, the HCF of 135 and 225 is 45.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of Euclid's division algorithm and basic calculations.",
+    "topics_tags": [
+      "HCF",
+      "Euclid's Algorithm",
+      "Division"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.2",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "real numbers",
+    "question_type": "numerical",
+    "question_text": "Use Euclid's division algorithm to find the HCF of: (ii) 196 and 38220.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, HCF of 196 and 38220 is 196.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Apply the division lemma to 38220 and 196.",
+        "expression": "38220 = 196 \\times 195 + 0"
+      }
+    ],
+    "final_answer": "Thus, the HCF of 196 and 38220 is 196.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct application of Euclid's division algorithm.",
+    "topics_tags": [
+      "HCF",
+      "Euclid's Algorithm",
+      "Division"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.3",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "real numbers",
+    "question_type": "numerical",
+    "question_text": "Use Euclid's division algorithm to find the HCF of: (iii) 867 and 255.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, HCF of 867 and 255 is 51.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Apply the division lemma to 867 and 255.",
+        "expression": "867 = 255 \\times 3 + 102"
+      },
+      {
+        "step_number": 2,
+        "description": "Apply the division lemma to 255 and 102.",
+        "expression": "255 = 102 \\times 2 + 51"
+      },
+      {
+        "step_number": 3,
+        "description": "Apply the division lemma to 102 and 51.",
+        "expression": "102 = 51 \\times 2 + 0"
+      }
+    ],
+    "final_answer": "Thus, the HCF of 867 and 255 is 51.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of Euclid's division algorithm and multiple steps.",
+    "topics_tags": [
+      "HCF",
+      "Euclid's Algorithm",
+      "Division"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.4",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "real numbers",
+    "question_type": "conceptual",
+    "question_text": "Show that any positive odd integer is of the form 6q + 1, or 6q + 3, or 6q + 5, where q is some integer.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, any odd integer can be expressed in the form 6q + 1, or 6q + 3, or 6q + 5.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Let a be any positive integer and b = 6.",
+        "expression": "a = 6q + r"
+      },
+      {
+        "step_number": 2,
+        "description": "Identify possible values of r.",
+        "expression": "r = 0, 1, 2, 3, 4, 5"
+      },
+      {
+        "step_number": 3,
+        "description": "Show that 6q + 1, 6q + 3, and 6q + 5 are odd.",
+        "expression": "6q + 1 = 2k + 1, 6q + 3 = 2k + 1, 6q + 5 = 2k + 1"
+      }
+    ],
+    "final_answer": "Thus, any positive odd integer can be expressed in the required form.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of number forms and modular arithmetic.",
+    "topics_tags": [
+      "Odd Integers",
+      "Number Theory",
+      "Euclid's Lemma"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.5",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "real numbers",
+    "question_type": "conceptual",
+    "question_text": "Express each number as product of its prime factors:",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Table showing prime factorization of numbers including 140, 36, and 3825.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777657712/ncert/maths/1/img_4_0.png",
+      "latex_extracted": "\\begin{array}{l l}{{\\mathrm{[}\\displaystyle{\\begin{array}{l l}{1}\\end{array}}}}&{{\\mathrm{~140=2\\times5\\times7=2^{2}\\times5\\times7}}}\\\\ {{\\mathrm{[}\\displaystyle{\\mathrm{[}\\displaystyle{\\frac{1}{2}]}}}}&{{\\mathrm{~36=2\\times2\\times3\\times13=2^{2}\\times3\\times13\\times13}}}\\\\ {{\\mathrm{[}\\displaystyle{\\mathrm{[}\\displaystyle{\\frac{1}{2}}}}}&{{\\mathrm{3825=3\\times5\\times5\\times17=3^{2}\\times3\\times13}}}\\\\ {{\\mathrm{[}\\displaystyle{\\mathrm{[}\\textstyle{\\frac{1}{2}}}}}&{{\\mathrm{~}}}\\\\ {{\\mathrm{[}\\displaystyle{\\mathrm{[}\\displaystyle{\\bf v]}}}}&{{\\mathrm{~}}}&{{\\mathrm{~}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of prime factorization and applying it to multiple numbers.",
+    "topics_tags": [
+      "Prime Factorization",
+      "LCM",
+      "HCF"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Table showing prime factorization of numbers including 140, 36, and 3825.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777657712/ncert/maths/1/img_4_0.png",
+        "latex_extracted": "\\begin{array}{l l}{{\\mathrm{[}\\displaystyle{\\begin{array}{l l}{1}\\end{array}}}}&{{\\mathrm{~140=2\\times5\\times7=2^{2}\\times5\\times7}}}\\\\ {{\\mathrm{[}\\displaystyle{\\mathrm{[}\\displaystyle{\\frac{1}{2}]}}}}&{{\\mathrm{~36=2\\times2\\times3\\times13=2^{2}\\times3\\times13\\times13}}}\\\\ {{\\mathrm{[}\\displaystyle{\\mathrm{[}\\displaystyle{\\frac{1}{2}}}}}&{{\\mathrm{3825=3\\times5\\times5\\times17=3^{2}\\times3\\times13}}}\\\\ {{\\mathrm{[}\\displaystyle{\\mathrm{[}\\textstyle{\\frac{1}{2}}}}}&{{\\mathrm{~}}}\\\\ {{\\mathrm{[}\\displaystyle{\\mathrm{[}\\displaystyle{\\bf v]}}}}&{{\\mathrm{~}}}&{{\\mathrm{~}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.6",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "real numbers",
+    "question_type": "conceptual",
+    "question_text": "Find the LCM and HCF of the following pairs of integers and verify that LCM × HCF = product of the two numbers.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Table showing calculations for LCM and HCF of various pairs of integers.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777657718/ncert/maths/1/img_5_0.png",
+      "latex_extracted": "\\begin{array}{r l r l}{\\left(\\mathbf{i}\\right)}&{{}\\ 26\\,{\\mathrm{and~9l}}}\\\\ {26=2\\times13}&{}&{{}\\qquad}&{}&{{}}\\\\ {\\mathrm{MCF=13}}&{}&{{}\\qquad}&{}&{{}}\\\\ {\\qquad}&{{}}&{{}}&{{}}\\\\ {\\qquad\\qquad\\qquad}&{{\\qquad}\\Gamma(\\Gamma\\in13)}&{}&{{}}\\\\ {\\qquad}&{{}}&{{}}&{{\\qquad}}&{{}}\\\\ {\\qquad}&{{}}&{{}}&{{}}\\\\ {\\qquad}&{{}}&{{\\qquad}{\\qquad}\\Gamma\\in\\operatorname{Metonce\\,oro\\,numbers}=26\\times366\\times132=2366\\times2566\\times366\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations and verification of LCM and HCF.",
+    "topics_tags": [
+      "LCM",
+      "HCF",
+      "Prime Factorization"
+    ],
+    "confidence_score": 0.8,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Table showing calculations for LCM and HCF of various pairs of integers.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777657718/ncert/maths/1/img_5_0.png",
+        "latex_extracted": "\\begin{array}{r l r l}{\\left(\\mathbf{i}\\right)}&{{}\\ 26\\,{\\mathrm{and~9l}}}\\\\ {26=2\\times13}&{}&{{}\\qquad}&{}&{{}}\\\\ {\\mathrm{MCF=13}}&{}&{{}\\qquad}&{}&{{}}\\\\ {\\qquad}&{{}}&{{}}&{{}}\\\\ {\\qquad\\qquad\\qquad}&{{\\qquad}\\Gamma(\\Gamma\\in13)}&{}&{{}}\\\\ {\\qquad}&{{}}&{{}}&{{\\qquad}}&{{}}\\\\ {\\qquad}&{{}}&{{}}&{{}}\\\\ {\\qquad}&{{}}&{{\\qquad}{\\qquad}\\Gamma\\in\\operatorname{Metonce\\,oro\\,numbers}=26\\times366\\times132=2366\\times2566\\times366\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q3.7",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "real numbers",
+    "question_type": "numerical",
+    "question_text": "Given that HCF (306, 657) = 9, find LCM (306, 657).",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Calculation showing the relationship between HCF and LCM.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777657747/ncert/maths/1/img_6_3.png",
+      "latex_extracted": "\\begin{array}{l}{{\\mathrm{HCF\\left(306,657\\right)=9}}}\\\\ {{\\mathrm{We~know~that.}\\mathrm{HCHCF}=\\mathrm{Product~of~two~numbers}}}\\\\ {{\\mathrm{LCM}={\\frac{306\\times657}{1}}={\\frac{306\\times657}{9}}={\\frac{306\\cdot657}{9}}}}\\\\ {{\\mathrm{LCM=22338}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The LCM of 306 and 657 is calculated using the formula LCM = (Product of the numbers) / HCF.",
+    "answer_latex": "LCM = \\frac{306 \\times 657}{9} = 22338",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the HCF and the two numbers.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the formula to calculate LCM.",
+        "expression": "LCM = \\frac{306 \\times 657}{9}"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the final value.",
+        "expression": "LCM = 22338"
+      }
+    ],
+    "final_answer": "Therefore, the LCM of 306 and 657 is 22338.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires basic understanding of HCF and LCM relationship and simple multiplication.",
+    "topics_tags": [
+      "HCF",
+      "LCM",
+      "Number Theory"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Calculation showing the relationship between HCF and LCM.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777657747/ncert/maths/1/img_6_3.png",
+        "latex_extracted": "\\begin{array}{l}{{\\mathrm{HCF\\left(306,657\\right)=9}}}\\\\ {{\\mathrm{We~know~that.}\\mathrm{HCHCF}=\\mathrm{Product~of~two~numbers}}}\\\\ {{\\mathrm{LCM}={\\frac{306\\times657}{1}}={\\frac{306\\times657}{9}}={\\frac{306\\cdot657}{9}}}}\\\\ {{\\mathrm{LCM=22338}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.8",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "real numbers",
+    "question_type": "conceptual",
+    "question_text": "Explain why 7 x 11 x 13 + 13 and 7 x 6 x 5 x 4 x 3 x 2 x 1 + 5 are composite numbers.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The first expression can be factored as 13 x (7 x 11 + 1) = 13 x 78, which has factors 6 and 13, making it composite. The second expression can be factored as 5 x (7 x 6 x 4 x 3 x 2 x 1 + 1) = 5 x 1009, which has factors 5 and 1009, making it composite as well.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Factor the first expression.",
+        "expression": "7 x 11 x 13 + 13 = 13 x (7 x 11 + 1)"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the factors of the first expression.",
+        "expression": "13 x 78"
+      },
+      {
+        "step_number": 3,
+        "description": "Factor the second expression.",
+        "expression": "7 x 6 x 5 x 4 x 3 x 2 x 1 + 5 = 5 x (7 x 6 x 4 x 3 x 2 x 1 + 1)"
+      },
+      {
+        "step_number": 4,
+        "description": "Calculate the factors of the second expression.",
+        "expression": "5 x 1009"
+      }
+    ],
+    "final_answer": "Thus, both expressions are composite numbers.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of composite numbers and basic factorization.",
+    "topics_tags": [
+      "Composite Numbers",
+      "Factorization",
+      "Prime Numbers"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.8",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "real numbers",
+    "question_type": "numerical",
+    "question_text": "Sonia takes 18 minutes to drive one round of the field, while Ravi takes 12 minutes for the same. After how many minutes will they meet again at the starting point?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "They will meet again at the starting point after 36 minutes, which is the LCM of 18 and 12.",
+    "answer_latex": "LCM(18, 12) = 36",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Find the prime factorization of 18 and 12.",
+        "expression": "18 = 2 x 3^2, 12 = 2^2 x 3"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the LCM using the highest powers of the prime factors.",
+        "expression": "LCM = 2^2 x 3^2 = 36"
+      }
+    ],
+    "final_answer": "Therefore, they will meet together at the starting point after 36 minutes.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of LCM and basic calculations.",
+    "topics_tags": [
+      "LCM",
+      "Time",
+      "Circular Motion"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.8",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "real numbers",
+    "question_type": "derivation",
+    "question_text": "Prove that \\sqrt{5} is irrational.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Assuming \\sqrt{5} is rational leads to a contradiction, proving it is irrational.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Assume \\sqrt{5} is rational, so it can be expressed as a fraction a/b.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Show that both a and b must be divisible by 5, leading to a contradiction.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, \\sqrt{5} cannot be expressed as a fraction, proving it is irrational.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical proof showing the derivation of irrationality of sqrt(5).",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777657748/ncert/maths/1/img_8_0.png",
+      "latex_extracted": "\\begin{array}{l}{(5k)^{2}=5b^{2}}\\\\ {b^{2}=5k^{2}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Involves understanding of rationality and proof techniques.",
+    "topics_tags": [
+      "Irrational Numbers",
+      "Proof",
+      "Square Roots"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical proof showing the derivation of irrationality of sqrt(5).",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777657748/ncert/maths/1/img_8_0.png",
+        "latex_extracted": "\\begin{array}{l}{(5k)^{2}=5b^{2}}\\\\ {b^{2}=5k^{2}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q1.11",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "real numbers",
+    "question_type": "conceptual",
+    "question_text": "Without actually performing the long division, state whether the following rational numbers will have a terminating decimal expansion or a non-terminating repeating decimal expansion:",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical expressions showing rational numbers and their forms.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777657751/ncert/maths/1/img_10_0.png",
+      "latex_extracted": "\\begin{array}{c}{{6+\\sqrt{2}=\\frac{a}{b}}}\\\\ {{\\sqrt{2}=\\frac{a}{b}-6}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of decimal expansions and rational numbers.",
+    "topics_tags": [
+      "Rational Numbers",
+      "Decimal Expansion",
+      "Terminating Decimals"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical expressions showing rational numbers and their forms.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777657751/ncert/maths/1/img_10_0.png",
+        "latex_extracted": "\\begin{array}{c}{{6+\\sqrt{2}=\\frac{a}{b}}}\\\\ {{\\sqrt{2}=\\frac{a}{b}-6}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q1.12",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "real numbers",
+    "question_type": "conceptual",
+    "question_text": "Write down the decimal expansions of those rational numbers in Question 1 above which have terminating decimal expansions.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires identification of terminating decimal expansions from previous question.",
+    "topics_tags": [
+      "Rational Numbers",
+      "Decimal Expansion",
+      "Terminating Decimals"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.13",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "real numbers",
+    "question_type": "conceptual",
+    "question_text": "The following real numbers have decimal expansions as given below. In each case, decide whether they are rational or not. If they are rational, and of the form \\frac{p}{q}, what can you say about the prime factor of q?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical expressions related to decimal expansions and rationality.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777657779/ncert/maths/1/img_15_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "43.123456789",
+        "part_latex": null,
+        "answer_text": "Since this number has a terminating decimal expansion, it is a rational number of the form \\frac{p}{q} and q is of the form \\frac{1}{2^m \\cdot 5^n}, i.e., the prime factors of q will be either 2 or 5 or both.",
+        "answer_latex": "q = 2^m \\cdot 5^n",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the type of decimal expansion.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Determine if it is rational based on the decimal type.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Therefore, the prime factors of q will be either 2 or 5 or both.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "0.120120012000120000…",
+        "part_latex": null,
+        "answer_text": "The decimal expansion is neither terminating nor recurring. Therefore, the given number is an irrational number.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the type of decimal expansion.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Determine if it is rational based on the decimal type.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, this number is irrational.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "Since the decimal expansion is non-terminating recurring, the given number is a rational number of the form \\frac{p}{q} and q is not of the form \\frac{1}{2^m \\cdot 5^n}, i.e., the prime factors of q will also have a factor other than 2 or 5.",
+        "part_latex": null,
+        "answer_text": "The decimal expansion is non-terminating recurring, indicating it is rational but q has prime factors other than 2 or 5.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the type of decimal expansion.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Determine if it is rational based on the decimal type.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, q will have prime factors other than 2 or 5.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of rational and irrational numbers based on decimal expansions.",
+    "topics_tags": [
+      "Rational Numbers",
+      "Irrational Numbers",
+      "Decimal Expansions"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical expressions related to decimal expansions and rationality.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777657779/ncert/maths/1/img_15_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  }
+]

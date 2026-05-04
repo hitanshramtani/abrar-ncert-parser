@@ -1,0 +1,885 @@
+[
+  {
+    "question_id": "Q7.1",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 7,
+    "chapter_name": "permutations combinations",
+    "question_type": "multipart",
+    "question_text": "How many 3-digit numbers can be formed from the digits 1, 2, 3, 4 and 5 assuming that (i) repetition of the digits is allowed? (ii) repetition of the digits is not allowed?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "Repetition of the digits is allowed.",
+        "part_latex": null,
+        "answer_text": "The number of ways in which three-digit numbers can be formed is 5 x 5 x 5 = 125.",
+        "answer_latex": "125",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify that each digit can be any of the 5 digits.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the total combinations using the multiplication principle.",
+            "expression": "5^3 = 125"
+          }
+        ],
+        "final_answer": "Therefore, 125 three-digit numbers can be formed.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "Repetition of the digits is not allowed.",
+        "part_latex": null,
+        "answer_text": "The number of ways in which three-digit numbers can be formed is 5 x 4 x 3 = 60.",
+        "answer_latex": "60",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify that the first digit can be any of the 5 digits.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the remaining choices for the second and third digits.",
+            "expression": "5 x 4 x 3 = 60"
+          }
+        ],
+        "final_answer": "Therefore, 60 three-digit numbers can be formed without repetition.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of permutations with and without repetition.",
+    "topics_tags": [
+      "Permutations",
+      "Combinations",
+      "Counting Principles"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.2",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 7,
+    "chapter_name": "permutations combinations",
+    "question_type": "numerical",
+    "question_text": "How many 3-digit even numbers can be formed from the digits 1, 2, 3, 4, 5, 6 if the digits can be repeated?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The required number of three-digit even numbers is 3 x 6 x 6 = 108.",
+    "answer_latex": "108",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify that the units place can be filled by 2, 4, or 6.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the total combinations using the multiplication principle.",
+        "expression": "3 x 6 x 6 = 108"
+      }
+    ],
+    "final_answer": "Therefore, 108 three-digit even numbers can be formed.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic counting principles with repetition.",
+    "topics_tags": [
+      "Even Numbers",
+      "Permutations",
+      "Counting Principles"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.3",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 7,
+    "chapter_name": "permutations combinations",
+    "question_type": "numerical",
+    "question_text": "How many 4-letter codes can be formed using the first 10 letters of the English alphabet, if no letter can be repeated?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The required number of ways to fill 4 vacant places is 10 x 9 x 8 x 7 = 5040.",
+    "answer_latex": "5040",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify that the first place can be filled in 10 ways.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the remaining choices for the subsequent places.",
+        "expression": "10 x 9 x 8 x 7 = 5040"
+      }
+    ],
+    "final_answer": "Therefore, 5040 four-letter codes can be formed.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of permutations without repetition.",
+    "topics_tags": [
+      "Permutations",
+      "Combinations",
+      "Counting Principles"
+    ],
+    "confidence_score": 0.97,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.4",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 7,
+    "chapter_name": "permutations combinations",
+    "question_type": "numerical",
+    "question_text": "How many 5-digit telephone numbers can be constructed using the digits 0 to 9 if each number starts with 67 and no digit appears more than once?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The required number of ways to construct the telephone numbers is 8 x 7 x 6 = 336.",
+    "answer_latex": "336",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify that the first two digits are fixed as 67.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the remaining choices for the last three digits.",
+        "expression": "8 x 7 x 6 = 336"
+      }
+    ],
+    "final_answer": "Therefore, 336 different telephone numbers can be constructed.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic counting principles with fixed digits.",
+    "topics_tags": [
+      "Telephone Numbers",
+      "Permutations",
+      "Counting Principles"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.5",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 7,
+    "chapter_name": "permutations combinations",
+    "question_type": "numerical",
+    "question_text": "A coin is tossed 3 times and the outcomes are recorded. How many possible outcomes are there?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The required number of possible outcomes is 2 x 2 x 2 = 8.",
+    "answer_latex": "8",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify that each toss has 2 outcomes: head or tail.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the total outcomes for 3 tosses.",
+        "expression": "2^3 = 8"
+      }
+    ],
+    "final_answer": "Therefore, there are 8 possible outcomes when tossing the coin 3 times.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct application of basic probability principles.",
+    "topics_tags": [
+      "Probability",
+      "Coin Toss",
+      "Outcomes"
+    ],
+    "confidence_score": 0.99,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.6",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 7,
+    "chapter_name": "permutations combinations",
+    "question_type": "numerical",
+    "question_text": "Given 5 flags of different colours, how many different signals can be generated if each signal requires the use of 2 flags, one below the other?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The number of different signals that can be generated is 5 x 4 = 20.",
+    "answer_latex": "20",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify that the upper flag can be any of the 5 flags.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the remaining choices for the lower flag.",
+        "expression": "5 x 4 = 20"
+      }
+    ],
+    "final_answer": "Therefore, 20 different signals can be generated.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of permutations with distinct items.",
+    "topics_tags": [
+      "Signals",
+      "Permutations",
+      "Counting Principles"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.9",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 7,
+    "chapter_name": "permutations combinations",
+    "question_type": "conceptual",
+    "question_text": "From a committee of 8 persons, in how many ways can we choose a chairman and a vice chairman assuming one person cannot hold more than one position?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The number of ways of choosing a chairman and a vice chairman is the permutation of 8 different objects taken 2 at a time.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the total number of persons and the positions to be filled.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the number of ways to choose a chairman and a vice chairman using permutations.",
+        "expression": "P(8, 2) = 8 \times 7"
+      }
+    ],
+    "final_answer": "Thus, the required number of ways is 56.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of permutations and basic calculation.",
+    "topics_tags": [
+      "Permutations",
+      "Combinations",
+      "Chairman Selection"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.10",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 7,
+    "chapter_name": "permutations combinations",
+    "question_type": "numerical",
+    "question_text": "In how many of the distinct permutations of the letters in MISSISSIPPI do the four I's not come together?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The number of distinct permutations of the letters in MISSISSIPPI in which four I's do not come together is 33810.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the total distinct permutations of the letters in MISSISSIPPI.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the arrangements where all I's occur together.",
+        "expression": "840"
+      },
+      {
+        "step_number": 3,
+        "description": "Subtract the arrangements where I's are together from the total.",
+        "expression": "34650 - 840"
+      }
+    ],
+    "final_answer": "Thus, the number of distinct permutations where the four I's do not come together is 33810.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps and understanding of permutations.",
+    "topics_tags": [
+      "Permutations",
+      "Combinations",
+      "Distinct Arrangements"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.8",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 7,
+    "chapter_name": "permutations combinations",
+    "question_type": "numerical",
+    "question_text": "How many words, with or without meaning, can be formed using all the letters of the word EQUATION, using each letter exactly once?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The number of words that can be formed using all the letters of the word EQUATION is 8! = 40320.",
+    "answer_latex": "8! = 40320",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the number of different letters in the word EQUATION.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the factorial of the number of letters.",
+        "expression": "8!"
+      }
+    ],
+    "final_answer": "Therefore, the number of words that can be formed is 40320.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct application of factorial for permutations.",
+    "topics_tags": [
+      "Permutations",
+      "Factorial",
+      "Combinations"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.18",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 7,
+    "chapter_name": "permutations combinations",
+    "question_type": "numerical",
+    "question_text": "In how many ways can one select a cricket team of eleven from 17 players in which only 5 players can bowl if each cricket team of 11 must include exactly 4 bowlers?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to selecting a cricket team from players",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777824522/ncert/maths/7/img_16_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "4 bowlers can be selected in ways and the remaining 7 players can be selected out of the 12 players in ways.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Select 4 bowlers from the 5 available bowlers.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Select the remaining 7 players from the 12 non-bowlers.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, by multiplication principle, required number of ways of selecting cricket team.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of combinations and basic application.",
+    "topics_tags": [
+      "Combinations",
+      "Cricket Team Selection",
+      "Probability"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to selecting a cricket team from players",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777824522/ncert/maths/7/img_16_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.19",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 7,
+    "chapter_name": "permutations combinations",
+    "question_type": "numerical",
+    "question_text": "A bag contains 5 black and 6 red balls. Determine the number of ways in which 2 black and 3 red balls can be selected.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "2 black balls can be selected out of 5 black balls in ways and 3 red balls can be selected out of 6 red balls in ways.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Select 2 black balls from the 5 available black balls.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Select 3 red balls from the 6 available red balls.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, by multiplication principle, required number of ways of selecting 2 black and 3 red balls.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic combination calculations.",
+    "topics_tags": [
+      "Combinations",
+      "Balls Selection",
+      "Probability"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.20",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 7,
+    "chapter_name": "permutations combinations",
+    "question_type": "numerical",
+    "question_text": "In how many ways can a student choose a programme of 5 courses if 9 courses are available and 2 specific courses are compulsory for every student?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Every student has to choose 3 courses out of the remaining 7 courses.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the compulsory courses and the remaining courses.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the number of ways to choose 3 courses from the remaining 7.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, required number of ways of choosing the programme.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of combinations with constraints.",
+    "topics_tags": [
+      "Combinations",
+      "Course Selection",
+      "Probability"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.24",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 7,
+    "chapter_name": "permutations combinations",
+    "question_type": "numerical",
+    "question_text": "From a class of 25 students, 10 are to be chosen for an excursion party. There are 3 students who decide that either all of them will join or none of them will join. In how many ways can the excursion party be chosen?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The required number of ways of choosing the excursion party is calculated by considering two cases: Case I where all three students join and Case II where none join.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the number of ways when all three students join.",
+        "expression": "C(22, 7)"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the number of ways when none of the three students join.",
+        "expression": "C(22, 10)"
+      }
+    ],
+    "final_answer": "Thus, the total number of ways to choose the excursion party is the sum of both cases.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of combinations and case analysis.",
+    "topics_tags": [
+      "Combinations",
+      "Permutations",
+      "Counting Principles"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.25",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 7,
+    "chapter_name": "permutations combinations",
+    "question_type": "numerical",
+    "question_text": "In how many ways can the letters of the word ASSASSINATION be arranged so that all the S's are together?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The required number of ways of arranging the letters of the given word is calculated by treating all S's as a single object.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Treat all S's as a single object, resulting in 10 objects to arrange.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the arrangements of these 10 objects considering repetitions.",
+        "expression": "\\frac{10!}{3! \\cdot 2! \\cdot 2!}"
+      }
+    ],
+    "final_answer": "Thus, the total number of arrangements is given by the formula above.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of permutations with repetitions.",
+    "topics_tags": [
+      "Permutations",
+      "Arrangements",
+      "Combinatorics"
+    ],
+    "confidence_score": 0.93,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  }
+]

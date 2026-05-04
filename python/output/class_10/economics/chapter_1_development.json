@@ -1,0 +1,599 @@
+[
+  {
+    "question_id": "Q1.1",
+    "class": 10,
+    "subject": "economics",
+    "chapter_number": 1,
+    "chapter_name": "development",
+    "question_type": "mcq",
+    "question_text": "Development of a country can generally be determined by",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(i)",
+        "option_text": "its per capita income"
+      },
+      {
+        "option_label": "(ii)",
+        "option_text": "its average literacy level"
+      },
+      {
+        "option_label": "(iii)",
+        "option_text": "health status of its people"
+      },
+      {
+        "option_label": "(iv)",
+        "option_text": "all the above"
+      }
+    ],
+    "correct_option": "(iv)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The correct answer is (iv) all the above.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, all the mentioned factors are important for determining development.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of knowledge about development indicators.",
+    "topics_tags": [
+      "Development Indicators",
+      "Per Capita Income",
+      "Human Development"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.2",
+    "class": 10,
+    "subject": "economics",
+    "chapter_number": 1,
+    "chapter_name": "development",
+    "question_type": "mcq",
+    "question_text": "Which of the following neighbouring countries has better performance in terms of human development than India?",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(i)",
+        "option_text": "Bangladesh"
+      },
+      {
+        "option_label": "(ii)",
+        "option_text": "Sri Lanka"
+      },
+      {
+        "option_label": "(iii)",
+        "option_text": "Nepal"
+      },
+      {
+        "option_label": "(iv)",
+        "option_text": "Pakistan"
+      }
+    ],
+    "correct_option": "(ii)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The correct answer is (ii) Sri Lanka.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, Sri Lanka has better human development performance than India.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of knowledge about human development rankings.",
+    "topics_tags": [
+      "Human Development",
+      "Comparative Development",
+      "Sri Lanka"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.3",
+    "class": 10,
+    "subject": "economics",
+    "chapter_number": 1,
+    "chapter_name": "development",
+    "question_type": "numerical",
+    "question_text": "Assume there are four families in a country. The average per capita income of these families is Rs 5000. If the income of three families is Rs 4000, Rs 7000 and Rs 3000 respectively, what is the income of the fourth family?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The income of the fourth family is Rs 6000.",
+    "answer_latex": "Income_{4} = 4 \times 5000 - (4000 + 7000 + 3000) = 6000",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate total income for four families using average.",
+        "expression": "Total Income = 4 \times 5000"
+      },
+      {
+        "step_number": 2,
+        "description": "Subtract the sum of the known incomes from the total income.",
+        "expression": "Income_{4} = 20000 - (4000 + 7000 + 3000)"
+      }
+    ],
+    "final_answer": "Therefore, the income of the fourth family is Rs 6000.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of averages and basic arithmetic.",
+    "topics_tags": [
+      "Per Capita Income",
+      "Income Distribution",
+      "Averages"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.4",
+    "class": 10,
+    "subject": "economics",
+    "chapter_number": 1,
+    "chapter_name": "development",
+    "question_type": "conceptual",
+    "question_text": "What is the main criterion used by the World Bank in classifying different countries? What are the limitations of this criterion, if any?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The main criterion used by the World Bank in classifying different countries is the per capita income or average income of a person in a country. Limitations of this criterion include that it does not tell us about how this average income is distributed among the people in the individual countries.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, while per capita income is a useful measure, it does not reflect income distribution disparities.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of economic classification and its implications.",
+    "topics_tags": [
+      "World Bank",
+      "Per Capita Income",
+      "Income Distribution"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.5",
+    "class": 10,
+    "subject": "economics",
+    "chapter_number": 1,
+    "chapter_name": "development",
+    "question_type": "conceptual",
+    "question_text": "In what respects is the criterion used by the UNDP for measuring development different from the one used by the World Bank?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The criterion used by the UNDP for measuring development is different from the one used by the World Bank in that it uses a combination of factors such as health, education, and income as indicators of development, rather than relying solely on per capita income.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the UNDP approach provides a more comprehensive view of development.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of different development measurement criteria.",
+    "topics_tags": [
+      "UNDP",
+      "Development Measurement",
+      "Health and Education"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.6",
+    "class": 10,
+    "subject": "economics",
+    "chapter_number": 1,
+    "chapter_name": "development",
+    "question_type": "conceptual",
+    "question_text": "Why do we use averages? Are there any limitations to their use? Illustrate with your own examples related to development.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "We use averages because they are useful for comparing differing quantities of the same category. However, there are limitations to their use, as they may hide disparities. For example, the infant mortality rate does not differentiate between male and female infants.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, while averages are useful, they can obscure important differences.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires critical thinking about statistical measures and their implications.",
+    "topics_tags": [
+      "Averages",
+      "Statistical Measures",
+      "Development Indicators"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.7",
+    "class": 10,
+    "subject": "economics",
+    "chapter_number": 1,
+    "chapter_name": "development",
+    "question_type": "conceptual",
+    "question_text": "Kerala, with lower per capita income has a better human development ranking than Punjab. Hence, per capita income is not a useful criterion at all and should not be used to compare states. Do you agree? Discuss.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "While Kerala has a better human development ranking than Punjab despite lower per capita income, it is incorrect to say that per capita income is not useful at all. It is one of the factors in assessing development, but not the only one.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, per capita income should be considered alongside other development indicators.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires analysis of development criteria and their interrelations.",
+    "topics_tags": [
+      "Human Development",
+      "Per Capita Income",
+      "Development Comparison"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.8",
+    "class": 10,
+    "subject": "economics",
+    "chapter_number": 1,
+    "chapter_name": "development",
+    "question_type": "conceptual",
+    "question_text": "Find out the present sources of energy that are used by the people in India. What could be the other possibilities fifty years from now?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The present sources of energy used by the people in India include electricity, coal, crude oil, cowdung, and solar energy. Other possibilities fifty years from now could include ethanol, bio-diesel, nuclear energy, and better utilization of wind energy.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the future energy landscape may diversify significantly.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires knowledge of current energy sources and future trends.",
+    "topics_tags": [
+      "Energy Sources",
+      "Renewable Energy",
+      "Future Trends"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.9",
+    "class": 10,
+    "subject": "economics",
+    "chapter_number": 1,
+    "chapter_name": "development",
+    "question_type": "conceptual",
+    "question_text": "Why is the issue of sustainability important for development?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The issue of sustainability is important for development because development must be in tandem with the future. If natural resources are not sustained, then development will stagnate after a point of time. Exploiting resources unethically will ultimately undo the development that a country may have achieved. This is because in the future, those resources will not be available for further progress.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, sustainability is crucial for ensuring ongoing development.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of sustainability and its implications for future development.",
+    "topics_tags": [
+      "Sustainability",
+      "Development",
+      "Natural Resources"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.10",
+    "class": 10,
+    "subject": "economics",
+    "chapter_number": 1,
+    "chapter_name": "development",
+    "question_type": "conceptual",
+    "question_text": "\"The Earth has enough resources to meet the needs of all but not enough to satisfy the greed of even one person\". How is this statement relevant to the discussion of development? Discuss.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "\"The Earth has enough resources to meet the needs of all but not enough to satisfy the greed of even one person\". This statement is relevant to the discussion of development since both resources and development go hand in hand. For the sustainability of development, the maintenance of resources is also crucial. As the statement claims, the Earth has enough resources—renewable and non-renewable—to satisfy everyone's needs; however, these need to be used with a view to keeping the environment protected and clean so that a balance of production and use is maintained, and shortages are avoided.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the statement emphasizes the need for responsible resource use in development.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves critical thinking about resource management and development ethics.",
+    "topics_tags": [
+      "Resource Management",
+      "Sustainability",
+      "Development Ethics"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.11",
+    "class": 10,
+    "subject": "economics",
+    "chapter_number": 1,
+    "chapter_name": "development",
+    "question_type": "conceptual",
+    "question_text": "List a few examples of environmental degradation that you may have observed around you.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Environmental degradation manifests itself in different ways. Deforestation, falling levels of ground water, soil erosion, water pollution, burning of fossil fuels, the hole in the ozone layer and combustion from automobiles causing extreme air pollution especially in urban areas are some of the examples of environmental degradation.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "These examples highlight the various forms of environmental degradation affecting our planet.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires recall of observable environmental issues.",
+    "topics_tags": [
+      "Environmental Degradation",
+      "Pollution",
+      "Deforestation"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.12",
+    "class": 10,
+    "subject": "economics",
+    "chapter_number": 1,
+    "chapter_name": "development",
+    "question_type": "conceptual",
+    "question_text": "For each of the items given in Table 1.6, find out which country is at the top and which is at the bottom.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Table 1.6\n(i) Per Capita Income in US$: Top country - Sri Lanka; Bottom country - Myanmar\n(ii) Life Expectancy at birth: Top country - Sri Lanka; Bottom country - Myanmar\n(iii) Literacy Rate for 15+ yrs population: Top country - Sri Lanka; Bottom country - Bangladesh\n(iv) Gross Enrolment Ratio for three levels: Top country - Sri Lanka; Bottom country - Pakistan\n(v) HDI Rank in the world: Top country - Sri Lanka; Bottom country - Nepal.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, Sri Lanka consistently ranks at the top across various indicators.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves comparison of data across countries.",
+    "topics_tags": [
+      "Per Capita Income",
+      "Life Expectancy",
+      "Literacy Rate"
+    ],
+    "confidence_score": 0.94,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  }
+]

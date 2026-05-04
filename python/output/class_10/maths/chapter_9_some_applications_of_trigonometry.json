@@ -1,0 +1,926 @@
+[
+  {
+    "question_id": "Q9.1",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 9,
+    "chapter_name": "some applications of trigonometry",
+    "question_type": "numerical",
+    "question_text": "A circus artist is climbing a 20 m long rope, which is tightly stretched and tied from the top of a vertical pole to the ground. Find the height of the pole, if the angle made by the rope with the ground level is 30 °.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing a vertical pole and a rope making a 30° angle with the ground.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777818979/ncert/maths/9/img_1_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The height of the pole is 10 m.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Use the sine function to find the height of the pole.",
+        "expression": "h = 20 \\sin(30°)"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the height using the sine value.",
+        "expression": "h = 20 \\times \\frac{1}{2} = 10"
+      }
+    ],
+    "final_answer": "Therefore, the height of the pole is 10 m.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of trigonometric ratios and basic calculation.",
+    "topics_tags": [
+      "Trigonometry",
+      "Height Calculation",
+      "Right Triangle"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing a vertical pole and a rope making a 30° angle with the ground.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777818979/ncert/maths/9/img_1_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q9.2",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 9,
+    "chapter_name": "some applications of trigonometry",
+    "question_type": "numerical",
+    "question_text": "The angle of elevation of the top of a building from the foot of the tower is 30° and the angle of elevation of the top of the tower from the foot of the building is 60°. If the tower is 50 m high, find the height of the building.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Use the tangent of the angle of elevation to set up the equation for the height of the building.",
+        "expression": "h_b = h_t + d \tan(30°)"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the height of the tower and solve for the height of the building.",
+        "expression": "h_b = 50 + d \tan(30°)"
+      }
+    ],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the building and tower with angles of elevation.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777818995/ncert/maths/9/img_8_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps and understanding of trigonometric principles.",
+    "topics_tags": [
+      "Trigonometry",
+      "Height Calculation",
+      "Angles of Elevation"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the building and tower with angles of elevation.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777818995/ncert/maths/9/img_8_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q9.3",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 9,
+    "chapter_name": "some applications of trigonometry",
+    "question_type": "numerical",
+    "question_text": "Two poles of equal heights are standing opposite each other on either side of the road, which is 80 m wide. From a point between them on the road, the angles of elevation of the top of the poles are 60° and 30°, respectively. Find the height of poles and the distance of the point from the poles.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set up the equations based on the angles of elevation for both poles.",
+        "expression": "h = d \tan(60°) = (80 - d) \tan(30°)"
+      },
+      {
+        "step_number": 2,
+        "description": "Solve the equations to find the height of the poles and the distances.",
+        "expression": "h = d \tan(60°) = (80 - d) \tan(30°)"
+      }
+    ],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing two poles and the angles of elevation from a point on the road.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777818997/ncert/maths/9/img_9_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Involves complex reasoning and multiple equations to solve.",
+    "topics_tags": [
+      "Trigonometry",
+      "Height Calculation",
+      "Angles of Elevation"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing two poles and the angles of elevation from a point on the road.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777818997/ncert/maths/9/img_9_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q9.4",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 9,
+    "chapter_name": "some applications of trigonometry",
+    "question_type": "numerical",
+    "question_text": "The angle of elevation of the top of a tower from a point on the ground, which is 30 m away from the foot of the tower is 30°. Find the height of the tower.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the tower and the angle of elevation from the ground point.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777818985/ncert/maths/9/img_4_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The height of the tower can be calculated using the tangent of the angle of elevation.",
+    "answer_latex": "h = 30 \\tan(30^{\\circ}) = 30 \\times \\frac{1}{\\sqrt{3}} = 10\\sqrt{3} \\text{ m}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Use the tangent function to relate height and distance.",
+        "expression": "h = d \\tan(30^{\\circ})"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the known values.",
+        "expression": "h = 30 \\tan(30^{\\circ})"
+      }
+    ],
+    "final_answer": "Therefore, the height of the tower is 10√3 m.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of trigonometric ratios and basic substitution.",
+    "topics_tags": [
+      "Trigonometry",
+      "Height Calculation",
+      "Angle of Elevation"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the tower and the angle of elevation from the ground point.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777818985/ncert/maths/9/img_4_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q9.5",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 9,
+    "chapter_name": "some applications of trigonometry",
+    "question_type": "numerical",
+    "question_text": "A kite is flying at a height of 60 m above the ground. The string attached to the kite is temporarily tied to a point on the ground. The inclination of the string with the ground is 60°. Find the length of the string, assuming that there is no slack in the string.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The length of the string can be calculated using the sine of the angle of inclination.",
+    "answer_latex": "L = \\frac{60}{\\sin(60^{\\circ})} = \\frac{60}{\\frac{\\sqrt{3}}{2}} = 40\\sqrt{3} \\text{ m}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Use the sine function to relate height and length of the string.",
+        "expression": "L = \\frac{h}{\\sin(60^{\\circ})}"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the known values.",
+        "expression": "L = \\frac{60}{\\sin(60^{\\circ})}"
+      }
+    ],
+    "final_answer": "Therefore, the length of the string is 40√3 m.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the kite and the string's inclination with the ground.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777818985/ncert/maths/9/img_4_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of trigonometric ratios and basic substitution.",
+    "topics_tags": [
+      "Trigonometry",
+      "Kite Height",
+      "String Length"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the kite and the string's inclination with the ground.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777818985/ncert/maths/9/img_4_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q9.6",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 9,
+    "chapter_name": "some applications of trigonometry",
+    "question_type": "numerical",
+    "question_text": "A 1.5 m tall boy is standing at some distance from a 30 m tall building. The angle of elevation from his eyes to the top of the building increases from 30° to 60° as he walks towards the building. Find the distance he walked towards the building.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The distance walked can be calculated using the difference in heights and angles of elevation.",
+    "answer_latex": "d = h \\left( \\tan(60^{\\circ}) - \\tan(30^{\\circ}) \\right) = 28.5 \\text{ m}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the height difference between the boy's eyes and the top of the building.",
+        "expression": "h = 30 - 1.5 = 28.5"
+      },
+      {
+        "step_number": 2,
+        "description": "Use the tangent function to find the distances at both angles.",
+        "expression": "d = h \\left( \\tan(60^{\\circ}) - \\tan(30^{\\circ}) \\right)"
+      }
+    ],
+    "final_answer": "Therefore, the distance he walked towards the building is 28.5 m.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the boy and the building with angles of elevation.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777818987/ncert/maths/9/img_5_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps and understanding of trigonometric functions.",
+    "topics_tags": [
+      "Trigonometry",
+      "Height Difference",
+      "Angle of Elevation"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the boy and the building with angles of elevation.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777818987/ncert/maths/9/img_5_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q9.7",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 9,
+    "chapter_name": "some applications of trigonometry",
+    "question_type": "numerical",
+    "question_text": "From a point on the ground, the angles of elevation of the bottom and the top of a transmission tower fixed at the top of a 20 m high building are 45° and 60° respectively. Find the height of the tower.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the transmission tower and angles of elevation.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777818990/ncert/maths/9/img_6_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The height of the tower can be calculated using the angles of elevation and the height of the building.",
+    "answer_latex": "h_{tower} = h_{building} + h_{top} = 20 + (d \\tan(60^{\\circ}))",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the height of the tower using the angle of elevation.",
+        "expression": "h_{top} = d \\tan(60^{\\circ})"
+      },
+      {
+        "step_number": 2,
+        "description": "Add the height of the building to the height of the tower.",
+        "expression": "h_{tower} = 20 + h_{top}"
+      }
+    ],
+    "final_answer": "Therefore, the height of the tower is calculated based on the angles of elevation.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of trigonometric functions and height calculations.",
+    "topics_tags": [
+      "Trigonometry",
+      "Transmission Tower",
+      "Angle of Elevation"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the transmission tower and angles of elevation.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777818990/ncert/maths/9/img_6_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q9.11",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 9,
+    "chapter_name": "some applications of trigonometry",
+    "question_type": "numerical",
+    "question_text": "A TV tower stands vertically on a bank of a canal. From a point on the other bank directly opposite the tower the angle of elevation of the top of the tower is 60°. From another point 20 m away from this point on the line joining this point to the foot of the tower, the angle of elevation of the top of the tower is 30°. Find the height of the tower and the width of the canal.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram illustrating the scenario of the TV tower and angles of elevation.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819000/ncert/maths/9/img_10_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The height of the tower is 10 m and the width of the canal is 10 m.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Use trigonometric ratios to find the height of the tower from the angles of elevation.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the width of the canal using the height found and the angles.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, the height of the tower is 10 m and the width of the canal is 10 m.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagrams showing the triangles used to calculate the height and width.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819003/ncert/maths/9/img_11_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multi-step reasoning and application of trigonometric principles.",
+    "topics_tags": [
+      "Trigonometry",
+      "Height and Distance",
+      "Angles of Elevation"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram illustrating the scenario of the TV tower and angles of elevation.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819000/ncert/maths/9/img_10_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagrams showing the triangles used to calculate the height and width.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819003/ncert/maths/9/img_11_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q9.12",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 9,
+    "chapter_name": "some applications of trigonometry",
+    "question_type": "numerical",
+    "question_text": "From the top of a 7 m high building, the angle of elevation of the top of a cable tower is 60° and the angle of depression of its foot is 45°. Determine the height of the tower.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The height of the cable tower is calculated based on the angles of elevation and depression.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the height of the building and the angles to set up the problem.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use trigonometric ratios to find the height of the cable tower.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, the height of the cable tower is determined using the given angles.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the building and cable tower with angles of elevation and depression.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819006/ncert/maths/9/img_12_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of trigonometric principles and multi-step calculations.",
+    "topics_tags": [
+      "Trigonometry",
+      "Height and Distance",
+      "Angles of Elevation and Depression"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the building and cable tower with angles of elevation and depression.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819006/ncert/maths/9/img_12_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      },
+      {
+        "present": true,
+        "description": "Diagrams showing the triangles used to calculate the height of the cable tower.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819007/ncert/maths/9/img_12_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q9.13",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 9,
+    "chapter_name": "some applications of trigonometry",
+    "question_type": "numerical",
+    "question_text": "As observed from the top of a 75 m high lighthouse from the sea-level, the angles of depression of two ships are 30° and 45°. If one ship is exactly behind the other on the same side of the lighthouse, find the distance between the two ships.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The distance between the two ships is calculated using trigonometric ratios in the triangles formed.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the distance to the first ship using the angle of depression of 45°.",
+        "expression": "d_1 = h \\cdot \\tan(45°) = 75 \\cdot 1 = 75 m"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the distance to the second ship using the angle of depression of 30°.",
+        "expression": "d_2 = h \\cdot \\tan(30°) = 75 \\cdot \\frac{1}{\\sqrt{3}} = 75 \\cdot \\frac{\\sqrt{3}}{3} = 25\\sqrt{3} m"
+      },
+      {
+        "step_number": 3,
+        "description": "Find the distance between the two ships.",
+        "expression": "Distance = d_2 - d_1 = 25\\sqrt{3} - 75"
+      }
+    ],
+    "final_answer": "Therefore, the distance between the two ships is (25√3 - 75) m.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram illustrating the angles of depression from the lighthouse to the two ships.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819008/ncert/maths/9/img_13_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps of trigonometric calculations.",
+    "topics_tags": [
+      "Trigonometry",
+      "Angles of Depression",
+      "Lighthouse"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram illustrating the angles of depression from the lighthouse to the two ships.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819008/ncert/maths/9/img_13_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q9.14",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 9,
+    "chapter_name": "some applications of trigonometry",
+    "question_type": "numerical",
+    "question_text": "A 1.2 m tall girl spots a balloon moving with the wind in a horizontal line at a height of 88.2 m from the ground. The angle of elevation of the balloon from the eyes of the girl at any instant is 60°. After some time, the angle of elevation reduces to 30°. Find the distance travelled by the balloon during the interval.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The distance travelled by the balloon is calculated using the difference in horizontal distances at the two angles of elevation.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the horizontal distance when the angle of elevation is 60°.",
+        "expression": "d_1 = (h - 1.2) \\cdot \\tan(60°) = (88.2 - 1.2) \\cdot \\sqrt{3} = 87 \\cdot \\sqrt{3}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the horizontal distance when the angle of elevation is 30°.",
+        "expression": "d_2 = (h - 1.2) \\cdot \\tan(30°) = (88.2 - 1.2) \\cdot \\frac{1}{\\sqrt{3}} = 87 \\cdot \\frac{1}{\\sqrt{3}}"
+      },
+      {
+        "step_number": 3,
+        "description": "Find the distance travelled by the balloon.",
+        "expression": "Distance = d_1 - d_2 = 87\\sqrt{3} - 87\\cdot\\frac{1}{\\sqrt{3}}"
+      }
+    ],
+    "final_answer": "Therefore, the distance travelled by the balloon is 87(\\sqrt{3} - \\frac{1}{\\sqrt{3}}) m.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the girl and the balloon with angles of elevation.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819010/ncert/maths/9/img_14_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps of trigonometric calculations.",
+    "topics_tags": [
+      "Trigonometry",
+      "Angle of Elevation",
+      "Balloon"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the girl and the balloon with angles of elevation.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819010/ncert/maths/9/img_14_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q9.15",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 9,
+    "chapter_name": "some applications of trigonometry",
+    "question_type": "numerical",
+    "question_text": "A straight highway leads to the foot of a tower. A man standing at the top of the tower observes a car as an angle of depression of 30°, which is approaching the foot of the tower with a uniform speed. Six seconds later, the angle of depression of the car is found to be 60°. Find the time taken by the car to reach the foot of the tower from this point.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the tower and the angles of depression to the car.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819013/ncert/maths/9/img_15_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The time taken by the car to reach the foot of the tower is calculated using the distances derived from the angles of depression.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the distance to the car when the angle of depression is 30°.",
+        "expression": "d_1 = h \\cdot \\tan(30°)"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the distance to the car when the angle of depression is 60°.",
+        "expression": "d_2 = h \\cdot \\tan(60°)"
+      },
+      {
+        "step_number": 3,
+        "description": "Find the difference in distances to determine how far the car has travelled in 6 seconds.",
+        "expression": "Distance = d_1 - d_2"
+      },
+      {
+        "step_number": 4,
+        "description": "Calculate the speed of the car and then find the time to cover the remaining distance.",
+        "expression": "Time = \\frac{Distance}{Speed}"
+      }
+    ],
+    "final_answer": "Therefore, the time taken by the car to reach the foot of the tower is calculated based on the speed derived from the distance.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps of trigonometric calculations and speed determination.",
+    "topics_tags": [
+      "Trigonometry",
+      "Angle of Depression",
+      "Tower"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the tower and the angles of depression to the car.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819013/ncert/maths/9/img_15_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q9.16",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 9,
+    "chapter_name": "some applications of trigonometry",
+    "question_type": "derivation",
+    "question_text": "The angles of elevation of the top of a tower from two points at a distance of 4 m and 9 m from the base of the tower and in the same straight line with it are complementary. Prove that the height of the tower is 6 m.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the angles of elevation from two points to the top of a tower.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819016/ncert/maths/9/img_16_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Therefore, the height of the tower is 6 m.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Let AQ be the tower and R, S be the points 4m and 9m away from the base of the tower respectively.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Since the angles are complementary, if one angle is θ, the other will be 90 - θ.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Using trigonometric ratios in triangles AQR and AQS, derive the height of the tower.",
+        "expression": null
+      },
+      {
+        "step_number": 4,
+        "description": "Conclude that the height cannot be negative, thus confirming the height is 6 m.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the height of the tower is 6 m.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of complementary angles and application of trigonometric ratios.",
+    "topics_tags": [
+      "Trigonometry",
+      "Angles of Elevation",
+      "Height Calculation"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the angles of elevation from two points to the top of a tower.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777819016/ncert/maths/9/img_16_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  }
+]

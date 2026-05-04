@@ -1,0 +1,2381 @@
+[
+  {
+    "question_id": "Q5.1",
+    "class": 6,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "understanding elementary shapes",
+    "question_type": "conceptual",
+    "question_text": "What is the disadvantage in comparing line segments by mere observation?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "There may be chance of error due to improper viewing.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, comparing line segments by mere observation can lead to errors.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of a disadvantage.",
+    "topics_tags": [
+      "Line Segments",
+      "Measurement",
+      "Observation"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.2",
+    "class": 6,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "understanding elementary shapes",
+    "question_type": "conceptual",
+    "question_text": "Why is it better to use a divider than a ruler, while measuring the length of a line segment?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "It is better to use a divider than a ruler, because the thickness of the ruler may cause difficulties in reading off the length. However, a divider gives an accurate measurement.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, a divider provides more accurate measurements than a ruler.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of measurement tools.",
+    "topics_tags": [
+      "Measurement",
+      "Divider",
+      "Ruler"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.3",
+    "class": 6,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "understanding elementary shapes",
+    "question_type": "numerical",
+    "question_text": "Draw any line segment, say AB. Take any point C lying in between A and B. Measure the lengths of AB, BC and AC. Is AB = AC + CB?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Yes. AB = 6.5 cm, AC = 3 cm, CB = 3.5 cm. AC + CB = 3 cm + 3.5 cm = 6.5 cm = AB.",
+    "answer_latex": "AB = 6.5 \text{ cm}, AC = 3 \text{ cm}, CB = 3.5 \text{ cm} \\Rightarrow AC + CB = 6.5 \text{ cm}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Measure the lengths of AB, AC, and CB.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Check if AC + CB equals AB.",
+        "expression": "AC + CB = 3 + 3.5 = 6.5"
+      }
+    ],
+    "final_answer": "Thus, AB = AC + CB holds true.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves measurement and verification.",
+    "topics_tags": [
+      "Line Segments",
+      "Measurement",
+      "Geometry"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.4",
+    "class": 6,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "understanding elementary shapes",
+    "question_type": "numerical",
+    "question_text": "If A, B, C are three points on a line such that AB = 5 cm, BC = 3 cm and AC = 8 cm, which one of them lies between the other two?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "B is the longest line segment, thus B is the point between A and C.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, B lies between A and C.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of line segment relationships.",
+    "topics_tags": [
+      "Line Segments",
+      "Geometry",
+      "Measurement"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.5",
+    "class": 6,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "understanding elementary shapes",
+    "question_type": "conceptual",
+    "question_text": "Verify whether D is the mid-point of AC.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "AD = 3 units, DG = 3 units. AD = DG. Thus, D is the mid-point.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, D is confirmed as the mid-point of AC.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves verification of mid-point.",
+    "topics_tags": [
+      "Mid-point",
+      "Line Segments",
+      "Geometry"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.6",
+    "class": 6,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "understanding elementary shapes",
+    "question_type": "conceptual",
+    "question_text": "If B is the mid-point of AC and C is the mid-point of BD, say why AB = CD?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "B is the mid-point of AC. Therefore, AB = BC. C is the mid-point of BD, so BC = CD. From these, AB = CD.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, AB = CD holds true.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding mid-points and segment relationships.",
+    "topics_tags": [
+      "Mid-point",
+      "Line Segments",
+      "Geometry"
+    ],
+    "confidence_score": 0.94,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.7",
+    "class": 6,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "understanding elementary shapes",
+    "question_type": "conceptual",
+    "question_text": "Draw five triangles and measure their sides. Check in each case, if the sum of the lengths of any two sides is always less than the third side.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Yes, the sum of two sides of a triangle is always greater than the third side.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the triangle inequality holds true.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves practical measurement and verification.",
+    "topics_tags": [
+      "Triangles",
+      "Inequality",
+      "Geometry"
+    ],
+    "confidence_score": 0.97,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.8",
+    "class": 6,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "understanding elementary shapes",
+    "question_type": "mcq",
+    "question_text": "How many right angles do you make if you start facing:\n(a) South and turn clockwise to west?\n(b) North and turn anti-clockwise to east?\n(c) West and turn to west?\n(d) South and turn to north?",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "South and turn clockwise to west?"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "North and turn anti-clockwise to east?"
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "West and turn to west?"
+      },
+      {
+        "option_label": "(D)",
+        "option_text": "South and turn to north?"
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "South and turn clockwise to west",
+        "part_latex": null,
+        "answer_text": "Two right angles.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Therefore, you make two right angles.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "North and turn anti-clockwise to east",
+        "part_latex": null,
+        "answer_text": "One right angle.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Therefore, you make one right angle.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "West and turn to west",
+        "part_latex": null,
+        "answer_text": "Four right angles.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Therefore, you make four right angles.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(d)",
+        "part_text": "South and turn to north",
+        "part_latex": null,
+        "answer_text": "Two right angles.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Therefore, you make two right angles.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of angles and direction changes.",
+    "topics_tags": [
+      "Angles",
+      "Direction",
+      "Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.9",
+    "class": 6,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "understanding elementary shapes",
+    "question_type": "mcq",
+    "question_text": "Where will the hour hand of a clock stop if it starts:\n(a) from 6 and turns through 1 right angle?\n(b) from 8 and turns through 2 right angles?\n(c) from 10 and turns through 3 right angles?\n(d) from 7 and turns through 2 straight angles?",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "from 6 and turns through 1 right angle?"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "from 8 and turns through 2 right angles?"
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "from 10 and turns through 3 right angles?"
+      },
+      {
+        "option_label": "(D)",
+        "option_text": "from 7 and turns through 2 straight angles?"
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "from 6 and turns through 1 right angle",
+        "part_latex": null,
+        "answer_text": "At 9.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Therefore, the hour hand stops at 9.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "from 8 and turns through 2 right angles",
+        "part_latex": null,
+        "answer_text": "At 2.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Therefore, the hour hand stops at 2.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "from 10 and turns through 3 right angles",
+        "part_latex": null,
+        "answer_text": "At 7.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Therefore, the hour hand stops at 7.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(d)",
+        "part_text": "from 7 and turns through 2 straight angles",
+        "part_latex": null,
+        "answer_text": "At 7.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Therefore, the hour hand stops at 7.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves understanding of clock angles and rotations.",
+    "topics_tags": [
+      "Clock Angles",
+      "Time",
+      "Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.10",
+    "class": 6,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "understanding elementary shapes",
+    "question_type": "conceptual",
+    "question_text": "What is the measure of (i) a right angle? (ii) a straight angle?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The measure of a right angle is 90 degrees and the measure of a straight angle is 180 degrees.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, a right angle measures 90 degrees and a straight angle measures 180 degrees.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of angle measures.",
+    "topics_tags": [
+      "Angles",
+      "Right Angle",
+      "Straight Angle"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.11",
+    "class": 6,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "understanding elementary shapes",
+    "question_type": "mcq",
+    "question_text": "Say True or False: (a) The measure of an acute angle < 90. (b) The measure of an obtuse angle < 180. (c) The measure of a reflex angle > 360. (d) The measure of one complete revolution = m∠ 53° + m∠ 35°. (e) If A = and B = then A > B.",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(1)",
+        "option_text": "True"
+      },
+      {
+        "option_label": "(2)",
+        "option_text": "False"
+      }
+    ],
+    "correct_option": "(1)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The statements are: (a) True, (b) True, (c) False, (d) True, (e) answer_missing.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the answers are True for (a), (b), and (d), False for (c), and the answer for (e) is missing.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of angle properties.",
+    "topics_tags": [
+      "Angles",
+      "Acute Angle",
+      "Obtuse Angle",
+      "Reflex Angle"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.12",
+    "class": 6,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "understanding elementary shapes",
+    "question_type": "mcq",
+    "question_text": "Write down the measure of: (a) some acute angles (b) some obtuse angles (give at least two examples of each).",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "some acute angles"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "some obtuse angles (give at least two examples of each)."
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "some acute angles",
+        "part_latex": null,
+        "answer_text": "Examples of acute angles are 30 degrees and 45 degrees.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Therefore, acute angles can be 30 degrees and 45 degrees.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "some obtuse angles",
+        "part_latex": null,
+        "answer_text": "Examples of obtuse angles are 120 degrees and 150 degrees.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, obtuse angles can be 120 degrees and 150 degrees.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires knowledge of angle classifications.",
+    "topics_tags": [
+      "Acute Angles",
+      "Obtuse Angles",
+      "Angle Measures"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.13",
+    "class": 6,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "understanding elementary shapes",
+    "question_type": "mcq",
+    "question_text": "Which of the following are models for perpendicular lines:",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(a)",
+        "option_text": "The adjacent edges of a table top."
+      },
+      {
+        "option_label": "(b)",
+        "option_text": "The lines of a railway track."
+      },
+      {
+        "option_label": "(c)",
+        "option_text": "The line segments forming the letter ‘L’."
+      },
+      {
+        "option_label": "(d)",
+        "option_text": "The letter V."
+      }
+    ],
+    "correct_option": "(a)",
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing various line segments that may represent perpendicular lines.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777829850/ncert/maths/5/img_11_0.png",
+      "latex_extracted": "\\begin{array}{c c c c c c c}{{\\l}}&{{\\l}}&{{\\l}}&{{\\l}}&{{\\l}}&{{\\l}}\\\\ {{\\l}}&{{\\l}}&{{\\l}}&{{\\l}}&{{\\l}}&{{\\l}}\\\\ {{\\l}}&{{\\l}}&{{\\l}}&{{\\l}}&{{\\l}}&{{\\l}}&{{\\l}}\\\\ {{\\l}}&{{\\l}}&{{\\l}}&{{\\l}}&{{\\l}}&{{\\l}}\\\\ {{\\l}}&{{\\l}}&{{\\l}}&{{\\l}}&{{\\l}}&{{\\l}}&{{\\l}}\\\\ {{\\l}}&{{\\l}}&{{\\l}}&{{\\l}}&{{\\l}}&{{\\l}}&{{\\l}}\\end{array}\\bigg.",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of definitions and examples of perpendicular lines.",
+    "topics_tags": [
+      "Perpendicular Lines",
+      "Geometry",
+      "Shapes"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing various line segments that may represent perpendicular lines.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777829850/ncert/maths/5/img_11_0.png",
+        "latex_extracted": "\\begin{array}{c c c c c c c}{{\\l}}&{{\\l}}&{{\\l}}&{{\\l}}&{{\\l}}&{{\\l}}\\\\ {{\\l}}&{{\\l}}&{{\\l}}&{{\\l}}&{{\\l}}&{{\\l}}\\\\ {{\\l}}&{{\\l}}&{{\\l}}&{{\\l}}&{{\\l}}&{{\\l}}&{{\\l}}\\\\ {{\\l}}&{{\\l}}&{{\\l}}&{{\\l}}&{{\\l}}&{{\\l}}\\\\ {{\\l}}&{{\\l}}&{{\\l}}&{{\\l}}&{{\\l}}&{{\\l}}&{{\\l}}\\\\ {{\\l}}&{{\\l}}&{{\\l}}&{{\\l}}&{{\\l}}&{{\\l}}&{{\\l}}\\end{array}\\bigg.",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.14",
+    "class": 6,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "understanding elementary shapes",
+    "question_type": "conceptual",
+    "question_text": "Let l be the perpendicular to the line segment m and intersect in the point A. What is the measure of ∠PAY?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "∠PAY = 90°",
+    "answer_latex": "∠PAY = 90^{\\circ}",
+    "steps": [],
+    "final_answer": "Therefore, the measure of ∠PAY is 90°.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Simple application of the definition of perpendicular lines.",
+    "topics_tags": [
+      "Perpendicular Lines",
+      "Angles",
+      "Geometry"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.15",
+    "class": 6,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "understanding elementary shapes",
+    "question_type": "conceptual",
+    "question_text": "There are two “set-squares” in your box. What are the measures of the angles that are formed at their corners? Do they have any angle measure that is common?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "One set-square has angles of 45°, 90°, and 45°; the other has angles of 30°, 60°, and 90°. They have 90° as a common angle.",
+    "answer_latex": "45^{\\circ}, 90^{\\circ}, 45^{\\circ} \\text{ and } 30^{\\circ}, 60^{\\circ}, 90^{\\circ}",
+    "steps": [],
+    "final_answer": "Thus, the common angle measure is 90°.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of angles in geometric shapes.",
+    "topics_tags": [
+      "Set-Squares",
+      "Angles",
+      "Geometry"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.16",
+    "class": 6,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "understanding elementary shapes",
+    "question_type": "mcq",
+    "question_text": "Study the diagram. The line l is perpendicular to line m. (a) Is CE = EG? (b) Does PE bisect CG? (c) Identify any two line segments for which PE is the perpendicular bisector. (d) Are these true? (i) AC > FG (ii) CD = GH (iii) BC < EH",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "Is CE = EG?"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "Does PE bisect CG?"
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "Identify any two line segments for which PE is the perpendicular bisector."
+      },
+      {
+        "option_label": "(D)",
+        "option_text": "Are these true? (i) AC > FG (ii) CD = GH (iii) BC < EH"
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing lines l and m with segments CE, EG, and PE.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777829853/ncert/maths/5/img_12_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple geometric concepts and reasoning.",
+    "topics_tags": [
+      "Perpendicular Lines",
+      "Geometry",
+      "Bisectors"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing lines l and m with segments CE, EG, and PE.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777829853/ncert/maths/5/img_12_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.17",
+    "class": 6,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "understanding elementary shapes",
+    "question_type": "mcq",
+    "question_text": "1. Name the types of following triangles:\n(a) Triangle with lengths of sides 7 cm, 8 cm and 9 cm.\n(b) with AB = 8.7 cm, AC = 7 cm and BC = 6 cm.\n(c) ∆PQR such that PQ = QR = PR = 5 cm.\n(d) ∆DEF with m∠D = 90°.\n(e) ∆XYZ with m∠Y = 90° and XY = YZ.\n(f) LMN with m L = m M = m N =",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "Triangle with lengths of sides 7 cm, 8 cm and 9 cm."
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "with AB = 8.7 cm, AC = 7 cm and BC = 6 cm."
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "∆PQR such that PQ = QR = PR = 5 cm."
+      },
+      {
+        "option_label": "(D)",
+        "option_text": "∆DEF with m∠D = 90°.\n(e) ∆XYZ with m∠Y = 90° and XY = YZ.\n(f) LMN with m L = m M = m N ="
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing various triangles with different properties.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777829859/ncert/maths/5/img_13_0.png",
+      "latex_extracted": "\\begin{array}{c}{{\\left.\\times\\right.\\left.\\right.\\right.\\left.\\right.\\left.\\right.\\left.\\right.\\right.\\right.\\left.\\left.\\frac{\\chi}{4\\omega}\\right.\\right.\\right.\\left.\\right.\\right.\\left.\\right.\\right.\\right.\\leq\\mathcal{V}\\right.\\left|\\operatorname*{m}_{\\begin{array}{c}{{\\mathrm{est}}\\\\ {{\\left.\\left.\\left.\\left.\\left.\\left.\\leq\\right.\\leq\\sum_{\\mathrm{est}}\\right.}\\right.}\\right.}}}\\\\ {{\\left.\\left.\\left.\\right|\\sum_{\\begin{array}{c}{{\\mathrm{est}}{\\omega}}\\end{array}\\right.\\right.\\right.\\right.\\right.\\right.\\right.\\left.\\left.\\begin{array}{c}{{\\exp}}}\\end{array}\\right.}}}\\end{array}",
+      "source_page_number": 13,
+      "source_image_index": 0,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Triangle with lengths of sides 7 cm, 8 cm and 9 cm.",
+        "part_latex": null,
+        "answer_text": "Scalene triangle",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "The triangle is scalene as all sides are of different lengths.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "with AB = 8.7 cm, AC = 7 cm and BC = 6 cm.",
+        "part_latex": null,
+        "answer_text": "Scalene triangle",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "The triangle is scalene as all sides are of different lengths.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "∆PQR such that PQ = QR = PR = 5 cm.",
+        "part_latex": null,
+        "answer_text": "Equilateral triangle",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "The triangle is equilateral as all sides are equal.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(d)",
+        "part_text": "∆DEF with m∠D = 90°.",
+        "part_latex": null,
+        "answer_text": "Right-angled triangle",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "The triangle is right-angled as one angle is 90°.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(e)",
+        "part_text": "∆XYZ with m∠Y = 90° and XY = YZ.",
+        "part_latex": null,
+        "answer_text": "Isosceles right-angled triangle",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "The triangle is isosceles right-angled as it has one right angle and two equal sides.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(f)",
+        "part_text": "LMN with m L = m M = m N =",
+        "part_latex": null,
+        "answer_text": "Acute-angled triangle",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "The triangle is acute-angled as all angles are less than 90°.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of triangle properties and types.",
+    "topics_tags": [
+      "Triangles",
+      "Types of Triangles",
+      "Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing various triangles with different properties.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777829859/ncert/maths/5/img_13_0.png",
+        "latex_extracted": "\\begin{array}{c}{{\\left.\\times\\right.\\left.\\right.\\right.\\left.\\right.\\left.\\right.\\left.\\right.\\right.\\right.\\left.\\left.\\frac{\\chi}{4\\omega}\\right.\\right.\\right.\\left.\\right.\\right.\\left.\\right.\\right.\\right.\\leq\\mathcal{V}\\right.\\left|\\operatorname*{m}_{\\begin{array}{c}{{\\mathrm{est}}\\\\ {{\\left.\\left.\\left.\\left.\\left.\\left.\\leq\\right.\\leq\\sum_{\\mathrm{est}}\\right.}\\right.}\\right.}}}\\\\ {{\\left.\\left.\\left.\\right|\\sum_{\\begin{array}{c}{{\\mathrm{est}}{\\omega}}\\end{array}\\right.\\right.\\right.\\right.\\right.\\right.\\right.\\left.\\left.\\begin{array}{c}{{\\exp}}}\\end{array}\\right.}}}\\end{array}",
+        "source_page_number": 13,
+        "source_image_index": 0,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.18",
+    "class": 6,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "understanding elementary shapes",
+    "question_type": "mcq",
+    "question_text": "4. Try to construct triangles using match sticks. Some are shown here. Can you make a triangle with:\n(a) 3 matchsticks?\n(b) 4 matchsticks?\n(c) 5 matchsticks?\n(d) 6 matchsticks?\n(Remember you have to use all the available matchsticks in each case). If you cannot make a triangle, think of reasons for it.",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "3 matchsticks?"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "4 matchsticks?"
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "5 matchsticks?"
+      },
+      {
+        "option_label": "(D)",
+        "option_text": "6 matchsticks?\n(Remember you have to use all the available matchsticks in each case). If you cannot make a triangle, think of reasons for it."
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing matchsticks arranged to form triangles.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777829861/ncert/maths/5/img_14_0.png",
+      "latex_extracted": "\\begin{array}{c l}{{\\sqrt{\\sum_{\\Lambda}}}}&{{\\displaystyle\\frac{\\displaystyle\\displaystyle\\hat{\\Sigma}}{\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\sqrt{\\hat{\\Sigma}}}}}\\\\ {{\\displaystyle\\hat{\\Sigma}\\displaystyle\\left\\langle\\hat{\\Sigma}\\right\\rangle}}&{{\\displaystyle\\hat{\\Sigma}}}\\end{array}",
+      "source_page_number": 14,
+      "source_image_index": 0,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves practical application and reasoning about triangle construction.",
+    "topics_tags": [
+      "Triangle Construction",
+      "Matchsticks",
+      "Geometry"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing matchsticks arranged to form triangles.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777829861/ncert/maths/5/img_14_0.png",
+        "latex_extracted": "\\begin{array}{c l}{{\\sqrt{\\sum_{\\Lambda}}}}&{{\\displaystyle\\frac{\\displaystyle\\displaystyle\\hat{\\Sigma}}{\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\sqrt{\\hat{\\Sigma}}}}}\\\\ {{\\displaystyle\\hat{\\Sigma}\\displaystyle\\left\\langle\\hat{\\Sigma}\\right\\rangle}}&{{\\displaystyle\\hat{\\Sigma}}}\\end{array}",
+        "source_page_number": 14,
+        "source_image_index": 0,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.19",
+    "class": 6,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "understanding elementary shapes",
+    "question_type": "mcq",
+    "question_text": "1. Say true or false:\n(a) Each angle of a rectangle is a right angle.\n(b) The opposite sides of a rectangle are equal in length.\n(c) The diagonals of a square are perpendicular to one another.\n(d) All the sides of a rhombus are of equal length.\n(e) All the sides of a parallelogram are of equal length.\n(f) The opposite sides of a trapezium are parallel.",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "Each angle of a rectangle is a right angle."
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "The opposite sides of a rectangle are equal in length."
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "The diagonals of a square are perpendicular to one another."
+      },
+      {
+        "option_label": "(D)",
+        "option_text": "All the sides of a rhombus are of equal length.\n(e) All the sides of a parallelogram are of equal length.\n(f) The opposite sides of a trapezium are parallel."
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Each angle of a rectangle is a right angle.",
+        "part_latex": null,
+        "answer_text": "True",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "The opposite sides of a rectangle are equal in length.",
+        "part_latex": null,
+        "answer_text": "True",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "The diagonals of a square are perpendicular to one another.",
+        "part_latex": null,
+        "answer_text": "True",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(d)",
+        "part_text": "All the sides of a rhombus are of equal length.",
+        "part_latex": null,
+        "answer_text": "True",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(e)",
+        "part_text": "All the sides of a parallelogram are of equal length.",
+        "part_latex": null,
+        "answer_text": "False",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(f)",
+        "part_text": "The opposite sides of a trapezium are parallel.",
+        "part_latex": null,
+        "answer_text": "False",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of properties of shapes.",
+    "topics_tags": [
+      "Geometry",
+      "Shapes",
+      "Properties of Quadrilaterals"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.20",
+    "class": 6,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "understanding elementary shapes",
+    "question_type": "mcq",
+    "question_text": "2. Give reasons for the following:\n(a) A square can be thought of as a special rectangle.\n(b) A rectangle can be thought of as a special parallelogram.\n(c) A square can be thought of as a special rhombus.\n(d) Squares, rectangles, parallelograms are all quadrilateral.\n(e) Square is also a parallelogram.",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "A square can be thought of as a special rectangle."
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "A rectangle can be thought of as a special parallelogram."
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "A square can be thought of as a special rhombus."
+      },
+      {
+        "option_label": "(D)",
+        "option_text": "Squares, rectangles, parallelograms are all quadrilateral.\n(e) Square is also a parallelogram."
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "A square can be thought of as a special rectangle.",
+        "part_latex": null,
+        "answer_text": "Because its all angles are right angle and opposite sides are equal.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "A rectangle can be thought of as a special parallelogram.",
+        "part_latex": null,
+        "answer_text": "Because its opposite sides are equal and parallel.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "A square can be thought of as a special rhombus.",
+        "part_latex": null,
+        "answer_text": "Because its four sides are equal and diagonals are perpendicular to each other.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(d)",
+        "part_text": "Squares, rectangles, parallelograms are all quadrilateral.",
+        "part_latex": null,
+        "answer_text": "Because all of them have four sides.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(e)",
+        "part_text": "Square is also a parallelogram.",
+        "part_latex": null,
+        "answer_text": "Because its opposite sides are equal and parallel.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of properties and relationships between shapes.",
+    "topics_tags": [
+      "Geometry",
+      "Quadrilaterals",
+      "Properties of Shapes"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.21",
+    "class": 6,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "understanding elementary shapes",
+    "question_type": "conceptual",
+    "question_text": "3. A figure is said to be regular if its sides are equal in length and angles are equal in measure. Can you identify the regular quadrilateral?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "A square is a regular quadrilateral.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, a square is identified as the regular quadrilateral.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct identification of a known shape.",
+    "topics_tags": [
+      "Regular Polygons",
+      "Quadrilaterals",
+      "Square"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.22",
+    "class": 6,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "understanding elementary shapes",
+    "question_type": "mcq",
+    "question_text": "1. Match the following:\n(a)Cone\n(b)Sphere\n(c) Cylinder\n(d)Cuboid\n(e)Pyramid\nGive two example of each shape.",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "Cone"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "Sphere"
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "Cylinder"
+      },
+      {
+        "option_label": "(D)",
+        "option_text": "Cuboid\n(e)Pyramid\nGive two example of each shape."
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Cone",
+        "part_latex": null,
+        "answer_text": "Examples: Ice cream cone, traffic cone.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Examples of cone include an ice cream cone and a traffic cone.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Sphere",
+        "part_latex": null,
+        "answer_text": "Examples: Basketball, globe.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Examples of sphere include a basketball and a globe.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "Cylinder",
+        "part_latex": null,
+        "answer_text": "Examples: Soda can, pencil.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Examples of cylinder include a soda can and a pencil.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(d)",
+        "part_text": "Cuboid",
+        "part_latex": null,
+        "answer_text": "Examples: Box, brick.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Examples of cuboid include a box and a brick.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(e)",
+        "part_text": "Pyramid",
+        "part_latex": null,
+        "answer_text": "Examples: Pyramid of Giza, tent.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Examples of pyramid include the Pyramid of Giza and a tent.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of shapes and examples.",
+    "topics_tags": [
+      "Shapes",
+      "Geometry",
+      "Elementary Shapes"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.23",
+    "class": 6,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "understanding elementary shapes",
+    "question_type": "mcq",
+    "question_text": "2. What shape is:\n(a)Your instrument box?\n(b)A brick?\n(c) A match box?\n(d)A road-roller?\n(e)A sweet laddu?",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "Your instrument box?"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "A brick?"
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "A match box?"
+      },
+      {
+        "option_label": "(D)",
+        "option_text": "A road-roller?\n(e)A sweet laddu?"
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Your instrument box?",
+        "part_latex": null,
+        "answer_text": "Cuboid",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "The shape of your instrument box is a cuboid.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "A brick?",
+        "part_latex": null,
+        "answer_text": "Cuboid",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "The shape of a brick is a cuboid.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "A match box?",
+        "part_latex": null,
+        "answer_text": "Cuboid",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "The shape of a match box is a cuboid.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(d)",
+        "part_text": "A road-roller?",
+        "part_latex": null,
+        "answer_text": "Cylinder",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "The shape of a road-roller is a cylinder.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(e)",
+        "part_text": "A sweet laddu?",
+        "part_latex": null,
+        "answer_text": "Sphere",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "The shape of a sweet laddu is a sphere.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires identification of common objects and their shapes.",
+    "topics_tags": [
+      "Shapes",
+      "Geometry",
+      "Identification"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  }
+]

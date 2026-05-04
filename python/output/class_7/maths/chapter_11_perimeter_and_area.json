@@ -1,0 +1,2329 @@
+[
+  {
+    "question_id": "Q11.1",
+    "class": 7,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "perimeter and area",
+    "question_type": "multipart",
+    "question_text": "The length and the breadth of a rectangular piece of land are 500 m and 300 m respectively. Find (i) its area (ii) the cost of the land, if 1 m2 of the land costs Rs 10,000.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "Find its area.",
+        "part_latex": null,
+        "answer_text": "The area is calculated as Length x Breadth.",
+        "answer_latex": "Area = 500 \\times 300 = 150000 \\text{ m}^2",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the area using the formula for the area of a rectangle.",
+            "expression": "Area = Length \\times Breadth"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the values of length and breadth.",
+            "expression": "Area = 500 \\times 300"
+          }
+        ],
+        "final_answer": "Therefore, the area of the land is 150000 m².",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "Find the cost of the land, if 1 m2 of the land costs Rs 10,000.",
+        "part_latex": null,
+        "answer_text": "The cost of the land is calculated as Cost per m² multiplied by the area.",
+        "answer_latex": "Cost = 10000 \\times 150000 = 1500000000",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the total cost using the area and cost per m².",
+            "expression": "Cost = 10000 \\times 150000"
+          }
+        ],
+        "final_answer": "Therefore, the cost of the land is Rs 1500000000.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of area calculation and basic multiplication.",
+    "topics_tags": [
+      "Area",
+      "Rectangle",
+      "Cost Calculation"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.2",
+    "class": 7,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "perimeter and area",
+    "question_type": "numerical",
+    "question_text": "Find the area of a square park whose perimeter is 320 m.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The area of the square park is calculated using the side length derived from the perimeter.",
+    "answer_latex": "Area = (80)^2 = 6400 \\text{ m}^2",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the length of one side of the square using the perimeter.",
+        "expression": "4 \\times Length = 320"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute to find the length of the side.",
+        "expression": "Length = \\frac{320}{4} = 80"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the area using the side length.",
+        "expression": "Area = (80)^2"
+      }
+    ],
+    "final_answer": "Therefore, the area of the square park is 6400 m².",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves understanding of perimeter and area calculations.",
+    "topics_tags": [
+      "Area",
+      "Square",
+      "Perimeter"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.3",
+    "class": 7,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "perimeter and area",
+    "question_type": "multipart",
+    "question_text": "Find the breadth of a rectangular plot of land, if its area is 440 m² and the length is 22 m. Also find its perimeter.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Find the breadth.",
+        "part_latex": null,
+        "answer_text": "The breadth is calculated using the area formula.",
+        "answer_latex": "Breadth = \\frac{440}{22} = 20 \\text{ m}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the area formula to find the breadth.",
+            "expression": "Area = Length \\times Breadth"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the known values.",
+            "expression": "22 \\times Breadth = 440"
+          },
+          {
+            "step_number": 3,
+            "description": "Solve for breadth.",
+            "expression": "Breadth = \\frac{440}{22}"
+          }
+        ],
+        "final_answer": "Therefore, the breadth of the plot is 20 m.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Find its perimeter.",
+        "part_latex": null,
+        "answer_text": "The perimeter is calculated using the formula for the perimeter of a rectangle.",
+        "answer_latex": "Perimeter = 2 \\times (Length + Breadth) = 84 \\text{ m}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the perimeter formula.",
+            "expression": "Perimeter = 2 \\times (Length + Breadth)"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the values of length and breadth.",
+            "expression": "Perimeter = 2 \\times (22 + 20)"
+          }
+        ],
+        "final_answer": "Therefore, the perimeter of the plot is 84 m.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves area and perimeter calculations with basic algebra.",
+    "topics_tags": [
+      "Area",
+      "Perimeter",
+      "Rectangle"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.4",
+    "class": 7,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "perimeter and area",
+    "question_type": "numerical",
+    "question_text": "The perimeter of a rectangular sheet is 100 cm. If the length is 35 cm, find its breadth. Also find the area.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The breadth is calculated using the perimeter formula, and the area is calculated using length and breadth.",
+    "answer_latex": "Breadth = 15 \\text{ cm}, Area = 35 \\times 15 = 525 \\text{ cm}^2",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Use the perimeter formula to find the breadth.",
+        "expression": "Perimeter = 2 \\times (Length + Breadth)"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the known values.",
+        "expression": "100 = 2 \\times (35 + Breadth)"
+      },
+      {
+        "step_number": 3,
+        "description": "Solve for breadth.",
+        "expression": "Breadth = 50 - 35"
+      },
+      {
+        "step_number": 4,
+        "description": "Calculate the area using length and breadth.",
+        "expression": "Area = 35 \\times 15"
+      }
+    ],
+    "final_answer": "Therefore, the breadth is 15 cm and the area is 525 cm².",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic algebra and area calculation.",
+    "topics_tags": [
+      "Perimeter",
+      "Area",
+      "Rectangle"
+    ],
+    "confidence_score": 0.97,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.5",
+    "class": 7,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "perimeter and area",
+    "question_type": "mcq",
+    "question_text": "Find the area of each of the following triangles: (a) Base = 4 cm, height= 3 cm; (b) Base = 5 cm, height= 3.2 cm; (c) Base = 4 cm, height= 3 cm; (d) Base = 3 cm, height= 2 cm.",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "Base = 4 cm, height= 3 cm"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "Base = 5 cm, height= 3.2 cm"
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "Base = 4 cm, height= 3 cm"
+      },
+      {
+        "option_label": "(D)",
+        "option_text": "Base = 3 cm, height= 2 cm."
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Images showing calculations for the area of triangles with given bases and heights.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777833781/ncert/maths/11/img_4_0.jpg",
+      "latex_extracted": "\\left.\\left.\\begin{array}{c c c}{{\\displaystyle\\left[\\begin{array}{c c}{{\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\frac{\\displaystyle\\star_{i}\\displaystyle\\star_{\\mathrm{\\tiny~V}}\\times}\\times_{\\displaystyle\\P}\\times_{\\displaystyle\\ell}\\to}}}&{{\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\frac{\\displaystyle\\displaystyle\\int_{\\displaystyle\\sum_{i}^{\\displaystyle\\prime}\\cdot\\ \\!\\!\\infty}^{\\displaystyle\\displaystyle\\star_{\\displaystyle\\uparrow}\\times_{\\displaystyle\\ell}\\times_{\\displaystyle\\downarrow}}^{\\displaystyle\\uparrow}}}\\\\ {{\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\frac{\\displaystyle\\uparrow}{\\displaystyle\\tan_{\\displaystyle\\uparrow}}\\quad_{\\displaystyle\\uparrow}}}&{{(\\displaystyle\\uparrow\\times_{\\displaystyle\\leq i}^{\\displaystyle\\uparrow}}}&{{(\\displaystyle\\star_{\\displaystyle\\uparrow}\\times_{\\displaystyle\\leq}^{}}}\\end{array}\\right.\\right.\\right.\\right.\\left.\\left.\\right.\\right.\\right.\\right.\\right.\\displaystyle\\left.\\right.\\right.\\right.\\right.\\left.\\displaystyle\\left.\\displaystyle\\left\\{\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\frac{\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\sum_{\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\right.\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle{\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\left(\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\",
+      "source_page_number": 4,
+      "source_image_index": 0,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Base = 4 cm, height= 3 cm",
+        "part_latex": null,
+        "answer_text": "Area = 6 cm²",
+        "answer_latex": "A = \\frac{1}{2} \\times 4 \\times 3 = 6",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the formula for the area of a triangle.",
+            "expression": "A = \\frac{1}{2} \\times base \\times height"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the values of base and height.",
+            "expression": "A = \\frac{1}{2} \\times 4 \\times 3"
+          }
+        ],
+        "final_answer": "Therefore, the area of triangle (a) is 6 cm².",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Base = 5 cm, height= 3.2 cm",
+        "part_latex": null,
+        "answer_text": "Area = 8 cm²",
+        "answer_latex": "A = \\frac{1}{2} \\times 5 \\times 3.2 = 8",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the formula for the area of a triangle.",
+            "expression": "A = \\frac{1}{2} \\times base \\times height"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the values of base and height.",
+            "expression": "A = \\frac{1}{2} \\times 5 \\times 3.2"
+          }
+        ],
+        "final_answer": "Therefore, the area of triangle (b) is 8 cm².",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "Base = 4 cm, height= 3 cm",
+        "part_latex": null,
+        "answer_text": "Area = 6 cm²",
+        "answer_latex": "A = \\frac{1}{2} \\times 4 \\times 3 = 6",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the formula for the area of a triangle.",
+            "expression": "A = \\frac{1}{2} \\times base \\times height"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the values of base and height.",
+            "expression": "A = \\frac{1}{2} \\times 4 \\times 3"
+          }
+        ],
+        "final_answer": "Therefore, the area of triangle (c) is 6 cm².",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(d)",
+        "part_text": "Base = 3 cm, height= 2 cm",
+        "part_latex": null,
+        "answer_text": "Area = 3 cm²",
+        "answer_latex": "A = \\frac{1}{2} \\times 3 \\times 2 = 3",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the formula for the area of a triangle.",
+            "expression": "A = \\frac{1}{2} \\times base \\times height"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the values of base and height.",
+            "expression": "A = \\frac{1}{2} \\times 3 \\times 2"
+          }
+        ],
+        "final_answer": "Therefore, the area of triangle (d) is 3 cm².",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of the area formula and basic multiplication.",
+    "topics_tags": [
+      "Area of Triangle",
+      "Geometry",
+      "Basic Math"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Images showing calculations for the area of triangles with given bases and heights.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777833781/ncert/maths/11/img_4_0.jpg",
+        "latex_extracted": "\\left.\\left.\\begin{array}{c c c}{{\\displaystyle\\left[\\begin{array}{c c}{{\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\frac{\\displaystyle\\star_{i}\\displaystyle\\star_{\\mathrm{\\tiny~V}}\\times}\\times_{\\displaystyle\\P}\\times_{\\displaystyle\\ell}\\to}}}&{{\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\frac{\\displaystyle\\displaystyle\\int_{\\displaystyle\\sum_{i}^{\\displaystyle\\prime}\\cdot\\ \\!\\!\\infty}^{\\displaystyle\\displaystyle\\star_{\\displaystyle\\uparrow}\\times_{\\displaystyle\\ell}\\times_{\\displaystyle\\downarrow}}^{\\displaystyle\\uparrow}}}\\\\ {{\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\frac{\\displaystyle\\uparrow}{\\displaystyle\\tan_{\\displaystyle\\uparrow}}\\quad_{\\displaystyle\\uparrow}}}&{{(\\displaystyle\\uparrow\\times_{\\displaystyle\\leq i}^{\\displaystyle\\uparrow}}}&{{(\\displaystyle\\star_{\\displaystyle\\uparrow}\\times_{\\displaystyle\\leq}^{}}}\\end{array}\\right.\\right.\\right.\\right.\\left.\\left.\\right.\\right.\\right.\\right.\\right.\\displaystyle\\left.\\right.\\right.\\right.\\right.\\left.\\displaystyle\\left.\\displaystyle\\left\\{\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\frac{\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\sum_{\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\right.\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle{\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\left(\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\displaystyle\\",
+        "source_page_number": 4,
+        "source_image_index": 0,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.6",
+    "class": 7,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "perimeter and area",
+    "question_type": "mcq",
+    "question_text": "Find the missing values: (a) Base = 20 cm, Area = 246 cm²; (b) Base = ?, Height = 15 cm, Area = 154.5 cm²; (c) Base = ?, Height = 8.4 cm, Area = 48.72 cm²; (d) Base = 15.6 cm, Area = 16.38 cm².",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "Base = 20 cm, Area = 246 cm²"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "Base = ?, Height = 15 cm, Area = 154.5 cm²"
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "Base = ?, Height = 8.4 cm, Area = 48.72 cm²"
+      },
+      {
+        "option_label": "(D)",
+        "option_text": "Base = 15.6 cm, Area = 16.38 cm²."
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Base = 20 cm, Area = 246 cm²",
+        "part_latex": null,
+        "answer_text": "Height = 12.3 cm",
+        "answer_latex": "h = \\frac{246}{20} = 12.3",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the area formula for parallelogram.",
+            "expression": "Area = Base \\times Height"
+          },
+          {
+            "step_number": 2,
+            "description": "Rearrange to find height.",
+            "expression": "Height = \\frac{Area}{Base}"
+          },
+          {
+            "step_number": 3,
+            "description": "Substitute the values.",
+            "expression": "h = \\frac{246}{20}"
+          }
+        ],
+        "final_answer": "Therefore, the height of the parallelogram is 12.3 cm.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Base = ?, Height = 15 cm, Area = 154.5 cm²",
+        "part_latex": null,
+        "answer_text": "Base = 10.3 cm",
+        "answer_latex": "b = \\frac{154.5}{15} = 10.3",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the area formula for parallelogram.",
+            "expression": "Area = Base \\times Height"
+          },
+          {
+            "step_number": 2,
+            "description": "Rearrange to find base.",
+            "expression": "Base = \\frac{Area}{Height}"
+          },
+          {
+            "step_number": 3,
+            "description": "Substitute the values.",
+            "expression": "b = \\frac{154.5}{15}"
+          }
+        ],
+        "final_answer": "Therefore, the base of the parallelogram is 10.3 cm.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "Base = ?, Height = 8.4 cm, Area = 48.72 cm²",
+        "part_latex": null,
+        "answer_text": "Base = 5.8 cm",
+        "answer_latex": "b = \\frac{48.72}{8.4} = 5.8",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the area formula for parallelogram.",
+            "expression": "Area = Base \\times Height"
+          },
+          {
+            "step_number": 2,
+            "description": "Rearrange to find base.",
+            "expression": "Base = \\frac{Area}{Height}"
+          },
+          {
+            "step_number": 3,
+            "description": "Substitute the values.",
+            "expression": "b = \\frac{48.72}{8.4}"
+          }
+        ],
+        "final_answer": "Therefore, the base of the parallelogram is 5.8 cm.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(d)",
+        "part_text": "Base = 15.6 cm, Area = 16.38 cm²",
+        "part_latex": null,
+        "answer_text": "Height = 1.05 cm",
+        "answer_latex": "h = \\frac{16.38}{15.6} = 1.05",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the area formula for parallelogram.",
+            "expression": "Area = Base \\times Height"
+          },
+          {
+            "step_number": 2,
+            "description": "Rearrange to find height.",
+            "expression": "Height = \\frac{Area}{Base}"
+          },
+          {
+            "step_number": 3,
+            "description": "Substitute the values.",
+            "expression": "h = \\frac{16.38}{15.6}"
+          }
+        ],
+        "final_answer": "Therefore, the height of the parallelogram is 1.05 cm.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Images showing calculations for finding missing values in parallelograms.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777833792/ncert/maths/11/img_5_0.png",
+      "latex_extracted": "\\overline{{{\\Bigl|{\\cal I}_{1}}-\\frac{\\gamma_{\\lambda\\bar{\\lambda}(\\zeta)}}{\\gamma_{\\bar{(1)}}}-\\vert{\\cal\\nabla}_{*..}^{\\bar{\\lambda}{\\bf\\sigma}_{\\bar{(T)}}}}}",
+      "source_page_number": 5,
+      "source_image_index": 0,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves rearranging the area formula and basic arithmetic.",
+    "topics_tags": [
+      "Area of Parallelogram",
+      "Geometry",
+      "Basic Math"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Images showing calculations for finding missing values in parallelograms.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777833792/ncert/maths/11/img_5_0.png",
+        "latex_extracted": "\\overline{{{\\Bigl|{\\cal I}_{1}}-\\frac{\\gamma_{\\lambda\\bar{\\lambda}(\\zeta)}}{\\gamma_{\\bar{(1)}}}-\\vert{\\cal\\nabla}_{*..}^{\\bar{\\lambda}{\\bf\\sigma}_{\\bar{(T)}}}}}",
+        "source_page_number": 5,
+        "source_image_index": 0,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q11.7",
+    "class": 7,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "perimeter and area",
+    "question_type": "mcq",
+    "question_text": "PQRS is a parallelogram (see the given figure). QM is the height from Q to SR and QN is the height from Q to PS. If SR = 12 cm and QM = 7.6 cm. Find: (a) the area of the parallelogram PQRS (b) QN, if PS = 8 cm",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "the area of the parallelogram PQRS"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "QN, if PS = 8 cm"
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "the area of the parallelogram PQRS",
+        "part_latex": null,
+        "answer_text": "Area of parallelogram = Base × Height = SR × QM = 12 × 7.6 = 91.2 cm²",
+        "answer_latex": "Area = 12 \\times 7.6 = 91.2 \\text{ cm}^2",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the formula for the area of a parallelogram.",
+            "expression": "Area = Base \\times Height"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the values of base and height.",
+            "expression": "Area = 12 \\times 7.6"
+          }
+        ],
+        "final_answer": "Therefore, the area of the parallelogram PQRS is 91.2 cm².",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "QN, if PS = 8 cm",
+        "part_latex": null,
+        "answer_text": "QN can be found using the area calculated in part (a). Area = PS × QN = 91.2 cm², thus QN = 91.2 / 8 = 11.4 cm.",
+        "answer_latex": "QN = \\frac{91.2}{8} = 11.4 \\text{ cm}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Set up the equation using the area of the parallelogram.",
+            "expression": "Area = PS \\times QN"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the known values to find QN.",
+            "expression": "91.2 = 8 \\times QN"
+          },
+          {
+            "step_number": 3,
+            "description": "Solve for QN.",
+            "expression": "QN = \\frac{91.2}{8}"
+          }
+        ],
+        "final_answer": "Thus, QN is 11.4 cm.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Figure showing parallelogram PQRS with heights QM and QN",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777833812/ncert/maths/11/img_7_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of area calculation and basic algebra.",
+    "topics_tags": [
+      "Parallelogram",
+      "Area",
+      "Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Figure showing parallelogram PQRS with heights QM and QN",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777833812/ncert/maths/11/img_7_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q11.8",
+    "class": 7,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "perimeter and area",
+    "question_type": "multipart",
+    "question_text": "DL and BM are the heights on sides AB and AD respectively of parallelogram ABCD (see the given figure). If the area of the parallelogram is 1470 cm², AB = 35 cm and AD = 49 cm, find the length of BM and DL.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Figure showing parallelogram ABCD with heights DL and BM",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777833814/ncert/maths/11/img_7_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "length of DL",
+        "part_latex": null,
+        "answer_text": "Area of parallelogram = Base × Height = AB × DL, thus 1470 = 35 × DL, DL = 1470 / 35 = 42 cm.",
+        "answer_latex": "DL = \\frac{1470}{35} = 42 \\text{ cm}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the area formula for parallelogram.",
+            "expression": "Area = AB \\times DL"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the known values.",
+            "expression": "1470 = 35 \\times DL"
+          },
+          {
+            "step_number": 3,
+            "description": "Solve for DL.",
+            "expression": "DL = \\frac{1470}{35}"
+          }
+        ],
+        "final_answer": "Therefore, the length of DL is 42 cm.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "length of BM",
+        "part_latex": null,
+        "answer_text": "Area of parallelogram = AD × BM, thus 1470 = 49 × BM, BM = 1470 / 49 = 30 cm.",
+        "answer_latex": "BM = \\frac{1470}{49} = 30 \\text{ cm}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the area formula for parallelogram.",
+            "expression": "Area = AD \\times BM"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the known values.",
+            "expression": "1470 = 49 \\times BM"
+          },
+          {
+            "step_number": 3,
+            "description": "Solve for BM.",
+            "expression": "BM = \\frac{1470}{49}"
+          }
+        ],
+        "final_answer": "Thus, the length of BM is 30 cm.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic area calculations and algebra.",
+    "topics_tags": [
+      "Parallelogram",
+      "Area",
+      "Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Figure showing parallelogram ABCD with heights DL and BM",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777833814/ncert/maths/11/img_7_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.9",
+    "class": 7,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "perimeter and area",
+    "question_type": "numerical",
+    "question_text": "If the circumference of a circular sheet is 154m, find its radius. Also find the area of the sheet. (Take π = 3.14)",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to circumference and area of a circular sheet.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777833862/ncert/maths/11/img_10_0.png",
+      "latex_extracted": "\\left\\vert{\\underline{{\\frac{\\gamma\\gg}{\\overline{{\\gamma}}}}}}\\right\\vert{\\underline{{\\frac{\\gamma\\gg}{\\gamma}}}}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Circumference = 2πr = 154 m. Therefore, radius r = 24.5 m. Area = πr² = 1886.5 m².",
+    "answer_latex": "r = 24.5 \\, m, \\text{ Area } = \\pi r^2 = 1886.5 \\, m^2",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Use the formula for circumference to find the radius.",
+        "expression": "r = \\frac{154}{2\\pi}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the area using the radius.",
+        "expression": "Area = \\pi r^2"
+      }
+    ],
+    "final_answer": "Thus, the radius is 24.5 m and the area is 1886.5 m².",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of circumference and area formulas.",
+    "topics_tags": [
+      "Circumference",
+      "Area",
+      "Circle"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to circumference and area of a circular sheet.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777833862/ncert/maths/11/img_10_0.png",
+        "latex_extracted": "\\left\\vert{\\underline{{\\frac{\\gamma\\gg}{\\overline{{\\gamma}}}}}}\\right\\vert{\\underline{{\\frac{\\gamma\\gg}{\\gamma}}}}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.10",
+    "class": 7,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "perimeter and area",
+    "question_type": "numerical",
+    "question_text": "From a circular card sheet of radius 14 cm, two circles of radius 3.5 cm and a rectangle of length 3 cm and breadth 1 cm are removed. Find the area of the remaining sheet.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The remaining area of the sheet is 536 cm².",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the area of the larger circle.",
+        "expression": "Area = 616 cm²"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the area of the two smaller circles.",
+        "expression": "Area = 2 \\times \\pi r^2 = 77 cm²"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the area of the rectangle.",
+        "expression": "Area = Length \\times Breadth = 3 \\times 1 = 3 cm²"
+      },
+      {
+        "step_number": 4,
+        "description": "Calculate the remaining area of the sheet.",
+        "expression": "Remaining Area = 616 - 77 - 3 = 536 cm²"
+      }
+    ],
+    "final_answer": "Therefore, the area of the remaining sheet is 536 cm².",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the circular card sheet with removed circles and rectangle.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777833887/ncert/maths/11/img_13_0.png",
+      "latex_extracted": "\\left\\vert\\frac{\\lambda\\lambda}{\\tau}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of area calculations and basic arithmetic.",
+    "topics_tags": [
+      "Area",
+      "Circle",
+      "Rectangle"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the circular card sheet with removed circles and rectangle.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777833887/ncert/maths/11/img_13_0.png",
+        "latex_extracted": "\\left\\vert\\frac{\\lambda\\lambda}{\\tau}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q11.11",
+    "class": 7,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "perimeter and area",
+    "question_type": "numerical",
+    "question_text": "From a circular sheet of radius 4 cm, a circle of radius 3 cm is removed. Find the area of the remaining sheet. (Take π = 3.14)",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Remaining area = π × 4² - π × 3² = 50.24 - 28.26 = 21.98 cm².",
+    "answer_latex": "Remaining \\text{ area } = \\pi (4^2 - 3^2) = 21.98 \\, cm^2",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the area of the larger circle.",
+        "expression": "Area_{outer} = \\pi \\times 4^2"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the area of the smaller circle.",
+        "expression": "Area_{inner} = \\pi \\times 3^2"
+      },
+      {
+        "step_number": 3,
+        "description": "Subtract the area of the smaller circle from the larger circle.",
+        "expression": "Remaining \\text{ area } = Area_{outer} - Area_{inner}"
+      }
+    ],
+    "final_answer": "Thus, the area of the remaining sheet is 21.98 cm².",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of area subtraction.",
+    "topics_tags": [
+      "Area",
+      "Circle",
+      "Subtraction"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.12",
+    "class": 7,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "perimeter and area",
+    "question_type": "numerical",
+    "question_text": "The circumference of a circle is 31.4 cm. Find the radius and the area of the circle.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The radius of the circle is 5 cm and the area is 78.50 cm².",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Use the circumference formula to find the radius.",
+        "expression": "C = 2\\pi r = 31.4 \\Rightarrow r = 5 cm"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the area using the radius.",
+        "expression": "Area = \\pi r^2 = 3.14 \\times 5^2 = 78.50 cm²"
+      }
+    ],
+    "final_answer": "Therefore, the radius is 5 cm and the area is 78.50 cm².",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of circumference and area formulas.",
+    "topics_tags": [
+      "Circumference",
+      "Area",
+      "Circle"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.13",
+    "class": 7,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "perimeter and area",
+    "question_type": "conceptual",
+    "question_text": "Find the perimeter of the adjoining figure, which is a semicircle including its diameter.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram of a semicircle with its diameter.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777833886/ncert/maths/11/img_11_3.png",
+      "latex_extracted": "\\left\\lfloor{\\frac{\\sqrt{\\frac{\\lambda}{2}}}{\\gamma}}\\chi{\\frac{\\lambda\\vert}{\\lambda}}\\times{\\frac{\\lambda\\vert y\\rangle}{\\sim}}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Total perimeter = Length of curved part + Length of diameter = 15.71 cm + 10 cm = 25.71 cm.",
+    "answer_latex": "Total \\text{ perimeter } = 15.71 + 10 = 25.71 \\, cm",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the length of the curved part of the semicircle.",
+        "expression": "Length_{curved} = \\pi r"
+      },
+      {
+        "step_number": 2,
+        "description": "Add the diameter to the length of the curved part.",
+        "expression": "Total \\text{ perimeter } = Length_{curved} + Diameter"
+      }
+    ],
+    "final_answer": "Thus, the total perimeter of the semicircle is 25.71 cm.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of semicircle properties.",
+    "topics_tags": [
+      "Semicircle",
+      "Perimeter",
+      "Geometry"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram of a semicircle with its diameter.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777833886/ncert/maths/11/img_11_3.png",
+        "latex_extracted": "\\left\\lfloor{\\frac{\\sqrt{\\frac{\\lambda}{2}}}{\\gamma}}\\chi{\\frac{\\lambda\\vert}{\\lambda}}\\times{\\frac{\\lambda\\vert y\\rangle}{\\sim}}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.14",
+    "class": 7,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "perimeter and area",
+    "question_type": "conceptual",
+    "question_text": "A circular flower garden has an area of 314 m². A sprinkler at the centre of the garden can cover an area that has a radius of 12 m. Will the sprinkler water the entire garden?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Yes, the sprinkler will water the whole garden.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the sprinkler will water the entire garden.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of area comparison.",
+    "topics_tags": [
+      "Area",
+      "Sprinkler",
+      "Garden"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.15",
+    "class": 7,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "perimeter and area",
+    "question_type": "numerical",
+    "question_text": "Find the circumference of the inner and the outer circles, shown in the adjoining figure.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing inner and outer circles.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777833893/ncert/maths/11/img_14_1.jpg",
+      "latex_extracted": "\\left(\\begin{array}{c}{{\\displaystyle{\\cal{F}}\\displaystyle\\bigoplus_{\\mathrm{ee}}^{\\mathrm{tom}}\\mathrm{\\bf{\\sigma}}}}\\\\ {{\\displaystyle{\\mathrm{\\Gamma}}\\displaystyle{\\frac{{}_{\\mathrm{in}}}{\\mathrm{\\bf{y}}}}}}\\end{array}\\right)",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The circumference of the outer circle is 119.32 m.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the circumference of the outer circle.",
+        "expression": "Circumference = 2\\pi r = 2 \\times 3.14 \\times 19 = 119.32 m"
+      }
+    ],
+    "final_answer": "Therefore, the circumference of the outer circle is 119.32 m.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic circumference calculation.",
+    "topics_tags": [
+      "Circumference",
+      "Circle"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing inner and outer circles.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777833893/ncert/maths/11/img_14_1.jpg",
+        "latex_extracted": "\\left(\\begin{array}{c}{{\\displaystyle{\\cal{F}}\\displaystyle\\bigoplus_{\\mathrm{ee}}^{\\mathrm{tom}}\\mathrm{\\bf{\\sigma}}}}\\\\ {{\\displaystyle{\\mathrm{\\Gamma}}\\displaystyle{\\frac{{}_{\\mathrm{in}}}{\\mathrm{\\bf{y}}}}}}\\end{array}\\right)",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.16",
+    "class": 7,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "perimeter and area",
+    "question_type": "numerical",
+    "question_text": "How many times a wheel of radius 28 cm must rotate to go 352 m?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, it will rotate 200 times.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the circumference of the wheel.",
+        "expression": "Circumference = 2\\pi r = 2 \\times 3.14 \\times 28 = 176 cm"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the number of rotations needed to cover 352 m.",
+        "expression": "Number of rotations = \\frac{35200}{176} = 200"
+      }
+    ],
+    "final_answer": "Therefore, it will rotate 200 times.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves circumference calculation and division.",
+    "topics_tags": [
+      "Circumference",
+      "Wheel",
+      "Rotations"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.17",
+    "class": 7,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "perimeter and area",
+    "question_type": "numerical",
+    "question_text": "The minute hand of a circular clock is 15 cm long. How far does the tip of the minute hand move in 1 hour?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The tip of the minute hand moves 94.2 cm in 1 hour.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the circumference of the clock.",
+        "expression": "Circumference = 2\\pi r = 2 \\times 3.14 \\times 15 = 94.2 cm"
+      }
+    ],
+    "final_answer": "Therefore, the tip of the minute hand moves 94.2 cm in 1 hour.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic circumference calculation.",
+    "topics_tags": [
+      "Circumference",
+      "Clock",
+      "Minute Hand"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.21",
+    "class": 7,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "perimeter and area",
+    "question_type": "numerical",
+    "question_text": "A 3 m wide path runs outside and around a rectangular park of length 125 m and breadth 65 m. Find the area of the path.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the rectangular park with a path around it.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777833904/ncert/maths/11/img_16_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The area of the path is calculated by subtracting the area of the park from the area of the park including the path.",
+    "answer_latex": "Area_{path} = Area_{park \\ including \\ path} - Area_{park} = 9301 - 8125 = 1176 m^2",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the area of the park.",
+        "expression": "Area_{park} = l \\times b = 125 \\times 65"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the dimensions of the park including the path.",
+        "expression": "New \\ length = 125 + 2 \\times 3 = 131, New \\ breadth = 65 + 2 \\times 3 = 71"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the area of the park including the path.",
+        "expression": "Area_{park \\ including \\ path} = 131 \\times 71"
+      },
+      {
+        "step_number": 4,
+        "description": "Subtract the area of the park from the area including the path.",
+        "expression": "Area_{path} = 9301 - 8125"
+      }
+    ],
+    "final_answer": "Therefore, the area of the path is 1176 m².",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of area calculations and basic arithmetic.",
+    "topics_tags": [
+      "Area",
+      "Path",
+      "Rectangular Park"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the rectangular park with a path around it.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777833904/ncert/maths/11/img_16_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.22",
+    "class": 7,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "perimeter and area",
+    "question_type": "numerical",
+    "question_text": "A picture is painted on a cardboard 8 cm long and 5 cm wide such that there is a margin of 1.5 cm along each of its sides. Find the total area of the margin.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the cardboard with a margin around the picture.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777833917/ncert/maths/11/img_16_1.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The area of the margin is calculated by subtracting the area of the cardboard not including the margin from the area including the margin.",
+    "answer_latex": "Area_{margin} = Area_{cardboard \\ including \\ margin} - Area_{cardboard \\ not \\ including \\ margin} = 40 - 10 = 30 cm^2",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the area of the cardboard including the margin.",
+        "expression": "Area_{cardboard \\ including \\ margin} = 8 \\times 5"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the dimensions of the cardboard not including the margin.",
+        "expression": "New \\ length = 8 - 2 \\times 1.5 = 5, New \\ breadth = 5 - 2 \\times 1.5 = 2"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the area of the cardboard not including the margin.",
+        "expression": "Area_{cardboard \\ not \\ including \\ margin} = 5 \\times 2"
+      },
+      {
+        "step_number": 4,
+        "description": "Subtract the area of the cardboard not including the margin from the area including the margin.",
+        "expression": "Area_{margin} = 40 - 10"
+      }
+    ],
+    "final_answer": "Therefore, the total area of the margin is 30 cm².",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic area calculations and understanding of dimensions.",
+    "topics_tags": [
+      "Area",
+      "Margin",
+      "Cardboard"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the cardboard with a margin around the picture.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777833917/ncert/maths/11/img_16_1.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.23",
+    "class": 7,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "perimeter and area",
+    "question_type": "mcq",
+    "question_text": "A verandah of width 2.25 m is constructed all along outside a room which is 5.5 m long and 4 m wide. Find the area of the verandah.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The area of the verandah is calculated by subtracting the area of the room from the area of the room including the verandah.",
+    "answer_latex": "Area_{verandah} = Area_{room \\ including \\ verandah} - Area_{room} = 85 - 22 = 63 m^2",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the area of the room.",
+        "expression": "Area_{room} = 5.5 \\times 4"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the dimensions of the room including the verandah.",
+        "expression": "New \\ length = 5.5 + 2 \\times 2.25 = 10, New \\ breadth = 4 + 2 \\times 2.25 = 8.5"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the area of the room including the verandah.",
+        "expression": "Area_{room \\ including \\ verandah} = 10 \\times 8.5"
+      },
+      {
+        "step_number": 4,
+        "description": "Subtract the area of the room from the area including the verandah.",
+        "expression": "Area_{verandah} = 85 - 22"
+      }
+    ],
+    "final_answer": "Therefore, the area of the verandah is 63 m².",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the room with a verandah around it.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777833928/ncert/maths/11/img_17_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic area calculations and understanding of dimensions.",
+    "topics_tags": [
+      "Area",
+      "Verandah",
+      "Room"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the room with a verandah around it.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777833928/ncert/maths/11/img_17_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q11.24",
+    "class": 7,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "perimeter and area",
+    "question_type": "numerical",
+    "question_text": "A path 1 m wide is built along the border and inside a square garden of side 30 m. Find the area of the path.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The area of the path is calculated by subtracting the area of the garden not including the path from the area including the path.",
+    "answer_latex": "Area_{path} = Area_{garden \\ including \\ path} - Area_{garden \\ not \\ including \\ path} = 900 - 784 = 116 m^2",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the area of the square garden including the path.",
+        "expression": "Area_{garden \\ including \\ path} = 30^2"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the dimensions of the garden not including the path.",
+        "expression": "New \\ side = 30 - 2 \\times 1 = 28"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the area of the garden not including the path.",
+        "expression": "Area_{garden \\ not \\ including \\ path} = 28^2"
+      },
+      {
+        "step_number": 4,
+        "description": "Subtract the area of the garden not including the path from the area including the path.",
+        "expression": "Area_{path} = 900 - 784"
+      }
+    ],
+    "final_answer": "Therefore, the area of the path is 116 m².",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the square garden with a path around it.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777833931/ncert/maths/11/img_18_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic area calculations and understanding of dimensions.",
+    "topics_tags": [
+      "Area",
+      "Path",
+      "Square Garden"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the square garden with a path around it.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777833931/ncert/maths/11/img_18_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q11.25",
+    "class": 7,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "perimeter and area",
+    "question_type": "multipart",
+    "question_text": "Through a rectangular field of length 90 m and breadth 60 m, two roads are constructed which are parallel to the sides and cut each other at right angles through the centre of the fields. If the width of each road is 3 m, find (i) the area covered by the roads. (ii) the cost of constructing the roads at the rate of Rs 110 per m2.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "Find the area covered by the roads.",
+        "part_latex": null,
+        "answer_text": "The area covered by the roads is 441 m2.",
+        "answer_latex": "441 \text{ m}^2",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the area of each road and subtract the overlapping area.",
+            "expression": "Area = (90 \\times 3) + (60 \\times 3) - (3 \\times 3)"
+          },
+          {
+            "step_number": 2,
+            "description": "Perform the calculations.",
+            "expression": "Area = 270 + 180 - 9 = 441"
+          }
+        ],
+        "final_answer": "Therefore, the area covered by the roads is 441 m2.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "Find the cost of constructing the roads at the rate of Rs 110 per m2.",
+        "part_latex": null,
+        "answer_text": "The cost for constructing the roads is Rs 48510.",
+        "answer_latex": "Rs 48510",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the cost using the area covered by the roads.",
+            "expression": "Cost = 110 \\times 441"
+          },
+          {
+            "step_number": 2,
+            "description": "Perform the multiplication.",
+            "expression": "Cost = 48510"
+          }
+        ],
+        "final_answer": "Thus, the cost of constructing the roads is Rs 48510.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires multi-step calculations for area and cost.",
+    "topics_tags": [
+      "Area",
+      "Cost Calculation",
+      "Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.26",
+    "class": 7,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "perimeter and area",
+    "question_type": "multipart",
+    "question_text": "Pragya wrapped a cord around a circular pipe of radius 4 cm and cut off the length required of the cord. Then she wrapped it around a square box of side 4 cm. Did she have any cord left?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "Calculate the perimeter of the square box.",
+        "part_latex": null,
+        "answer_text": "The perimeter of the square is 16 cm.",
+        "answer_latex": "16 \text{ cm}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the formula for the perimeter of a square.",
+            "expression": "Perimeter = 4 \\times \\text{side} = 4 \\times 4"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the perimeter.",
+            "expression": "Perimeter = 16"
+          }
+        ],
+        "final_answer": "Thus, the perimeter of the square box is 16 cm.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "Calculate the perimeter of the circular pipe.",
+        "part_latex": null,
+        "answer_text": "The perimeter of the circular pipe is 25.12 cm.",
+        "answer_latex": "25.12 \text{ cm}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the formula for the circumference of a circle.",
+            "expression": "Circumference = 2 \\pi r = 2 \\times 3.14 \\times 4"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the circumference.",
+            "expression": "Circumference = 25.12"
+          }
+        ],
+        "final_answer": "Therefore, the perimeter of the circular pipe is 25.12 cm.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "Determine the length of the cord left.",
+        "part_latex": null,
+        "answer_text": "The length of the cord left is 9.12 cm.",
+        "answer_latex": "9.12 \text{ cm}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Subtract the perimeter of the square from the perimeter of the circular pipe.",
+            "expression": "Length = 25.12 - 16"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the remaining length.",
+            "expression": "Length = 9.12"
+          }
+        ],
+        "final_answer": "Thus, Pragya has 9.12 cm of cord left.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing a circular pipe and a square box.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777833935/ncert/maths/11/img_19_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations for perimeter and subtraction.",
+    "topics_tags": [
+      "Perimeter",
+      "Circumference",
+      "Geometry"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing a circular pipe and a square box.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777833935/ncert/maths/11/img_19_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  }
+]

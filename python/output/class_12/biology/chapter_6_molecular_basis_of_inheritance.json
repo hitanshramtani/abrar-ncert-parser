@@ -1,0 +1,762 @@
+[
+  {
+    "question_id": "Q6.1",
+    "class": 12,
+    "subject": "biology",
+    "chapter_number": 6,
+    "chapter_name": "molecular basis of inheritance",
+    "question_type": "conceptual",
+    "question_text": "Group the following as nitrogenous bases and nucleosides: Adenine, Cytidine, Thymine, Guanosine, Uracil and Cytosine.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Nitrogenous bases present in the list are adenine, thymine, uracil, and cytosine. Nucleosides present in the list are cytidine and guanosine.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "The nitrogenous bases are adenine, thymine, uracil, and cytosine; the nucleosides are cytidine and guanosine.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of definitions.",
+    "topics_tags": [
+      "Nitrogenous Bases",
+      "Nucleosides",
+      "DNA"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.2",
+    "class": 12,
+    "subject": "biology",
+    "chapter_number": 6,
+    "chapter_name": "molecular basis of inheritance",
+    "question_type": "numerical",
+    "question_text": "If a double stranded DNA has 20 per cent of cytosine, calculate the per cent of adenine in the DNA.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The percentage of adenine in the DNA is 30%.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the percentage of guanine using Chargaff's rule.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the total percentage of G + C content.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Determine the remaining percentage for A + T.",
+        "expression": null
+      },
+      {
+        "step_number": 4,
+        "description": "Since A = T, divide the remaining percentage by 2 to find A.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the percentage of adenine in the DNA is 30%.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of Chargaff's rule and basic calculations.",
+    "topics_tags": [
+      "Chargaff's Rule",
+      "DNA Structure",
+      "Adenine Percentage"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.3",
+    "class": 12,
+    "subject": "biology",
+    "chapter_number": 6,
+    "chapter_name": "molecular basis of inheritance",
+    "question_type": "conceptual",
+    "question_text": "If the sequence of one strand of DNA is written as follows: 5'-ATGCATGCATGCATGCATGCATGCATGC-3'. Write down the sequence of complementary strand in 5' → 3' direction.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The sequence of the complementary strand in 5' → 3' direction is 5'-GCATGCATGCATGCATGCATGCATGCAT-3'.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the complementary strand is 5'-GCATGCATGCATGCATGCATGCATGCAT-3'.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of base pairing in DNA.",
+    "topics_tags": [
+      "DNA Complementarity",
+      "Base Pairing",
+      "Nucleotide Sequence"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.4",
+    "class": 12,
+    "subject": "biology",
+    "chapter_number": 6,
+    "chapter_name": "molecular basis of inheritance",
+    "question_type": "conceptual",
+    "question_text": "If the sequence of the coding strand in a transcription unit is written as follows: 5'-ATGCATGCATGCATGCATGCATGCATGC-3'. Write down the sequence of mRNA.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The sequence of mRNA will be 5'-AUGCAUGCAUGCAUGCAUGCAUGCAUGC-3'.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the sequence of mRNA is 5'-AUGCAUGCAUGCAUGCAUGCAUGCAUGC-3'.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of transcription and RNA synthesis.",
+    "topics_tags": [
+      "Transcription",
+      "mRNA Sequence",
+      "Genetic Code"
+    ],
+    "confidence_score": 0.97,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.5",
+    "class": 12,
+    "subject": "biology",
+    "chapter_number": 6,
+    "chapter_name": "molecular basis of inheritance",
+    "question_type": "conceptual",
+    "question_text": "Which property of DNA double helix led Watson and Crick to hypothesise semi-conservative mode of DNA replication? Explain.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Watson and Crick observed that the two strands of DNA are anti-parallel and complementary to each other with respect to their base sequences. This type of arrangement in DNA molecule led to the hypothesis that DNA replication is semi-conservative.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the arrangement of DNA strands supports the semi-conservative model of replication.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of DNA structure and replication mechanisms.",
+    "topics_tags": [
+      "DNA Replication",
+      "Semi-Conservative Model",
+      "Watson and Crick"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.6",
+    "class": 12,
+    "subject": "biology",
+    "chapter_number": 6,
+    "chapter_name": "molecular basis of inheritance",
+    "question_type": "conceptual",
+    "question_text": "Depending upon the chemical nature of the template (DNA or RNA) and the nature of nucleic acids synthesised from it (DNA or RNA), list the types of nucleic acid polymerases.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "There are two different types of nucleic acid polymerases: (1) DNA-dependent DNA polymerases and (2) DNA-dependent RNA polymerases.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the types of nucleic acid polymerases are DNA-dependent DNA polymerases and DNA-dependent RNA polymerases.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires basic understanding of nucleic acid synthesis.",
+    "topics_tags": [
+      "Nucleic Acid Polymerases",
+      "DNA",
+      "RNA"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.7",
+    "class": 12,
+    "subject": "biology",
+    "chapter_number": 6,
+    "chapter_name": "molecular basis of inheritance",
+    "question_type": "conceptual",
+    "question_text": "How did Hershey and Chase differentiate between DNA and protein in their experiment while proving that DNA is the genetic material?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Hershey and Chase used different radioactive isotopes to label DNA and protein coat of the bacteriophage. They proved that DNA is the genetic material as it was transferred from virus to bacteria.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, they demonstrated that DNA is the genetic material through their experiment.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of experimental design and results.",
+    "topics_tags": [
+      "Hershey and Chase",
+      "DNA Experiment",
+      "Genetic Material"
+    ],
+    "confidence_score": 0.94,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.8",
+    "class": 12,
+    "subject": "biology",
+    "chapter_number": 6,
+    "chapter_name": "molecular basis of inheritance",
+    "question_type": "mcq",
+    "question_text": "Differentiate between the followings:\n(a) Repetitive DNA and Satellite DNA\n(b) mRNA and tRNA\n(c) Template strand and Coding strand",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "Repetitive DNA and Satellite DNA"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "mRNA and tRNA"
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "Template strand and Coding strand"
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the differences between Repetitive DNA and Satellite DNA, mRNA and tRNA, Template strand and Coding strand.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777670185/ncert/biology/6/img_4_0.jpg",
+      "latex_extracted": "\\begin{array}{l l l}{{}}&{{\\ }}&{{\\hat{\\sqrt[[object Object]]{\\hat{x}}^{6}=\\frac{x+\\omega+\\omega+\\omega}{\\sqrt{n}}}}}\\\\ {{\\P\\frac{x-\\omega}{\\sqrt{0}}}}&{{\\sqrt{\\frac{x+\\omega}{\\sqrt{-\\omega-\\omega}}}}}\\\\ {{\\qquad\\left\\{\\frac{1}{\\sin(x-\\omega+\\omega)}}&{{\\frac{x+\\omega}{\\sqrt{-\\omega-\\omega}}}}\\\\ {{\\qquad\\left\\{\\frac{1}{\\sqrt{-\\omega+\\omega+\\omega}}}}&{{\\ =\\omega-\\omega}{\\omega-\\omega-\\omega}}}\\end{array}\\right.}}\\end{array}",
+      "source_page_number": 4,
+      "source_image_index": 0,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Repetitive DNA and Satellite DNA",
+        "part_latex": null,
+        "answer_text": "Repetitive DNA are DNA sequences that contain small segments, which are repeated many times. Satellite DNA are DNA sequences that contain highly repetitive DNA.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "mRNA and tRNA",
+        "part_latex": null,
+        "answer_text": "mRNA or messenger RNA acts as a template for the process of transcription. tRNA or transfer RNA acts as an adaptor molecule that carries a specific amino acid to mRNA for the synthesis of polypeptide.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "Template strand and Coding strand",
+        "part_latex": null,
+        "answer_text": "Template strand of DNA acts as a template for the synthesis of mRNA during transcription. It runs from 3' to 5'. Coding strand is a sequence of DNA that has the same base sequence as that of mRNA (except thymine that is replaced by uracil in DNA) and it runs from 5' to 3'.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of basic genetic concepts and definitions.",
+    "topics_tags": [
+      "DNA",
+      "RNA",
+      "Genetics"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the differences between Repetitive DNA and Satellite DNA, mRNA and tRNA, Template strand and Coding strand.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777670185/ncert/biology/6/img_4_0.jpg",
+        "latex_extracted": "\\begin{array}{l l l}{{}}&{{\\ }}&{{\\hat{\\sqrt[[object Object]]{\\hat{x}}^{6}=\\frac{x+\\omega+\\omega+\\omega}{\\sqrt{n}}}}}\\\\ {{\\P\\frac{x-\\omega}{\\sqrt{0}}}}&{{\\sqrt{\\frac{x+\\omega}{\\sqrt{-\\omega-\\omega}}}}}\\\\ {{\\qquad\\left\\{\\frac{1}{\\sin(x-\\omega+\\omega)}}&{{\\frac{x+\\omega}{\\sqrt{-\\omega-\\omega}}}}\\\\ {{\\qquad\\left\\{\\frac{1}{\\sqrt{-\\omega+\\omega+\\omega}}}}&{{\\ =\\omega-\\omega}{\\omega-\\omega-\\omega}}}\\end{array}\\right.}}\\end{array}",
+        "source_page_number": 4,
+        "source_image_index": 0,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.9",
+    "class": 12,
+    "subject": "biology",
+    "chapter_number": 6,
+    "chapter_name": "molecular basis of inheritance",
+    "question_type": "conceptual",
+    "question_text": "What is DNA fingerprinting? Mention its application.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "DNA fingerprinting is a technique used to identify and analyze the variations in various individuals at the level of DNA. It is based on variability and polymorphism in DNA sequences. Applications include: (1) forensic science to identify potential crime suspects, (2) establishing paternity and family relationships, (3) identifying and protecting commercial varieties of crops and livestock, and (4) finding out the evolutionary history of an organism.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, DNA fingerprinting has significant applications in forensic science, paternity testing, agriculture, and evolutionary studies.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of DNA fingerprinting and its applications.",
+    "topics_tags": [
+      "DNA Fingerprinting",
+      "Forensic Science",
+      "Genetics",
+      "Biotechnology"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.10",
+    "class": 12,
+    "subject": "biology",
+    "chapter_number": 6,
+    "chapter_name": "molecular basis of inheritance",
+    "question_type": "mcq",
+    "question_text": "Briefly describe the following: (a) Transcription (b) Polymorphism (c) Translation (d) Bioinformatics",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "Transcription"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "Polymorphism"
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "Translation"
+      },
+      {
+        "option_label": "(D)",
+        "option_text": "Bioinformatics"
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Transcription",
+        "part_latex": null,
+        "answer_text": "Transcription is the process of synthesis of RNA from a DNA template. A segment of DNA gets copied into mRNA during the process. It starts at the promoter region and terminates at the terminator region, requiring RNA polymerase and nucleotides.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the promoter region where transcription begins.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "RNA polymerase synthesizes mRNA by unwinding the DNA.",
+            "expression": null
+          },
+          {
+            "step_number": 3,
+            "description": "Transcription continues until the terminator region is reached.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Therefore, transcription is essential for converting DNA information into RNA.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Polymorphism",
+        "part_latex": null,
+        "answer_text": "Polymorphism is a form of genetic variation where distinct nucleotide sequences exist at a particular site in a DNA molecule. It arises due to mutations and plays a crucial role in evolution.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, polymorphism contributes to genetic diversity within populations.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "Translation",
+        "part_latex": null,
+        "answer_text": "Translation is the process of synthesizing a polypeptide chain from mRNA. It involves initiation, elongation, and termination, where tRNA brings amino acids to the ribosome.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Initiation occurs when the ribosome binds to the start codon on mRNA.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Amino acids are linked together by peptide bonds during elongation.",
+            "expression": null
+          },
+          {
+            "step_number": 3,
+            "description": "Translation terminates when a stop codon is reached.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, translation is vital for protein synthesis.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(d)",
+        "part_text": "Bioinformatics",
+        "part_latex": null,
+        "answer_text": "Bioinformatics is the application of computational techniques to manage and analyze biological data. It emerged from the Human Genome Project and involves creating databases and algorithms for biological data analysis.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Therefore, bioinformatics is crucial for modern biological research.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of multiple biological processes and their significance.",
+    "topics_tags": [
+      "Transcription",
+      "Polymorphism",
+      "Translation",
+      "Bioinformatics"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  }
+]

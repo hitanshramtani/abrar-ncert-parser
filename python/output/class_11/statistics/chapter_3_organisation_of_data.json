@@ -1,0 +1,725 @@
+[
+  {
+    "question_id": "Q3.1",
+    "class": 11,
+    "subject": "statistics",
+    "chapter_number": 3,
+    "chapter_name": "organisation of data",
+    "question_type": "mcq",
+    "question_text": "The class midpoint is equal to:",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(a)",
+        "option_text": "The average of the upper class limit and the lower class limit."
+      },
+      {
+        "option_label": "(b)",
+        "option_text": "The product of upper class limit and the lower class limit."
+      },
+      {
+        "option_label": "(c)",
+        "option_text": "The ratio of the upper class limit and the lower class limit."
+      },
+      {
+        "option_label": "(d)",
+        "option_text": "None of the above."
+      }
+    ],
+    "correct_option": "(a)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The class midpoint is equal to the average of the upper class limit and the lower class limit. It is known by adding the values of upper and lower limits and dividing the total by 2.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the class midpoint is the average of the upper and lower class limits.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of the definition of class midpoint.",
+    "topics_tags": [
+      "Class Midpoint",
+      "Statistics",
+      "Data Organisation"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.2",
+    "class": 11,
+    "subject": "statistics",
+    "chapter_number": 3,
+    "chapter_name": "organisation of data",
+    "question_type": "mcq",
+    "question_text": "The frequency distribution of two variables is known as",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(a)",
+        "option_text": "Univariate Distribution"
+      },
+      {
+        "option_label": "(b)",
+        "option_text": "Bivariate Distribution"
+      },
+      {
+        "option_label": "(c)",
+        "option_text": "Multivariate Distribution"
+      },
+      {
+        "option_label": "(d)",
+        "option_text": "None of the above"
+      }
+    ],
+    "correct_option": "(b)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The frequency distribution of two variables is known as Bivariate Frequency Distribution.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the correct term is Bivariate Distribution.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of the definition of bivariate distribution.",
+    "topics_tags": [
+      "Bivariate Distribution",
+      "Statistics",
+      "Data Organisation"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.3",
+    "class": 11,
+    "subject": "statistics",
+    "chapter_number": 3,
+    "chapter_name": "organisation of data",
+    "question_type": "mcq",
+    "question_text": "Statistical calculations in classified data are based on",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(a)",
+        "option_text": "the actual values of observations"
+      },
+      {
+        "option_label": "(b)",
+        "option_text": "the upper class limits"
+      },
+      {
+        "option_label": "(c)",
+        "option_text": "the lower class limits"
+      },
+      {
+        "option_label": "(d)",
+        "option_text": "the class midpoints"
+      }
+    ],
+    "correct_option": "(d)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Statistical calculations in classified data are based on the class midpoints.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the calculations rely on class midpoints.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of the basis for statistical calculations in classified data.",
+    "topics_tags": [
+      "Class Midpoints",
+      "Statistics",
+      "Data Organisation"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.4",
+    "class": 11,
+    "subject": "statistics",
+    "chapter_number": 3,
+    "chapter_name": "organisation of data",
+    "question_type": "mcq",
+    "question_text": "Under Exclusive method,",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(a)",
+        "option_text": "the upper class limit of a class is excluded in the class interval"
+      },
+      {
+        "option_label": "(b)",
+        "option_text": "the upper class limit of a class is included in the class interval"
+      },
+      {
+        "option_label": "(c)",
+        "option_text": "the lower class limit of a class is excluded in the class interval"
+      },
+      {
+        "option_label": "(d)",
+        "option_text": "the lower class limit of a class is included in the class interval"
+      }
+    ],
+    "correct_option": "(a)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Under Exclusive method, the upper class limit of a class is excluded in the class interval.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the exclusive method excludes the upper limit.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of the definition of exclusive method.",
+    "topics_tags": [
+      "Exclusive Method",
+      "Statistics",
+      "Data Organisation"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.5",
+    "class": 11,
+    "subject": "statistics",
+    "chapter_number": 3,
+    "chapter_name": "organisation of data",
+    "question_type": "mcq",
+    "question_text": "Range is the",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(a)",
+        "option_text": "difference between the largest and the smallest observations"
+      },
+      {
+        "option_label": "(b)",
+        "option_text": "difference between the smallest and the largest observations"
+      },
+      {
+        "option_label": "(c)",
+        "option_text": "average of the largest and the smallest observations"
+      },
+      {
+        "option_label": "(d)",
+        "option_text": "ratio of the largest to the smallest observation"
+      }
+    ],
+    "correct_option": "(a)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Range is defined as the difference between the largest and the smallest observations.",
+    "answer_latex": "R = H - L",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the highest and lowest values in the data set.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the range using the formula.",
+        "expression": "R = H - L"
+      }
+    ],
+    "final_answer": "Therefore, the range is the difference between the largest and smallest observations.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of the definition of range.",
+    "topics_tags": [
+      "Range",
+      "Statistics",
+      "Data Organisation"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.6",
+    "class": 11,
+    "subject": "statistics",
+    "chapter_number": 3,
+    "chapter_name": "organisation of data",
+    "question_type": "conceptual",
+    "question_text": "Can there be any advantage in classifying things? Explain with an example from your daily life.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Yes, there are many advantages of classifying things. The following are the advantages associated with classification:\n1. Saves Time and Energy- Classification of things not only saves our time but also our energy which would otherwise be utilised in searching from entire lot of things.\n2. Quick Information- Information can be easily collected from the classified things.\n3. Easy Classification- Classification facilitates comparisons and helps in drawing fast conclusions or inferences.\nThe advantage of classification can be better understood with the help of a daily life example. A post office on the regular basis sorts letters and then classifies them according to various attributes. Letters are classified first according to the states, then according to the cities and streets. Thus, this process of classification helps the postman to deliver posts quickly, efficiently and in a non-haphazard manner.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, classification aids in efficiency and organization in daily tasks.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of classification benefits and providing an example.",
+    "topics_tags": [
+      "Classification",
+      "Statistics",
+      "Data Organisation"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.7",
+    "class": 11,
+    "subject": "statistics",
+    "chapter_number": 3,
+    "chapter_name": "organisation of data",
+    "question_type": "conceptual",
+    "question_text": "What is a variable? Distinguish between a discrete and a continuous variable.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "A measurable characteristic whose value changes overtime is called variable. It refers to that quantity which keeps on changing and which can be measured by some unit. For example, if we measure the height of students of a class, then height is regarded as a variable. A variable can be either discrete or continuous.\nDiscrete Variable: A variable that takes only whole number as its value is called discrete variable. These variables increase in jumps or in complete numbers. For example- Number of people in a family, number of students in a class, etc.\nContinuous Variable: A variable that can take any value, within a reasonable limit is called a continuous variable. These variables assume a range of values or increase in fractions and not in jumps. For example- age, height, weight, etc.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, a variable is a measurable characteristic that can be discrete or continuous.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of variable definitions and distinctions.",
+    "topics_tags": [
+      "Variable",
+      "Discrete Variable",
+      "Continuous Variable",
+      "Statistics"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.8",
+    "class": 11,
+    "subject": "statistics",
+    "chapter_number": 3,
+    "chapter_name": "organisation of data",
+    "question_type": "conceptual",
+    "question_text": "Explain the 'exclusive' and 'inclusive' methods used in classification of data.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Exclusive Method: This method is used for those series in which the upper limit of one class becomes the lower limit of the next class. It is called as exclusive series because the frequencies of the upper limit of a class interval are not included in that particular class. In such type of series, the upper limit of one class becomes the lower limit of the next class, for example, 0-10, 10-20, 20-30 and so on. The upper limit is excluded but the lower limit is included in the class interval. This method is most appropriate for data of continuous variables.\nInclusive Method: Under this method of classification of data, the classes are formed in such a manner that the upper limit of a class interval does not repeat itself as the lower limit of the next class interval. In such a series, both the upper limit and the lower limit are included in the particular class interval, for example, 1-5, 6-10, 11-15 and so on. The interval 1-5 includes both the limits i.e. 1 and 5.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, exclusive and inclusive methods differ in how class limits are treated.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of classification methods and their definitions.",
+    "topics_tags": [
+      "Exclusive Method",
+      "Inclusive Method",
+      "Statistics",
+      "Data Organisation"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.9",
+    "class": 11,
+    "subject": "statistics",
+    "chapter_number": 3,
+    "chapter_name": "organisation of data",
+    "question_type": "conceptual",
+    "question_text": "What is 'loss of information' in classified data?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "'Loss of information' is a major drawback of the classified data. The classification or grouping of raw data into classes makes it more concise and understandable. But simultaneously there exists loss of information. The calculations involved in the classified data or the continuous series are based on the class midpoints. The items in such series cannot be exactly measured and consequently, an individual observation loses its importance during the statistical calculations. Further, the statistical calculations are based on the values of the class marks, ignoring the exact observations of the data leading to the problem of loss of information.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, classified data can lead to a loss of individual observation details.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of data classification and its implications.",
+    "topics_tags": [
+      "Classified Data",
+      "Statistics",
+      "Data Analysis"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.10",
+    "class": 11,
+    "subject": "statistics",
+    "chapter_number": 3,
+    "chapter_name": "organisation of data",
+    "question_type": "conceptual",
+    "question_text": "Do you agree that classified data is better than raw data?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The classified data has following advantages over the raw data: 1. Comprehensive - Raw data are large and entangled, whereas classified data are comprehensive and easily manageable. 2. Quick Information - It is troublesome to pick up information from unclassified data. Information can be easily collected from the classified data. 3. Conclusions - Classification facilitates comparisons and helps in drawing fast conclusions or inferences. 4. Saves Time and Energy - Classified data not only save our time but also our energy, which would otherwise be utilised in searching from entire lot of things.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, classified data is generally considered better than raw data due to its advantages.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves understanding and explaining the benefits of data classification.",
+    "topics_tags": [
+      "Classified Data",
+      "Raw Data",
+      "Data Management"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.11",
+    "class": 11,
+    "subject": "statistics",
+    "chapter_number": 3,
+    "chapter_name": "organisation of data",
+    "question_type": "mcq",
+    "question_text": "Find the number of households whose monthly expenditure on food is (a) less than Rs 2000 (b) more than Rs 3000 (c) between Rs 1500 and Rs 2500.",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "less than Rs 2000"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "more than Rs 3000"
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "between Rs 1500 and Rs 2500."
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Number of households whose monthly expenditure on food is less than Rs 2000.",
+        "part_latex": null,
+        "answer_text": "33",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Add the frequencies of households in the class intervals below Rs 2000.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, 33 households have a monthly expenditure on food less than Rs 2000.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Number of households whose monthly expenditure on food is more than Rs 3000.",
+        "part_latex": null,
+        "answer_text": "6",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Add the frequencies of households in the class intervals above Rs 3000.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, 6 households have a monthly expenditure on food more than Rs 3000.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "Number of households whose monthly expenditure on food is between Rs 1500 and Rs 2500.",
+        "part_latex": null,
+        "answer_text": "19",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Add the frequencies of households in the class intervals between Rs 1500 and Rs 2500.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, 19 households have a monthly expenditure on food between Rs 1500 and Rs 2500.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic addition of frequencies from class intervals.",
+    "topics_tags": [
+      "Household Expenditure",
+      "Frequency Distribution",
+      "Statistics"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [],
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    }
+  }
+]

@@ -1,0 +1,4366 @@
+[
+  {
+    "question_id": "Q3.1",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "matrices",
+    "question_type": "multipart",
+    "question_text": "In the matrix, write: (i) The order of the matrix (ii) The number of elements, (iii) Write the elements a_{13}, a_{21}, a_{33}, a_{24}, a_{23}",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image showing a matrix with elements labeled a_{13}, a_{21}, a_{33}, a_{24}, a_{23}",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777893887/ncert/maths/3/img_1_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "The order of the matrix",
+        "part_latex": null,
+        "answer_text": "The order of the matrix is 3 × 4.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Count the number of rows and columns in the matrix.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Therefore, the order of the matrix is 3 × 4.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "The number of elements",
+        "part_latex": null,
+        "answer_text": "There are 12 elements in the matrix.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Multiply the number of rows by the number of columns.",
+            "expression": "3 × 4 = 12"
+          }
+        ],
+        "final_answer": "Hence, the number of elements is 12.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "Write the elements a_{13}, a_{21}, a_{33}, a_{24}, a_{23}",
+        "part_latex": null,
+        "answer_text": "The elements are a_{13} = 19, a_{21} = 35, a_{33} = -5, a_{24} = 12, a_{23} = 23.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, the elements are a_{13} = 19, a_{21} = 35, a_{33} = -5, a_{24} = 12, a_{23} = 23.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of matrix properties and basic multiplication.",
+    "topics_tags": [
+      "Matrices",
+      "Order of Matrix",
+      "Matrix Elements"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image showing a matrix with elements labeled a_{13}, a_{21}, a_{33}, a_{24}, a_{23}",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777893887/ncert/maths/3/img_1_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.2",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "matrices",
+    "question_type": "conceptual",
+    "question_text": "If a matrix has 24 elements, what are the possible orders it can have? What, if it has 13 elements?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The possible orders of a matrix having 24 elements are: 1 × 24, 24 × 1, 2 × 12, 12 × 2, 3 × 8, 8 × 3, 4 × 6, and 6 × 4. For 13 elements, the possible orders are 1 × 13 and 13 × 1.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the possible orders for 24 elements are multiple pairs, and for 13 elements, they are 1 × 13 and 13 × 1.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves understanding of matrix dimensions and factorization.",
+    "topics_tags": [
+      "Matrix Orders",
+      "Matrix Elements",
+      "Factorization"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.3",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "matrices",
+    "question_type": "multipart",
+    "question_text": "If a matrix has 18 elements, what are the possible orders it can have? What, if it has 5 elements?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "Possible orders for 18 elements",
+        "part_latex": null,
+        "answer_text": "The possible orders of a matrix having 18 elements are: 1 × 18, 18 × 1, 2 × 9, 9 × 2, 3 × 6, and 6 × 3.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, the possible orders for 18 elements are multiple pairs.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "Possible orders for 5 elements",
+        "part_latex": null,
+        "answer_text": "The possible orders of a matrix having 5 elements are 1 × 5 and 5 × 1.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, the possible orders for 5 elements are 1 × 5 and 5 × 1.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves understanding of matrix dimensions and factorization.",
+    "topics_tags": [
+      "Matrix Orders",
+      "Matrix Elements",
+      "Factorization"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.4",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "matrices",
+    "question_type": "multipart",
+    "question_text": "Find the value of x, y, and z from the following equation:",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Images showing equations related to matrices and their elements.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777893898/ncert/maths/3/img_4_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "As the given matrices are equal, their corresponding elements are also equal. Comparing the corresponding elements, we get:",
+        "part_latex": null,
+        "answer_text": "x = 1, y = 4, and z = 3",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Set up equations based on the equality of matrices.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Solve the equations to find the values of x, y, and z.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Therefore, the values are x = 1, y = 4, and z = 3.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "Comparing the corresponding elements, we get:",
+        "part_latex": null,
+        "answer_text": "x = 2, y = 4, and z = 0 or x = 4, y = 2, and z = 0",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Set up equations based on the equality of matrices.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Solve the equations to find the values of x, y, and z.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, the possible values are x = 2, y = 4, and z = 0 or x = 4, y = 2, and z = 0.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "Comparing the corresponding elements, we get:",
+        "part_latex": null,
+        "answer_text": "x = 2, y = 4, and z = 3",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Set up equations based on the equality of matrices.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Solve the equations to find the values of x, y, and z.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Therefore, the values are x = 2, y = 4, and z = 3.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves solving multiple equations simultaneously.",
+    "topics_tags": [
+      "Matrices",
+      "Equations",
+      "Algebra"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Images showing equations related to matrices and their elements.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777893898/ncert/maths/3/img_4_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.5",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "matrices",
+    "question_type": "mcq",
+    "question_text": "Which of the given values of x and y make the following pair of matrices equal?",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": ""
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "Not possible to find"
+      },
+      {
+        "option_label": "(C)",
+        "option_text": ""
+      },
+      {
+        "option_label": "(D)",
+        "option_text": ""
+      }
+    ],
+    "correct_option": "(B)",
+    "question_image": {
+      "present": true,
+      "description": "Image showing the matrices that need to be equated.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777893916/ncert/maths/3/img_7_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "It is not possible to find the values of x and y for which the given matrices are equal.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Compare the corresponding elements of the two matrices.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Identify that comparing gives two different values for x.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Hence, it is not possible to find the values of x and y.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of matrix equality and element comparison.",
+    "topics_tags": [
+      "Matrix Equality",
+      "Matrices",
+      "Algebra"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image showing the matrices that need to be equated.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777893916/ncert/maths/3/img_7_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.6",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "matrices",
+    "question_type": "mcq",
+    "question_text": "The number of all possible matrices of order 3 × 3 with each entry 0 or 1 is:",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "27"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "18"
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "81"
+      },
+      {
+        "option_label": "(D)",
+        "option_text": "512"
+      }
+    ],
+    "correct_option": "(D)",
+    "question_image": {
+      "present": true,
+      "description": "Image related to the number of possible matrices.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777893919/ncert/maths/3/img_8_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The required number of possible matrices is 2^9 = 512.",
+    "answer_latex": "2^9 = 512",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify that a 3 × 3 matrix has 9 elements.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Each element can be either 0 or 1, giving 2 choices per element.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the total number of matrices using the multiplication principle.",
+        "expression": "2^9"
+      }
+    ],
+    "final_answer": "Therefore, the number of all possible matrices is 512.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic combinatorial reasoning and exponentiation.",
+    "topics_tags": [
+      "Matrix Count",
+      "Combinatorics",
+      "Matrices"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image related to the number of possible matrices.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777893919/ncert/maths/3/img_8_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.7",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "matrices",
+    "question_type": "conceptual",
+    "question_text": "Compute the following:",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image showing the question to compute various matrix products.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777893949/ncert/maths/3/img_11_2.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of matrix multiplication and basic computation.",
+    "topics_tags": [
+      "Matrix Multiplication",
+      "Linear Algebra",
+      "Matrices"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image showing the question to compute various matrix products.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777893949/ncert/maths/3/img_11_2.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.8",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "matrices",
+    "question_type": "conceptual",
+    "question_text": "Compute the indicated products.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image showing the question to compute indicated products of matrices.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777893950/ncert/maths/3/img_11_3.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic understanding of matrix operations.",
+    "topics_tags": [
+      "Matrix Products",
+      "Linear Algebra",
+      "Matrices"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image showing the question to compute indicated products of matrices.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777893950/ncert/maths/3/img_11_3.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.9",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "matrices",
+    "question_type": "conceptual",
+    "question_text": "If , and , then compute and . Also, verify that",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image related to the question context, possibly showing matrices.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777893975/ncert/maths/3/img_14_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of matrix operations and verification.",
+    "topics_tags": [
+      "Matrices",
+      "Matrix Operations",
+      "Verification"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image related to the question context, possibly showing matrices.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777893975/ncert/maths/3/img_14_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.10",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "matrices",
+    "question_type": "conceptual",
+    "question_text": "If and then compute .",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image related to the question context, possibly showing matrices.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777893980/ncert/maths/3/img_15_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic matrix computation.",
+    "topics_tags": [
+      "Matrices",
+      "Matrix Computation"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image related to the question context, possibly showing matrices.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777893980/ncert/maths/3/img_15_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.11",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "matrices",
+    "question_type": "conceptual",
+    "question_text": "Simplify",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image related to the simplification question.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777893984/ncert/maths/3/img_16_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires basic understanding of matrix operations.",
+    "topics_tags": [
+      "Matrices",
+      "Simplification"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image related to the simplification question.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777893984/ncert/maths/3/img_16_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.12",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "matrices",
+    "question_type": "conceptual",
+    "question_text": "Find X and Y, if (i) and (ii)",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image related to finding values of X and Y.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777893985/ncert/maths/3/img_16_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves solving equations which requires understanding of matrices.",
+    "topics_tags": [
+      "Matrices",
+      "Equations",
+      "Variables"
+    ],
+    "confidence_score": 0.8,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image related to finding values of X and Y.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777893985/ncert/maths/3/img_16_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.13",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "matrices",
+    "question_type": "conceptual",
+    "question_text": "Find X, if and",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image related to the question about finding X in matrices.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777893997/ncert/maths/3/img_19_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of matrix equations.",
+    "topics_tags": [
+      "Matrices",
+      "Matrix Equations"
+    ],
+    "confidence_score": 0.8,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image related to the question about finding X in matrices.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777893997/ncert/maths/3/img_19_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.14",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "matrices",
+    "question_type": "conceptual",
+    "question_text": "Find x and y, if",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image related to the question about finding x and y in matrices.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894000/ncert/maths/3/img_20_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Comparing the corresponding elements of these two matrices, we have: ∴ x = 3 and y = 3.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the values of x and y are 3.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic comparison of matrix elements.",
+    "topics_tags": [
+      "Matrices",
+      "Element Comparison"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image related to the question about finding x and y in matrices.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894000/ncert/maths/3/img_20_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.15",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "matrices",
+    "question_type": "conceptual",
+    "question_text": "If , find values of x and y.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image related to the question about finding values of x and y in matrices.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894004/ncert/maths/3/img_21_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of matrix equations.",
+    "topics_tags": [
+      "Matrices",
+      "Matrix Equations"
+    ],
+    "confidence_score": 0.8,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image related to the question about finding values of x and y in matrices.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894004/ncert/maths/3/img_21_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.16",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "matrices",
+    "question_type": "numerical",
+    "question_text": "Given two matrices, find the values of x, y, z and w.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Comparing the corresponding elements of these two matrices, we get: 2x − y = 10 and 3x + y = 5. Adding these two equations, we have: 5x = 15, thus x = 3. Now, substituting x into 3x + y = 5 gives y = -4.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set up the equations from the matrix elements.",
+        "expression": "2x - y = 10, 3x + y = 5"
+      },
+      {
+        "step_number": 2,
+        "description": "Add the two equations to eliminate y.",
+        "expression": "5x = 15"
+      },
+      {
+        "step_number": 3,
+        "description": "Solve for x.",
+        "expression": "x = 3"
+      },
+      {
+        "step_number": 4,
+        "description": "Substitute x back into one of the equations to find y.",
+        "expression": "y = 5 - 3x"
+      },
+      {
+        "step_number": 5,
+        "description": "Calculate y.",
+        "expression": "y = 5 - 9 = -4"
+      }
+    ],
+    "final_answer": "Therefore, x = 3 and y = -4.",
+    "answer_image": {
+      "present": true,
+      "description": "Image showing the matrices involved in the problem.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894008/ncert/maths/3/img_22_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of solving simultaneous equations.",
+    "topics_tags": [
+      "Matrices",
+      "Simultaneous Equations",
+      "Algebra"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image showing the matrices involved in the problem.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894008/ncert/maths/3/img_22_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      },
+      {
+        "present": true,
+        "description": "Image showing the answer to the problem.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894010/ncert/maths/3/img_22_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q3.17",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "matrices",
+    "question_type": "conceptual",
+    "question_text": "If given matrices, show that a certain property holds.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image showing the matrices involved in the question.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894013/ncert/maths/3/img_23_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Image showing the answer to the property demonstration.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894014/ncert/maths/3/img_23_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves demonstrating a property of matrices which requires understanding.",
+    "topics_tags": [
+      "Matrices",
+      "Matrix Properties",
+      "Algebra"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image showing the matrices involved in the question.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894013/ncert/maths/3/img_23_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image showing the answer to the property demonstration.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894014/ncert/maths/3/img_23_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q3.18",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "matrices",
+    "question_type": "conceptual",
+    "question_text": "Show that certain properties hold for the given matrices.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image showing the matrices involved in the question.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894017/ncert/maths/3/img_24_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Image showing the answer to the property demonstration.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894018/ncert/maths/3/img_24_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves demonstrating properties of matrices which requires understanding.",
+    "topics_tags": [
+      "Matrices",
+      "Matrix Properties",
+      "Algebra"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image showing the matrices involved in the question.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894017/ncert/maths/3/img_24_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image showing the answer to the property demonstration.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894018/ncert/maths/3/img_24_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q3.19",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "matrices",
+    "question_type": "conceptual",
+    "question_text": "Find if A^2 = A × A.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "An image related to the question about matrices.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894024/ncert/maths/3/img_26_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "To verify if A^2 = A × A, we need to perform the matrix multiplication.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the matrix A and perform the multiplication A × A.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Check if the result equals A^2.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, we can confirm if A^2 equals A × A based on the multiplication result.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of matrix multiplication and properties.",
+    "topics_tags": [
+      "Matrices",
+      "Matrix Multiplication",
+      "Algebra"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "question_truncated"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "An image related to the question about matrices.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894024/ncert/maths/3/img_26_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.20",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "matrices",
+    "question_type": "derivation",
+    "question_text": "If , prove that",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image related to the question statement, possibly showing matrices.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894032/ncert/maths/3/img_28_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Requires understanding of matrix properties and derivation.",
+    "topics_tags": [
+      "Matrices",
+      "Matrix Operations",
+      "Linear Algebra"
+    ],
+    "confidence_score": 0.6,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image related to the question statement, possibly showing matrices.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894032/ncert/maths/3/img_28_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.21",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "matrices",
+    "question_type": "numerical",
+    "question_text": "If and , find k so that",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image related to the question statement, possibly showing matrices.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894037/ncert/maths/3/img_29_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves finding a specific value based on matrix conditions.",
+    "topics_tags": [
+      "Matrices",
+      "Matrix Equations",
+      "Linear Algebra"
+    ],
+    "confidence_score": 0.6,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image related to the question statement, possibly showing matrices.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894037/ncert/maths/3/img_29_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.22",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "matrices",
+    "question_type": "derivation",
+    "question_text": "If and I is the identity matrix of order 2, show that",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image related to the question statement, possibly showing matrices.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894040/ncert/maths/3/img_30_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Requires proving a property involving the identity matrix.",
+    "topics_tags": [
+      "Matrices",
+      "Identity Matrix",
+      "Linear Algebra"
+    ],
+    "confidence_score": 0.6,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image related to the question statement, possibly showing matrices.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894040/ncert/maths/3/img_30_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.23",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "matrices",
+    "question_type": "mcq",
+    "question_text": "A trust fund has Rs 30,000 that must be invested in two different types of bonds. The first bond pays 5% interest per year, and the second bond pays 7% interest per year. Using matrix multiplication, determine how to divide Rs 30,000 among the two types of bonds. If the trust fund must obtain an annual total interest of: (a) Rs 1,800 (b) Rs 2,000",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "Rs 1,800"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "Rs 2,000"
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image related to the question about trust fund investment in bonds.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894046/ncert/maths/3/img_32_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Determine how to invest to obtain an annual total interest of Rs 1,800.",
+        "part_latex": null,
+        "answer_text": "The trust fund should invest Rs 15000 in the first bond and Rs 15000 in the second bond.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Let Rs x be invested in the first bond, then Rs (30000 - x) in the second bond.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Set up the equation for total interest: 0.05x + 0.07(30000 - x) = 1800.",
+            "expression": "0.05x + 0.07(30000 - x) = 1800"
+          },
+          {
+            "step_number": 3,
+            "description": "Solve for x to find the investment in the first bond.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, the trust fund should invest Rs 15000 in the first bond and Rs 15000 in the second bond.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Determine how to invest to obtain an annual total interest of Rs 2,000.",
+        "part_latex": null,
+        "answer_text": "The trust fund should invest Rs 5000 in the first bond and Rs 25000 in the second bond.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Let Rs x be invested in the first bond, then Rs (30000 - x) in the second bond.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Set up the equation for total interest: 0.05x + 0.07(30000 - x) = 2000.",
+            "expression": "0.05x + 0.07(30000 - x) = 2000"
+          },
+          {
+            "step_number": 3,
+            "description": "Solve for x to find the investment in the first bond.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, the trust fund should invest Rs 5000 in the first bond and Rs 25000 in the second bond.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires setting up and solving equations based on interest rates.",
+    "topics_tags": [
+      "Matrices",
+      "Investment",
+      "Interest Calculation"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image related to the question about trust fund investment in bonds.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894046/ncert/maths/3/img_32_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.24",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "matrices",
+    "question_type": "numerical",
+    "question_text": "Find the total amount the bookshop will receive from selling all the books using matrix algebra.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the representation of book quantities and prices in matrix form.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894054/ncert/maths/3/img_34_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Thus, the bookshop will receive Rs 20160 from the sale of all these books.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the total amount from each type of book.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Sum the total amounts to find the overall total.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, the total amount received is Rs 20160.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires basic multiplication and addition to find total sales.",
+    "topics_tags": [
+      "Matrices",
+      "Matrix Algebra",
+      "Total Amount"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the representation of book quantities and prices in matrix form.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894054/ncert/maths/3/img_34_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.25",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "matrices",
+    "question_type": "mcq",
+    "question_text": "If n = p, then the order of the matrix is",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "p × 2"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "2 × n"
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "n × 3"
+      },
+      {
+        "option_label": "(D)",
+        "option_text": "p × n"
+      }
+    ],
+    "correct_option": "(B)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The correct answer is B.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the order of the matrix is 2 × n.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of matrix order properties.",
+    "topics_tags": [
+      "Matrix Order",
+      "Matrices",
+      "Linear Algebra"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.26",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "matrices",
+    "question_type": "conceptual",
+    "question_text": "If and , then verify that (i) (ii)",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image related to the question context, possibly showing matrices.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894072/ncert/maths/3/img_38_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "It is known that",
+        "part_latex": null,
+        "answer_text": "Therefore, we have:",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": true,
+          "description": "Image showing the answer context for part (i).",
+          "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894073/ncert/maths/3/img_38_1.png",
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "answer"
+        },
+        "question_images": [],
+        "answer_images": [
+          {
+            "present": true,
+            "description": "Image showing the answer context for part (i).",
+            "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894073/ncert/maths/3/img_38_1.png",
+            "latex_extracted": null,
+            "source_page_number": null,
+            "source_image_index": null,
+            "ownership": "answer"
+          }
+        ],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": null,
+        "part_latex": null,
+        "answer_text": null,
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of matrix properties and verification.",
+    "topics_tags": [
+      "Matrices",
+      "Matrix Verification",
+      "Linear Algebra"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image related to the question context, possibly showing matrices.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894072/ncert/maths/3/img_38_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.27",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "matrices",
+    "question_type": "conceptual",
+    "question_text": "If (i) , then verify that (ii) , then verify that",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of matrix properties and verification.",
+    "topics_tags": [
+      "Matrices",
+      "Verification",
+      "Matrix Properties"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "question_truncated"
+    ],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.28",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "matrices",
+    "question_type": "multipart",
+    "question_text": "Question 7: (i) Show that the matrix is a symmetric matrix (ii) Show that the matrix is a skew symmetric matrix",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image showing a matrix related to the question about symmetric and skew symmetric properties.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894091/ncert/maths/3/img_43_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "Show that the matrix is a symmetric matrix",
+        "part_latex": null,
+        "answer_text": "Hence, A is a symmetric matrix.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Verify that A equals its transpose.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Therefore, the matrix A is symmetric.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "Show that the matrix is a skew symmetric matrix",
+        "part_latex": null,
+        "answer_text": "Hence, A is a skew-symmetric matrix.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Verify that A equals the negative of its transpose.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Therefore, the matrix A is skew-symmetric.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of symmetric and skew-symmetric matrices and verification steps.",
+    "topics_tags": [
+      "Symmetric Matrix",
+      "Skew Symmetric Matrix",
+      "Matrix Properties"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image showing a matrix related to the question about symmetric and skew symmetric properties.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894091/ncert/maths/3/img_43_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.29",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "matrices",
+    "question_type": "conceptual",
+    "question_text": "Thus, is a symmetric matrix.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "An image related to symmetric matrices.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894104/ncert/maths/3/img_46_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Thus, is a symmetric matrix.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, is a symmetric matrix.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct statement about symmetric matrices.",
+    "topics_tags": [
+      "Symmetric Matrix",
+      "Matrices",
+      "Linear Algebra"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "An image related to symmetric matrices.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894104/ncert/maths/3/img_46_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.30",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "matrices",
+    "question_type": "conceptual",
+    "question_text": "Thus, is a skew-symmetric matrix.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "An image related to skew-symmetric matrices.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894108/ncert/maths/3/img_47_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Thus, is a skew-symmetric matrix.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, is a skew-symmetric matrix.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct statement about skew-symmetric matrices.",
+    "topics_tags": [
+      "Skew-Symmetric Matrix",
+      "Matrices",
+      "Linear Algebra"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "An image related to skew-symmetric matrices.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894108/ncert/maths/3/img_47_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.31",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "matrices",
+    "question_type": "conceptual",
+    "question_text": "Thus, is a skew-symmetric matrix.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "An image related to skew-symmetric matrices.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894112/ncert/maths/3/img_48_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Thus, is a skew-symmetric matrix.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, is a skew-symmetric matrix.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct statement about skew-symmetric matrices.",
+    "topics_tags": [
+      "Skew-Symmetric Matrix",
+      "Matrices",
+      "Linear Algebra"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "An image related to skew-symmetric matrices.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894112/ncert/maths/3/img_48_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.32",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "matrices",
+    "question_type": "mcq",
+    "question_text": "If A, B are symmetric matrices of same order, then AB − BA is a",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "A.",
+        "option_text": "Skew symmetric matrix"
+      },
+      {
+        "option_label": "B.",
+        "option_text": "Symmetric matrix"
+      },
+      {
+        "option_label": "C.",
+        "option_text": "Zero matrix"
+      },
+      {
+        "option_label": "D.",
+        "option_text": "Identity matrix"
+      }
+    ],
+    "correct_option": "A.",
+    "question_image": {
+      "present": true,
+      "description": "Image related to symmetric matrices and their properties.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894123/ncert/maths/3/img_51_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The correct answer is A. A and B are symmetric matrices, therefore, we have: Thus, (AB − BA) is a skew-symmetric matrix.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, (AB − BA) is a skew-symmetric matrix.",
+    "answer_image": {
+      "present": true,
+      "description": "Image showing the answer to the question regarding symmetric matrices.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894122/ncert/maths/3/img_51_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of properties of symmetric matrices.",
+    "topics_tags": [
+      "Symmetric Matrices",
+      "Matrix Operations",
+      "Linear Algebra"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image related to symmetric matrices and their properties.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894123/ncert/maths/3/img_51_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image showing the answer to the question regarding symmetric matrices.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894122/ncert/maths/3/img_51_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q3.33",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "matrices",
+    "question_type": "mcq",
+    "question_text": "If , then , if the value of α is",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "A.",
+        "option_text": null
+      },
+      {
+        "option_label": "B.",
+        "option_text": null
+      },
+      {
+        "option_label": "C.",
+        "option_text": "π"
+      },
+      {
+        "option_label": "D.",
+        "option_text": null
+      }
+    ],
+    "correct_option": "B.",
+    "question_image": {
+      "present": true,
+      "description": "Image related to the question about the value of α.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894121/ncert/maths/3/img_51_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The correct answer is B.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Image showing the answer to the question regarding the value of α.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894124/ncert/maths/3/img_51_2.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of the value of α.",
+    "topics_tags": [
+      "Matrices",
+      "Algebra",
+      "Linear Equations"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image related to the question about the value of α.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894121/ncert/maths/3/img_51_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image showing the answer to the question regarding the value of α.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894124/ncert/maths/3/img_51_2.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q3.34",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "matrices",
+    "question_type": "conceptual",
+    "question_text": "Find the inverse of each of the matrices, if it exists.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image showing matrices for which the inverse needs to be found.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894124/ncert/maths/3/img_52_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "We know that A = IA",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the inverse can be determined if the matrix is non-singular.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of matrix inverses and conditions for existence.",
+    "topics_tags": [
+      "Matrix Inverse",
+      "Linear Algebra",
+      "Matrices"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image showing matrices for which the inverse needs to be found.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894124/ncert/maths/3/img_52_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.35",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "matrices",
+    "question_type": "conceptual",
+    "question_text": "Find the inverse of each of the matrices, if it exists.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image showing matrices for which the inverse needs to be found.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894127/ncert/maths/3/img_53_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "We know that A = IA",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the inverse can be determined if the matrix is non-singular.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of matrix inverses and conditions for existence.",
+    "topics_tags": [
+      "Matrix Inverse",
+      "Linear Algebra",
+      "Matrices"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image showing matrices for which the inverse needs to be found.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894127/ncert/maths/3/img_53_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.36",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "matrices",
+    "question_type": "conceptual",
+    "question_text": "Find the inverse of each of the matrices, if it exists.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image showing matrices for which the inverse needs to be found.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894130/ncert/maths/3/img_54_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "We know that A = IA",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the inverse can be determined if the matrix is non-singular.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of matrix inverses and conditions for existence.",
+    "topics_tags": [
+      "Matrix Inverse",
+      "Linear Algebra",
+      "Matrices"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image showing matrices for which the inverse needs to be found.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894130/ncert/maths/3/img_54_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.37",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "matrices",
+    "question_type": "conceptual",
+    "question_text": "Find the inverse of each of the matrices, if it exists.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image of a matrix related to the question about finding its inverse.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894133/ncert/maths/3/img_55_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "We know that A = IA",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the inverse can be found using the identity matrix.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of matrix inverses and identity matrix.",
+    "topics_tags": [
+      "Matrix Inverse",
+      "Identity Matrix",
+      "Linear Algebra"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image of a matrix related to the question about finding its inverse.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894133/ncert/maths/3/img_55_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.38",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "matrices",
+    "question_type": "conceptual",
+    "question_text": "Find the inverse of each of the matrices, if it exists.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image of a matrix related to the question about finding its inverse.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894135/ncert/maths/3/img_56_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "We know that A = IA",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the inverse can be found using the identity matrix.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of matrix inverses and identity matrix.",
+    "topics_tags": [
+      "Matrix Inverse",
+      "Identity Matrix",
+      "Linear Algebra"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image of a matrix related to the question about finding its inverse.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894135/ncert/maths/3/img_56_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.39",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "matrices",
+    "question_type": "conceptual",
+    "question_text": "Find the inverse of each of the matrices, if it exists.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image of a matrix related to the question about finding its inverse.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894138/ncert/maths/3/img_57_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "We know that A = AI",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the inverse can be found using the identity matrix.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of matrix inverses and identity matrix.",
+    "topics_tags": [
+      "Matrix Inverse",
+      "Identity Matrix",
+      "Linear Algebra"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image of a matrix related to the question about finding its inverse.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894138/ncert/maths/3/img_57_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.40",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "matrices",
+    "question_type": "conceptual",
+    "question_text": "Find the inverse of each of the matrices, if it exists.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image showing matrices for which the inverse needs to be found.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894140/ncert/maths/3/img_58_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "We know that A = IA",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "The inverse of the matrix can be found using the identity matrix.",
+    "answer_image": {
+      "present": true,
+      "description": "Image showing the answer related to the inverse of matrices.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894141/ncert/maths/3/img_58_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of matrix inverses and identity matrix.",
+    "topics_tags": [
+      "Matrix Inverse",
+      "Identity Matrix",
+      "Linear Algebra"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image showing matrices for which the inverse needs to be found.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894140/ncert/maths/3/img_58_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image showing the answer related to the inverse of matrices.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894141/ncert/maths/3/img_58_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q3.41",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "matrices",
+    "question_type": "conceptual",
+    "question_text": "Find the inverse of each of the matrices, if it exists.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image showing matrices for which the inverse needs to be found.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894143/ncert/maths/3/img_59_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "We know that A = IA",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "The inverse of the matrix can be found using the identity matrix.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of matrix inverses and identity matrix.",
+    "topics_tags": [
+      "Matrix Inverse",
+      "Identity Matrix",
+      "Linear Algebra"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image showing matrices for which the inverse needs to be found.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894143/ncert/maths/3/img_59_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      },
+      {
+        "present": true,
+        "description": "Image showing the answer related to the inverse of matrices.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894144/ncert/maths/3/img_59_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.42",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "matrices",
+    "question_type": "conceptual",
+    "question_text": "Find the inverse of each of the matrices, if it exists.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image showing matrices for which the inverse needs to be found.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894145/ncert/maths/3/img_60_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "We know that A = AI",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "The inverse of the matrix can be found using the identity matrix.",
+    "answer_image": {
+      "present": true,
+      "description": "Image showing the answer related to the inverse of matrices.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894146/ncert/maths/3/img_60_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of matrix inverses and identity matrix.",
+    "topics_tags": [
+      "Matrix Inverse",
+      "Identity Matrix",
+      "Linear Algebra"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image showing matrices for which the inverse needs to be found.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894145/ncert/maths/3/img_60_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image showing the answer related to the inverse of matrices.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894146/ncert/maths/3/img_60_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q3.43",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "matrices",
+    "question_type": "conceptual",
+    "question_text": "Find the inverse of each of the matrices, if it exists.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image showing a matrix related to the question about finding its inverse.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894149/ncert/maths/3/img_61_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "We know that A = IA. Now, in the above equation, we can see all the zeros in the second row of the matrix on the L.H.S. Therefore, A−1 does not exist.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the inverse does not exist.",
+    "answer_image": {
+      "present": true,
+      "description": "Image showing the explanation regarding the non-existence of the inverse.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894150/ncert/maths/3/img_61_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of matrix properties and the concept of inverse.",
+    "topics_tags": [
+      "Matrix Inverse",
+      "Linear Algebra",
+      "Matrices"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image showing a matrix related to the question about finding its inverse.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894149/ncert/maths/3/img_61_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image showing the explanation regarding the non-existence of the inverse.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894150/ncert/maths/3/img_61_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q3.44",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "matrices",
+    "question_type": "conceptual",
+    "question_text": "Find the inverse of each of the matrices, if it exists.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image showing a matrix related to the question about finding its inverse.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894152/ncert/maths/3/img_62_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "We know that A = IA. Applying, we have:",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of matrix properties and the concept of inverse.",
+    "topics_tags": [
+      "Matrix Inverse",
+      "Linear Algebra",
+      "Matrices"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image showing a matrix related to the question about finding its inverse.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894152/ncert/maths/3/img_62_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.45",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "matrices",
+    "question_type": "conceptual",
+    "question_text": "Find the inverse of each of the matrices, if it exists.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image showing a matrix related to the question about finding its inverse.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894155/ncert/maths/3/img_63_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "We know that A = IA. Applying R → R + 3R and R → R − 2R, we have:",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves applying row operations to find the inverse.",
+    "topics_tags": [
+      "Matrix Inverse",
+      "Row Operations",
+      "Linear Algebra"
+    ],
+    "confidence_score": 0.88,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image showing a matrix related to the question about finding its inverse.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894155/ncert/maths/3/img_63_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.46",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "matrices",
+    "question_type": "conceptual",
+    "question_text": "Find the inverse of each of the matrices, if it exists.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Images of matrices for which the inverse needs to be found.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894159/ncert/maths/3/img_64_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of matrix properties and calculation of inverses.",
+    "topics_tags": [
+      "Matrix Inverse",
+      "Linear Algebra",
+      "Matrices"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Images of matrices for which the inverse needs to be found.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894159/ncert/maths/3/img_64_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.47",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "matrices",
+    "question_type": "mcq",
+    "question_text": "Matrices A and B will be inverse of each other only if",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "AB = BA"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "AB = BA = 0"
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "AB = 0, BA = I"
+      },
+      {
+        "option_label": "(D)",
+        "option_text": "AB = BA = I"
+      }
+    ],
+    "correct_option": "(D)",
+    "question_image": {
+      "present": true,
+      "description": "Question regarding the conditions for matrices to be inverses of each other.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894167/ncert/maths/3/img_66_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires knowledge of matrix multiplication and properties.",
+    "topics_tags": [
+      "Matrix Inverse",
+      "Linear Algebra",
+      "Matrices"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Question regarding the conditions for matrices to be inverses of each other.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894167/ncert/maths/3/img_66_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.48",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "matrices",
+    "question_type": "conceptual",
+    "question_text": "If A is a square matrix of order m, and if there exists another square matrix B of the same order m, such that AB = BA = I, then B is said to be the inverse of A. Prove that matrices A and B will be inverses of each other only if AB = BA = I.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Thus, matrices A and B will be inverses of each other only if AB = BA = I.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the result is true for matrices A and B being inverses if AB = BA = I.",
+    "answer_image": {
+      "present": true,
+      "description": "An image related to the concept of matrix inverses.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894170/ncert/maths/3/img_67_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of matrix properties and basic proof structure.",
+    "topics_tags": [
+      "Matrix Inverse",
+      "Linear Algebra",
+      "Matrix Properties"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "An image related to the concept of matrix inverses.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894170/ncert/maths/3/img_67_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q3.49",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "matrices",
+    "question_type": "conceptual",
+    "question_text": "Let A be a square matrix. Show that A^n = I, where I is the identity matrix of order 2 and n ∈ N.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "An image related to the proof of matrix powers.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894173/ncert/maths/3/img_68_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "We shall prove the result by using the principle of mathematical induction.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, by the principle of mathematical induction, we have shown the result.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves mathematical induction which requires multi-step reasoning.",
+    "topics_tags": [
+      "Matrix Powers",
+      "Induction",
+      "Linear Algebra"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "An image related to the proof of matrix powers.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894173/ncert/maths/3/img_68_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.50",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "matrices",
+    "question_type": "conceptual",
+    "question_text": "If A is a square matrix, prove that A^n = I for n = 1.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, the result is true for n = 1.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, we have established the base case for the induction.",
+    "answer_image": {
+      "present": true,
+      "description": "An image related to the proof of matrix properties.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894176/ncert/maths/3/img_69_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires basic understanding of matrix properties.",
+    "topics_tags": [
+      "Matrix Properties",
+      "Induction",
+      "Linear Algebra"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "An image related to the proof of matrix properties.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894176/ncert/maths/3/img_69_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q3.51",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "matrices",
+    "question_type": "conceptual",
+    "question_text": "If A and B are symmetric matrices, prove that AB − BA is a skew symmetric matrix.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to symmetric matrices and their properties.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894185/ncert/maths/3/img_71_2.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "It is given that A and B are symmetric matrices. Therefore, we have: (AB - BA) is a skew-symmetric matrix.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Assume A and B are symmetric matrices.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Show that AB - BA is skew-symmetric by proving (AB - BA)^T = -(AB - BA).",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, (AB - BA) is a skew-symmetric matrix.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of matrix properties and proof techniques.",
+    "topics_tags": [
+      "Symmetric Matrices",
+      "Skew-Symmetric Matrices",
+      "Matrix Algebra"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to symmetric matrices and their properties.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894185/ncert/maths/3/img_71_2.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.52",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "matrices",
+    "question_type": "conceptual",
+    "question_text": "Show that the matrix is symmetric or skew symmetric according as A is symmetric or skew symmetric.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram illustrating properties of symmetric and skew-symmetric matrices.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894188/ncert/maths/3/img_72_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "We suppose that A is a symmetric matrix, then … (1) Consider. Thus, if A is a symmetric matrix, then is a symmetric matrix.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Assume A is symmetric and derive properties.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Show the resulting matrix is symmetric.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Now assume A is skew-symmetric and derive properties.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the matrix is symmetric or skew-symmetric according to the nature of A.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding definitions and properties of matrix types.",
+    "topics_tags": [
+      "Symmetric Matrices",
+      "Skew-Symmetric Matrices",
+      "Matrix Properties"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram illustrating properties of symmetric and skew-symmetric matrices.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894188/ncert/maths/3/img_72_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.53",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "matrices",
+    "question_type": "conceptual",
+    "question_text": "Solve system of linear equations, using matrix method.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The given system of equations can be written in the form of AX = B, where A is non-singular. Therefore, its inverse exists.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the inverse of matrix A exists.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram related to the system of linear equations.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894191/ncert/maths/3/img_73_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of matrix representation of linear equations.",
+    "topics_tags": [
+      "Linear Equations",
+      "Matrix Method",
+      "Matrices"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the system of linear equations.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894191/ncert/maths/3/img_73_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      },
+      {
+        "present": true,
+        "description": "Answer related to the system of linear equations.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894192/ncert/maths/3/img_73_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q3.54",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "matrices",
+    "question_type": "numerical",
+    "question_text": "For what values of x does 4 + 4x = 0?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Question regarding the value of x in the equation.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894194/ncert/maths/3/img_74_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "We have: 4 + 4x = 0, thus x = -1.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Rearrange the equation to isolate x.",
+        "expression": "4 + 4x = 0"
+      },
+      {
+        "step_number": 2,
+        "description": "Solve for x.",
+        "expression": "x = -1"
+      }
+    ],
+    "final_answer": "Thus, the required value of x is -1.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct application of algebraic manipulation.",
+    "topics_tags": [
+      "Linear Equations",
+      "Algebra",
+      "Matrices"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Question regarding the value of x in the equation.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894194/ncert/maths/3/img_74_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.55",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "matrices",
+    "question_type": "conceptual",
+    "question_text": "If A is a matrix, show that ...",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Question regarding properties of matrices.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894198/ncert/maths/3/img_75_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of matrix properties and proofs.",
+    "topics_tags": [
+      "Matrix Properties",
+      "Proofs",
+      "Matrices"
+    ],
+    "confidence_score": 0.75,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Question regarding properties of matrices.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894198/ncert/maths/3/img_75_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.56",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "matrices",
+    "question_type": "mcq",
+    "question_text": "A manufacturer produces three products x, y, z which he sells in two markets. Annual sales are indicated below: Market I: 10000, 2000, 18000; Market II: 6000, 20000, 8000. (a) If unit sale prices of x, y and z are Rs 2.50, Rs 1.50 and Rs 1.00, respectively, find the total revenue in each market with the help of matrix algebra. (b) If the unit costs of the above three commodities are Rs 2.00, Rs 1.00 and 50 paise respectively, find the gross profit.",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "If unit sale prices of x, y and z are Rs 2.50, Rs 1.50 and Rs 1.00, respectively, find the total revenue in each market with the help of matrix algebra."
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "If the unit costs of the above three commodities are Rs 2.00, Rs 1.00 and 50 paise respectively, find the gross profit."
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Images related to the question about products and markets.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894200/ncert/maths/3/img_76_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "If unit sale prices of x, y and z are Rs 2.50, Rs 1.50 and Rs 1.00, respectively, find the total revenue in each market with the help of matrix algebra.",
+        "part_latex": null,
+        "answer_text": "The total revenue in market I is Rs 46000 and in market II is Rs 53000.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate total revenue for market I using unit sale prices and quantities.",
+            "expression": "Total Revenue I = 10000 * 2.50 + 2000 * 1.50 + 18000 * 1.00"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate total revenue for market II using unit sale prices and quantities.",
+            "expression": "Total Revenue II = 6000 * 2.50 + 20000 * 1.50 + 8000 * 1.00"
+          }
+        ],
+        "final_answer": "Therefore, the total revenue in market I is Rs 46000 and in market II is Rs 53000.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "If the unit costs of the above three commodities are Rs 2.00, Rs 1.00 and 50 paise respectively, find the gross profit.",
+        "part_latex": null,
+        "answer_text": "The gross profit in market I is Rs 15000 and in market II is Rs 17000.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate gross profit for market I using total revenue and total cost.",
+            "expression": "Gross Profit I = Total Revenue I - Total Cost I"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate gross profit for market II using total revenue and total cost.",
+            "expression": "Gross Profit II = Total Revenue II - Total Cost II"
+          }
+        ],
+        "final_answer": "Therefore, the gross profit in market I is Rs 15000 and in market II is Rs 17000.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of matrix operations and profit calculations.",
+    "topics_tags": [
+      "Matrices",
+      "Revenue Calculation",
+      "Profit"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Images related to the question about products and markets.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894200/ncert/maths/3/img_76_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.57",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "matrices",
+    "question_type": "conceptual",
+    "question_text": "If A and B are square matrices of the same order such that AB = BA, then prove by induction that . Further, prove that for all n ∈ N.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Thus, by the principle of mathematical induction, we have the result is true for all natural numbers.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Prove the result for n = 1.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Assume the result is true for n = k.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Prove the result for n = k + 1.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, by the principle of mathematical induction, we have the result is true for all natural numbers.",
+    "answer_image": {
+      "present": true,
+      "description": "Image related to the proof of matrices and mathematical induction.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894209/ncert/maths/3/img_79_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of mathematical induction and requires multiple steps.",
+    "topics_tags": [
+      "Matrices",
+      "Induction",
+      "Proof"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "Some context is missing for the complete proof."
+    ],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image related to the proof of matrices and mathematical induction.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894209/ncert/maths/3/img_79_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      },
+      {
+        "present": true,
+        "description": "Image showing the conclusion of the proof by induction.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894212/ncert/maths/3/img_80_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q3.58",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "matrices",
+    "question_type": "mcq",
+    "question_text": "Choose the correct answer in the following questions: If is such that then",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "A.",
+        "option_text": "<option text>"
+      },
+      {
+        "option_label": "B.",
+        "option_text": "<option text>"
+      },
+      {
+        "option_label": "C.",
+        "option_text": "<option text>"
+      },
+      {
+        "option_label": "D.",
+        "option_text": "<option text>"
+      }
+    ],
+    "correct_option": "C.",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "On comparing the corresponding elements, we have:",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "The correct answer is C.",
+    "answer_image": {
+      "present": true,
+      "description": "Image showing the answer options for the question.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894215/ncert/maths/3/img_81_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of options.",
+    "topics_tags": [
+      "Matrices",
+      "Multiple Choice",
+      "Linear Algebra"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image showing the answer options for the question.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894215/ncert/maths/3/img_81_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q3.59",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "matrices",
+    "question_type": "mcq",
+    "question_text": "If the matrix A is both symmetric and skew symmetric, then",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "A is a diagonal matrix"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "A is a zero matrix"
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "A is a square matrix"
+      },
+      {
+        "option_label": "(D)",
+        "option_text": "None of these"
+      }
+    ],
+    "correct_option": "(B)",
+    "question_image": {
+      "present": true,
+      "description": "Image related to the question about symmetric and skew symmetric matrices.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894217/ncert/maths/3/img_82_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "If A is both symmetric and skew-symmetric matrix, then A is a zero matrix.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, A is a zero matrix.",
+    "answer_image": {
+      "present": true,
+      "description": "Image showing the answer to the question about symmetric and skew symmetric matrices.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894218/ncert/maths/3/img_82_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of properties of symmetric and skew-symmetric matrices.",
+    "topics_tags": [
+      "Symmetric Matrix",
+      "Skew Symmetric Matrix",
+      "Matrix Properties"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image related to the question about symmetric and skew symmetric matrices.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894217/ncert/maths/3/img_82_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image showing the answer to the question about symmetric and skew symmetric matrices.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894218/ncert/maths/3/img_82_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q3.60",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 3,
+    "chapter_name": "matrices",
+    "question_type": "mcq",
+    "question_text": "If A is square matrix such that then is equal to",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "A"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "I − A"
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "I"
+      },
+      {
+        "option_label": "(D)",
+        "option_text": "3A"
+      }
+    ],
+    "correct_option": "(C)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Image related to the question about square matrices.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894219/ncert/maths/3/img_82_3.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of matrix operations and properties.",
+    "topics_tags": [
+      "Square Matrix",
+      "Matrix Operations",
+      "Identity Matrix"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image related to the question about square matrices.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894219/ncert/maths/3/img_82_3.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      },
+      {
+        "present": true,
+        "description": "Image showing the answer to the question about square matrices.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894220/ncert/maths/3/img_83_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  }
+]

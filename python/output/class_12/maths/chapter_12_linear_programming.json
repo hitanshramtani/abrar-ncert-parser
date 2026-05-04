@@ -1,0 +1,1915 @@
+[
+  {
+    "question_id": "Q12.1",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "linear programming",
+    "question_type": "numerical",
+    "question_text": "Maximise Z = 3x + 4y subject to the constraints: x + y ≤ 4, x ≥ 0, y ≥ 0.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The maximum value of Z is 16 at the point B (0, 4).",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the corner points of the feasible region.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate Z at each corner point.",
+        "expression": "Z(O) = 0, Z(A) = 12, Z(B) = 16"
+      }
+    ],
+    "final_answer": "Therefore, the maximum value of Z is 16 at the point B (0, 4).",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the feasible region determined by the constraints.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777890752/ncert/maths/12/img_1_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of linear programming and evaluation of corner points.",
+    "topics_tags": [
+      "Linear Programming",
+      "Maximization",
+      "Feasible Region"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the feasible region determined by the constraints.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777890752/ncert/maths/12/img_1_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q12.2",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "linear programming",
+    "question_type": "numerical",
+    "question_text": "Minimise Z = −3x + 4y subject to the constraints: x ≥ 0, y ≥ 0.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the feasible region determined by the constraints.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777890754/ncert/maths/12/img_2_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The minimum value of Z is −12 at the point A (4, 0).",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the corner points of the feasible region.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate Z at each corner point.",
+        "expression": "Z(O) = 0, Z(A) = -12, Z(B) = 6, Z(C) = 16"
+      }
+    ],
+    "final_answer": "Therefore, the minimum value of Z is −12 at the point A (4, 0).",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of linear programming and evaluation of corner points.",
+    "topics_tags": [
+      "Linear Programming",
+      "Minimization",
+      "Feasible Region"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the feasible region determined by the constraints.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777890754/ncert/maths/12/img_2_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.3",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "linear programming",
+    "question_type": "numerical",
+    "question_text": "Maximise Z = 5x + 3y subject to the constraints: 3x + 5y ≤ 15, 5x + 2y ≤ 10, x ≥ 0, y ≥ 0.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the feasible region determined by the constraints.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777890755/ncert/maths/12/img_3_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of linear programming and evaluation of corner points.",
+    "topics_tags": [
+      "Linear Programming",
+      "Maximization",
+      "Feasible Region"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the feasible region determined by the constraints.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777890755/ncert/maths/12/img_3_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.4",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "linear programming",
+    "question_type": "conceptual",
+    "question_text": "Maximise Z = 3x + 2y",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Graphical representation of the feasible region for the linear programming problem.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777890757/ncert/maths/12/img_5_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The maximum value of Z is 18 at the point (4, 3).",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the corner points of the feasible region.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the value of Z at each corner point.",
+        "expression": "Z = 3x + 2y"
+      },
+      {
+        "step_number": 3,
+        "description": "Determine the maximum value of Z from the calculated values.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, the maximum value of Z is 18 at the point (4, 3).",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of linear programming and evaluating corner points.",
+    "topics_tags": [
+      "Linear Programming",
+      "Maximization",
+      "Feasible Region"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Graphical representation of the feasible region for the linear programming problem.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777890757/ncert/maths/12/img_5_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.5",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "linear programming",
+    "question_type": "conceptual",
+    "question_text": "Minimise Z = x + 2y",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Graphical representation of the feasible region for the linear programming problem.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777890758/ncert/maths/12/img_6_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The minimum value of Z occurs for more than 2 points along the line x + 2y = 6.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the corner points of the feasible region.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the value of Z at each corner point.",
+        "expression": "Z = x + 2y"
+      },
+      {
+        "step_number": 3,
+        "description": "Determine that the minimum value of Z occurs along the line x + 2y = 6.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, the value of Z is minimum at every point on the line, x + 2y = 6.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of linear programming and evaluating multiple points.",
+    "topics_tags": [
+      "Linear Programming",
+      "Minimization",
+      "Feasible Region"
+    ],
+    "confidence_score": 0.93,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Graphical representation of the feasible region for the linear programming problem.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777890758/ncert/maths/12/img_6_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.6",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "linear programming",
+    "question_type": "multipart",
+    "question_text": "Minimise and Maximise Z = x + 2y subject to the constraints: x + 2y ≥ 100, 2x − y ≤ 0, 2x + y ≤ 200, x ≥ 0, and y ≥ 0.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Graphical representation of the feasible region for the linear programming problem.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777890759/ncert/maths/12/img_7_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Minimise Z = x + 2y",
+        "part_latex": null,
+        "answer_text": "The minimum value of Z is 100 at the points on the line segment joining (0, 50) and (20, 40).",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the corner points of the feasible region.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Evaluate Z at the corner points to find the minimum.",
+            "expression": "Z = x + 2y"
+          }
+        ],
+        "final_answer": "Therefore, the minimum value of Z is 100.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Maximise Z = x + 2y",
+        "part_latex": null,
+        "answer_text": "The maximum value of Z is 400 at the point (0, 200).",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the corner points of the feasible region.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Evaluate Z at the corner points to find the maximum.",
+            "expression": "Z = x + 2y"
+          }
+        ],
+        "final_answer": "Therefore, the maximum value of Z is 400.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of linear programming and evaluating multiple corner points.",
+    "topics_tags": [
+      "Linear Programming",
+      "Feasible Region",
+      "Optimization"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Graphical representation of the feasible region for the linear programming problem.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777890759/ncert/maths/12/img_7_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.7",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "linear programming",
+    "question_type": "multipart",
+    "question_text": "Maximise Z = − x + 2y, subject to the constraints.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Graphical representation of the feasible region for the linear programming problem.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777890760/ncert/maths/12/img_8_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Maximise Z = − x + 2y",
+        "part_latex": null,
+        "answer_text": "The maximum value of Z does not exist as the feasible region is unbounded.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the corner points of the feasible region.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Evaluate Z at the corner points to check for maximum.",
+            "expression": "Z = -x + 2y"
+          },
+          {
+            "step_number": 3,
+            "description": "Graph the inequality to check for unboundedness.",
+            "expression": "-x + 2y > 1"
+          }
+        ],
+        "final_answer": "Therefore, Z has no maximum value.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Involves understanding unbounded feasible regions and evaluating corner points.",
+    "topics_tags": [
+      "Linear Programming",
+      "Unbounded Region",
+      "Optimization"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Graphical representation of the feasible region for the linear programming problem.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777890760/ncert/maths/12/img_8_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.8",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "linear programming",
+    "question_type": "mcq",
+    "question_text": "Reshma wishes to mix two types of food P and Q in such a way that the vitamin contents of the mixture contain at least 8 units of vitamin A and 11 units of vitamin B. Food P costs Rs 60/kg and Food Q costs Rs 80/kg. Food P contains 3 units/kg of vitamin A and 5 units/kg of vitamin B while food Q contains 4 units/kg of vitamin A and 2 units/kg of vitamin B. Determine the minimum cost of the mixture?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The minimum cost of the mixture can be determined by solving the linear programming problem with the given constraints.",
+    "answer_latex": "Z = 60x + 80y",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set up the constraints based on vitamin requirements.",
+        "expression": "3x + 4y \\geq 8, \\quad 5x + 2y \\geq 11"
+      },
+      {
+        "step_number": 2,
+        "description": "Formulate the objective function to minimize cost.",
+        "expression": "Z = 60x + 80y"
+      },
+      {
+        "step_number": 3,
+        "description": "Graph the constraints to find the feasible region.",
+        "expression": null
+      },
+      {
+        "step_number": 4,
+        "description": "Evaluate the objective function at the corner points of the feasible region.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the minimum cost of the mixture is determined by evaluating the objective function at the feasible corner points.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of linear programming and solving inequalities.",
+    "topics_tags": [
+      "Linear Programming",
+      "Cost Minimization",
+      "Constraints"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.9",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "linear programming",
+    "question_type": "numerical",
+    "question_text": "One kind of cake requires 200g flour and 25g of fat, and another kind of cake requires 100g of flour and 50g of fat. Find the maximum number of cakes which can be made from 5 kg of flour and 1 kg of fat assuming that there is no shortage of the other ingredients used in making the cakes?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Table showing the ingredients required for two kinds of cakes and their availability.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777890764/ncert/maths/12/img_13_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Thus, the maximum numbers of cakes that can be made are 30 (20 of one kind and 10 of the other kind).",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set up the equations based on the constraints of flour and fat.",
+        "expression": "200x + 100y \\leq 5000, \\quad 25x + 50y \\leq 1000"
+      },
+      {
+        "step_number": 2,
+        "description": "Solve the equations to find the corner points of the feasible region.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Evaluate the objective function Z = x + y at the corner points.",
+        "expression": "Z = x + y"
+      }
+    ],
+    "final_answer": "Therefore, the maximum number of cakes that can be made is 30.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves setting up and solving linear inequalities and evaluating at corner points.",
+    "topics_tags": [
+      "Linear Programming",
+      "Optimization",
+      "Constraints"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Table showing the ingredients required for two kinds of cakes and their availability.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777890764/ncert/maths/12/img_13_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.10",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "linear programming",
+    "question_type": "numerical",
+    "question_text": "A factory makes tennis rackets and cricket bats. A tennis racket takes 1.5 hours of machine time and 3 hours of craftsman’s time in its making while a cricket bat takes 3 hours of machine time and 1 hour of craftsman’s time. In a day, the factory has the availability of not more than 42 hours of machine time and 24 hours of craftsman’s time. What number of rackets and bats must be made if the factory is to work at full capacity? If the profit on a racket and on a bat is Rs 20 and Rs 10 respectively, find the maximum profit of the factory when it works at full capacity.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Table showing the machine and craftsman time required for tennis rackets and cricket bats.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777890766/ncert/maths/12/img_14_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Thus, 4 rackets and 12 bats must be made for maximum profit.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set up the equations based on the constraints of machine and craftsman time.",
+        "expression": "1.5x + 3y \\leq 42, \\quad 3x + y \\leq 24"
+      },
+      {
+        "step_number": 2,
+        "description": "Solve the equations to find the values of x and y.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the maximum profit using the profit function.",
+        "expression": "Profit = 20x + 10y"
+      }
+    ],
+    "final_answer": "Therefore, the maximum profit of the factory is achieved with 4 rackets and 12 bats.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Involves multiple constraints and optimization for maximum profit.",
+    "topics_tags": [
+      "Linear Programming",
+      "Profit Maximization",
+      "Resource Allocation"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Table showing the machine and craftsman time required for tennis rackets and cricket bats.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777890766/ncert/maths/12/img_14_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.11",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "linear programming",
+    "question_type": "numerical",
+    "question_text": "A manufacturer produces nuts and bolts. It takes 1 hour of work on machine A and 3 hours on machine B to produce a package of nuts. It takes 3 hours on machine A and 1 hour on machine B to produce a package of bolts. He earns a profit of Rs 17.50 per package on nuts and Rs. 7.00 per package on bolts. How many packages of each should be produced each day so as to maximize his profit, if he operates his machines for at the most 12 hours a day?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the feasible region and corner points for the linear programming problem.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777890767/ncert/maths/12/img_16_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Thus, 3 packages of nuts and 3 packages of bolts should be produced each day to get the maximum profit of Rs 73.50.",
+    "answer_latex": "Z_{max} = 73.50",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set up the profit function and constraints based on the problem statement.",
+        "expression": "Maximize Z = 17.5x + 7y"
+      },
+      {
+        "step_number": 2,
+        "description": "Identify the corner points of the feasible region.",
+        "expression": "A(4, 0), B(3, 3), C(0, 4)"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the profit at each corner point.",
+        "expression": "Z = 17.5x + 7y"
+      },
+      {
+        "step_number": 4,
+        "description": "Determine the maximum profit from the calculated values.",
+        "expression": "Z_{max} = 73.50"
+      }
+    ],
+    "final_answer": "Therefore, the maximum profit is Rs 73.50 when producing 3 packages of nuts and 3 packages of bolts.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the corner points and maximum profit calculation.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777890768/ncert/maths/12/img_18_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves setting up a linear programming problem and evaluating multiple corner points.",
+    "topics_tags": [
+      "Linear Programming",
+      "Optimization",
+      "Profit Maximization"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the feasible region and corner points for the linear programming problem.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777890767/ncert/maths/12/img_16_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the corner points and maximum profit calculation.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777890768/ncert/maths/12/img_18_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q12.12",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "linear programming",
+    "question_type": "numerical",
+    "question_text": "A cottage industry manufactures pedestal lamps and wooden shades, each requiring the use of a grinding/cutting machine and a sprayer. It takes 2 hours on grinding/cutting machine and 3 hours on the sprayer to manufacture a pedestal lamp. It takes 1 hour on the grinding/cutting machine and 2 hours on the sprayer to manufacture a shade. On any day, the sprayer is available for at the most 20 hours and the grinding/cutting machine for at the most 12 hours. The profit from the sale of a lamp is Rs 5 and that from a shade is Rs 3. Assuming that the manufacturer can sell all the lamps and shades that he produces, how should he schedule his daily production in order to maximize his profit?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Let the cottage industry manufacture x pedestal lamps and y wooden shades. Therefore, x ≥ 0 and y ≥ 0. The given information can be compiled in a table as follows. The profit on a lamp is Rs 5 and on the shades is Rs 3. Therefore, the constraints are Total profit, Z = 5x + 3y. The mathematical formulation of the given problem is Maximize Z = 5x + 3y.",
+    "answer_latex": "Z = 5x + 3y",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Define the variables for the number of lamps and shades produced.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Set up the profit function based on the number of lamps and shades.",
+        "expression": "Z = 5x + 3y"
+      }
+    ],
+    "final_answer": "Thus, the cottage industry should determine the values of x and y that maximize the profit Z.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves setting up a linear programming problem with constraints.",
+    "topics_tags": [
+      "Linear Programming",
+      "Optimization",
+      "Profit Maximization"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.13",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "linear programming",
+    "question_type": "conceptual",
+    "question_text": "A company manufactures two types of novelty souvenirs made of plywood. Souvenirs of type A require 5 minutes each for cutting and 10 minutes each for assembling. Souvenirs of type B require 8 minutes each for cutting and 8 minutes each for assembling. There are 3 hours 20 minutes available for cutting and 4 hours of assembling. The profit is Rs 5 each for type A and Rs 6 each for type B souvenirs. How many souvenirs of each type should the company manufacture in order to maximize the profit?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image related to the linear programming problem, possibly showing constraints or a graph.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777890770/ncert/maths/12/img_22_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Let the company manufacture x souvenirs of type A and y souvenirs of type B. The constraints are based on cutting and assembling times, and the profit function is Z = 5x + 6y.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Define variables for the number of souvenirs of each type.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Set up the constraints based on available cutting and assembling time.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Formulate the profit function to maximize.",
+        "expression": "Z = 5x + 6y"
+      }
+    ],
+    "final_answer": "The company should solve the linear programming problem to find the optimal values of x and y.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of linear programming concepts and setting up constraints.",
+    "topics_tags": [
+      "Linear Programming",
+      "Optimization",
+      "Profit Maximization"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image related to the linear programming problem, possibly showing constraints or a graph.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777890770/ncert/maths/12/img_22_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.14",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "linear programming",
+    "question_type": "conceptual",
+    "question_text": "A merchant plans to sell two types of personal computers − a desktop model and a portable model that will cost Rs 25000 and Rs 40000 respectively. He estimates that the total monthly demand of computers will not exceed 250 units. Determine the number of units of each type of computers which the merchant should stock to get maximum profit if he does not want to invest more than Rs 70 lakhs and if his profit on the desktop model is Rs 4500 and on portable model is Rs 5000.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image related to the linear programming problem, possibly showing constraints or a graph.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777890771/ncert/maths/12/img_24_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Let the merchant stock x desktop models and y portable models. The constraints are based on total demand and investment limits, and the profit function is Z = 4500x + 5000y.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Define variables for the number of desktop and portable models.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Set up the constraints based on total demand and investment.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Formulate the profit function to maximize.",
+        "expression": "Z = 4500x + 5000y"
+      }
+    ],
+    "final_answer": "The merchant should solve the linear programming problem to find the optimal values of x and y.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of linear programming concepts and setting up constraints.",
+    "topics_tags": [
+      "Linear Programming",
+      "Optimization",
+      "Profit Maximization"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image related to the linear programming problem, possibly showing constraints or a graph.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777890771/ncert/maths/12/img_24_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.15",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "linear programming",
+    "question_type": "conceptual",
+    "question_text": "A diet is to contain at least 80 units of vitamin A and 100 units of minerals. Two foods F1 and F2 are available. Food F1 costs Rs 4 per unit and F2 costs Rs 6 per unit. One unit of food F1 contains 3 units of vitamin A and 4 units of minerals. One unit of food F2 contains 6 units of vitamin A and 3 units of minerals. Formulate this as a linear programming problem. Find the minimum cost for diet that consists of mixture of these two foods and also meets the minimal nutritional requirements?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Let the diet contain x units of food F1 and y units of food F2. Therefore, x ≥ 0 and y ≥ 0. The given information can be compiled in a table as follows: Vitamin A (units) Mineral (units) Cost per unit (Rs) Food F1 (x) 3 4 4 Food F2 (y) 6 3 6 Requirement 80 100. The cost of food F1 is Rs 4 per unit and of Food F2 is Rs 6 per unit. Therefore, the constraints are 3x + 6y ≥ 80, 4x + 3y ≥ 100, x, y ≥ 0.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the linear programming formulation is established with the constraints and cost function.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of linear programming concepts and formulation.",
+    "topics_tags": [
+      "Linear Programming",
+      "Diet Problem",
+      "Constraints"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.16",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "linear programming",
+    "question_type": "numerical",
+    "question_text": "A farmer needs at least 14 kg of nitrogen and 14 kg of phosphoric acid for her crop. If fertilizer F1 costs Rs 6/kg and consists of 10% nitrogen and 6% phosphoric acid, and fertilizer F2 costs Rs 5/kg and consists of 5% nitrogen and 10% phosphoric acid, determine how much of each type of fertilizer should be used to meet the nutrient requirements at a minimum cost. What is the minimum cost?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Graphical representation of the feasible region for the fertilizer problem.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777890776/ncert/maths/12/img_29_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The minimum cost of the fertilizers is Rs 1000.",
+    "answer_latex": "Z = 6x + 5y = 1000",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set up the inequalities based on nitrogen and phosphoric acid requirements.",
+        "expression": "10x + 5y \\geq 14, \\quad 6x + 10y \\geq 14"
+      },
+      {
+        "step_number": 2,
+        "description": "Formulate the objective function to minimize the cost.",
+        "expression": "Z = 6x + 5y"
+      },
+      {
+        "step_number": 3,
+        "description": "Identify the corner points of the feasible region and calculate Z at these points.",
+        "expression": "Z = 6(100) + 5(80) = 1000"
+      }
+    ],
+    "final_answer": "Therefore, the minimum cost of the fertilizers is Rs 1000.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves setting up inequalities and solving a linear programming problem.",
+    "topics_tags": [
+      "Linear Programming",
+      "Optimization",
+      "Cost Minimization"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Graphical representation of the feasible region for the fertilizer problem.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777890776/ncert/maths/12/img_29_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.17",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "linear programming",
+    "question_type": "mcq",
+    "question_text": "The corner points of the feasible region determined by the following system of linear inequalities: Let Z = px + qy, where p, q > 0. Condition on p and q so that the maximum of Z occurs at both (3, 4) and (0, 5) is",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "p = q"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "p = 2q"
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "p = 3q"
+      },
+      {
+        "option_label": "(D)",
+        "option_text": "q = 3p"
+      }
+    ],
+    "correct_option": "(D)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The maximum value of Z is unique. It is given that the maximum value of Z occurs at two points, (3, 4) and (0, 5). Therefore, q = 3p.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set the equation for Z at both points equal to each other.",
+        "expression": "3p + 4q = 5q"
+      },
+      {
+        "step_number": 2,
+        "description": "Rearrange the equation to find the relationship between p and q.",
+        "expression": "q = 3p"
+      }
+    ],
+    "final_answer": "Hence, the correct answer is D.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of linear programming concepts and basic algebra.",
+    "topics_tags": [
+      "Linear Programming",
+      "Feasible Region",
+      "Optimization"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.18",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "linear programming",
+    "question_type": "numerical",
+    "question_text": "How many packets of each food should be used to maximize the amount of vitamin A in the diet? What is the maximum amount of vitamin A in the diet?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Graph showing the feasible region for the diet problem with corner points.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777890777/ncert/maths/12/img_32_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "To maximize the amount of vitamin A in the diet, 40 packets of food P and 15 packets of food Q should be used. The maximum amount of vitamin A in the diet is 285 units.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Formulate the objective function to maximize vitamin A.",
+        "expression": "z = 6x + 3y"
+      },
+      {
+        "step_number": 2,
+        "description": "Identify the corner points of the feasible region.",
+        "expression": "A(15, 20), B(40, 15), C(2, 72)"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the values of z at each corner point.",
+        "expression": "z(A) = 150, z(B) = 285, z(C) = 228"
+      }
+    ],
+    "final_answer": "Thus, the maximum value of z is 285 at (40, 15).",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves formulating and solving a linear programming problem with multiple steps.",
+    "topics_tags": [
+      "Linear Programming",
+      "Optimization",
+      "Diet Problem"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Graph showing the feasible region for the diet problem with corner points.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777890777/ncert/maths/12/img_32_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.19",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "linear programming",
+    "question_type": "conceptual",
+    "question_text": "A dietician wishes to mix together two kinds of food X and Y in such a way that the mixture contains at least 10 units of vitamin A, 12 units of vitamin B and 8 units of vitamin C. The vitamin content of one kg food is given below: Food Vitamin A Vitamin B Vitamin C X 1 2 3 Y 2 2 1 One kg of food X costs Rs 16 and one kg of food Y costs Rs 20. Find the least cost of the mixture which will produce the required diet?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Graphical representation of the feasible region for the linear programming problem.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777890781/ncert/maths/12/img_35_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The minimum cost of the mixture is Rs 112, achieved by using 2 kg of food X and 4 kg of food Y.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Formulate the objective function and constraints based on the vitamin requirements.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Identify the corner points of the feasible region and calculate the values of z at these points.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Determine the minimum value of z from the calculated values.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the minimum cost of the mixture is Rs 112.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves formulating a linear programming problem and analyzing the feasible region.",
+    "topics_tags": [
+      "Linear Programming",
+      "Optimization",
+      "Diet Problem"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Graphical representation of the feasible region for the linear programming problem.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777890781/ncert/maths/12/img_35_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.20",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "linear programming",
+    "question_type": "mcq",
+    "question_text": "A manufacturer makes two types of toys A and B. Three machines are needed for this purpose and the time (in minutes) required for each toy on the machines is given below: Machines Type of toys I II III A 12 18 6 B 6 0 9 Each machine is available for a maximum of 6 hours per day. If the profit on each toy of type A is Rs 7.50 and that on each toy of type B is Rs 5, show that 15 toys of type A and 30 of type B should be manufactured in a day to get maximum profit.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Table showing time required for each type of toy on three machines.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777890783/ncert/maths/12/img_37_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The maximum value of z is 262.5 at (15, 30). Thus, the manufacturer should manufacture 15 toys of type A and 30 toys of type B to maximize the profit.",
+    "answer_latex": "z = 7.5(15) + 5(30) = 262.5",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Formulate the profit function and constraints based on the problem.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Identify the corner points of the feasible region and calculate z for each.",
+        "expression": "Z = 7.5x + 5y"
+      },
+      {
+        "step_number": 3,
+        "description": "Determine the maximum profit from the calculated values.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, to maximize profit, 15 toys of type A and 30 toys of type B should be manufactured.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves formulating a linear programming problem and evaluating corner points.",
+    "topics_tags": [
+      "Linear Programming",
+      "Profit Maximization",
+      "Constraints"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Table showing time required for each type of toy on three machines.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777890783/ncert/maths/12/img_37_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.21",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "linear programming",
+    "question_type": "conceptual",
+    "question_text": "An aeroplane can carry a maximum of 200 passengers. A profit of Rs 1000 is made on each executive class ticket and a profit of Rs 600 is made on each economy class ticket. The airline reserves at least 20 seats for executive class. However, at least 4 times as many passengers prefer to travel by economy class than by the executive class. Determine how many tickets of each type must be sold in order to maximize the profit for the airline. What is the maximum profit?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Graph showing the feasible region for ticket sales.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777890785/ncert/maths/12/img_39_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The maximum profit can be calculated based on the corner points of the feasible region.",
+    "answer_latex": "z = 1000x + 600y",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Formulate the profit function and constraints based on the problem.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Identify the corner points of the feasible region and calculate z for each.",
+        "expression": "Z = 1000x + 600y"
+      },
+      {
+        "step_number": 3,
+        "description": "Determine the maximum profit from the calculated values.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the optimal number of tickets sold will maximize the profit for the airline.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves formulating a linear programming problem and evaluating corner points.",
+    "topics_tags": [
+      "Linear Programming",
+      "Profit Maximization",
+      "Airline Management"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Graph showing the feasible region for ticket sales.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777890785/ncert/maths/12/img_39_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.22",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "linear programming",
+    "question_type": "conceptual",
+    "question_text": "How should the supplies be transported in order that the transportation cost is minimum? What is the minimum cost?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram representing the transportation problem with costs from godowns to shops.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777890786/ncert/maths/12/img_41_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Let godown A supply x and y quintals of grain to the shops D and E respectively. Then, (100 − x − y) will be supplied to shop F. The requirement at shop D is 60 quintals since x quintals are transported from godown A. Therefore, the remaining (60 −x) quintals will be transported from godown B. Similarly, (50 − y) quintals and 40 − (100 − x − y) = (x + y − 60) quintals will be transported from godown B to shop E and F respectively.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Define the variables for the quantities supplied from godown A to shops D and E.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Establish the remaining quantities supplied to shop F based on the total capacity.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Set up the transportation cost function based on the quantities supplied and their respective costs.",
+        "expression": "z = 2.5x + 1.5y + 410"
+      }
+    ],
+    "final_answer": "Thus, the supplies should be transported to minimize the transportation cost, which can be calculated using the defined cost function.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of linear programming and setting up a cost function.",
+    "topics_tags": [
+      "Linear Programming",
+      "Transportation Problem",
+      "Optimization"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "mixed_or_weak_context"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram representing the transportation problem with costs from godowns to shops.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777890786/ncert/maths/12/img_41_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.23",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "linear programming",
+    "question_type": "conceptual",
+    "question_text": "An oil company has two depots A and B with capacities of 7000 L and 4000 L respectively. The company is to supply oil to three petrol pumps, D, E and F whose requirements are 4500L, 3000L and 3500L respectively. The distance (in km) between the depots and the petrol pumps is given in the following table: Assuming that the transportation cost of 10 litres of oil is Re 1 per km, how should the delivery be scheduled in order that the transportation cost is minimum? What is the minimum cost?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the distances between depots A, B and petrol pumps D, E, F.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777890790/ncert/maths/12/img_44_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Let x and y litres of oil be supplied from A to the petrol pumps, D and E. Then, (7000 − x − y) will be supplied from A to petrol pump F. The requirement at petrol pump D is 4500 L. Since x L are transported from depot A, the remaining (4500 − x) L will be transported from petrol pump B. Similarly, (3000 − y) L and 3500 − (7000 − x − y) = (x + y − 3500) L will be transported from depot B to petrol pump E and F respectively. The problem can be formulated as follows: Minimize z = 0.3x + 0.1y + 3950.",
+    "answer_latex": "z = 0.3x + 0.1y + 3950",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Define variables for the amount of oil supplied from depot A to petrol pumps D and E.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Set up the constraints based on the capacities of depots and requirements of petrol pumps.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Formulate the objective function to minimize transportation cost.",
+        "expression": "z = 0.3x + 0.1y + 3950"
+      }
+    ],
+    "final_answer": "Thus, the transportation cost can be minimized by scheduling the deliveries according to the formulated plan.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of linear programming and setting up constraints.",
+    "topics_tags": [
+      "Linear Programming",
+      "Optimization",
+      "Transportation Problem"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "mixed_or_weak_context"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the distances between depots A, B and petrol pumps D, E, F.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777890790/ncert/maths/12/img_44_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.24",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "linear programming",
+    "question_type": "numerical",
+    "question_text": "A fruit grower can use two types of fertilizer in his garden, brand P and brand Q. If the grower wants to minimize the amount of nitrogen added to the garden, how many bags of each brand should be used? What is the minimum amount of nitrogen added in the garden?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Feasible region determined by the system of constraints with corner points A, B, and C.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777890795/ncert/maths/12/img_47_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The minimum amount of nitrogen added to the garden is 470 kg, using 40 bags of brand P and 100 bags of brand Q.",
+    "answer_latex": "z = 3x + 3.5y \text{ where } x = 40, y = 100",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Formulate the objective function to minimize nitrogen.",
+        "expression": "z = 3x + 3.5y"
+      },
+      {
+        "step_number": 2,
+        "description": "Identify the corner points and evaluate the objective function at these points.",
+        "expression": "z = 3(40) + 3.5(100) = 470"
+      }
+    ],
+    "final_answer": "Thus, the minimum amount of nitrogen added to the garden is 470 kg.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves formulating a linear programming problem and evaluating at corner points.",
+    "topics_tags": [
+      "Linear Programming",
+      "Optimization",
+      "Fertilizer Usage"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Feasible region determined by the system of constraints with corner points A, B, and C.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777890795/ncert/maths/12/img_47_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.25",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "linear programming",
+    "question_type": "numerical",
+    "question_text": "Refer to question 8. If the grower wants to maximize the amount of nitrogen added to the garden, how many bags of each brand should be added? What is the maximum amount of nitrogen added?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Feasible region determined by the system of constraints with corner points A, B, and C.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777890796/ncert/maths/12/img_48_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The maximum amount of nitrogen added to the garden is 595 kg, using 140 bags of brand P and 50 bags of brand Q.",
+    "answer_latex": "z = 3x + 3.5y \text{ where } x = 140, y = 50",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Formulate the objective function to maximize nitrogen.",
+        "expression": "z = 3x + 3.5y"
+      },
+      {
+        "step_number": 2,
+        "description": "Identify the corner points and evaluate the objective function at these points.",
+        "expression": "z = 3(140) + 3.5(50) = 595"
+      }
+    ],
+    "final_answer": "Thus, the maximum amount of nitrogen added to the garden is 595 kg.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves formulating a linear programming problem and evaluating at corner points.",
+    "topics_tags": [
+      "Linear Programming",
+      "Optimization",
+      "Fertilizer Usage"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Feasible region determined by the system of constraints with corner points A, B, and C.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777890796/ncert/maths/12/img_48_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.26",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "linear programming",
+    "question_type": "mcq",
+    "question_text": "A toy company manufactures two types of dolls, A and B. Market tests and available resources have indicated that the combined production level should not exceed 1200 dolls per week and the demand for dolls of type B is at most half of that for dolls of type A. Further, the production level of dolls of type A can exceed three times the production of dolls of other type by at most 600 units. If the company makes profit of Rs 12 and Rs 16 per doll respectively on dolls A and B, how many of each should be produced weekly in order to maximize the profit?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Graph showing the feasible region for the production constraints of dolls A and B.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777890798/ncert/maths/12/img_49_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The maximum value of z is 16000 at (800, 400). Thus, 800 and 400 dolls of type A and type B should be produced respectively to get the maximum profit of Rs 16000.",
+    "answer_latex": "z = 12x + 16y, \text{ where } (x, y) = (800, 400)",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the constraints and formulate the objective function.",
+        "expression": "Maximize z = 12x + 16y"
+      },
+      {
+        "step_number": 2,
+        "description": "Evaluate the objective function at the corner points of the feasible region.",
+        "expression": "z = 12(600) + 16(0) = 7200, z = 12(1050) + 16(150) = 15000, z = 12(800) + 16(400) = 16000"
+      }
+    ],
+    "final_answer": "Therefore, to maximize profit, the company should produce 800 dolls of type A and 400 dolls of type B.",
+    "answer_image": {
+      "present": true,
+      "description": "Graph showing corner points and maximum profit calculation.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777890799/ncert/maths/12/img_50_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding constraints and evaluating multiple scenarios to find maximum profit.",
+    "topics_tags": [
+      "Linear Programming",
+      "Optimization",
+      "Profit Maximization"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Graph showing the feasible region for the production constraints of dolls A and B.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777890798/ncert/maths/12/img_49_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Graph showing corner points and maximum profit calculation.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777890799/ncert/maths/12/img_50_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  }
+]

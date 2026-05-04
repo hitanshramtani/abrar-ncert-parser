@@ -1,0 +1,1960 @@
+[
+  {
+    "question_id": "Q12.1",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "areas related to circles",
+    "question_type": "numerical",
+    "question_text": "The radii of two circles are 19 cm and 9 cm respectively. Find the radius of the circle which has circumference equal to the sum of the circumferences of the two circles.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, the radius of the circle which has circumference equal to the sum of the circumference of the given two circles is 28 cm.",
+    "answer_latex": "r = 28 \text{ cm}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the circumference of the first circle.",
+        "expression": "C_1 = 2\\pi(19) = 38\\pi"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the circumference of the second circle.",
+        "expression": "C_2 = 2\\pi(9) = 18\\pi"
+      },
+      {
+        "step_number": 3,
+        "description": "Set the circumference of the third circle equal to the sum of the first two.",
+        "expression": "C_3 = C_1 + C_2 = 38\\pi + 18\\pi = 56\\pi"
+      },
+      {
+        "step_number": 4,
+        "description": "Solve for the radius of the third circle.",
+        "expression": "2\\pi r = 56\\pi \\Rightarrow r = 28"
+      }
+    ],
+    "final_answer": "Thus, the radius of the circle is 28 cm.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of circumference and basic algebra.",
+    "topics_tags": [
+      "Circumference",
+      "Circles",
+      "Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.2",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "areas related to circles",
+    "question_type": "numerical",
+    "question_text": "The radii of two circles are 8 cm and 6 cm respectively. Find the radius of the circle having area equal to the sum of the areas of the two circles.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, the radius of the circle having area equal to the sum of the areas of the two circles is 10 cm.",
+    "answer_latex": "r = 10 \text{ cm}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the area of the first circle.",
+        "expression": "A_1 = \\pi(8^2) = 64\\pi"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the area of the second circle.",
+        "expression": "A_2 = \\pi(6^2) = 36\\pi"
+      },
+      {
+        "step_number": 3,
+        "description": "Set the area of the third circle equal to the sum of the first two.",
+        "expression": "A_3 = A_1 + A_2 = 64\\pi + 36\\pi = 100\\pi"
+      },
+      {
+        "step_number": 4,
+        "description": "Solve for the radius of the third circle.",
+        "expression": "\\pi r^2 = 100\\pi \\Rightarrow r^2 = 100 \\Rightarrow r = 10"
+      }
+    ],
+    "final_answer": "Thus, the radius of the circle is 10 cm.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of area and basic algebra.",
+    "topics_tags": [
+      "Area",
+      "Circles",
+      "Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.3",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "areas related to circles",
+    "question_type": "numerical",
+    "question_text": "Given figure depicts an archery target marked with its five scoring areas from the centre outwards as Gold, Red, Blue, Black and White. The diameter of the region representing Gold score is 21 cm and each of the other bands is 10.5 cm wide. Find the area of each of the five scoring regions.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, areas of gold, red, blue, black, and white regions are 346.5 cm², 1039.5 cm², 1732.5 cm², 2425.5 cm², and 3118.5 cm² respectively.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the radius of each scoring region based on the given widths.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the area of the gold region.",
+        "expression": "A_{gold} = \\pi(10.5)^{2} = 346.5\\pi"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the area of the red region.",
+        "expression": "A_{red} = \\pi(21)^{2} - \\pi(10.5)^{2} = 441\\pi - 110.25\\pi = 330.75\\pi"
+      },
+      {
+        "step_number": 4,
+        "description": "Calculate the area of the blue region.",
+        "expression": "A_{blue} = \\pi(31.5)^{2} - \\pi(21)^{2} = 992.25\\pi - 441\\pi = 551.25\\pi"
+      },
+      {
+        "step_number": 5,
+        "description": "Calculate the area of the black region.",
+        "expression": "A_{black} = \\pi(42)^{2} - \\pi(31.5)^{2} = 1764\\pi - 992.25\\pi = 771.75\\pi"
+      },
+      {
+        "step_number": 6,
+        "description": "Calculate the area of the white region.",
+        "expression": "A_{white} = \\pi(52.5)^{2} - \\pi(42)^{2} = 2756.25\\pi - 1764\\pi = 992.25\\pi"
+      }
+    ],
+    "final_answer": "Thus, the areas of the five regions are 346.5 cm², 1039.5 cm², 1732.5 cm², 2425.5 cm², and 3118.5 cm².",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram of an archery target with five scoring areas.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777655760/ncert/maths/12/img_2_0.png",
+      "latex_extracted": "\\begin{array}{l}{{\\pi r^{2}=\\pi r_{1}^{2}+\\pi r_{2}^{2}}}\\\\ {{\\pi r^{2}=64\\pi+36\\pi}}\\\\ {{\\pi r^{2}=100\\pi}}\\\\ {{r=\\pm10}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations and understanding of areas.",
+    "topics_tags": [
+      "Area",
+      "Archery Target",
+      "Geometry"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram of an archery target with five scoring areas.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777655760/ncert/maths/12/img_2_0.png",
+        "latex_extracted": "\\begin{array}{l}{{\\pi r^{2}=\\pi r_{1}^{2}+\\pi r_{2}^{2}}}\\\\ {{\\pi r^{2}=64\\pi+36\\pi}}\\\\ {{\\pi r^{2}=100\\pi}}\\\\ {{r=\\pm10}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q12.4",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "areas related to circles",
+    "question_type": "numerical",
+    "question_text": "The wheels of a car are of diameter 80 cm each. How many complete revolutions does each wheel make in 10 minutes when the car is traveling at a speed of 66 km per hour?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical calculation showing the relationship between speed, distance, and revolutions of the wheel.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777655783/ncert/maths/12/img_4_0.png",
+      "latex_extracted": "={\\frac{66\\times100000}{60}}\\ {\\mathrm{cminin}}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Each wheel of the car will make 4375 revolutions.",
+    "answer_latex": "n={\\frac{35000}{8}}=4375",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the circumference of the wheel using the formula 2πr.",
+        "expression": "Circumference = 2\\pi(40) = 80\\pi \\text{ cm}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the distance travelled by the car in 10 minutes.",
+        "expression": "Distance = 66 \\times \\frac{100000}{60} \\times 10 = 1100000 \\text{ cm}"
+      },
+      {
+        "step_number": 3,
+        "description": "Set up the equation for the number of revolutions.",
+        "expression": "n \\times 80\\pi = 1100000"
+      },
+      {
+        "step_number": 4,
+        "description": "Solve for n to find the number of revolutions.",
+        "expression": "n = \\frac{1100000}{80\\pi} = 4375"
+      }
+    ],
+    "final_answer": "Therefore, each wheel of the car will make 4375 revolutions.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps of calculation and understanding of the relationship between distance and revolutions.",
+    "topics_tags": [
+      "Revolutions",
+      "Circumference",
+      "Speed",
+      "Distance"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical calculation showing the relationship between speed, distance, and revolutions of the wheel.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777655783/ncert/maths/12/img_4_0.png",
+        "latex_extracted": "={\\frac{66\\times100000}{60}}\\ {\\mathrm{cminin}}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.5",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "areas related to circles",
+    "question_type": "mcq",
+    "question_text": "If the perimeter and the area of a circle are numerically equal, then the radius of the circle is?",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "2 units"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "π units"
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "4 units"
+      },
+      {
+        "option_label": "(D)",
+        "option_text": "7 units"
+      }
+    ],
+    "correct_option": "(A)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, the radius of the circle is 2 units.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set the equation for perimeter and area: 2πr = πr².",
+        "expression": "2\\pi r = \\pi r^2"
+      },
+      {
+        "step_number": 2,
+        "description": "Simplify the equation to find r.",
+        "expression": "2 = r"
+      }
+    ],
+    "final_answer": "Hence, the correct answer is A.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of the relationship between perimeter and area of a circle.",
+    "topics_tags": [
+      "Circle",
+      "Perimeter",
+      "Area",
+      "Radius"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.6",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "areas related to circles",
+    "question_type": "multipart",
+    "question_text": "A chord of a circle of radius 15 cm subtends an angle of 60° at the centre. Find the areas of the corresponding minor and major segments of the circle.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of the area of sector and triangle related to the circle.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777655801/ncert/maths/12/img_9_0.png",
+      "latex_extracted": "{\\frac{1}{6}}\\ll{\\frac{22}{7}}\\times21\\times21",
+      "source_page_number": 9,
+      "source_image_index": 0,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "Find the area of the minor segment.",
+        "part_latex": null,
+        "answer_text": "The area of the minor segment is calculated as the area of the sector minus the area of the triangle.",
+        "answer_latex": "=\\left(231-{\\frac{441{\\sqrt{3}}}{4}}\\right){\\mathrm{cm}}^{2}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the area of the sector using the formula.",
+            "expression": "{\\frac{1}{6}}\\ll{\\frac{22}{7}}\\times21\\times21"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the area of triangle OAB.",
+            "expression": null
+          },
+          {
+            "step_number": 3,
+            "description": "Subtract the area of triangle OAB from the area of the sector to find the minor segment.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, the area of the minor segment is calculated.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [
+          {
+            "present": true,
+            "description": "Mathematical representation of the area of segment.",
+            "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777655802/ncert/maths/12/img_9_1.png",
+            "latex_extracted": null,
+            "source_page_number": null,
+            "source_image_index": null,
+            "ownership": "question"
+          }
+        ],
+        "answer_images": [],
+        "question_image": {
+          "present": true,
+          "description": "Mathematical representation of the area of segment.",
+          "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777655802/ncert/maths/12/img_9_1.png",
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "question"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "Find the area of the major segment.",
+        "part_latex": null,
+        "answer_text": "The area of the major segment can be found by subtracting the area of the minor segment from the total area of the circle.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the total area of the circle using the formula πr².",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Subtract the area of the minor segment from the total area to find the major segment.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Therefore, the area of the major segment is determined.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations and understanding of segments and sectors.",
+    "topics_tags": [
+      "Circle",
+      "Segment",
+      "Sector",
+      "Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the area of sector and triangle related to the circle.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777655801/ncert/maths/12/img_9_0.png",
+        "latex_extracted": "{\\frac{1}{6}}\\ll{\\frac{22}{7}}\\times21\\times21",
+        "source_page_number": 9,
+        "source_image_index": 0,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.7",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "areas related to circles",
+    "question_type": "numerical",
+    "question_text": "A chord of a circle of radius 12 cm subtends an angle of 120° at the centre. Find the area of the corresponding segment of the circle.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The area of the segment is calculated by subtracting the area of triangle OST from the area of sector OSUT.",
+    "answer_latex": "Area_{segment} = Area_{sector} - Area_{triangle} = 150.72 - 62.28 = 88.44 \\, cm^{2}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the area of the sector using the formula for the area of a sector.",
+        "expression": "Area_{sector} = \\frac{120^{\\circ}}{360^{\\circ}} \\pi r^{2} = \\frac{1}{3} \\times 3.14 \\times (12)^{2}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the area of triangle OST using the formula for the area of a triangle.",
+        "expression": "Area_{triangle} = \\frac{1}{2} \\times base \\times height"
+      },
+      {
+        "step_number": 3,
+        "description": "Subtract the area of triangle from the area of sector to find the area of the segment.",
+        "expression": "Area_{segment} = Area_{sector} - Area_{triangle}"
+      }
+    ],
+    "final_answer": "Therefore, the area of the corresponding segment of the circle is 88.44 cm².",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing a circle with a chord subtending an angle at the center.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777655810/ncert/maths/12/img_11_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps of calculation including area formulas.",
+    "topics_tags": [
+      "Circle",
+      "Segment",
+      "Area",
+      "Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing a circle with a chord subtending an angle at the center.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777655810/ncert/maths/12/img_11_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q12.8",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "areas related to circles",
+    "question_type": "multipart",
+    "question_text": "A horse is tied to a peg at one corner of a square shaped grass field of side 15 m by means of a 5 m long rope. Find (i) The area of that part of the field in which the horse can graze. (ii) The increase in the grazing area if the rope were 10 m long instead of 5 m.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "The area of that part of the field in which the horse can graze.",
+        "part_latex": null,
+        "answer_text": "The area that can be grazed by the horse is the area of the sector formed by the rope.",
+        "answer_latex": "Area_{grazed} = \\frac{90^{\\circ}}{360^{\\circ}} \\pi (5)^{2} = \\frac{1}{4} \\times 3.14 \\times 25 = 19.625 \\, m^{2}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the area of the sector using the formula for the area of a sector.",
+            "expression": "Area_{grazed} = \\frac{90^{\\circ}}{360^{\\circ}} \\pi r^{2}"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the radius into the formula.",
+            "expression": "Area_{grazed} = \\frac{1}{4} \\times 3.14 \\times (5)^{2}"
+          }
+        ],
+        "final_answer": "Therefore, the area that can be grazed by the horse is 19.625 m².",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "The increase in the grazing area if the rope were 10 m long instead of 5 m.",
+        "part_latex": null,
+        "answer_text": "The area that can be grazed by the horse with a 10 m rope is larger, calculated similarly.",
+        "answer_latex": "Area_{grazed} = \\frac{90^{\\circ}}{360^{\\circ}} \\pi (10)^{2} = \\frac{1}{4} \\times 3.14 \\times 100 = 78.5 \\, m^{2}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the area of the sector for the 10 m rope.",
+            "expression": "Area_{grazed} = \\frac{90^{\\circ}}{360^{\\circ}} \\pi (10)^{2}"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the radius into the formula.",
+            "expression": "Area_{grazed} = \\frac{1}{4} \\times 3.14 \\times (10)^{2}"
+          }
+        ],
+        "final_answer": "Therefore, the area that can be grazed by the horse with a 10 m rope is 78.5 m².",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of sector area and involves calculations for two different scenarios.",
+    "topics_tags": [
+      "Grazing Area",
+      "Circle",
+      "Sector",
+      "Geometry"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing a horse tied to a peg at a corner of a square field.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777655815/ncert/maths/12/img_12_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ],
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing a horse tied to a peg at a corner of a square field.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777655815/ncert/maths/12/img_12_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    }
+  },
+  {
+    "question_id": "Q12.9",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "areas related to circles",
+    "question_type": "multipart",
+    "question_text": "A brooch is made with silver wire in the form of a circle with diameter 35 mm. The wire is also used in making 5 diameters which divide the circle into 10 equal sectors as shown in figure. Find. (i) The total length of the silver wire required. (ii) The area of each sector of the brooch.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the brooch divided into sectors with diameters.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777655828/ncert/maths/12/img_13_0.png",
+      "latex_extracted": "={\\frac{90^{\\circ}}{360^{\\circ}}}\\times\\pi\\times\\left(10\\right)^{2}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "The total length of the silver wire required.",
+        "part_latex": null,
+        "answer_text": "The total length of wire required will be the length of 5 diameters and the circumference of the brooch.",
+        "answer_latex": "Length = 110 + 5 \\times 35 = 285 \\text{ mm}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the radius of the circle.",
+            "expression": "r = \\frac{35}{2} = 17.5 \\text{ mm}"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the circumference of the brooch.",
+            "expression": "C = 2\\pi r = 2\\pi(17.5) \\approx 110 \\text{ mm}"
+          },
+          {
+            "step_number": 3,
+            "description": "Calculate the total length of wire required.",
+            "expression": "Length = 110 + 5 \\times 35 = 285 \\text{ mm}"
+          }
+        ],
+        "final_answer": "Therefore, the total length of the silver wire required is 285 mm.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "The area of each sector of the brooch.",
+        "part_latex": null,
+        "answer_text": "Each of the 10 sectors of the circle is subtending 36° at the centre of the circle.",
+        "answer_latex": "Area_{sector} = \\frac{36^{\\circ}}{360^{\\circ}} \\times \\pi \\times (17.5)^{2}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the area of each sector using the formula for the area of a sector.",
+            "expression": "Area_{sector} = \\frac{36^{\\circ}}{360^{\\circ}} \\times \\pi \\times (17.5)^{2}"
+          }
+        ],
+        "final_answer": "Thus, the area of each sector of the brooch is calculated using the sector area formula.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of circumference and area of a sector, involving multiple calculations.",
+    "topics_tags": [
+      "Circle",
+      "Circumference",
+      "Area of Sector"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the brooch divided into sectors with diameters.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777655828/ncert/maths/12/img_13_0.png",
+        "latex_extracted": "={\\frac{90^{\\circ}}{360^{\\circ}}}\\times\\pi\\times\\left(10\\right)^{2}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.10",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "areas related to circles",
+    "question_type": "numerical",
+    "question_text": "A round table cover has six equal designs as shown in figure. If the radius of the cover is 28 cm, find the cost of making the designs at the rate of Rs.0.35 per cm².",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Figure showing a round table cover with six equal designs.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777655848/ncert/maths/12/img_16_1.png",
+      "latex_extracted": "\\begin{array}{c}{{=\\frac29\\times3.14\\times16.5\\times16.5}}\\\\ {{\\frac9{9}}}\\\\ {{=189.97\\;{\\bf k}{\\bf m}^{2}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The cost of making such designs is Rs 162.68.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the area of the designs using the formula for the area of a sector.",
+        "expression": "=\\frac{1}{6}\\times\\frac{22}{7}\\times28\\times28"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the total cost based on the area and the cost per cm².",
+        "expression": "Cost = Area \\times 0.35"
+      }
+    ],
+    "final_answer": "Therefore, the cost of making such designs is Rs 162.68.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves area calculation and cost estimation.",
+    "topics_tags": [
+      "Area of Circle",
+      "Cost Calculation",
+      "Sector"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Figure showing a round table cover with six equal designs.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777655848/ncert/maths/12/img_16_1.png",
+        "latex_extracted": "\\begin{array}{c}{{=\\frac29\\times3.14\\times16.5\\times16.5}}\\\\ {{\\frac9{9}}}\\\\ {{=189.97\\;{\\bf k}{\\bf m}^{2}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.11",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "areas related to circles",
+    "question_type": "numerical",
+    "question_text": "Find the area of the shaded region in the given figure, if radii of the two concentric circles with centre O are 7 cm and 14 cm respectively and ∠AOC = 40°.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing two concentric circles with a shaded region and angle AOC marked.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777655867/ncert/maths/12/img_19_0.jpg",
+      "latex_extracted": "\\left\\langle\\begin{array}{c}{{\\displaystyle{\\cal{J}}^{\\displaystyle{\\cal{J}}}^{\\displaystyle{\\displaystyle{\\cal{J}}}\\rightarrow}}}\\\\ {{\\displaystyle{\\bar{\\cal{A}}}^{\\displaystyle{\\frac{3}{\\displaystyle{\\theta}}}}\\end{array}}}\\end{array}\\right\\rangle",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Area of shaded region = Area of sector OAFC - Area of sector OBED.",
+    "answer_latex": "Area_{shaded} = \\frac{40}{360} \\times \\pi (14)^2 - \\frac{40}{360} \\times \\pi (7)^2",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the area of sector OAFC using the formula for the area of a sector.",
+        "expression": "Area_{sector} = \\frac{\\theta}{360} \\times \\pi r^2"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values for the outer circle.",
+        "expression": "Area_{OAFC} = \\frac{40}{360} \\times \\pi (14)^2"
+      },
+      {
+        "step_number": 3,
+        "description": "Substitute the values for the inner circle.",
+        "expression": "Area_{OBED} = \\frac{40}{360} \\times \\pi (7)^2"
+      },
+      {
+        "step_number": 4,
+        "description": "Calculate the area of the shaded region by subtracting the two areas.",
+        "expression": "Area_{shaded} = Area_{OAFC} - Area_{OBED}"
+      }
+    ],
+    "final_answer": "Therefore, the area of the shaded region can be calculated using the above formula.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multi-step calculations and understanding of sector areas.",
+    "topics_tags": [
+      "Circle Area",
+      "Sector",
+      "Concentric Circles"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing two concentric circles with a shaded region and angle AOC marked.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777655867/ncert/maths/12/img_19_0.jpg",
+        "latex_extracted": "\\left\\langle\\begin{array}{c}{{\\displaystyle{\\cal{J}}^{\\displaystyle{\\cal{J}}}^{\\displaystyle{\\displaystyle{\\cal{J}}}\\rightarrow}}}\\\\ {{\\displaystyle{\\bar{\\cal{A}}}^{\\displaystyle{\\frac{3}{\\displaystyle{\\theta}}}}\\end{array}}}\\end{array}\\right\\rangle",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.12",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "areas related to circles",
+    "question_type": "numerical",
+    "question_text": "Find the area of the shaded region in the given figure, if ABCD is a square of side 14 cm and APD and BPC are semicircles.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing a square with semicircles on two sides.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777655872/ncert/maths/12/img_20_0.jpg",
+      "latex_extracted": "\\left|\\begin{array}{c}{{\\displaystyle{\\gamma\\left|\\displaystyle{\\frac{1\\times\\left|{\\bf\\times}\\times{\\bf\\nabla}\\times\\mathbf{\\sigma}}-\\right|}{\\sqrt{{\\bf\\chi}}\\right|}}}}\\\\ {{\\left|\\displaystyle{\\left|\\vphantom{\\nabla\\times\\left|{\\frac{\\vphantom{\\cdot}{\\cdot}}\\right|}{\\langle{\\frac{\\vphantom{{\\bf\\chi}}}{\\vphantom{\\Delta}}}}\\right|}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Area of the shaded region = Area of square ABCD - Area of semi-circle APD - Area of semi-circle BPC.",
+    "answer_latex": "Area_{shaded} = 196 - 77 - 77 = 42 \\text{ cm}^2",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the area of the square ABCD.",
+        "expression": "Area_{ABCD} = (14)^2 = 196 \\text{ cm}^2"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the area of each semicircle.",
+        "expression": "Area_{semicircle} = \\frac{1}{2} \\times \\pi (7)^2 = 77 \\text{ cm}^2"
+      },
+      {
+        "step_number": 3,
+        "description": "Subtract the areas of the semicircles from the area of the square.",
+        "expression": "Area_{shaded} = 196 - 77 - 77"
+      }
+    ],
+    "final_answer": "Therefore, the area of the shaded region is 42 cm².",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires basic area calculations and understanding of semicircles.",
+    "topics_tags": [
+      "Area of Square",
+      "Semicircle",
+      "Shaded Region"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing a square with semicircles on two sides.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777655872/ncert/maths/12/img_20_0.jpg",
+        "latex_extracted": "\\left|\\begin{array}{c}{{\\displaystyle{\\gamma\\left|\\displaystyle{\\frac{1\\times\\left|{\\bf\\times}\\times{\\bf\\nabla}\\times\\mathbf{\\sigma}}-\\right|}{\\sqrt{{\\bf\\chi}}\\right|}}}}\\\\ {{\\left|\\displaystyle{\\left|\\vphantom{\\nabla\\times\\left|{\\frac{\\vphantom{\\cdot}{\\cdot}}\\right|}{\\langle{\\frac{\\vphantom{{\\bf\\chi}}}{\\vphantom{\\Delta}}}}\\right|}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.13",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "areas related to circles",
+    "question_type": "numerical",
+    "question_text": "Find the area of the shaded region in the given figure, where a circular arc of radius 6 cm has been drawn with vertex O of an equilateral triangle OAB of side 12 cm as centre.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing an equilateral triangle with a circular arc.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777655877/ncert/maths/12/img_21_0.jpg",
+      "latex_extracted": "\\begin{array}{c}{{\\displaystyle\\left<\\begin{array}{c}{{<}}\\\\ {{\\displaystyle\\sim}}\\\\ {{\\displaystyle\\left<\\begin{array}{c}{{\\displaystyle\\star}}\\\\ {{\\displaystyle\\Lambda}}\\end{array}\\right>}}\\\\ {{\\displaystyle\\left<\\begin{array}{c}{{\\displaystyle\\exp}}\\\\ {{\\displaystyle\\Lambda}}\\end{array}\\right.}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Area of shaded region = Area of ΔOAB + Area of circle - Area of sector OCDE.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the area of the equilateral triangle OAB.",
+        "expression": "Area_{OAB} = \\frac{\\sqrt{3}}{4} \\times (12)^2"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the area of the circle with radius 6 cm.",
+        "expression": "Area_{circle} = \\pi (6)^2"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the area of the sector OCDE.",
+        "expression": "Area_{sector} = \\frac{60}{360} \\times \\pi (6)^2"
+      },
+      {
+        "step_number": 4,
+        "description": "Combine the areas to find the shaded region.",
+        "expression": "Area_{shaded} = Area_{OAB} + Area_{circle} - Area_{sector}"
+      }
+    ],
+    "final_answer": "Therefore, the area of the shaded region can be calculated using the above formula.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of triangle and circle areas, requires multiple calculations.",
+    "topics_tags": [
+      "Equilateral Triangle",
+      "Circle Area",
+      "Shaded Region"
+    ],
+    "confidence_score": 0.94,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing an equilateral triangle with a circular arc.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777655877/ncert/maths/12/img_21_0.jpg",
+        "latex_extracted": "\\begin{array}{c}{{\\displaystyle\\left<\\begin{array}{c}{{<}}\\\\ {{\\displaystyle\\sim}}\\\\ {{\\displaystyle\\left<\\begin{array}{c}{{\\displaystyle\\star}}\\\\ {{\\displaystyle\\Lambda}}\\end{array}\\right>}}\\\\ {{\\displaystyle\\left<\\begin{array}{c}{{\\displaystyle\\exp}}\\\\ {{\\displaystyle\\Lambda}}\\end{array}\\right.}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.14",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "areas related to circles",
+    "question_type": "numerical",
+    "question_text": "From each corner of a square of side 4 cm a quadrant of a circle of radius 1 cm is cut and also a circle of diameter 2 cm is cut as shown in the given figure. Find the area of the remaining portion of the square.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing a square with quadrants cut from each corner and a circle cut from the center.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777655892/ncert/maths/12/img_22_0.png",
+      "latex_extracted": "\\begin{array}{c}{{=36\\sqrt{3}+\\frac{792}{7}-\\frac{132}{7}}}\\\\ {{=\\left(36\\sqrt{3}+\\frac{660}{7}\\right){\\mathrm{cm}}^{2}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Area of the remaining portion of the square is calculated by subtracting the area of the circle and the quadrants from the area of the square.",
+    "answer_latex": "Area_{remaining} = Area_{square} - Area_{circle} - 4 \\times Area_{quadrant}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the area of the square.",
+        "expression": "Area_{square} = (4)^2 = 16 \\text{ cm}^2"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the area of the circle.",
+        "expression": "Area_{circle} = \\pi (1)^2 = \\pi \\text{ cm}^2"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the area of one quadrant.",
+        "expression": "Area_{quadrant} = \\frac{1}{4} \\pi (1)^2 = \\frac{\\pi}{4} \\text{ cm}^2"
+      },
+      {
+        "step_number": 4,
+        "description": "Calculate the total area of the quadrants.",
+        "expression": "Total \\ Area_{quadrants} = 4 \\times \\frac{\\pi}{4} = \\pi \\text{ cm}^2"
+      },
+      {
+        "step_number": 5,
+        "description": "Combine all areas to find the remaining area.",
+        "expression": "Area_{remaining} = 16 - \\pi - \\pi = 16 - 2\\pi \\text{ cm}^2"
+      }
+    ],
+    "final_answer": "Therefore, the area of the remaining portion of the square is 16 - 2\\pi cm².",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations and understanding of area subtraction.",
+    "topics_tags": [
+      "Area of Circle",
+      "Quadrants",
+      "Square",
+      "Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing a square with quadrants cut from each corner and a circle cut from the center.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777655892/ncert/maths/12/img_22_0.png",
+        "latex_extracted": "\\begin{array}{c}{{=36\\sqrt{3}+\\frac{792}{7}-\\frac{132}{7}}}\\\\ {{=\\left(36\\sqrt{3}+\\frac{660}{7}\\right){\\mathrm{cm}}^{2}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.15",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "areas related to circles",
+    "question_type": "numerical",
+    "question_text": "In the given figure, ABCD is a square of side 14 cm. With centres A, B, C and D, four circles are drawn such that each circle touches externally two of the remaining three circles. Find the area of the shaded region.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, the area of shaded portion is 42 cm².",
+    "answer_latex": "42~\\mathrm{cm}^{2}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the area of square ABCD.",
+        "expression": "Area = (14)^2 = 196~\\mathrm{cm}^2"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the area of each sector (90° sector of radius 7 cm).",
+        "expression": "Area_{sector} = \\frac{1}{4} \\times \\pi r^2 = \\frac{1}{4} \\times \\frac{22}{7} \\times 7^2 = \\frac{77}{2}~\\mathrm{cm}^2"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the total area of the 4 sectors.",
+        "expression": "Total~Area_{sectors} = 4 \\times \\frac{77}{2} = 154~\\mathrm{cm}^2"
+      },
+      {
+        "step_number": 4,
+        "description": "Calculate the area of the shaded region.",
+        "expression": "Area_{shaded} = Area_{square} - Total~Area_{sectors} = 196 - 154 = 42~\\mathrm{cm}^2"
+      }
+    ],
+    "final_answer": "Therefore, the area of shaded portion is 42 cm².",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing a square with four circles touching each other at the corners.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777655908/ncert/maths/12/img_25_0.jpg",
+      "latex_extracted": "\\begin{array}{c}{{\\left(\\begin{array}{c}{{<}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\end{array}\\right)\\begin{array}{+}{{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\end{array}\\right)}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of area calculations and basic geometry.",
+    "topics_tags": [
+      "Area of Circle",
+      "Square",
+      "Sector"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing a square with four circles touching each other at the corners.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777655908/ncert/maths/12/img_25_0.jpg",
+        "latex_extracted": "\\begin{array}{c}{{\\left(\\begin{array}{c}{{<}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\end{array}\\right)\\begin{array}{+}{{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\end{array}\\right)}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q12.16",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "areas related to circles",
+    "question_type": "numerical",
+    "question_text": "The given figure depicts a racing track whose left and right ends are semicircular. The distance between the two inner parallel line segments is 60 m and they are each 106 m long. If the track is 10 m wide, find: (i) The distance around the track along its inner edge (ii) The area of the track.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing a racing track with semicircular ends and parallel segments.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777655928/ncert/maths/12/img_27_0.png",
+      "latex_extracted": "\\begin{array}{l}{{=106+\\frac{1}{2}\\times2\\pi r+106+\\frac{1}{2}\\times2\\pi r}}\\\\ {{=212+\\frac{1}{7}\\times2\\times\\frac{22}{7}\\times30+\\frac{1}{2}\\times2\\times\\frac{22}{7}\\times30}}\\\\ {{=\\frac{1484+1320}{7}=\\frac{1484+1320}{7}=\\frac{2804}{7}\\mathrm{~m}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "The distance around the track along its inner edge.",
+        "part_latex": null,
+        "answer_text": "The distance around the track along its inner edge is 280.4 m.",
+        "answer_latex": "\\frac{2804}{7}~\\mathrm{m}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the distance along the straight segments.",
+            "expression": "2 \\times 106 = 212~\\mathrm{m}"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the distance along the semicircular ends.",
+            "expression": "2 \\times \\frac{1}{2} \\times 2 \\pi r = 2 \\times \\frac{22}{7} \\times 30 = 1320~\\mathrm{m}"
+          },
+          {
+            "step_number": 3,
+            "description": "Add both distances to find the total distance.",
+            "expression": "212 + 1320 = 1532~\\mathrm{m}"
+          }
+        ],
+        "final_answer": "The distance around the track along its inner edge is 280.4 m.",
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "The area of the track.",
+        "part_latex": null,
+        "answer_text": "Therefore, the area of the track is 4320 m².",
+        "answer_latex": "4320~\\mathrm{m}^{2}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the area of the track using the formula.",
+            "expression": "Area = (Area of GHIJ - Area of ABCD) + (Area of semi-circle HKI - Area of semi-circle BEC) + (Area of semi-circle GLJ - Area of semi-circle AFD)"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the known values to find the area.",
+            "expression": "Area = 4320~\\mathrm{m}^{2}"
+          }
+        ],
+        "final_answer": "Therefore, the area of the track is 4320 m².",
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations and understanding of geometry.",
+    "topics_tags": [
+      "Racing Track",
+      "Semicircle",
+      "Area"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing a racing track with semicircular ends and parallel segments.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777655928/ncert/maths/12/img_27_0.png",
+        "latex_extracted": "\\begin{array}{l}{{=106+\\frac{1}{2}\\times2\\pi r+106+\\frac{1}{2}\\times2\\pi r}}\\\\ {{=212+\\frac{1}{7}\\times2\\times\\frac{22}{7}\\times30+\\frac{1}{2}\\times2\\times\\frac{22}{7}\\times30}}\\\\ {{=\\frac{1484+1320}{7}=\\frac{1484+1320}{7}=\\frac{2804}{7}\\mathrm{~m}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.17",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "areas related to circles",
+    "question_type": "conceptual",
+    "question_text": "The area of an equilateral triangle ABC is 17320.5 cm². With each vertex of the triangle as centre, a circle is drawn with radius equal to half the length of the side of the triangle (See the given figure). Find the area of the shaded region. [Use π = 3.14]",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the equilateral triangle ABC with circles drawn at each vertex.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777655943/ncert/maths/12/img_29_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The area of the shaded region is 1620.5 cm².",
+    "answer_latex": "A_{shaded} = 17320.5 - 3 \\times \\frac{15700}{3} = 1620.5 \\mathrm{~cm}^{2}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the area of the equilateral triangle and the area of the sectors.",
+        "expression": "A_{triangle} = 17320.5 \\mathrm{~cm}^{2}, A_{sector} = \\frac{1}{6} \\times \\pi \\times (100)^{2}"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values to find the area of the shaded region.",
+        "expression": "A_{shaded} = 17320.5 - 3 \\times \\frac{15700}{3}"
+      }
+    ],
+    "final_answer": "Therefore, the area of the shaded region is 1620.5 cm².",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of area calculations and multi-step reasoning.",
+    "topics_tags": [
+      "Equilateral Triangle",
+      "Area",
+      "Circle"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the equilateral triangle ABC with circles drawn at each vertex.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777655943/ncert/maths/12/img_29_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.18",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "areas related to circles",
+    "question_type": "multipart",
+    "question_text": "In the given figure, OACB is a quadrant of circle with centre O and radius 3.5 cm. If OD = 2 cm, find the area of the (i) Quadrant OACB (ii) Shaded region.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_images": [],
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "Find the area of the Quadrant OACB.",
+        "part_latex": null,
+        "answer_text": "The area of the quadrant OACB is calculated as \\frac{1}{4} \\times \\pi \\times (3.5)^2.",
+        "answer_latex": "\\text{Area} = \\frac{1}{4} \\times \\frac{22}{7} \\times (3.5)^2 = \\frac{11}{8} \\text{ cm}^2",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify that the area of a quadrant is one-fourth of the area of the circle.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the radius into the area formula.",
+            "expression": "\\text{Area} = \\frac{1}{4} \\times \\frac{22}{7} \\times (3.5)^2"
+          }
+        ],
+        "final_answer": "Thus, the area of the quadrant OACB is \\frac{11}{8} \\text{ cm}^2.",
+        "answer_images": [],
+        "question_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "Find the area of the Shaded region.",
+        "part_latex": null,
+        "answer_text": "The area of the shaded region is the area of the quadrant OACB minus the area of triangle OBD.",
+        "answer_latex": "A_{shaded} = A_{quadrant} - A_{\\Delta OBD}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the area of triangle OBD using the formula for the area of a triangle.",
+            "expression": "A_{\\Delta OBD} = \\frac{1}{2} \\times base \\times height = \\frac{1}{2} \\times 2 \\times 3.5"
+          },
+          {
+            "step_number": 2,
+            "description": "Subtract the area of triangle OBD from the area of the quadrant.",
+            "expression": "A_{shaded} = A_{quadrant} - A_{\\Delta OBD}"
+          }
+        ],
+        "final_answer": "Therefore, the area of the shaded region is calculated accordingly.",
+        "answer_images": [],
+        "question_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the quadrant OACB with radius and dimensions labeled.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777655973/ncert/maths/12/img_32_0.jpg",
+        "latex_extracted": "\\begin{array}{c}{{c_{\\star}{\\mathcal{L}}^{<^{-}{\\overset{\\textstyle}{\\boldsymbol{\\Gamma}}}}}}\\\\ {{\\left|{\\mathcal{L}}^{\\star}\\right.}}\\end{array}",
+        "source_page_number": 32,
+        "source_image_index": 0,
+        "ownership": "answer"
+      }
+    ],
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of area calculations for both a quadrant and a triangle.",
+    "topics_tags": [
+      "Quadrant",
+      "Area",
+      "Circle",
+      "Triangle"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "Some context may be missing from the images."
+    ],
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the quadrant OACB with radius and dimensions labeled.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777655973/ncert/maths/12/img_32_0.jpg",
+      "latex_extracted": "\\begin{array}{c}{{c_{\\star}{\\mathcal{L}}^{<^{-}{\\overset{\\textstyle}{\\boldsymbol{\\Gamma}}}}}}\\\\ {{\\left|{\\mathcal{L}}^{\\star}\\right.}}\\end{array}",
+      "source_page_number": 32,
+      "source_image_index": 0,
+      "ownership": "answer"
+    }
+  },
+  {
+    "question_id": "Q12.19",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "areas related to circles",
+    "question_type": "numerical",
+    "question_text": "AB and CD are respectively arcs of two concentric circles of radii 21 cm and 7 cm and centre O. If ∠AOB = 30°, find the area of the shaded region.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Area of the shaded region = Area of sector OAEB - Area of sector OCFD.",
+    "answer_latex": "Area = \\frac{30^{\\circ}}{360^{\\circ}} \\times \\pi \\times (21)^{2} - \\frac{30^{\\circ}}{360^{\\circ}} \\times \\pi \\times (7)^{2}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the area of sector OAEB using the formula for the area of a sector.",
+        "expression": "Area_{OAEB} = \\frac{30^{\\circ}}{360^{\\circ}} \\times \\pi \\times (21)^{2}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the area of sector OCFD using the same formula.",
+        "expression": "Area_{OCFD} = \\frac{30^{\\circ}}{360^{\\circ}} \\times \\pi \\times (7)^{2}"
+      },
+      {
+        "step_number": 3,
+        "description": "Subtract the area of sector OCFD from the area of sector OAEB to find the shaded area.",
+        "expression": "Area_{shaded} = Area_{OAEB} - Area_{OCFD}"
+      }
+    ],
+    "final_answer": "Thus, the area of the shaded region is calculated.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing two concentric circles with arcs AB and CD and angle AOB marked.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777655988/ncert/maths/12/img_35_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps of calculation and understanding of sector areas.",
+    "topics_tags": [
+      "Area of Sector",
+      "Concentric Circles",
+      "Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing two concentric circles with arcs AB and CD and angle AOB marked.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777655988/ncert/maths/12/img_35_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q12.20",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "areas related to circles",
+    "question_type": "numerical",
+    "question_text": "In the given figure, ABC is a quadrant of a circle of radius 14 cm and a semicircle is drawn with BC as diameter. Find the area of the shaded region.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing a quadrant of a circle and a semicircle with BC as diameter.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777655997/ncert/maths/12/img_36_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Area of the shaded region = Area of quadrant ABC - Area of semicircle with BC as diameter.",
+    "answer_latex": "Area = \\frac{1}{2} \\times 14^{2} - \\frac{1}{2} \\times \\pi \\times (14)^{2}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the area of the quadrant ABC.",
+        "expression": "Area_{quadrant} = \\frac{1}{4} \\times \\pi \\times (14)^{2}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the area of the semicircle with BC as diameter.",
+        "expression": "Area_{semicircle} = \\frac{1}{2} \\times \\pi \\times (14)^{2}"
+      },
+      {
+        "step_number": 3,
+        "description": "Subtract the area of the semicircle from the area of the quadrant to find the shaded area.",
+        "expression": "Area_{shaded} = Area_{quadrant} - Area_{semicircle}"
+      }
+    ],
+    "final_answer": "Thus, the area of the shaded region is calculated.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of areas of different shapes and multiple calculations.",
+    "topics_tags": [
+      "Quadrant Area",
+      "Semicircle",
+      "Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing a quadrant of a circle and a semicircle with BC as diameter.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777655997/ncert/maths/12/img_36_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.21",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "areas related to circles",
+    "question_type": "conceptual",
+    "question_text": "Calculate the area of the designed region in the given figure common between the two quadrants of circles of radius 8 cm each.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the common area between two quadrants of circles with radius 8 cm.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656003/ncert/maths/12/img_37_0.png",
+      "latex_extracted": "\\begin{array}{l}{{=\\frac{1}{4}\\times\\frac{22}{7}\\times14\\times14}}\\\\ {{=154\\stackrel{2}{7}\\times14\\times14}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The designed area is the common region between two sectors BAEC and DAFC.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the area of sector BAEC using the formula for the area of a sector.",
+        "expression": "Area = \\frac{1}{4} \\times \\frac{22}{7} \\times 8^2"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the area of triangle BAC.",
+        "expression": "Area = \\frac{1}{2} \\times base \\times height"
+      },
+      {
+        "step_number": 3,
+        "description": "Subtract the area of triangle BAC from the area of sector BAEC to find the area of segment AEC.",
+        "expression": "Area_{AEC} = Area_{sector} - Area_{triangle}"
+      },
+      {
+        "step_number": 4,
+        "description": "Multiply by 2 to account for both segments.",
+        "expression": "Area_{designed} = 2 \\times Area_{AEC}"
+      }
+    ],
+    "final_answer": "Thus, the area of the designed region is calculated based on the sectors and triangle areas.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps of calculation and understanding of geometry.",
+    "topics_tags": [
+      "Area of Sector",
+      "Circle",
+      "Geometry"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "mixed_or_weak_context"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the common area between two quadrants of circles with radius 8 cm.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656003/ncert/maths/12/img_37_0.png",
+        "latex_extracted": "\\begin{array}{l}{{=\\frac{1}{4}\\times\\frac{22}{7}\\times14\\times14}}\\\\ {{=154\\stackrel{2}{7}\\times14\\times14}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.22",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "areas related to circles",
+    "question_type": "derivation",
+    "question_text": null,
+    "question_latex": "\\begin{array}{l}{{=2\\times\\left({\\frac{352}{7}}-32\\right)=2\\left({\\frac{352-224}{7}}\\right)}}\\\\ {{={\\frac{2\\times128}{7}}\\,\\cos^{2}}}\\end{array}",
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical derivation involving fractions and cosine squared",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656048/ncert/maths/12/img_40_0.png",
+      "latex_extracted": "\\begin{array}{l}{{=2\\times\\left({\\frac{352}{7}}-32\\right)=2\\left({\\frac{352-224}{7}}\\right)}}\\\\ {{={\\frac{2\\times128}{7}}\\,\\cos^{2}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of mathematical derivation and manipulation of fractions.",
+    "topics_tags": [
+      "Circle Areas",
+      "Mathematical Derivation",
+      "Trigonometry"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical derivation involving fractions and cosine squared",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656048/ncert/maths/12/img_40_0.png",
+        "latex_extracted": "\\begin{array}{l}{{=2\\times\\left({\\frac{352}{7}}-32\\right)=2\\left({\\frac{352-224}{7}}\\right)}}\\\\ {{={\\frac{2\\times128}{7}}\\,\\cos^{2}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  }
+]

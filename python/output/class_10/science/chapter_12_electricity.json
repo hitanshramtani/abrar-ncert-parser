@@ -1,0 +1,2056 @@
+[
+  {
+    "question_id": "Q12.1",
+    "class": 10,
+    "subject": "science",
+    "chapter_number": 12,
+    "chapter_name": "electricity",
+    "question_type": "conceptual",
+    "question_text": "What does an electric circuit mean?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "A continuous and closed path of an electric current is called an electric circuit. An electric circuit consists of electric devices, source of electricity and wires that are connected with the help of a switch.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "An electric circuit is a continuous and closed path for electric current.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of the definition of an electric circuit.",
+    "topics_tags": [
+      "Electric Circuit",
+      "Current",
+      "Electricity"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.2",
+    "class": 10,
+    "subject": "science",
+    "chapter_number": 12,
+    "chapter_name": "electricity",
+    "question_type": "conceptual",
+    "question_text": "Define the unit of current.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The unit of electric current is ampere (A). 1 A is defined as the flow of 1 C of charge through a wire in 1 s.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "The unit of current is ampere, defined as the flow of 1 coulomb of charge per second.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of the definition of the unit of current.",
+    "topics_tags": [
+      "Current",
+      "Ampere",
+      "Electricity"
+    ],
+    "confidence_score": 0.97,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.3",
+    "class": 10,
+    "subject": "science",
+    "chapter_number": 12,
+    "chapter_name": "electricity",
+    "question_type": "numerical",
+    "question_text": "Calculate the number of electrons constituting one coulomb of charge.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "6 x 10^18 electrons constitute one coulomb of charge.",
+    "answer_latex": "6 \\times 10^{18}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Determine the charge of one electron.",
+        "expression": "1.6 \\times 10^{-19} C"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the number of electrons in one coulomb.",
+        "expression": "1 C = \\frac{1}{1.6 \\times 10^{-19}} = 6.25 \\times 10^{18}"
+      }
+    ],
+    "final_answer": "Therefore, 6 x 10^18 electrons make up one coulomb of charge.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of charge and basic calculation.",
+    "topics_tags": [
+      "Charge",
+      "Electrons",
+      "Electricity"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.4",
+    "class": 10,
+    "subject": "science",
+    "chapter_number": 12,
+    "chapter_name": "electricity",
+    "question_type": "conceptual",
+    "question_text": "Name a device that helps to maintain a potential difference across a conductor.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Any source of electricity like battery, cell, power supply, etc. helps to maintain a potential difference across a conductor.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Devices like batteries or power supplies maintain potential difference.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of examples of devices maintaining potential difference.",
+    "topics_tags": [
+      "Potential Difference",
+      "Electricity",
+      "Battery"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.5",
+    "class": 10,
+    "subject": "science",
+    "chapter_number": 12,
+    "chapter_name": "electricity",
+    "question_type": "conceptual",
+    "question_text": "What is meant by saying that the potential difference between two points is 1 V?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "If 1 J of work is required to move a charge of amount 1 C from one point to another, then it is said that the potential difference between the two points is 1 V.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "A potential difference of 1 V means 1 J of work is done to move 1 C of charge.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of work and charge relationship.",
+    "topics_tags": [
+      "Potential Difference",
+      "Voltage",
+      "Electricity"
+    ],
+    "confidence_score": 0.94,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.6",
+    "class": 10,
+    "subject": "science",
+    "chapter_number": 12,
+    "chapter_name": "electricity",
+    "question_type": "numerical",
+    "question_text": "How much energy is given to each coulomb of charge passing through a 6 V battery?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The energy given to each coulomb of charge is 6 Joules.",
+    "answer_latex": "6 \\text{ Joule}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Use the formula for work done based on potential difference.",
+        "expression": "W = V \\times Q"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values for potential difference and charge.",
+        "expression": "W = 6 \\times 1 = 6"
+      }
+    ],
+    "final_answer": "Therefore, 6 Joules of energy is given to each coulomb of charge.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves application of the formula for work done.",
+    "topics_tags": [
+      "Energy",
+      "Potential Difference",
+      "Electricity"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.7",
+    "class": 10,
+    "subject": "science",
+    "chapter_number": 12,
+    "chapter_name": "electricity",
+    "question_type": "conceptual",
+    "question_text": "On what factors does the resistance of a conductor depend?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The resistance of a conductor depends upon the following factors: Length of the conductor, Cross-sectional area of the conductor, Material of the conductor, Temperature of the conductor.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Resistance depends on length, area, material, and temperature of the conductor.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of multiple factors affecting resistance.",
+    "topics_tags": [
+      "Resistance",
+      "Conductor",
+      "Electricity"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.8",
+    "class": 10,
+    "subject": "science",
+    "chapter_number": 12,
+    "chapter_name": "electricity",
+    "question_type": "conceptual",
+    "question_text": "Will current flow more easily through a thick wire or a thin wire of the same material, when connected to the same source? Why?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The current will flow more easily through thick wire. It is because the resistance of a conductor is inversely proportional to its area of cross-section.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thicker wires have less resistance, allowing more current to flow.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of resistance and cross-sectional area.",
+    "topics_tags": [
+      "Current",
+      "Resistance",
+      "Electricity"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.9",
+    "class": 10,
+    "subject": "science",
+    "chapter_number": 12,
+    "chapter_name": "electricity",
+    "question_type": "conceptual",
+    "question_text": "Let the resistance of an electrical component remains constant while the potential difference across the two ends of the component decreases to half of its former value. What change will occur in the current through it?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The amount of current flowing through the electrical component is reduced by half.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Apply Ohm's law: V = IR.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Determine the new current when potential difference is halved.",
+        "expression": "I' = \\frac{V/2}{R} = \\frac{1}{2} I"
+      }
+    ],
+    "final_answer": "Thus, the current is halved when the potential difference is reduced to half.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves application of Ohm's law and understanding of current change.",
+    "topics_tags": [
+      "Ohm's Law",
+      "Current",
+      "Electricity"
+    ],
+    "confidence_score": 0.94,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.10",
+    "class": 10,
+    "subject": "science",
+    "chapter_number": 12,
+    "chapter_name": "electricity",
+    "question_type": "conceptual",
+    "question_text": "Why are coils of electric toasters and electric irons made of an alloy rather than a pure metal?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The resistivity of an alloy is higher than the pure metal. Moreover, at high temperatures, the alloys do not melt readily.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Alloys are used because they have higher resistivity and do not melt easily at high temperatures.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of material properties and their applications.",
+    "topics_tags": [
+      "Alloy",
+      "Electric Toaster",
+      "Electric Iron"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.11",
+    "class": 10,
+    "subject": "science",
+    "chapter_number": 12,
+    "chapter_name": "electricity",
+    "question_type": "diagram_based",
+    "question_text": "Draw a schematic diagram of a circuit consisting of a battery of three cells of 2 V each, a 5 Ω resistor, an 8 Ω resistor, and a 12 Ω resistor, and a plug key, all connected in series.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Schematic diagram of a circuit with three cells, resistors, and a plug key.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777740724/ncert/science/12/img_5_1.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Three cells of potential 2 V, each connected in series therefore the potential difference of the battery will be 2 V + 2 V + 2 V = 6V. The following circuit diagram shows three resistors of resistances 5 Ω, 8 Ω and 12 Ω respectively connected in series and a battery of potential 6 V and a plug key which is closed means the current is flowing in the circuit.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the total potential difference of the battery is 6 V.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of circuit components and series connections.",
+    "topics_tags": [
+      "Circuit Diagram",
+      "Series Circuit",
+      "Voltage"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Schematic diagram of a circuit with three cells, resistors, and a plug key.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777740724/ncert/science/12/img_5_1.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.12",
+    "class": 10,
+    "subject": "science",
+    "chapter_number": 12,
+    "chapter_name": "electricity",
+    "question_type": "numerical",
+    "question_text": "Redraw the circuit of question 1, putting in an ammeter to measure the current through the resistors and a voltmeter to measure potential difference across the 12 Ω resistor. What would be the readings in the ammeter and the voltmeter?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Circuit diagram with ammeter and voltmeter added to measure current and potential difference.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777740724/ncert/science/12/img_5_1.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The reading of the ammeter will be 0.24 A. The reading of the voltmeter will be 2.88 V.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the total resistance in the circuit.",
+        "expression": "R = 5 + 8 + 12 = 25 \\Omega"
+      },
+      {
+        "step_number": 2,
+        "description": "Use Ohm's law to find the current.",
+        "expression": "I = \\frac{V}{R} = \\frac{6}{25} = 0.24 A"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the potential difference across the 12 Ω resistor.",
+        "expression": "V = IR = 0.24 \\times 12 = 2.88 V"
+      }
+    ],
+    "final_answer": "Therefore, the readings are 0.24 A for the ammeter and 2.88 V for the voltmeter.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves calculations using Ohm's law and understanding of circuit components.",
+    "topics_tags": [
+      "Ohm's Law",
+      "Current Measurement",
+      "Voltage Measurement"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Circuit diagram with ammeter and voltmeter added to measure current and potential difference.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777740724/ncert/science/12/img_5_1.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.13",
+    "class": 10,
+    "subject": "science",
+    "chapter_number": 12,
+    "chapter_name": "electricity",
+    "question_type": "mcq",
+    "question_text": "Judge the equivalent resistance when the following are connected in parallel − (a) 1 Ω and 10^6 Ω, (b) 1 Ω and 10^3 Ω and 10^6 Ω.",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "1 Ω and 10^6 Ω,"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "1 Ω and 10^3 Ω and 10^6 Ω."
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "When 1 Ω and 10^6 Ω are connected in parallel.",
+        "part_latex": null,
+        "answer_text": "The equivalent resistance is approximately 1 Ω.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Therefore, the equivalent resistance is approximately 1 Ω.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "When 1 Ω, 10^3 Ω and 10^6 Ω are connected in parallel.",
+        "part_latex": null,
+        "answer_text": "The equivalent resistance is approximately 0.999 Ω.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Therefore, the equivalent resistance is approximately 0.999 Ω.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of parallel resistance calculations.",
+    "topics_tags": [
+      "Equivalent Resistance",
+      "Parallel Circuit",
+      "Resistance"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.14",
+    "class": 10,
+    "subject": "science",
+    "chapter_number": 12,
+    "chapter_name": "electricity",
+    "question_type": "conceptual",
+    "question_text": "What are the advantages of connecting electrical devices in parallel with the battery instead of connecting them in series?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "There is no division of voltage among the appliances when connected in parallel. The potential difference across each appliance is equal to the supplied voltage. The total effective resistance of the circuit can be reduced by connecting electrical appliances in parallel.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, connecting devices in parallel ensures equal voltage and reduces total resistance.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of electrical circuits and their configurations.",
+    "topics_tags": [
+      "Electrical Circuits",
+      "Parallel Connection",
+      "Voltage Division"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.15",
+    "class": 10,
+    "subject": "science",
+    "chapter_number": 12,
+    "chapter_name": "electricity",
+    "question_type": "mcq",
+    "question_text": "How can three resistors of resistances 2 Ω, 3 Ω and 6 Ω be connected to give a total resistance of (a) 4 Ω, (b) 1 Ω?",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "4 Ω,"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "1 Ω?"
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Circuit diagram showing the connection of resistors.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777740746/ncert/science/12/img_9_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "The following circuit diagram shows the connection of the three resistors.",
+        "part_latex": null,
+        "answer_text": "Here, 6 Ω and 3 Ω resistors are connected in parallel. Therefore, their equivalent resistance will be given by \\( R_{eq} = \\frac{1}{\\frac{1}{6} + \\frac{1}{3}} = 2 \\, \\Omega \\).",
+        "answer_latex": "\\frac{4}{{\\frac{1}{6}}+{\\frac{1}{3}}}={\\frac{6\\,x\\,3}{6+3}}=2\\,\\,\\Omega",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the resistors to be connected in parallel.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Apply the formula for equivalent resistance in parallel.",
+            "expression": "R_{eq} = \\frac{1}{\\frac{1}{6} + \\frac{1}{3}}"
+          },
+          {
+            "step_number": 3,
+            "description": "Calculate the equivalent resistance.",
+            "expression": "R_{eq} = 2 \\, \\Omega"
+          }
+        ],
+        "final_answer": "Thus, the equivalent resistance for part (a) is 2 Ω.",
+        "answer_image": {
+          "present": true,
+          "description": "Diagram showing the equivalent resistance calculation.",
+          "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777740748/ncert/science/12/img_9_1.jpg",
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "answer"
+        },
+        "question_images": [],
+        "answer_images": [
+          {
+            "present": true,
+            "description": "Diagram showing the equivalent resistance calculation.",
+            "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777740748/ncert/science/12/img_9_1.jpg",
+            "latex_extracted": null,
+            "source_page_number": null,
+            "source_image_index": null,
+            "ownership": "answer"
+          }
+        ],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "To achieve a total resistance of 1 Ω, the resistors must be connected in a specific configuration.",
+        "part_latex": null,
+        "answer_text": "Connect the 2 Ω resistor in series with the parallel combination of the 3 Ω and 6 Ω resistors. The equivalent resistance will be \\( R_{eq} = 2 + \\frac{1}{\\frac{1}{3} + \\frac{1}{6}} = 1 \\, \\Omega \\).",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Connect the 2 Ω resistor in series with the parallel combination.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the equivalent resistance of the parallel resistors.",
+            "expression": "R_{eq} = 2 + \\frac{1}{\\frac{1}{3} + \\frac{1}{6}}"
+          },
+          {
+            "step_number": 3,
+            "description": "Sum the resistances to find the total.",
+            "expression": "R_{eq} = 1 \\, \\Omega"
+          }
+        ],
+        "final_answer": "Thus, the equivalent resistance for part (b) is 1 Ω.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of series and parallel connections and calculations.",
+    "topics_tags": [
+      "Resistors",
+      "Series Connection",
+      "Parallel Connection"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Circuit diagram showing the connection of resistors.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777740746/ncert/science/12/img_9_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.16",
+    "class": 10,
+    "subject": "science",
+    "chapter_number": 12,
+    "chapter_name": "electricity",
+    "question_type": "mcq",
+    "question_text": "What is (a) the highest, (b) the lowest total resistance that can be secured by combinations of four coils of resistance 4 Ω, 8 Ω, 12 Ω, 24 Ω?",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "the highest,"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "the lowest total resistance that can be secured by combinations of four coils of resistance 4 Ω, 8 Ω, 12 Ω, 24 Ω?"
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "If these coils are connected in series, then the equivalent resistance will be the highest, given by the sum 4 + 8 + 12 + 24.",
+        "part_latex": null,
+        "answer_text": "The highest total resistance is 48 Ω.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Add the resistances of all coils in series.",
+            "expression": "R_{total} = 4 + 8 + 12 + 24"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the total resistance.",
+            "expression": "R_{total} = 48"
+          }
+        ],
+        "final_answer": "Therefore, the highest total resistance is 48 Ω.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "If these coils are connected in parallel, then the equivalent resistance will be the lowest.",
+        "part_latex": "{\\frac{{\\frac{1}{4}}+{\\frac{1}{8}}+{\\frac{1}{12}}+{\\frac{1}{24}}}}={\\frac{\\frac{1}{6+3+2+1}}{24}}={\\frac{24}{12}}={\\frac{\\Omega}{42}}={\\frac{\\Omega}{2}}",
+        "answer_text": "The lowest total resistance is 2 Ω.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the formula for total resistance in parallel.",
+            "expression": "R_{total} = \\frac{1}{\\frac{1}{4} + \\frac{1}{8} + \\frac{1}{12} + \\frac{1}{24}}"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the total resistance.",
+            "expression": "R_{total} = 2"
+          }
+        ],
+        "final_answer": "Therefore, the lowest total resistance is 2 Ω.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the connection of resistors in series and parallel.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777740750/ncert/science/12/img_10_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of series and parallel resistance calculations.",
+    "topics_tags": [
+      "Resistance",
+      "Series Circuit",
+      "Parallel Circuit"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the connection of resistors in series and parallel.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777740750/ncert/science/12/img_10_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q12.17",
+    "class": 10,
+    "subject": "science",
+    "chapter_number": 12,
+    "chapter_name": "electricity",
+    "question_type": "mcq",
+    "question_text": "An electric bulb is rated 220 V and 100 W. When it is operated on 110 V, the power consumed will be -",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(a)",
+        "option_text": "100 W"
+      },
+      {
+        "option_label": "(b)",
+        "option_text": "75 W"
+      },
+      {
+        "option_label": "(c)",
+        "option_text": "50 W"
+      },
+      {
+        "option_label": "(d)",
+        "option_text": "25 W"
+      }
+    ],
+    "correct_option": "(d)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The power consumed will be 25 W.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the power consumed when operated on 110 V is 25 W.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of power consumption formula.",
+    "topics_tags": [
+      "Electric Bulb",
+      "Power Consumption",
+      "Voltage"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.18",
+    "class": 10,
+    "subject": "science",
+    "chapter_number": 12,
+    "chapter_name": "electricity",
+    "question_type": "mcq",
+    "question_text": "Two conducting wires of the same material and of equal lengths and equal diameters are first connected in series and then parallel in a circuit across the same potential difference. The ratio of heat produced in series and parallel combinations would be -",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(a)",
+        "option_text": "1:2"
+      },
+      {
+        "option_label": "(b)",
+        "option_text": "2:1"
+      },
+      {
+        "option_label": "(c)",
+        "option_text": "1:4"
+      },
+      {
+        "option_label": "(d)",
+        "option_text": "4:1"
+      }
+    ],
+    "correct_option": "(c)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The ratio of heat produced in series and parallel combinations is 1:4.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the ratio of heat produced is 1:4.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of heat production in circuits.",
+    "topics_tags": [
+      "Heat Production",
+      "Series Circuit",
+      "Parallel Circuit"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.19",
+    "class": 10,
+    "subject": "science",
+    "chapter_number": 12,
+    "chapter_name": "electricity",
+    "question_type": "conceptual",
+    "question_text": "How is a voltmeter connected in the circuit to measure the potential difference between two points?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "To measure the potential difference between two points, a voltmeter should be connected in parallel to the points.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, a voltmeter is connected in parallel to measure potential difference.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of voltmeter connection method.",
+    "topics_tags": [
+      "Voltmeter",
+      "Potential Difference",
+      "Circuit Connection"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.20",
+    "class": 10,
+    "subject": "science",
+    "chapter_number": 12,
+    "chapter_name": "electricity",
+    "question_type": "numerical",
+    "question_text": "A copper wire has diameter 0.5 mm and resistivity of 1.6 × 10−8 Ω m. What will be the length of this wire to make its resistance 10 Ω? How much does the resistance change if the diameter is doubled?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Calculate the length of the wire to make its resistance 10 Ω.",
+        "part_latex": null,
+        "answer_text": "The length of the wire is 122.7 m.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the area of cross-section of the wire.",
+            "expression": "A = \\pi \\left( \\frac{d}{2} \\right)^2"
+          },
+          {
+            "step_number": 2,
+            "description": "Use the formula for resistance to find the length.",
+            "expression": "R = \\rho \\frac{L}{A}"
+          }
+        ],
+        "final_answer": "Therefore, the length of the wire is 122.7 m.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Determine how the resistance changes if the diameter is doubled.",
+        "part_latex": null,
+        "answer_text": "The new resistance is 2.5 Ω.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, the resistance changes to 2.5 Ω when the diameter is doubled.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves calculation and understanding of resistance.",
+    "topics_tags": [
+      "Resistance",
+      "Copper Wire",
+      "Diameter"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.21",
+    "class": 10,
+    "subject": "science",
+    "chapter_number": 12,
+    "chapter_name": "electricity",
+    "question_type": "numerical",
+    "question_text": "How many 176 Ω resistors (in parallel) are required to carry 5 A on a 220 V line?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of equivalent resistance for resistors in parallel.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777740780/ncert/science/12/img_17_0.png",
+      "latex_extracted": "\\begin{array}{l}{{\\frac{1}{R}=x\\times\\left({\\frac{1}{176}}\\right)}}\\\\ {{\\left.F={\\frac{176}{x}}}}\\\\ {{\\left.\\begin{array}{l}{{1}}\\\\ {{\\left.\\quad\\right.}}\\\\ {{\\left.\\quad\\right.}}\\\\ {{\\left.\\quad\\right.}}\\\\ {{\\left.\\quad\\right.}}\\\\ {{\\left.\\begin{array}{l}{{176}}\\\\ {{1}}\\\\ {{220}}\\end{array}\\right.}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Therefore, four resistors of 176 Ω are required to draw the given amount of current.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the equivalent resistance using Ohm's law.",
+        "expression": "R = \\frac{V}{I} = \\frac{220}{5} = 44 \\Omega"
+      },
+      {
+        "step_number": 2,
+        "description": "Set up the equation for resistors in parallel.",
+        "expression": "\\frac{1}{R} = x \\times \\left(\\frac{1}{176}\\right)"
+      },
+      {
+        "step_number": 3,
+        "description": "Solve for x to find the number of resistors needed.",
+        "expression": "x = \\frac{176}{R} = \\frac{176}{44} = 4"
+      }
+    ],
+    "final_answer": "Thus, four resistors of 176 Ω are required.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of parallel resistance and basic calculations.",
+    "topics_tags": [
+      "Ohm's Law",
+      "Parallel Resistors",
+      "Electricity"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of equivalent resistance for resistors in parallel.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777740780/ncert/science/12/img_17_0.png",
+        "latex_extracted": "\\begin{array}{l}{{\\frac{1}{R}=x\\times\\left({\\frac{1}{176}}\\right)}}\\\\ {{\\left.F={\\frac{176}{x}}}}\\\\ {{\\left.\\begin{array}{l}{{1}}\\\\ {{\\left.\\quad\\right.}}\\\\ {{\\left.\\quad\\right.}}\\\\ {{\\left.\\quad\\right.}}\\\\ {{\\left.\\quad\\right.}}\\\\ {{\\left.\\begin{array}{l}{{176}}\\\\ {{1}}\\\\ {{220}}\\end{array}\\right.}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.22",
+    "class": 10,
+    "subject": "science",
+    "chapter_number": 12,
+    "chapter_name": "electricity",
+    "question_type": "conceptual",
+    "question_text": "Show how you would connect three resistors, each of resistance 6 Ω, so that the combination has a resistance of (i) 9 Ω, (ii) 4 Ω.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "To achieve a resistance of 9 Ω.",
+        "part_latex": null,
+        "answer_text": "Connect two resistors in series and one in parallel with the combination.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Connect two 6 Ω resistors in series.",
+            "expression": "6 + 6 = 12 \\Omega"
+          },
+          {
+            "step_number": 2,
+            "description": "Connect the third 6 Ω resistor in parallel with the series combination.",
+            "expression": "\\frac{1}{R} = \\frac{1}{12} + \\frac{1}{6} = 4 \\Omega"
+          }
+        ],
+        "final_answer": "Thus, the equivalent resistance is 9 Ω.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "To achieve a resistance of 4 Ω.",
+        "part_latex": null,
+        "answer_text": "Connect two resistors in series and the third in parallel with the series combination.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Connect two 6 Ω resistors in series.",
+            "expression": "6 + 6 = 12 \\Omega"
+          },
+          {
+            "step_number": 2,
+            "description": "Connect the third 6 Ω resistor in parallel with the series combination.",
+            "expression": "\\frac{1}{R} = \\frac{1}{12} + \\frac{1}{6} = 4 \\Omega"
+          }
+        ],
+        "final_answer": "Thus, the equivalent resistance is 4 Ω.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of equivalent resistance for two resistors in parallel.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777740782/ncert/science/12/img_18_0.png",
+      "latex_extracted": "{\\frac{1}{{\\frac{1}{6}}+{\\frac{1}{6}}}}={\\frac{6\\times6}{6+6}}=3\\ \\Omega",
+      "source_page_number": 18,
+      "source_image_index": 0,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of series and parallel connections.",
+    "topics_tags": [
+      "Resistor Combinations",
+      "Series Circuit",
+      "Parallel Circuit"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of equivalent resistance for two resistors in parallel.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777740782/ncert/science/12/img_18_0.png",
+        "latex_extracted": "{\\frac{1}{{\\frac{1}{6}}+{\\frac{1}{6}}}}={\\frac{6\\times6}{6+6}}=3\\ \\Omega",
+        "source_page_number": 18,
+        "source_image_index": 0,
+        "ownership": "answer"
+      },
+      {
+        "present": true,
+        "description": "Mathematical representation of equivalent resistance for two resistors in series.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777740783/ncert/science/12/img_18_1.png",
+        "latex_extracted": "{\\frac{1}{{1}2}}+{\\frac{1}{6}}={\\frac{12\\cdot{x}\\ 6}{12+6}}=4\\ \\Omega",
+        "source_page_number": 18,
+        "source_image_index": 1,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q12.23",
+    "class": 10,
+    "subject": "science",
+    "chapter_number": 12,
+    "chapter_name": "electricity",
+    "question_type": "numerical",
+    "question_text": "A hot plate of an electric oven connected to a 220 V line has two resistance coils A and B, each of 24 Ω resistances, which may be used separately, in series, or in parallel. What are the currents in the three cases?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the arrangement of resistance coils A and B in different configurations.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777740797/ncert/science/12/img_19_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "Coils are used separately.",
+        "part_latex": null,
+        "answer_text": "9.16 A current will flow through the coil when used separately.",
+        "answer_latex": "I = \\frac{V}{R} = \\frac{220}{24} = 9.166 A",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Apply Ohm's law to find current when coils are used separately.",
+            "expression": "I = \\frac{V}{R}"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the values into the formula.",
+            "expression": "I = \\frac{220}{24} = 9.166"
+          }
+        ],
+        "final_answer": "Therefore, 9.16 A current will flow through the coil when used separately.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "Coils are connected in series.",
+        "part_latex": null,
+        "answer_text": "4.58 A current will flow through the circuit when the coils are connected in series.",
+        "answer_latex": "I = \\frac{V}{R} = \\frac{220}{48} = 4.58 A",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate total resistance for series connection.",
+            "expression": "R = 24 + 24 = 48"
+          },
+          {
+            "step_number": 2,
+            "description": "Apply Ohm's law to find current in series.",
+            "expression": "I = \\frac{V}{R}"
+          },
+          {
+            "step_number": 3,
+            "description": "Substitute the values into the formula.",
+            "expression": "I = \\frac{220}{48} = 4.58"
+          }
+        ],
+        "final_answer": "Therefore, 4.58 A current will flow through the circuit when the coils are connected in series.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "Coils are connected in parallel.",
+        "part_latex": null,
+        "answer_text": "18.33 A current will flow through the circuit when coils are connected in parallel.",
+        "answer_latex": "I = \\frac{V}{R} = \\frac{220}{12} = 18.33 A",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate total resistance for parallel connection.",
+            "expression": "R = \\frac{1}{{\\frac{1}{24}} + {\\frac{1}{24}}} = 12"
+          },
+          {
+            "step_number": 2,
+            "description": "Apply Ohm's law to find current in parallel.",
+            "expression": "I = \\frac{V}{R}"
+          },
+          {
+            "step_number": 3,
+            "description": "Substitute the values into the formula.",
+            "expression": "I = \\frac{220}{12} = 18.33"
+          }
+        ],
+        "final_answer": "Therefore, 18.33 A current will flow through the circuit when coils are connected in parallel.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of Ohm's law and calculations for different configurations.",
+    "topics_tags": [
+      "Ohm's Law",
+      "Electric Circuits",
+      "Resistance"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the arrangement of resistance coils A and B in different configurations.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777740797/ncert/science/12/img_19_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.24",
+    "class": 10,
+    "subject": "science",
+    "chapter_number": 12,
+    "chapter_name": "electricity",
+    "question_type": "numerical",
+    "question_text": "An electric heater of resistance 8 Ω draws 15 A from the service mains for 2 hours. Calculate the rate at which heat is developed in the heater.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The rate of heat produced by a device is given by the expression for power as, P = I^2 R. Therefore, heat is produced by the heater at the rate of 1800 J/s.",
+    "answer_latex": "P = I^2 R = (15)^2 \\times 8 = 1800 \\text{ J/s}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Use the formula for power to calculate the rate of heat production.",
+        "expression": "P = I^2 R"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values of current and resistance into the formula.",
+        "expression": "P = (15)^2 \\times 8"
+      }
+    ],
+    "final_answer": "Therefore, the heater develops heat at the rate of 1800 J/s.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of power calculation and substitution of values.",
+    "topics_tags": [
+      "Electric Heater",
+      "Power",
+      "Heat Production"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.25",
+    "class": 10,
+    "subject": "science",
+    "chapter_number": 12,
+    "chapter_name": "electricity",
+    "question_type": "mcq",
+    "question_text": "(a) Why is tungsten used almost exclusively for the filament of electric lamps? (b) Why are the conductors of electric heating devices, such as bread-toasters and electric irons, made of an alloy rather than a pure metal? (c) Why is the series arrangement not used for domestic circuits? (d) How does the resistance of a wire vary with its area of cross-section? (e) Why are copper and aluminium wires usually employed for electricity transmission?",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "Why is tungsten used almost exclusively for the filament of electric lamps?"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "Why are the conductors of electric heating devices, such as bread-toasters and electric irons, made of an alloy rather than a pure metal?"
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "Why is the series arrangement not used for domestic circuits?"
+      },
+      {
+        "option_label": "(D)",
+        "option_text": "How does the resistance of a wire vary with its area of cross-section? (e) Why are copper and aluminium wires usually employed for electricity transmission?"
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Why is tungsten used almost exclusively for the filament of electric lamps?",
+        "part_latex": null,
+        "answer_text": "Tungsten has a very high melting point and high resistivity, so it does not burn easily at high temperatures.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, tungsten is ideal for lamp filaments.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Why are the conductors of electric heating devices, such as bread-toasters and electric irons, made of an alloy rather than a pure metal?",
+        "part_latex": null,
+        "answer_text": "The resistivity of an alloy is higher than that of pure metals, which produces a larger amount of heat.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Therefore, alloys are preferred for heating devices.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "Why is the series arrangement not used for domestic circuits?",
+        "part_latex": null,
+        "answer_text": "In series circuits, voltage is divided among components, leading to reduced current and improper functioning of devices.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Hence, series arrangements are unsuitable for domestic use.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(d)",
+        "part_text": "How does the resistance of a wire vary with its area of cross-section?",
+        "part_latex": null,
+        "answer_text": "Resistance is inversely proportional to the area of cross-section; as the area increases, resistance decreases.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, larger cross-sections result in lower resistance.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(e)",
+        "part_text": "Why are copper and aluminium wires usually employed for electricity transmission?",
+        "part_latex": null,
+        "answer_text": "Copper and aluminium are good conductors with low resistivity, making them ideal for electricity transmission.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Therefore, they are commonly used in electrical wiring.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of multiple concepts related to electricity and materials.",
+    "topics_tags": [
+      "Tungsten Filament",
+      "Electric Heating",
+      "Series Circuits",
+      "Resistance",
+      "Electricity Transmission"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  }
+]

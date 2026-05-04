@@ -1,0 +1,1223 @@
+[
+  {
+    "question_id": "Q6.1",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 6,
+    "chapter_name": "electromagnetic induction",
+    "question_type": "mcq",
+    "question_text": "Predict the direction of induced current in the situations described by the following Figs. 6.18(a) to (f).",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Figures showing different situations for predicting the direction of induced current.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777797047/ncert/physics/6/img_1_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of electromagnetic induction principles.",
+    "topics_tags": [
+      "Induced Current",
+      "Electromagnetic Induction",
+      "Faraday's Law"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Figures showing different situations for predicting the direction of induced current.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777797047/ncert/physics/6/img_1_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.2",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 6,
+    "chapter_name": "electromagnetic induction",
+    "question_type": "conceptual",
+    "question_text": "A 1.0 m long metallic rod is rotated with an angular frequency of 400 rad s−1 about an axis normal to the rod passing through its one end. The other end of the rod is in contact.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Figures showing the direction of the induced current when a bar magnet is moved towards and away from a closed loop.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777797073/ncert/physics/6/img_2_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The direction of the induced current in a closed loop is given by Lenz’s law.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the direction of the induced current can be predicted using Lenz's law.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of Lenz's law and its application to induced currents.",
+    "topics_tags": [
+      "Lenz's Law",
+      "Induced Current",
+      "Electromagnetic Induction"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "text extraction issues",
+      "incomplete context"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Figures showing the direction of the induced current when a bar magnet is moved towards and away from a closed loop.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777797073/ncert/physics/6/img_2_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      },
+      {
+        "present": true,
+        "description": "Figures illustrating the induced current directions.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777797076/ncert/physics/6/img_2_1.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.3",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 6,
+    "chapter_name": "electromagnetic induction",
+    "question_type": "mcq",
+    "question_text": "A long solenoid with 15 turns per cm has a small loop of area 2.0 cm² placed inside the solenoid normal to its axis. If the current carried by the solenoid changes steadily from 2.0 A to 4.0 A in 0.1 s, what is the induced emf in the loop while the current is changing?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The induced emf in the loop is calculated based on the change in current and the number of turns in the solenoid.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the change in current (ΔI) over the time interval (Δt).",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the formula for induced emf: ε = -N * (ΔΦ/Δt), where N is the number of turns and ΔΦ is the change in magnetic flux.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the induced emf in the loop while the current is changing is calculated based on the above steps.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram related to the solenoid and loop setup for induced emf calculation.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777797081/ncert/physics/6/img_3_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of electromagnetic induction and requires multiple steps to solve.",
+    "topics_tags": [
+      "Electromagnetic Induction",
+      "Induced EMF",
+      "Solenoid"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "Some text garbling and incomplete extraction."
+    ],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the solenoid and loop setup for induced emf calculation.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777797081/ncert/physics/6/img_3_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q6.4",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 6,
+    "chapter_name": "electromagnetic induction",
+    "question_type": "mcq",
+    "question_text": "A rectangular wire loop of sides 8 cm and 2 cm with a small cut is moving out of a region of uniform magnetic field of magnitude 0.3 T directed normal to the loop. What is the emf developed across the cut if the velocity of the loop is 1 cm s−1 in a direction normal to the (a) longer side, (b) shorter side of the loop? For how long does the induced voltage last in each case?",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "longer side,"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "shorter side of the loop? For how long does the induced voltage last in each case?"
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Emf developed in the loop is given as: e = Blv = 0.3 × 0.08 × 0.01 = 2.4 × 10−4V. Hence, the induced voltage is 2.4 × 10−4V which lasts for 2 s.",
+    "answer_latex": "e = Blv = 0.3 \\times 0.08 \\times 0.01 = 2.4 \\times 10^{-4}V",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the area of the rectangular loop.",
+        "expression": "A = lb = 0.08 \\times 0.02"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute values into the emf formula.",
+        "expression": "e = Blv = 0.3 \\times 0.08 \\times 0.01"
+      }
+    ],
+    "final_answer": "Therefore, the induced voltage is 2.4 × 10−4V which lasts for 2 s.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing a rectangular wire loop moving out of a magnetic field.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777797083/ncert/physics/6/img_4_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of electromagnetic induction and basic calculations.",
+    "topics_tags": [
+      "Electromagnetic Induction",
+      "Faraday's Law",
+      "Emf"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing a rectangular wire loop moving out of a magnetic field.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777797083/ncert/physics/6/img_4_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q6.5",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 6,
+    "chapter_name": "electromagnetic induction",
+    "question_type": "numerical",
+    "question_text": "A 1.0 m long metallic rod is rotated with an angular frequency of 400 rad/s about an axis normal to the rod passing through its one end. The other end of the rod is in contact with a circular metallic ring. A constant and uniform magnetic field of 0.5T parallel to the axis exists everywhere. Calculate the emf developed between the centre and the ring.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The emf developed is 100V.",
+    "answer_latex": "ε = 100V",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the parameters: length of the rod, angular frequency, and magnetic field.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the formula for emf in a rotating rod.",
+        "expression": "ε = Blv"
+      }
+    ],
+    "final_answer": "Thus, the emf developed between the centre and the ring is 100V.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing a metallic rod rotating in a magnetic field.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777797090/ncert/physics/6/img_6_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves understanding of rotating systems and basic application of formulas.",
+    "topics_tags": [
+      "Electromagnetic Induction",
+      "Rotating Rod",
+      "Emf"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing a metallic rod rotating in a magnetic field.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777797090/ncert/physics/6/img_6_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q6.6",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 6,
+    "chapter_name": "electromagnetic induction",
+    "question_type": "mcq",
+    "question_text": "A circular coil of radius 8.0 cm and 20 turns is rotated about its vertical diameter with an angular speed of 50 rad/s in a uniform horizontal magnetic field of magnitude 3.0×10−2 T. Obtain the maximum and average emf induced in the coil. If the coil forms a closed loop of resistance 10Ω, calculate the maximum value of current in the coil. Calculate the average power loss due to Joule heating. Where does this power come from?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing a circular coil rotating in a magnetic field.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777797093/ncert/physics/6/img_6_1.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Involves multiple calculations and understanding of electromagnetic induction principles.",
+    "topics_tags": [
+      "Electromagnetic Induction",
+      "Coil",
+      "Current",
+      "Power Loss"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing a circular coil rotating in a magnetic field.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777797093/ncert/physics/6/img_6_1.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.7",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 6,
+    "chapter_name": "electromagnetic induction",
+    "question_type": "numerical",
+    "question_text": "A horizontal straight wire 10 m long extending from east to west is falling with a speed of 5.0 m/s, at right angles to the horizontal component of the earth’s magnetic field, 0.30 × 10−4 Wb/m². What is the instantaneous value of the emf induced in the wire? What is the direction of the emf? Which end of the wire is at the higher electrical potential?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to the induced emf in the wire.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777797103/ncert/physics/6/img_8_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The emf induced in the wire is calculated using the formula e = Blv. The direction of the induced emf is from West to East, and the eastern end of the wire is at a higher potential.",
+    "answer_latex": "e = Blv",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the parameters: length of the wire, speed, and magnetic field strength.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the induced emf using the formula e = Blv.",
+        "expression": "e = (0.30 \\times 10^{-4}) \\times 10 \\times 5.0"
+      }
+    ],
+    "final_answer": "Thus, the eastern end of the wire is at a higher electrical potential.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of electromagnetic induction and application of the formula.",
+    "topics_tags": [
+      "Electromagnetic Induction",
+      "Induced EMF",
+      "Fleming's Right Hand Rule"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the induced emf in the wire.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777797103/ncert/physics/6/img_8_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.8",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 6,
+    "chapter_name": "electromagnetic induction",
+    "question_type": "numerical",
+    "question_text": "Current in a circuit falls from 5.0 A to 0.0 A in 0.1 s. If an average emf of 2000 V is induced, give an estimate of the self-inductance of the circuit.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The self-inductance of the coil is estimated to be 4 H.",
+    "answer_latex": "L = \\frac{e}{\\Delta I / \\Delta t} = \\frac{2000}{(5.0 - 0.0) / 0.1} = 4 H",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the change in current and time taken for the change.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the formula for self-inductance to calculate L.",
+        "expression": "L = \\frac{e}{\\Delta I / \\Delta t}"
+      }
+    ],
+    "final_answer": "Hence, the self-inductance of the coil is 4 H.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram related to self-inductance in the circuit.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777797105/ncert/physics/6/img_9_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic application of the self-inductance formula.",
+    "topics_tags": [
+      "Self-Inductance",
+      "Induced EMF",
+      "Circuit Analysis"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram related to self-inductance in the circuit.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777797105/ncert/physics/6/img_9_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q6.9",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 6,
+    "chapter_name": "electromagnetic induction",
+    "question_type": "numerical",
+    "question_text": "A jet plane is travelling towards west at a speed of 1800 km/h. What is the voltage difference developed between the ends of the wing having a span of 25 m, if the Earth’s magnetic field at the location has a magnitude of 5 × 10−4T and the dip angle is 30°?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Hence, the voltage difference developed between the ends of the wings is 3.125 V.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Convert the speed of the jet plane from km/h to m/s.",
+        "expression": "v = 1800 \\text{ km/h} = 500 \\text{ m/s}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the vertical component of Earth's magnetic field using the angle of dip.",
+        "expression": "B_{vertical} = B \\sin(30°) = 5 \\times 10^{-4} \\sin(30°) = 2.5 \\times 10^{-4} T"
+      },
+      {
+        "step_number": 3,
+        "description": "Use the formula for voltage difference developed across the wing.",
+        "expression": "e = B_{vertical} \\times l \\times v = 2.5 \\times 10^{-4} \\times 25 \\times 500"
+      },
+      {
+        "step_number": 4,
+        "description": "Calculate the voltage difference.",
+        "expression": "e = 3.125 V"
+      }
+    ],
+    "final_answer": "Therefore, the voltage difference developed between the ends of the wings is 3.125 V.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram related to the voltage difference developed in the jet plane's wing due to Earth's magnetic field.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777797106/ncert/physics/6/img_10_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of magnetic fields and basic calculations.",
+    "topics_tags": [
+      "Electromagnetic Induction",
+      "Voltage Difference",
+      "Magnetic Field"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the voltage difference developed in the jet plane's wing due to Earth's magnetic field.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777797106/ncert/physics/6/img_10_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q6.10",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 6,
+    "chapter_name": "electromagnetic induction",
+    "question_type": "mcq",
+    "question_text": "A square loop of side 12 cm with its sides parallel to X and Y axes is moved with a velocity of 8 cm s−1 in the positive x-direction in an environment containing a magnetic field in the positive z-direction. The field is neither uniform in space nor constant in time. It has a gradient of 10−3 T cm−1 along the negative x-direction and it is decreasing in time at the rate of 10−3 T s−1. Determine the direction and magnitude of the induced current in the loop if its resistance is 4.50 mΩ.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to the induced current in a square loop in a magnetic field.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777797125/ncert/physics/6/img_13_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The induced current can be calculated using the rate of change of magnetic flux and the resistance of the loop.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the area of the square loop.",
+        "expression": "A = 0.12 \\times 0.12 = 0.0144 \\, m^2"
+      },
+      {
+        "step_number": 2,
+        "description": "Determine the rate of change of magnetic flux due to the motion of the loop.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the induced emf using the rate of change of flux.",
+        "expression": null
+      },
+      {
+        "step_number": 4,
+        "description": "Use Ohm's law to find the induced current.",
+        "expression": "I = \\frac{emf}{R}"
+      }
+    ],
+    "final_answer": "Thus, the direction of the induced current is such that there is an increase in the flux through the loop along the positive z-direction.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps including calculations of area, flux, and application of Ohm's law.",
+    "topics_tags": [
+      "Induced Current",
+      "Magnetic Flux",
+      "Electromagnetic Induction"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the induced current in a square loop in a magnetic field.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777797125/ncert/physics/6/img_13_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.11",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 6,
+    "chapter_name": "electromagnetic induction",
+    "question_type": "mcq",
+    "question_text": "Figure 6.20 shows a metal rod PQ resting on the smooth rails AB and positioned between the poles of a permanent magnet. The rails, the rod, and the magnetic field are in three mutual perpendicular directions. A galvanometer G connects the rails through a switch K. Length of the rod = 15 cm, B = 0.50 T, resistance of the closed loop containing the rod = 9.0 mΩ. Assume the field to be uniform. Suppose K is open and the rod is moved with a speed of 12 cm s−1 in the direction shown. Give the polarity and magnitude of the induced emf. Is there an excess charge built up at the ends of the rods when K is open? What if K is closed? With K open and the rod moving uniformly, there is no net force on the electrons in the rod PQ even though they do experience magnetic force due to the motion of the rod. Explain. What is the retarding force on the rod when K is closed? How much power is required (by an external agent) to keep the rod moving at the same speed (=12 cm s−1) when K is closed? How much power is required when K is open? How much power is dissipated as heat in the closed circuit? What is the source of this power?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Give the polarity and magnitude of the induced emf.",
+        "part_latex": null,
+        "answer_text": "Induced emf = 9 mV; polarity of the induced emf is such that end P shows positive while end Q shows negative.",
+        "answer_latex": "e = Bvl = 0.5 \\times 0.12 \\times 0.15 = 9 \\times 10^{-3} \\text{ V}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the parameters: length of the rod, magnetic field strength, and speed.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the induced emf using the formula e = Bvl.",
+            "expression": "e = Bvl = 0.5 \\times 0.12 \\times 0.15"
+          }
+        ],
+        "final_answer": "Therefore, the induced emf is 9 mV with end P positive and end Q negative.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Is there an excess charge built up at the ends of the rods when K is open? What if K is closed?",
+        "part_latex": null,
+        "answer_text": "Yes; when key K is closed, excess charge is maintained by the continuous flow of current. When key K is open, there is excess charge built up at both ends of the rods.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Excess charge is built up at both ends when K is open.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "Explain why there is no net force on the electrons in the rod PQ when K is open.",
+        "part_latex": null,
+        "answer_text": "There is no net force on the electrons in rod PQ when key K is open and the rod is moving uniformly because the magnetic force is cancelled by the electric force set-up due to the excess charge of opposite nature at both ends of the rods.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, the forces balance out, resulting in no net force on the electrons.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(d)",
+        "part_text": "What is the retarding force on the rod when K is closed?",
+        "part_latex": null,
+        "answer_text": "Retarding force exerted on the rod, F = IBl.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "The retarding force is given by the product of current, magnetic field strength, and length of the rod.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(e)",
+        "part_text": "How much power is required (by an external agent) to keep the rod moving at the same speed (=12 cm s−1) when K is closed? How much power is required when K is open?",
+        "part_latex": null,
+        "answer_text": "When key K is open, no power is expended. When key K is closed, power is provided by an external agent.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Power is required when K is closed, but none when K is open.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(f)",
+        "part_text": "How much power is dissipated as heat in the closed circuit?",
+        "part_latex": null,
+        "answer_text": "Power dissipated as heat = I²R = (1)² × 9 × 10−3 = 9 mW.",
+        "answer_latex": "P_{dissipated} = I^2 R = (1)^2 \\times 9 \\times 10^{-3}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate power dissipated using the formula P = I²R.",
+            "expression": "P_{dissipated} = I^2 R = (1)^2 \\times 9 \\times 10^{-3}"
+          }
+        ],
+        "final_answer": "The power dissipated as heat in the closed circuit is 9 mW.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(g)",
+        "part_text": "What is the source of this power?",
+        "part_latex": null,
+        "answer_text": "The source of this power is an external agent.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Power is supplied by an external agent.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the setup of the metal rod PQ on rails AB between the poles of a magnet.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777797135/ncert/physics/6/img_16_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Involves multiple concepts of electromagnetic induction and requires understanding of forces and power.",
+    "topics_tags": [
+      "Electromagnetic Induction",
+      "Induced EMF",
+      "Current",
+      "Power",
+      "Magnetic Force"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the setup of the metal rod PQ on rails AB between the poles of a magnet.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777797135/ncert/physics/6/img_16_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q6.12",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 6,
+    "chapter_name": "electromagnetic induction",
+    "question_type": "numerical",
+    "question_text": "Calculate the average back emf induced in the solenoid given the following parameters: Length of the solenoid, l = 300 cm, Area of cross-section, A = 255 cm², Number of turns on the solenoid, N = 500, Current in the solenoid, I = 2.5 A, Current flows for time, t = 100 ms.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Hence, the average back emf induced in the solenoid is 6.5 V.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the change in magnetic flux using the formula.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the formula for average back emf to find the result.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, the average back emf induced in the solenoid is 6.5 V.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram related to the solenoid and back emf calculation.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777797155/ncert/physics/6/img_19_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of electromagnetic induction and basic calculations.",
+    "topics_tags": [
+      "Electromagnetic Induction",
+      "Back EMF",
+      "Solenoid"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the solenoid and back emf calculation.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777797155/ncert/physics/6/img_19_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q6.13",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 6,
+    "chapter_name": "electromagnetic induction",
+    "question_type": "numerical",
+    "question_text": "Obtain an expression for the mutual inductance between a long straight wire and a square loop of side a. Assume that the straight wire carries a current of 50 A and the loop is moved to the right with a constant velocity, v = 10 m/s. Calculate the induced emf in the loop at the instant when x = 0.2 m. Take a = 0.1 m and assume that the loop has a large resistance.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the setup of the long straight wire and square loop.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777797159/ncert/physics/6/img_20_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the magnetic field produced by the straight wire at the location of the loop.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the magnetic flux through the loop.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Use Faraday's law to find the induced emf in the loop.",
+        "expression": null
+      }
+    ],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps and understanding of mutual inductance.",
+    "topics_tags": [
+      "Mutual Inductance",
+      "Induced EMF",
+      "Electromagnetic Induction"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the setup of the long straight wire and square loop.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777797159/ncert/physics/6/img_20_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.14",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 6,
+    "chapter_name": "electromagnetic induction",
+    "question_type": "conceptual",
+    "question_text": "What is the angular velocity of the wheel after the field is suddenly switched off?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing a wheel with a line charge uniformly distributed on its rim and a magnetic field acting within a circular region.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777797195/ncert/physics/6/img_22_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of angular motion and magnetic effects on charged bodies.",
+    "topics_tags": [
+      "Angular Velocity",
+      "Magnetic Field",
+      "Electromagnetic Induction"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing a wheel with a line charge uniformly distributed on its rim and a magnetic field acting within a circular region.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777797195/ncert/physics/6/img_22_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.15",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 6,
+    "chapter_name": "electromagnetic induction",
+    "question_type": "conceptual",
+    "question_text": "What is the angular velocity?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image related to angular velocity, context is unclear.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777797197/ncert/physics/6/img_23_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of the definition of angular velocity.",
+    "topics_tags": [
+      "Angular Velocity",
+      "Rotational Motion",
+      "Physics"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "mixed_or_weak_context"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image related to angular velocity, context is unclear.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777797197/ncert/physics/6/img_23_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  }
+]

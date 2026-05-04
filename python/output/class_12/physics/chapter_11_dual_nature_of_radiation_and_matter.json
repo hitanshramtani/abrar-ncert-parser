@@ -1,0 +1,3007 @@
+[
+  {
+    "question_id": "Q11.1",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 11,
+    "chapter_name": "dual nature of radiation and matter",
+    "question_type": "multipart",
+    "question_text": "Find the maximum frequency, and minimum wavelength of X-rays produced by 30 kV electrons.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Maximum frequency produced by the X-rays = ν",
+        "part_latex": null,
+        "answer_text": "The maximum frequency of X-rays produced is 7.24 × 10^18 Hz.",
+        "answer_latex": "ν = 7.24 \\times 10^{18} \\text{ Hz}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the energy of the electrons using the potential.",
+            "expression": "E = 3 \\times 10^{4} \\text{ eV}"
+          },
+          {
+            "step_number": 2,
+            "description": "Use the relation E = hν to find the maximum frequency.",
+            "expression": "ν = \\frac{E}{h} = \\frac{3 \\times 10^{4} \\text{ eV}}{6.626 \\times 10^{-34} \\text{ Js}}"
+          }
+        ],
+        "final_answer": "Therefore, the maximum frequency of X-rays produced is 7.24 × 10^18 Hz.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "The minimum wavelength produced by the X-rays is given as:",
+        "part_latex": null,
+        "answer_text": "The minimum wavelength of X-rays produced is 0.0414 nm.",
+        "answer_latex": "λ_{min} = 0.0414 \\text{ nm}",
+        "steps": [],
+        "final_answer": "Thus, the minimum wavelength of X-rays produced is 0.0414 nm.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical derivation showing the relationship between energy and frequency of X-rays.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759174/ncert/physics/11/img_1_0.png",
+      "latex_extracted": "\\begin{array}{l}{{\\mathrm{:}\\cdot\\nu={\\frac{E}{h}}}}\\\\ {{\\qquad\\qquad\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}={\\frac{1.6\\times10^{-9}\\times10^{-14}}{6.826\\times10^{34}}}=7.24\\times10^{18}\\ \\mathrm{HZ}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of energy-frequency relationship and requires calculations.",
+    "topics_tags": [
+      "X-rays",
+      "Frequency",
+      "Wavelength",
+      "Photoelectric Effect"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical derivation showing the relationship between energy and frequency of X-rays.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759174/ncert/physics/11/img_1_0.png",
+        "latex_extracted": "\\begin{array}{l}{{\\mathrm{:}\\cdot\\nu={\\frac{E}{h}}}}\\\\ {{\\qquad\\qquad\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}={\\frac{1.6\\times10^{-9}\\times10^{-14}}{6.826\\times10^{34}}}=7.24\\times10^{18}\\ \\mathrm{HZ}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q11.2",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 11,
+    "chapter_name": "dual nature of radiation and matter",
+    "question_type": "multipart",
+    "question_text": "The work function of caesiumm metal is 2.14 eV. When light of frequency 6 × 10^14 Hz is incident on the metal surface, photoemission of electrons occurs. What is the maximum kinetic energy of the emitted electrons, stopping potential, and maximum speed of the emitted photoelectrons?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "The maximum kinetic energy is given by the photoelectric effect as:",
+        "part_latex": null,
+        "answer_text": "The maximum kinetic energy of the emitted electrons is 0.345 eV.",
+        "answer_latex": "K = 0.345 \\text{ eV}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the energy of the incident photons using E = hν.",
+            "expression": "E = hν = 6.626 \\times 10^{-34} \\text{ Js} \\times 6 \\times 10^{14} \\text{ Hz}"
+          },
+          {
+            "step_number": 2,
+            "description": "Subtract the work function from the photon energy to find the kinetic energy.",
+            "expression": "K = E - \\text{Work Function} = E - 2.14 \\text{ eV}"
+          }
+        ],
+        "final_answer": "Thus, the maximum kinetic energy of the emitted electrons is 0.345 eV.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Stopping potential:",
+        "part_latex": null,
+        "answer_text": "The stopping potential of the material is 0.345 V.",
+        "answer_latex": "V_{0} = 0.345 \\text{ V}",
+        "steps": [],
+        "final_answer": "Therefore, the stopping potential is 0.345 V.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "Maximum speed of the emitted photoelectrons = v",
+        "part_latex": null,
+        "answer_text": "The maximum speed of the emitted photoelectrons is 332.3 km/s.",
+        "answer_latex": "v = 332.3 \\text{ km/s}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the kinetic energy formula to find the speed.",
+            "expression": "K = \\frac{1}{2} mv^{2}"
+          },
+          {
+            "step_number": 2,
+            "description": "Rearrange to solve for v.",
+            "expression": "v = \\sqrt{\\frac{2K}{m}}"
+          }
+        ],
+        "final_answer": "Thus, the maximum speed of the emitted photoelectrons is 332.3 km/s.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical derivation related to the photoelectric effect.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759185/ncert/physics/11/img_2_0.png",
+      "latex_extracted": "\\begin{array}{l}{{\\lambda=\\frac{c}{\\nu}~~~~}}\\\\ {{~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~}}}\\\\ {{~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~}}\\\\ {{~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~}{{~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~}{{{~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~}}{{{{{{{{{~~~~~~~~~~~}}}}}}}}}}}}}\\\\ {{{{{{{{{{{-}}}}}}}}}}}}}}}}\\end{array}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Involves multiple calculations and understanding of the photoelectric effect.",
+    "topics_tags": [
+      "Photoelectric Effect",
+      "Kinetic Energy",
+      "Stopping Potential",
+      "Speed of Electrons"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical derivation related to the photoelectric effect.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759185/ncert/physics/11/img_2_0.png",
+        "latex_extracted": "\\begin{array}{l}{{\\lambda=\\frac{c}{\\nu}~~~~}}\\\\ {{~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~}}}\\\\ {{~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~}}\\\\ {{~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~}{{~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~}{{{~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~}}{{{{{{{{{~~~~~~~~~~~}}}}}}}}}}}}}\\\\ {{{{{{{{{{{-}}}}}}}}}}}}}}}}\\end{array}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q11.3",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 11,
+    "chapter_name": "dual nature of radiation and matter",
+    "question_type": "multipart",
+    "question_text": "Monochromatic light of wavelength 632.8 nm is produced by a helium-neon laser. The power emitted is 9.42 mW. Find the energy and momentum of each photon in the light beam, how many photons per second, on the average, arrive at a target irradiated by this beam? (Assume the beam to have uniform cross-section which is less than the target area), and how fast does a hydrogen atom have to travel in order to have the same momentum as that of the photon?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of energy and momentum of photons",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759220/ncert/physics/11/img_5_0.png",
+      "latex_extracted": "\\begin{array}{c}{{E=\\frac{\\hbar c}{\\lambda}}}\\\\ {{\\qquad\\qquad\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}{\\operatorname{G}32.8\\times10^{\\circ}}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}=\\frac{\\delta.141\\times10^{\\circ}}{\\delta2.8\\times10^{\\circ}}}\\end{array}",
+      "source_page_number": 5,
+      "source_image_index": 0,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Find the energy and momentum of each photon in the light beam.",
+        "part_latex": null,
+        "answer_text": "The energy of each photon is given by E = \\frac{hc}{\\lambda} and the momentum is given by p = \\frac{E}{c}.",
+        "answer_latex": "E = \\frac{6.626 \\times 10^{-34} \\times 3 \\times 10^{8}}{632.8 \\times 10^{-9}} = 3.14 \\times 10^{-19} J, \\quad p = \\frac{E}{c} = \\frac{3.14 \\times 10^{-19}}{3 \\times 10^{8}} = 1.05 \\times 10^{-27} kg \\cdot m/s",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the energy of each photon using the formula E = \\frac{hc}{\\lambda}.",
+            "expression": "E = \\frac{6.626 \\times 10^{-34} \\times 3 \\times 10^{8}}{632.8 \\times 10^{-9}}"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the momentum of each photon using the formula p = \\frac{E}{c}.",
+            "expression": "p = \\frac{E}{c}"
+          }
+        ],
+        "final_answer": "Thus, the energy of each photon is 3.14 × 10^{-19} J and the momentum is 1.05 × 10^{-27} kg·m/s.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "How many photons per second, on the average, arrive at a target irradiated by this beam?",
+        "part_latex": null,
+        "answer_text": "The number of photons per second is given by n = \\frac{P}{E}.",
+        "answer_latex": "n = \\frac{9.42 \\times 10^{-3}}{3.14 \\times 10^{-19}} = 3.00 \\times 10^{16} photons/s",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the power of the laser and the energy of each photon to find the number of photons per second.",
+            "expression": "n = \\frac{P}{E}"
+          }
+        ],
+        "final_answer": "Therefore, approximately 3.00 × 10^{16} photons arrive at the target per second.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "How fast does a hydrogen atom have to travel in order to have the same momentum as that of the photon?",
+        "part_latex": null,
+        "answer_text": "The speed of the hydrogen atom is given by v = \\frac{p}{m}.",
+        "answer_latex": "v = \\frac{1.05 \\times 10^{-27}}{1.66 \\times 10^{-27}} \\approx 0.634 c",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the speed of the hydrogen atom using the momentum and mass.",
+            "expression": "v = \\frac{p}{m}"
+          }
+        ],
+        "final_answer": "Thus, the hydrogen atom must travel at approximately 0.634 times the speed of light.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Involves multiple calculations and understanding of photon properties.",
+    "topics_tags": [
+      "Photon Energy",
+      "Momentum",
+      "Hydrogen Atom"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of energy and momentum of photons",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759220/ncert/physics/11/img_5_0.png",
+        "latex_extracted": "\\begin{array}{c}{{E=\\frac{\\hbar c}{\\lambda}}}\\\\ {{\\qquad\\qquad\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}{\\operatorname{G}32.8\\times10^{\\circ}}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}=\\frac{\\delta.141\\times10^{\\circ}}{\\delta2.8\\times10^{\\circ}}}\\end{array}",
+        "source_page_number": 5,
+        "source_image_index": 0,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.4",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 11,
+    "chapter_name": "dual nature of radiation and matter",
+    "question_type": "numerical",
+    "question_text": "The energy flux of sunlight reaching the surface of the earth is 1.388 × 10^3 W/m². How many photons (nearly) per square metre are incident on the Earth per second? Assume that the photons in the sunlight have an average wavelength of 550 nm.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of energy flux and photon calculation",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759245/ncert/physics/11/img_6_0.png",
+      "latex_extracted": "\\begin{array}{l}{{P=n E}}\\\\ {{E}}\\\\ {{\\vdots\\displaystyle n={\\frac{P}{E}}={\\frac{P\\lambda}{h c}}}}\\\\ {{\\vdots\\displaystyle n={\\frac{P}{E}}={\\frac{P\\lambda}{h c}}}}\\end{array}",
+      "source_page_number": 6,
+      "source_image_index": 0,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The number of photons per square metre incident on Earth per second is approximately 3.84 × 10^21.",
+    "answer_latex": "n = \\frac{1.388 \\times 10^{3}}{6.626 \\times 10^{-34} \\times 3 \\times 10^{8} / 550 \\times 10^{-9}} = 3.84 \\times 10^{21} photons/m^2/s",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the energy of each photon using the formula E = \\frac{hc}{\\lambda}.",
+        "expression": "E = \\frac{6.626 \\times 10^{-34} \\times 3 \\times 10^{8}}{550 \\times 10^{-9}}"
+      },
+      {
+        "step_number": 2,
+        "description": "Use the energy and power to find the number of photons per square metre.",
+        "expression": "n = \\frac{P}{E}"
+      }
+    ],
+    "final_answer": "Therefore, approximately 3.84 × 10^{21} photons are incident on the Earth per square metre per second.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of energy flux and photon calculations.",
+    "topics_tags": [
+      "Energy Flux",
+      "Photons",
+      "Sunlight"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of energy flux and photon calculation",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759245/ncert/physics/11/img_6_0.png",
+        "latex_extracted": "\\begin{array}{l}{{P=n E}}\\\\ {{E}}\\\\ {{\\vdots\\displaystyle n={\\frac{P}{E}}={\\frac{P\\lambda}{h c}}}}\\\\ {{\\vdots\\displaystyle n={\\frac{P}{E}}={\\frac{P\\lambda}{h c}}}}\\end{array}",
+        "source_page_number": 6,
+        "source_image_index": 0,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.5",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 11,
+    "chapter_name": "dual nature of radiation and matter",
+    "question_type": "numerical",
+    "question_text": "In an experiment on photoelectric effect, the slope of the cut-off voltage versus frequency of incident light is found to be 4.12 × 10−15 V s. Calculate the value of Planck’s constant.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of the slope of cut-off voltage versus frequency.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759265/ncert/physics/11/img_7_0.png",
+      "latex_extracted": "\\begin{array}{l}{{\\frac{V}{v}=4.12\\times10^{-1s}\\ \\mathrm{Vs}}}\\\\ {{\\nu}}\\\\ {{y}}\\\\ {{\\frac{1}{1\\ {\\mathrm{is\\relatedto~frequency~by~the~equation}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The value of Planck’s constant is calculated using the formula h = e × (V/ν).",
+    "answer_latex": "h = e \\times \\frac{V}{\\nu} = 1.6 \\times 10^{-19} \\times 4.12 \\times 10^{-15} = 6.592 \\times 10^{-34} \\mathrm{~Js}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the relationship between cut-off voltage and frequency.",
+        "expression": "h = e \\times \\frac{V}{\\nu}"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values of charge and slope into the equation.",
+        "expression": "h = 1.6 \\times 10^{-19} \\times 4.12 \\times 10^{-15}"
+      }
+    ],
+    "final_answer": "Therefore, the value of Planck’s constant is 6.592 × 10^{-34} Js.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical calculation showing the derivation of Planck's constant.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759267/ncert/physics/11/img_7_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of the photoelectric effect and substitution in a formula.",
+    "topics_tags": [
+      "Photoelectric Effect",
+      "Planck's Constant",
+      "Quantum Physics"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the slope of cut-off voltage versus frequency.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759265/ncert/physics/11/img_7_0.png",
+        "latex_extracted": "\\begin{array}{l}{{\\frac{V}{v}=4.12\\times10^{-1s}\\ \\mathrm{Vs}}}\\\\ {{\\nu}}\\\\ {{y}}\\\\ {{\\frac{1}{1\\ {\\mathrm{is\\relatedto~frequency~by~the~equation}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical calculation showing the derivation of Planck's constant.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759267/ncert/physics/11/img_7_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q11.6",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 11,
+    "chapter_name": "dual nature of radiation and matter",
+    "question_type": "mcq",
+    "question_text": "A sodium lamp emits light with a power of 100 W and a wavelength of 589 nm. (a) Calculate the energy per photon associated with the sodium light. (b) Calculate the number of photons delivered to the sphere per second.",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "Calculate the energy per photon associated with the sodium light."
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "Calculate the number of photons delivered to the sphere per second."
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of energy per photon calculation.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759275/ncert/physics/11/img_8_0.png",
+      "latex_extracted": "\\begin{array}{l}{{=\\displaystyle\\frac{6.626\\times10^{-3}\\times3\\times10^{3}}{589\\times10^{-9}}=3.37\\times10^{-19}\\mathrm{~J}}}\\\\ {{=\\displaystyle\\frac{589\\times10^{-19}}{1.6\\times10^{-19}}=2.11\\ {\\mathrm{eV}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Calculate the energy per photon associated with the sodium light.",
+        "part_latex": null,
+        "answer_text": "The energy per photon is calculated to be 3.37 x 10^-19 J.",
+        "answer_latex": "E = 3.37 \\times 10^{-19} \\mathrm{~J}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the formula E = \\frac{hc}{\\lambda} to calculate energy per photon.",
+            "expression": "E = \\frac{6.626 \\times 10^{-34} \\times 3 \\times 10^{8}}{589 \\times 10^{-9}}"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the values to find the energy.",
+            "expression": "E = 3.37 \\times 10^{-19} \\mathrm{~J}"
+          }
+        ],
+        "final_answer": "Therefore, the energy per photon associated with the sodium light is 3.37 x 10^-19 J.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Calculate the number of photons delivered to the sphere per second.",
+        "part_latex": null,
+        "answer_text": "The number of photons delivered to the sphere is approximately 2.96 x 10^30 photons/s.",
+        "answer_latex": "n = 2.96 \\times 10^{30} \\mathrm{~photons/s}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the formula P = nE to find the number of photons.",
+            "expression": "n = \\frac{P}{E}"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the power and energy values to find n.",
+            "expression": "n = \\frac{100}{3.37 \\times 10^{-19}}"
+          },
+          {
+            "step_number": 3,
+            "description": "Calculate the number of photons delivered per second.",
+            "expression": "n = 2.96 \\times 10^{30} \\mathrm{~photons/s}"
+          }
+        ],
+        "final_answer": "Thus, approximately 2.96 x 10^30 photons are delivered to the sphere every second.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of photon energy and power equations, involving multiple calculations.",
+    "topics_tags": [
+      "Photon Energy",
+      "Sodium Lamp",
+      "Power Calculation"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of energy per photon calculation.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759275/ncert/physics/11/img_8_0.png",
+        "latex_extracted": "\\begin{array}{l}{{=\\displaystyle\\frac{6.626\\times10^{-3}\\times3\\times10^{3}}{589\\times10^{-9}}=3.37\\times10^{-19}\\mathrm{~J}}}\\\\ {{=\\displaystyle\\frac{589\\times10^{-19}}{1.6\\times10^{-19}}=2.11\\ {\\mathrm{eV}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.7",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 11,
+    "chapter_name": "dual nature of radiation and matter",
+    "question_type": "mcq",
+    "question_text": "The threshold frequency for a certain metal is 3.3 × 10^14 Hz. If light of frequency 8.2 × 10^14 Hz is incident on the metal, predict the cutoff voltage for the photoelectric emission.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The cut-off voltage for the photoelectric emission from the metal can be calculated using the equation eV_0 = h(ν - ν_0).",
+    "answer_latex": "V_0 = \\frac{h(\\nu - \\nu_0)}{e}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the threshold frequency and the frequency of incident light.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values into the cut-off voltage equation.",
+        "expression": "V_0 = \\frac{h(8.2 \\times 10^{14} - 3.3 \\times 10^{14})}{1.6 \\times 10^{-19}}"
+      }
+    ],
+    "final_answer": "Therefore, the cut-off voltage for the photoelectric emission is calculated using the provided values.",
+    "answer_image": {
+      "present": true,
+      "description": "Equation for the cut-off energy related to photoelectric emission.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759299/ncert/physics/11/img_9_0.png",
+      "latex_extracted": "\\begin{array}{l}{{e V_{\\scriptscriptstyle0}=h\\big(\\nu-\\nu_{\\scriptscriptstyle0}\\big)}}\\\\ {{}}\\\\ {{}}\\\\ {{\\phantom{\\frac{}{\\partial}}\\end{array}\\qquad\\qquad\\qquad}}\\\\ {{\\qquad\\qquad\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad\\qquad\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad\\qquad}}\\\\ {{\\qquad\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad\\qquad}}\\\\ {{\\qquad\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}}\\\\ {{\\qquad\\qquad\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad\\qquad}}\\\\ {{\\qquad}}}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of photoelectric effect and substitution into the formula.",
+    "topics_tags": [
+      "Photoelectric Effect",
+      "Threshold Frequency",
+      "Cut-off Voltage"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "Some text garbling in the extraction."
+    ],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Equation for the cut-off energy related to photoelectric emission.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759299/ncert/physics/11/img_9_0.png",
+        "latex_extracted": "\\begin{array}{l}{{e V_{\\scriptscriptstyle0}=h\\big(\\nu-\\nu_{\\scriptscriptstyle0}\\big)}}\\\\ {{}}\\\\ {{}}\\\\ {{\\phantom{\\frac{}{\\partial}}\\end{array}\\qquad\\qquad\\qquad}}\\\\ {{\\qquad\\qquad\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad\\qquad\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad\\qquad}}\\\\ {{\\qquad\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad\\qquad}}\\\\ {{\\qquad\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}}\\\\ {{\\qquad\\qquad\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad\\qquad}}\\\\ {{\\qquad}}}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q11.8",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 11,
+    "chapter_name": "dual nature of radiation and matter",
+    "question_type": "mcq",
+    "question_text": "Light of frequency 7.21 × 10^14 Hz is incident on a metal surface. Electrons with a maximum speed of 6.0 × 10^5 m/s are ejected from the surface. What is the threshold frequency for photoemission of electrons?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The threshold frequency for photoemission of electrons can be calculated using the relation between kinetic energy and frequency.",
+    "answer_latex": "f_{threshold} = \\frac{h}{eV} + f_{incident}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the kinetic energy of the ejected electrons using their maximum speed.",
+        "expression": "KE = \\frac{1}{2}mv^2"
+      },
+      {
+        "step_number": 2,
+        "description": "Use the relation between kinetic energy and the threshold frequency to find the threshold frequency.",
+        "expression": "f_{threshold} = \\frac{KE}{h} + f_{incident}"
+      }
+    ],
+    "final_answer": "Thus, the threshold frequency for photoemission of electrons is calculated based on the given parameters.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of the energy of incident photons and their relation to the work function.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759315/ncert/physics/11/img_10_0.png",
+      "latex_extracted": "\\begin{array}{c}{{{\\cal E}=\\frac{\\displaystyle\\bar{\\imath}c}{\\displaystyle\\lambda}}}\\\\ {{\\displaystyle\\bar{\\lambda}}}\\\\ {{\\displaystyle\\bar{3}30\\times10^{-19}=3.76\\ll1}}\\\\ {{=\\frac{\\displaystyle\\bar{6}.626\\times10^{-19}}{\\displaystyle\\bar{\\bf0}}=5.76\\ll10^{-19}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of kinetic energy and its relation to frequency, involving multiple steps.",
+    "topics_tags": [
+      "Photoelectric Effect",
+      "Threshold Frequency",
+      "Kinetic Energy"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "Some text garbling and incomplete extraction of question context."
+    ],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the energy of incident photons and their relation to the work function.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759315/ncert/physics/11/img_10_0.png",
+        "latex_extracted": "\\begin{array}{c}{{{\\cal E}=\\frac{\\displaystyle\\bar{\\imath}c}{\\displaystyle\\lambda}}}\\\\ {{\\displaystyle\\bar{\\lambda}}}\\\\ {{\\displaystyle\\bar{3}30\\times10^{-19}=3.76\\ll1}}\\\\ {{=\\frac{\\displaystyle\\bar{6}.626\\times10^{-19}}{\\displaystyle\\bar{\\bf0}}=5.76\\ll10^{-19}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q11.9",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 11,
+    "chapter_name": "dual nature of radiation and matter",
+    "question_type": "numerical",
+    "question_text": "Light of wavelength 488 nm is produced by an argon laser which is used in the photoelectric effect. When light from this spectral line is incident on the emitter, the stopping (cut-off) potential of photoelectrons is 0.38 V. Find the work function of the material from which the emitter is made.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The work function of the material can be calculated using the stopping potential and the energy of the incident photons.",
+    "answer_latex": "W = eV + \\frac{hc}{\\lambda}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Convert the wavelength from nm to meters.",
+        "expression": "\\lambda = 488 \\times 10^{-9} m"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the energy of the incident photons using the wavelength.",
+        "expression": "E = \\frac{hc}{\\lambda}"
+      },
+      {
+        "step_number": 3,
+        "description": "Use the stopping potential to find the work function.",
+        "expression": "W = eV + E"
+      }
+    ],
+    "final_answer": "Therefore, the work function of the material is calculated based on the stopping potential and photon energy.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of the relation involving work function and stopping potential.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759324/ncert/physics/11/img_11_0.png",
+      "latex_extracted": "\\begin{array}{l}{{\\frac{1}{2}m v^{2}=h\\big(\\nu-\\nu_{\\mathrm{o}}\\big)}}\\\\ {{\\frac{1}{2}=7.21\\times10^{4}-\\frac{\\big(9.1\\times10^{-31}\\big)\\times\\big(6\\times10^{54}\\big)}{2\\times\\big(6.626\\times10^{54}\\big)}}}\\\\ {{\\phantom{\\frac{1}{2}}=7.21\\times10^{4}\\Bigg(}}\\\\ {{\\mathrm{~\\left(9.1\\times10^{4}\\right)\\times\\cdots10^{14}\\mathrm{~\\cal{Hz}~}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations and understanding of photoelectric effect principles.",
+    "topics_tags": [
+      "Photoelectric Effect",
+      "Work Function",
+      "Photon Energy"
+    ],
+    "confidence_score": 0.88,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the relation involving work function and stopping potential.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759324/ncert/physics/11/img_11_0.png",
+        "latex_extracted": "\\begin{array}{l}{{\\frac{1}{2}m v^{2}=h\\big(\\nu-\\nu_{\\mathrm{o}}\\big)}}\\\\ {{\\frac{1}{2}=7.21\\times10^{4}-\\frac{\\big(9.1\\times10^{-31}\\big)\\times\\big(6\\times10^{54}\\big)}{2\\times\\big(6.626\\times10^{54}\\big)}}}\\\\ {{\\phantom{\\frac{1}{2}}=7.21\\times10^{4}\\Bigg(}}\\\\ {{\\mathrm{~\\left(9.1\\times10^{4}\\right)\\times\\cdots10^{14}\\mathrm{~\\cal{Hz}~}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q11.10",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 11,
+    "chapter_name": "dual nature of radiation and matter",
+    "question_type": "numerical",
+    "question_text": "Calculate the momentum and de Broglie wavelength of the electrons accelerated through a potential difference of 56 V.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The momentum and de Broglie wavelength can be calculated using the relations involving potential difference and electron properties.",
+    "answer_latex": "p = \\sqrt{2m eV}, \\lambda = \\frac{h}{p}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the kinetic energy of the electrons using the potential difference.",
+        "expression": "KE = eV"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the momentum using the mass of the electron and kinetic energy.",
+        "expression": "p = \\sqrt{2m \\cdot KE}"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the de Broglie wavelength using the momentum.",
+        "expression": "\\lambda = \\frac{h}{p}"
+      }
+    ],
+    "final_answer": "Thus, the momentum and de Broglie wavelength of the electrons are determined from the given potential difference.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of the relation involving momentum and de Broglie wavelength.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759330/ncert/physics/11/img_12_0.png",
+      "latex_extracted": "\\begin{array}{l}{\\epsilon V_{o}=\\frac{h c}{\\lambda}-\\phi_{o}}\\\\ {\\lambda}\\\\ {\\phi}\\\\ {\\phi_{o}=\\frac{h c}{\\lambda}-e V_{o}^{-1}\\times\\lambda8\\times10^{-6}-\\frac{1.6\\times10^{-19}\\times038}{1.6\\times10^{-19}\\times10^{-18}}}\\\\ {\\phi_{0}=\\frac{h c}{\\lambda}-e V_{o}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Involves multiple calculations and understanding of quantum mechanics principles.",
+    "topics_tags": [
+      "Momentum",
+      "de Broglie Wavelength",
+      "Photoelectric Effect"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the relation involving momentum and de Broglie wavelength.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759330/ncert/physics/11/img_12_0.png",
+        "latex_extracted": "\\begin{array}{l}{\\epsilon V_{o}=\\frac{h c}{\\lambda}-\\phi_{o}}\\\\ {\\lambda}\\\\ {\\phi}\\\\ {\\phi_{o}=\\frac{h c}{\\lambda}-e V_{o}^{-1}\\times\\lambda8\\times10^{-6}-\\frac{1.6\\times10^{-19}\\times038}{1.6\\times10^{-19}\\times10^{-18}}}\\\\ {\\phi_{0}=\\frac{h c}{\\lambda}-e V_{o}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q11.11",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 11,
+    "chapter_name": "dual nature of radiation and matter",
+    "question_type": "numerical",
+    "question_text": "What is the momentum, speed, and de Broglie wavelength of an electron accelerating through a potential?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical relation for kinetic energy of an electron in terms of accelerating potential.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759338/ncert/physics/11/img_13_0.png",
+      "latex_extracted": "\\begin{array}{l}{{\\frac{1}{2}m v^{3}=e V}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}_{\\mathrm{~}}v_{\\mathrm{~}}\\times10^{3}=e4\\times10^{4}\\cdot10^{4}\\cdot\\mathrm{~}}{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}=\\sqrt{19..09\\cdot10^{4}=4.44\\times10^{5}\\mathrm{~}}{\\mathrm{~}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The momentum of each electron is 4.04 × 10−24 kg m s−1 and the de Broglie wavelength is 0.1639 nm.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the momentum using the mass and speed of the electron.",
+        "expression": "p = mv = 9.1 \\times 10^{-31} \\times 4.44 \\times 10^{6}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the de Broglie wavelength using the momentum.",
+        "expression": "\\lambda = \\frac{h}{p}"
+      }
+    ],
+    "final_answer": "Therefore, the momentum of each electron is 4.04 × 10−24 kg m s−1 and the de Broglie wavelength is 0.1639 nm.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves calculations for momentum and wavelength, requiring understanding of concepts.",
+    "topics_tags": [
+      "Momentum",
+      "De Broglie Wavelength",
+      "Kinetic Energy"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical relation for kinetic energy of an electron in terms of accelerating potential.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759338/ncert/physics/11/img_13_0.png",
+        "latex_extracted": "\\begin{array}{l}{{\\frac{1}{2}m v^{3}=e V}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}_{\\mathrm{~}}v_{\\mathrm{~}}\\times10^{3}=e4\\times10^{4}\\cdot10^{4}\\cdot\\mathrm{~}}{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}=\\sqrt{19..09\\cdot10^{4}=4.44\\times10^{5}\\mathrm{~}}{\\mathrm{~}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.12",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 11,
+    "chapter_name": "dual nature of radiation and matter",
+    "question_type": "numerical",
+    "question_text": "Find the de Broglie wavelength of an electron with kinetic energy of 120 eV.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical relation for speed of an electron derived from kinetic energy.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759347/ncert/physics/11/img_14_0.png",
+      "latex_extracted": "\\begin{array}{c}{{\\mathrm{:}\\nu^{2}={\\sqrt{\\frac{2e E_{s}}{m}}}}}\\\\ {{}}\\\\ {{}}\\\\ {{={\\sqrt{\\frac{2\\times16\\times10^{-19}\\times120}{9.1\\times10^{-2}}}}=6.496\\times10^{6~\\mathrm{m/S}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The de Broglie wavelength of the electron is 0.112 nm.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the speed of the electron using kinetic energy.",
+        "expression": "v = \\sqrt{\\frac{2eE}{m}}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the de Broglie wavelength using the momentum.",
+        "expression": "\\lambda = \\frac{h}{p}"
+      }
+    ],
+    "final_answer": "Therefore, the de Broglie wavelength of the electron is 0.112 nm.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves calculations for speed and wavelength, requiring understanding of concepts.",
+    "topics_tags": [
+      "De Broglie Wavelength",
+      "Kinetic Energy",
+      "Electron"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical relation for speed of an electron derived from kinetic energy.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759347/ncert/physics/11/img_14_0.png",
+        "latex_extracted": "\\begin{array}{c}{{\\mathrm{:}\\nu^{2}={\\sqrt{\\frac{2e E_{s}}{m}}}}}\\\\ {{}}\\\\ {{}}\\\\ {{={\\sqrt{\\frac{2\\times16\\times10^{-19}\\times120}{9.1\\times10^{-2}}}}=6.496\\times10^{6~\\mathrm{m/S}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.13",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 11,
+    "chapter_name": "dual nature of radiation and matter",
+    "question_type": "conceptual",
+    "question_text": "What is the de Broglie wavelength of an electron?",
+    "question_latex": "\\lambda=\\frac{h}{m_{e}v}",
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Equation showing the de Broglie wavelength formula for an electron.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759352/ncert/physics/11/img_16_0.png",
+      "latex_extracted": "\\lambda=\\frac{h}{m_{e}v}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The de Broglie wavelength of an electron can be calculated using the formula \\lambda=\\frac{h}{m_{e}v}.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the de Broglie wavelength is determined by the electron's momentum.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of de Broglie wavelength concept and its formula.",
+    "topics_tags": [
+      "de Broglie Wavelength",
+      "Quantum Mechanics",
+      "Wave-Particle Duality"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Equation showing the de Broglie wavelength formula for an electron.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759352/ncert/physics/11/img_16_0.png",
+        "latex_extracted": "\\lambda=\\frac{h}{m_{e}v}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.14",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 11,
+    "chapter_name": "dual nature of radiation and matter",
+    "question_type": "multipart",
+    "question_text": "Calculate the de Broglie wavelength for a bullet of mass 0.040 kg, a ball of mass 0.060 kg, and a dust particle of mass 1.0 × 10−9 kg.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Calculate the de Broglie wavelength of the bullet.",
+        "part_latex": null,
+        "answer_text": "The de Broglie wavelength of the bullet is given by \\lambda = \\frac{h}{mv} where m = 0.040 kg and v = 1000 m/s.",
+        "answer_latex": "\\lambda = \\frac{6.6 \\times 10^{-34}}{0.040 \\times 1000}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Substitute the values into the de Broglie wavelength formula.",
+            "expression": "\\lambda = \\frac{6.6 \\times 10^{-34}}{0.040 \\times 1000}"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the wavelength.",
+            "expression": "\\lambda = \\frac{6.6 \\times 10^{-34}}{40} = 1.65 \\times 10^{-35} m"
+          }
+        ],
+        "final_answer": "Thus, the de Broglie wavelength of the bullet is approximately 1.65 × 10^{-35} m.",
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Calculate the de Broglie wavelength of the ball.",
+        "part_latex": null,
+        "answer_text": "The de Broglie wavelength of the ball is given by \\lambda = \\frac{h}{mv} where m = 0.060 kg and v = 1.0 m/s.",
+        "answer_latex": "\\lambda = \\frac{6.6 \\times 10^{-34}}{0.060 \\times 1}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Substitute the values into the de Broglie wavelength formula.",
+            "expression": "\\lambda = \\frac{6.6 \\times 10^{-34}}{0.060}"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the wavelength.",
+            "expression": "\\lambda = \\frac{6.6 \\times 10^{-34}}{0.060} = 1.1 \\times 10^{-32} m"
+          }
+        ],
+        "final_answer": "Thus, the de Broglie wavelength of the ball is approximately 1.1 × 10^{-32} m.",
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "Calculate the de Broglie wavelength of the dust particle.",
+        "part_latex": null,
+        "answer_text": "The de Broglie wavelength of the dust particle is given by \\lambda = \\frac{h}{mv} where m = 1.0 × 10^{-9} kg and v = 2.2 m/s.",
+        "answer_latex": "\\lambda = \\frac{6.6 \\times 10^{-34}}{1.0 \\times 10^{-9} \\times 2.2}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Substitute the values into the de Broglie wavelength formula.",
+            "expression": "\\lambda = \\frac{6.6 \\times 10^{-34}}{1.0 \\times 10^{-9} \\times 2.2}"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the wavelength.",
+            "expression": "\\lambda = \\frac{6.6 \\times 10^{-34}}{2.2 \\times 10^{-9}} = 3.0 \\times 10^{-25} m"
+          }
+        ],
+        "final_answer": "Thus, the de Broglie wavelength of the dust particle is approximately 3.0 × 10^{-25} m.",
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations and understanding of de Broglie wavelength.",
+    "topics_tags": [
+      "de Broglie Wavelength",
+      "Mass and Velocity",
+      "Quantum Mechanics"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.15",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 11,
+    "chapter_name": "dual nature of radiation and matter",
+    "question_type": "multipart",
+    "question_text": "An electron and a photon each have a wavelength of 1.00 nm. Find their momenta, the energy of the photon, and the kinetic energy of the electron.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Find the momentum of the electron.",
+        "part_latex": null,
+        "answer_text": "The momentum of the electron is given by p = \\frac{h}{\\lambda} where \\lambda = 1.00 nm.",
+        "answer_latex": "p = \\frac{6.63 \\times 10^{-34}}{1.00 \\times 10^{-9}}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Substitute the values into the momentum formula.",
+            "expression": "p = \\frac{6.63 \\times 10^{-34}}{1.00 \\times 10^{-9}}"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the momentum.",
+            "expression": "p = 6.63 \\times 10^{-25} kg\\cdot m/s"
+          }
+        ],
+        "final_answer": "Thus, the momentum of the electron is approximately 6.63 × 10^{-25} kg·m/s.",
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Find the energy of the photon.",
+        "part_latex": null,
+        "answer_text": "The energy of the photon is given by E = \\frac{hc}{\\lambda} where c = 3.00 \\times 10^{8} m/s.",
+        "answer_latex": "E = \\frac{(6.63 \\times 10^{-34})(3.00 \\times 10^{8})}{1.00 \\times 10^{-9}}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Substitute the values into the energy formula.",
+            "expression": "E = \\frac{(6.63 \\times 10^{-34})(3.00 \\times 10^{8})}{1.00 \\times 10^{-9}}"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the energy.",
+            "expression": "E = 1.989 \\times 10^{-16} J"
+          }
+        ],
+        "final_answer": "Thus, the energy of the photon is approximately 1.989 × 10^{-16} J.",
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "Find the kinetic energy of the electron.",
+        "part_latex": null,
+        "answer_text": "The kinetic energy of the electron is given by KE = \\frac{p^2}{2m_e} where m_e = 9.11 \\times 10^{-31} kg.",
+        "answer_latex": "KE = \\frac{(6.63 \\times 10^{-25})^2}{2(9.11 \\times 10^{-31})}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Substitute the values into the kinetic energy formula.",
+            "expression": "KE = \\frac{(6.63 \\times 10^{-25})^2}{2(9.11 \\times 10^{-31})}"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the kinetic energy.",
+            "expression": "KE = 2.25 \\times 10^{-14} J"
+          }
+        ],
+        "final_answer": "Thus, the kinetic energy of the electron is approximately 2.25 × 10^{-14} J.",
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Involves multiple calculations and understanding of quantum mechanics principles.",
+    "topics_tags": [
+      "Photon Energy",
+      "Electron Kinetic Energy",
+      "Momentum"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.16",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 11,
+    "chapter_name": "dual nature of radiation and matter",
+    "question_type": "mcq",
+    "question_text": "For what kinetic energy of a neutron will the associated de Broglie wavelength be 1.40 × 10−10 m? Also find the de Broglie wavelength of a neutron, in thermal equilibrium with matter, having an average kinetic energy of (3/2) kT at 300 K.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "For what kinetic energy of a neutron will the associated de Broglie wavelength be 1.40 × 10−10 m?",
+        "part_latex": null,
+        "answer_text": "The kinetic energy of the neutron can be calculated using the de Broglie wavelength formula.",
+        "answer_latex": "K = \\frac{h^2}{2m\\lambda^2}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the de Broglie wavelength formula to find kinetic energy.",
+            "expression": "K = \\frac{h^2}{2m\\lambda^2}"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the values of Planck's constant, mass of neutron, and wavelength.",
+            "expression": "K = \\frac{(6.63 \\times 10^{-34})^2}{2 \\times (1.675 \\times 10^{-27}) \\times (1.40 \\times 10^{-10})^2}"
+          }
+        ],
+        "final_answer": "Thus, the kinetic energy of the neutron is calculated.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Find the de Broglie wavelength of a neutron, in thermal equilibrium with matter, having an average kinetic energy of (3/2) kT at 300 K.",
+        "part_latex": null,
+        "answer_text": "The de Broglie wavelength can be calculated using the average kinetic energy.",
+        "answer_latex": "\\lambda = \\frac{h}{p} = \\frac{h}{\\sqrt{2mK}}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the average kinetic energy at 300 K.",
+            "expression": "K = \\frac{3}{2} kT"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the values to find the de Broglie wavelength.",
+            "expression": "\\lambda = \\frac{h}{\\sqrt{2mK}}"
+          }
+        ],
+        "final_answer": "Therefore, the de Broglie wavelength of the neutron is determined.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of energy and momentum relationships for photons and electrons.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759378/ncert/physics/11/img_19_0.png",
+      "latex_extracted": "\\begin{array}{c}{{\\therefore E=\\frac{6.63\\times10^{-3}\\times3\\times10^{5}}{1\\times10^{-9}\\times1.6\\times10^{-19}}}}\\\\ {{\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of de Broglie wavelength and kinetic energy calculations.",
+    "topics_tags": [
+      "de Broglie Wavelength",
+      "Kinetic Energy",
+      "Quantum Mechanics"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "Some text garbling and incomplete extraction."
+    ],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of energy and momentum relationships for photons and electrons.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759378/ncert/physics/11/img_19_0.png",
+        "latex_extracted": "\\begin{array}{c}{{\\therefore E=\\frac{6.63\\times10^{-3}\\times3\\times10^{5}}{1\\times10^{-9}\\times1.6\\times10^{-19}}}}\\\\ {{\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q11.17",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 11,
+    "chapter_name": "dual nature of radiation and matter",
+    "question_type": "mcq",
+    "question_text": "Calculate the kinetic energy of a neutron given its de Broglie wavelength λ = 1.40 × 10−10 m and mass m = 1.66 × 10−27 kg.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The kinetic energy of the neutron is 6.75 × 10−21 J or 4.219 × 10−2 eV.",
+    "answer_latex": "K = 6.75 \\times 10^{-21} \\text{ J} \\text{ or } 4.219 \\times 10^{-2} \\text{ eV}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Use the de Broglie wavelength formula to relate wavelength and kinetic energy.",
+        "expression": "K = \\frac{1}{2} \\lambda^2 m_n^2"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values of λ and m into the equation.",
+        "expression": "K = \\frac{\\hbar^2}{2 \\lambda^2 m_n}"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the kinetic energy using the substituted values.",
+        "expression": "K = 6.75 \\times 10^{-21} \\text{ J}"
+      }
+    ],
+    "final_answer": "Therefore, the kinetic energy of the neutron is 6.75 × 10−21 J or 4.219 × 10−2 eV.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical derivation of kinetic energy related to de Broglie wavelength.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759392/ncert/physics/11/img_20_0.png",
+      "latex_extracted": "\\begin{array}{c}{{K=\\displaystyle\\frac{1}{2\\displaystyle\\lambda^{2}m_{n}^{2}}=\\displaystyle\\frac{\\hbar^{2}}{2\\displaystyle\\left(1.40\\times10^{-1}\\right)^{2}\\times1.66\\times10^{-2}}}}\\\\ {{\\;}}\\\\ {{=\\displaystyle\\frac{\\left(6.63\\times10^{-11}\\right)^{2}\\right)\\times1.66\\times10^{-2}}{1\\displaystyle\\left(6.5\\times10^{-11}\\right)^{2}\\right)\\left(6.7\\right)}}}\\\\ {{=\\displaystyle\\frac{\\left(6.5\\times10^{-10}\\right)^{-1}}{1.6\\times10^{-11}}=4.219\\times10^{-2}\\left(8.7\\times10^{-11}\\right)}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves applying the de Broglie wavelength formula and performing calculations.",
+    "topics_tags": [
+      "De Broglie Wavelength",
+      "Kinetic Energy",
+      "Neutron"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical derivation of kinetic energy related to de Broglie wavelength.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759392/ncert/physics/11/img_20_0.png",
+        "latex_extracted": "\\begin{array}{c}{{K=\\displaystyle\\frac{1}{2\\displaystyle\\lambda^{2}m_{n}^{2}}=\\displaystyle\\frac{\\hbar^{2}}{2\\displaystyle\\left(1.40\\times10^{-1}\\right)^{2}\\times1.66\\times10^{-2}}}}\\\\ {{\\;}}\\\\ {{=\\displaystyle\\frac{\\left(6.63\\times10^{-11}\\right)^{2}\\right)\\times1.66\\times10^{-2}}{1\\displaystyle\\left(6.5\\times10^{-11}\\right)^{2}\\right)\\left(6.7\\right)}}}\\\\ {{=\\displaystyle\\frac{\\left(6.5\\times10^{-10}\\right)^{-1}}{1.6\\times10^{-11}}=4.219\\times10^{-2}\\left(8.7\\times10^{-11}\\right)}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q11.18",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 11,
+    "chapter_name": "dual nature of radiation and matter",
+    "question_type": "conceptual",
+    "question_text": "Show that the wavelength of electromagnetic radiation is equal to the de Broglie wavelength of its quantum (photon).",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of the relationship between momentum and wavelength of a photon.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759412/ncert/physics/11/img_21_1.png",
+      "latex_extracted": "\\begin{array}{c}{{p=\\frac{h\\nu}{c}=\\frac{h}{\\lambda}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The momentum of a photon having energy (hν) is given as: p = \\frac{h}{\\lambda}. Therefore, the de Broglie wavelength of the neutron is 0.146 nm.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the relationship between the momentum of a photon and its wavelength.",
+        "expression": "p = \\frac{h}{\\lambda}"
+      }
+    ],
+    "final_answer": "Thus, the wavelength of electromagnetic radiation is equal to the de Broglie wavelength of its quantum.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of the de Broglie wavelength.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759400/ncert/physics/11/img_21_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of quantum mechanics and the relationship between energy, momentum, and wavelength.",
+    "topics_tags": [
+      "De Broglie Wavelength",
+      "Photon",
+      "Electromagnetic Radiation"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the relationship between momentum and wavelength of a photon.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759412/ncert/physics/11/img_21_1.png",
+        "latex_extracted": "\\begin{array}{c}{{p=\\frac{h\\nu}{c}=\\frac{h}{\\lambda}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the de Broglie wavelength.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759400/ncert/physics/11/img_21_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q11.19",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 11,
+    "chapter_name": "dual nature of radiation and matter",
+    "question_type": "numerical",
+    "question_text": "What is the de Broglie wavelength of a nitrogen molecule in air at 300 K? Assume that the molecule is moving with the root-mean square speed of molecules at this temperature.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the de Broglie wavelength formula for a photon.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759430/ncert/physics/11/img_22_0.png",
+      "latex_extracted": "\\lambda=\\frac{h}{m v}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Therefore, the de Broglie wavelength of the nitrogen molecule is 0.028 nm.",
+    "answer_latex": "\\lambda=0.028 \\text{ nm}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the mass of the nitrogen molecule using atomic mass.",
+        "expression": "m = 28.0152 \\times 1.66 \\times 10^{-27} \\text{ kg}"
+      },
+      {
+        "step_number": 2,
+        "description": "Use the root-mean square speed formula to find the speed of the nitrogen molecule.",
+        "expression": "\\nu_{\\mathrm{ms}}={\\sqrt{\\frac{3k T}{m}}}"
+      },
+      {
+        "step_number": 3,
+        "description": "Substitute values into the de Broglie wavelength formula.",
+        "expression": "\\lambda={\\frac{h}{m \\cdot \\nu_{\\mathrm{ms}}}}"
+      }
+    ],
+    "final_answer": "Thus, the de Broglie wavelength of the nitrogen molecule is 0.028 nm.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps including mass calculation and application of formulas.",
+    "topics_tags": [
+      "De Broglie Wavelength",
+      "Kinetic Theory",
+      "Molecular Speed"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the de Broglie wavelength formula for a photon.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759430/ncert/physics/11/img_22_0.png",
+        "latex_extracted": "\\lambda=\\frac{h}{m v}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.20",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 11,
+    "chapter_name": "dual nature of radiation and matter",
+    "question_type": "numerical",
+    "question_text": "Estimate the speed with which electrons emitted from a heated emitter of an evacuated tube impinge on the collector maintained at a potential difference of 500 V with respect to the emitter. Ignore the small initial speeds of the electrons.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "This result is wrong because nothing can move faster than light. In the above formula, the expression (mv^2/2) for energy can only be used in the non-relativistic limit.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the speed of electrons using the kinetic energy formula.",
+        "expression": "v = \\sqrt{\\frac{2eV}{m}}"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values for e, V, and m to find the speed.",
+        "expression": "v = \\sqrt{\\frac{2 \\times 500 \\times 1.76 \\times 10^{11}}{m}}"
+      },
+      {
+        "step_number": 3,
+        "description": "Discuss the limitations of the non-relativistic formula at high speeds.",
+        "expression": null
+      }
+    ],
+    "final_answer": "For very high speed problems, relativistic equations must be considered for solving them.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the kinetic energy relation for electrons.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759465/ncert/physics/11/img_24_0.png",
+      "latex_extracted": "KE=\\frac{1}{2}m v^{2}=e V",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Involves understanding of kinetic energy and relativistic limits.",
+    "topics_tags": [
+      "Electron Speed",
+      "Kinetic Energy",
+      "Relativity"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the kinetic energy relation for electrons.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759465/ncert/physics/11/img_24_0.png",
+        "latex_extracted": "KE=\\frac{1}{2}m v^{2}=e V",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q11.21",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 11,
+    "chapter_name": "dual nature of radiation and matter",
+    "question_type": "mcq",
+    "question_text": "A monoenergetic electron beam with electron speed of 5.20 × 10^6 m/s is subject to a magnetic field of 1.30 × 10^−4 T normal to the beam velocity. What is the radius of the circle traced by the beam, given e/m for electron equals 1.76 × 10^11 C/kg? Is the formula you employ in (a) valid for calculating radius of the path of a 220 MeV electron beam? If not, in what way is it modified?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the force exerted on the electron due to the magnetic field.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759469/ncert/physics/11/img_25_0.png",
+      "latex_extracted": "\\begin{array}{c}{{F=e|\\overset{\\leftarrow}{\\downarrow}\\times{\\overrightarrow{B}}|}}\\\\ {{=e\\nu B\\sin\\theta}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Calculate the radius of the circular path.",
+        "part_latex": null,
+        "answer_text": "The radius of the circular path is 22.7 cm.",
+        "answer_latex": "r = 0.227 \\, \\mathrm{m} = 22.7 \\, \\mathrm{cm}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the formula for radius in a magnetic field: r = \\frac{mv}{eB}",
+            "expression": "r = \\frac{m v}{e B}"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the values for mass, velocity, charge, and magnetic field.",
+            "expression": "r = \\frac{(9.1 \\times 10^{-31} \\text{ kg})(5.20 \\times 10^6 \\text{ m/s})}{(1.6 \\times 10^{-19} \\text{ C})(1.30 \\times 10^{-4} \\text{ T})}"
+          },
+          {
+            "step_number": 3,
+            "description": "Calculate the radius.",
+            "expression": "r = 0.227 \\text{ m} = 22.7 \\text{ cm}"
+          }
+        ],
+        "final_answer": "Therefore, the radius of the circular path is 22.7 cm.",
+        "answer_image": {
+          "present": true,
+          "description": "Mathematical representation of the radius calculation.",
+          "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759472/ncert/physics/11/img_26_0.png",
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "answer"
+        },
+        "question_images": [],
+        "answer_images": [
+          {
+            "present": true,
+            "description": "Mathematical representation of the radius calculation.",
+            "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759472/ncert/physics/11/img_26_0.png",
+            "latex_extracted": null,
+            "source_page_number": null,
+            "source_image_index": null,
+            "ownership": "answer"
+          }
+        ],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Is the formula you employ in (a) valid for calculating radius of the path of a 220 MeV electron beam? If not, in what way is it modified?",
+        "part_latex": null,
+        "answer_text": "The formula is not valid for very high speeds or energies. In the relativistic domain, mass is modified.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, relativistic effects must be considered for high energy electrons.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multi-step calculations and understanding of relativistic effects.",
+    "topics_tags": [
+      "Electron Beam",
+      "Magnetic Field",
+      "Circular Motion"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the force exerted on the electron due to the magnetic field.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759469/ncert/physics/11/img_25_0.png",
+        "latex_extracted": "\\begin{array}{c}{{F=e|\\overset{\\leftarrow}{\\downarrow}\\times{\\overrightarrow{B}}|}}\\\\ {{=e\\nu B\\sin\\theta}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.23",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 11,
+    "chapter_name": "dual nature of radiation and matter",
+    "question_type": "numerical",
+    "question_text": "An X-ray tube produces a continuous spectrum of radiation with its short wavelength end at 0.45 Å. What is the maximum energy of a photon in the radiation? From your answer to (a), guess what order of accelerating voltage (for electrons) is required in such a tube?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of energy and wavelength relationship in X-ray production.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759486/ncert/physics/11/img_28_0.png",
+      "latex_extracted": "\\begin{array}{c}{{\\frac{1}{2}\\,m v^{2}=e V\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad}}\\\\ {{v^{2}=\\frac{2e V}{m}\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\quad\\quad\\dots\\left(1\\right)}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Therefore, the maximum energy of an X-ray photon is 27.6 keV. An accelerating voltage of the order of 30 keV is required for producing X-rays.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the maximum energy of a photon using the formula E = \\frac{hc}{\\lambda}.",
+        "expression": "E = \\frac{6.626 \\times 10^{-34} \\times 3 \\times 10^{8}}{0.45 \\times 10^{-10}}"
+      },
+      {
+        "step_number": 2,
+        "description": "Convert the energy from Joules to keV.",
+        "expression": "E = 27.6 \\text{ keV}"
+      },
+      {
+        "step_number": 3,
+        "description": "Determine the required accelerating voltage for the electrons.",
+        "expression": "V \\approx 30 \\text{ keV}"
+      }
+    ],
+    "final_answer": "Thus, the maximum energy of an X-ray photon is 27.6 keV, requiring an accelerating voltage of about 30 keV.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves calculation of energy and conversion to keV, requiring understanding of photon energy.",
+    "topics_tags": [
+      "X-ray Production",
+      "Photon Energy",
+      "Accelerating Voltage"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of energy and wavelength relationship in X-ray production.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759486/ncert/physics/11/img_28_0.png",
+        "latex_extracted": "\\begin{array}{c}{{\\frac{1}{2}\\,m v^{2}=e V\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad}}\\\\ {{v^{2}=\\frac{2e V}{m}\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\quad\\quad\\dots\\left(1\\right)}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.24",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 11,
+    "chapter_name": "dual nature of radiation and matter",
+    "question_type": "numerical",
+    "question_text": "In an accelerator experiment on high-energy collisions of electrons with positrons, a certain event is interpreted as annihilation of an electron-positron pair of total energy 10.2 BeV into two γ-rays of equal energy. What is the wavelength associated with each γ-ray?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The wavelength associated with each γ-ray can be calculated using the energy relation.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the total energy of the two γ-rays from the annihilation event.",
+        "expression": "E = 10.2 \\text{ BeV} = 10.2 \\times 10^{9} \\text{ eV}"
+      },
+      {
+        "step_number": 2,
+        "description": "Use the energy-wavelength relation to find the wavelength of each γ-ray.",
+        "expression": "\\lambda = \\frac{hc}{E/2}"
+      }
+    ],
+    "final_answer": "Therefore, the wavelength associated with each γ-ray can be determined from the calculated energy.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of energy and wavelength relationship for γ-rays.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759527/ncert/physics/11/img_29_0.png",
+      "latex_extracted": "\\begin{array}{l}{{E=\\frac{\\hbar c}{\\lambda}}}\\\\ {{\\frac{\\zeta}{\\lambda}}}\\\\ {{=\\frac{6.626\\times10^{-14}\\times3\\times10^{5}}{0.45\\times10^{-10}\\times1.6\\times10^{9}}}}\\\\ {{=27.6\\times10^{-10}\\times1.6\\times10^{19}}}\\\\ {{=27.6\\times10^{5}\\exp27.6\\times10^{19}\\exp227.6\\mathrm{~keV}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of annihilation energy and wavelength calculation.",
+    "topics_tags": [
+      "Electron-Positron Annihilation",
+      "Gamma Rays",
+      "Wavelength Calculation"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of energy and wavelength relationship for γ-rays.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759527/ncert/physics/11/img_29_0.png",
+        "latex_extracted": "\\begin{array}{l}{{E=\\frac{\\hbar c}{\\lambda}}}\\\\ {{\\frac{\\zeta}{\\lambda}}}\\\\ {{=\\frac{6.626\\times10^{-14}\\times3\\times10^{5}}{0.45\\times10^{-10}\\times1.6\\times10^{9}}}}\\\\ {{=27.6\\times10^{-10}\\times1.6\\times10^{19}}}\\\\ {{=27.6\\times10^{5}\\exp27.6\\times10^{19}\\exp227.6\\mathrm{~keV}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q11.25",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 11,
+    "chapter_name": "dual nature of radiation and matter",
+    "question_type": "mcq",
+    "question_text": "Ultraviolet light of wavelength 2271 Å from a 100 W mercury source irradiates a photo-cell made of molybdenum metal. If the stopping potential is −1.3 V, estimate the work function of the metal. How would the photo-cell respond to a high intensity (∼10^5 W m−2) red light of wavelength 6328 Å produced by a He-Ne laser?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The work function of the metal can be calculated using the photo-energy relation. The energy of the ultraviolet light is calculated first, and then the work function is derived from the stopping potential.",
+    "answer_latex": "W = h\nu - eV = 6.6 \\times 10^{-34} \\times \\frac{3 \\times 10^8}{2271 \\times 10^{-10}} - 1.3 \\times 1.6 \\times 10^{-19}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the frequency of the ultraviolet light using its wavelength.",
+        "expression": "\\nu = \\frac{c}{\\lambda} = \\frac{3 \\times 10^8}{2271 \\times 10^{-10}}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the energy of the ultraviolet light photon.",
+        "expression": "E = h\\nu"
+      },
+      {
+        "step_number": 3,
+        "description": "Use the photo-energy relation to find the work function.",
+        "expression": "W = h\\nu - eV"
+      }
+    ],
+    "final_answer": "Thus, the work function of the metal is calculated based on the energy of the incident photons and the stopping potential.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of the photoelectric effect and multiple calculations.",
+    "topics_tags": [
+      "Photoelectric Effect",
+      "Work Function",
+      "Photon Energy"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.26",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 11,
+    "chapter_name": "dual nature of radiation and matter",
+    "question_type": "numerical",
+    "question_text": "Monochromatic radiation of wavelength 640.2 nm from a neon lamp irradiates photosensitive material made of caesium on tungsten. The stopping voltage is measured to be 0.54 V. The source is replaced by an iron source and its 427.22 nm line irradiates the same photo-cell. Predict the new stopping voltage.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical derivation showing the calculation of work function and stopping potential.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759552/ncert/physics/11/img_34_0.png",
+      "latex_extracted": "\\begin{array}{l}{\\phi_{0}={\\frac{h c}{\\lambda}}-e V_{0}}\\\\ {\\qquad={\\frac{6.6\\times10^{-34}\\times3\\times10^{8}}{640.2\\times10^{-9}}}-1.6\\times10^{-19}\\times0.54}\\\\ {={\\frac{2.279\\times10^{-19}}{1.6\\times10^{-19}}}-1.09\\ {\\mathrm{eV}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Hence, the new stopping potential is 1.50 eV.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the work function using the stopping voltage and wavelength of the neon lamp.",
+        "expression": "\\phi_{0}={\\frac{h c}{\\lambda}}-e V_{0}"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values to find the work function.",
+        "expression": "\\phi_{0}={\\frac{6.6\\times10^{-34}\\times3\\times10^{8}}{640.2\\times10^{-9}}}-1.6\\times10^{-19}\\times0.54"
+      },
+      {
+        "step_number": 3,
+        "description": "Use the work function to find the new stopping potential for the iron source.",
+        "expression": "eV_{0}^{\\prime}=\\frac{h c}{\\lambda^{\\prime}}-\\phi_{0}"
+      }
+    ],
+    "final_answer": "Therefore, the new stopping potential is 1.50 eV.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps of calculation and understanding of photoelectric effect.",
+    "topics_tags": [
+      "Photoelectric Effect",
+      "Stopping Potential",
+      "Work Function"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical derivation showing the calculation of work function and stopping potential.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759552/ncert/physics/11/img_34_0.png",
+        "latex_extracted": "\\begin{array}{l}{\\phi_{0}={\\frac{h c}{\\lambda}}-e V_{0}}\\\\ {\\qquad={\\frac{6.6\\times10^{-34}\\times3\\times10^{8}}{640.2\\times10^{-9}}}-1.6\\times10^{-19}\\times0.54}\\\\ {={\\frac{2.279\\times10^{-19}}{1.6\\times10^{-19}}}-1.09\\ {\\mathrm{eV}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.27",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 11,
+    "chapter_name": "dual nature of radiation and matter",
+    "question_type": "conceptual",
+    "question_text": "Which of the following metals will not give photoelectric emission for a radiation of wavelength 3300 Å from a He-Cd laser placed 1 m away from the photocell? What happens if the laser is brought nearer and placed 50 cm away?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Graph showing the relationship between frequency and stopping potential.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759593/ncert/physics/11/img_37_0.png",
+      "latex_extracted": "\\begin{array}{l}{{\\mathrm{~A}}}\\\\ {{\\bar{\\frac{\\pi}{5}}\\frac{14}{1}}}\\\\ {{\\frac{\\pi}{5}\\frac{9}{1}{9}\\frac{\\vartheta}{2}}}\\\\ {{\\frac{\\bar{\\eta}}{5}\\frac{9}{9}\\frac{\\vartheta}{9}}}\\\\ {{\\frac{\\bar{\\eta}}{5}\\frac{9}{9}\\frac{\\vartheta}{9}}}\\\\ {{\\frac{\\bar{\\eta}}{9}\\frac{\\bar{\\eta}}{9}\\frac{\\bar{\\vartheta}}{1}\\frac{\\bar{\\eta}}{1}\\frac{\\bar{\\eta}}{1}\\bar{\\zeta}_{1}}}\\\\ {{\\frac{\\bar{\\eta}}{5}\\frac{\\bar{\\eta}}{9}\\frac{\\bar{\\eta}}{9}\\frac{\\bar{\\eta}}{9}}}\\end{array}}",
+      "source_page_number": 37,
+      "source_image_index": 0,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Mo and Ni will not show photoelectric emission in both cases. If the source of light is brought near the photocells and placed 50 cm away, the intensity of radiation will increase, but this does not affect the energy of the radiation.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, Mo and Ni will not show photoelectric emission regardless of the distance of the laser.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of photoelectric effect and the relationship between work function and wavelength.",
+    "topics_tags": [
+      "Photoelectric Effect",
+      "Work Function",
+      "Threshold Frequency"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Graph showing the relationship between frequency and stopping potential.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759593/ncert/physics/11/img_37_0.png",
+        "latex_extracted": "\\begin{array}{l}{{\\mathrm{~A}}}\\\\ {{\\bar{\\frac{\\pi}{5}}\\frac{14}{1}}}\\\\ {{\\frac{\\pi}{5}\\frac{9}{1}{9}\\frac{\\vartheta}{2}}}\\\\ {{\\frac{\\bar{\\eta}}{5}\\frac{9}{9}\\frac{\\vartheta}{9}}}\\\\ {{\\frac{\\bar{\\eta}}{5}\\frac{9}{9}\\frac{\\vartheta}{9}}}\\\\ {{\\frac{\\bar{\\eta}}{9}\\frac{\\bar{\\eta}}{9}\\frac{\\bar{\\vartheta}}{1}\\frac{\\bar{\\eta}}{1}\\frac{\\bar{\\eta}}{1}\\bar{\\zeta}_{1}}}\\\\ {{\\frac{\\bar{\\eta}}{5}\\frac{\\bar{\\eta}}{9}\\frac{\\bar{\\eta}}{9}\\frac{\\bar{\\eta}}{9}}}\\end{array}}",
+        "source_page_number": 37,
+        "source_image_index": 0,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.28",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 11,
+    "chapter_name": "dual nature of radiation and matter",
+    "question_type": "numerical",
+    "question_text": "Estimate the time required for photoelectric emission in the wave-picture of radiation when light of intensity 10−5 W m−2 falls on a sodium photo-cell of surface area 2 cm², assuming that the top 5 layers of sodium absorb the incident energy.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The incident power is uniformly absorbed by all the electrons continuously. The amount of energy absorbed per second per electron is calculated to be 2 × 10−26 J/s.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the incident power of the light.",
+        "expression": "P = I × A = 10^{-5} × 2 × 10^{-4} = 2 × 10^{-9} W"
+      },
+      {
+        "step_number": 2,
+        "description": "Convert work function from eV to Joules.",
+        "expression": "Work function = 2 eV = 2 × 1.6 × 10^{-19} = 3.2 × 10^{-19} J"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the number of conduction electrons in n layers.",
+        "expression": "n' = n × (d/d_x) = 5 × (2 × 10^{-4}/10^{-30}) = 10^{7}"
+      },
+      {
+        "step_number": 4,
+        "description": "Calculate the energy absorbed per second per electron.",
+        "expression": "E = P/n' = 2 × 10^{-9}/10^{7} = 2 × 10^{-26} J/s"
+      }
+    ],
+    "final_answer": "Thus, the time required for photoelectric emission is very small, indicating a rapid response.",
+    "answer_image": {
+      "present": true,
+      "description": "Calculation of the number of conduction electrons in sodium layers.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759603/ncert/physics/11/img_39_0.png",
+      "latex_extracted": "\\begin{array}{c}{{n^{\\prime}=n\\times{\\frac{d}{d_{x}}}}}\\\\ {{=5\\times{\\frac{2\\times10^{-4}}{10^{-30}}}=10^{7}}}\\end{array}",
+      "source_page_number": 39,
+      "source_image_index": 0,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations and understanding of photoelectric emission.",
+    "topics_tags": [
+      "Photoelectric Emission",
+      "Intensity",
+      "Work Function"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Calculation of the number of conduction electrons in sodium layers.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759603/ncert/physics/11/img_39_0.png",
+        "latex_extracted": "\\begin{array}{c}{{n^{\\prime}=n\\times{\\frac{d}{d_{x}}}}}\\\\ {{=5\\times{\\frac{2\\times10^{-4}}{10^{-30}}}=10^{7}}}\\end{array}",
+        "source_page_number": 39,
+        "source_image_index": 0,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q11.29",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 11,
+    "chapter_name": "dual nature of radiation and matter",
+    "question_type": "conceptual",
+    "question_text": "Crystal diffraction experiments can be performed using X-rays, or electrons accelerated through appropriate voltage. Which probe has greater energy? (For quantitative comparison, take the wavelength of the probe equal to 1 Å, which is of the order of inter-atomic spacing in the lattice)",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "An X-ray probe has a greater energy than an electron probe for the same wavelength.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, X-rays are more energetic than electrons for the same wavelength.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of time required for photoelectric emission.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759608/ncert/physics/11/img_40_0.png",
+      "latex_extracted": "\\begin{array}{l}{{t=\\displaystyle{\\frac{\\phi_{0}}{E}}}}\\\\ {{\\qquad\\qquad\\qquad}}\\\\ {{\\qquad\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\frac{3.2\\times10^{-56}}{2\\times10^{-76}}=1.6\\times10^{7}{\\textrm{g e a r s}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of energy concepts related to different probes.",
+    "topics_tags": [
+      "X-rays",
+      "Electrons",
+      "Energy Comparison"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of time required for photoelectric emission.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759608/ncert/physics/11/img_40_0.png",
+        "latex_extracted": "\\begin{array}{l}{{t=\\displaystyle{\\frac{\\phi_{0}}{E}}}}\\\\ {{\\qquad\\qquad\\qquad}}\\\\ {{\\qquad\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\frac{3.2\\times10^{-56}}{2\\times10^{-76}}=1.6\\times10^{7}{\\textrm{g e a r s}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      },
+      {
+        "present": true,
+        "description": "Mathematical representation of energy comparison for probes.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759612/ncert/physics/11/img_40_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q11.30",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 11,
+    "chapter_name": "dual nature of radiation and matter",
+    "question_type": "numerical",
+    "question_text": "Obtain the de Broglie wavelength of a neutron of kinetic energy 150 eV. Would a neutron beam of the same energy be equally suitable for diffraction experiments? Explain.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "De Broglie wavelength = ; neutron is not suitable for the diffraction experiment.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "A neutron beam of energy 150 eV is not suitable for diffraction experiments.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of de Broglie wavelength calculation.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759615/ncert/physics/11/img_41_0.png",
+      "latex_extracted": "\\begin{array}{l}{{\\lambda=\\frac{h}{p}=\\frac{h}{m_{\\circ}v}-\\frac{h}{\\sqrt{2E m_{e}}}}}\\\\ {{\\vdots\\delta=\\frac{h}{2\\lambda^{2}m_{e}}}}\\\\ {{\\vdots\\delta\\times\\10^{-1}\\times9.11\\times10^{-1}}}\\\\ {{=\\frac{h}{1.6\\times10^{-1}}=149.375\\,\\mathrm{eV}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves calculation of de Broglie wavelength and understanding of suitability for experiments.",
+    "topics_tags": [
+      "De Broglie Wavelength",
+      "Neutron",
+      "Diffraction"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of de Broglie wavelength calculation.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759615/ncert/physics/11/img_41_0.png",
+        "latex_extracted": "\\begin{array}{l}{{\\lambda=\\frac{h}{p}=\\frac{h}{m_{\\circ}v}-\\frac{h}{\\sqrt{2E m_{e}}}}}\\\\ {{\\vdots\\delta=\\frac{h}{2\\lambda^{2}m_{e}}}}\\\\ {{\\vdots\\delta\\times\\10^{-1}\\times9.11\\times10^{-1}}}\\\\ {{=\\frac{h}{1.6\\times10^{-1}}=149.375\\,\\mathrm{eV}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      },
+      {
+        "present": true,
+        "description": "Mathematical representation of energy calculation for neutron.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759620/ncert/physics/11/img_41_2.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q11.31",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 11,
+    "chapter_name": "dual nature of radiation and matter",
+    "question_type": "numerical",
+    "question_text": "An electron microscope uses electrons accelerated by a voltage of 50 kV. Determine the de Broglie wavelength associated with the electrons. If other factors (such as numerical aperture, etc.) are taken to be roughly the same, how does the resolving power of an electron microscope compare with that of an optical microscope which uses yellow light?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of de Broglie wavelength calculation.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759643/ncert/physics/11/img_43_0.png",
+      "latex_extracted": "\\begin{array}{l}{{\\lambda={\\frac{h}{\\sqrt{2m_{a}E}}}={\\frac{h}{\\sqrt{3~m_{a}k T}}}}}\\\\ {{={\\frac{6~6~6\\times10^{-34}}{\\sqrt{3\\times1.675\\times10^{-4}\\times1.38\\times10^{-23}\\times300}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The resolving power of a microscope is inversely proportional to the wavelength of light used. Thus, the resolving power of an electron microscope is nearly 10^5 times that of an optical microscope.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the kinetic energy of the electrons using the voltage.",
+        "expression": "E = eV = 1.6 \\times 10^{-19} \\times 50 \\times 10^{3}"
+      },
+      {
+        "step_number": 2,
+        "description": "Use the de Broglie wavelength formula to find the wavelength.",
+        "expression": "\\lambda = \\frac{h}{\\sqrt{2m_{e}E}}"
+      }
+    ],
+    "final_answer": "Thus, the resolving power of an electron microscope is nearly 10^5 times that of an optical microscope.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of kinetic energy and application of de Broglie wavelength formula.",
+    "topics_tags": [
+      "de Broglie Wavelength",
+      "Electron Microscope",
+      "Resolving Power"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of de Broglie wavelength calculation.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759643/ncert/physics/11/img_43_0.png",
+        "latex_extracted": "\\begin{array}{l}{{\\lambda={\\frac{h}{\\sqrt{2m_{a}E}}}={\\frac{h}{\\sqrt{3~m_{a}k T}}}}}\\\\ {{={\\frac{6~6~6\\times10^{-34}}{\\sqrt{3\\times1.675\\times10^{-4}\\times1.38\\times10^{-23}\\times300}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.32",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 11,
+    "chapter_name": "dual nature of radiation and matter",
+    "question_type": "numerical",
+    "question_text": "Guess what might have been the order of energy of these electron beams. (Rest mass energy of electron = 0.511 MeV.)",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of energy calculation for electron beams.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759647/ncert/physics/11/img_44_0.png",
+      "latex_extracted": "\\begin{array}{r}{{\\lambda={\\frac{h}{\\sqrt{2m_{e}E}}}}}\\\\ {{={\\frac{6.6\\times10^{-14}}{\\sqrt{2\\times9.11\\times10^{-31}\\times8\\times10^{-15}}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The energy of the electron beams is likely to be of the order of 1.24 BeV.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Convert the rest mass energy of the electron from MeV to Joules.",
+        "expression": "0.511 \\text{ MeV} = 0.511 \\times 10^{6} \\times 1.6 \\times 10^{-19}"
+      },
+      {
+        "step_number": 2,
+        "description": "Estimate the energy of the electron beams based on the wavelength.",
+        "expression": "E = \\frac{h c}{\\lambda}"
+      }
+    ],
+    "final_answer": "Thus, the energy of the electron beams is likely to be of the order of 1.24 BeV.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves energy conversion and understanding of electron properties.",
+    "topics_tags": [
+      "Electron Beams",
+      "Energy",
+      "Rest Mass Energy"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of energy calculation for electron beams.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759647/ncert/physics/11/img_44_0.png",
+        "latex_extracted": "\\begin{array}{r}{{\\lambda={\\frac{h}{\\sqrt{2m_{e}E}}}}}\\\\ {{={\\frac{6.6\\times10^{-14}}{\\sqrt{2\\times9.11\\times10^{-31}\\times8\\times10^{-15}}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.33",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 11,
+    "chapter_name": "dual nature of radiation and matter",
+    "question_type": "numerical",
+    "question_text": "Find the typical de Broglie wavelength associated with a He atom in helium gas at room temperature (27 ºC) and 1 atm pressure; and compare it with the mean separation between two atoms under these conditions.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of de Broglie wavelength calculation for He atom.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759651/ncert/physics/11/img_45_0.png",
+      "latex_extracted": "\\begin{array}{l c r}{p={\\frac{h}{\\lambda}}}&{}&{}\\\\ {\\qquad\\,}&{}&{}&{}\\\\ {\\,\\,}&{{={\\frac{6.6\\times10^{-34}}{10^{-3}}}=\\,6.6\\times10^{-49}\\,\\mathrm{{kg\\,m/S}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The typical de Broglie wavelength associated with a He atom is significantly smaller than the mean separation between two atoms under these conditions.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the de Broglie wavelength using the formula.",
+        "expression": "\\lambda = \\frac{h}{p}"
+      },
+      {
+        "step_number": 2,
+        "description": "Estimate the mean separation between two He atoms at given conditions.",
+        "expression": "p = \\frac{h}{\\lambda}"
+      }
+    ],
+    "final_answer": "Thus, the de Broglie wavelength is much smaller than the mean atomic separation.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of atomic properties and de Broglie wavelength.",
+    "topics_tags": [
+      "Helium Atom",
+      "de Broglie Wavelength",
+      "Atomic Separation"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of de Broglie wavelength calculation for He atom.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759651/ncert/physics/11/img_45_0.png",
+        "latex_extracted": "\\begin{array}{l c r}{p={\\frac{h}{\\lambda}}}&{}&{}\\\\ {\\qquad\\,}&{}&{}&{}\\\\ {\\,\\,}&{{={\\frac{6.6\\times10^{-34}}{10^{-3}}}=\\,6.6\\times10^{-49}\\,\\mathrm{{kg\\,m/S}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.34",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 11,
+    "chapter_name": "dual nature of radiation and matter",
+    "question_type": "numerical",
+    "question_text": "Compute the typical de Broglie wavelength of an electron in a metal at 27 ºC and compare it with the mean separation between two electrons in a metal which is given to be about 2 × 10−10 m.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical relation for de Broglie wavelength and atomic weight calculation.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759680/ncert/physics/11/img_46_0.png",
+      "latex_extracted": "\\begin{array}{c}{{=\\frac{\\mathrm{Atomic~weight}}{\\mathrm{N_{A}}}}}\\\\ {{=\\frac{\\mathrm{A}}{6.023\\times10^{-24}}\\mathrm{~g}=6.64\\times10^{-27}\\mathrm{~kg}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The de Broglie wavelength of an electron is approximately 6.2 × 10−9 m, which is much greater than the mean separation of 2 × 10−10 m.",
+    "answer_latex": "\\lambda={\\frac{6.6\\times10^{-34}}{\\sqrt{3\\times9.11\\times10^{-31}\\times1.38\\times10^{-3}\\times300}}} \\approx 6.2\\times10^{-9}\\mathrm{~m}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Convert temperature from Celsius to Kelvin.",
+        "expression": "T = 27 + 273 = 300 K"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the de Broglie wavelength using the formula.",
+        "expression": "\\lambda={\\frac{h}{\\sqrt{3m k T}}}"
+      },
+      {
+        "step_number": 3,
+        "description": "Substitute the values into the de Broglie wavelength formula.",
+        "expression": "\\lambda={\\frac{6.6\\times10^{-34}}{\\sqrt{3\\times9.11\\times10^{-31}\\times1.38\\times10^{-23}\\times300}}}"
+      }
+    ],
+    "final_answer": "Therefore, the de Broglie wavelength of the electron is much greater than the mean separation between two electrons.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical relation for calculating the de Broglie wavelength.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759685/ncert/physics/11/img_48_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps of calculation and understanding of de Broglie wavelength.",
+    "topics_tags": [
+      "De Broglie Wavelength",
+      "Electrons",
+      "Quantum Mechanics"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical relation for de Broglie wavelength and atomic weight calculation.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759680/ncert/physics/11/img_46_0.png",
+        "latex_extracted": "\\begin{array}{c}{{=\\frac{\\mathrm{Atomic~weight}}{\\mathrm{N_{A}}}}}\\\\ {{=\\frac{\\mathrm{A}}{6.023\\times10^{-24}}\\mathrm{~g}=6.64\\times10^{-27}\\mathrm{~kg}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical relation for calculating the de Broglie wavelength.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759685/ncert/physics/11/img_48_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q11.35",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 11,
+    "chapter_name": "dual nature of radiation and matter",
+    "question_type": "conceptual",
+    "question_text": "Explain why fractional charges may exist in nature and how they relate to observable charges.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical relations for electric field and magnetic field, including equations for velocity and charge.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759703/ncert/physics/11/img_49_0.png",
+      "latex_extracted": "\\left(e V={\\frac{1}{2}}m v^{2}\\right){\\mathrm{~and}}\\left(e B v={\\frac{m v^{2}}{r}}\\right)\\mathrm{respectively}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Fractional charges exist due to the nature of quarks inside protons and neutrons, which carry these charges. However, observable charges remain integral multiples of the elementary charge due to the strong nuclear force that prevents quarks from being isolated.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, while fractional charges are theoretically possible, they do not manifest as observable charges in nature.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of quark behavior and the implications of fractional charges.",
+    "topics_tags": [
+      "Quarks",
+      "Fractional Charges",
+      "Nuclear Force"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical relations for electric field and magnetic field, including equations for velocity and charge.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759703/ncert/physics/11/img_49_0.png",
+        "latex_extracted": "\\left(e V={\\frac{1}{2}}m v^{2}\\right){\\mathrm{~and}}\\left(e B v={\\frac{m v^{2}}{r}}\\right)\\mathrm{respectively}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  }
+]

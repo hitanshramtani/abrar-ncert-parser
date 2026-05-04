@@ -1,0 +1,2581 @@
+[
+  {
+    "question_id": "Q8.1",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "introduction to trigonometry",
+    "question_type": "multipart",
+    "question_text": "In ΔABC right angled at B, AB = 24 cm, BC = 7 m. Determine (i) sin A, cos A (ii) sin C, cos C",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram of triangle ABC with right angle at B, showing sides AB and BC.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777818570/ncert/maths/8/img_1_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "sin A, cos A",
+        "part_latex": null,
+        "answer_text": "sin A = \\frac{BC}{AC}, cos A = \\frac{AB}{AC}",
+        "answer_latex": "sin A = \\frac{7}{25}, cos A = \\frac{24}{25}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate AC using Pythagorean theorem.",
+            "expression": "AC = \\sqrt{AB^2 + BC^2} = \\sqrt{(24)^2 + (7)^2} = 25"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate sin A and cos A.",
+            "expression": "sin A = \\frac{BC}{AC} = \\frac{7}{25}, cos A = \\frac{AB}{AC} = \\frac{24}{25}"
+          }
+        ],
+        "final_answer": "Thus, sin A = \\frac{7}{25} and cos A = \\frac{24}{25}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "sin C, cos C",
+        "part_latex": null,
+        "answer_text": "sin C = \\frac{AB}{AC}, cos C = \\frac{BC}{AC}",
+        "answer_latex": "sin C = \\frac{24}{25}, cos C = \\frac{7}{25}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate sin C and cos C using the same AC.",
+            "expression": "sin C = \\frac{AB}{AC} = \\frac{24}{25}, cos C = \\frac{BC}{AC} = \\frac{7}{25}"
+          }
+        ],
+        "final_answer": "Thus, sin C = \\frac{24}{25} and cos C = \\frac{7}{25}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of trigonometric ratios and Pythagorean theorem.",
+    "topics_tags": [
+      "Trigonometry",
+      "Right Triangle",
+      "Pythagorean Theorem"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram of triangle ABC with right angle at B, showing sides AB and BC.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777818570/ncert/maths/8/img_1_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.2",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "introduction to trigonometry",
+    "question_type": "conceptual",
+    "question_text": "In the given figure find tan P - cot R",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram of triangle PQR with angles P and R.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777818571/ncert/maths/8/img_2_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "tan P - cot R = \\frac{QR}{PQ} - \\frac{PQ}{QR}",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate QR using Pythagorean theorem.",
+        "expression": "QR = \\sqrt{PR^2 - PQ^2} = \\sqrt{(13)^2 - (12)^2} = 5"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute values to find tan P and cot R.",
+        "expression": "tan P = \\frac{QR}{PQ} = \\frac{5}{12}, cot R = \\frac{PQ}{QR} = \\frac{12}{5}"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate tan P - cot R.",
+        "expression": "tan P - cot R = \\frac{5}{12} - \\frac{12}{5}"
+      }
+    ],
+    "final_answer": "Thus, tan P - cot R = \\frac{5}{12} - \\frac{12}{5}.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic trigonometric calculations and understanding of triangle properties.",
+    "topics_tags": [
+      "Trigonometry",
+      "Right Triangle",
+      "Tangent",
+      "Cotangent"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram of triangle PQR with angles P and R.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777818571/ncert/maths/8/img_2_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.3",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "introduction to trigonometry",
+    "question_type": "numerical",
+    "question_text": "If sin A = \\frac{3}{5}, calculate cos A and tan A.",
+    "question_latex": "sin A = \\frac{3}{5}",
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram of triangle ABC with angle A.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777818573/ncert/maths/8/img_3_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "cos A = \\frac{4}{5}, tan A = \\frac{3}{4}",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Use Pythagorean identity to find cos A.",
+        "expression": "cos A = \\sqrt{1 - sin^2 A} = \\sqrt{1 - \\left(\\frac{3}{5}\\right)^2} = \\frac{4}{5}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate tan A using sin A and cos A.",
+        "expression": "tan A = \\frac{sin A}{cos A} = \\frac{3/5}{4/5} = \\frac{3}{4}"
+      }
+    ],
+    "final_answer": "Thus, cos A = \\frac{4}{5} and tan A = \\frac{3}{4}.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the relationship between sin, cos, and tan.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777818575/ncert/maths/8/img_3_2.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of trigonometric identities and basic calculations.",
+    "topics_tags": [
+      "Trigonometry",
+      "Sine",
+      "Cosine",
+      "Tangent"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram of triangle ABC with angle A.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777818573/ncert/maths/8/img_3_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the relationship between sin, cos, and tan.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777818575/ncert/maths/8/img_3_2.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q8.4",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "introduction to trigonometry",
+    "question_type": "mcq",
+    "question_text": "Given 15 cot A = 8. Find sin A and sec A.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram of a right-angled triangle, right-angled at B.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777818576/ncert/maths/8/img_4_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Consider a right-angled triangle, right-angled at B.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Answer explanation for finding sin A and sec A.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777818577/ncert/maths/8/img_5_1.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of trigonometric ratios and basic application.",
+    "topics_tags": [
+      "Trigonometric Ratios",
+      "Cotangent",
+      "Sine",
+      "Secant"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram of a right-angled triangle, right-angled at B.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777818576/ncert/maths/8/img_4_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Answer explanation for finding sin A and sec A.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777818577/ncert/maths/8/img_5_1.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q8.5",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "introduction to trigonometry",
+    "question_type": "conceptual",
+    "question_text": "Given sec θ = , calculate all other trigonometric ratios.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram of a right-angled triangle, right-angled at B.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777818579/ncert/maths/8/img_5_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Consider a right-angle triangle ΔABC, right-angled at point B.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Answer explanation for calculating trigonometric ratios.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777818580/ncert/maths/8/img_5_1.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple trigonometric identities and calculations.",
+    "topics_tags": [
+      "Trigonometric Ratios",
+      "Secant",
+      "Triangle"
+    ],
+    "confidence_score": 0.93,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram of a right-angled triangle, right-angled at B.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777818579/ncert/maths/8/img_5_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Answer explanation for calculating trigonometric ratios.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777818580/ncert/maths/8/img_5_1.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q8.6",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "introduction to trigonometry",
+    "question_type": "conceptual",
+    "question_text": "If ∠ A and ∠ B are acute angles such that cos A = cos B, then show that ∠ A = ∠ B.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram of triangle ABC with CD perpendicular to AB.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777818581/ncert/maths/8/img_6_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Let us consider a triangle ABC in which CD ⊥ AB.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Answer explanation for showing that ∠ A = ∠ B.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777818582/ncert/maths/8/img_6_1.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Requires understanding of properties of angles and cosine function.",
+    "topics_tags": [
+      "Cosine",
+      "Angles",
+      "Triangle"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram of triangle ABC with CD perpendicular to AB.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777818581/ncert/maths/8/img_6_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Answer explanation for showing that ∠ A = ∠ B.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777818582/ncert/maths/8/img_6_1.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q8.7",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "introduction to trigonometry",
+    "question_type": "conceptual",
+    "question_text": "We have to prove ∠A = ∠B. To prove this, let us extend AC to P such that BC = CP.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram illustrating the proof of angles A and B being equal.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777818583/ncert/maths/8/img_7_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Therefore, ∠A = ∠B.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Extend AC to point P such that BC = CP.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Apply the converse of B.P.T to establish that CD is parallel to BP.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Use corresponding angles to show ∠ACD = ∠CPB.",
+        "expression": null
+      },
+      {
+        "step_number": 4,
+        "description": "Use alternate interior angles to show ∠BCD = ∠CBP.",
+        "expression": null
+      },
+      {
+        "step_number": 5,
+        "description": "Since BC = CP, conclude that ∠CBP = ∠CPB.",
+        "expression": null
+      },
+      {
+        "step_number": 6,
+        "description": "From the established equalities, conclude that ∠ACD = ∠BCD.",
+        "expression": null
+      },
+      {
+        "step_number": 7,
+        "description": "In triangles CAD and CBD, since ∠ACD = ∠BCD and ∠CDA = ∠CDB, the remaining angles must be equal.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, we conclude that ∠A = ∠B.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multi-step reasoning and application of geometric properties.",
+    "topics_tags": [
+      "Angle Proof",
+      "Triangles",
+      "Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram illustrating the proof of angles A and B being equal.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777818583/ncert/maths/8/img_7_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.8",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "introduction to trigonometry",
+    "question_type": "numerical",
+    "question_text": "If cos A = cos B, prove that ∠A = ∠B.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to the proof of angles A and B being equal based on cosine values.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777818585/ncert/maths/8/img_8_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Therefore, ∠A = ∠B (Angles opposite to equal sides of a triangle).",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Assume cos A = cos B.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Let AD = k BD and AC = k BC.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Apply Pythagoras theorem to triangles CAD and CBD.",
+        "expression": null
+      },
+      {
+        "step_number": 4,
+        "description": "Set up the equations based on the Pythagorean theorem.",
+        "expression": "CD^2 = AC^2 - AD^2, CD^2 = BC^2 - BD^2"
+      },
+      {
+        "step_number": 5,
+        "description": "Equate the two expressions to find k.",
+        "expression": "k^2 (BC^2 - BD^2) = BC^2 - BD^2"
+      },
+      {
+        "step_number": 6,
+        "description": "Solve for k to find k = 1.",
+        "expression": null
+      },
+      {
+        "step_number": 7,
+        "description": "Substitute k back to find AC = BC.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, we conclude that ∠A = ∠B.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of trigonometric identities and basic application.",
+    "topics_tags": [
+      "Cosine Rule",
+      "Triangles",
+      "Trigonometry"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the proof of angles A and B being equal based on cosine values.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777818585/ncert/maths/8/img_8_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.9",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "introduction to trigonometry",
+    "question_type": "multipart",
+    "question_text": "In ΔABC, right angled at B. If , find the value of (i) sin A cos C + cos A sin C (ii) cos A cos C - sin A sin C",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "sin A cos C + cos A sin C",
+        "part_latex": null,
+        "answer_text": "This expression simplifies to sin(A + C) which equals sin(90°) = 1.",
+        "answer_latex": "sin(A + C) = sin(90^{\\circ}) = 1",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the sine addition formula.",
+            "expression": "sin(A + C) = sin(90^{\\circ})"
+          }
+        ],
+        "final_answer": "Thus, the value is 1.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "cos A cos C - sin A sin C",
+        "part_latex": null,
+        "answer_text": "This expression simplifies to cos(A + C) which equals cos(90°) = 0.",
+        "answer_latex": "cos(A + C) = cos(90^{\\circ}) = 0",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the cosine addition formula.",
+            "expression": "cos(A + C) = cos(90^{\\circ})"
+          }
+        ],
+        "final_answer": "Thus, the value is 0.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Diagrams related to triangle ABC and trigonometric functions.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777818595/ncert/maths/8/img_12_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of trigonometric identities and application of formulas.",
+    "topics_tags": [
+      "Trigonometric Identities",
+      "Sine and Cosine",
+      "Right Triangle"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagrams related to triangle ABC and trigonometric functions.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777818595/ncert/maths/8/img_12_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q8.10",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "introduction to trigonometry",
+    "question_type": "numerical",
+    "question_text": "In ΔPQR, right angled at Q, PR + QR = 25 cm and PQ = 5 cm. Determine the values of sin P, cos P and tan P.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram of triangle PQR with right angle at Q.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777818598/ncert/maths/8/img_13_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "PR = 13 cm, QR = 12 cm. Therefore, sin P = \\frac{QR}{PR} = \\frac{12}{13}, cos P = \\frac{PQ}{PR} = \\frac{5}{13}, tan P = \\frac{QR}{PQ} = \\frac{12}{5}.",
+    "answer_latex": "PR = 13 \\text{ cm}, QR = 12 \\text{ cm}. \\text{ Therefore, } sin P = \\frac{QR}{PR} = \\frac{12}{13}, cos P = \\frac{PQ}{PR} = \\frac{5}{13}, tan P = \\frac{QR}{PQ} = \\frac{12}{5}.",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Let PR be x, then QR = 25 - x.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Apply Pythagoras theorem: x^2 = 5^2 + (25 - x)^2.",
+        "expression": "x^2 = 25 + (25 - x)^2"
+      },
+      {
+        "step_number": 3,
+        "description": "Solve for x to find PR.",
+        "expression": "x = 13"
+      },
+      {
+        "step_number": 4,
+        "description": "Calculate QR using QR = 25 - PR.",
+        "expression": "QR = 25 - 13 = 12"
+      },
+      {
+        "step_number": 5,
+        "description": "Calculate sin P, cos P, and tan P.",
+        "expression": "sin P = \\frac{12}{13}, cos P = \\frac{5}{13}, tan P = \\frac{12}{5}"
+      }
+    ],
+    "final_answer": "Thus, sin P = \\frac{12}{13}, cos P = \\frac{5}{13}, tan P = \\frac{12}{5}.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves applying Pythagorean theorem and trigonometric ratios.",
+    "topics_tags": [
+      "Trigonometry",
+      "Right Triangle",
+      "Pythagorean Theorem"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram of triangle PQR with right angle at Q.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777818598/ncert/maths/8/img_13_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.11",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "introduction to trigonometry",
+    "question_type": "mcq",
+    "question_text": "State whether the following are true or false. Justify your answer. (i) The value of tan A is always less than 1. (ii) sec A = for some value of angle A. (iii) cos A is the abbreviation used for the cosecant of angle A. (iv) cot A is the product of cot and A (v) sin θ = , for some angle θ.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "The value of tan A is always less than 1.",
+        "part_latex": null,
+        "answer_text": "False. tan A can be greater than 1 in certain triangles.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Hence, the given statement is false.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "sec A = for some value of angle A.",
+        "part_latex": null,
+        "answer_text": "True. sec A can take values greater than or equal to 1.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Hence, the given statement is true.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "cos A is the abbreviation used for the cosecant of angle A.",
+        "part_latex": null,
+        "answer_text": "False. cos A is the abbreviation for cosine, not cosecant.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Hence, the given statement is false.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iv)",
+        "part_text": "cot A is the product of cot and A.",
+        "part_latex": null,
+        "answer_text": "False. cot A is the cotangent of angle A.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Hence, the given statement is false.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(v)",
+        "part_text": "sin θ = , for some angle θ.",
+        "part_latex": null,
+        "answer_text": "False. In a right-angled triangle, the hypotenuse is always greater than the other sides.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Hence, the given statement is false.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of trigonometric identities and properties.",
+    "topics_tags": [
+      "Trigonometric Functions",
+      "True or False",
+      "Justification"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.12",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "introduction to trigonometry",
+    "question_type": "numerical",
+    "question_text": "Evaluate the following: (i) sin60° cos30° + sin30° cos 60°",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The value of sin60° cos30° + sin30° cos 60° is 1.",
+    "answer_latex": "sin60° cos30° + sin30° cos 60° = \\frac{\\sqrt{3}}{2} \\cdot \\frac{\\sqrt{3}}{2} + \\frac{1}{2} \\cdot \\frac{1}{2} = 1",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Substitute the values of sin and cos for the angles.",
+        "expression": "sin60° = \\frac{\\sqrt{3}}{2}, cos30° = \\frac{\\sqrt{3}}{2}, sin30° = \\frac{1}{2}, cos60° = \\frac{1}{2}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the expression using the substituted values.",
+        "expression": "sin60° cos30° + sin30° cos 60° = \\frac{\\sqrt{3}}{2} \\cdot \\frac{\\sqrt{3}}{2} + \\frac{1}{2} \\cdot \\frac{1}{2}"
+      }
+    ],
+    "final_answer": "Therefore, the value of the expression is 1.",
+    "answer_image": {
+      "present": true,
+      "description": "Image showing the expression sin60° cos30° + sin30° cos 60°",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777818603/ncert/maths/8/img_16_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of trigonometric values and basic arithmetic.",
+    "topics_tags": [
+      "Trigonometric Identities",
+      "Sine",
+      "Cosine"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image showing the expression sin60° cos30° + sin30° cos 60°",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777818603/ncert/maths/8/img_16_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q8.13",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "introduction to trigonometry",
+    "question_type": "numerical",
+    "question_text": "Evaluate the following: (ii) 2tan245° + cos230° - sin260°",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image showing the expression 2tan245° + cos230° - sin260°",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777818604/ncert/maths/8/img_16_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The value of 2tan245° + cos230° - sin260° is calculated as follows.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate tan245°, cos230°, and sin260° using trigonometric identities.",
+        "expression": "tan245° = -tan65°, cos230° = -cos50°, sin260° = -sin80°"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values into the expression.",
+        "expression": "2(-tan65°) + (-cos50°) - (-sin80°)"
+      }
+    ],
+    "final_answer": "The final value needs to be computed based on the trigonometric values.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple trigonometric calculations and substitutions.",
+    "topics_tags": [
+      "Trigonometric Functions",
+      "Tangent",
+      "Cosine",
+      "Sine"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image showing the expression 2tan245° + cos230° - sin260°",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777818604/ncert/maths/8/img_16_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.14",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "introduction to trigonometry",
+    "question_type": "mcq",
+    "question_text": "Choose the correct option and justify your choice: (i) (A). sin60° (B). cos60° (C). tan60° (D). sin30°",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "sin60°"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "cos60°"
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "tan60°"
+      },
+      {
+        "option_label": "(D)",
+        "option_text": "sin30°"
+      }
+    ],
+    "correct_option": "(C)",
+    "question_image": {
+      "present": true,
+      "description": "Image showing the options for the question.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777818608/ncert/maths/8/img_18_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The correct option is (C) tan60° because tan60° = √3.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the correct answer is (C) tan60°.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of trigonometric values.",
+    "topics_tags": [
+      "Trigonometric Ratios",
+      "Sine",
+      "Cosine",
+      "Tangent"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image showing the options for the question.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777818608/ncert/maths/8/img_18_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.15",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "introduction to trigonometry",
+    "question_type": "mcq",
+    "question_text": "Out of the given alternatives, which is correct?",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "cos60°"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "sin60°"
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "tan60°"
+      },
+      {
+        "option_label": "(D)",
+        "option_text": "sin30°"
+      }
+    ],
+    "correct_option": "(A)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Hence, (A) is correct.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the correct answer is (A) cos60°.",
+    "answer_image": {
+      "present": true,
+      "description": "Image showing the options for the question.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777818610/ncert/maths/8/img_19_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of trigonometric values.",
+    "topics_tags": [
+      "Trigonometric Functions",
+      "Trigonometric Values"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image showing the options for the question.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777818610/ncert/maths/8/img_19_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q8.16",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "introduction to trigonometry",
+    "question_type": "numerical",
+    "question_text": "If 0° < A + B ≤ 90°, A > B, find A and B given A + B = 60° and tan(A - B) = tan30°.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, ∠A = 45° and ∠B = 15°.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set up the equations A + B = 60° and A - B = 30°.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Add both equations to find A.",
+        "expression": "2A = 90"
+      },
+      {
+        "step_number": 3,
+        "description": "Substitute A back into the first equation to find B.",
+        "expression": "B = 60 - A"
+      }
+    ],
+    "final_answer": "Thus, the angles are A = 45° and B = 15°.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires solving a system of equations.",
+    "topics_tags": [
+      "Trigonometric Equations",
+      "Angle Relationships"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.17",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "introduction to trigonometry",
+    "question_type": "mcq",
+    "question_text": "State whether the following are true or false. Justify your answer: (i) sin(A + B) = sin A + sin B.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Hence, the given statement is false.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, sin(A + B) ≠ sin A + sin B.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of trigonometric identities.",
+    "topics_tags": [
+      "Trigonometric Identities",
+      "Sine Function"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.18",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "introduction to trigonometry",
+    "question_type": "conceptual",
+    "question_text": "State whether the following are true or false. Justify your answer: (ii) The value of sin θ increases as θ increases.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Hence, the given statement is true.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, sin θ increases in the interval of 0° < θ < 90°.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of the sine function's behavior.",
+    "topics_tags": [
+      "Sine Function",
+      "Trigonometric Functions"
+    ],
+    "confidence_score": 0.93,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.19",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "introduction to trigonometry",
+    "question_type": "conceptual",
+    "question_text": "State whether the following are true or false. Justify your answer: (iii) The value of cos θ increases as θ increases.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Hence, the given statement is false.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the value of cos θ does not increase in the interval of 0° < θ < 90°.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of the cosine function's behavior.",
+    "topics_tags": [
+      "Cosine Function",
+      "Trigonometric Functions"
+    ],
+    "confidence_score": 0.91,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.20",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "introduction to trigonometry",
+    "question_type": "conceptual",
+    "question_text": "State whether the following are true or false. Justify your answer: (iv) sin θ = cos θ for all values of θ.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "This is true when θ = 45°.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, sin θ = cos θ is not true for all values of θ.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of trigonometric identities.",
+    "topics_tags": [
+      "Trigonometric Identities",
+      "Sine and Cosine Functions"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.21",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "introduction to trigonometry",
+    "question_type": "numerical",
+    "question_text": "Evaluate (III) cos 48° - sin 42°",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "cos 48° - sin 42° = sin 42° - sin 42° = 0",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Use the co-function identity to rewrite cos 48° as sin(90° - 48°).",
+        "expression": "cos 48° = sin(90° - 48°) = sin 42°"
+      },
+      {
+        "step_number": 2,
+        "description": "Subtract sin 42° from itself.",
+        "expression": "sin 42° - sin 42° = 0"
+      }
+    ],
+    "final_answer": "Therefore, the result is 0.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct application of trigonometric identities.",
+    "topics_tags": [
+      "Trigonometric Identities",
+      "Basic Trigonometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.22",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "introduction to trigonometry",
+    "question_type": "numerical",
+    "question_text": "Evaluate (IV) cosec 31° - sec 59°",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "cosec 31° - sec 59° = sec 59° - sec 59° = 0",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Use the co-function identity to rewrite cosec 31° as sec(90° - 59°).",
+        "expression": "cosec 31° = sec(90° - 59°) = sec 59°"
+      },
+      {
+        "step_number": 2,
+        "description": "Subtract sec 59° from itself.",
+        "expression": "sec 59° - sec 59° = 0"
+      }
+    ],
+    "final_answer": "Therefore, the result is 0.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct application of trigonometric identities.",
+    "topics_tags": [
+      "Trigonometric Identities",
+      "Basic Trigonometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.23",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "introduction to trigonometry",
+    "question_type": "derivation",
+    "question_text": "Show that (I) tan 48° tan 23° tan 42° tan 67° = 1",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "tan 48° tan 23° tan 42° tan 67° = (cot 42° tan 42°)(cot 67° tan 67°) = 1",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Rewrite tan 48° and tan 23° using cotangent identities.",
+        "expression": "tan 48° = cot(90° - 42°), tan 23° = cot(90° - 67°)"
+      },
+      {
+        "step_number": 2,
+        "description": "Combine the terms.",
+        "expression": "(cot 42° tan 42°)(cot 67° tan 67°)"
+      },
+      {
+        "step_number": 3,
+        "description": "Since cot x tan x = 1, conclude the result.",
+        "expression": "(1)(1) = 1"
+      }
+    ],
+    "final_answer": "Thus, tan 48° tan 23° tan 42° tan 67° = 1.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of trigonometric identities and manipulation.",
+    "topics_tags": [
+      "Trigonometric Identities",
+      "Tangent",
+      "Cotangent"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.24",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "introduction to trigonometry",
+    "question_type": "derivation",
+    "question_text": "Show that (II) cos 38° cos 52° - sin 38° sin 52° = 0",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "cos 38° cos 52° - sin 38° sin 52° = 0",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Use the cosine of sum identity.",
+        "expression": "cos(38° + 52°) = cos 90° = 0"
+      }
+    ],
+    "final_answer": "Thus, cos 38° cos 52° - sin 38° sin 52° = 0.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of trigonometric identities.",
+    "topics_tags": [
+      "Trigonometric Identities",
+      "Cosine",
+      "Sine"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.25",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "introduction to trigonometry",
+    "question_type": "derivation",
+    "question_text": "If tan 2A = cot (A- 18°), where 2A is an acute angle, find the value of A.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "A = 36°",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set up the equation using cotangent identity.",
+        "expression": "tan 2A = cot(A - 18°)"
+      },
+      {
+        "step_number": 2,
+        "description": "Convert cotangent to tangent.",
+        "expression": "cot(90° - 2A) = cot(A - 18°)"
+      },
+      {
+        "step_number": 3,
+        "description": "Solve for A.",
+        "expression": "90° - 2A = A - 18°"
+      },
+      {
+        "step_number": 4,
+        "description": "Rearrange and solve.",
+        "expression": "108° = 3A \\Rightarrow A = 36°"
+      }
+    ],
+    "final_answer": "Therefore, the value of A is 36°.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps and understanding of trigonometric identities.",
+    "topics_tags": [
+      "Trigonometric Equations",
+      "Tangent",
+      "Cotangent"
+    ],
+    "confidence_score": 0.93,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.26",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "introduction to trigonometry",
+    "question_type": "derivation",
+    "question_text": "If tan A = cot B, prove that A + B = 90°.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "A + B = 90°.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Use the identity tan A = cot B.",
+        "expression": "tan A = tan(90° - B)"
+      },
+      {
+        "step_number": 2,
+        "description": "Conclude that A + B = 90°.",
+        "expression": "A = 90° - B \\Rightarrow A + B = 90°"
+      }
+    ],
+    "final_answer": "Thus, A + B = 90°.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of trigonometric identities.",
+    "topics_tags": [
+      "Trigonometric Identities",
+      "Tangent",
+      "Cotangent"
+    ],
+    "confidence_score": 0.91,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.27",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "introduction to trigonometry",
+    "question_type": "numerical",
+    "question_text": "If sec 4A = cosec (A- 20°), where 4A is an acute angle, find the value of A.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "A = 22°.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set up the equation using secant and cosecant identities.",
+        "expression": "sec 4A = cosec(A - 20°)"
+      },
+      {
+        "step_number": 2,
+        "description": "Convert cosecant to secant.",
+        "expression": "cosec(90° - 4A) = cosec(A - 20°)"
+      },
+      {
+        "step_number": 3,
+        "description": "Solve for A.",
+        "expression": "90° - 4A = A - 20°"
+      },
+      {
+        "step_number": 4,
+        "description": "Rearrange and solve.",
+        "expression": "110° = 5A \\Rightarrow A = 22°"
+      }
+    ],
+    "final_answer": "Therefore, the value of A is 22°.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps and understanding of trigonometric identities.",
+    "topics_tags": [
+      "Trigonometric Equations",
+      "Secant",
+      "Cosecant"
+    ],
+    "confidence_score": 0.93,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.28",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "introduction to trigonometry",
+    "question_type": "conceptual",
+    "question_text": "If A, B and C are interior angles of a triangle ABC then show that ∠ A + ∠B + ∠C = 180°.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The sum of the interior angles of a triangle is always 180°.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, ∠ A + ∠B + ∠C = 180°.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Basic geometric property of triangles.",
+    "topics_tags": [
+      "Triangle",
+      "Interior Angles",
+      "Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.29",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "introduction to trigonometry",
+    "question_type": "conceptual",
+    "question_text": "Express sin 67° + cos 75° in terms of trigonometric ratios of angles between 0° and 45°.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to trigonometric angles.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777818615/ncert/maths/8/img_25_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "sin 67° + cos 75° = cos 23° + sin 15°.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Use the co-function identities to rewrite sin 67° and cos 75°.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Combine the results to express in terms of angles between 0° and 45°.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, sin 67° + cos 75° can be expressed as cos 23° + sin 15°.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of trigonometric identities and co-function relationships.",
+    "topics_tags": [
+      "Trigonometric Ratios",
+      "Co-function Identities",
+      "Angle Transformation"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to trigonometric angles.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777818615/ncert/maths/8/img_25_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.30",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "introduction to trigonometry",
+    "question_type": "conceptual",
+    "question_text": "Write all the other trigonometric ratios of ∠ A in terms of sec A.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "We know that, sin² A + cos² A = 1, sin² A = 1 - cos² A, tan² A + 1 = sec² A, tan² A = sec² A - 1.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Use the Pythagorean identity to express sin² A in terms of cos² A.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Express tan² A in terms of sec² A using the identity.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, all trigonometric ratios can be expressed in terms of sec A.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram related to trigonometric ratios.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777818617/ncert/maths/8/img_26_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves understanding of trigonometric identities and their relationships.",
+    "topics_tags": [
+      "Trigonometric Ratios",
+      "Secant Function",
+      "Pythagorean Identities"
+    ],
+    "confidence_score": 0.93,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram related to trigonometric ratios.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777818617/ncert/maths/8/img_26_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q8.31",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "introduction to trigonometry",
+    "question_type": "numerical",
+    "question_text": "Evaluate sin25° cos65° + cos25° sin65°.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to the evaluation of trigonometric expressions.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777818618/ncert/maths/8/img_27_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "sin25° cos65° + cos25° sin65° = sin(25° + 65°) = sin 90° = 1.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Recognize that sin A cos B + cos A sin B = sin(A + B).",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute A = 25° and B = 65° to find sin(90°).",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, the value of sin25° cos65° + cos25° sin65° is 1.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic trigonometric identities and simple evaluation.",
+    "topics_tags": [
+      "Trigonometric Evaluation",
+      "Sine Function",
+      "Angle Addition"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the evaluation of trigonometric expressions.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777818618/ncert/maths/8/img_27_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.32",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "introduction to trigonometry",
+    "question_type": "mcq",
+    "question_text": "Choose the correct option. Justify your choice.\n(i) 9 sec² A - 9 tan² A =\n(A) 1\n(B) 9\n(C) 8\n(D) 0",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "1"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "9"
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "8"
+      },
+      {
+        "option_label": "(D)",
+        "option_text": "0"
+      }
+    ],
+    "correct_option": "(B)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "9 sec²A - 9 tan²A = 9 (sec²A - tan²A) = 9 (1) [As sec² A - tan² A = 1] = 9. Hence, alternative (B) is correct.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Factor out 9 from the expression.",
+        "expression": "9 (sec²A - tan²A)"
+      },
+      {
+        "step_number": 2,
+        "description": "Use the identity sec²A - tan²A = 1.",
+        "expression": "9 (1)"
+      }
+    ],
+    "final_answer": "Therefore, the correct option is (B) 9.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of trigonometric identities and basic algebra.",
+    "topics_tags": [
+      "Trigonometric Identities",
+      "Secant",
+      "Tangent"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.33",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "introduction to trigonometry",
+    "question_type": "mcq",
+    "question_text": "(1 + tan θ + sec θ) (1 + cot θ - cosec θ)\nChoose the correct option.\n(A) 0\n(B) 1\n(C) 2\n(D) - 1",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "0"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "1"
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "2"
+      },
+      {
+        "option_label": "(D)",
+        "option_text": "-1"
+      }
+    ],
+    "correct_option": "(C)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The expression simplifies to 2. Hence, alternative (C) is correct.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Expand the expression using trigonometric identities.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Simplify the resulting expression.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, the correct option is (C) 2.",
+    "answer_image": {
+      "present": true,
+      "description": "An expression involving trigonometric functions.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777818621/ncert/maths/8/img_29_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic algebraic manipulation and understanding of trigonometric functions.",
+    "topics_tags": [
+      "Trigonometric Functions",
+      "Cotangent",
+      "Secant"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "An expression involving trigonometric functions.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777818621/ncert/maths/8/img_29_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q8.34",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "introduction to trigonometry",
+    "question_type": "mcq",
+    "question_text": "(secA + tanA) (1 - sinA) =\nChoose the correct option.\n(A) secA\n(B) sinA\n(C) cosecA\n(D) cosA",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "secA"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "sinA"
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "cosecA"
+      },
+      {
+        "option_label": "(D)",
+        "option_text": "cosA"
+      }
+    ],
+    "correct_option": "(D)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The expression simplifies to cosA. Hence, alternative (D) is correct.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Expand the expression using trigonometric identities.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Simplify the resulting expression.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, the correct option is (D) cosA.",
+    "answer_image": {
+      "present": true,
+      "description": "An expression involving secant and tangent functions.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777818621/ncert/maths/8/img_29_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires knowledge of trigonometric identities and simplification.",
+    "topics_tags": [
+      "Trigonometric Identities",
+      "Secant",
+      "Cosine"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "An expression involving secant and tangent functions.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777818621/ncert/maths/8/img_29_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q8.35",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "introduction to trigonometry",
+    "question_type": "mcq",
+    "question_text": "Choose the correct option for the expression.\n(A) sec² A\n(B) - 1\n(C) cot² A\n(D) tan² A",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "sec² A"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "-1"
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "cot² A"
+      },
+      {
+        "option_label": "(D)",
+        "option_text": "tan² A"
+      }
+    ],
+    "correct_option": "(D)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The expression simplifies to tan² A. Hence, alternative (D) is correct.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Use the identity to simplify the expression.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Identify the resulting expression.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, the correct option is (D) tan² A.",
+    "answer_image": {
+      "present": true,
+      "description": "An expression involving tangent and secant functions.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777818623/ncert/maths/8/img_29_3.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic trigonometric identities and simplification.",
+    "topics_tags": [
+      "Trigonometric Identities",
+      "Tangent",
+      "Secant"
+    ],
+    "confidence_score": 0.91,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "An expression involving tangent and secant functions.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777818623/ncert/maths/8/img_29_3.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  }
+]

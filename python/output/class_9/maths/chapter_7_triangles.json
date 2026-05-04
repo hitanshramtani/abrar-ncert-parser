@@ -1,0 +1,2379 @@
+[
+  {
+    "question_id": "Q7.1",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 7,
+    "chapter_name": "triangles",
+    "question_type": "conceptual",
+    "question_text": "In quadrilateral ACBD, AC = AD and AB bisects A (See the given figure). Show that ∆ABC ∆ABD. What can you say about BC and BD?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing quadrilateral ACBD with angles and sides marked.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840445/ncert/maths/7/img_1_0.jpg",
+      "latex_extracted": "\\left|\\begin{array}{c}{{\\mathbf{\\hat{e}}^{\\times}}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow_{\\times}_{\\n}\\downarrow_{\\n}}}\\\\ {{\\downarrow_{\\times}^{\\star}\\!\\sum_{\\bf{\\hat{D}}}{\\cal{N}}^{\\Lambda}}}\\end{array}\\right|\\mathrm{s}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "∆ABC ∆ABD. Therefore, BC and BD are of equal lengths.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the given conditions: AC = AD and AB bisects angle A.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Apply the SAS congruence rule to show that triangles ABC and ABD are congruent.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Conclude that BC = BD by CPCT.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, BC and BD are of equal lengths.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of triangle congruence and basic properties.",
+    "topics_tags": [
+      "Triangle Congruence",
+      "SAS Rule",
+      "Quadrilaterals"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing quadrilateral ACBD with angles and sides marked.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840445/ncert/maths/7/img_1_0.jpg",
+        "latex_extracted": "\\left|\\begin{array}{c}{{\\mathbf{\\hat{e}}^{\\times}}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow_{\\times}_{\\n}\\downarrow_{\\n}}}\\\\ {{\\downarrow_{\\times}^{\\star}\\!\\sum_{\\bf{\\hat{D}}}{\\cal{N}}^{\\Lambda}}}\\end{array}\\right|\\mathrm{s}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.2",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 7,
+    "chapter_name": "triangles",
+    "question_type": "conceptual",
+    "question_text": "ABCD is a quadrilateral in which AD = BC and DAB = CBA (See the given figure). Prove that (i) ∆ABD ∆BAC, (ii) BD = AC, (iii) ABD = BAC.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing quadrilateral ABCD with angles and sides marked.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840447/ncert/maths/7/img_2_0.jpg",
+      "latex_extracted": "\\left|\\begin{array}{c}{{\\frac{A}{\\Lambda}}}\\\\ {{\\vdots}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\end{array}\\right.",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "In ∆ABD and ∆BAC, AD = BC, DAB = CBA, AB = BA. Therefore, ∆ABD ∆BAC, BD = AC, and ABD = BAC.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the given conditions: AD = BC and angles DAB = CBA.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Apply the SAS congruence rule to show that triangles ABD and BAC are congruent.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Conclude that BD = AC and angles ABD = BAC by CPCT.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, we have proved that ∆ABD ∆BAC, BD = AC, and ABD = BAC.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps and understanding of triangle properties.",
+    "topics_tags": [
+      "Triangle Congruence",
+      "Quadrilaterals",
+      "SAS Rule"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing quadrilateral ABCD with angles and sides marked.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840447/ncert/maths/7/img_2_0.jpg",
+        "latex_extracted": "\\left|\\begin{array}{c}{{\\frac{A}{\\Lambda}}}\\\\ {{\\vdots}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\end{array}\\right.",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.3",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 7,
+    "chapter_name": "triangles",
+    "question_type": "conceptual",
+    "question_text": "AD and BC are equal perpendiculars to a line segment AB (See the given figure). Show that CD bisects AB.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "In ∆BOC and ∆AOD, BOC = AOD (Vertically opposite angles), CBO = DAO (Each 90º), BC = AD (Given). Therefore, CD bisects AB.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the given conditions: AD and BC are equal and perpendicular to AB.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the properties of vertically opposite angles and right angles.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Apply the AAS congruence rule to conclude that CD bisects AB.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, CD bisects AB.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing line segment AB with perpendiculars AD and BC.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840449/ncert/maths/7/img_3_0.jpg",
+      "latex_extracted": "\\left|\\begin{array}{c c}{{}}&{{\\stackrel{\\mathrm{B}}{\\prod+}}}\\\\ {{}}&{{}}\\\\ {{\\downarrow}}&{{}}\\\\ {{\\downarrow}}&{{}}\\\\ {{\\downarrow}}&{{}}\\\\ {{}}&{{}}&{{}}\\end{array}\\right|",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of triangle properties and basic geometry.",
+    "topics_tags": [
+      "Perpendiculars",
+      "Bisectors",
+      "Triangles"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing line segment AB with perpendiculars AD and BC.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840449/ncert/maths/7/img_3_0.jpg",
+        "latex_extracted": "\\left|\\begin{array}{c c}{{}}&{{\\stackrel{\\mathrm{B}}{\\prod+}}}\\\\ {{}}&{{}}\\\\ {{\\downarrow}}&{{}}\\\\ {{\\downarrow}}&{{}}\\\\ {{\\downarrow}}&{{}}\\\\ {{}}&{{}}&{{}}\\end{array}\\right|",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q7.4",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 7,
+    "chapter_name": "triangles",
+    "question_type": "conceptual",
+    "question_text": "l and m are two parallel lines intersected by another pair of parallel lines p and q (see the given figure). Show that ∆ABC ∆CDA.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing two pairs of parallel lines with triangles ABC and CDA.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840452/ncert/maths/7/img_3_1.jpg",
+      "latex_extracted": "\\left|\\begin{array}{c c}{{\\displaystyle\\sqrt{\\displaystyle\\sum\\sqrt{\\displaystyle\\bigwedge^{q}}}}}&{{\\displaystyle\\bigwedge^{q}}}\\\\ {{\\displaystyle\\left|\\begin{array}{c c}{{\\displaystyle\\bigwedge^{q}}}\\\\ {{\\displaystyle\\star\\displaystyle\\int(\\frac{\\gamma}{\\Lambda^{q}}}}}&{{\\displaystyle\\sqrt{\\displaystyle\\bigwedge^{q}}}}\\\\ {{\\displaystyle\\left\\langle\\displaystyle\\star\\displaystyle\\frac{\\beta^{q}}{\\displaystyle\\bigwedge^{q}}}}\\end{array}\\right|}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "In ∆ABC and ∆CDA, corresponding angles are equal. Therefore, ∆ABC ∆CDA.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the corresponding angles formed by the parallel lines.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the properties of parallel lines to show that the angles are equal.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Conclude that triangles ABC and CDA are congruent.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, ∆ABC ∆CDA.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of parallel lines and triangle properties.",
+    "topics_tags": [
+      "Parallel Lines",
+      "Triangle Congruence",
+      "Geometry"
+    ],
+    "confidence_score": 0.91,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing two pairs of parallel lines with triangles ABC and CDA.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840452/ncert/maths/7/img_3_1.jpg",
+        "latex_extracted": "\\left|\\begin{array}{c c}{{\\displaystyle\\sqrt{\\displaystyle\\sum\\sqrt{\\displaystyle\\bigwedge^{q}}}}}&{{\\displaystyle\\bigwedge^{q}}}\\\\ {{\\displaystyle\\left|\\begin{array}{c c}{{\\displaystyle\\bigwedge^{q}}}\\\\ {{\\displaystyle\\star\\displaystyle\\int(\\frac{\\gamma}{\\Lambda^{q}}}}}&{{\\displaystyle\\sqrt{\\displaystyle\\bigwedge^{q}}}}\\\\ {{\\displaystyle\\left\\langle\\displaystyle\\star\\displaystyle\\frac{\\beta^{q}}{\\displaystyle\\bigwedge^{q}}}}\\end{array}\\right|}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.5",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 7,
+    "chapter_name": "triangles",
+    "question_type": "multipart",
+    "question_text": "Line l A is the bisector of an angle and B is any point on l. BP and BQ are perpendiculars from B to the arms of A (see the given figure). Show that: i) ∆APB ∆AQB ( ii) BP = BQ or B is equidistant from the arms of A.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing angle bisector with perpendiculars from point B to the arms of angle A.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840465/ncert/maths/7/img_4_0.jpg",
+      "latex_extracted": "\\left|\\begin{array}{c c}{{\\displaystyle\\sim}}&{{\\displaystyle\\chi^{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\vphantom{X^{\\prime}}}}}}}}}}}}}}\\\\ {{\\displaystyle\\left|{}_{\\mathcal{X}}\\widetilde{\\sqrt{\\vphantom{X^{\\prime}}}}}}&{{\\displaystyle\\mathrm{~\\ p~\\qquad~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~{{{~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~{{{{{{{{{{{\\mathcal{\\Psi~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "Show that ∆APB ∆AQB.",
+        "part_latex": null,
+        "answer_text": "In ∆APB and ∆AQB, APB = AQB (Each 90º), PAB = QAB (l is the angle bisector of A), AB = AB (Common). ∆APB ∆AQB (By AAS congruence rule).",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify that both angles APB and AQB are right angles.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Use the property of angle bisector to state that PAB = QAB.",
+            "expression": null
+          },
+          {
+            "step_number": 3,
+            "description": "Note that AB is common to both triangles.",
+            "expression": null
+          },
+          {
+            "step_number": 4,
+            "description": "Apply AAS congruence rule to conclude that ∆APB is congruent to ∆AQB.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Therefore, ∆APB is congruent to ∆AQB.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "Show that BP = BQ or B is equidistant from the arms of A.",
+        "part_latex": null,
+        "answer_text": "BP = BQ (By CPCT).",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the congruence of triangles to state that corresponding parts are equal.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, B is equidistant from the arms of angle A.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of triangle congruence and properties of angle bisectors.",
+    "topics_tags": [
+      "Triangle Congruence",
+      "Angle Bisector",
+      "Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing angle bisector with perpendiculars from point B to the arms of angle A.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840465/ncert/maths/7/img_4_0.jpg",
+        "latex_extracted": "\\left|\\begin{array}{c c}{{\\displaystyle\\sim}}&{{\\displaystyle\\chi^{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\vphantom{X^{\\prime}}}}}}}}}}}}}}\\\\ {{\\displaystyle\\left|{}_{\\mathcal{X}}\\widetilde{\\sqrt{\\vphantom{X^{\\prime}}}}}}&{{\\displaystyle\\mathrm{~\\ p~\\qquad~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~{{{~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~{{{{{{{{{{{\\mathcal{\\Psi~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.6",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 7,
+    "chapter_name": "triangles",
+    "question_type": "conceptual",
+    "question_text": "In the given figure, AC = AE, AB = AD and BAD = EAC. Show that BC = DE.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing two triangles with equal sides and angles.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840467/ncert/maths/7/img_5_0.jpg",
+      "latex_extracted": "\\begin{array}{c}{{\\stackrel{\\Lambda}{\\sqrt{}}\\displaystyle\\sum_{\\Lambda}^{-\\alpha^{-}}\\displaystyle\\sqrt{}}}\\\\ {{\\frac{\\Lambda}{\\mathfrak{b}}\\end{array}\\sim_{\\mathbb{C}}\\displaystyle\\sqrt{}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "In ∆BAC and ∆DAE, AB = AD (Given), BAC = DAE (Proved above), AC = AE (Given). ∆BAC ∆DAE (By SAS congruence rule). BC = DE (By CPCT).",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Use the given information to establish equal angles and sides.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Apply the SAS congruence rule to conclude that the triangles are congruent.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Conclude that corresponding sides BC and DE are equal.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, BC is equal to DE.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic application of triangle congruence rules.",
+    "topics_tags": [
+      "Triangle Congruence",
+      "SAS Rule",
+      "Geometry"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing two triangles with equal sides and angles.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840467/ncert/maths/7/img_5_0.jpg",
+        "latex_extracted": "\\begin{array}{c}{{\\stackrel{\\Lambda}{\\sqrt{}}\\displaystyle\\sum_{\\Lambda}^{-\\alpha^{-}}\\displaystyle\\sqrt{}}}\\\\ {{\\frac{\\Lambda}{\\mathfrak{b}}\\end{array}\\sim_{\\mathbb{C}}\\displaystyle\\sqrt{}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.7",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 7,
+    "chapter_name": "triangles",
+    "question_type": "multipart",
+    "question_text": "AB is a line segment and P is its mid-point. D and E are points on the same side of AB such that BAD = ABE and EPA = DPB (See the given figure). Show that i) ∆DAP ∆EBP (ii) AD = BE.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing two triangles with mid-point and equal angles.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840469/ncert/maths/7/img_6_0.jpg",
+      "latex_extracted": "\\begin{array}{c}{{\\stackrel{\\mathrm{F}}{}}\\times\\sum_{\\hat{l}\\hat{\\mathrm{T}}}\\bigotimes_{\\hat{\\mathrm{F}}}}\\\\ {{_{\\hat{\\mathrm{F}}}\\displaystyle\\hat{\\longrightarrow}_{\\hat{\\mathrm{F}}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "Show that ∆DAP ∆EBP.",
+        "part_latex": null,
+        "answer_text": "In ∆DAP and ∆EBP, DAP = EBP (Given), AP = BP (P is mid-point of AB), DPA = EPB (From above). ∆DAP ∆EBP (ASA congruence rule).",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify that angles DAP and EBP are equal.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Note that AP and BP are equal since P is the mid-point.",
+            "expression": null
+          },
+          {
+            "step_number": 3,
+            "description": "Conclude that the triangles are congruent using the ASA rule.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Therefore, ∆DAP is congruent to ∆EBP.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "Show that AD = BE.",
+        "part_latex": null,
+        "answer_text": "AD = BE (By CPCT).",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the congruence of triangles to state that corresponding parts are equal.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, AD is equal to BE.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of triangle congruence and properties of mid-points.",
+    "topics_tags": [
+      "Triangle Congruence",
+      "Mid-point Theorem",
+      "Geometry"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing two triangles with mid-point and equal angles.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840469/ncert/maths/7/img_6_0.jpg",
+        "latex_extracted": "\\begin{array}{c}{{\\stackrel{\\mathrm{F}}{}}\\times\\sum_{\\hat{l}\\hat{\\mathrm{T}}}\\bigotimes_{\\hat{\\mathrm{F}}}}\\\\ {{_{\\hat{\\mathrm{F}}}\\displaystyle\\hat{\\longrightarrow}_{\\hat{\\mathrm{F}}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.8",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 7,
+    "chapter_name": "triangles",
+    "question_type": "conceptual",
+    "question_text": "In an isosceles triangle ABC, with AB = AC, the bisectors of B and C intersect each other at O. Join A to O. Show that: (i) OB = OC (ii) AO bisects A.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "Show that OB = OC.",
+        "part_latex": null,
+        "answer_text": "OB = OC (Sides opposite to equal angles of a triangle are also equal).",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify that AB = AC (given).",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Use the property that angles opposite to equal sides are equal.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Therefore, OB = OC.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "Show that AO bisects A.",
+        "part_latex": null,
+        "answer_text": "AO bisects A (By SSS congruence rule).",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify that AO = AO (common side).",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Use the property that AB = AC (given).",
+            "expression": null
+          },
+          {
+            "step_number": 3,
+            "description": "Conclude that triangles OAB and OAC are congruent.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, AO bisects angle A.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing isosceles triangle ABC with angle bisectors.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840472/ncert/maths/7/img_8_0.jpg",
+      "latex_extracted": "\\left|\\begin{array}{c c}{{\\sqrt{\\displaystyle\\star\\sim}}}\\\\ {{\\sqrt{\\displaystyle\\star\\displaystyle\\ H\\displaystyle\\exp\\displaystyle\\star},}}\\end{array}\\right|",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of triangle properties and congruence.",
+    "topics_tags": [
+      "Isosceles Triangle",
+      "Angle Bisector",
+      "Triangle Congruence"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing isosceles triangle ABC with angle bisectors.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840472/ncert/maths/7/img_8_0.jpg",
+        "latex_extracted": "\\left|\\begin{array}{c c}{{\\sqrt{\\displaystyle\\star\\sim}}}\\\\ {{\\sqrt{\\displaystyle\\star\\displaystyle\\ H\\displaystyle\\exp\\displaystyle\\star},}}\\end{array}\\right|",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q7.9",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 7,
+    "chapter_name": "triangles",
+    "question_type": "conceptual",
+    "question_text": "In ∆ABC, AD is the perpendicular bisector of BC. Show that ∆ABC is an isosceles triangle in which AB = AC.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing triangle ABC with perpendicular bisector AD.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840473/ncert/maths/7/img_9_0.jpg",
+      "latex_extracted": "\\left\\vert\\underbrace{{\\sqrt{\\left\\langle\\left.\\bigwedge^{\\cdot}\\right|}}_{\\mathrm{if~}}}\\right\\vert_{\\mathrm{\\scriptsize{\\hat{\\Lambda}}^{\\cdot}\\to~\\hat{\\Lambda}^{\\cdot}~}}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "Show that AB = AC.",
+        "part_latex": null,
+        "answer_text": "In ∆ADC and ∆ADB, AD = AD (common), ADC = ADB (each 90º).",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify that AD is common to both triangles.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Use the property of right angles at D.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, AB = AC.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic properties of triangles and congruence.",
+    "topics_tags": [
+      "Perpendicular Bisector",
+      "Isosceles Triangle",
+      "Triangle Properties"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing triangle ABC with perpendicular bisector AD.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840473/ncert/maths/7/img_9_0.jpg",
+        "latex_extracted": "\\left\\vert\\underbrace{{\\sqrt{\\left\\langle\\left.\\bigwedge^{\\cdot}\\right|}}_{\\mathrm{if~}}}\\right\\vert_{\\mathrm{\\scriptsize{\\hat{\\Lambda}}^{\\cdot}\\to~\\hat{\\Lambda}^{\\cdot}~}}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.10",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 7,
+    "chapter_name": "triangles",
+    "question_type": "conceptual",
+    "question_text": "ABC is an isosceles triangle in which altitudes BE and CF are drawn to equal sides AC and AB respectively. Show that these altitudes are equal.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Figure showing triangle ABC with altitudes BE and CF drawn to sides AC and AB.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840475/ncert/maths/7/img_10_0.jpg",
+      "latex_extracted": "\\begin{array}{c}{{\\begin{array}{}}\\\\ {{\\sqrt{\\aleph}}}\\\\ {{\\downarrow}}\\end{array}\\sim}}\\\\ {{\\downarrow}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "In ∆AEB and ∆AFC, angles AEB and ACF are each 90º, and angle A is common. Therefore, by AAS congruence rule, BE = CF.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the right angles at points E and F.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Recognize that angle A is common to both triangles AEB and AFC.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Apply the AAS congruence rule to conclude that triangles AEB and AFC are congruent.",
+        "expression": null
+      },
+      {
+        "step_number": 4,
+        "description": "Conclude that BE = CF by CPCT.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the altitudes BE and CF are equal.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of triangle congruence and basic properties of isosceles triangles.",
+    "topics_tags": [
+      "Isosceles Triangle",
+      "Triangle Congruence",
+      "Altitude"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Figure showing triangle ABC with altitudes BE and CF drawn to sides AC and AB.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840475/ncert/maths/7/img_10_0.jpg",
+        "latex_extracted": "\\begin{array}{c}{{\\begin{array}{}}\\\\ {{\\sqrt{\\aleph}}}\\\\ {{\\downarrow}}\\end{array}\\sim}}\\\\ {{\\downarrow}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.11",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 7,
+    "chapter_name": "triangles",
+    "question_type": "conceptual",
+    "question_text": "ABC is a triangle in which altitudes BE and CF to sides AC and AB are equal. Show that AB = AC, i.e., ABC is an isosceles triangle.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Since BE = CF, and angles AEB and ACF are each 90º, triangles AEB and ACF are congruent by AAS. Therefore, AB = AC by CPCT, proving that triangle ABC is isosceles.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Recognize that BE and CF are equal altitudes.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Identify the right angles at points E and F.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Note that angle A is common to both triangles AEB and AFC.",
+        "expression": null
+      },
+      {
+        "step_number": 4,
+        "description": "Apply the AAS congruence rule to conclude that triangles AEB and AFC are congruent.",
+        "expression": null
+      },
+      {
+        "step_number": 5,
+        "description": "Conclude that AB = AC by CPCT.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, triangle ABC is isosceles with AB = AC.",
+    "answer_image": {
+      "present": true,
+      "description": "Figure showing triangle ABC with equal altitudes BE and CF.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840476/ncert/maths/7/img_11_0.jpg",
+      "latex_extracted": "\\begin{array}{c}{{\\begin{array}{}}\\\\ {{\\sqrt{\\aleph}}}\\\\ {{\\downarrow}}\\end{array}\\sim}}\\\\ {{\\downarrow}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves understanding triangle properties and congruence.",
+    "topics_tags": [
+      "Isosceles Triangle",
+      "Triangle Congruence",
+      "Altitude"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Figure showing triangle ABC with equal altitudes BE and CF.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840476/ncert/maths/7/img_11_0.jpg",
+        "latex_extracted": "\\begin{array}{c}{{\\begin{array}{}}\\\\ {{\\sqrt{\\aleph}}}\\\\ {{\\downarrow}}\\end{array}\\sim}}\\\\ {{\\downarrow}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q7.12",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 7,
+    "chapter_name": "triangles",
+    "question_type": "conceptual",
+    "question_text": "ABC and DBC are two isosceles triangles on the same base BC. Show that ∠ABD = ∠ACD.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Since ABC and DBC are isosceles triangles, we have AB = AC and DB = DC. Therefore, the angles opposite to equal sides are equal, which gives us ∠ABD = ∠ACD.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify that AB = AC and DB = DC due to the properties of isosceles triangles.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the property that angles opposite equal sides are equal.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Conclude that ∠ABD = ∠ACD.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, ∠ABD = ∠ACD.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of isosceles triangle properties.",
+    "topics_tags": [
+      "Isosceles Triangle",
+      "Angle Properties",
+      "Congruence"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.13",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 7,
+    "chapter_name": "triangles",
+    "question_type": "conceptual",
+    "question_text": "∆ABC is an isosceles triangle in which AB = AC. Side BA is produced to D such that AD = AB (see the given figure). Show that BCD is a right angle.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "In ∆ABC, AB = AC (Given) ACB = ABC (Angles opposite to equal sides of a triangle are also equal) In ∆ACD, AC = AD ADC = ACD (Angles opposite to equal sides of a triangle are also equal) In ∆BCD, ABC + BCD + ADC = 180º (Angle sum property of a triangle) ACB + ACB + ACD + ACD = 180º 2( ACB + ACD) = 180º 2( BCD) = 180º BCD = 90º",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify that AB = AC and use the property of angles in isosceles triangles.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Apply the angle sum property in triangle BCD.",
+        "expression": "ABC + BCD + ADC = 180º"
+      },
+      {
+        "step_number": 3,
+        "description": "Substitute the known angles and simplify.",
+        "expression": "2( ACB + ACD) = 180º"
+      },
+      {
+        "step_number": 4,
+        "description": "Solve for angle BCD.",
+        "expression": "2( BCD) = 180º"
+      }
+    ],
+    "final_answer": "Therefore, BCD is a right angle.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing triangle ABC with points A, B, C, and D, illustrating the isosceles triangle and the produced side.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840479/ncert/maths/7/img_13_0.jpg",
+      "latex_extracted": "\\begin{array}{l l}{{\\displaystyle{}_{\\star}\\displaystyle{\\sqrt{\\displaystyle\\sum_{\\star}\\sqrt{\\displaystyle\\bigwedge_{\\star}^{\\Big.}}}}}}\\\\ {{\\displaystyle{}_{\\star}\\displaystyle{\\stackrel{\\wedge}{\\bigotimes_{\\star}\\sum_{\\star}\\sum\\sum\\sum}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of triangle properties and angle relationships.",
+    "topics_tags": [
+      "Isosceles Triangle",
+      "Angle Properties",
+      "Congruence"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing triangle ABC with points A, B, C, and D, illustrating the isosceles triangle and the produced side.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840479/ncert/maths/7/img_13_0.jpg",
+        "latex_extracted": "\\begin{array}{l l}{{\\displaystyle{}_{\\star}\\displaystyle{\\sqrt{\\displaystyle\\sum_{\\star}\\sqrt{\\displaystyle\\bigwedge_{\\star}^{\\Big.}}}}}}\\\\ {{\\displaystyle{}_{\\star}\\displaystyle{\\stackrel{\\wedge}{\\bigotimes_{\\star}\\sum_{\\star}\\sum\\sum\\sum}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q7.14",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 7,
+    "chapter_name": "triangles",
+    "question_type": "conceptual",
+    "question_text": "Show that the angles of an equilateral triangle are 60º each.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing an equilateral triangle ABC with equal sides and angles.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840485/ncert/maths/7/img_15_0.jpg",
+      "latex_extracted": "\\left\\vert\\begin{array}{c}{{X^{\\hat{\\alpha}\\hat{\\mathrm{x}}}\\mathrm{\\boldmath~x~}}}\\\\ {{\\mathrm{}\\langle\\hat{\\mathrm{}}}}\\\\ {{\\mathrm{}\\hat{\\mathrm{}~}}}\\end{array}\\right\\vert_{\\mathrm{}\\hat{\\mathrm{}}}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Let us consider that ABC is an equilateral triangle. Therefore, AB = BC = AC. Since AB = AC, angles opposite to equal sides are equal, thus C = B.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Define the properties of an equilateral triangle.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "State that all sides are equal, hence all angles are equal.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Use the angle sum property of triangles.",
+        "expression": "A + B + C = 180º"
+      },
+      {
+        "step_number": 4,
+        "description": "Since A = B = C, express in terms of one angle.",
+        "expression": "3A = 180º"
+      },
+      {
+        "step_number": 5,
+        "description": "Solve for angle A.",
+        "expression": "A = 60º"
+      }
+    ],
+    "final_answer": "Thus, each angle of the equilateral triangle is 60º.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves understanding triangle properties and basic angle calculations.",
+    "topics_tags": [
+      "Equilateral Triangle",
+      "Angle Properties",
+      "Triangle Sum"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing an equilateral triangle ABC with equal sides and angles.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840485/ncert/maths/7/img_15_0.jpg",
+        "latex_extracted": "\\left\\vert\\begin{array}{c}{{X^{\\hat{\\alpha}\\hat{\\mathrm{x}}}\\mathrm{\\boldmath~x~}}}\\\\ {{\\mathrm{}\\langle\\hat{\\mathrm{}}}}\\\\ {{\\mathrm{}\\hat{\\mathrm{}~}}}\\end{array}\\right\\vert_{\\mathrm{}\\hat{\\mathrm{}}}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.15",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 7,
+    "chapter_name": "triangles",
+    "question_type": "multipart",
+    "question_text": "∆ABC and ∆DBC are two isosceles triangles on the same base BC and vertices A and D are on the same side of BC. If AD is extended to intersect BC at P, show that (i) ∆ABD ≅ ∆ACD (ii) ∆ABP ≅ ∆ACP (iii) AP bisects ∠A as well as ∠D (iv) AP is the perpendicular bisector of BC.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing two isosceles triangles ∆ABC and ∆DBC with point P on base BC.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840493/ncert/maths/7/img_17_0.jpg",
+      "latex_extracted": "\\left\\vert\\begin{array}{c}{{\\phi\\!{\\sqrt{}}\\!{\\displaystyle\\sum}\\!\\!\\!\\sqrt\\!\\!\\left.\\sum\\!\\!\\mathrm{\\boldmath{~x~}}\\!\\!\\mathrm{\\boldmath{N}}\\!\\!\\times\\!\\!\\mathrm{\\boldmath{~x~}}\\!\\!\\mathrm{\\bf{N}}\\!\\!\\right\\vert}}\\\\ {{\\left|\\mathrm{\\boldmath{S}}\\!\\!\\right|\\!\\!\\right.\\!\\sim\\!\\!}}\\end{array}\\right\\vert\\!\\!\\begin{array}{",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "In ∆ABD and ∆ACD, AB = AC (Given), BD = CD (Given), AD = AD (Common).",
+        "part_latex": null,
+        "answer_text": "∆ABD ≅ ∆ACD (By SSS congruence rule).",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the equal sides and common side.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Apply SSS congruence rule.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Therefore, ∆ABD is congruent to ∆ACD.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "In ∆ABP and ∆ACP, AB = AC (Given), ∠BAP = ∠CAP [From equation (1)], AP = AP (Common).",
+        "part_latex": null,
+        "answer_text": "∆ABP ≅ ∆ACP (By SAS congruence rule).",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the equal angles and common side.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Apply SAS congruence rule.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, ∆ABP is congruent to ∆ACP.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "From equation (1), ∠BAP = ∠CAP. Hence, AP bisects ∠A.",
+        "part_latex": null,
+        "answer_text": "AP bisects ∠A.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the equality of angles to show bisecting.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Therefore, AP bisects ∠A.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iv)",
+        "part_text": "In ∆BDP and ∆CDP, BD = CD (Given), DP = DP (Common), BP = CP [From equation (2)].",
+        "part_latex": null,
+        "answer_text": "AP is the perpendicular bisector of BC.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Show that BP = CP using congruence.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Conclude that AP is the perpendicular bisector.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, AP is the perpendicular bisector of BC.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps of reasoning and application of congruence rules.",
+    "topics_tags": [
+      "Isosceles Triangle",
+      "Congruence",
+      "Angle Bisector"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "mixed_or_weak_context"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing two isosceles triangles ∆ABC and ∆DBC with point P on base BC.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840493/ncert/maths/7/img_17_0.jpg",
+        "latex_extracted": "\\left\\vert\\begin{array}{c}{{\\phi\\!{\\sqrt{}}\\!{\\displaystyle\\sum}\\!\\!\\!\\sqrt\\!\\!\\left.\\sum\\!\\!\\mathrm{\\boldmath{~x~}}\\!\\!\\mathrm{\\boldmath{N}}\\!\\!\\times\\!\\!\\mathrm{\\boldmath{~x~}}\\!\\!\\mathrm{\\bf{N}}\\!\\!\\right\\vert}}\\\\ {{\\left|\\mathrm{\\boldmath{S}}\\!\\!\\right|\\!\\!\\right.\\!\\sim\\!\\!}}\\end{array}\\right\\vert\\!\\!\\begin{array}{",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.16",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 7,
+    "chapter_name": "triangles",
+    "question_type": "conceptual",
+    "question_text": "Two sides AB and BC and median AM of one triangle ABC are respectively equal to sides PQ and QR and median PN of ∆PQR. Show that: i) ∆ABM ∆PQN ( ii) ∆ABC ∆PQR",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing triangles ABC and PQR with medians AM and PN.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840503/ncert/maths/7/img_19_1.jpg",
+      "latex_extracted": "\\left|\\begin{array}{c}{{\\left(\\frac{\\hat{\\mathcal{N}}}{\\hat{\\Lambda}}\\right)_{\\lambda\\atop\\beta=\\sum_{\\beta\\atop\\mathrm{in\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\right)}{\\left|\\frac{\\hat{\\mathcal{X}}}{\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\right.}}}\\end{array}\\right|\\frac{\\mathcal{X}}{\\Lambda\\beta^{\\mu\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta}}\\end{array}\\right|\\frac{\\left(\\frac{\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\Lambda}{\\Lambda}{\\Lambda}}}\\end{array}\\right|\\Lambda}",
+      "source_page_number": 19,
+      "source_image_index": 1,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "In ∆ABC, AM is the median to BC. In ∆PQR, PN is the median to QR. AB = PQ (Given) BM = QN [From equation (1)] AM = PN (Given) ∆ABM ∆PQN (SSS congruence rule) ABM = PQN (By CPCT) ABC = PQR … (2)",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the medians and sides of both triangles.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Apply SSS congruence rule to show ∆ABM ∆PQN.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Conclude that ABC = PQR by CPCT.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, ∆ABC is congruent to ∆PQR.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of triangle congruence and application of SSS rule.",
+    "topics_tags": [
+      "Triangle Congruence",
+      "Median",
+      "SSS Rule"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing triangles ABC and PQR with medians AM and PN.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840503/ncert/maths/7/img_19_1.jpg",
+        "latex_extracted": "\\left|\\begin{array}{c}{{\\left(\\frac{\\hat{\\mathcal{N}}}{\\hat{\\Lambda}}\\right)_{\\lambda\\atop\\beta=\\sum_{\\beta\\atop\\mathrm{in\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\right)}{\\left|\\frac{\\hat{\\mathcal{X}}}{\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\right.}}}\\end{array}\\right|\\frac{\\mathcal{X}}{\\Lambda\\beta^{\\mu\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta}}\\end{array}\\right|\\frac{\\left(\\frac{\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\beta\\Lambda}{\\Lambda}{\\Lambda}}}\\end{array}\\right|\\Lambda}",
+        "source_page_number": 19,
+        "source_image_index": 1,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.17",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 7,
+    "chapter_name": "triangles",
+    "question_type": "conceptual",
+    "question_text": "BE and CF are two equal altitudes of a triangle ABC. Using RHS congruence rule, prove that the triangle ABC is isosceles.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "In ∆BEC and ∆CFB, BEC = CFB (Each 90°) BC = CB (Common) BE = CF (Given) ∆BEC ∆CFB (By RHS congruency) BCE = CBF (By CPCT) AB = AC (Sides opposite to equal angles of a triangle are equal) Hence, ∆ABC is isosceles.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the right angles and common side in triangles BEC and CFB.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Apply RHS congruence rule to show ∆BEC ∆CFB.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Conclude that AB = AC due to equal angles.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, triangle ABC is isosceles.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing triangle ABC with equal altitudes BE and CF.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840508/ncert/maths/7/img_21_0.jpg",
+      "latex_extracted": "\\begin{array}{c}{{\\L_{{}_{1}}\\L_{{}^{\\ K}}\\L_{{}^{\\ K}}^{\\ K}{}_{\\sum_{}^{\\aleph}}}}\\\\ {{\\L_{{}_{\\L}}\\Vert_{~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~}}}\\end{array}",
+      "source_page_number": 21,
+      "source_image_index": 0,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic understanding of triangle properties and congruence.",
+    "topics_tags": [
+      "Isosceles Triangle",
+      "Triangle Congruence",
+      "Altitude"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing triangle ABC with equal altitudes BE and CF.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840508/ncert/maths/7/img_21_0.jpg",
+        "latex_extracted": "\\begin{array}{c}{{\\L_{{}_{1}}\\L_{{}^{\\ K}}\\L_{{}^{\\ K}}^{\\ K}{}_{\\sum_{}^{\\aleph}}}}\\\\ {{\\L_{{}_{\\L}}\\Vert_{~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~}}}\\end{array}",
+        "source_page_number": 21,
+        "source_image_index": 0,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q7.18",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 7,
+    "chapter_name": "triangles",
+    "question_type": "conceptual",
+    "question_text": "Show that in a right angled triangle, the hypotenuse is the longest side.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram illustrating a right-angled triangle with angles labeled.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840510/ncert/maths/7/img_22_0.jpg",
+      "latex_extracted": "\\begin{array}{c}{{\\displaystyle\\chi^{{\\chi}}^{X}\\displaystyle\\left[\\begin{array}{{{\\exp}~~~~}}\\!\\!}}\\\\ {{\\displaystyle\\frac{{\\chi}}{{\\mathfrak{s}}}\\!\\!}}\\end{array}\\right]}\\end{array}\\nonumber",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "In triangle ABC, angle B is the largest angle, hence AC, the hypotenuse, is the longest side.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify that angle B is 90 degrees, making it the largest angle in triangle ABC.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Apply the property that the side opposite the largest angle is the longest.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, the hypotenuse AC is the longest side in triangle ABC.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of triangle properties and angle relationships.",
+    "topics_tags": [
+      "Right Angled Triangle",
+      "Hypotenuse",
+      "Triangle Properties"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram illustrating a right-angled triangle with angles labeled.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840510/ncert/maths/7/img_22_0.jpg",
+        "latex_extracted": "\\begin{array}{c}{{\\displaystyle\\chi^{{\\chi}}^{X}\\displaystyle\\left[\\begin{array}{{{\\exp}~~~~}}\\!\\!}}\\\\ {{\\displaystyle\\frac{{\\chi}}{{\\mathfrak{s}}}\\!\\!}}\\end{array}\\right]}\\end{array}\\nonumber",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.19",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 7,
+    "chapter_name": "triangles",
+    "question_type": "conceptual",
+    "question_text": "In the given figure sides AB and AC of ∆ABC are extended to points P and Q respectively. Also, PBC < QCB. Show that AC > AB.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing triangle ABC with extended sides AB and AC to points P and Q.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840517/ncert/maths/7/img_24_0.jpg",
+      "latex_extracted": "\\left\\vert\\begin{array}{c}{{\\displaystyle\\sqrt{\\sum\\sum_{{\\bf Y}_{\\Lambda}}\\surd\\Lambda_{{\\bf X}_{\\Lambda}}\\hfill{c}}}\\\\ {{\\displaystyle\\left|\\chi^{\\not\\ell}{}^{\\uparrow}\\right.}}\\end{array}\\right\\vert\\begin{array}{c}{{\\displaystyle\\sqrt{\\exp\\displaystyle{\\bf\\left|{\\psi}_{{\\bf X}_{\\Lambda}}\\,\\!hfill}}}\\\\ {{\\displaystyle\\left|\\chi_{{\\bf A}\\,\\,\\,\\,}}}\\end{array}\\right|}}\\end{array}\\right\\vert\\left.\\begin{array}{c}{{\\displaystyle\\sqrt{\\displaystyle{\\left.{\\chi}_{{\\bf X}_{{\\bf X}_{{\\bf X}}\\,}\\,\\,~}}}}}\\\\ {{\\displaystyle\\left|\\begin{array}{c}{{\\langle{\\bf X}_{{\\bf X}_{{\\bf X}_{{\\bf X}_{{\\bf X}}_{{\\Lambda}}\\,}}}}}\\end{array}\\right|}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Since PBC and QCB are supplementary angles, and PBC < QCB, it follows that AC > AB.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Recognize that angles PBC and QCB form a linear pair.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the property of angles to conclude that if one angle is smaller, the side opposite it must be shorter.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, AC is greater than AB.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding angle relationships and properties of triangles.",
+    "topics_tags": [
+      "Triangle Inequality",
+      "Angle Properties",
+      "Geometry"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing triangle ABC with extended sides AB and AC to points P and Q.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840517/ncert/maths/7/img_24_0.jpg",
+        "latex_extracted": "\\left\\vert\\begin{array}{c}{{\\displaystyle\\sqrt{\\sum\\sum_{{\\bf Y}_{\\Lambda}}\\surd\\Lambda_{{\\bf X}_{\\Lambda}}\\hfill{c}}}\\\\ {{\\displaystyle\\left|\\chi^{\\not\\ell}{}^{\\uparrow}\\right.}}\\end{array}\\right\\vert\\begin{array}{c}{{\\displaystyle\\sqrt{\\exp\\displaystyle{\\bf\\left|{\\psi}_{{\\bf X}_{\\Lambda}}\\,\\!hfill}}}\\\\ {{\\displaystyle\\left|\\chi_{{\\bf A}\\,\\,\\,\\,}}}\\end{array}\\right|}}\\end{array}\\right\\vert\\left.\\begin{array}{c}{{\\displaystyle\\sqrt{\\displaystyle{\\left.{\\chi}_{{\\bf X}_{{\\bf X}_{{\\bf X}}\\,}\\,\\,~}}}}}\\\\ {{\\displaystyle\\left|\\begin{array}{c}{{\\langle{\\bf X}_{{\\bf X}_{{\\bf X}_{{\\bf X}_{{\\bf X}}_{{\\Lambda}}\\,}}}}}\\end{array}\\right|}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.20",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 7,
+    "chapter_name": "triangles",
+    "question_type": "conceptual",
+    "question_text": "In the given figure, B < A and C < D. Show that AD < BC.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "AD < BC",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "In triangle AOB, since B < A, AO < BO.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "In triangle COD, since C < D, OD < OC.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Adding the inequalities from both triangles gives AO + OD < BO + OC.",
+        "expression": null
+      },
+      {
+        "step_number": 4,
+        "description": "Thus, AD < BC.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, AD is less than BC.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing triangles AOB and COD with angles B, A, C, and D.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840519/ncert/maths/7/img_25_0.jpg",
+      "latex_extracted": "\\left|\\begin{array}{c}{{\\frac{8}{\\vert\\displaystyle\\sum_{\\infty}^{\\infty}\\displaystyle\\sum_{\\infty}\\sum_{\\infty}\\sum_{\\infty}\\sum_{\\infty}}}\\\\ {{\\left\\vert\\displaystyle\\sum_{\\infty}\\sum_{\\infty}\\sum_{\\infty}\\sum_{\\infty}\\sum_{\\infty}\\sum_{\\infty}\\sum_{\\infty}}}\\end{array}\\right\\vert",
+      "source_page_number": 25,
+      "source_image_index": 0,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of triangle properties and basic inequalities.",
+    "topics_tags": [
+      "Triangles",
+      "Inequalities",
+      "Angle Properties"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing triangles AOB and COD with angles B, A, C, and D.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840519/ncert/maths/7/img_25_0.jpg",
+        "latex_extracted": "\\left|\\begin{array}{c}{{\\frac{8}{\\vert\\displaystyle\\sum_{\\infty}^{\\infty}\\displaystyle\\sum_{\\infty}\\sum_{\\infty}\\sum_{\\infty}\\sum_{\\infty}}}\\\\ {{\\left\\vert\\displaystyle\\sum_{\\infty}\\sum_{\\infty}\\sum_{\\infty}\\sum_{\\infty}\\sum_{\\infty}\\sum_{\\infty}\\sum_{\\infty}}}\\end{array}\\right\\vert",
+        "source_page_number": 25,
+        "source_image_index": 0,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q7.21",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 7,
+    "chapter_name": "triangles",
+    "question_type": "conceptual",
+    "question_text": "AB and CD are respectively the smallest and longest sides of a quadrilateral ABCD. Show that A > C and B > D.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing quadrilateral ABCD with sides AB and CD.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840521/ncert/maths/7/img_26_0.jpg",
+      "latex_extracted": "\\begin{array}{r}{{}}\\\\ {{\\displaystyle\\left(\\begin{array}{l}{{}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\end{array}\\right)}}\\end{array}",
+      "source_page_number": 26,
+      "source_image_index": 0,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "A > C and B > D",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "In triangle ABC, since AB < BC, angle A is greater than angle B.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "In triangle ADC, since AD < CD, angle D is greater than angle C.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Adding the inequalities gives A > C and B > D.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, angles A and B are greater than angles C and D respectively.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves understanding triangle properties and angle relationships.",
+    "topics_tags": [
+      "Quadrilaterals",
+      "Angle Properties",
+      "Inequalities"
+    ],
+    "confidence_score": 0.93,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing quadrilateral ABCD with sides AB and CD.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840521/ncert/maths/7/img_26_0.jpg",
+        "latex_extracted": "\\begin{array}{r}{{}}\\\\ {{\\displaystyle\\left(\\begin{array}{l}{{}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\end{array}\\right)}}\\end{array}",
+        "source_page_number": 26,
+        "source_image_index": 0,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.22",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 7,
+    "chapter_name": "triangles",
+    "question_type": "conceptual",
+    "question_text": "In the given figure, PR > PQ and PS bisects QPR. Prove that PSR > PSQ.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing triangle with segments PR, PQ, and PS bisecting angle QPR.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840525/ncert/maths/7/img_27_0.jpg",
+      "latex_extracted": "\\begin{array}{c}{{\\displaystyle\\star\\sqrt{\\frac{\\sqrt{\\sqrt{\\gamma}}}{\\displaystyle\\star}}}}\\\\ {{\\displaystyle\\bar{\\sqrt{\\frac{\\sqrt{\\gamma}}}{\\displaystyle\\star}}}}\\end{array}\\nonumber",
+      "source_page_number": 27,
+      "source_image_index": 0,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "PSR > PSQ",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Since PR > PQ, angle PSR is greater than angle PSQ.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Using the property of angle bisector, PS bisects angle QPR.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Thus, PSR > PSQ follows from the angle comparison.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, angle PSR is greater than angle PSQ.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of angle bisector properties and comparison.",
+    "topics_tags": [
+      "Angle Bisector",
+      "Triangles",
+      "Inequalities"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing triangle with segments PR, PQ, and PS bisecting angle QPR.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840525/ncert/maths/7/img_27_0.jpg",
+        "latex_extracted": "\\begin{array}{c}{{\\displaystyle\\star\\sqrt{\\frac{\\sqrt{\\sqrt{\\gamma}}}{\\displaystyle\\star}}}}\\\\ {{\\displaystyle\\bar{\\sqrt{\\frac{\\sqrt{\\gamma}}}{\\displaystyle\\star}}}}\\end{array}\\nonumber",
+        "source_page_number": 27,
+        "source_image_index": 0,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.23",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 7,
+    "chapter_name": "triangles",
+    "question_type": "conceptual",
+    "question_text": "Show that of all line segments drawn from a given point not on it, the perpendicular line segment is the shortest.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, it can be observed that of all line segments drawn from a given point not on it, the perpendicular line segment is the shortest.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Draw a line segment from point P to line l at an angle.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Draw a perpendicular line segment from point P to line l.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Compare the lengths of the segments using the angle properties of triangles.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, the perpendicular line segment is the shortest.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram illustrating the relationship between a point and a line with perpendicular and non-perpendicular segments.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840527/ncert/maths/7/img_28_0.jpg",
+      "latex_extracted": "\\left|\\begin{array}{c}{{\\displaystyle\\sqrt{\\displaystyle\\hat{\\sum_{\\hat{\\bar{\\imath}}}}}}}\\\\ {{\\displaystyle\\hat{\\sum_{\\hat{\\bar{\\imath}}}}}}\\end{array}\\right.\\sum_{\\hat{\\bf x}}}\\\\ {{\\displaystyle\\left(\\frac{\\hat{\\bf y}}{\\hat{\\bf s}}}}\\\\ {{\\displaystyle\\hat{\\bf s}.}}\\end{array}\\right)_{\\Delta}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of triangle properties and angle relationships.",
+    "topics_tags": [
+      "Perpendicular",
+      "Line Segment",
+      "Triangle Properties"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram illustrating the relationship between a point and a line with perpendicular and non-perpendicular segments.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840527/ncert/maths/7/img_28_0.jpg",
+        "latex_extracted": "\\left|\\begin{array}{c}{{\\displaystyle\\sqrt{\\displaystyle\\hat{\\sum_{\\hat{\\bar{\\imath}}}}}}}\\\\ {{\\displaystyle\\hat{\\sum_{\\hat{\\bar{\\imath}}}}}}\\end{array}\\right.\\sum_{\\hat{\\bf x}}}\\\\ {{\\displaystyle\\left(\\frac{\\hat{\\bf y}}{\\hat{\\bf s}}}}\\\\ {{\\displaystyle\\hat{\\bf s}.}}\\end{array}\\right)_{\\Delta}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q7.24",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 7,
+    "chapter_name": "triangles",
+    "question_type": "conceptual",
+    "question_text": "Locate a point in the interior of ∆ABC which is equidistant from all the vertices of ∆ABC.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Circumcentre of a triangle is always equidistant from all the vertices of that triangle.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "The circumcentre is the point where perpendicular bisectors of all the sides of the triangle meet together.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires knowledge of triangle centers and their properties.",
+    "topics_tags": [
+      "Circumcentre",
+      "Triangle",
+      "Equidistant"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.25",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 7,
+    "chapter_name": "triangles",
+    "question_type": "conceptual",
+    "question_text": "In a triangle locate a point in its interior which is equidistant from all the sides of the triangle.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The point which is equidistant from all the sides of a triangle is called the incentre of the triangle.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the incentre is the required point.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the incentre of triangle ABC, where angle bisectors intersect.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840532/ncert/maths/7/img_31_0.jpg",
+      "latex_extracted": "\\left\\langle\\begin{array}{c}{{\\frac{\\lambda}{2\\lambda_{1_{2}_{3}}}\\sqrt{\\sum_{(\\Sigma_{2}^{\\mu}\\Sigma_{A}^{\\nu}\\Delta}^{\\nu}\\Delta}}\\\\ {{\\frac{\\lambda}{\\lambda}}}\\\\ {{\\frac{\\lambda}{\\lambda}}}\\end{array}\\right\\rangle",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of triangle properties and definitions.",
+    "topics_tags": [
+      "Incentre",
+      "Triangle Properties",
+      "Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the incentre of triangle ABC, where angle bisectors intersect.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840532/ncert/maths/7/img_31_0.jpg",
+        "latex_extracted": "\\left\\langle\\begin{array}{c}{{\\frac{\\lambda}{2\\lambda_{1_{2}_{3}}}\\sqrt{\\sum_{(\\Sigma_{2}^{\\mu}\\Sigma_{A}^{\\nu}\\Delta}^{\\nu}\\Delta}}\\\\ {{\\frac{\\lambda}{\\lambda}}}\\\\ {{\\frac{\\lambda}{\\lambda}}}\\end{array}\\right\\rangle",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q7.26",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 7,
+    "chapter_name": "triangles",
+    "question_type": "conceptual",
+    "question_text": "Where should an ice-cream parlour be set up so that maximum number of persons can approach it?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing points A, B, and C in a park where people are concentrated.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840535/ncert/maths/7/img_32_0.jpg",
+      "latex_extracted": "\\left\\vert\\begin{array}{c c c}{{\\frac{\\vert\\dot{\\Lambda}}{\\vert\\m\\vert}}}&{{\\frac{\\vert\\dot{\\Lambda}}{\\phi\\vert}}}\\\\ {{\\left\\vert\\vphantom{\\hat{R}}^{\\star},\\qquad\\qquad\\qquad\\qquad\\qquad\\star_{\\mathrm{C}}}}\\end{array}\\right\\vert",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Maximum number of persons can approach the ice-cream parlour if it is equidistant from A, B and C.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "So, the ice-cream parlour should be set up at the circumcentre O of triangle ABC.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of circumcentre and triangle properties.",
+    "topics_tags": [
+      "Circumcentre",
+      "Triangle Properties",
+      "Geometry"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing points A, B, and C in a park where people are concentrated.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840535/ncert/maths/7/img_32_0.jpg",
+        "latex_extracted": "\\left\\vert\\begin{array}{c c c}{{\\frac{\\vert\\dot{\\Lambda}}{\\vert\\m\\vert}}}&{{\\frac{\\vert\\dot{\\Lambda}}{\\phi\\vert}}}\\\\ {{\\left\\vert\\vphantom{\\hat{R}}^{\\star},\\qquad\\qquad\\qquad\\qquad\\qquad\\star_{\\mathrm{C}}}}\\end{array}\\right\\vert",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.27",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 7,
+    "chapter_name": "triangles",
+    "question_type": "multipart",
+    "question_text": "Complete the hexagonal and star shaped rangolies by filling them with as many equilateral triangles of side 1 cm as you can. Count the number of triangles in each case. Which has more triangles?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagrams of hexagonal and star shaped rangolies.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840540/ncert/maths/7/img_33_0.jpg",
+      "latex_extracted": "\\left|\\begin{array}{c}{{\\mathrm{A}}}\\\\ {{\\vdots_{\\times_{\\times_{\\times_{\\times_{\\times}}}}}}\\end{array}\\right|_{\\begin{array}{c}{{\\hat{X}}}\\\\ {{\\frac{\\hat{\\chi}}{\\hat{\\chi}}\\sim\\hat{\\chi}_{\\times_{\\cdot}}^{\\hat{\\chi}_{\\sim}}\\end{array}}}}\\\\ {{\\left|\\begin{array}{c}{{\\hat{\\chi}}}\\\\ {{\\hat{\\chi}}}\\\\ {{\\hat{\\bar{X}}}}\\end{array}\\right|}}\\\\ {{\\left|\\begin{array}{c}{{\\hat{\\chi}}}\\\\ {{\\hat{\\bar{X}}}}\\end{array}\\right|}}\\end{array}\\right|_{\\mathrm{C}}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Count the number of triangles in the hexagonal rangoli.",
+        "part_latex": null,
+        "answer_text": "It can be observed that hexagonal-shaped rangoli has 6 equilateral triangles in it.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, the hexagonal rangoli contains 6 triangles.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Count the number of triangles in the star shaped rangoli.",
+        "part_latex": null,
+        "answer_text": null,
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires visual counting and comparison of shapes.",
+    "topics_tags": [
+      "Rangoli",
+      "Triangles",
+      "Geometry"
+    ],
+    "confidence_score": 0.88,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagrams of hexagonal and star shaped rangolies.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840540/ncert/maths/7/img_33_0.jpg",
+        "latex_extracted": "\\left|\\begin{array}{c}{{\\mathrm{A}}}\\\\ {{\\vdots_{\\times_{\\times_{\\times_{\\times_{\\times}}}}}}\\end{array}\\right|_{\\begin{array}{c}{{\\hat{X}}}\\\\ {{\\frac{\\hat{\\chi}}{\\hat{\\chi}}\\sim\\hat{\\chi}_{\\times_{\\cdot}}^{\\hat{\\chi}_{\\sim}}\\end{array}}}}\\\\ {{\\left|\\begin{array}{c}{{\\hat{\\chi}}}\\\\ {{\\hat{\\chi}}}\\\\ {{\\hat{\\bar{X}}}}\\end{array}\\right|}}\\\\ {{\\left|\\begin{array}{c}{{\\hat{\\chi}}}\\\\ {{\\hat{\\bar{X}}}}\\end{array}\\right|}}\\end{array}\\right|_{\\mathrm{C}}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.28",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 7,
+    "chapter_name": "triangles",
+    "question_type": "conceptual",
+    "question_text": "Therefore, star-shaped rangoli has more equilateral triangles in it.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing a star-shaped rangoli with equilateral triangles.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840570/ncert/maths/7/img_35_0.jpg",
+      "latex_extracted": "\\frac{\\mathrm{Number~of~equilareral~riangles~of~\\bar{t}\\bar{t}a m~3e~f i l f e d}}{\\mathrm{ln~this~starcshaped~rangolf}}\\frac{\\mathrm{Fom~Side~flat~can~be~filfed}}{\\mathrm{th}}}{\\mathrm{ts}}{}_{\\mathrm{ls}}}{}_{\\mathrm{ls}}={\\frac{\\mathrm{gide~silat~can~be}}{t}}{}_{\\mathrm{le}}}\\\\ {\\mathrm{in~thig~starcshaped~rangolft}=-{\\frac{\\sqrt{3}}{3}}={\\frac{\\sqrt{3}}{\\sqrt{3}}}{}_{\\mathrm{ls}}}={\\frac{\\sqrt{3}}{(2)}}{\\frac{\\sqrt{3}}{(2)}}}_{\\mathrm{ls}}_{\\mathrm{ts}}_{\\mathrm{ts}}_{\\mathrm{tr}}}_{\\mathrm{s}_{t r}}_{\\mathrm{t}}_{t r}_{\\mathrm{dtr}_{t r}}_{t r}_{\\mathrm{\\mathrm{tr}}_{t r}_{\\mathrm{t}_{{t}}_{\\mathrm{\\mathrm{\\mathrm{t}}}}_{\\theta_{\\theta}_{t r}_{\\mathrm{\\mathrm{trs}_{t}}}}_{\\mathrm{tr}_{\\mathrm{\\right.",
+      "source_page_number": 35,
+      "source_image_index": 0,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of geometric properties of shapes.",
+    "topics_tags": [
+      "Triangles",
+      "Equilateral Triangles",
+      "Geometry"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "text extraction issues",
+      "unclear context"
+    ],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing a star-shaped rangoli with equilateral triangles.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840570/ncert/maths/7/img_35_0.jpg",
+        "latex_extracted": "\\frac{\\mathrm{Number~of~equilareral~riangles~of~\\bar{t}\\bar{t}a m~3e~f i l f e d}}{\\mathrm{ln~this~starcshaped~rangolf}}\\frac{\\mathrm{Fom~Side~flat~can~be~filfed}}{\\mathrm{th}}}{\\mathrm{ts}}{}_{\\mathrm{ls}}}{}_{\\mathrm{ls}}={\\frac{\\mathrm{gide~silat~can~be}}{t}}{}_{\\mathrm{le}}}\\\\ {\\mathrm{in~thig~starcshaped~rangolft}=-{\\frac{\\sqrt{3}}{3}}={\\frac{\\sqrt{3}}{\\sqrt{3}}}{}_{\\mathrm{ls}}}={\\frac{\\sqrt{3}}{(2)}}{\\frac{\\sqrt{3}}{(2)}}}_{\\mathrm{ls}}_{\\mathrm{ts}}_{\\mathrm{ts}}_{\\mathrm{tr}}}_{\\mathrm{s}_{t r}}_{\\mathrm{t}}_{t r}_{\\mathrm{dtr}_{t r}}_{t r}_{\\mathrm{\\mathrm{tr}}_{t r}_{\\mathrm{t}_{{t}}_{\\mathrm{\\mathrm{\\mathrm{t}}}}_{\\theta_{\\theta}_{t r}_{\\mathrm{\\mathrm{trs}_{t}}}}_{\\mathrm{tr}_{\\mathrm{\\right.",
+        "source_page_number": 35,
+        "source_image_index": 0,
+        "ownership": "answer"
+      }
+    ]
+  }
+]

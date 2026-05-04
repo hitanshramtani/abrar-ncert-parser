@@ -1,0 +1,1637 @@
+[
+  {
+    "question_id": "Q2.1",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 2,
+    "chapter_name": "Electrostatic Potential and Capacitance",
+    "question_type": "conceptual",
+    "question_text": "Two charges 5 × 10−8C and −3 × 10−8C are located 16 cm apart. At what point(s) on the line joining the two charges is the electric potential zero? Take the potential at infinity to be zero.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The potential is zero at a distance of 10 cm from the positive charge between the charges and at a distance of 40 cm from the positive charge outside the system of charges.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the distances from the charges where the potential is zero.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the potential at point P using the formula for electric potential.",
+        "expression": "\\frac{q_{1}}{r} + \\frac{q_{2}}{4\\pi\\epsilon_{0}(d-r)} = 0"
+      }
+    ],
+    "final_answer": "Therefore, the potential is zero at a distance of 10 cm from the positive charge and at a distance of 40 cm from the positive charge outside the system.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the arrangement of two charges and the point P where potential is calculated.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777795260/ncert/physics/2/img_1_0.png",
+      "latex_extracted": "\\begin{array}{r}{q_{1}=5\\times10^{\\circ}\\mathbf{C}}\\\\ {q_{2}=-3\\times10^{\\circ}\\mathbf{C}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of electric potential and application of the concept to find points where it is zero.",
+    "topics_tags": [
+      "Electric Potential",
+      "Capacitance",
+      "Electrostatics"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the arrangement of two charges and the point P where potential is calculated.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777795260/ncert/physics/2/img_1_0.png",
+        "latex_extracted": "\\begin{array}{r}{q_{1}=5\\times10^{\\circ}\\mathbf{C}}\\\\ {q_{2}=-3\\times10^{\\circ}\\mathbf{C}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q2.2",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 2,
+    "chapter_name": "Electrostatic Potential and Capacitance",
+    "question_type": "numerical",
+    "question_text": "A regular hexagon of side 100 cm has a charge 5 µC at each of its vertices. Calculate the potential at the centre of the hexagon.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing a regular hexagon with charges at each vertex.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777795269/ncert/physics/2/img_3_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The electric potential at the center of the hexagon is the sum of the potentials due to each charge at the center.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the distance from the center to each vertex.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the formula for electric potential to find the total potential at the center.",
+        "expression": "V = k \\sum_{i=1}^{n} \\frac{q}{r}"
+      }
+    ],
+    "final_answer": "Thus, the potential at the center of the hexagon is calculated based on the contributions from all charges.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic application of the formula for electric potential and understanding of geometry.",
+    "topics_tags": [
+      "Electric Potential",
+      "Hexagon",
+      "Capacitance"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing a regular hexagon with charges at each vertex.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777795269/ncert/physics/2/img_3_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.3",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 2,
+    "chapter_name": "Electrostatic Potential and Capacitance",
+    "question_type": "conceptual",
+    "question_text": "Two charges 2 μC and −2 µC are placed at points A and B 6 cm apart. Identify an equipotential surface of the system. What is the direction of the electric field at every point on this surface?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "An equipotential surface is the plane on which total potential is zero everywhere. This plane is normal to line AB and is located at the mid-point of line AB because the magnitude of charges is the same. The direction of the electric field at every point on this surface is normal to the plane in the direction of AB.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the equipotential surface is the plane at the midpoint of line AB.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram representing the electric field and equipotential surface between two charges.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777795271/ncert/physics/2/img_4_0.png",
+      "latex_extracted": "\\begin{array}{c}{{\\frac{1}{4\\pi\\in_{0}}=9\\times10^{9}\\mathrm{N\\C^{\\times2}m^{-2}}}}\\\\ {{\\vdots y=\\frac{6\\times9\\times10^{9}\\times5\\times10^{-6}}{0.1}}}\\\\ {{=2.7\\times10^{6}\\mathrm{V}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of electric fields and equipotential surfaces.",
+    "topics_tags": [
+      "Equipotential Surface",
+      "Electric Field",
+      "Electrostatics"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram representing the electric field and equipotential surface between two charges.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777795271/ncert/physics/2/img_4_0.png",
+        "latex_extracted": "\\begin{array}{c}{{\\frac{1}{4\\pi\\in_{0}}=9\\times10^{9}\\mathrm{N\\C^{\\times2}m^{-2}}}}\\\\ {{\\vdots y=\\frac{6\\times9\\times10^{9}\\times5\\times10^{-6}}{0.1}}}\\\\ {{=2.7\\times10^{6}\\mathrm{V}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q2.4",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 2,
+    "chapter_name": "Electrostatic Potential and Capacitance",
+    "question_type": "numerical",
+    "question_text": "A spherical conductor of radius 12 cm has a charge of 1.6 × 10−7C distributed uniformly on its surface. What is the electric field inside the sphere? Just outside the sphere?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "What is the electric field inside the sphere?",
+        "part_latex": null,
+        "answer_text": "The electric field inside a spherical conductor is zero.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify that the electric field inside a conductor in electrostatic equilibrium is zero.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Therefore, the electric field inside the sphere is zero.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "What is the electric field just outside the sphere?",
+        "part_latex": null,
+        "answer_text": "The electric field just outside the conductor is given by the relation E = \\frac{1.6 \\times 10^{-7} \\times 9 \\times 10^{9}}{(0.12)^{2}}.",
+        "answer_latex": "E = \\frac{1.6 \\times 10^{-7} \\times 9 \\times 10^{9}}{(0.12)^{2}}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the formula for electric field due to a point charge.",
+            "expression": "E = \\frac{q}{4\\pi\\epsilon_{0}r^{2}}"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the values into the formula.",
+            "expression": "E = \\frac{1.6 \\times 10^{-7} \\times 9 \\times 10^{9}}{(0.12)^{2}}"
+          }
+        ],
+        "final_answer": "Thus, the electric field just outside the sphere is approximately 10^5 N/C.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the electric field around a spherical conductor.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777795274/ncert/physics/2/img_5_0.png",
+      "latex_extracted": "\\begin{array}{c}{{\\frac{1}{4\\pi\\epsilon_{0}}=9\\times10^{9}\\,\\mathrm{N\\,m^{2}C^{\\mathrm{2}}}}}\\\\ {{\\vdots\\,E=\\frac{1.6\\times10^{-7}\\times9\\times10^{-9}}{(0.12)^{2}}}}\\\\ {{\\vdots\\,E=10^{5}\\,\\mathrm{N\\,C^{-1}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of electric fields and application of formulas.",
+    "topics_tags": [
+      "Electric Field",
+      "Spherical Conductor",
+      "Electrostatics"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the electric field around a spherical conductor.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777795274/ncert/physics/2/img_5_0.png",
+        "latex_extracted": "\\begin{array}{c}{{\\frac{1}{4\\pi\\epsilon_{0}}=9\\times10^{9}\\,\\mathrm{N\\,m^{2}C^{\\mathrm{2}}}}}\\\\ {{\\vdots\\,E=\\frac{1.6\\times10^{-7}\\times9\\times10^{-9}}{(0.12)^{2}}}}\\\\ {{\\vdots\\,E=10^{5}\\,\\mathrm{N\\,C^{-1}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q2.5",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 2,
+    "chapter_name": "Electrostatic Potential and Capacitance",
+    "question_type": "numerical",
+    "question_text": "A parallel plate capacitor with air between the plates has a capacitance of 8 pF (1pF = 10−12F). What will be the capacitance if the distance between the plates is reduced by half, and the space between them is filled with a substance of dielectric constant 6?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the capacitance formula and parameters.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777795277/ncert/physics/2/img_6_0.png",
+      "latex_extracted": "\\begin{array}{c c}{{{\\cal C}=\\frac{k\\in_{0}A}{d}}}\\\\ {{{}=\\frac{\\in_{0}A}{d}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The capacitance of the capacitor becomes 48 pF after reducing the distance and filling with a dielectric.",
+    "answer_latex": "C' = 48 \\, \\text{pF}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the initial capacitance and the effect of reducing distance and adding dielectric.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Apply the formula for capacitance with dielectric.",
+        "expression": "C' = \\frac{k \\epsilon_{0} A}{d'}"
+      }
+    ],
+    "final_answer": "Thus, the new capacitance is 48 pF.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of capacitance and dielectric effects.",
+    "topics_tags": [
+      "Capacitance",
+      "Dielectric",
+      "Parallel Plate Capacitor"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the capacitance formula and parameters.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777795277/ncert/physics/2/img_6_0.png",
+        "latex_extracted": "\\begin{array}{c c}{{{\\cal C}=\\frac{k\\in_{0}A}{d}}}\\\\ {{{}=\\frac{\\in_{0}A}{d}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.6",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 2,
+    "chapter_name": "Electrostatic Potential and Capacitance",
+    "question_type": "multipart",
+    "question_text": "Three capacitors each of capacitance 9 pF are connected in series. What is the total capacitance of the combination? What is the potential difference across each capacitor if the combination is connected to a 120 V supply?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "What is the total capacitance of the combination?",
+        "part_latex": null,
+        "answer_text": "The total capacitance of the combination is 3 pF.",
+        "answer_latex": "\\frac{1}{C^{\\prime}}={\\frac{1}{C}}+{\\frac{1}{C}}+{\\frac{1}{C}}={\\frac{1}{9}}+{\\frac{1}{9}}+{\\frac{1}{9}}={\\frac{3}{9}}={\\frac{1}{3}}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the formula for capacitors in series.",
+            "expression": "\\frac{1}{C^{\\prime}}={\\frac{1}{C}}+{\\frac{1}{C}}+{\\frac{1}{C}}"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the values of the capacitors.",
+            "expression": "{\\frac{1}{9}}+{\\frac{1}{9}}+{\\frac{1}{9}}={\\frac{3}{9}}"
+          },
+          {
+            "step_number": 3,
+            "description": "Calculate the equivalent capacitance.",
+            "expression": "C^{\\prime} = 3 pF"
+          }
+        ],
+        "final_answer": "Therefore, the total capacitance of the combination is 3 pF.",
+        "answer_image": {
+          "present": true,
+          "description": "Mathematical representation of the series capacitance calculation.",
+          "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777795285/ncert/physics/2/img_7_1.png",
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "answer"
+        },
+        "question_images": [],
+        "answer_images": [
+          {
+            "present": true,
+            "description": "Mathematical representation of the series capacitance calculation.",
+            "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777795285/ncert/physics/2/img_7_1.png",
+            "latex_extracted": null,
+            "source_page_number": null,
+            "source_image_index": null,
+            "ownership": "answer"
+          }
+        ],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "What is the potential difference across each capacitor?",
+        "part_latex": null,
+        "answer_text": "The potential difference across each capacitor is 40 V.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the potential difference across each capacitor using the total voltage.",
+            "expression": "V' = \\frac{V}{3} = \\frac{120 V}{3}"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the total voltage.",
+            "expression": "V' = 40 V"
+          }
+        ],
+        "final_answer": "Therefore, the potential difference across each capacitor is 40 V.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of capacitance calculation showing C' = 12C and C' = 96 pF.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777795283/ncert/physics/2/img_7_0.png",
+      "latex_extracted": "\\begin{array}{l}{{C^{\\prime}=2\\times6C}}\\\\ {{=12C}}\\\\ {{=12\\times8=96\\ \\mathrm{pf}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of series capacitance and voltage division.",
+    "topics_tags": [
+      "Capacitance",
+      "Series Capacitors",
+      "Voltage Division"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of capacitance calculation showing C' = 12C and C' = 96 pF.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777795283/ncert/physics/2/img_7_0.png",
+        "latex_extracted": "\\begin{array}{l}{{C^{\\prime}=2\\times6C}}\\\\ {{=12C}}\\\\ {{=12\\times8=96\\ \\mathrm{pf}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q2.7",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 2,
+    "chapter_name": "Electrostatic Potential and Capacitance",
+    "question_type": "multipart",
+    "question_text": "Three capacitors of capacitances 2 pF, 3 pF and 4 pF are connected in parallel. What is the total capacitance of the combination? Determine the charge on each capacitor if the combination is connected to a 100 V supply.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Table showing capacitances of three capacitors: C1 = 2 pF, C2 = 3 pF, C3 = 4 pF.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777795287/ncert/physics/2/img_8_0.png",
+      "latex_extracted": "\\begin{array}{c}{{C_{1}=2\\mathrm{~pF}}}\\\\ {{C_{2}=3\\mathrm{~pF}}}\\\\ {{C_{3}=4\\mathrm{~pF}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "What is the total capacitance of the combination?",
+        "part_latex": null,
+        "answer_text": "The total capacitance of the combination is 9 pF.",
+        "answer_latex": "C_{total} = C_{1} + C_{2} + C_{3} = 2 + 3 + 4 = 9 \text{ pF}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Add the capacitances of the capacitors in parallel.",
+            "expression": "C_{total} = C_{1} + C_{2} + C_{3}"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the values of the capacitances.",
+            "expression": "C_{total} = 2 + 3 + 4"
+          }
+        ],
+        "final_answer": "Therefore, the total capacitance of the combination is 9 pF.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Determine the charge on each capacitor if the combination is connected to a 100 V supply.",
+        "part_latex": null,
+        "answer_text": "The charge on each capacitor can be calculated using the formula q = VC.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the charge on the 2 pF capacitor.",
+            "expression": "q_{1} = 100 \times 2 \times 10^{-12}"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the charge on the 3 pF capacitor.",
+            "expression": "q_{2} = 100 \times 3 \times 10^{-12}"
+          },
+          {
+            "step_number": 3,
+            "description": "Calculate the charge on the 4 pF capacitor.",
+            "expression": "q_{3} = 100 \times 4 \times 10^{-12}"
+          }
+        ],
+        "final_answer": "The charges on the capacitors are q1 = 200 pC, q2 = 300 pC, and q3 = 400 pC.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations and understanding of capacitor behavior in parallel.",
+    "topics_tags": [
+      "Capacitance",
+      "Parallel Capacitors",
+      "Charge Calculation"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Table showing capacitances of three capacitors: C1 = 2 pF, C2 = 3 pF, C3 = 4 pF.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777795287/ncert/physics/2/img_8_0.png",
+        "latex_extracted": "\\begin{array}{c}{{C_{1}=2\\mathrm{~pF}}}\\\\ {{C_{2}=3\\mathrm{~pF}}}\\\\ {{C_{3}=4\\mathrm{~pF}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.8",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 2,
+    "chapter_name": "Electrostatic Potential and Capacitance",
+    "question_type": "numerical",
+    "question_text": "In a parallel plate capacitor with air between the plates, each plate has an area of 6 × 10−3 m² and the distance between the plates is 3 mm. Calculate the capacitance of the capacitor. If this capacitor is connected to a 100 V supply, what is the charge on each plate of the capacitor?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The capacitance C of a parallel plate capacitor is given by the formula C = \\frac{\\varepsilon A}{d}, where \\varepsilon = 8.854 \\times 10^{-12} N^{-1} m^{-2} C^{-2}.",
+    "answer_latex": "C = \\frac{\\varepsilon A}{d} = \\frac{8.854 \\times 10^{-12} \\times 6 \\times 10^{-3}}{3 \\times 10^{-3}} = 1.769 \\times 10^{-11} F = 17.69 pF",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Substitute the values into the capacitance formula.",
+        "expression": "C = \\frac{\\varepsilon A}{d}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the capacitance using the given values.",
+        "expression": "C = \\frac{8.854 \\times 10^{-12} \\times 6 \\times 10^{-3}}{3 \\times 10^{-3}}"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the charge on each plate using Q = C * V.",
+        "expression": "Q = C \\times V = 17.69 \\times 10^{-12} \\times 100"
+      }
+    ],
+    "final_answer": "Therefore, the capacitance of the capacitor is 17.69 pF and the charge on each plate is 1.769 \\times 10^{-10} C.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves applying the capacitance formula and performing calculations.",
+    "topics_tags": [
+      "Capacitance",
+      "Parallel Plate Capacitor",
+      "Charge Calculation"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.9",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 2,
+    "chapter_name": "Electrostatic Potential and Capacitance",
+    "question_type": "mcq",
+    "question_text": "Explain what would happen if in the capacitor given in Exercise 2.8, a 3 mm thick mica sheet (of dielectric constant k = 6) were inserted between the plates, while the voltage supply remained connected. After the supply was disconnected.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Dielectric constant of the mica sheet, k = 6. Initial capacitance, C = 1.7711 × 10−11 F. Supply voltage, V = 100 V. Potential across the plates remains 100 V.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, inserting the mica sheet increases the capacitance while the voltage remains constant.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the effect of inserting a dielectric between capacitor plates.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777795301/ncert/physics/2/img_10_0.png",
+      "latex_extracted": "\\begin{array}{l}{{\\mathrm{:}\\mathcal{C}=\\frac{\\delta\\,\\mathrm{SS}\\mathrm{SA}\\mathrm{:}y\\,0^{-}x\\,\\mathrm{:}\\mathrm{\\iota}0^{-}\\mathrm{\\iota}0^{-}\\mathrm{\\iota}}}}\\\\ {{\\mathrm{=}\\mathrm{\\iota}\\mathrm{\\iota}\\mathrm{\\iota}\\mathrm{\\iota}\\mathrm{\\boldmath~{\\hat{\\iota}}\\cdot\\mathrm{\\boldmath~{\\hat{\\iota}}\\cdot\\mathrm{\\boldmath~{\\hat{\\iota}}\\ell}\\mathrm{\\boldmath~{\\hat{\\iota}}\\ s\\bar{\\iota}\\ s\\bar{\\iota}}\\ell}}}}\\\\ {{\\mathrm{\\boldmath~{\\scriptstyle\\Gamma=\\mathrm{\\boldmath~{\\hat{\\Pi}}\\ell}\\mathrm{\\scriptsize~}\\mathrm{\\scriptsize~\\hat{\\Pi}\\ell}\\ s\\ell u\\ n\\mathrm{\\scriptsize~in\\ell}\\mathrm{\\boldmath~\\hat{\\u}\\ r\\hat{\\ u}\\ell\\ n\\hat{\\ u}\\ell\\hat{\\ u}\\ell\\hat{\\ u}\\ n\\mathrm{\\boldmath~\\hat{\\u}\\ell\\hat{\\boldmath~\\ell}\\hat{\\hat{\\ u}\\ n}\\ p\\hat{\\hat{\\ u}\\hat{\\ u\\hat{\\partial\\bar{\\hat{\\ u}\\ u}\\ell\\hat{\\bar{\\ n\\bar{\\hat{\\boldmath\\hat{\\hat{\\partial\\hat{\\ u\\hat{\\hat{\\partial\\hat{\\hat{\\ u}\\hat{\\hat{\\hat{\\hat{\\hat{\\partial\\hat{\\ u}\\hat{\\hat{\\hat{\\hat{\\hat{\\hat{\\ u}\\hat{\\hat{\\ u}\\hat{\\bar{\\ u}\\hat{\\partial\\partial",
+      "source_page_number": 10,
+      "source_image_index": 0,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of dielectric effects in capacitors.",
+    "topics_tags": [
+      "Capacitance",
+      "Dielectric",
+      "Voltage"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the effect of inserting a dielectric between capacitor plates.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777795301/ncert/physics/2/img_10_0.png",
+        "latex_extracted": "\\begin{array}{l}{{\\mathrm{:}\\mathcal{C}=\\frac{\\delta\\,\\mathrm{SS}\\mathrm{SA}\\mathrm{:}y\\,0^{-}x\\,\\mathrm{:}\\mathrm{\\iota}0^{-}\\mathrm{\\iota}0^{-}\\mathrm{\\iota}}}}\\\\ {{\\mathrm{=}\\mathrm{\\iota}\\mathrm{\\iota}\\mathrm{\\iota}\\mathrm{\\iota}\\mathrm{\\boldmath~{\\hat{\\iota}}\\cdot\\mathrm{\\boldmath~{\\hat{\\iota}}\\cdot\\mathrm{\\boldmath~{\\hat{\\iota}}\\ell}\\mathrm{\\boldmath~{\\hat{\\iota}}\\ s\\bar{\\iota}\\ s\\bar{\\iota}}\\ell}}}}\\\\ {{\\mathrm{\\boldmath~{\\scriptstyle\\Gamma=\\mathrm{\\boldmath~{\\hat{\\Pi}}\\ell}\\mathrm{\\scriptsize~}\\mathrm{\\scriptsize~\\hat{\\Pi}\\ell}\\ s\\ell u\\ n\\mathrm{\\scriptsize~in\\ell}\\mathrm{\\boldmath~\\hat{\\u}\\ r\\hat{\\ u}\\ell\\ n\\hat{\\ u}\\ell\\hat{\\ u}\\ell\\hat{\\ u}\\ n\\mathrm{\\boldmath~\\hat{\\u}\\ell\\hat{\\boldmath~\\ell}\\hat{\\hat{\\ u}\\ n}\\ p\\hat{\\hat{\\ u}\\hat{\\ u\\hat{\\partial\\bar{\\hat{\\ u}\\ u}\\ell\\hat{\\bar{\\ n\\bar{\\hat{\\boldmath\\hat{\\hat{\\partial\\hat{\\ u\\hat{\\hat{\\partial\\hat{\\hat{\\ u}\\hat{\\hat{\\hat{\\hat{\\hat{\\partial\\hat{\\ u}\\hat{\\hat{\\hat{\\hat{\\hat{\\hat{\\ u}\\hat{\\hat{\\ u}\\hat{\\bar{\\ u}\\hat{\\partial\\partial",
+        "source_page_number": 10,
+        "source_image_index": 0,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q2.10",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 2,
+    "chapter_name": "Electrostatic Potential and Capacitance",
+    "question_type": "numerical",
+    "question_text": "A 12 pF capacitor is connected to a 50V battery. How much electrostatic energy is stored in the capacitor?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the formula for electrostatic energy in a capacitor.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777795320/ncert/physics/2/img_11_0.png",
+      "latex_extracted": "\\begin{array}{c}{{\\therefore V^{\\prime}=\\frac{q}{C^{\\prime}}}}\\\\ {{\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad}{\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad{\\qquad\\qquad}{\\qquad\\qquad\\qquad}{\\qquad\\qquad\\qquad{\\qquad{\\qquad\\qquad\\qquad{\\qquad}{\\qquad\\qquad\\qquad\\qquad{\\qquad}{\\qquad}}\\qquad\\qquad\\qquad{\\qquad\\qquad{\\qquad{\\qquad{}}{\\qquad\\qquad}}\\qquad{\\qquad\\qquad{\\qquad{\\qquad}}}\\qquad\\qquad\\qquad\\qquad{\\qquad{\\qquad{}}}\\qquad\\qquad{{\\qquad{}}}\\qquad{\\qquad{\\qquad{\\qquad{{\\qquad{}}}}\\qquad{\\qquad}}}\\qquad{\\qquad{{\\qquad{{\\qquad{{\\qquad}}}{{\\qquad{\\qquad{\\qquad}}}}}\\qquad{{\\qquad{{\\qquad{}}{{{\\qquad{{\\qquad{\\qquad}}}{\\qquad{{\\qquad{{\\qquad{\\qquad}}}}{\\qquad{\\qquad{{{\\qquad}}{{\\quad{\\qquad{{\\qquad{{{{\\qquad{{\\qquad{{\\quad}}}}}}{{\\quad{\\quad{\\qquad{\\qquad{\\qquad{\\qquad{\\qquad{\\qquad{\\qquad{\\quad{\\qquad{\\qquad{\\qquad{\\qquad}}{\\qquad{\\qquad{\\qquad{\\qquad{\\qquad",
+      "source_page_number": 11,
+      "source_image_index": 0,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Electrostatic energy stored in the capacitor is given by the relation, E = \\frac{1}{2} C V^{2}. Therefore, the electrostatic energy stored in the capacitor is 1.5 × 10^{-8} J.",
+    "answer_latex": "E = \\frac{1}{2} C V^{2} = \\frac{1}{2} \\times 12 \\times 10^{-12} \\times (50)^{2} = 1.5 \\times 10^{-8} \\mathrm{~J}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Use the formula for electrostatic energy stored in a capacitor.",
+        "expression": "E = \\frac{1}{2} C V^{2}"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values of capacitance and voltage.",
+        "expression": "E = \\frac{1}{2} \\times 12 \\times 10^{-12} \\times (50)^{2}"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the energy.",
+        "expression": "E = 1.5 \\times 10^{-8} \\mathrm{~J}"
+      }
+    ],
+    "final_answer": "Thus, the electrostatic energy stored in the capacitor is 1.5 × 10^{-8} J.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires application of the energy formula for capacitors.",
+    "topics_tags": [
+      "Electrostatic Energy",
+      "Capacitance",
+      "Voltage"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the formula for electrostatic energy in a capacitor.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777795320/ncert/physics/2/img_11_0.png",
+        "latex_extracted": "\\begin{array}{c}{{\\therefore V^{\\prime}=\\frac{q}{C^{\\prime}}}}\\\\ {{\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad}{\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad{\\qquad\\qquad}{\\qquad\\qquad\\qquad}{\\qquad\\qquad\\qquad{\\qquad{\\qquad\\qquad\\qquad{\\qquad}{\\qquad\\qquad\\qquad\\qquad{\\qquad}{\\qquad}}\\qquad\\qquad\\qquad{\\qquad\\qquad{\\qquad{\\qquad{}}{\\qquad\\qquad}}\\qquad{\\qquad\\qquad{\\qquad{\\qquad}}}\\qquad\\qquad\\qquad\\qquad{\\qquad{\\qquad{}}}\\qquad\\qquad{{\\qquad{}}}\\qquad{\\qquad{\\qquad{\\qquad{{\\qquad{}}}}\\qquad{\\qquad}}}\\qquad{\\qquad{{\\qquad{{\\qquad{{\\qquad}}}{{\\qquad{\\qquad{\\qquad}}}}}\\qquad{{\\qquad{{\\qquad{}}{{{\\qquad{{\\qquad{\\qquad}}}{\\qquad{{\\qquad{{\\qquad{\\qquad}}}}{\\qquad{\\qquad{{{\\qquad}}{{\\quad{\\qquad{{\\qquad{{{{\\qquad{{\\qquad{{\\quad}}}}}}{{\\quad{\\quad{\\qquad{\\qquad{\\qquad{\\qquad{\\qquad{\\qquad{\\qquad{\\quad{\\qquad{\\qquad{\\qquad{\\qquad}}{\\qquad{\\qquad{\\qquad{\\qquad{\\qquad",
+        "source_page_number": 11,
+        "source_image_index": 0,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.11",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 2,
+    "chapter_name": "Electrostatic Potential and Capacitance",
+    "question_type": "numerical",
+    "question_text": "A 600 pF capacitor is charged by a 200 V supply. It is then disconnected from the supply and is connected to another uncharged 600 pF capacitor. How much electrostatic energy is lost in the process?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the calculation of energy loss in capacitors.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777795323/ncert/physics/2/img_12_0.png",
+      "latex_extracted": "\\begin{array}{l}{{{\\cal E}=\\frac12C V^{2}}}\\\\ {{{\\frac{1}{2}}\\times\\left({\\cal600}\\times10^{-12}\\right)\\times\\left(200\\right)^{2}}}\\\\ {{{\\cal=1.2\\times10^{-5}}\\mathrm{~J}}}\\end{array}",
+      "source_page_number": 12,
+      "source_image_index": 0,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Electrostatic energy stored in the capacitor is given by, E = \\frac{1}{2} C V^{2}. The initial energy is 1.2 × 10^{-5} J. After connecting to another capacitor, the new energy is 0.6 × 10^{-5} J. Therefore, the energy lost is 0.6 × 10^{-5} J.",
+    "answer_latex": "E_{initial} = \\frac{1}{2} \\times 600 \\times 10^{-12} \\times (200)^{2} = 1.2 \\times 10^{-5} \\mathrm{~J}, \\quad E_{final} = \\frac{1}{2} \\times 300 \\times (200)^{2} = 0.6 \\times 10^{-5} \\mathrm{~J}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the initial energy stored in the charged capacitor.",
+        "expression": "E_{initial} = \\frac{1}{2} \\times 600 \\times 10^{-12} \\times (200)^{2}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the equivalent capacitance after connecting to another capacitor.",
+        "expression": "C' = \\frac{1}{C} + \\frac{1}{C} = \\frac{1}{600} + \\frac{1}{600} = \\frac{1}{300}"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the new energy stored in the combined capacitors.",
+        "expression": "E_{final} = \\frac{1}{2} \\times 300 \\times (200)^{2}"
+      },
+      {
+        "step_number": 4,
+        "description": "Calculate the energy lost.",
+        "expression": "Energy~lost = E_{initial} - E_{final}"
+      }
+    ],
+    "final_answer": "Thus, the energy lost in the process is 0.6 × 10^{-5} J.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps of calculation and understanding of energy conservation.",
+    "topics_tags": [
+      "Energy Loss",
+      "Capacitance",
+      "Electrostatic Energy"
+    ],
+    "confidence_score": 0.88,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the calculation of energy loss in capacitors.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777795323/ncert/physics/2/img_12_0.png",
+        "latex_extracted": "\\begin{array}{l}{{{\\cal E}=\\frac12C V^{2}}}\\\\ {{{\\frac{1}{2}}\\times\\left({\\cal600}\\times10^{-12}\\right)\\times\\left(200\\right)^{2}}}\\\\ {{{\\cal=1.2\\times10^{-5}}\\mathrm{~J}}}\\end{array}",
+        "source_page_number": 12,
+        "source_image_index": 0,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.12",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 2,
+    "chapter_name": "Electrostatic Potential and Capacitance",
+    "question_type": "numerical",
+    "question_text": "A charge of 8 mC is located at the origin. Calculate the work done in taking a small charge of −2 × 10−9C from a point P (0, 0, 3 cm) to a point Q (0, 4 cm, 0), via a point R (0, 6 cm, 9 cm).",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The work done during the process is 1.27 J.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the potential at point P and point Q.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the formula for work done by electrostatic force, which is independent of the path.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Substitute the values to find the work done.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, the work done during the process is 1.27 J.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the points P, Q, and R in a 3D coordinate system.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777795330/ncert/physics/2/img_13_0.png",
+      "latex_extracted": "\\begin{array}{r l}{\\operatorname{Lossin}\\operatorname{electrositic}\\operatorname{cnergy}=E-E^{\\prime}}\\\\ {=1.2\\times10^{-s}-0.6\\times10^{-s}}\\\\ {=0.6\\times10^{-s}}\\\\ {=6\\times10^{-s}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of electrostatic potential and basic calculations.",
+    "topics_tags": [
+      "Electrostatic Potential",
+      "Work Done",
+      "Capacitance"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the points P, Q, and R in a 3D coordinate system.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777795330/ncert/physics/2/img_13_0.png",
+        "latex_extracted": "\\begin{array}{r l}{\\operatorname{Lossin}\\operatorname{electrositic}\\operatorname{cnergy}=E-E^{\\prime}}\\\\ {=1.2\\times10^{-s}-0.6\\times10^{-s}}\\\\ {=0.6\\times10^{-s}}\\\\ {=6\\times10^{-s}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q2.13",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 2,
+    "chapter_name": "Electrostatic Potential and Capacitance",
+    "question_type": "conceptual",
+    "question_text": "A cube of side b has a charge q at each of its vertices. Determine the potential and electric field due to this charge array at the centre of the cube.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The potential at the centre of the cube is due to the presence of eight charges at the vertices, and the electric field at the centre is zero due to symmetry.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the potential at the centre of the cube using the formula for potential due to point charges.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Determine the electric field at the centre of the cube considering the symmetry of the charge distribution.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the electric field is zero at the centre of the cube.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing a cube with charges at each vertex.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777795349/ncert/physics/2/img_14_0.png",
+      "latex_extracted": "\\begin{array}{l l}{{\\mathrm{:}{\\mathcal{M}}=q_{1}\\left[V_{2}-V_{1}\\right]}}&{{}}\\\\ {{\\mathrm{=}\\bar{q_{1}}\\left[{\\frac{q}{4\\pi\\epsilon_{0}\\,d_{2}}}-{\\frac{q}{4\\pi\\,\\epsilon_{_0}\\,d_{1}}}\\right]}}\\\\ {{\\mathrm{=}{\\frac{q}{4\\pi\\,\\epsilon_{0}}}\\left[{\\frac{1}{d_{2}}}-{\\frac{1}{d_{1}}}\\right]}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of electric fields and potentials in a symmetrical charge distribution.",
+    "topics_tags": [
+      "Electric Potential",
+      "Electric Field",
+      "Cube Charge Distribution"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing a cube with charges at each vertex.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777795349/ncert/physics/2/img_14_0.png",
+        "latex_extracted": "\\begin{array}{l l}{{\\mathrm{:}{\\mathcal{M}}=q_{1}\\left[V_{2}-V_{1}\\right]}}&{{}}\\\\ {{\\mathrm{=}\\bar{q_{1}}\\left[{\\frac{q}{4\\pi\\epsilon_{0}\\,d_{2}}}-{\\frac{q}{4\\pi\\,\\epsilon_{_0}\\,d_{1}}}\\right]}}\\\\ {{\\mathrm{=}{\\frac{q}{4\\pi\\,\\epsilon_{0}}}\\left[{\\frac{1}{d_{2}}}-{\\frac{1}{d_{1}}}\\right]}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q2.14",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 2,
+    "chapter_name": "Electrostatic Potential and Capacitance",
+    "question_type": "mcq",
+    "question_text": "Two tiny spheres carrying charges 1.5 μC and 2.5 μC are located 30 cm apart. Find the potential and electric field at the mid-point of the line joining the two charges, and at a point 10 cm from this midpoint in a plane normal to the line and passing through the midpoint.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the arrangement of two charges and their midpoint.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777795377/ncert/physics/2/img_16_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Find the potential and electric field at the mid-point.",
+        "part_latex": null,
+        "answer_text": "The potential at mid-point is 2.4 × 10^5 V and the electric field at mid-point is 4 × 10^5 V/m.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the potential at the midpoint using the formula for electric potential due to point charges.",
+            "expression": "V = V_1 + V_2"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the values of the charges and distance to find the potential.",
+            "expression": "V = \\frac{1}{4\\pi\\epsilon_{0}}(q_1 + q_2)"
+          }
+        ],
+        "final_answer": "Therefore, the potential at mid-point is 2.4 × 10^5 V and the electric field at mid-point is 4 × 10^5 V/m.",
+        "answer_image": {
+          "present": true,
+          "description": "Mathematical derivation of potential and electric field at the midpoint.",
+          "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777795380/ncert/physics/2/img_16_1.png",
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "answer"
+        },
+        "question_images": [],
+        "answer_images": [
+          {
+            "present": true,
+            "description": "Mathematical derivation of potential and electric field at the midpoint.",
+            "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777795380/ncert/physics/2/img_16_1.png",
+            "latex_extracted": null,
+            "source_page_number": null,
+            "source_image_index": null,
+            "ownership": "answer"
+          }
+        ],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Find the potential and electric field at a point 10 cm from the midpoint.",
+        "part_latex": null,
+        "answer_text": "The potential at a point 10 cm from the midpoint is 22.0 × 10^5 V and the electric field is 6.6 × 10^5 V/m.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the potential at point Z using the formula for electric potential due to point charges.",
+            "expression": "V = V_1 + V_2"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the electric field at point Z using the formula for electric field due to point charges.",
+            "expression": "E = \\frac{q_2}{4\\pi\\epsilon_{0}(AZ)^2} - \\frac{q_1}{4\\pi(BZ)^2}"
+          }
+        ],
+        "final_answer": "Therefore, the potential at a point 10 cm from the midpoint is 22.0 × 10^5 V and the electric field is 6.6 × 10^5 V/m.",
+        "answer_image": {
+          "present": true,
+          "description": "Mathematical derivation of potential and electric field at point Z.",
+          "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777795391/ncert/physics/2/img_17_2.png",
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "answer"
+        },
+        "question_images": [],
+        "answer_images": [
+          {
+            "present": true,
+            "description": "Mathematical derivation of potential and electric field at point Z.",
+            "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777795391/ncert/physics/2/img_17_2.png",
+            "latex_extracted": null,
+            "source_page_number": null,
+            "source_image_index": null,
+            "ownership": "answer"
+          }
+        ],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations and understanding of electric potential and field concepts.",
+    "topics_tags": [
+      "Electric Potential",
+      "Electric Field",
+      "Point Charges"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the arrangement of two charges and their midpoint.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777795377/ncert/physics/2/img_16_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.15",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 2,
+    "chapter_name": "Electrostatic Potential and Capacitance",
+    "question_type": "conceptual",
+    "question_text": "Show that the normal component of electrostatic field has a discontinuity from one side of a charged surface to another given by \\( \\overline{E_{2}} - \\overline{E_{1}} = \\frac{\\sigma}{\\epsilon_{0}} \\hat{n} \\). Hence show that just outside a conductor, the electric field is \\( \\sigma \\). Show that the tangential component of electrostatic field is continuous from one side of a charged surface to another.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of the electric field discontinuity across a charged surface.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777795405/ncert/physics/2/img_20_1.png",
+      "latex_extracted": "\\begin{array}{l}{{\\overline{{E_{2}}-\\overline{{E_{1}}}={\\frac{\\sigma}{2}}\\left(\\frac{\\hat{n}}{\\epsilon}+{\\frac{\\sigma}{2}}\\left(\\frac{\\sigma}{\\epsilon_{0}}\\right)}}}\\\\ {{\\left(\\overline{{E_{2}}-\\overline{{E_{1}}}}\\right)\\hat{n}={\\frac{\\sigma}{\\epsilon_{0}}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of electric fields and application of Gauss's law.",
+    "topics_tags": [
+      "Electrostatic Field",
+      "Surface Charge Density",
+      "Gauss's Law"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the electric field discontinuity across a charged surface.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777795405/ncert/physics/2/img_20_1.png",
+        "latex_extracted": "\\begin{array}{l}{{\\overline{{E_{2}}-\\overline{{E_{1}}}={\\frac{\\sigma}{2}}\\left(\\frac{\\hat{n}}{\\epsilon}+{\\frac{\\sigma}{2}}\\left(\\frac{\\sigma}{\\epsilon_{0}}\\right)}}}\\\\ {{\\left(\\overline{{E_{2}}-\\overline{{E_{1}}}}\\right)\\hat{n}={\\frac{\\sigma}{\\epsilon_{0}}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.16",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 2,
+    "chapter_name": "Electrostatic Potential and Capacitance",
+    "question_type": "conceptual",
+    "question_text": "A long charged cylinder of linear charged density λ is surrounded by a hollow co-axial conducting cylinder. What is the electric field in the space between the two cylinders?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of the electric field between two coaxial cylinders.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777795407/ncert/physics/2/img_21_0.png",
+      "latex_extracted": "\\begin{array}{l}{{{\\cal E}\\left(2\\pi d L\\right)=\\displaystyle\\frac{\\lambda{\\cal L}}{\\epsilon_{0}}}}\\\\ {{{\\cal E}=\\displaystyle\\frac{\\lambda}{2\\pi\\,\\epsilon_{0}\\,d}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of electric fields and application of Gauss's law.",
+    "topics_tags": [
+      "Electric Field",
+      "Coaxial Cylinders",
+      "Gauss's Law"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the electric field between two coaxial cylinders.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777795407/ncert/physics/2/img_21_0.png",
+        "latex_extracted": "\\begin{array}{l}{{{\\cal E}\\left(2\\pi d L\\right)=\\displaystyle\\frac{\\lambda{\\cal L}}{\\epsilon_{0}}}}\\\\ {{{\\cal E}=\\displaystyle\\frac{\\lambda}{2\\pi\\,\\epsilon_{0}\\,d}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q2.17",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 2,
+    "chapter_name": "Electrostatic Potential and Capacitance",
+    "question_type": "mcq",
+    "question_text": "In a hydrogen atom, the electron and proton are bound at a distance of about 0.53 Å: Estimate the potential energy of the system in eV, taking the zero of the potential energy at infinite separation of the electron from proton. What is the minimum work required to free the electron, given that its kinetic energy in the orbit is half the magnitude of potential energy obtained in (a)? What are the answers to (a) and (b) above if the zero of potential energy is taken at 1.06 Å separation?",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "? What are the answers to"
+      },
+      {
+        "option_label": "(A)",
+        "option_text": "and"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "above if the zero of potential energy is taken at 1.06 Å separation?"
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the relationship of potential energy in a hydrogen atom with respect to electron and proton separation.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777795414/ncert/physics/2/img_22_0.png",
+      "latex_extracted": "\\begin{array}{l}{{\\frac{1}{4\\pi\\,\\epsilon_{0}}=9\\times10^{9}\\,\\mathrm{Nm}^{2}\\,\\,{\\displaystyle C^{-2}}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}\\!\\!\\mathrm{~}\\!\\!\\!\\mathrm{~}\\!\\!\\!\\nabla_{0}\\!\\,\\!\\!\\!\\sigma\\!\\,\\!\\!\\nabla\\!\\!\\!\\mathrm{lal}}\\,\\mathrm{energy}=0{\\displaystyle-\\frac{\\displaystyle00^{9}\\times\\!\\!\\!\\mathrm{~}\\!\\!\\!\\ell}}{1.6\\times10^{-19}}=-43.7\\times10^{-19}{\\displaystyle\\frac{\\mathrm{~}}}{1.6\\times10^{-19}}=-43.7\\times10^{-19}{\\displaystyle\\mathrm{~}}{\\displaystyle\\mathrm{~}}}{\\displaystyle\\mathrm{~}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Estimate the potential energy of the system in eV, taking the zero of the potential energy at infinite separation of the electron from proton.",
+        "part_latex": null,
+        "answer_text": "The potential energy of the system is calculated using the formula for potential energy between two charges.",
+        "answer_latex": "-43.7 \\times 10^{-19} \\text{ J} = -2.73 \\text{ eV}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the formula for potential energy between two point charges.",
+            "expression": "U = -\\frac{1}{4\\pi\\epsilon_0} \\cdot \\frac{q_1 q_2}{r}"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the values for the charges and distance.",
+            "expression": "U = -\\frac{(9 \\times 10^9) \\cdot (1.6 \\times 10^{-19})^2}{0.53 \\times 10^{-10}}"
+          }
+        ],
+        "final_answer": "Thus, the potential energy of the system is approximately -2.73 eV.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "What is the minimum work required to free the electron, given that its kinetic energy in the orbit is half the magnitude of potential energy obtained in (a)?",
+        "part_latex": null,
+        "answer_text": "The minimum work required to free the electron is equal to the kinetic energy, which is half the magnitude of the potential energy.",
+        "answer_latex": "W = \\frac{1}{2} |U| = \\frac{1}{2} \\times 2.73 \\text{ eV} = 1.365 \\text{ eV}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the kinetic energy as half of the potential energy.",
+            "expression": "K.E. = \\frac{1}{2} |U|"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the value of potential energy.",
+            "expression": "K.E. = \\frac{1}{2} \\times 2.73"
+          }
+        ],
+        "final_answer": "Therefore, the minimum work required to free the electron is approximately 1.365 eV.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "What are the answers to (a) and (b) above if the zero of potential energy is taken at 1.06 Å separation?",
+        "part_latex": null,
+        "answer_text": "The potential energy and work required will change based on the new separation distance.",
+        "answer_latex": "U' = -\\frac{(9 \\times 10^9) \\cdot (1.6 \\times 10^{-19})^2}{1.06 \\times 10^{-10}}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Recalculate potential energy using the new distance.",
+            "expression": "U' = -\\frac{(9 \\times 10^9) \\cdot (1.6 \\times 10^{-19})^2}{1.06 \\times 10^{-10}}"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the new kinetic energy.",
+            "expression": "K.E.' = \\frac{1}{2} |U'|"
+          }
+        ],
+        "final_answer": "The new potential energy and work required will be calculated based on the new separation.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of electrostatic potential energy and kinetic energy relationships.",
+    "topics_tags": [
+      "Electrostatic Potential",
+      "Hydrogen Atom",
+      "Potential Energy"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "Some text garbling in the input, particularly in the mathematical expressions."
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the relationship of potential energy in a hydrogen atom with respect to electron and proton separation.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777795414/ncert/physics/2/img_22_0.png",
+        "latex_extracted": "\\begin{array}{l}{{\\frac{1}{4\\pi\\,\\epsilon_{0}}=9\\times10^{9}\\,\\mathrm{Nm}^{2}\\,\\,{\\displaystyle C^{-2}}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}\\!\\!\\mathrm{~}\\!\\!\\!\\mathrm{~}\\!\\!\\!\\nabla_{0}\\!\\,\\!\\!\\!\\sigma\\!\\,\\!\\!\\nabla\\!\\!\\!\\mathrm{lal}}\\,\\mathrm{energy}=0{\\displaystyle-\\frac{\\displaystyle00^{9}\\times\\!\\!\\!\\mathrm{~}\\!\\!\\!\\ell}}{1.6\\times10^{-19}}=-43.7\\times10^{-19}{\\displaystyle\\frac{\\mathrm{~}}}{1.6\\times10^{-19}}=-43.7\\times10^{-19}{\\displaystyle\\mathrm{~}}{\\displaystyle\\mathrm{~}}}{\\displaystyle\\mathrm{~}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.18",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 2,
+    "chapter_name": "Electrostatic Potential and Capacitance",
+    "question_type": "conceptual",
+    "question_text": "If one of the two electrons of a H molecule is removed, we get a hydrogen molecular ion. In the ground state of an H2 molecule, the two protons are separated by roughly 1.5 Å, and the electron is roughly 1 Å from each proton. Determine the potential energy of the system. Specify your choice of the zero of potential energy.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the potential energy calculation for the system of two protons and one electron.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777795417/ncert/physics/2/img_23_0.png",
+      "latex_extracted": "\\begin{array}{c}{{=\\frac{q_{1}(q_{2})}{4\\pi\\in_{0}d_{1}}-27...\\mathrm{eV}}}\\\\ {{=\\frac{9\\times10^{\\circ}\\times\\left(1.6\\times10^{-19}\\right)^{2}}{=13.58\\mathrm{eV}-27.2\\mathrm{~eV}}}}\\\\ {{=\\frac{9\\times10^{\\circ}\\times10^{-19}\\mathrm{~}1-27.2\\mathrm{~eV}}}\\\\ {{=-13.58\\mathrm{~eV}-27.2\\mathrm{~eV}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The potential energy of the system is calculated using the formula for potential energy between charged particles.",
+    "answer_latex": "\\begin{array}{c}{{=\\frac{q_{1}(q_{2})}{4\\pi\\in_{0}d_{1}}-27...\\mathrm{eV}}}\\\\ {{=\\frac{9\\times10^{\\circ}\\times\\left(1.6\\times10^{-19}\\right)^{2}}{=13.58\\mathrm{~eV}-27.2\\mathrm{~eV}}}}\\\\ {{=\\frac{9\\times10^{\\circ}\\times10^{-19}\\mathrm{~}3~-27.~eV~}}{=-13.58\\mathrm{~eV~-27.~x~}\\mathrm{~eV~}}}}\\end{array}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the charges and distances involved in the potential energy calculation.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Apply the formula for potential energy between two charges.",
+        "expression": "\\frac{q_{1}(q_{2})}{4\\pi\\epsilon_{0}d}"
+      },
+      {
+        "step_number": 3,
+        "description": "Substitute the values into the formula to calculate potential energy.",
+        "expression": "U = \\frac{9 \\times 10^{9} \\times (1.6 \\times 10^{-19})^{2}}{1.5 \\times 10^{-10}}"
+      }
+    ],
+    "final_answer": "Therefore, the potential energy of the system is -27.2 eV.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of electrostatic potential energy and application of the formula.",
+    "topics_tags": [
+      "Electrostatic Potential",
+      "Potential Energy",
+      "Hydrogen Molecule"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the potential energy calculation for the system of two protons and one electron.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777795417/ncert/physics/2/img_23_0.png",
+        "latex_extracted": "\\begin{array}{c}{{=\\frac{q_{1}(q_{2})}{4\\pi\\in_{0}d_{1}}-27...\\mathrm{eV}}}\\\\ {{=\\frac{9\\times10^{\\circ}\\times\\left(1.6\\times10^{-19}\\right)^{2}}{=13.58\\mathrm{eV}-27.2\\mathrm{~eV}}}}\\\\ {{=\\frac{9\\times10^{\\circ}\\times10^{-19}\\mathrm{~}1-27.2\\mathrm{~eV}}}\\\\ {{=-13.58\\mathrm{~eV}-27.2\\mathrm{~eV}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      },
+      {
+        "present": true,
+        "description": "Diagram showing the potential energy calculation for the system of two protons and one electron.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777795421/ncert/physics/2/img_23_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  }
+]

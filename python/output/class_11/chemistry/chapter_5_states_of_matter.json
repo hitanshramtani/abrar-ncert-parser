@@ -1,0 +1,1131 @@
+[
+  {
+    "question_id": "Q5.1",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 5,
+    "chapter_name": "states of matter",
+    "question_type": "numerical",
+    "question_text": "What will be the minimum pressure required to compress 500 dm3 of air at 1 bar to 200 dm3 at 30°C?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, the minimum pressure required is 2.5 bar.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Apply Boyle's law which states that pressure and volume are inversely proportional at constant temperature.",
+        "expression": "p_{1}V_{1}=p_{2}V_{2}"
+      },
+      {
+        "step_number": 2,
+        "description": "Rearrange the formula to find the final pressure.",
+        "expression": "p_{2}={\\frac{p_{1}V_{1}}{V_{2}}}"
+      },
+      {
+        "step_number": 3,
+        "description": "Substitute the known values into the equation.",
+        "expression": "p_{2}={\\frac{1\\times500}{200}}=2.5"
+      }
+    ],
+    "final_answer": "Thus, the minimum pressure required is 2.5 bar.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of Boyle's law showing the relationship between pressure and volume.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777750178/ncert/chemistry/5/img_1_0.png",
+      "latex_extracted": "\\begin{array}{r}{p_{1}V_{1}=p_{2}V_{2}}\\\\ {\\Rightarrow p_{2}={\\frac{p_{1}Y_{1}}{V_{2}}}}\\\\ {V_{2}}\\\\ {={\\frac{1\\times500}{2.5~\\mathrm{bar}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of Boyle's law and basic algebra.",
+    "topics_tags": [
+      "Boyle's Law",
+      "Gas Laws",
+      "Pressure",
+      "Volume"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of Boyle's law showing the relationship between pressure and volume.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777750178/ncert/chemistry/5/img_1_0.png",
+        "latex_extracted": "\\begin{array}{r}{p_{1}V_{1}=p_{2}V_{2}}\\\\ {\\Rightarrow p_{2}={\\frac{p_{1}Y_{1}}{V_{2}}}}\\\\ {V_{2}}\\\\ {={\\frac{1\\times500}{2.5~\\mathrm{bar}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q5.2",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 5,
+    "chapter_name": "states of matter",
+    "question_type": "mcq",
+    "question_text": "A vessel of 120 mL capacity contains a certain amount of gas at 35 °C and 1.2 bar pressure. The gas is transferred to another vessel of volume 180 mL at 35 °C. What would be its pressure?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, the pressure would be 0.8 bar.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Apply Boyle's law which states that pressure and volume are inversely proportional at constant temperature.",
+        "expression": "p_{1}^{\\prime}V_{1}=p_{2}^{\\prime}V_{2}"
+      },
+      {
+        "step_number": 2,
+        "description": "Rearrange the formula to find the final pressure.",
+        "expression": "p_{2}=\\frac{p_{1}^{\\prime}V_{1}}{V_{2}}"
+      },
+      {
+        "step_number": 3,
+        "description": "Substitute the known values into the equation.",
+        "expression": "p_{2}=\\frac{1.2\\times120}{180}=0.8"
+      }
+    ],
+    "final_answer": "Thus, the pressure in the new vessel would be 0.8 bar.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of Boyle's law showing the relationship between pressure and volume.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777750180/ncert/chemistry/5/img_2_0.png",
+      "latex_extracted": "\\begin{array}{c}{{p_{1}^{\\prime}V_{1}=p_{2}^{\\prime}V_{2}}}\\\\ {{p_{2}=\\displaystyle\\frac{p_{1}^{\\prime}V_{1}}{V_{2}}}}\\\\ {{=\\displaystyle\\frac{1\\times120}{180}\\mathrm{~bar}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of Boyle's law and basic algebra.",
+    "topics_tags": [
+      "Boyle's Law",
+      "Gas Laws",
+      "Pressure",
+      "Volume"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of Boyle's law showing the relationship between pressure and volume.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777750180/ncert/chemistry/5/img_2_0.png",
+        "latex_extracted": "\\begin{array}{c}{{p_{1}^{\\prime}V_{1}=p_{2}^{\\prime}V_{2}}}\\\\ {{p_{2}=\\displaystyle\\frac{p_{1}^{\\prime}V_{1}}{V_{2}}}}\\\\ {{=\\displaystyle\\frac{1\\times120}{180}\\mathrm{~bar}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q5.3",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 5,
+    "chapter_name": "states of matter",
+    "question_type": "conceptual",
+    "question_text": "Using the equation of state pV = nRT; show that at a given temperature density of a gas is proportional to gas pressure p.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Hence, at a given temperature, the density (d) of gas is proportional to its pressure (p).",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Start with the ideal gas equation pV = nRT.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Replace n (number of moles) with m/M, where m is mass and M is molar mass.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Rearrange to express density in terms of pressure.",
+        "expression": "d=\\left(\\frac{M}{RT}\\right)p"
+      }
+    ],
+    "final_answer": "Thus, density is directly proportional to pressure at constant temperature.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of gas laws and algebraic manipulation.",
+    "topics_tags": [
+      "Ideal Gas Law",
+      "Density",
+      "Pressure",
+      "Gas Laws"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.4",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 5,
+    "chapter_name": "states of matter",
+    "question_type": "numerical",
+    "question_text": "At 0°C, the density of a certain oxide of a gas at 2 bar is same as that of dinitrogen at 5 bar. What is the molecular mass of the oxide?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Molecular mass of nitrogen, M = 28 g/mol.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set up the equation relating the densities and pressures of the two gases.",
+        "expression": "d_{1}=d_{2}"
+      },
+      {
+        "step_number": 2,
+        "description": "Use the relationship between density, molar mass, and pressure.",
+        "expression": "M_{1}p_{1}=M_{2}p_{2}"
+      },
+      {
+        "step_number": 3,
+        "description": "Substitute known values to find the molecular mass of the oxide.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the molecular mass of the oxide can be calculated using the given pressures.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of the relationship between density and pressure for two gases.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777750182/ncert/chemistry/5/img_3_0.png",
+      "latex_extracted": "\\begin{array}{l c r}{{\\frac{d}{M}=\\frac{p}{\\mathrm{R}T}}}\\\\ {{\\Rightarrow d=\\left(\\frac{M}{\\mathrm{R}T}\\right)p}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of gas laws and algebraic manipulation.",
+    "topics_tags": [
+      "Density",
+      "Molecular Mass",
+      "Gas Laws",
+      "Pressure"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the relationship between density and pressure for two gases.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777750182/ncert/chemistry/5/img_3_0.png",
+        "latex_extracted": "\\begin{array}{l c r}{{\\frac{d}{M}=\\frac{p}{\\mathrm{R}T}}}\\\\ {{\\Rightarrow d=\\left(\\frac{M}{\\mathrm{R}T}\\right)p}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q5.5",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 5,
+    "chapter_name": "states of matter",
+    "question_type": "numerical",
+    "question_text": "Pressure of 1 g of an ideal gas A at 27 °C is found to be 2 bar. When 2 g of another ideal gas B is introduced in the same flask at same temperature the pressure becomes 3 bar. Find a relationship between their molecular masses.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The relationship between the molecular masses of gases A and B can be derived from the ideal gas equations.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Write the ideal gas equation for gas A and gas B.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the known values into the equations.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Derive the relationship between the molecular masses of gases A and B.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, a relationship between the molecular masses of A and B is established.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of the relationship between molecular masses of gases A and B.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777750186/ncert/chemistry/5/img_4_0.png",
+      "latex_extracted": "\\begin{array}{r l}{{\\mathrm{Now},M_{1}={\\cfrac{M_{2}}{p_{1}}}}}\\\\ {{p_{1}}}&{{={\\cfrac{28\\times5}{2}}}}\\\\ {{\\quad{}={\\cfrac{28\\times5}{7}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of ideal gas laws and substitution of values.",
+    "topics_tags": [
+      "Ideal Gas Law",
+      "Molecular Mass",
+      "Gas Mixtures"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the relationship between molecular masses of gases A and B.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777750186/ncert/chemistry/5/img_4_0.png",
+        "latex_extracted": "\\begin{array}{r l}{{\\mathrm{Now},M_{1}={\\cfrac{M_{2}}{p_{1}}}}}\\\\ {{p_{1}}}&{{={\\cfrac{28\\times5}{2}}}}\\\\ {{\\quad{}={\\cfrac{28\\times5}{7}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q5.6",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 5,
+    "chapter_name": "states of matter",
+    "question_type": "numerical",
+    "question_text": "What volume of dihydrogen at 20 °C and one bar will be released when 0.15g of aluminum reacts?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical calculations related to the volume of dihydrogen produced from aluminum reaction.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777750188/ncert/chemistry/5/img_5_0.png",
+      "latex_extracted": "\\begin{array}{r}{m_{A}=\\mid\\mathrm{g}}\\\\ {p_{A}=2\\mathrm{bar}}\\\\ {m_{\\beta}=2\\mathrm{g}}\\\\ {p_{\\beta}=(3-2)=1\\mathrm{~bar~}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Therefore, 203 mL of dihydrogen will be released.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Determine the amount of dihydrogen produced from the reaction of aluminum.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Convert the pressure from bar to atm and calculate the volume at the given conditions.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, 203 mL of dihydrogen will be released.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires basic stoichiometry and gas law application.",
+    "topics_tags": [
+      "Stoichiometry",
+      "Gas Laws",
+      "Dihydrogen Production"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical calculations related to the volume of dihydrogen produced from aluminum reaction.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777750188/ncert/chemistry/5/img_5_0.png",
+        "latex_extracted": "\\begin{array}{r}{m_{A}=\\mid\\mathrm{g}}\\\\ {p_{A}=2\\mathrm{bar}}\\\\ {m_{\\beta}=2\\mathrm{g}}\\\\ {p_{\\beta}=(3-2)=1\\mathrm{~bar~}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.7",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 5,
+    "chapter_name": "states of matter",
+    "question_type": "mcq",
+    "question_text": "What will be the pressure exerted by a mixture of 3.2 g of methane and 4.4 g of carbon dioxide contained in a 9 dm3 flask at 27 °C?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Hence, the total pressure exerted by the mixture is 8.314 × 10^4 Pa.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the partial pressure of methane and carbon dioxide using their masses.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Sum the partial pressures to find the total pressure.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the total pressure exerted by the mixture is 8.314 × 10^4 Pa.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical calculations for pressure exerted by a gas mixture.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777750194/ncert/chemistry/5/img_6_0.png",
+      "latex_extracted": "\\begin{array}{l}{{\\mathrm{Now},}}\\\\ {{{\\frac{p Y_{1}}{T_{1}}}={\\frac{p_{2}Y_{1}}{P_{2}}}}}\\\\ {{\\Rightarrow Y_{2}^{-}}}\\\\ {{\\begin{array}{l}{{\\scriptstyle-1}}\\\\ {{\\scriptstyle-1}}\\\\ {{\\scriptstyle-1}}\\\\ {{\\scriptstyle0.987\\times273.15}}}\\\\ {{\\scriptstyle=20.987\\times273.15}}\\\\ {{\\scriptstyle=20.58\\,{\\mathrm{mL}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves calculations of partial pressures and total pressure from gas laws.",
+    "topics_tags": [
+      "Gas Mixtures",
+      "Partial Pressure",
+      "Ideal Gas Law"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical calculations for pressure exerted by a gas mixture.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777750194/ncert/chemistry/5/img_6_0.png",
+        "latex_extracted": "\\begin{array}{l}{{\\mathrm{Now},}}\\\\ {{{\\frac{p Y_{1}}{T_{1}}}={\\frac{p_{2}Y_{1}}{P_{2}}}}}\\\\ {{\\Rightarrow Y_{2}^{-}}}\\\\ {{\\begin{array}{l}{{\\scriptstyle-1}}\\\\ {{\\scriptstyle-1}}\\\\ {{\\scriptstyle-1}}\\\\ {{\\scriptstyle0.987\\times273.15}}}\\\\ {{\\scriptstyle=20.987\\times273.15}}\\\\ {{\\scriptstyle=20.58\\,{\\mathrm{mL}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q5.8",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 5,
+    "chapter_name": "states of matter",
+    "question_type": "numerical",
+    "question_text": "What will be the pressure of the gaseous mixture when 0.5 L of H at 0.8 bar and 2.0 L of dioxygen at 0.7 bar are introduced in a 1L vessel at 27°C?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of the relationship between pressure and volume for gases.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777750201/ncert/chemistry/5/img_7_0.png",
+      "latex_extracted": "\\begin{array}{l}{{p_{1}{\\cal{I}}_{1}=p_{2}{\\cal{I}}_{2}}}\\\\ {{\\Rightarrow p_{2}={\\frac{p_{1}{\\cal{I}}_{2}}{\\cal{I}}}}}\\\\ {{\\Rightarrow{\\cal{p}}_{H_{2}}={\\frac{0.8\\times0.5}{1}}}}\\\\ {{\\Rightarrow{\\cal{p}}_{H_{2}}=0.4\\,\\mathrm{bar}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The partial pressure of H2 in the vessel is 0.4 bar.",
+    "answer_latex": "p_{H_{2}}=0.4\\,\\mathrm{bar}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the partial pressure of H2 using the formula p1V1 = p2.",
+        "expression": "p_{H_{2}}={\\frac{0.8\\times0.5}{1}}"
+      }
+    ],
+    "final_answer": "Therefore, the pressure of the gaseous mixture is 0.4 bar.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of gas laws and basic calculations.",
+    "topics_tags": [
+      "Gas Laws",
+      "Partial Pressure",
+      "Gaseous Mixtures"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the relationship between pressure and volume for gases.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777750201/ncert/chemistry/5/img_7_0.png",
+        "latex_extracted": "\\begin{array}{l}{{p_{1}{\\cal{I}}_{1}=p_{2}{\\cal{I}}_{2}}}\\\\ {{\\Rightarrow p_{2}={\\frac{p_{1}{\\cal{I}}_{2}}{\\cal{I}}}}}\\\\ {{\\Rightarrow{\\cal{p}}_{H_{2}}={\\frac{0.8\\times0.5}{1}}}}\\\\ {{\\Rightarrow{\\cal{p}}_{H_{2}}=0.4\\,\\mathrm{bar}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.9",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 5,
+    "chapter_name": "states of matter",
+    "question_type": "numerical",
+    "question_text": "Density of a gas is found to be 5.46 g/dm3 at 27 °C at 2 bar pressure. What will be its density at STP?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The density of the gas at STP will be 3 g/dm³.",
+    "answer_latex": "d_{2}=3\\operatorname{gdm}^{-3}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Use the density formula to find the density at STP.",
+        "expression": "d_{2}={\\frac{p_{2}T_{1}}{p_{1}T_{2}}}"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the known values into the equation.",
+        "expression": "d_{2}={\\frac{1\\times300\\times5.46}{2\\times273}}"
+      }
+    ],
+    "final_answer": "Hence, the density of the gas at STP will be 3 g/dm³.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of the density calculation at STP.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777750208/ncert/chemistry/5/img_8_0.png",
+      "latex_extracted": "\\begin{array}{c}{{d=\\displaystyle\\frac{M p}{\\mathrm{R}T}}}\\\\ {{\\displaystyle\\frac{M p_{1}}{\\mathrm{R}T_{2}}}}\\\\ {{\\displaystyle\\Rightarrow\\displaystyle\\frac{d_{1}}{d_{2}}=\\displaystyle\\frac{R T_{1}}{p_{2}T_{1}}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves application of gas laws and density calculations.",
+    "topics_tags": [
+      "Density",
+      "STP",
+      "Gas Laws"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the density calculation at STP.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777750208/ncert/chemistry/5/img_8_0.png",
+        "latex_extracted": "\\begin{array}{c}{{d=\\displaystyle\\frac{M p}{\\mathrm{R}T}}}\\\\ {{\\displaystyle\\frac{M p_{1}}{\\mathrm{R}T_{2}}}}\\\\ {{\\displaystyle\\Rightarrow\\displaystyle\\frac{d_{1}}{d_{2}}=\\displaystyle\\frac{R T_{1}}{p_{2}T_{1}}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q5.10",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 5,
+    "chapter_name": "states of matter",
+    "question_type": "numerical",
+    "question_text": "Calculate the total number of electrons present in 1.4 g of dinitrogen gas.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, 3.01 × 10^23 molecules of N2 contains 4.214 × 10^23 electrons.",
+    "answer_latex": "4.214 \\times 10^{23}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the number of moles of dinitrogen gas from its mass.",
+        "expression": "n = \\frac{1.4}{28}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the number of molecules using Avogadro's number.",
+        "expression": "N = n \\times N_A = \\frac{1.4}{28} \\times 6.02 \\times 10^{23}"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the total number of electrons from the number of molecules.",
+        "expression": "Total~electrons = N \\times 14"
+      }
+    ],
+    "final_answer": "Thus, the total number of electrons present in 1.4 g of dinitrogen gas is 4.214 × 10^23.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of the calculation for the number of molecules of dinitrogen gas.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777750217/ncert/chemistry/5/img_10_1.png",
+      "latex_extracted": "\\begin{array}{l}{=0.05\\times6.02\\times10^{33}\\,{\\mathrm{number~of~molecules}}}\\\\ {=3.01\\times10^{23}\\,{\\mathrm{number~of~molecules}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps of calculation including moles and molecules.",
+    "topics_tags": [
+      "Dinitrogen",
+      "Electrons",
+      "Molecular Calculation"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the calculation for the number of molecules of dinitrogen gas.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777750217/ncert/chemistry/5/img_10_1.png",
+        "latex_extracted": "\\begin{array}{l}{=0.05\\times6.02\\times10^{33}\\,{\\mathrm{number~of~molecules}}}\\\\ {=3.01\\times10^{23}\\,{\\mathrm{number~of~molecules}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q5.11",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 5,
+    "chapter_name": "states of matter",
+    "question_type": "numerical",
+    "question_text": "Calculate the total pressure in a mixture of 8 g of dioxygen and 4 g of dihydrogen confined in a vessel of 1 dm3 at 27°C.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Hence, the total pressure of the mixture is 56.025 bar.",
+    "answer_latex": "56.025 \\text{ bar}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the number of moles of dioxygen and dihydrogen.",
+        "expression": "n_{O2} = \\frac{8}{32}, n_{H2} = \\frac{4}{2}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the total number of moles in the mixture.",
+        "expression": "n_{total} = n_{O2} + n_{H2}"
+      },
+      {
+        "step_number": 3,
+        "description": "Use the ideal gas equation to find total pressure.",
+        "expression": "p = \\frac{nRT}{V}"
+      }
+    ],
+    "final_answer": "Thus, the total pressure in the mixture is 56.025 bar.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of the calculation for total pressure in a gas mixture.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777750220/ncert/chemistry/5/img_11_1.png",
+      "latex_extracted": "\\begin{array}{r}{\\Rightarrow p={\\frac{n\\pi R T}{V}}}\\\\ {\\underbrace{225\\times0.083\\times300}\\\\ {\\vdots}\\\\ {={\\frac{225\\times0.083\\times300}{2}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of gas laws and multiple calculations.",
+    "topics_tags": [
+      "Gas Laws",
+      "Pressure",
+      "Dioxygen",
+      "Dihydrogen"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the calculation for total pressure in a gas mixture.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777750220/ncert/chemistry/5/img_11_1.png",
+        "latex_extracted": "\\begin{array}{r}{\\Rightarrow p={\\frac{n\\pi R T}{V}}}\\\\ {\\underbrace{225\\times0.083\\times300}\\\\ {\\vdots}\\\\ {={\\frac{225\\times0.083\\times300}{2}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q5.12",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 5,
+    "chapter_name": "states of matter",
+    "question_type": "mcq",
+    "question_text": "Calculate the pay load when a balloon of radius 10 m, mass 100 kg is filled with helium at 1.66 bar at 27°C.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of the calculation for the volume of the balloon.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777750221/ncert/chemistry/5/img_12_0.png",
+      "latex_extracted": "\\begin{array}{c}{{=\\frac{4}{3}\\times\\frac{22}{7}\\times10^{!}}}\\\\ {{=4190.5m^{3}\\left(\\mathrm{approx}\\right)}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The pay load is calculated as the difference between the mass of displaced air and the mass of the balloon.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the volume of the balloon using the formula for the volume of a sphere.",
+        "expression": "V = \\frac{4}{3} \\pi r^3"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the mass of displaced air using the volume and density.",
+        "expression": "m_{air} = V \\times \\text{density}_{air}"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the pay load as the difference between the mass of displaced air and the mass of the balloon.",
+        "expression": "pay~load = m_{air} - m_{balloon}"
+      }
+    ],
+    "final_answer": "Thus, the pay load of the balloon is calculated based on the mass difference.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations including volume and mass.",
+    "topics_tags": [
+      "Balloon Physics",
+      "Pay Load",
+      "Helium"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the calculation for the volume of the balloon.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777750221/ncert/chemistry/5/img_12_0.png",
+        "latex_extracted": "\\begin{array}{c}{{=\\frac{4}{3}\\times\\frac{22}{7}\\times10^{!}}}\\\\ {{=4190.5m^{3}\\left(\\mathrm{approx}\\right)}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.13",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 5,
+    "chapter_name": "states of matter",
+    "question_type": "numerical",
+    "question_text": "Calculate the volume occupied by 8.8 g of CO at 31.1°C and 1 bar pressure.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Hence, the volume occupied is 5.05 L.",
+    "answer_latex": "V = 5.05 \text{ L}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Use the ideal gas equation to find volume.",
+        "expression": "V = \\frac{mRT}{M}"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values into the equation.",
+        "expression": "V = \\frac{8.8 \\times 0.083 \\times 304.1}{44 \\times 1}"
+      }
+    ],
+    "final_answer": "Therefore, the volume occupied by 8.8 g of CO is 5.05 L.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of the ideal gas law relating pressure, volume, and temperature.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777750235/ncert/chemistry/5/img_13_0.png",
+      "latex_extracted": "\\begin{array}{r}{p V={\\frac{m}{M}}\\mathrm{R}T}\\\\ {\\Rightarrow V={\\frac{m\\mathrm{R}T}{M}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of the ideal gas law and substitution of values.",
+    "topics_tags": [
+      "Ideal Gas Law",
+      "Volume",
+      "Gas Properties"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the ideal gas law relating pressure, volume, and temperature.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777750235/ncert/chemistry/5/img_13_0.png",
+        "latex_extracted": "\\begin{array}{r}{p V={\\frac{m}{M}}\\mathrm{R}T}\\\\ {\\Rightarrow V={\\frac{m\\mathrm{R}T}{M}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q5.14",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 5,
+    "chapter_name": "states of matter",
+    "question_type": "numerical",
+    "question_text": "2.9 g of a gas at 95 °C occupied the same volume as 0.184 g of dihydrogen at 17 °C, at the same pressure. What is the molar mass of the gas?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Hence, the molar mass of the gas is 40 g mol–1.",
+    "answer_latex": "M = 40 \text{ g mol}^{-1}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set up the equation for the gas using the ideal gas law.",
+        "expression": "V = \\frac{mRT}{p}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the molar mass using the known values.",
+        "expression": "M = \\frac{(2.9 \\times 368 \\times 2)}{0.184 \\times 290}"
+      }
+    ],
+    "final_answer": "Therefore, the molar mass of the gas is 40 g mol–1.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of the relationship between mass, volume, and molar mass.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777750244/ncert/chemistry/5/img_15_0.png",
+      "latex_extracted": "\\begin{array}{c}{{y={\\cfrac{m}{2}}{\\frac{{\\mathsf{R}}T}{p}}}\\\\ {{\\boldsymbol{\\frac{({\\mathsf{M}}{\\mathsf{M}}}_{X}}\\mathbf{\\hat{R}}\\times290}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of gas laws and calculations for molar mass.",
+    "topics_tags": [
+      "Molar Mass",
+      "Gas Laws",
+      "Dihydrogen"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the relationship between mass, volume, and molar mass.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777750244/ncert/chemistry/5/img_15_0.png",
+        "latex_extracted": "\\begin{array}{c}{{y={\\cfrac{m}{2}}{\\frac{{\\mathsf{R}}T}{p}}}\\\\ {{\\boldsymbol{\\frac{({\\mathsf{M}}{\\mathsf{M}}}_{X}}\\mathbf{\\hat{R}}\\times290}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q5.15",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 5,
+    "chapter_name": "states of matter",
+    "question_type": "conceptual",
+    "question_text": "Critical temperature for carbon dioxide and methane are 31.1 °C and -81.9 °C respectively. Which of these has stronger intermolecular forces and why?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram illustrating the concept of intermolecular forces and critical temperature.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777750249/ncert/chemistry/5/img_16_0.jpg",
+      "latex_extracted": "\\begin{array}{c}{{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\neg{\\mid}^{2}}}\\\\ {{\\neg{\\mid}^{2}}}\\\\ {{\\neg{\\mid}{\\mid}^{2}}}\\\\ {{\\neg{\\mid}{\\mid}{\\mid}_{\\stackrel{{\\bf w}}{w}}}\\atop{\\neg{\\mid}w a n{\\mid}{\\mid}{\\bf w}}}\\\\ {{\\neg{\\mid}{\\mid}{\\mid}{\\mid}_{\\boldmath}{\\mid}{\\boldmath\\uparrow}_{\\boldmath z=w a n{\\mid}{\\mid}{\\mid}{\\longrightarrow}}}}\\end{array}",
+      "source_page_number": 16,
+      "source_image_index": 0,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Higher is the critical temperature of a gas, easier is its liquefaction. This means that the intermolecular forces of attraction between the molecules of a gas are directly proportional to its critical temperature. Hence, intermolecular forces of attraction are stronger in the case of CO2.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, CO2 has stronger intermolecular forces due to its higher critical temperature.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of critical temperature and intermolecular forces.",
+    "topics_tags": [
+      "Critical Temperature",
+      "Intermolecular Forces",
+      "Gases"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram illustrating the concept of intermolecular forces and critical temperature.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777750249/ncert/chemistry/5/img_16_0.jpg",
+        "latex_extracted": "\\begin{array}{c}{{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\neg{\\mid}^{2}}}\\\\ {{\\neg{\\mid}^{2}}}\\\\ {{\\neg{\\mid}{\\mid}^{2}}}\\\\ {{\\neg{\\mid}{\\mid}{\\mid}_{\\stackrel{{\\bf w}}{w}}}\\atop{\\neg{\\mid}w a n{\\mid}{\\mid}{\\bf w}}}\\\\ {{\\neg{\\mid}{\\mid}{\\mid}{\\mid}_{\\boldmath}{\\mid}{\\boldmath\\uparrow}_{\\boldmath z=w a n{\\mid}{\\mid}{\\mid}{\\longrightarrow}}}}\\end{array}",
+        "source_page_number": 16,
+        "source_image_index": 0,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.16",
+    "class": 11,
+    "subject": "chemistry",
+    "chapter_number": 5,
+    "chapter_name": "states of matter",
+    "question_type": "conceptual",
+    "question_text": "Explain the physical significance of Van der Waals parameters.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Physical significance of 'a':",
+        "part_latex": null,
+        "answer_text": "'a' is a measure of the magnitude of intermolecular attractive forces within a gas.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Therefore, 'a' indicates the strength of intermolecular forces.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Physical significance of 'b':",
+        "part_latex": null,
+        "answer_text": "'b' is a measure of the volume of a gas molecule.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, 'b' represents the effective volume occupied by gas molecules.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of Van der Waals parameters and their implications.",
+    "topics_tags": [
+      "Van der Waals Forces",
+      "Intermolecular Forces",
+      "Gas Laws"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  }
+]

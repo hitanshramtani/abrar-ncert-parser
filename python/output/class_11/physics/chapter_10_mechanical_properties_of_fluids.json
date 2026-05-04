@@ -1,0 +1,2054 @@
+[
+  {
+    "question_id": "Q10.1",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 10,
+    "chapter_name": "Mechanical Properties of Fluids",
+    "question_type": "conceptual",
+    "question_text": "Explain why the blood pressure in humans is greater at the feet than at the brain. Atmospheric pressure at a height of about 6 km decreases to nearly half of its value at the sea level, though the height of the atmosphere is more than 100 km. Hydrostatic pressure is a scalar quantity even though pressure is force divided by area.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The pressure of a liquid is given by the relation: P = hρg. It can be inferred that pressure is directly proportional to height. Hence, the blood pressure in human vessels depends on the height of the blood column in the body. The height of the blood column is more at the feet than it is at the brain. Hence, the blood pressure at the feet is more than it is at the brain. Density of air is the maximum near the sea level. Density of air decreases with increase in height from the surface. At a height of about 6 km, density decreases to nearly half of its value at the sea level. Atmospheric pressure is proportional to density. Hence, at a height of 6 km from the surface, it decreases to nearly half of its value at the sea level. When force is applied on a liquid, the pressure in the liquid is transmitted in all directions. Hence, hydrostatic pressure does not have a fixed direction and it is a scalar physical quantity.",
+    "answer_latex": "P = h\\rho g",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the relationship between pressure, height, and density.",
+        "expression": "P = h\\rho g"
+      },
+      {
+        "step_number": 2,
+        "description": "Explain how blood pressure varies with height in the body.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Discuss the effect of height on atmospheric pressure.",
+        "expression": null
+      },
+      {
+        "step_number": 4,
+        "description": "Conclude that hydrostatic pressure is a scalar quantity.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, blood pressure is greater at the feet than at the brain due to the height of the blood column.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of hydrostatic pressure and its implications in the human body.",
+    "topics_tags": [
+      "Blood Pressure",
+      "Hydrostatic Pressure",
+      "Fluid Mechanics"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q10.2",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 10,
+    "chapter_name": "Mechanical Properties of Fluids",
+    "question_type": "conceptual",
+    "question_text": "Explain why the angle of contact of mercury with glass is obtuse, while that of water with glass is acute.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the angle of contact between mercury and glass.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777751197/ncert/physics/10/img_2_0.jpg",
+      "latex_extracted": "\\underbrace{s_{s\\times\\infty}}_{s_{\\circ}}\\underbrace{\\sim\\infty}{\\underbrace{\\binom{\\underset{\\mathrm{For}}{}}{\\longleftrightarrow}}\\Delta_{\\mathrm{warwen}}}_{s_{\\circ}}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The angle between the tangent to the liquid surface at the point of contact and the surface inside the liquid is called the angle of contact (θ). The angle of contact θ is obtuse if S < S (as in the case of mercury on glass). This angle is acute if S < S (as in the case of water on glass). Mercury molecules have a strong force of attraction between themselves and a weak force of attraction toward solids, hence they tend to form drops. On the other hand, water molecules make acute angles with glass due to a strong force of attraction toward solids, causing them to spread out.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Define the angle of contact and its significance.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Explain the conditions for obtuse and acute angles of contact.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Discuss the molecular interactions of mercury and water with glass.",
+        "expression": null
+      },
+      {
+        "step_number": 4,
+        "description": "Conclude the behavior of mercury and water on glass surfaces.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the angle of contact differs due to the varying molecular interactions of mercury and water with glass.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding molecular interactions and surface tension concepts.",
+    "topics_tags": [
+      "Angle of Contact",
+      "Surface Tension",
+      "Mercury",
+      "Water"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the angle of contact between mercury and glass.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777751197/ncert/physics/10/img_2_0.jpg",
+        "latex_extracted": "\\underbrace{s_{s\\times\\infty}}_{s_{\\circ}}\\underbrace{\\sim\\infty}{\\underbrace{\\binom{\\underset{\\mathrm{For}}{}}{\\longleftrightarrow}}\\Delta_{\\mathrm{warwen}}}_{s_{\\circ}}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q10.4",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 10,
+    "chapter_name": "Mechanical Properties of Fluids",
+    "question_type": "conceptual",
+    "question_text": "Explain why to keep a piece of paper horizontal, you should blow over, not under, it.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "When air is blown under a paper, the velocity of air is greater under the paper than it is above it. As per Bernoulli’s principle, atmospheric pressure reduces under the paper. This makes the paper fall. To keep a piece of paper horizontal, one should blow over it. This increases the velocity of air above the paper. As per Bernoulli’s principle, atmospheric pressure reduces above the paper and the paper remains horizontal.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, blowing over the paper keeps it horizontal due to reduced pressure above it.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of Bernoulli's principle and its application.",
+    "topics_tags": [
+      "Bernoulli's Principle",
+      "Fluid Dynamics",
+      "Air Pressure"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q10.5",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 10,
+    "chapter_name": "Mechanical Properties of Fluids",
+    "question_type": "numerical",
+    "question_text": "A 50 kg girl wearing high heel shoes balances on a single heel. The heel is circular with a diameter 1.0 cm. What is the pressure exerted by the heel on the horizontal floor?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The pressure exerted by the heel on the floor is calculated using the formula: Pressure = Force / Area.",
+    "answer_latex": "P = \\frac{F}{A} = \\frac{490}{7.85 \\times 10^{-5}} = 6.24 \\times 10^{6} \\text{ N/m}^2",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the force exerted by the girl on the floor.",
+        "expression": "F = mg = 50 \\times 9.8 = 490 \\text{ N}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the area of the heel.",
+        "expression": "A = \\pi (0.005)^2 = 7.85 \\times 10^{-5} \\text{ m}^2"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the pressure using the force and area.",
+        "expression": "P = \\frac{F}{A} = \\frac{490}{7.85 \\times 10^{-5}}"
+      }
+    ],
+    "final_answer": "Therefore, the pressure exerted by the heel on the horizontal floor is 6.24 × 10^6 N/m².",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic calculations of force and area to find pressure.",
+    "topics_tags": [
+      "Pressure",
+      "Fluid Mechanics",
+      "Force"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q10.6",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 10,
+    "chapter_name": "Mechanical Properties of Fluids",
+    "question_type": "conceptual",
+    "question_text": "A vertical off-shore structure is built to withstand a maximum stress of 10^9 Pa. Is the structure suitable for putting up on top of an oil well in the ocean? Take the depth of the ocean to be roughly 3 km, and ignore ocean currents.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Yes, the structure is suitable for putting up on top of an oil well in the ocean.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the pressure exerted by the sea water at a depth of 3 km.",
+        "expression": "P = \\rho g d = 10^3 \\times 9.8 \\times 3 \\times 10^3"
+      },
+      {
+        "step_number": 2,
+        "description": "Compare the calculated pressure with the maximum allowable stress of the structure.",
+        "expression": "2.94 \\times 10^7 < 10^9"
+      }
+    ],
+    "final_answer": "Therefore, the structure can withstand the pressure exerted by the ocean.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing pressure exerted by sea water at depth",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777751198/ncert/physics/10/img_7_0.png",
+      "latex_extracted": "\\begin{array}{c}{{\\rho_{1}h_{1}g=\\rho_{2}h_{2}g}}\\\\ {{\\qquad\\qquad\\qquad\\rho_{2}={\\frac{\\rho_{1}h_{1}}{\\rho_{2}}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of pressure calculations and comparison.",
+    "topics_tags": [
+      "Pressure",
+      "Off-shore Structures",
+      "Fluid Mechanics"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing pressure exerted by sea water at depth",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777751198/ncert/physics/10/img_7_0.png",
+        "latex_extracted": "\\begin{array}{c}{{\\rho_{1}h_{1}g=\\rho_{2}h_{2}g}}\\\\ {{\\qquad\\qquad\\qquad\\rho_{2}={\\frac{\\rho_{1}h_{1}}{\\rho_{2}}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q10.7",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 10,
+    "chapter_name": "Mechanical Properties of Fluids",
+    "question_type": "numerical",
+    "question_text": "A hydraulic automobile lift is designed to lift cars with a maximum mass of 3000 kg. The area of cross-section of the piston carrying the load is 425 cm². What maximum pressure would the smaller piston have to bear?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The maximum pressure exerted on the load-carrying piston is 6.917 × 10^5 Pa.",
+    "answer_latex": "P = \\frac{F}{A} = \\frac{29400}{425 \\times 10^{-4}} = 6.917 \\times 10^5",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the maximum force exerted by the load.",
+        "expression": "F = mg = 3000 \\times 9.8"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the pressure using the area of the piston.",
+        "expression": "P = \\frac{F}{A} = \\frac{29400}{425 \\times 10^{-4}}"
+      }
+    ],
+    "final_answer": "Thus, the maximum pressure that the smaller piston would have to bear is 6.917 × 10^5 Pa.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic calculations of force and pressure.",
+    "topics_tags": [
+      "Hydraulic Lift",
+      "Pressure",
+      "Force"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q10.8",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 10,
+    "chapter_name": "Mechanical Properties of Fluids",
+    "question_type": "numerical",
+    "question_text": "A U-tube contains water and methylated spirit separated by mercury. The mercury columns in the two arms are in level with 10.0 cm of water in one arm and 122.5 cm of spirit in the other. What is the specific gravity of spirit?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing U-tube with water, mercury, and methylated spirit",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777751201/ncert/physics/10/img_9_0.jpg",
+      "latex_extracted": "\\left.{\\begin{array}{l l l}{p_{o}}&{\\quad}&{p_{o}}\\\\ {\\downarrow}\\\\ {\\downarrow}\\\\ {\\downarrow}&{\\downarrow}\\\\ {\\downarrow}&{\\downarrow}\\\\ {\\downarrow}&{\\downarrow}\\\\ {\\downarrow}&{\\downarrow}\\\\ {\\downarrow}&{\\deg_{\\mathrm{gerwe}}}\\end{array}}^{p}{\\leq}\\quad\\right.",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of hydrostatic pressure and specific gravity calculations.",
+    "topics_tags": [
+      "Specific Gravity",
+      "Hydrostatics",
+      "U-tube"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing U-tube with water, mercury, and methylated spirit",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777751201/ncert/physics/10/img_9_0.jpg",
+        "latex_extracted": "\\left.{\\begin{array}{l l l}{p_{o}}&{\\quad}&{p_{o}}\\\\ {\\downarrow}\\\\ {\\downarrow}\\\\ {\\downarrow}&{\\downarrow}\\\\ {\\downarrow}&{\\downarrow}\\\\ {\\downarrow}&{\\downarrow}\\\\ {\\downarrow}&{\\downarrow}\\\\ {\\downarrow}&{\\deg_{\\mathrm{gerwe}}}\\end{array}}^{p}{\\leq}\\quad\\right.",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q10.10",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 10,
+    "chapter_name": "Mechanical Properties of Fluids",
+    "question_type": "numerical",
+    "question_text": "In problem 10.9, if 15.0 cm of water and spirit each are further poured into the respective arms of the tube, what is the difference in the levels of mercury in the two arms? (Specific gravity of mercury = 13.6)",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Hence, the difference between the levels of mercury in the two arms is 0.221 cm.",
+    "answer_latex": "h = 0.220588 \\approx 0.221 \\text{ cm}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the height of the water column after adding 15 cm.",
+        "expression": "h_{water} = 10 + 15 = 25 \\text{ cm}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the height of the spirit column after adding 15 cm.",
+        "expression": "h_{spirit} = 12.5 + 15 = 27.5 \\text{ cm}"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the pressure difference between the water and spirit columns.",
+        "expression": "g(25 \\times 1 - 27.5 \\times 0.8) = 3g"
+      },
+      {
+        "step_number": 4,
+        "description": "Equate the pressure exerted by the mercury column to find h.",
+        "expression": "13.6hg = 3g"
+      },
+      {
+        "step_number": 5,
+        "description": "Solve for h.",
+        "expression": "h = 0.220588 \\approx 0.221 \\text{ cm}"
+      }
+    ],
+    "final_answer": "Therefore, the difference between the levels of mercury in the two arms is 0.221 cm.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the relationship between the heights of water and spirit columns in a tube.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777751205/ncert/physics/10/img_10_0.png",
+      "latex_extracted": "\\frac{\\rho_{1}}{\\rho_{2}}=\\frac{h_{2}}{h_{1}}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations and understanding of fluid pressure.",
+    "topics_tags": [
+      "Fluid Mechanics",
+      "Pressure",
+      "Hydrostatics"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the relationship between the heights of water and spirit columns in a tube.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777751205/ncert/physics/10/img_10_0.png",
+        "latex_extracted": "\\frac{\\rho_{1}}{\\rho_{2}}=\\frac{h_{2}}{h_{1}}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q10.11",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 10,
+    "chapter_name": "Mechanical Properties of Fluids",
+    "question_type": "conceptual",
+    "question_text": "Can Bernoulli’s equation be used to describe the flow of water through a rapid in a river? Explain.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "No, Bernoulli’s equation cannot be used to describe the flow of water through a rapid in a river because of the turbulent flow of water. This principle can only be applied to a streamline flow.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, Bernoulli’s equation is not applicable in this scenario.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of fluid dynamics concepts.",
+    "topics_tags": [
+      "Bernoulli's Principle",
+      "Fluid Flow",
+      "Turbulence"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q10.12",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 10,
+    "chapter_name": "Mechanical Properties of Fluids",
+    "question_type": "conceptual",
+    "question_text": "Does it matter if one uses gauge instead of absolute pressures in applying Bernoulli’s equation? Explain.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "No, it does not matter if one uses gauge pressure instead of absolute pressure while applying Bernoulli’s equation. The two points where Bernoulli’s equation is applied should have significantly different atmospheric pressures.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, gauge pressure can be used without affecting the outcome.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves understanding of pressure concepts in fluid mechanics.",
+    "topics_tags": [
+      "Pressure Measurement",
+      "Bernoulli's Equation",
+      "Fluid Dynamics"
+    ],
+    "confidence_score": 0.97,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q10.13",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 10,
+    "chapter_name": "Mechanical Properties of Fluids",
+    "question_type": "mcq",
+    "question_text": "In a test experiment on a model aeroplane in a wind tunnel, the flow speeds on the upper and lower surfaces of the wing are 70 m/s and 63 m/s respectively. What is the lift on the wing if its area is 2.5 m²? Take the density of air to be 1.3 kg/m³.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the relationship of pressure and speed on the wing surfaces.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777751208/ncert/physics/10/img_13_0.png",
+      "latex_extracted": "={\\frac{3.08\\times10^{\\circ}\\times8\\times0.83\\times1.5}{\\pi\\times\\left(0.01\\right)^{4}}}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The lift on the wing is calculated using Bernoulli's theorem.",
+    "answer_latex": "L = \\frac{1}{2} \\rho (V_1^2 - V_2^2) A = \\frac{1}{2} \\times 1.3 \\times (70^2 - 63^2) \\times 2.5 = 1512.87 \text{ N}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the pressure difference using Bernoulli's equation.",
+        "expression": "P_2 - P_1 = \\frac{1}{2} \\rho (V_1^2 - V_2^2)"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values into the lift equation.",
+        "expression": "L = \\frac{1}{2} \\times 1.3 \\times (70^2 - 63^2) \\times 2.5"
+      }
+    ],
+    "final_answer": "Therefore, the lift on the wing of the aeroplane is 1.51 × 10³ N.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of Bernoulli's principle and application of the lift formula.",
+    "topics_tags": [
+      "Lift",
+      "Bernoulli's Principle",
+      "Fluid Dynamics"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the relationship of pressure and speed on the wing surfaces.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777751208/ncert/physics/10/img_13_0.png",
+        "latex_extracted": "={\\frac{3.08\\times10^{\\circ}\\times8\\times0.83\\times1.5}{\\pi\\times\\left(0.01\\right)^{4}}}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q10.14",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 10,
+    "chapter_name": "Mechanical Properties of Fluids",
+    "question_type": "mcq",
+    "question_text": "Figures 10.23 (a) and (b) refer to the steady flow of a (non-viscous) liquid. Which of the two figures is incorrect? Why?",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "and"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "refer to the steady flow of a (non-viscous) liquid. Which of the two figures is incorrect? Why?"
+      }
+    ],
+    "correct_option": "(A)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Figure (a) is not possible because according to the law of continuity, if the area of cross-section in the middle of the venturimeter is small, the speed of the flow of liquid through this part is more, leading to lower pressure.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, figure (a) is incorrect.",
+    "answer_image": {
+      "present": true,
+      "description": "Figures showing the flow of a non-viscous liquid.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777751224/ncert/physics/10/img_15_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of fluid dynamics principles.",
+    "topics_tags": [
+      "Fluid Flow",
+      "Continuity Equation",
+      "Bernoulli's Principle"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Figures showing the flow of a non-viscous liquid.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777751224/ncert/physics/10/img_15_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q10.16",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 10,
+    "chapter_name": "Mechanical Properties of Fluids",
+    "question_type": "mcq",
+    "question_text": "The cylindrical tube of a spray pump has a cross-section of 8.0 cm² one end of which has 40 fine holes each of diameter 1.0 mm. If the liquid flow inside the tube is 1.5 m/min, what is the speed of ejection of the liquid through the holes?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The speed of ejection of the liquid through the holes is 0.633 m/s.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the area of cross-section of each hole.",
+        "expression": "a = \\pi r^2 = \\pi (0.5 \\times 10^{-3})^2"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the total area of 40 holes.",
+        "expression": "A = n \\times a = 40 \\times \\pi (0.5 \\times 10^{-3})^2"
+      },
+      {
+        "step_number": 3,
+        "description": "Convert the speed of flow inside the tube from m/min to m/s.",
+        "expression": "V = 1.5 \\text{ m/min} = 0.025 \\text{ m/s}"
+      },
+      {
+        "step_number": 4,
+        "description": "Apply the law of continuity to find the speed of ejection.",
+        "expression": "v = 0.633 \\text{ m/s}"
+      }
+    ],
+    "final_answer": "Therefore, the speed of ejection of the liquid through the holes is 0.633 m/s.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations and application of the law of continuity.",
+    "topics_tags": [
+      "Fluid Dynamics",
+      "Continuity Equation",
+      "Speed of Ejection"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q10.17",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 10,
+    "chapter_name": "Mechanical Properties of Fluids",
+    "question_type": "numerical",
+    "question_text": "A U-shaped wire is dipped in a soap solution, and removed. The thin soap film formed between the wire and the light slider supports a weight of 1.5 × 10⁻² N (which includes the small weight of the slider). The length of the slider is 30 cm. What is the surface tension of the film?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The surface tension of the film is 2.5 × 10⁻² N/m.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the total length of the soap film.",
+        "expression": "Total length = 2l = 2 \\times 0.3 = 0.6 \\text{ m}"
+      },
+      {
+        "step_number": 2,
+        "description": "Use the formula for surface tension.",
+        "expression": "\\gamma = \\frac{W}{2l} = \\frac{1.5 \\times 10^{-2}}{0.6}"
+      }
+    ],
+    "final_answer": "Therefore, the surface tension of the film is 2.5 × 10⁻² N/m.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing a U-shaped wire dipped in soap solution with a slider.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777751236/ncert/physics/10/img_17_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of surface tension and basic calculations.",
+    "topics_tags": [
+      "Surface Tension",
+      "Soap Film",
+      "Fluid Mechanics"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing a U-shaped wire dipped in soap solution with a slider.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777751236/ncert/physics/10/img_17_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q10.18",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 10,
+    "chapter_name": "Mechanical Properties of Fluids",
+    "question_type": "mcq",
+    "question_text": "What is the excess pressure inside a bubble of soap solution of radius 5.00 mm, given that the surface tension of soap solution at the temperature (20 °C) is 2.50 × 10–2 N m–1? If an air bubble of the same dimension were formed at a depth of 40.0 cm inside a container containing the soap solution (of relative density 1.20), what would be the pressure inside the bubble?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Calculate the excess pressure inside the soap bubble.",
+        "part_latex": null,
+        "answer_text": "The excess pressure inside the soap bubble is 20 Pa.",
+        "answer_latex": "P = \\frac{4S}{r} = \\frac{4 \\times 2.50 \\times 10^{-2}}{5 \\times 10^{-3}} = 20 \\text{ Pa}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the formula for excess pressure in a soap bubble.",
+            "expression": "P = \\frac{4S}{r}"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the values of surface tension and radius.",
+            "expression": "P = \\frac{4 \\times 2.50 \\times 10^{-2}}{5 \\times 10^{-3}}"
+          }
+        ],
+        "final_answer": "Therefore, the excess pressure inside the soap bubble is 20 Pa.",
+        "answer_image": {
+          "present": true,
+          "description": "Mathematical relation for excess pressure inside the soap bubble.",
+          "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777751243/ncert/physics/10/img_20_0.png",
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "answer"
+        },
+        "question_images": [],
+        "answer_images": [
+          {
+            "present": true,
+            "description": "Mathematical relation for excess pressure inside the soap bubble.",
+            "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777751243/ncert/physics/10/img_20_0.png",
+            "latex_extracted": null,
+            "source_page_number": null,
+            "source_image_index": null,
+            "ownership": "answer"
+          }
+        ],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Calculate the pressure inside the air bubble formed at a depth of 40.0 cm.",
+        "part_latex": null,
+        "answer_text": "The pressure inside the air bubble is 1.06 × 10^5 Pa.",
+        "answer_latex": "P = 1.01 \\times 10^{5} + 0.4 \\times 1.2 \\times 10^{3} \\times 9.8 + 10 = 1.06 \\times 10^{5} \\text{ Pa}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the pressure due to the water column and the soap bubble.",
+            "expression": "P = 1.01 \\times 10^{5} + 0.4 \\times 1.2 \\times 10^{3} \\times 9.8 + 10"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the values and calculate the total pressure.",
+            "expression": "P = 1.01 \\times 10^{5} + 0.4 \\times 1.2 \\times 10^{3} \\times 9.8 + 10"
+          }
+        ],
+        "final_answer": "Therefore, the pressure inside the air bubble is 1.06 × 10^5 Pa.",
+        "answer_image": {
+          "present": true,
+          "description": "Mathematical relation for pressure inside the air bubble.",
+          "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777751246/ncert/physics/10/img_20_2.png",
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "answer"
+        },
+        "question_images": [],
+        "answer_images": [
+          {
+            "present": true,
+            "description": "Mathematical relation for pressure inside the air bubble.",
+            "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777751246/ncert/physics/10/img_20_2.png",
+            "latex_extracted": null,
+            "source_page_number": null,
+            "source_image_index": null,
+            "ownership": "answer"
+          }
+        ],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical relation for excess pressure inside a soap bubble.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777751243/ncert/physics/10/img_20_0.png",
+      "latex_extracted": "\\begin{array}{c}{{P={\\frac{4S}{r}}}}\\\\ {{r}}\\\\ {{5\\times10^{-3}}}\\\\ {{={20}\\;\\mathrm{Pa}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations and understanding of fluid mechanics.",
+    "topics_tags": [
+      "Excess Pressure",
+      "Soap Bubble",
+      "Fluid Mechanics"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical relation for excess pressure inside a soap bubble.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777751243/ncert/physics/10/img_20_0.png",
+        "latex_extracted": "\\begin{array}{c}{{P={\\frac{4S}{r}}}}\\\\ {{r}}\\\\ {{5\\times10^{-3}}}\\\\ {{={20}\\;\\mathrm{Pa}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q10.19",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 10,
+    "chapter_name": "Mechanical Properties of Fluids",
+    "question_type": "mcq",
+    "question_text": "A tank with a square base of area 1.0 m² is divided by a vertical partition in the middle. The bottom of the partition has a small-hinged door of area 20 cm². The tank is filled with water in one compartment, and an acid (of relative density 1.7) in the other, both to a height of 4.0 m. Compute the force necessary to keep the door closed.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of pressure differences and force calculations.",
+    "topics_tags": [
+      "Hydrostatic Pressure",
+      "Fluid Mechanics",
+      "Force Calculation"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q10.20",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 10,
+    "chapter_name": "Mechanical Properties of Fluids",
+    "question_type": "mcq",
+    "question_text": "A manometer reads the pressure of a gas in an enclosure as shown in Fig. 10.25 (a). When a pump removes some of the gas, the manometer reads as in Fig. 10.25 (b). The liquid used in the manometers is mercury and the atmospheric pressure is 76 cm of mercury. Give the absolute and gauge pressure of the gas in the enclosure for cases (a) and (b), in units of cm of mercury. How would the levels change in case (b) if 13.6 cm of water (immiscible with mercury) are poured into the right limb of the manometer? (Ignore the small change in the volume of the gas).",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": ". When a pump removes some of the gas, the manometer reads as in Fig. 10.25"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": ". The liquid used in the manometers is mercury and the atmospheric pressure is 76 cm of mercury. Give the absolute and gauge pressure of the gas in the enclosure for cases"
+      },
+      {
+        "option_label": "(A)",
+        "option_text": "and"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": ", in units of cm of mercury. How would the levels change in case"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "if 13.6 cm of water (immiscible with mercury) are poured into the right limb of the manometer? (Ignore the small change in the volume of the gas)."
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Give the absolute and gauge pressure of the gas in the enclosure for case (a).",
+        "part_latex": null,
+        "answer_text": "The absolute pressure is 96 cm of Hg and the gauge pressure is 20 cm of Hg.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the atmospheric pressure and the readings from the manometer.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the absolute and gauge pressures using the manometer readings.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Therefore, the absolute pressure is 96 cm of Hg and the gauge pressure is 20 cm of Hg.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "How would the levels change in case (b) if 13.6 cm of water are poured into the right limb of the manometer?",
+        "part_latex": null,
+        "answer_text": "The levels in the manometer would change due to the addition of water, affecting the pressure readings.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Consider the effect of adding 13.6 cm of water on the mercury levels.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the new pressure levels in the manometer.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, the levels would adjust according to the density difference between mercury and water.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the manometer setup for measuring gas pressure.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777751250/ncert/physics/10/img_22_0.png",
+      "latex_extracted": "\\begin{array}{l}{{\\Delta^{P}=P_{2}-P_{1}\\nonumber}}\\\\ {{\\phi=6.664\\times10^{4}-3.92\\times10^{4}\\nonumber}}\\\\ {{=2.744\\times10^{4}\\mathrm{~Pa}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of pressure concepts and calculations involving manometer readings.",
+    "topics_tags": [
+      "Manometer",
+      "Pressure",
+      "Fluid Mechanics"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "Some text garbling and formatting issues in the input."
+    ],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the manometer setup for measuring gas pressure.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777751250/ncert/physics/10/img_22_0.png",
+        "latex_extracted": "\\begin{array}{l}{{\\Delta^{P}=P_{2}-P_{1}\\nonumber}}\\\\ {{\\phi=6.664\\times10^{4}-3.92\\times10^{4}\\nonumber}}\\\\ {{=2.744\\times10^{4}\\mathrm{~Pa}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q10.21",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 10,
+    "chapter_name": "Mechanical Properties of Fluids",
+    "question_type": "conceptual",
+    "question_text": "Explain the concept of gauge pressure and absolute pressure using the provided figures.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Gauge pressure is the difference between the atmospheric pressure and the pressure measured in a fluid. Absolute pressure is the sum of atmospheric pressure and gauge pressure.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, absolute pressure is calculated by adding gauge pressure to atmospheric pressure.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of pressure concepts and their relationships.",
+    "topics_tags": [
+      "Pressure",
+      "Gauge Pressure",
+      "Absolute Pressure"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q10.22",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 10,
+    "chapter_name": "Mechanical Properties of Fluids",
+    "question_type": "numerical",
+    "question_text": "Calculate the height difference between the levels of mercury in the two limbs of the manometer after pouring 13.6 cm of water into the right limb of figure (b).",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The height difference h is calculated as 19 cm.",
+    "answer_latex": "h = 19 \text{ cm}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set up the equation for pressure balance in the manometer.",
+        "expression": "77 = 58 + h"
+      },
+      {
+        "step_number": 2,
+        "description": "Solve for h.",
+        "expression": "h = 77 - 58"
+      }
+    ],
+    "final_answer": "Therefore, the height difference between the levels of mercury in the two limbs is 19 cm.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic algebraic manipulation and understanding of pressure concepts.",
+    "topics_tags": [
+      "Manometer",
+      "Pressure Difference",
+      "Fluid Mechanics"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q10.23",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 10,
+    "chapter_name": "Mechanical Properties of Fluids",
+    "question_type": "conceptual",
+    "question_text": "Two vessels have the same base area but different shapes. The first vessel takes twice the volume of water that the second vessel requires to fill up to a particular common height. Is the force exerted by the water on the base of the vessel the same in the two cases? If so, why do the vessels filled with water to that same height give different readings on a weighing scale?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Yes. Two vessels having the same base area have identical force and equal pressure acting on their common base area. Since the shapes of the two vessels are different, the force exerted on the sides of the vessels has non-zero vertical components. When these vertical components are added, the total force on one vessel comes out to be greater than that on the other vessel. Hence, when these vessels are filled with water to the same height, they give different readings on a weighing scale.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the readings differ due to the different shapes affecting the total force exerted.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of pressure and force in fluids.",
+    "topics_tags": [
+      "Fluid Mechanics",
+      "Pressure",
+      "Hydrostatics"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q10.24",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 10,
+    "chapter_name": "Mechanical Properties of Fluids",
+    "question_type": "numerical",
+    "question_text": "During blood transfusion the needle is inserted in a vein where the gauge pressure is 2000 Pa. At what height must the blood container be placed so that blood may just enter the vein? [Use the density of whole blood from Table 10.1].",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "To find the height at which the blood container must be placed, we can use the hydrostatic pressure formula: P = \rho g h.",
+    "answer_latex": "h = \\frac{P}{\\rho g} = \\frac{2000}{1.06 \\times 10^3 \\times 9.8}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the formula for hydrostatic pressure.",
+        "expression": "P = \\rho g h"
+      },
+      {
+        "step_number": 2,
+        "description": "Rearrange the formula to solve for height h.",
+        "expression": "h = \\frac{P}{\\rho g}"
+      },
+      {
+        "step_number": 3,
+        "description": "Substitute the values into the formula.",
+        "expression": "h = \\frac{2000}{1.06 \\times 10^3 \\times 9.8}"
+      }
+    ],
+    "final_answer": "Therefore, the height at which the blood container must be placed can be calculated using the given values.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves application of hydrostatic pressure formula and substitution.",
+    "topics_tags": [
+      "Hydrostatic Pressure",
+      "Blood Transfusion",
+      "Fluid Mechanics"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q10.25",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 10,
+    "chapter_name": "Mechanical Properties of Fluids",
+    "question_type": "mcq",
+    "question_text": "In deriving Bernoulli’s equation, we equated the work done on the fluid in the tube to its change in the potential and kinetic energy. (a) What is the largest average velocity of blood flow in an artery of diameter 2 × 10–3 m if the flow must remain laminar? (b) Do the dissipative forces become more important as the fluid velocity increases? Discuss qualitatively.",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "What is the largest average velocity of blood flow in an artery of diameter 2 × 10–3 m if the flow must remain laminar?"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "Do the dissipative forces become more important as the fluid velocity increases? Discuss qualitatively."
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to the pressure and height in a blood container.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777751277/ncert/physics/10/img_25_0.png",
+      "latex_extracted": "\\begin{array}{r}{{\\therefore h={\\frac{P}{\\rho\\mathbf{g}}}}}\\\\ {{\\log}}\\\\ {{\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad(1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,}&.}&{\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad{{\\qquad{{{1}}}}.}&{{{1,1,1,1,1,1,1,1}}&{{{1,1,}}}&{\\qquad,1,1,1,1,}&{\\cdots,1,1}&{1,1,1,}&{1,1}&{1,1,1,1,1,1,1,1}&{1,1,1,1,1,1,1}&{1,1,}&{1,1,1,1,1,1,}&{1,1,1,1,}&{\\end{&{end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "What is the largest average velocity of blood flow in an artery of diameter 2 × 10–3 m if the flow must remain laminar?",
+        "part_latex": null,
+        "answer_text": "1.966 m/s",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the largest average velocity using the formula for laminar flow.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Therefore, the largest average velocity of blood flow in the artery is 1.966 m/s.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Do the dissipative forces become more important as the fluid velocity increases? Discuss qualitatively.",
+        "part_latex": null,
+        "answer_text": "Yes",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, dissipative forces become more significant with increasing fluid velocity.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of fluid dynamics and application of formulas.",
+    "topics_tags": [
+      "Bernoulli's Equation",
+      "Fluid Dynamics",
+      "Laminar Flow"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "Some text garbling and minor extraction issues."
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the pressure and height in a blood container.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777751277/ncert/physics/10/img_25_0.png",
+        "latex_extracted": "\\begin{array}{r}{{\\therefore h={\\frac{P}{\\rho\\mathbf{g}}}}}\\\\ {{\\log}}\\\\ {{\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad(1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,}&.}&{\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad{{\\qquad{{{1}}}}.}&{{{1,1,1,1,1,1,1,1}}&{{{1,1,}}}&{\\qquad,1,1,1,1,}&{\\cdots,1,1}&{1,1,1,}&{1,1}&{1,1,1,1,1,1,1,1}&{1,1,1,1,1,1,1}&{1,1,}&{1,1,1,1,1,1,}&{1,1,1,1,}&{\\end{&{end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q10.26",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 10,
+    "chapter_name": "Mechanical Properties of Fluids",
+    "question_type": "mcq",
+    "question_text": "What is the largest average velocity of blood flow in an artery of radius 2 × 10^{-3} m if the flow must remain laminar? (b) What is the corresponding flow rate? (Take viscosity of blood to be 2.084 × 10^{-3} Pa s).",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "What is the largest average velocity of blood flow in an artery of radius 2 × 10^{-3} m if the flow must remain laminar?",
+        "part_latex": null,
+        "answer_text": "The largest average velocity of blood is 1.966 m/s.",
+        "answer_latex": "v_{avg} = 1.966 \\, \\mathrm{m/s}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the diameter of the artery using the radius.",
+            "expression": "d = 2 \\times r = 2 \\times 2 \\times 10^{-3} = 4 \\times 10^{-3} \\, \\mathrm{m}"
+          },
+          {
+            "step_number": 2,
+            "description": "Use the Reynolds number formula to find the largest average velocity.",
+            "expression": "v_{avg} = \\frac{2000 \\times \\mu}{\\rho \\times d} = \\frac{2000 \\times 2.084 \\times 10^{-3}}{1.06 \\times 10^{3} \\times 2 \\times 10^{-3}}"
+          },
+          {
+            "step_number": 3,
+            "description": "Substitute the values and calculate.",
+            "expression": "v_{avg} = 1.966 \\, \\mathrm{m/s}"
+          }
+        ],
+        "final_answer": "Therefore, the largest average velocity of blood is 1.966 m/s.",
+        "answer_image": {
+          "present": true,
+          "description": "Mathematical representation of the calculation for average velocity.",
+          "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777751279/ncert/physics/10/img_26_0.png",
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "answer"
+        },
+        "question_images": [],
+        "answer_images": [
+          {
+            "present": true,
+            "description": "Mathematical representation of the calculation for average velocity.",
+            "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777751279/ncert/physics/10/img_26_0.png",
+            "latex_extracted": null,
+            "source_page_number": null,
+            "source_image_index": null,
+            "ownership": "answer"
+          }
+        ],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "What is the corresponding flow rate?",
+        "part_latex": null,
+        "answer_text": null,
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of the largest average velocity of blood flow calculation.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777751279/ncert/physics/10/img_26_0.png",
+      "latex_extracted": "\\begin{array}{c}{{\\frac{2000\\times2.084\\times10^{-3}}{1.06\\times10^{3}\\times2\\times10^{-3}}}}\\\\ {{\\frac{2}{1.06\\times10^{3}\\times2\\times10^{-3}}}}\\\\ {{\\mathrm{=1.966\\m/8}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of fluid dynamics and application of formulas.",
+    "topics_tags": [
+      "Blood Flow",
+      "Fluid Dynamics",
+      "Reynolds Number"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the largest average velocity of blood flow calculation.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777751279/ncert/physics/10/img_26_0.png",
+        "latex_extracted": "\\begin{array}{c}{{\\frac{2000\\times2.084\\times10^{-3}}{1.06\\times10^{3}\\times2\\times10^{-3}}}}\\\\ {{\\frac{2}{1.06\\times10^{3}\\times2\\times10^{-3}}}}\\\\ {{\\mathrm{=1.966\\m/8}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q10.27",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 10,
+    "chapter_name": "Mechanical Properties of Fluids",
+    "question_type": "numerical",
+    "question_text": "A plane is in level flight at constant speed and each of its two wings has an area of 25 m². If the speed of the air is 180 km/h over the lower wing and 234 km/h over the upper wing surface, determine the plane’s mass. (Take air density to be 1 kg m–3).",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The area of the wings of the plane, A = 2 × 25 = 50 m². Speed of air over the lower wing, V = 180 km/h = 50 m/s. Speed of air over the upper wing, V = 234 km/h = 65 m/s. Density of air, ρ = 1 kg m–3. The upward force on the plane can be obtained using Bernoulli’s equation.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the total area of the wings.",
+        "expression": "A = 2 \\times 25 = 50 \\text{ m}^2"
+      },
+      {
+        "step_number": 2,
+        "description": "Convert the speed of air over the lower wing from km/h to m/s.",
+        "expression": "V = 180 \\text{ km/h} = 50 \\text{ m/s}"
+      },
+      {
+        "step_number": 3,
+        "description": "Convert the speed of air over the upper wing from km/h to m/s.",
+        "expression": "V = 234 \\text{ km/h} = 65 \\text{ m/s}"
+      },
+      {
+        "step_number": 4,
+        "description": "Use Bernoulli’s equation to find the upward force on the plane.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the mass of the plane can be determined using the upward force calculated from Bernoulli’s equation.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the calculation of flow rate and average velocity of blood.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777751281/ncert/physics/10/img_27_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps of calculation and application of Bernoulli’s principle.",
+    "topics_tags": [
+      "Bernoulli's Equation",
+      "Fluid Dynamics",
+      "Air Density"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the calculation of flow rate and average velocity of blood.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777751281/ncert/physics/10/img_27_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      },
+      {
+        "present": true,
+        "description": "Mathematical calculations for flow rate.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777751282/ncert/physics/10/img_27_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q10.28",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 10,
+    "chapter_name": "Mechanical Properties of Fluids",
+    "question_type": "numerical",
+    "question_text": "Mercury has an angle of contact equal to 140° with soda lime glass. A narrow tube of radius 1.00 mm made of this glass is dipped in a trough containing mercury. By what amount does the mercury dip down in the tube relative to the liquid surface outside?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of capillary action and application of relevant formulas.",
+    "topics_tags": [
+      "Capillary Action",
+      "Mercury",
+      "Fluid Mechanics"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q10.29",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 10,
+    "chapter_name": "Mechanical Properties of Fluids",
+    "question_type": "mcq",
+    "question_text": "Two narrow bores of diameters 3.0 mm and 6.0 mm are joined together to form a U-tube open at both ends. If the U-tube contains water, what is the difference in its levels in the two limbs of the tube?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing a U-tube with water levels in two different diameters.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777751333/ncert/physics/10/img_30_0.png",
+      "latex_extracted": "\\begin{array}{c}{{\\therefore h={\\frac{2.5\\cos\\theta}{r\\beta\\mathrm{g}}}}}\\\\ {{\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad{\\qquad{\\qquad{\\qquad}}}\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad{\\qquad{\\qquad{\\qquad{\\qquad{\\qquad{\\qquad{\\qquad{\\qquad}}}}{\\qquad{\\qquad{\\qquad{\\qquad{\\qquad{\\qquad}}}{\\qquad{\\qquad{\\qquad{\\qquad{\\qquad{\\qquad}}}}\\times\\ddots\\times_{\\times{\\sqrt{3}}}}}\\times{\\sqrt{3}}}}\\times{\\sqrt{3}}}\\times{\\sqrt{3}}}\\times{\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad{\\qquad{{\\qquad{\\qquad{\\qquad}}}}}\\qquad{\\qquad{\\qquad{\\qquad{\\qquad{{\\qquad{\\qquad}}}}{\\qquad{\\qquad{\\qquad{\\qquad{\\qquad{\\qquad}}}}{\\qquad{\\qquad{\\qquad{\\qquad{\\qquad{\\qquad{\\qquad{\\qquad}}}}}{{{\\qquad{\\qquad{{\\qquad{\\qquad{\\qquad}}}}}}{\\qquad{\\qquad{\\qquad{\\qquad{\\qquad{\\times{\\qquad{{\\qquad{\\qquad{\\qquad{\\qquad{\\qquad{\\qquad{\\qquad{\\qquad{\\qquad{\\",
+      "source_page_number": 30,
+      "source_image_index": 0,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding fluid mechanics and applying the principles to calculate height difference.",
+    "topics_tags": [
+      "U-tube",
+      "Fluid Mechanics",
+      "Surface Tension"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing",
+      "text garbled in extraction"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing a U-tube with water levels in two different diameters.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777751333/ncert/physics/10/img_30_0.png",
+        "latex_extracted": "\\begin{array}{c}{{\\therefore h={\\frac{2.5\\cos\\theta}{r\\beta\\mathrm{g}}}}}\\\\ {{\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad{\\qquad{\\qquad{\\qquad}}}\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad{\\qquad{\\qquad{\\qquad{\\qquad{\\qquad{\\qquad{\\qquad{\\qquad}}}}{\\qquad{\\qquad{\\qquad{\\qquad{\\qquad{\\qquad}}}{\\qquad{\\qquad{\\qquad{\\qquad{\\qquad{\\qquad}}}}\\times\\ddots\\times_{\\times{\\sqrt{3}}}}}\\times{\\sqrt{3}}}}\\times{\\sqrt{3}}}\\times{\\sqrt{3}}}\\times{\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad{\\qquad{{\\qquad{\\qquad{\\qquad}}}}}\\qquad{\\qquad{\\qquad{\\qquad{\\qquad{{\\qquad{\\qquad}}}}{\\qquad{\\qquad{\\qquad{\\qquad{\\qquad{\\qquad}}}}{\\qquad{\\qquad{\\qquad{\\qquad{\\qquad{\\qquad{\\qquad{\\qquad}}}}}{{{\\qquad{\\qquad{{\\qquad{\\qquad{\\qquad}}}}}}{\\qquad{\\qquad{\\qquad{\\qquad{\\qquad{\\times{\\qquad{{\\qquad{\\qquad{\\qquad{\\qquad{\\qquad{\\qquad{\\qquad{\\qquad{\\qquad{\\",
+        "source_page_number": 30,
+        "source_image_index": 0,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q10.30",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 10,
+    "chapter_name": "Mechanical Properties of Fluids",
+    "question_type": "numerical",
+    "question_text": "A large He balloon of volume 1425 m³ is used to lift a payload of 400 kg. Assume that the balloon maintains constant radius as it rises. How high does it rise? [Take y = 8000 m and ρ = 0.18 kg m–3].",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The height to which the balloon rises can be calculated using the buoyancy principle.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the volume of the balloon and the mass of the payload.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Apply the buoyancy principle to find the height.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the height to which the balloon rises can be determined using the given parameters.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of the density variation with height.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777751348/ncert/physics/10/img_32_1.png",
+      "latex_extracted": "\\scriptstyle{\\frac{-2\\cos\\theta}{r\\rho_{\\mathrm{{N}}}}}-{\\frac{2\\cdot\\cos\\theta}{r\\rho_{\\mathrm{{N}}}}}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding buoyancy and applying it to find height.",
+    "topics_tags": [
+      "Buoyancy",
+      "Helium Balloon",
+      "Fluid Mechanics"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "Some text garbling in the question extraction."
+    ],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the density variation with height.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777751348/ncert/physics/10/img_32_1.png",
+        "latex_extracted": "\\scriptstyle{\\frac{-2\\cos\\theta}{r\\rho_{\\mathrm{{N}}}}}-{\\frac{2\\cdot\\cos\\theta}{r\\rho_{\\mathrm{{N}}}}}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q10.31",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 10,
+    "chapter_name": "Mechanical Properties of Fluids",
+    "question_type": "conceptual",
+    "question_text": "(b)",
+    "question_latex": "\\begin{array}{r l}{\\Gamma_{\\ast\\times\\left(\\pm\\right)\\ast}}&{{}\\qquad}\\\\ {\\ast\\left\\ast\\right\\begin{array}{l}{\\zeta}\\\\ {\\ast\\right\\rbrace\\displaystyle=\\nu}\\\\ {\\ast\\uparrow_{\\infty}^{\\ast\\ast}}\\\\ {\\zeta_{\\pm\\dots}^{\\ast\\ast}}\\\\ {\\ast\\uparrow}&{\\qquad\\qquad}\\\\ {\\l_{\\dots\\dots}}\\\\ {\\l_{\\dots\\dots}^{\\ast\\ast}}\\\\ {\\l_{\\pm\\dots\\dots}}\\\\ {\\l}&{\\quad\\quad{\\boldsymbol{\\omega}}^{\\prime\\ast\\dots}}\\\\ {\\l=\\ w\\dots\\ w\\dots\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\right)}\\right\\}}\\end{array}",
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation related to fluid mechanics.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777751367/ncert/physics/10/img_34_0.png",
+      "latex_extracted": "\\begin{array}{r l}{\\Gamma_{\\ast\\times\\left(\\pm\\right)\\ast}}&{{}\\qquad}\\\\ {\\ast\\left\\ast\\right\\begin{array}{l}{\\zeta}\\\\ {\\ast\\right\\rbrace\\displaystyle=\\nu}\\\\ {\\ast\\uparrow_{\\infty}^{\\ast\\ast}}\\\\ {\\zeta_{\\pm\\dots}^{\\ast\\ast}}\\\\ {\\ast\\uparrow}&{\\qquad\\qquad}\\\\ {\\l_{\\dots\\dots}}\\\\ {\\l_{\\dots\\dots}^{\\ast\\ast}}\\\\ {\\l_{\\pm\\dots\\dots}}\\\\ {\\l}&{\\quad\\quad{\\boldsymbol{\\omega}}^{\\prime\\ast\\dots}}\\\\ {\\l=\\ w\\dots\\ w\\dots\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\right)}\\right\\}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Hence, the balloon will rise to a height of 8 km.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the balloon will rise to a height of 8 km.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation related to the height of the balloon.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777751372/ncert/physics/10/img_35_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of buoyancy and height calculation.",
+    "topics_tags": [
+      "Buoyancy",
+      "Fluid Mechanics",
+      "Height Calculation"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "mixed_or_weak_context"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation related to fluid mechanics.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777751367/ncert/physics/10/img_34_0.png",
+        "latex_extracted": "\\begin{array}{r l}{\\Gamma_{\\ast\\times\\left(\\pm\\right)\\ast}}&{{}\\qquad}\\\\ {\\ast\\left\\ast\\right\\begin{array}{l}{\\zeta}\\\\ {\\ast\\right\\rbrace\\displaystyle=\\nu}\\\\ {\\ast\\uparrow_{\\infty}^{\\ast\\ast}}\\\\ {\\zeta_{\\pm\\dots}^{\\ast\\ast}}\\\\ {\\ast\\uparrow}&{\\qquad\\qquad}\\\\ {\\l_{\\dots\\dots}}\\\\ {\\l_{\\dots\\dots}^{\\ast\\ast}}\\\\ {\\l_{\\pm\\dots\\dots}}\\\\ {\\l}&{\\quad\\quad{\\boldsymbol{\\omega}}^{\\prime\\ast\\dots}}\\\\ {\\l=\\ w\\dots\\ w\\dots\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\ w\\right)}\\right\\}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation related to the height of the balloon.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777751372/ncert/physics/10/img_35_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  }
+]

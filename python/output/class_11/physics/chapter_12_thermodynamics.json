@@ -1,0 +1,671 @@
+[
+  {
+    "question_id": "Q12.1",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 12,
+    "chapter_name": "thermodynamics",
+    "question_type": "mcq",
+    "question_text": "A geyser heats water flowing at the rate of 3.0 litres per minute from 27 °C to 77 °C. If the geyser operates on a gas burner, what is the rate of consumption of the fuel if its heat of combustion is 4.0 × 10^4 J/g?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The rate of consumption of the fuel is 15.75 g/min.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the rise in temperature.",
+        "expression": "ΔT = 77 - 27 = 50 °C"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the mass of water flowing per minute.",
+        "expression": "m = 3.0 \text{ litres/min} = 3000 \text{ g/min}"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the total heat used.",
+        "expression": "ΔQ = mcΔT = 3000 \times 4.22 \times 50 = 6.3 \times 10^5 \text{ J/min}"
+      },
+      {
+        "step_number": 4,
+        "description": "Calculate the rate of consumption of the fuel.",
+        "expression": "Rate = \frac{ΔQ}{\text{Heat of combustion}} = \frac{6.3 \times 10^5}{4.0 \times 10^4} = 15.75 \text{ g/min}"
+      }
+    ],
+    "final_answer": "Therefore, the rate of consumption of the fuel is 15.75 g/min.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations and understanding of heat transfer.",
+    "topics_tags": [
+      "Thermodynamics",
+      "Heat Transfer",
+      "Gas Burner"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.2",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 12,
+    "chapter_name": "thermodynamics",
+    "question_type": "numerical",
+    "question_text": "What amount of heat must be supplied to 2.0 × 10–2 kg of nitrogen (at room temperature) to raise its temperature by 45 °C at constant pressure?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The amount of heat to be supplied is 933.38 J.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Convert mass of nitrogen to grams.",
+        "expression": "m = 2.0 \times 10^{-2} \text{ kg} = 20 \text{ g}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the number of moles of nitrogen.",
+        "expression": "n = \frac{m}{M} = \frac{20}{28} = 0.714 \text{ moles}"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the total amount of heat to be supplied.",
+        "expression": "ΔQ = nCΔT = 0.714 \times 29.05 \times 45 = 933.38 \text{ J}"
+      }
+    ],
+    "final_answer": "Therefore, the amount of heat to be supplied is 933.38 J.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of specific heat and basic calculations.",
+    "topics_tags": [
+      "Heat Transfer",
+      "Specific Heat",
+      "Thermodynamics"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.3",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 12,
+    "chapter_name": "thermodynamics",
+    "question_type": "conceptual",
+    "question_text": "Explain why two bodies at different temperatures T1 and T2, if brought in thermal contact, do not necessarily settle to the mean temperature (T1 + T2)/2.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Heat flows from the body at the higher temperature to the body at the lower temperature until equilibrium is achieved, which is only equal to the mean temperature when the thermal capacities of both bodies are equal.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the equilibrium temperature is equal to the mean temperature only when the thermal capacities are equal.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves understanding of thermal equilibrium and heat transfer.",
+    "topics_tags": [
+      "Thermal Equilibrium",
+      "Heat Transfer",
+      "Temperature"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.4",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 12,
+    "chapter_name": "thermodynamics",
+    "question_type": "mcq",
+    "question_text": "In changing the state of a gas adiabatically from an equilibrium state A to another equilibrium state B, an amount of work equal to 22.3 J is done on the system. If the gas is taken from state A to B via a process in which the net heat absorbed by the system is 9.35 cal, how much is the net work done by the system in the latter case? (Take 1 cal = 4.19 J)",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, 16.88 J of work is done by the system.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the heat absorbed in Joules.",
+        "expression": "ΔQ = 9.35 \\text{ cal} \\times 4.19 \\text{ J/cal} = 39.1765 \\text{ J}"
+      },
+      {
+        "step_number": 2,
+        "description": "Use the first law of thermodynamics to find the net work done.",
+        "expression": "ΔW = ΔQ - ΔU = 39.1765 - 22.3"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the final work done by the system.",
+        "expression": "ΔW = 16.8765 \\text{ J}"
+      }
+    ],
+    "final_answer": "Therefore, 16.88 J of work is done by the system.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of the adiabatic process relating pressure and volume.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754126/ncert/physics/12/img_4_0.png",
+      "latex_extracted": "\\left.P_{1}\\left(V_{1}\\right)^{\\gamma}=P_{2}\\left({\\frac{V_{1}}{2}}\\right)^{\\gamma}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps of calculation and application of thermodynamic principles.",
+    "topics_tags": [
+      "Adiabatic Process",
+      "Work Done",
+      "Thermodynamics"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the adiabatic process relating pressure and volume.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754126/ncert/physics/12/img_4_0.png",
+        "latex_extracted": "\\left.P_{1}\\left(V_{1}\\right)^{\\gamma}=P_{2}\\left({\\frac{V_{1}}{2}}\\right)^{\\gamma}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q12.5",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 12,
+    "chapter_name": "thermodynamics",
+    "question_type": "conceptual",
+    "question_text": "What is the final pressure of the gas in A and B? What is the change in internal energy of the gas? What is the change in the temperature of the gas? Do the intermediate states of the system (before settling to the final equilibrium state) lie on its P-V-T surface?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "What is the final pressure of the gas in A and B?",
+        "part_latex": null,
+        "answer_text": "0.5 atm",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "The pressure in each cylinder will be 0.5 atm.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "What is the change in internal energy of the gas?",
+        "part_latex": null,
+        "answer_text": "Zero",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "The internal energy of the gas will not change.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "What is the change in the temperature of the gas?",
+        "part_latex": null,
+        "answer_text": "Zero",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "The temperature of the gas will not change at all.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(d)",
+        "part_text": "Do the intermediate states of the system (before settling to the final equilibrium state) lie on its P-V-T surface?",
+        "part_latex": null,
+        "answer_text": "No",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "The intermediate states do not lie on the P-V-T surface of the system.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of gas laws and thermodynamic principles.",
+    "topics_tags": [
+      "Pressure",
+      "Internal Energy",
+      "Temperature Change",
+      "P-V-T Surface"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.6",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 12,
+    "chapter_name": "thermodynamics",
+    "question_type": "numerical",
+    "question_text": "What is the efficiency of the engine? How much heat is wasted per minute?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The percentage efficiency of the engine is 15%. The amount of heat wasted per minute is 3.06 × 10^9 J.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate efficiency using the formula: Efficiency = (Work done / Heat supplied) × 100.",
+        "expression": "Efficiency = (5.4 × 10^8 / 3.6 × 10^9) × 100"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the amount of heat wasted using the formula: Heat wasted = Heat supplied - Work done.",
+        "expression": "Heat wasted = 3.6 × 10^9 - 5.4 × 10^8"
+      }
+    ],
+    "final_answer": "Therefore, the amount of heat wasted per minute is 3.06 × 10^9 J.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of efficiency calculation and basic arithmetic.",
+    "topics_tags": [
+      "Efficiency",
+      "Heat Transfer",
+      "Thermodynamics"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.7",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 12,
+    "chapter_name": "thermodynamics",
+    "question_type": "numerical",
+    "question_text": "At what rate is the internal energy increasing?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The internal energy of the given electric heater increases at a rate of 25 W.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the heat supplied to the system and the work done by the system.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Apply the first law of thermodynamics: Q = U + W.",
+        "expression": "U = Q - W"
+      },
+      {
+        "step_number": 3,
+        "description": "Substitute the values to find the internal energy increase.",
+        "expression": "U = 100 - 75 = 25"
+      }
+    ],
+    "final_answer": "Therefore, the internal energy increases at a rate of 25 W.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic application of the first law of thermodynamics.",
+    "topics_tags": [
+      "Internal Energy",
+      "First Law of Thermodynamics",
+      "Heat Transfer"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.8",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 12,
+    "chapter_name": "thermodynamics",
+    "question_type": "numerical",
+    "question_text": "Calculate the total work done by the gas from D to E to F.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the thermodynamic process from D to E to F.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754131/ncert/physics/12/img_8_0.png",
+      "latex_extracted": "\\left.\\begin{array}{c}{{\\mathbf{\\Lambda}}}\\\\ {{\\frac{\\xi}{\\xi}}}\\\\ {{\\frac{\\xi}{\\xi}}}\\\\ {{\\frac{\\xi}{\\xi}}\\end{array}\\right\\}_{\\begin{array}{l}{{\\frac{\\xi}{\\xi}}}\\\\ {{\\frac{\\xi}{\\xi}}}\\end{array}}\\right\\vert_{\\begin{array}{l}{{\\hat{\\imath}}}\\\\ {{\\frac{\\xi}{\\xi}}}\\\\ {{\\frac{\\xi}{\\xi}}\\end{array}}}\\\\ {{\\frac{\\gamma}{\\xi}}\\sum_{\\hat{\\imath}}}\\\\ {{\\frac{\\xi}{\\xi_{0}}\\xi_{0}\\theta}\\end{array}}}\\end{array}\\right.",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The total work done by the gas from D to E to F is 450 J.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the change in pressure and volume.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the area of triangle DEF to find the work done.",
+        "expression": "Area = 0.5 × base × height"
+      },
+      {
+        "step_number": 3,
+        "description": "Substitute the values to find the total work done.",
+        "expression": "Total work = 450 J"
+      }
+    ],
+    "final_answer": "Therefore, the total work done by the gas from D to E to F is 450 J.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps to calculate work done using geometric interpretation.",
+    "topics_tags": [
+      "Work Done",
+      "Thermodynamic Processes",
+      "Gas Laws"
+    ],
+    "confidence_score": 0.94,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the thermodynamic process from D to E to F.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754131/ncert/physics/12/img_8_0.png",
+        "latex_extracted": "\\left.\\begin{array}{c}{{\\mathbf{\\Lambda}}}\\\\ {{\\frac{\\xi}{\\xi}}}\\\\ {{\\frac{\\xi}{\\xi}}}\\\\ {{\\frac{\\xi}{\\xi}}\\end{array}\\right\\}_{\\begin{array}{l}{{\\frac{\\xi}{\\xi}}}\\\\ {{\\frac{\\xi}{\\xi}}}\\end{array}}\\right\\vert_{\\begin{array}{l}{{\\hat{\\imath}}}\\\\ {{\\frac{\\xi}{\\xi}}}\\\\ {{\\frac{\\xi}{\\xi}}\\end{array}}}\\\\ {{\\frac{\\gamma}{\\xi}}\\sum_{\\hat{\\imath}}}\\\\ {{\\frac{\\xi}{\\xi_{0}}\\xi_{0}\\theta}\\end{array}}}\\end{array}\\right.",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.9",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 12,
+    "chapter_name": "Thermodynamics",
+    "question_type": "numerical",
+    "question_text": "Calculate the coefficient of performance of the given refrigerator.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, the coefficient of performance of the given refrigerator is 10.44.",
+    "answer_latex": "COP = 10.44",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the values used in the calculation.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Perform the calculation to find the coefficient of performance.",
+        "expression": "COP = \frac{282}{309 - 282}"
+      }
+    ],
+    "final_answer": "Thus, the coefficient of performance is 10.44.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical calculation showing the steps to find the coefficient of performance.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754136/ncert/physics/12/img_10_0.png",
+      "latex_extracted": "\\begin{array}{c}{{282}}\\\\ {{309-282}}\\\\ {{=10.44}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of the coefficient of performance and basic calculation.",
+    "topics_tags": [
+      "Coefficient of Performance",
+      "Refrigeration",
+      "Thermodynamics"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical calculation showing the steps to find the coefficient of performance.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777754136/ncert/physics/12/img_10_0.png",
+        "latex_extracted": "\\begin{array}{c}{{282}}\\\\ {{309-282}}\\\\ {{=10.44}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  }
+]

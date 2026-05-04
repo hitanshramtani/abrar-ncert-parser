@@ -1,0 +1,2999 @@
+[
+  {
+    "question_id": "Q11.1",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "three dimensional geometry",
+    "question_type": "numerical",
+    "question_text": "If a line makes angles 90°, 135°, 45° with x, y and z-axes respectively, find its direction cosines.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The direction cosines of the line are determined using the angles given.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the angles made with the axes.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the direction cosines using the cosine of the angles.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the direction cosines are calculated based on the angles provided.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram related to direction cosines of a line making specific angles with axes.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827530/ncert/maths/11/img_1_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of direction cosines and basic trigonometry.",
+    "topics_tags": [
+      "Direction Cosines",
+      "Three Dimensional Geometry",
+      "Trigonometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram related to direction cosines of a line making specific angles with axes.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827530/ncert/maths/11/img_1_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q11.2",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "three dimensional geometry",
+    "question_type": "numerical",
+    "question_text": "Find the direction cosines of a line which makes equal angles with the coordinate axes.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Let the direction cosines of the line make an angle α with each of the coordinate axes.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Assume the direction cosines are equal, l = m = n = cos(α).",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the property of direction cosines to find their values.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the direction cosines are equal and can be expressed as cos(α).",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves understanding of equal angles and direction cosines.",
+    "topics_tags": [
+      "Direction Cosines",
+      "Equal Angles",
+      "Three Dimensional Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.3",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "three dimensional geometry",
+    "question_type": "numerical",
+    "question_text": "If a line has the direction ratios −18, 12, −4, then what are its direction cosines?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The direction cosines can be calculated from the given direction ratios.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the direction ratios: l = -18, m = 12, n = -4.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the magnitude of the direction ratios.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Divide each direction ratio by the magnitude to find direction cosines.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the direction cosines are obtained from the direction ratios.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram related to direction ratios of a line.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827533/ncert/maths/11/img_2_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves calculation of direction cosines from direction ratios.",
+    "topics_tags": [
+      "Direction Ratios",
+      "Direction Cosines",
+      "Three Dimensional Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram related to direction ratios of a line.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827533/ncert/maths/11/img_2_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q11.4",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "three dimensional geometry",
+    "question_type": "mcq",
+    "question_text": "Show that the points (2, 3, 4), (−1, −2, 1), (5, 8, 7) are collinear.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The points are collinear if the direction ratios of the lines joining them are proportional.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate direction ratios of AB and BC.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Check if the direction ratios are proportional.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, the points A, B, and C are collinear.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of collinearity and direction ratios.",
+    "topics_tags": [
+      "Collinearity",
+      "Direction Ratios",
+      "Three Dimensional Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.5",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "three dimensional geometry",
+    "question_type": "mcq",
+    "question_text": "Find the direction cosines of the sides of the triangle whose vertices are (3, 5, − 4), (−1, 1, 2) and (−5, −5, −2).",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to the triangle formed by the given vertices.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827540/ncert/maths/11/img_3_4.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The direction cosines can be calculated from the direction ratios of the triangle's sides.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the vertices of the triangle.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate direction ratios for each side of the triangle.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Find direction cosines from the direction ratios.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the direction cosines of the sides of the triangle are determined.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations for direction cosines from vertices.",
+    "topics_tags": [
+      "Triangle",
+      "Direction Cosines",
+      "Three Dimensional Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the triangle formed by the given vertices.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827540/ncert/maths/11/img_3_4.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.6",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "three dimensional geometry",
+    "question_type": "conceptual",
+    "question_text": "Show that the three lines with direction cosines are mutually perpendicular.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image related to the question about direction cosines.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827545/ncert/maths/11/img_5_2.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Therefore, the lines are perpendicular. Thus, all the lines are mutually perpendicular.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Check the condition for perpendicularity using direction cosines.",
+        "expression": "l_1 l_2 + m_1 m_2 + n_1 n_2 = 0"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values of direction cosines for each pair of lines.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, all the lines are mutually perpendicular.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of direction cosines and their properties.",
+    "topics_tags": [
+      "Direction Cosines",
+      "Perpendicular Lines",
+      "Three Dimensional Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image related to the question about direction cosines.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827545/ncert/maths/11/img_5_2.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.7",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "three dimensional geometry",
+    "question_type": "mcq",
+    "question_text": "Show that the line through the points (1, −1, 2) and (3, 4, −2) is perpendicular to the line through the points (0, 3, 2) and (3, 5, 6).",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, AB and CD are perpendicular to each other.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the direction ratios of line AB.",
+        "expression": "(3 - 1, 4 - (-1), -2 - 2) = (2, 5, -4)"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the direction ratios of line CD.",
+        "expression": "(3 - 0, 5 - 3, 6 - 2) = (3, 2, 4)"
+      },
+      {
+        "step_number": 3,
+        "description": "Check the condition for perpendicularity.",
+        "expression": "2 * 3 + 5 * 2 + (-4) * 4 = 0"
+      }
+    ],
+    "final_answer": "Therefore, AB and CD are perpendicular to each other.",
+    "answer_image": {
+      "present": true,
+      "description": "Image related to the question about lines through given points.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827548/ncert/maths/11/img_6_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves calculation of direction ratios and checking perpendicularity.",
+    "topics_tags": [
+      "Direction Ratios",
+      "Perpendicular Lines",
+      "Three Dimensional Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image related to the question about lines through given points.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827548/ncert/maths/11/img_6_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q11.8",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "three dimensional geometry",
+    "question_type": "conceptual",
+    "question_text": "Find the equation of the line which passes through the point (1, 2, 3) and is parallel to the vector.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "An image related to the concept of parallel lines in three-dimensional geometry.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827551/ncert/maths/11/img_7_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The required equation of the line is given by the position vector through A and the direction vector.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the position vector through point A (1, 2, 3).",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the direction vector to formulate the equation of the line.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the equation of the line is established using the position vector and direction vector.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of vector equations and basic geometry.",
+    "topics_tags": [
+      "Vector Equation",
+      "Three Dimensional Geometry",
+      "Line Equation"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "An image related to the concept of parallel lines in three-dimensional geometry.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827551/ncert/maths/11/img_7_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.9",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "three dimensional geometry",
+    "question_type": "mcq",
+    "question_text": "Find the vector and the Cartesian equations of the line that passes through the points (3,−2,−5), (3,−2,6).",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image showing the context of the question regarding the line equations.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827559/ncert/maths/11/img_10_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The vector equation of the line PQ is given by the position vector of point P and the direction ratios derived from points P and Q.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the position vector of point P.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the direction ratios of the line PQ.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Write the vector equation of the line PQ.",
+        "expression": null
+      },
+      {
+        "step_number": 4,
+        "description": "Convert the vector equation to Cartesian form.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the vector and Cartesian equations of the line are established.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of vector equations and conversion to Cartesian form.",
+    "topics_tags": [
+      "Vector Equation",
+      "Cartesian Equation",
+      "Three Dimensional Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image showing the context of the question regarding the line equations.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827559/ncert/maths/11/img_10_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.10",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "three dimensional geometry",
+    "question_type": "conceptual",
+    "question_text": "Find the angle between the following pairs of lines: (i) and (ii).",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The angle between the given pairs of lines is calculated using the formula involving the direction ratios of the lines.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the direction ratios of the given lines.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the formula for the angle between two lines based on their direction ratios.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, the angle between the lines can be determined using the derived formula.",
+    "answer_image": {
+      "present": true,
+      "description": "Image showing the context of the question regarding the angle between lines.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827562/ncert/maths/11/img_11_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of angles between lines and application of relevant formulas.",
+    "topics_tags": [
+      "Angle Between Lines",
+      "Direction Ratios",
+      "Three Dimensional Geometry"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image showing the context of the question regarding the angle between lines.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827562/ncert/maths/11/img_11_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q11.13",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "three dimensional geometry",
+    "question_type": "conceptual",
+    "question_text": "Find the values of p so the line and are at right angles.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image showing context related to the question about lines and angles.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827573/ncert/maths/11/img_14_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The given equations can be written in the standard form as and. The direction ratios of the lines are −3, , 2 and respectively.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the direction ratios of the lines.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the condition for perpendicular lines.",
+        "expression": "a_1 a_2 + b_1 b_2 + c_1 c_2 = 0"
+      }
+    ],
+    "final_answer": "Thus, the value of p is determined by the condition for perpendicularity.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of direction ratios and conditions for perpendicular lines.",
+    "topics_tags": [
+      "Three Dimensional Geometry",
+      "Perpendicular Lines",
+      "Direction Ratios"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "Incomplete context for the equations of the lines."
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image showing context related to the question about lines and angles.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827573/ncert/maths/11/img_14_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.14",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "three dimensional geometry",
+    "question_type": "conceptual",
+    "question_text": "Show that the lines and are perpendicular to each other.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image showing context related to the question about lines and their perpendicularity.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827580/ncert/maths/11/img_15_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The direction ratios of the given lines are 7, −5, 1 and 1, 2, 3 respectively. Two lines with direction ratios are perpendicular if their dot product is zero.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the direction ratios of the lines.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the dot product of the direction ratios.",
+        "expression": "7 \\times 1 + (-5) \\times 2 + 1 \\times 3"
+      },
+      {
+        "step_number": 3,
+        "description": "Show that the dot product equals zero.",
+        "expression": "7 - 10 + 3 = 0"
+      }
+    ],
+    "final_answer": "Therefore, the given lines are perpendicular to each other.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic calculations and understanding of perpendicular lines.",
+    "topics_tags": [
+      "Three Dimensional Geometry",
+      "Perpendicular Lines",
+      "Direction Ratios"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image showing context related to the question about lines and their perpendicularity.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827580/ncert/maths/11/img_15_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.15",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "three dimensional geometry",
+    "question_type": "conceptual",
+    "question_text": "Find the shortest distance between the lines and.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, the shortest distance between the two lines is units.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the shortest distance between the two lines is units.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram related to the shortest distance between two lines in three-dimensional space.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827588/ncert/maths/11/img_17_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of the concept of shortest distance between lines in 3D.",
+    "topics_tags": [
+      "Three Dimensional Geometry",
+      "Shortest Distance",
+      "Lines"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the shortest distance between two lines in three-dimensional space.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827588/ncert/maths/11/img_17_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      },
+      {
+        "present": true,
+        "description": "Answer showing the shortest distance between the two lines.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827590/ncert/maths/11/img_17_2.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q11.16",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "three dimensional geometry",
+    "question_type": "conceptual",
+    "question_text": "Find the shortest distance between the lines whose vector equations are.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to the shortest distance between two lines in three-dimensional space.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827591/ncert/maths/11/img_18_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Since distance is always non-negative, the distance between the given lines is units.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the distance between the given lines is non-negative units.",
+    "answer_image": {
+      "present": true,
+      "description": "Answer showing the distance between the given lines.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827595/ncert/maths/11/img_18_4.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of the concept of shortest distance between lines in 3D.",
+    "topics_tags": [
+      "Three Dimensional Geometry",
+      "Shortest Distance",
+      "Lines"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the shortest distance between two lines in three-dimensional space.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827591/ncert/maths/11/img_18_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Answer showing the distance between the given lines.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827595/ncert/maths/11/img_18_4.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q11.17",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "three dimensional geometry",
+    "question_type": "conceptual",
+    "question_text": "Find the shortest distance between the lines whose vector equations are.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image showing vector equations of lines for finding shortest distance.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827595/ncert/maths/11/img_19_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The shortest distance between the two given lines is calculated using the appropriate formula.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the vector equations of the lines.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values into the formula for shortest distance.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, the shortest distance between the two given lines is calculated.",
+    "answer_image": {
+      "present": true,
+      "description": "Images showing calculations for the shortest distance between lines.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827596/ncert/maths/11/img_19_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of vector equations and application of distance formula.",
+    "topics_tags": [
+      "Three Dimensional Geometry",
+      "Vector Equations",
+      "Shortest Distance"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image showing vector equations of lines for finding shortest distance.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827595/ncert/maths/11/img_19_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Images showing calculations for the shortest distance between lines.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827596/ncert/maths/11/img_19_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q11.18",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "three dimensional geometry",
+    "question_type": "conceptual",
+    "question_text": "Find the vector equation of a plane which is at a distance of 7 units from the origin and normal to the vector.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The normal vector is given, and the equation of the plane with position vector is provided.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "This is the vector equation of the required plane.",
+    "answer_image": {
+      "present": true,
+      "description": "Image showing the normal vector and the equation of the plane.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827612/ncert/maths/11/img_23_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of vector equations and basic application.",
+    "topics_tags": [
+      "Vector Equation",
+      "Plane",
+      "Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image showing the normal vector and the equation of the plane.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827612/ncert/maths/11/img_23_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q11.19",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "three dimensional geometry",
+    "question_type": "mcq",
+    "question_text": "Find the Cartesian equation of the following planes: (a) (b) (c)",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image showing the Cartesian equations of the planes.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827613/ncert/maths/11/img_23_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The Cartesian equations of the planes are derived from the given equations.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "This is the Cartesian equation of the given plane.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves deriving equations from given conditions.",
+    "topics_tags": [
+      "Cartesian Equation",
+      "Planes",
+      "Geometry"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image showing the Cartesian equations of the planes.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827613/ncert/maths/11/img_23_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.20",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "three dimensional geometry",
+    "question_type": "conceptual",
+    "question_text": "In the following cases, find the coordinates of the foot of the perpendicular drawn from the origin.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image showing the coordinates of the foot of the perpendicular.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827616/ncert/maths/11/img_24_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Let the coordinates of the foot of perpendicular P from the origin to the plane be (x1, y1, z1).",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "The coordinates of the foot of the perpendicular can be determined from the given planes.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of geometry and application of concepts.",
+    "topics_tags": [
+      "Foot of Perpendicular",
+      "Coordinates",
+      "Geometry"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image showing the coordinates of the foot of the perpendicular.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827616/ncert/maths/11/img_24_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.21",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "three dimensional geometry",
+    "question_type": "mcq",
+    "question_text": "Find the vector and Cartesian equation of the planes (a) that passes through the point (1, 0, −2) and the normal to the plane is . (b) that passes through the point (1, 4, 6) and the normal vector to the plane is .",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "that passes through the point (1, 0, −2) and the normal to the plane is ."
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "that passes through the point (1, 4, 6) and the normal vector to the plane is ."
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to three-dimensional geometry, possibly showing planes or vectors.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827624/ncert/maths/11/img_27_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Find the vector and Cartesian equation of the plane that passes through the point (1, 0, −2) and the normal to the plane is .",
+        "part_latex": null,
+        "answer_text": "The position vector of point (1, 0, −2) is given, and the normal vector perpendicular to the plane is used to find the vector equation of the plane.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the position vector of the point (1, 0, -2).",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Use the normal vector to formulate the vector equation of the plane.",
+            "expression": null
+          }
+        ],
+        "final_answer": "The vector equation of the plane can be expressed using the position vector and the normal vector.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Find the vector and Cartesian equation of the plane that passes through the point (1, 4, 6) and the normal vector to the plane is .",
+        "part_latex": null,
+        "answer_text": "The position vector of point (1, 4, 6) is given, and the normal vector perpendicular to the plane is used to find the vector equation of the plane.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the position vector of the point (1, 4, 6).",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Use the normal vector to formulate the vector equation of the plane.",
+            "expression": null
+          }
+        ],
+        "final_answer": "The vector equation of the plane can be expressed using the position vector and the normal vector.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of vector equations and normal vectors in three-dimensional geometry.",
+    "topics_tags": [
+      "Vector Equation",
+      "Cartesian Equation",
+      "Three-Dimensional Geometry"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "Incomplete normal vector information provided."
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to three-dimensional geometry, possibly showing planes or vectors.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827624/ncert/maths/11/img_27_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.22",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "three dimensional geometry",
+    "question_type": "mcq",
+    "question_text": "Find the equations of the planes that passes through three points.\n(a) (1, 1, −1), (6, 4, −5), (−4, −2, 3)\n(b) (1, 1, 0), (1, 2, 1), (−2, 2, −1)",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "(1, 1, −1), (6, 4, −5), (−4, −2, 3)"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "(1, 1, 0), (1, 2, 1), (−2, 2, −1)"
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image related to the Cartesian equation of the required plane.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827627/ncert/maths/11/img_28_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "The given points are A (1, 1, −1), B (6, 4, −5), and C (−4, −2, 3).",
+        "part_latex": null,
+        "answer_text": "The points A, B, and C are used to find the equation of the plane.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the points A, B, and C.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Use the formula for the equation of a plane through three points.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, the equation of the plane can be derived from the points A, B, and C.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "The given points are A (1, 1, 0), B (1, 2, 1), and C (−2, 2, −1).",
+        "part_latex": null,
+        "answer_text": "A plane will pass through the points A, B, and C.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the points A, B, and C.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Use the formula for the equation of a plane through three points.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, the equation of the plane can be derived from the points A, B, and C.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of the geometric concept and application of the plane equation.",
+    "topics_tags": [
+      "Three Dimensional Geometry",
+      "Plane Equation",
+      "Collinear Points"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image related to the Cartesian equation of the required plane.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827627/ncert/maths/11/img_28_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.23",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "three dimensional geometry",
+    "question_type": "conceptual",
+    "question_text": "Find the intercepts cut off by the plane.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image related to the intercepts cut off by the plane.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827631/ncert/maths/11/img_29_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of intercepts in three-dimensional geometry.",
+    "topics_tags": [
+      "Intercepts",
+      "Plane Equation",
+      "Three Dimensional Geometry"
+    ],
+    "confidence_score": 0.8,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image related to the intercepts cut off by the plane.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827631/ncert/maths/11/img_29_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.24",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "three dimensional geometry",
+    "question_type": "numerical",
+    "question_text": "Find the equation of the plane with intercept 3 on the y-axis and parallel to ZOX plane.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image related to the equation of the plane with intercepts.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827635/ncert/maths/11/img_30_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The equation of the required plane is y = 3.",
+    "answer_latex": "y = 3",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify that the plane is parallel to the ZOX plane.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Set the y-intercept to 3.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the equation of the required plane is y = 3.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct application of the concept of intercepts.",
+    "topics_tags": [
+      "Plane Equation",
+      "Intercepts",
+      "Three Dimensional Geometry"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image related to the equation of the plane with intercepts.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827635/ncert/maths/11/img_30_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.25",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "three dimensional geometry",
+    "question_type": "conceptual",
+    "question_text": "Find the vector equation of the plane passing through the intersection of the planes and through the point (2, 1, 3).",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The equation of any plane through the intersection of the planes given in equations (1) and (2) is given by, where the plane passes through the point (2, 1, 3).",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the equations of the planes involved.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the point (2, 1, 3) into the equation of the plane.",
+        "expression": null
+      }
+    ],
+    "final_answer": "This is the vector equation of the required plane.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram related to the vector equation of the plane.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827640/ncert/maths/11/img_31_2.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of vector equations and substitution.",
+    "topics_tags": [
+      "Vector Equation",
+      "Plane",
+      "Three Dimensional Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the vector equation of the plane.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827640/ncert/maths/11/img_31_2.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q11.26",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "three dimensional geometry",
+    "question_type": "conceptual",
+    "question_text": "Find the equation of the plane through the line of intersection of the planes and which is perpendicular to the plane.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The equation of the plane through the intersection of the planes is given by the direction ratios (2λ + 1), (3λ + 1), and (4λ + 1).",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the direction ratios of the planes.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the direction ratios to formulate the equation of the plane.",
+        "expression": null
+      }
+    ],
+    "final_answer": "This is the required equation of the plane.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram related to the equation of the plane through the line of intersection.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827642/ncert/maths/11/img_32_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of direction ratios and perpendicular planes.",
+    "topics_tags": [
+      "Plane Equation",
+      "Intersection",
+      "Three Dimensional Geometry"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the equation of the plane through the line of intersection.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827642/ncert/maths/11/img_32_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q11.27",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "three dimensional geometry",
+    "question_type": "conceptual",
+    "question_text": "Find the angle between the planes whose vector equations are given.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to the angle between two planes.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827648/ncert/maths/11/img_33_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The angle between the planes is given by the formula involving their normal vectors.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the normal vectors of the given planes.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Apply the formula for the angle between two planes.",
+        "expression": null
+      }
+    ],
+    "final_answer": "This gives the angle between the two planes.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires knowledge of vector equations and angle calculation.",
+    "topics_tags": [
+      "Angle Between Planes",
+      "Vector Equations",
+      "Three Dimensional Geometry"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the angle between two planes.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827648/ncert/maths/11/img_33_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.28",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "three dimensional geometry",
+    "question_type": "multipart",
+    "question_text": "In the following cases, determine whether the given planes are parallel or perpendicular, and in case they are neither, find the angles between them.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to the question about planes in three-dimensional geometry.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827652/ncert/maths/11/img_34_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "The equations of the planes are 7x + 5y + 6z + 30 = 0 and 3x − y − 10z + 4 = 0.",
+        "part_latex": null,
+        "answer_text": "The given planes are not perpendicular and not parallel. The angle between them can be calculated using the direction ratios.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the normal vectors of the planes from their equations.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the angle between the planes using the dot product of their normal vectors.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, the angle between the planes is determined.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "The equations of the planes are given.",
+        "part_latex": null,
+        "answer_text": "Thus, the given planes are perpendicular to each other.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the normal vectors of the planes.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Check the dot product of the normal vectors to confirm perpendicularity.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Therefore, the given planes are perpendicular.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "The equations of the given planes are provided.",
+        "part_latex": null,
+        "answer_text": "Thus, the given planes are not perpendicular to each other.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the normal vectors of the planes.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the angle between the planes to confirm they are not perpendicular.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, the given planes are not perpendicular.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(d)",
+        "part_text": "The equations of the planes are given.",
+        "part_latex": null,
+        "answer_text": "Thus, the given lines are parallel to each other.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the normal vectors of the planes.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Check the direction ratios to confirm parallelism.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Therefore, the given lines are parallel to each other.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(e)",
+        "part_text": "The equations of the given planes are provided.",
+        "part_latex": null,
+        "answer_text": "Therefore, the given lines are not perpendicular to each other.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the normal vectors of the planes.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the angle between the planes to confirm they are not perpendicular.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Therefore, the given lines are not parallel to each other.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of geometric concepts and calculations of angles between planes.",
+    "topics_tags": [
+      "Three Dimensional Geometry",
+      "Planes",
+      "Angles Between Planes"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "Some parts of the question are incomplete or unclear."
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the question about planes in three-dimensional geometry.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827652/ncert/maths/11/img_34_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.29",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "three dimensional geometry",
+    "question_type": "mcq",
+    "question_text": "In the following cases, find the distance of each of the given points from the corresponding given plane.\nPoint Plane\n(a) (0, 0, 0)\n(b) (3, −2, 1)\n(c) (2, 3, −5)\n(d) (−6, 0, 0)",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "(0, 0, 0)"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "(3, −2, 1)"
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "(2, 3, −5)"
+      },
+      {
+        "option_label": "(D)",
+        "option_text": "(−6, 0, 0)"
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Images showing the points and planes related to the question.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827662/ncert/maths/11/img_37_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "(0, 0, 0)",
+        "part_latex": null,
+        "answer_text": null,
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "(3, −2, 1)",
+        "part_latex": null,
+        "answer_text": null,
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "(2, 3, −5)",
+        "part_latex": null,
+        "answer_text": null,
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(d)",
+        "part_text": "(−6, 0, 0)",
+        "part_latex": null,
+        "answer_text": null,
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of distance formula and application to multiple points.",
+    "topics_tags": [
+      "Distance from Plane",
+      "Three Dimensional Geometry",
+      "Coordinate Geometry"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Images showing the points and planes related to the question.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827662/ncert/maths/11/img_37_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.30",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "three dimensional geometry",
+    "question_type": "conceptual",
+    "question_text": "Find the angle between the lines whose direction ratios are a, b, c and b − c, c − a, a − b.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to direction ratios of lines.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827675/ncert/maths/11/img_41_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The angle Q between the lines with direction cosines, a, b, c and b − c, c − a, a − b, is given by, Thus, the angle between the lines is 90°.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the angle between the lines is 90°.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of direction ratios and basic geometry.",
+    "topics_tags": [
+      "Direction Ratios",
+      "Angle Between Lines",
+      "Three Dimensional Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to direction ratios of lines.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827675/ncert/maths/11/img_41_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.31",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "three dimensional geometry",
+    "question_type": "conceptual",
+    "question_text": "Find the equation of a line parallel to x-axis and passing through the origin.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram illustrating the line parallel to the x-axis.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827676/ncert/maths/11/img_41_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The line parallel to x-axis and passing through the origin is x-axis itself.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the equation of line parallel to x-axis and passing through origin is x = a, y = 0, z = 0.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct application of the definition of a line in 3D space.",
+    "topics_tags": [
+      "Line Equation",
+      "Three Dimensional Geometry",
+      "Coordinate Geometry"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram illustrating the line parallel to the x-axis.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827676/ncert/maths/11/img_41_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.32",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "three dimensional geometry",
+    "question_type": "mcq",
+    "question_text": "If the coordinates of the points A, B, C, D be (1, 2, 3), (4, 5, 7), (−4, 3, −6) and (2, 9, 2) respectively, then find the angle between the lines AB and CD.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing points A, B, C, D in 3D space.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827679/ncert/maths/11/img_42_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The angle between AB and CD is either 0° or 180°.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the angle between AB and CD is either 0° or 180°.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves calculation of direction ratios and understanding of parallel lines.",
+    "topics_tags": [
+      "Angle Between Lines",
+      "Direction Ratios",
+      "Three Dimensional Geometry"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing points A, B, C, D in 3D space.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827679/ncert/maths/11/img_42_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.33",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "three dimensional geometry",
+    "question_type": "conceptual",
+    "question_text": "Find the vector equation of the plane passing through (1, 2, 3) and perpendicular to the plane.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The position vector of the point (1, 2, 3) is given, and the direction ratios of the normal to the plane are 1, 2, and −5.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "This is the vector equation of the required plane.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram related to the vector equation of a plane.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827682/ncert/maths/11/img_43_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of vector equations and normal vectors.",
+    "topics_tags": [
+      "Vector Equation",
+      "Plane",
+      "Three Dimensional Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the vector equation of a plane.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827682/ncert/maths/11/img_43_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      },
+      {
+        "present": true,
+        "description": "Diagram showing the vector equation of the plane.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827683/ncert/maths/11/img_43_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q11.34",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "three dimensional geometry",
+    "question_type": "conceptual",
+    "question_text": "Find the shortest distance between lines.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to the shortest distance between two lines.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827684/ncert/maths/11/img_44_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The given lines are known, and the shortest distance between two lines is given by a specific formula.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the shortest distance between the two given lines is 9 units.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the calculation of the shortest distance between lines.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827685/ncert/maths/11/img_44_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding the concept of distance between lines and applying the formula.",
+    "topics_tags": [
+      "Shortest Distance",
+      "Lines",
+      "Three Dimensional Geometry"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the shortest distance between two lines.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827684/ncert/maths/11/img_44_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the calculation of the shortest distance between lines.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827685/ncert/maths/11/img_44_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q11.35",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "three dimensional geometry",
+    "question_type": "mcq",
+    "question_text": "Find the coordinates of the point where the line through (5, 1, 6) and (3, 4, 1) crosses the YZ-plane.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The line passing through the points (5, 1, 6) and (3, 4, 1) is given, and any point on the line is of the form (5 − 2k, 3k + 1, 6 − 5k).",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "The coordinates of the point where the line crosses the YZ-plane can be determined by setting x = 0.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the line and its intersection with the YZ-plane.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827689/ncert/maths/11/img_45_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of line equations and intersection with planes.",
+    "topics_tags": [
+      "Line Equation",
+      "YZ-plane",
+      "Three Dimensional Geometry"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the line and its intersection with the YZ-plane.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827689/ncert/maths/11/img_45_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q11.36",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "three dimensional geometry",
+    "question_type": "mcq",
+    "question_text": "Find the coordinates of the point where the line through (5, 1, 6) and (3, 4, 1) crosses the ZX-plane.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The coordinates of the required point are (5 - 2k, 3k + 1, 6 - 5k) where k is determined by the intersection with the ZX-plane.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the parametric equations of the line.",
+        "expression": "(5 - 2k, 3k + 1, 6 - 5k)"
+      },
+      {
+        "step_number": 2,
+        "description": "Set z = 0 to find the intersection with the ZX-plane.",
+        "expression": "6 - 5k = 0"
+      },
+      {
+        "step_number": 3,
+        "description": "Solve for k.",
+        "expression": "k = \frac{6}{5}"
+      },
+      {
+        "step_number": 4,
+        "description": "Substitute k back into the parametric equations to find the coordinates.",
+        "expression": "(5 - 2(1.2), 3(1.2) + 1, 0)"
+      }
+    ],
+    "final_answer": "Therefore, the coordinates of the point where the line crosses the ZX-plane are (2.6, 4.6, 0).",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the line through points (5, 1, 6) and (3, 4, 1) in three-dimensional space.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827692/ncert/maths/11/img_46_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multi-step reasoning to find the intersection point.",
+    "topics_tags": [
+      "Three Dimensional Geometry",
+      "Line Intersection",
+      "ZX-plane"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the line through points (5, 1, 6) and (3, 4, 1) in three-dimensional space.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827692/ncert/maths/11/img_46_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q11.37",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "three dimensional geometry",
+    "question_type": "mcq",
+    "question_text": "Find the coordinates of the point where the line through (3, −4, −5) and (2, −3, 1) crosses the plane 2x + y + z = 7.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The coordinates of the required point are (1, -2, 7).",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the parametric equations of the line.",
+        "expression": "(3 - k, k - 4, 6k - 5)"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the parametric equations into the plane equation 2x + y + z = 7.",
+        "expression": "2(3 - k) + (k - 4) + (6k - 5) = 7"
+      },
+      {
+        "step_number": 3,
+        "description": "Solve for k.",
+        "expression": "k = 2"
+      },
+      {
+        "step_number": 4,
+        "description": "Substitute k back into the parametric equations to find the coordinates.",
+        "expression": "(3 - 2, 2 - 4, 6(2) - 5)"
+      }
+    ],
+    "final_answer": "Therefore, the coordinates of the point where the line crosses the plane are (1, -2, 7).",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the line through points (3, -4, -5) and (2, -3, 1) in three-dimensional space.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827699/ncert/maths/11/img_47_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of line equations and substitution into a plane equation.",
+    "topics_tags": [
+      "Three Dimensional Geometry",
+      "Line Intersection",
+      "Plane Equation"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the line through points (3, -4, -5) and (2, -3, 1) in three-dimensional space.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827699/ncert/maths/11/img_47_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q11.38",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "three dimensional geometry",
+    "question_type": "conceptual",
+    "question_text": "Find the equation of the plane passing through the line of intersection of the planes and and parallel to x-axis.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image showing the context of the question regarding the equation of the plane.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827710/ncert/maths/11/img_50_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The required plane is parallel to x-axis. Therefore, its normal is perpendicular to x-axis.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the direction ratios of the line of intersection of the given planes.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Set the normal of the required plane to be perpendicular to the x-axis.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the equation of the required plane is derived based on the direction ratios.",
+    "answer_image": {
+      "present": true,
+      "description": "Image showing the answer context for the equation of the plane.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827711/ncert/maths/11/img_50_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of planes and their equations in three-dimensional geometry.",
+    "topics_tags": [
+      "Plane Equation",
+      "Three Dimensional Geometry",
+      "Direction Ratios"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image showing the context of the question regarding the equation of the plane.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827710/ncert/maths/11/img_50_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image showing the answer context for the equation of the plane.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827711/ncert/maths/11/img_50_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q11.39",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "three dimensional geometry",
+    "question_type": "conceptual",
+    "question_text": "If O be the origin and the coordinates of P be (1, 2, −3), then find the equation of the plane passing through P and perpendicular to OP.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image showing the context of the question regarding the equation of the plane through point P.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827715/ncert/maths/11/img_51_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Thus, the equation of the required plane is derived using the direction ratios of OP.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the direction ratios of OP from the origin O to point P.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the direction ratios to form the equation of the plane.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, the equation of the required plane is established based on the calculated direction ratios.",
+    "answer_image": {
+      "present": true,
+      "description": "Image showing the answer context for the equation of the plane.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827716/ncert/maths/11/img_51_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of geometric concepts and application of the plane equation.",
+    "topics_tags": [
+      "Plane Equation",
+      "Three Dimensional Geometry",
+      "Direction Ratios"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image showing the context of the question regarding the equation of the plane through point P.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827715/ncert/maths/11/img_51_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image showing the answer context for the equation of the plane.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827716/ncert/maths/11/img_51_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q11.40",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "three dimensional geometry",
+    "question_type": "numerical",
+    "question_text": "Find the distance of the point (−1, −5, −10) from the point of intersection of the line and the plane.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image related to the context of the question, possibly showing geometric representations.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827721/ncert/maths/11/img_52_2.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The distance d between the points, (2, −1, 2) and (−1, −5, −10), is calculated using the distance formula.",
+    "answer_latex": "d = \\sqrt{(2 - (-1))^2 + ((-1) - (-5))^2 + (2 - (-10))^2}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the coordinates of the two points involved.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Apply the distance formula to find the distance between the two points.",
+        "expression": "d = \\sqrt{(2 - (-1))^2 + ((-1) - (-5))^2 + (2 - (-10))^2}"
+      }
+    ],
+    "final_answer": "Therefore, the distance from the point (−1, −5, −10) to the point of intersection is calculated using the distance formula.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of the distance formula and basic substitution.",
+    "topics_tags": [
+      "Distance Formula",
+      "Three Dimensional Geometry",
+      "Vectors"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image related to the context of the question, possibly showing geometric representations.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777827721/ncert/maths/11/img_52_2.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  }
+]

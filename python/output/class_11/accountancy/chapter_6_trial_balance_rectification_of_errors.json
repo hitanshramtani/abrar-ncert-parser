@@ -1,0 +1,3138 @@
+[
+  {
+    "question_id": "Q6.1",
+    "class": 11,
+    "subject": "accountancy",
+    "chapter_number": 6,
+    "chapter_name": "trial balance rectification of errors",
+    "question_type": "conceptual",
+    "question_text": "State the meaning of a Trial Balance?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Trial Balance is a statement prepared with debit and credit balances of all accounts in ledger, to verify the arithmetical accuracy of the accounts. It is prepared after balancing all the accounts of ledger. There are two columns in a Trial Balance: debit and credit. While debit side includes all the debit balances, credit side includes all the credit balances of the accounts. It also helps in preparing financial statements, as it is a summarise version of the ledger. It is generally prepared on monthly or yearly basis.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, a Trial Balance is essential for verifying the accuracy of accounts.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of the definition of Trial Balance.",
+    "topics_tags": [
+      "Trial Balance",
+      "Accounting Principles",
+      "Financial Statements"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.2",
+    "class": 11,
+    "subject": "accountancy",
+    "chapter_number": 6,
+    "chapter_name": "trial balance rectification of errors",
+    "question_type": "mcq",
+    "question_text": "Rectify the following errors and ascertain the amount of difference in trial balance by preparing suspense account:\n(a) Credit sales to Mohan Rs 7,000 were posted as Rs 9,000.\n(b) Credit purchases from Rohan Rs 9,000 were posted as Rs 6,000.\n(c) Goods returned to Rakesh Rs 4,000 were posted as Rs 5,000.\n(d) Goods returned from Mahesh Rs 1,000 were posted as Rs 3,000.\n(e) Cash sales Rs 2,000 were posted as Rs 200.",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "Credit sales to Mohan Rs 7,000 were posted as Rs 9,000."
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "Credit purchases from Rohan Rs 9,000 were posted as Rs 6,000."
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "Goods returned to Rakesh Rs 4,000 were posted as Rs 5,000."
+      },
+      {
+        "option_label": "(D)",
+        "option_text": "Goods returned from Mahesh Rs 1,000 were posted as Rs 3,000.\n(e) Cash sales Rs 2,000 were posted as Rs 200."
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Credit sales to Mohan Rs 7,000 were posted as Rs 9,000.",
+        "part_latex": null,
+        "answer_text": "Debit Suspense A/c Rs 2,000 to Mohan.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the error of posting Rs 7,000 as Rs 9,000.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Rectify the error by debiting Suspense A/c and crediting Mohan's account.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, the entry for Mohan is rectified.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Credit purchases from Rohan Rs 9,000 were posted as Rs 6,000.",
+        "part_latex": null,
+        "answer_text": "Debit Suspense A/c Rs 3,000 to Rohan.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the error of posting Rs 9,000 as Rs 6,000.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Rectify the error by debiting Suspense A/c and crediting Rohan's account.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, the entry for Rohan is rectified.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "Goods returned to Rakesh Rs 4,000 were posted as Rs 5,000.",
+        "part_latex": null,
+        "answer_text": "Debit Suspense A/c Rs 1,000 to Rakesh.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the error of posting Rs 4,000 as Rs 5,000.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Rectify the error by debiting Suspense A/c and crediting Rakesh's account.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, the entry for Rakesh is rectified.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(d)",
+        "part_text": "Goods returned from Mahesh Rs 1,000 were posted as Rs 3,000.",
+        "part_latex": null,
+        "answer_text": "Debit Mahesh Rs 2,000 to Suspense A/c.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the error of posting Rs 1,000 as Rs 3,000.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Rectify the error by debiting Mahesh's account and crediting Suspense A/c.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, the entry for Mahesh is rectified.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(e)",
+        "part_text": "Cash sales Rs 2,000 were posted as Rs 200.",
+        "part_latex": null,
+        "answer_text": "Debit Suspense A/c Rs 1,800 to Sales A/c.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the error of posting Rs 2,000 as Rs 200.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Rectify the error by debiting Suspense A/c and crediting Sales A/c.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, the entry for cash sales is rectified.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of rectification of errors and multiple entries.",
+    "topics_tags": [
+      "Trial Balance",
+      "Rectification of Errors",
+      "Suspense Account"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.3",
+    "class": 11,
+    "subject": "accountancy",
+    "chapter_number": 6,
+    "chapter_name": "trial balance rectification of errors",
+    "question_type": "conceptual",
+    "question_text": "Give two examples of errors of commission?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Errors of Commission refer to those errors that are committed when transactions are recorded with wrong amounts; wrong balancing or wrong posting and/or wrong carrying forwarding is done. Below given are the examples of error of commission: 1. Goods purchased worth Rs 20,000 on credit are recorded in the Purchases Book as Rs 10,000. This transaction should have been recorded in the Purchases Book with an amount of Rs 20,000; however, it was recorded as Rs 10,000. This is an error due to wrong recording of amount. 2. Total of Sales Book is carried forward as Rs 5,000 instead of Rs 500. In this case, wrong amount is carried forwarded from one accounting period to another or from an end of one page to the beginning of another page. This is referred to as an error of carrying forward.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, these examples highlight how errors of commission can lead to inaccuracies in financial records.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of different types of accounting errors.",
+    "topics_tags": [
+      "Errors of Commission",
+      "Accounting Errors",
+      "Financial Reporting"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.4",
+    "class": 11,
+    "subject": "accountancy",
+    "chapter_number": 6,
+    "chapter_name": "trial balance rectification of errors",
+    "question_type": "conceptual",
+    "question_text": "Describe the purpose for the preparation of trial balance.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The purposes for preparing a Trial Balance include ascertaining arithmetical accuracy, summarizing ledger accounts, preparing final accounts, and locating and rectifying errors.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the purpose of ensuring arithmetical accuracy.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Explain how it summarizes ledger accounts.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Discuss its role in preparing final accounts.",
+        "expression": null
+      },
+      {
+        "step_number": 4,
+        "description": "Mention its utility in locating and rectifying errors.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, the Trial Balance serves multiple essential purposes in accounting.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic understanding of accounting practices and the role of Trial Balance.",
+    "topics_tags": [
+      "Trial Balance",
+      "Accounting Purpose",
+      "Financial Statements"
+    ],
+    "confidence_score": 0.93,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.5",
+    "class": 11,
+    "subject": "accountancy",
+    "chapter_number": 6,
+    "chapter_name": "trial balance rectification of errors",
+    "question_type": "conceptual",
+    "question_text": "Explain errors of principle and give two examples with measures to rectify them.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Errors of Principle occur when transactions are recorded against accounting principles. Examples include debiting wages for construction to the Wages Account instead of the Building Account, and recording the sale of old machinery as sales instead of crediting the Machinery Account.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the nature of errors of principle.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Provide the first example and its rectification.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Provide the second example and its rectification.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, understanding and rectifying errors of principle is crucial for accurate financial reporting.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of accounting principles and the ability to identify and rectify errors.",
+    "topics_tags": [
+      "Errors of Principle",
+      "Accounting Errors",
+      "Rectification"
+    ],
+    "confidence_score": 0.91,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.6",
+    "class": 11,
+    "subject": "accountancy",
+    "chapter_number": 6,
+    "chapter_name": "trial balance rectification of errors",
+    "question_type": "conceptual",
+    "question_text": "Explain the errors of commission and give two examples with measures to rectify them.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Errors of Commission occur when transactions are recorded with wrong amounts or wrong postings. Examples include recording sales to Mr. X of Rs10,000 as Rs1,000, and posting a payment to the wrong account.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the nature of errors of commission.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Provide the first example and its rectification.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Provide the second example and its rectification.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, recognizing and rectifying errors of commission is essential for maintaining accurate records.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding the nature of errors and their rectification processes.",
+    "topics_tags": [
+      "Errors of Commission",
+      "Accounting Errors",
+      "Rectification"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.12",
+    "class": 11,
+    "subject": "accountancy",
+    "chapter_number": 6,
+    "chapter_name": "trial balance rectification of errors",
+    "question_type": "conceptual",
+    "question_text": "What are the different types of errors that are usually committed in recording business transaction?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation related to errors in accounting.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777634302/ncert/accountancy/6/img_7_0.jpg",
+      "latex_extracted": "\\begin{array}{c c}{{\\mathrm{~rense=\\frac{1}{6}}}}&{{\\mathrm{~rense=\\frac{1}{6}}}}\\\\ {{\\mathrm{~pense=\\frac{1}{6}}}}&{{\\mathrm{~rense=\\frac{1}{6}}\\mathrm{~pense=\\frac{1}{2}}\\mathrm{~pense=\\frac{1}{2}m e=\\frac{1}{6}}}}\\\\ {{\\mathrm{~pense=\\frac{1}{6}}\\mathrm{~pense=\\frac{1}{6}}}}&{{\\mathrm{~pense=\\frac{1}{6}}\\mathrm{~pense~\\frac{1}{6}}\\mathrm{~pense=\\frac{1}{6}}}}\\\\ {{\\mathrm{~gense=\\frac{1}{6}}\\mathrm{~pense~\\frac{1}{6}}\\mathrm{~pense=\\frac{1}{8}}\\mathrm{~pense=\\frac{1}{6}}{8}}}}\\\\ {{\\mathrm{~gensense=\\frac{0}{6}{6}{6}{0.}{8}{\\mathrm{5ensensensensensensensense}}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "1. Errors of omission- When an entry gets omitted during recording in the book of original entry or during posting the transaction, then error of omission is committed. There are two types of errors of omission, viz.: Partial omission and Complete omission. 2. Errors of principle- These refer to those errors that are committed when recording of transactions in the book of the original entry is done against the accounting principle. 3. Errors of commission- These refer to those errors that are committed when transactions are recorded with wrong amounts, wrong balancing, wrong posting and/or wrong carrying forwarded is done. 4. Compensating errors- When effects of one error are cancelled by the effects of another error of an equal amount, then compensating errors are committed.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, various types of errors include errors of omission, principle, commission, and compensating errors.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of different types of accounting errors.",
+    "topics_tags": [
+      "Errors in Accounting",
+      "Trial Balance",
+      "Rectification of Errors"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation related to errors in accounting.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777634302/ncert/accountancy/6/img_7_0.jpg",
+        "latex_extracted": "\\begin{array}{c c}{{\\mathrm{~rense=\\frac{1}{6}}}}&{{\\mathrm{~rense=\\frac{1}{6}}}}\\\\ {{\\mathrm{~pense=\\frac{1}{6}}}}&{{\\mathrm{~rense=\\frac{1}{6}}\\mathrm{~pense=\\frac{1}{2}}\\mathrm{~pense=\\frac{1}{2}m e=\\frac{1}{6}}}}\\\\ {{\\mathrm{~pense=\\frac{1}{6}}\\mathrm{~pense=\\frac{1}{6}}}}&{{\\mathrm{~pense=\\frac{1}{6}}\\mathrm{~pense~\\frac{1}{6}}\\mathrm{~pense=\\frac{1}{6}}}}\\\\ {{\\mathrm{~gense=\\frac{1}{6}}\\mathrm{~pense~\\frac{1}{6}}\\mathrm{~pense=\\frac{1}{8}}\\mathrm{~pense=\\frac{1}{6}}{8}}}}\\\\ {{\\mathrm{~gensense=\\frac{0}{6}{6}{6}{0.}{8}{\\mathrm{5ensensensensensensensense}}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.13",
+    "class": 11,
+    "subject": "accountancy",
+    "chapter_number": 6,
+    "chapter_name": "trial balance rectification of errors",
+    "question_type": "mcq",
+    "question_text": "Rectify the following errors assuming that suspense account was opened. Ascertain the difference in trial balance. (a) Credit sales to Mohan Rs 7,000 were recorded in Purchase Book. However, Mohan's account was correctly debited. (b) Credit purchases from Rohan Rs 9,000 were recorded in sales book. However, Rohan's account was correctly credited. (c) Goods returned to Rakesh Rs 4,000 were recorded in sales return book. However, Rakesh's account was correctly debited. (d) Goods returned from Mahesh Rs 1,000 were recorded through purchases return book. However, Mahesh's account was correctly credited. (e) Goods returned to Naresh Rs 2,000 were recorded through purchases book. However, Naresh's account was correctly debited.",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "Credit sales to Mohan Rs 7,000 were recorded in Purchase Book. However, Mohan's account was correctly debited."
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "Credit purchases from Rohan Rs 9,000 were recorded in sales book. However, Rohan's account was correctly credited."
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "Goods returned to Rakesh Rs 4,000 were recorded in sales return book. However, Rakesh's account was correctly debited."
+      },
+      {
+        "option_label": "(D)",
+        "option_text": "Goods returned from Mahesh Rs 1,000 were recorded through purchases return book. However, Mahesh's account was correctly credited. (e) Goods returned to Naresh Rs 2,000 were recorded through purchases book. However, Naresh's account was correctly debited."
+      }
+    ],
+    "correct_option": "(A)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Journal\nDebit Credit\nS. No. Particulars L.F. Amount Amount\nRs Rs\n(a) Suspense A/c Dr. 14,000\nTo Sales A/c 7,000\nTo Purchases A/c 7,000\n(Goods sold to Mohan wrongly recorded in Purchases Book; however, Mohan's Account was correctly debited, now rectified)\n(b) Purchases A/c Dr. 9,000\nSales A/c Dr. 9,000\nTo Suspense A/c 18,000\n(Purchased goods from Rohan wrongly recorded in Sales Book. However, Rohan's Account was correctly credited, now rectified)\n(c) Suspense A/c Dr. 8,000\nTo Purchases Return A/c 4,000\nTo Sales Return A/c 4,000\n(Goods returned to Rakesh Rs 4,000 wrongly entered in Sales Return Book; however, Rakesh's Account was correctly debited, now rectified)\n(d) Sales Return A/c Dr. 1,000\nPurchases Return A/c Dr. 1,000\nTo Suspense A/c 2,000\n(Goods Returned from Mahesh wrongly entered in Purchases Return Book; however, Mahesh's Account was correctly credited, now rectified)",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "The rectification entries have been made to correct the errors in the trial balance.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple entries and understanding of rectification of errors.",
+    "topics_tags": [
+      "Rectification of Errors",
+      "Suspense Account",
+      "Trial Balance"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.14",
+    "class": 11,
+    "subject": "accountancy",
+    "chapter_number": 6,
+    "chapter_name": "trial balance rectification of errors",
+    "question_type": "multipart",
+    "question_text": "Rectify the following errors:\n(i) Credit sales to Mohan Rs 7,000 were recorded as Rs 700.\n(ii) Credit purchases from Rohan Rs 9,000 were recorded as Rs 900.\n(iii) Goods returned to Rakesh Rs 4,000 were recorded as Rs 400.\n(iv) Goods returned from Mahesh Rs 1,000 were recorded as Rs 100.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "Credit sales to Mohan Rs 7,000 were recorded as Rs 700.",
+        "part_latex": null,
+        "answer_text": "Mohan Dr. 6,300\nTo Sales A/c 6,300\n(Goods sold to Mohan Rs 7,000 were recorded as Rs 700, now rectified)",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the error in recording sales to Mohan.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Rectify the error by adjusting the amount.",
+            "expression": null
+          }
+        ],
+        "final_answer": "The rectified entry is Mohan Dr. 6,300 and To Sales A/c 6,300.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "Credit purchases from Rohan Rs 9,000 were recorded as Rs 900.",
+        "part_latex": null,
+        "answer_text": "Purchases A/c Dr. 8,100\nTo Rohan 8,100\n(Goods purchased from Rohan Rs 9,000 were recorded as Rs 900, now rectified)",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the error in recording purchases from Rohan.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Rectify the error by adjusting the amount.",
+            "expression": null
+          }
+        ],
+        "final_answer": "The rectified entry is Purchases A/c Dr. 8,100 and To Rohan 8,100.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "Goods returned to Rakesh Rs 4,000 were recorded as Rs 400.",
+        "part_latex": null,
+        "answer_text": "Rakesh Dr. 3,600\nTo Purchases Return A/c 3,600\n(Goods returned to Rakesh Rs 4,000 were recorded as Rs 400, now rectified)",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the error in recording returns to Rakesh.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Rectify the error by adjusting the amount.",
+            "expression": null
+          }
+        ],
+        "final_answer": "The rectified entry is Rakesh Dr. 3,600 and To Purchases Return A/c 3,600.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iv)",
+        "part_text": "Goods returned from Mahesh Rs 1,000 were recorded as Rs 100.",
+        "part_latex": null,
+        "answer_text": "Sales Return A/c Dr. 900\nTo Mahesh 900\n(Goods returned from Mahesh Rs 1,000 were recorded as Rs 100, now rectified)",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the error in recording returns from Mahesh.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Rectify the error by adjusting the amount.",
+            "expression": null
+          }
+        ],
+        "final_answer": "The rectified entry is Sales Return A/c Dr. 900 and To Mahesh 900.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of journal entries and error rectification.",
+    "topics_tags": [
+      "Rectification of Errors",
+      "Journal Entries",
+      "Accountancy"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.15",
+    "class": 11,
+    "subject": "accountancy",
+    "chapter_number": 6,
+    "chapter_name": "trial balance rectification of errors",
+    "question_type": "multipart",
+    "question_text": "Rectify the following errors:\n(i) Credit sales to Mohan Rs 7,000 were recorded as Rs 7,200.\n(ii) Credit purchases from Rohan Rs 9,000 were recorded as Rs 9,900.\n(iii) Goods returned to Rakesh Rs 4,000 were recorded as Rs 4,040.\n(iv) Goods returned from Mahesh Rs 1,000 were recorded as Rs 1,600.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "Credit sales to Mohan Rs 7,000 were recorded as Rs 7,200.",
+        "part_latex": null,
+        "answer_text": "Sales A/c Dr. 200\nTo Mohan 200\n(Goods sold to Mohan Rs 7,000 were recorded as Rs 7,200, now rectified)",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the error in recording sales to Mohan.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Rectify the error by adjusting the amount.",
+            "expression": null
+          }
+        ],
+        "final_answer": "The rectified entry is Sales A/c Dr. 200 and To Mohan 200.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "Credit purchases from Rohan Rs 9,000 were recorded as Rs 9,900.",
+        "part_latex": null,
+        "answer_text": "Rohan Dr. 900\nTo Purchases A/c 900\n(Goods purchased from Rohan Rs 9,000 were recorded as Rs 9,900, now rectified)",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the error in recording purchases from Rohan.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Rectify the error by adjusting the amount.",
+            "expression": null
+          }
+        ],
+        "final_answer": "The rectified entry is Rohan Dr. 900 and To Purchases A/c 900.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "Goods returned to Rakesh Rs 4,000 were recorded as Rs 4,040.",
+        "part_latex": null,
+        "answer_text": "Purchases Return A/c Dr. 40\nTo Rakesh 40\n(Goods returned to Rakesh Rs 4,000 were recorded as Rs 4,040, now rectified)",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the error in recording returns to Rakesh.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Rectify the error by adjusting the amount.",
+            "expression": null
+          }
+        ],
+        "final_answer": "The rectified entry is Purchases Return A/c Dr. 40 and To Rakesh 40.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iv)",
+        "part_text": "Goods returned from Mahesh Rs 1,000 were recorded as Rs 1,600.",
+        "part_latex": null,
+        "answer_text": "Mahesh Dr. 600\nTo Sales Return A/c 600\n(Goods returned from Mahesh Rs 1,000 were recorded as Rs 1,600, now rectified)",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the error in recording returns from Mahesh.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Rectify the error by adjusting the amount.",
+            "expression": null
+          }
+        ],
+        "final_answer": "The rectified entry is Mahesh Dr. 600 and To Sales Return A/c 600.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of journal entries and error rectification.",
+    "topics_tags": [
+      "Rectification of Errors",
+      "Journal Entries",
+      "Accountancy"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.16",
+    "class": 11,
+    "subject": "accountancy",
+    "chapter_number": 6,
+    "chapter_name": "trial balance rectification of errors",
+    "question_type": "mcq",
+    "question_text": "Rectify the following errors:\n(a) Salary paid Rs 5,000 was debited to employee's personal account.\n(b) Rent Paid Rs 4,000 was posted to landlord's personal account.\n(c) Goods withdrawn by proprietor for personal use Rs 1,000 were debited to sundry expenses account.\n(d) Cash received from Kohli Rs 2,000 was posted to Kapur's account.\n(e) Cash paid to Babu Rs 1,500 was posted to Sabu's account.",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "Salary paid Rs 5,000 was debited to employee's personal account."
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "Rent Paid Rs 4,000 was posted to landlord's personal account."
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "Goods withdrawn by proprietor for personal use Rs 1,000 were debited to sundry expenses account."
+      },
+      {
+        "option_label": "(D)",
+        "option_text": "Cash received from Kohli Rs 2,000 was posted to Kapur's account.\n(e) Cash paid to Babu Rs 1,500 was posted to Sabu's account."
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Salary paid Rs 5,000 was debited to employee's personal account.",
+        "part_latex": null,
+        "answer_text": "Salaries A/c Dr. 5,000\nTo Employee 5,000\n(Salary paid Rs 5,000 were wrongly debited to Employee's personal Account, now rectified)",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the error in recording salary payment.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Rectify the error by adjusting the amount.",
+            "expression": null
+          }
+        ],
+        "final_answer": "The rectified entry is Salaries A/c Dr. 5,000 and To Employee 5,000.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Rent Paid Rs 4,000 was posted to landlord's personal account.",
+        "part_latex": null,
+        "answer_text": "Rent A/c Dr. 4,000\nTo Land Lord A/c 4,000\n(Rent paid Rs 4,000 was posted to Landlord's Account, now rectified)",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the error in recording rent payment.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Rectify the error by adjusting the amount.",
+            "expression": null
+          }
+        ],
+        "final_answer": "The rectified entry is Rent A/c Dr. 4,000 and To Land Lord A/c 4,000.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "Goods withdrawn by proprietor for personal use Rs 1,000 were debited to sundry expenses account.",
+        "part_latex": null,
+        "answer_text": "Drawings A/c Dr. 1,000\nTo Sundry Expenses A/c 1,000\n(Goods drawn by proprietor were wrongly debited to Sundry Expenses, now rectified)",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the error in recording goods withdrawal.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Rectify the error by adjusting the amount.",
+            "expression": null
+          }
+        ],
+        "final_answer": "The rectified entry is Drawings A/c Dr. 1,000 and To Sundry Expenses A/c 1,000.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(d)",
+        "part_text": "Cash received from Kohli Rs 2,000 was posted to Kapur's account.",
+        "part_latex": null,
+        "answer_text": "Kohli Dr. 2,000\nTo Cash A/c 2,000\n(Cash received from Kohli was wrongly posted to Kapur's account, now rectified)",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the error in recording cash received.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Rectify the error by adjusting the amount.",
+            "expression": null
+          }
+        ],
+        "final_answer": "The rectified entry is Kohli Dr. 2,000 and To Cash A/c 2,000.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(e)",
+        "part_text": "Cash paid to Babu Rs 1,500 was posted to Sabu's account.",
+        "part_latex": null,
+        "answer_text": "Sabu Dr. 1,500\nTo Cash A/c 1,500\n(Cash paid to Babu was wrongly posted to Sabu's account, now rectified)",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the error in recording cash payment.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Rectify the error by adjusting the amount.",
+            "expression": null
+          }
+        ],
+        "final_answer": "The rectified entry is Sabu Dr. 1,500 and To Cash A/c 1,500.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of journal entries and error rectification.",
+    "topics_tags": [
+      "Rectification of Errors",
+      "Journal Entries",
+      "Accountancy"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.10",
+    "class": 11,
+    "subject": "accountancy",
+    "chapter_number": 6,
+    "chapter_name": "trial balance rectification of errors",
+    "question_type": "mcq",
+    "question_text": "Rectify the following errors: (a) Credit sales to Mohan Rs 7,000 were posted to Karan. (b) Credit purchases from Rohan Rs 9,000 were posted to Gobind. (c) Goods returned to Rakesh Rs 4,000 were posted to Naresh. (d) Goods returned from Mahesh Rs 1,000 were posted to Manish. (e) Cash sales Rs 2,000 were posted to commission account.",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "Credit sales to Mohan Rs 7,000 were posted to Karan."
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "Credit purchases from Rohan Rs 9,000 were posted to Gobind."
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "Goods returned to Rakesh Rs 4,000 were posted to Naresh."
+      },
+      {
+        "option_label": "(D)",
+        "option_text": "Goods returned from Mahesh Rs 1,000 were posted to Manish. (e) Cash sales Rs 2,000 were posted to commission account."
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Credit sales to Mohan Rs 7,000 were posted to Karan.",
+        "part_latex": null,
+        "answer_text": "Debit Mohan Rs 7,000, Credit Karan Rs 7,000.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the error in posting sales to the wrong account.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Rectify by debiting Mohan's account and crediting Karan's account.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Therefore, the rectification is done by debiting Mohan and crediting Karan.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Credit purchases from Rohan Rs 9,000 were posted to Gobind.",
+        "part_latex": null,
+        "answer_text": "Debit Gobind Rs 9,000, Credit Rohan Rs 9,000.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the error in posting purchases to the wrong account.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Rectify by debiting Gobind's account and crediting Rohan's account.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Therefore, the rectification is done by debiting Gobind and crediting Rohan.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "Goods returned to Rakesh Rs 4,000 were posted to Naresh.",
+        "part_latex": null,
+        "answer_text": "Debit Rakesh Rs 4,000, Credit Naresh Rs 4,000.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the error in posting returns to the wrong account.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Rectify by debiting Rakesh's account and crediting Naresh's account.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Therefore, the rectification is done by debiting Rakesh and crediting Naresh.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(d)",
+        "part_text": "Goods returned from Mahesh Rs 1,000 were posted to Manish.",
+        "part_latex": null,
+        "answer_text": "Debit Manish Rs 1,000, Credit Mahesh Rs 1,000.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the error in posting returns from the wrong account.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Rectify by debiting Manish's account and crediting Mahesh's account.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Therefore, the rectification is done by debiting Manish and crediting Mahesh.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(e)",
+        "part_text": "Cash sales Rs 2,000 were posted to commission account.",
+        "part_latex": null,
+        "answer_text": "Debit Commission A/c Rs 2,000, Credit Sales A/c Rs 2,000.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the error in posting cash sales to the wrong account.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Rectify by debiting Commission A/c and crediting Sales A/c.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Therefore, the rectification is done by debiting Commission A/c and crediting Sales A/c.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps of identifying and rectifying errors in accounts.",
+    "topics_tags": [
+      "Rectification of Errors",
+      "Suspense Account",
+      "Accounting Principles"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.11",
+    "class": 11,
+    "subject": "accountancy",
+    "chapter_number": 6,
+    "chapter_name": "trial balance rectification of errors",
+    "question_type": "mcq",
+    "question_text": "Rectify the following errors assuming that a suspense account was opened. Ascertain the difference in trial balance. (a) Credit sales to Mohan Rs 7,000 were posted to the credit of his account. (b) Credit purchases from Rohan Rs 9,000 were posted to the debit of his account as Rs 6,000. (c) Goods returned to Rakesh Rs 4,000 were posted to the credit of his account. (d) Goods returned from Mahesh Rs 1,000 were posted to the debit of his account as Rs 2,000. (e) Cash sales Rs 2,000 were posted to the debit of sales account as Rs 5,000.",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "Credit sales to Mohan Rs 7,000 were posted to the credit of his account."
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "Credit purchases from Rohan Rs 9,000 were posted to the debit of his account as Rs 6,000."
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "Goods returned to Rakesh Rs 4,000 were posted to the credit of his account."
+      },
+      {
+        "option_label": "(D)",
+        "option_text": "Goods returned from Mahesh Rs 1,000 were posted to the debit of his account as Rs 2,000. (e) Cash sales Rs 2,000 were posted to the debit of sales account as Rs 5,000."
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Credit sales to Mohan Rs 7,000 were posted to the credit of his account.",
+        "part_latex": null,
+        "answer_text": "Debit Mohan Rs 14,000, Credit Suspense A/c Rs 14,000.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the error in posting sales to the wrong account.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Rectify by debiting Mohan's account and crediting Suspense A/c.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Therefore, the rectification is done by debiting Mohan and crediting Suspense A/c.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Credit purchases from Rohan Rs 9,000 were posted to the debit of his account as Rs 6,000.",
+        "part_latex": null,
+        "answer_text": "Debit Suspense A/c Rs 15,000, Credit Rohan Rs 15,000.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the error in posting purchases to the wrong account.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Rectify by debiting Suspense A/c and crediting Rohan's account.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Therefore, the rectification is done by debiting Suspense A/c and crediting Rohan.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "Goods returned to Rakesh Rs 4,000 were posted to the credit of his account.",
+        "part_latex": null,
+        "answer_text": "Debit Rakesh Rs 8,000, Credit Suspense A/c Rs 8,000.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the error in posting returns to the wrong account.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Rectify by debiting Rakesh's account and crediting Suspense A/c.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Therefore, the rectification is done by debiting Rakesh and crediting Suspense A/c.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(d)",
+        "part_text": "Goods returned from Mahesh Rs 1,000 were posted to the debit of his account as Rs 2,000.",
+        "part_latex": null,
+        "answer_text": "Debit Suspense A/c Rs 3,000, Credit Mahesh Rs 3,000.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the error in posting returns from the wrong account.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Rectify by debiting Suspense A/c and crediting Mahesh's account.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Therefore, the rectification is done by debiting Suspense A/c and crediting Mahesh.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(e)",
+        "part_text": "Cash sales Rs 2,000 were posted to the debit of sales account as Rs 5,000.",
+        "part_latex": null,
+        "answer_text": "Debit Sales A/c Rs 7,000, Credit Suspense A/c Rs 7,000.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the error in posting cash sales to the wrong account.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Rectify by debiting Sales A/c and crediting Suspense A/c.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Therefore, the rectification is done by debiting Sales A/c and crediting Suspense A/c.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps of identifying and rectifying errors in accounts.",
+    "topics_tags": [
+      "Rectification of Errors",
+      "Suspense Account",
+      "Accounting Principles"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.24",
+    "class": 11,
+    "subject": "accountancy",
+    "chapter_number": 6,
+    "chapter_name": "trial balance rectification of errors",
+    "question_type": "mcq",
+    "question_text": "Rectify the following errors assuming that suspension account was opened. Ascertain the difference in trial balance.\n(a) Furniture purchased for Rs 10,000 wrongly debited to purchase account as Rs 4,000.\n(b) Machinery purchased on credit from Raman for Rs 20,000 recorded through Purchases Book as Rs 6,000.\n(c) Repairs on machinery Rs 1,400 debited to Machinery account as Rs 2,400.\n(d) Repairs on overhauling of second hand machinery purchased Rs 2,000 was debited to Repairs account as Rs 200.\n(e) Sale of old machinery at book value Rs 3,000 was credited to sales account as Rs 5,000.",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "Furniture purchased for Rs 10,000 wrongly debited to purchase account as Rs 4,000."
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "Machinery purchased on credit from Raman for Rs 20,000 recorded through Purchases Book as Rs 6,000."
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "Repairs on machinery Rs 1,400 debited to Machinery account as Rs 2,400."
+      },
+      {
+        "option_label": "(D)",
+        "option_text": "Repairs on overhauling of second hand machinery purchased Rs 2,000 was debited to Repairs account as Rs 200.\n(e) Sale of old machinery at book value Rs 3,000 was credited to sales account as Rs 5,000."
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Furniture purchased for Rs 10,000 wrongly debited to purchase account as Rs 4,000.",
+        "part_latex": null,
+        "answer_text": "Furniture A/c Dr. 10,000\nTo Purchases A/c 10,000\n(Furniture purchased Rs 10,000 wrongly entered in Purchases Account as Rs 4,000, now rectified)",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the error in the purchase account.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Rectify the error by debiting the Furniture account and crediting the Purchases account.",
+            "expression": null
+          }
+        ],
+        "final_answer": "The error has been rectified by adjusting the accounts accordingly.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Machinery purchased on credit from Raman for Rs 20,000 recorded through Purchases Book as Rs 6,000.",
+        "part_latex": null,
+        "answer_text": "Machinery A/c Dr. 20,000\nTo Purchases A/c 20,000\n(Machinery purchased Rs 20,000 from Raman wrongly entered in Purchases Book as Rs 6,000, now rectified)",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the error in the purchases book.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Rectify the error by debiting the Machinery account and crediting the Purchases account.",
+            "expression": null
+          }
+        ],
+        "final_answer": "The error has been rectified by adjusting the accounts accordingly.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "Repairs on machinery Rs 1,400 debited to Machinery account as Rs 2,400.",
+        "part_latex": null,
+        "answer_text": "Repairs A/c Dr. 1,400\nTo Machinery A/c 1,400\n(Repair of machinery Rs 1,400 wrongly debited to Machinery Account as Rs 2,400, now rectified)",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the error in the Machinery account.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Rectify the error by debiting the Repairs account and crediting the Machinery account.",
+            "expression": null
+          }
+        ],
+        "final_answer": "The error has been rectified by adjusting the accounts accordingly.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(d)",
+        "part_text": "Repairs on overhauling of second hand machinery purchased Rs 2,000 was debited to Repairs account as Rs 200.",
+        "part_latex": null,
+        "answer_text": "Machinery A/c Dr. 2,000\nTo Repairs A/c 2,000\n(Overhauling of second hand machine Rs 2,000 wrongly debited to Repairs Account as Rs 200, now rectified)",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the error in the Repairs account.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Rectify the error by debiting the Machinery account and crediting the Repairs account.",
+            "expression": null
+          }
+        ],
+        "final_answer": "The error has been rectified by adjusting the accounts accordingly.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(e)",
+        "part_text": "Sale of old machinery at book value Rs 3,000 was credited to sales account as Rs 5,000.",
+        "part_latex": null,
+        "answer_text": "Sales A/c Dr. 5,000\nTo Machinery A/c 5,000\n(Old machinery sold for Rs 3,000 wrongly credited to Sales Account as Rs 5,000, now rectified)",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the error in the Sales account.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Rectify the error by debiting the Sales account and crediting the Machinery account.",
+            "expression": null
+          }
+        ],
+        "final_answer": "The error has been rectified by adjusting the accounts accordingly.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of journal entries and multi-step rectification.",
+    "topics_tags": [
+      "Trial Balance",
+      "Rectification of Errors",
+      "Journal Entries"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.25",
+    "class": 11,
+    "subject": "accountancy",
+    "chapter_number": 6,
+    "chapter_name": "trial balance rectification of errors",
+    "question_type": "mcq",
+    "question_text": "Rectify the following errors: (a) Depreciation provided on machinery Rs 4,000 was not posted. (b) Bad debts written off Rs 5,000 were not posted. (c) Discount allowed to a debtor Rs 100 on receiving cash from him was not posted. (d) Discount allowed to a debtor Rs 100 on receiving cash from him was not posted to discount account. (e) Bill receivable for Rs 2,000 received from a debtor was not posted.",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "Depreciation provided on machinery Rs 4,000 was not posted."
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "Bad debts written off Rs 5,000 were not posted."
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "Discount allowed to a debtor Rs 100 on receiving cash from him was not posted."
+      },
+      {
+        "option_label": "(D)",
+        "option_text": "Discount allowed to a debtor Rs 100 on receiving cash from him was not posted to discount account. (e) Bill receivable for Rs 2,000 received from a debtor was not posted."
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Depreciation provided on machinery Rs 4,000 was not posted.",
+        "part_latex": null,
+        "answer_text": "Depreciation A/c Dr. 4,000 To Machinery A/c 4,000 (Depreciation on machinery was not posted, now rectified)",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Record the depreciation amount in the journal.",
+            "expression": null
+          }
+        ],
+        "final_answer": "The depreciation on machinery has been rectified.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Bad debts written off Rs 5,000 were not posted.",
+        "part_latex": null,
+        "answer_text": "Bad debts A/c Dr. 5,000 To Debtors A/c 5,000 (Bad debts written off were not posted, now rectified)",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Record the bad debts amount in the journal.",
+            "expression": null
+          }
+        ],
+        "final_answer": "The bad debts have been rectified.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "Discount allowed to a debtor Rs 100 on receiving cash from him was not posted.",
+        "part_latex": null,
+        "answer_text": "Discount Allowed A/c Dr. 100 To Debtors A/c 100 (Discount allowed to debtors was not posted, now rectified)",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Record the discount allowed in the journal.",
+            "expression": null
+          }
+        ],
+        "final_answer": "The discount allowed has been rectified.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(d)",
+        "part_text": "Discount allowed to a debtor Rs 100 on receiving cash from him was not posted to discount account.",
+        "part_latex": null,
+        "answer_text": "Discount Allowed A/c Dr. 100 To Suspense A/c 100 (Discount allowed to debtors was not posted in Discount Account, now rectified)",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Record the discount allowed in the suspense account.",
+            "expression": null
+          }
+        ],
+        "final_answer": "The discount posting error has been rectified.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(e)",
+        "part_text": "Bill receivable for Rs 2,000 received from a debtor was not posted.",
+        "part_latex": null,
+        "answer_text": "Bills Receivable A/c Dr. 2,000 To Debtors A/c 2,000 (Bill receivable received from debtor was not posted, now rectified)",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Record the bill receivable in the journal.",
+            "expression": null
+          }
+        ],
+        "final_answer": "The bill receivable posting has been rectified.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of journal entries and rectification of multiple errors.",
+    "topics_tags": [
+      "Rectification of Errors",
+      "Journal Entries",
+      "Trial Balance"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.26",
+    "class": 11,
+    "subject": "accountancy",
+    "chapter_number": 6,
+    "chapter_name": "trial balance rectification of errors",
+    "question_type": "mcq",
+    "question_text": "Rectify the following errors: (a) Depreciation provided on machinery Rs 4,000 was posted as Rs 400. (b) Bad debts written off Rs 5,000 were posted as Rs 6,000. (c) Discount allowed to a debtor Rs 100 on receiving cash from him was posted as Rs 60. (d) Goods withdrawn by proprietor for personal use Rs 800 were posted as Rs 300. (e) Bill receivable for Rs 2,000 received from a debtor was posted as Rs 3,000.",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "Depreciation provided on machinery Rs 4,000 was posted as Rs 400."
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "Bad debts written off Rs 5,000 were posted as Rs 6,000."
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "Discount allowed to a debtor Rs 100 on receiving cash from him was posted as Rs 60."
+      },
+      {
+        "option_label": "(D)",
+        "option_text": "Goods withdrawn by proprietor for personal use Rs 800 were posted as Rs 300. (e) Bill receivable for Rs 2,000 received from a debtor was posted as Rs 3,000."
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Depreciation provided on machinery Rs 4,000 was posted as Rs 400.",
+        "part_latex": null,
+        "answer_text": "Depreciation A/c Dr. 3,600 To Machinery A/c 3,600 (Depreciation provided on machinery Rs 4,000 wrongly posted as Rs 400, now rectified)",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the difference between the correct and incorrect posting.",
+            "expression": null
+          }
+        ],
+        "final_answer": "The depreciation posting has been rectified.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Bad debts written off Rs 5,000 were posted as Rs 6,000.",
+        "part_latex": null,
+        "answer_text": "Debtors A/c Dr. 1,000 To Bad debt A/c 1,000 (Bad debt written off Rs 5,000 wrongly posted as Rs 6,000, now rectified)",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the difference between the correct and incorrect posting.",
+            "expression": null
+          }
+        ],
+        "final_answer": "The bad debts posting has been rectified.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "Discount allowed to a debtor Rs 100 on receiving cash from him was posted as Rs 60.",
+        "part_latex": null,
+        "answer_text": "Discount Allowed A/c Dr. 40 To Debtors A/c 40 (Discount allowed to debtors Rs 100 wrongly posted as Rs 60, now rectified)",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the difference between the correct and incorrect posting.",
+            "expression": null
+          }
+        ],
+        "final_answer": "The discount posting has been rectified.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(d)",
+        "part_text": "Goods withdrawn by proprietor for personal use Rs 800 were posted as Rs 300.",
+        "part_latex": null,
+        "answer_text": "Drawings A/c Dr. 500 To Purchases A/c 500 (Drawings of goods Rs 800 wrongly posted as Rs 300, now rectified)",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the difference between the correct and incorrect posting.",
+            "expression": null
+          }
+        ],
+        "final_answer": "The drawings posting has been rectified.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(e)",
+        "part_text": "Bill receivable for Rs 2,000 received from a debtor was posted as Rs 3,000.",
+        "part_latex": null,
+        "answer_text": "Debtors A/c Dr. 1,000 To Bills Receivable A/c 1,000 (Bills receivable for 2,000 received from debtors wrongly posted as Rs 3,000)",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the difference between the correct and incorrect posting.",
+            "expression": null
+          }
+        ],
+        "final_answer": "The bill receivable posting has been rectified.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of journal entries and rectification of multiple errors.",
+    "topics_tags": [
+      "Rectification of Errors",
+      "Journal Entries",
+      "Trial Balance"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.27",
+    "class": 11,
+    "subject": "accountancy",
+    "chapter_number": 6,
+    "chapter_name": "trial balance rectification of errors",
+    "question_type": "mcq",
+    "question_text": "Trial balance of Anuj did not agree. It showed an excess credit of Rs 6,000. He put the difference to suspense account. He discovered the following errors: (a) Cash received from Ravish Rs 8,000 posted to his account as Rs 6,000. (b) Returns inwards book overcast by Rs 1,000. (c) Total of sales book Rs 10,000 was not posted to Sales account. (d) Credit purchases from Nanak Rs 7,000 were recorded in sales Book. However, Nanak's account was correctly credited. (e) Machinery purchased for Rs 10,000 was posted to purchases account as Rs 5,000. Rectify the errors and prepare suspense account.",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "Cash received from Ravish Rs 8,000 posted to his account as Rs 6,000."
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "Returns inwards book overcast by Rs 1,000."
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "Total of sales book Rs 10,000 was not posted to Sales account."
+      },
+      {
+        "option_label": "(D)",
+        "option_text": "Credit purchases from Nanak Rs 7,000 were recorded in sales Book. However, Nanak's account was correctly credited. (e) Machinery purchased for Rs 10,000 was posted to purchases account as Rs 5,000. Rectify the errors and prepare suspense account."
+      }
+    ],
+    "correct_option": "(A)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Journal\nDebit Credit\nS. No. Particulars L.F. Amount Amount\nRs Rs\n(a) Suspense A/c Dr. 2,000\nTo Ravish 2,000\n(Cash received from Ravish Rs 8,000 wrongly posted to his account as Rs 6,000, now rectified)\n(b) Suspense A/c Dr. 1,000\nTo Return Inwards A/c 1,000\n(Return Inwards Book overcast by Rs 1,000, now rectified)\n(c) Suspense A/c Dr. 10,000\nTo Sales A/c 10,000\n(Total of Sales Book was not posted to Sales Account, now rectified)\n(d) Purchases A/c Dr. 7,000\nSales A/c 7,000\nTo Suspense A/c 14,000\n(Goods purchased from Nanak wrongly posted to Sales Book; however, Nanak's Account was correctly credited, now rectified)\n(e) Machinery A/c Dr. 10,000\nTo Purchases A/c 5,000\nTo Suspense A/c 5,000\n(Machinery purchased Rs 10,000 wrongly posted to Purchases Account Rs 5,000, now rectified)",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "The errors have been rectified and the suspense account prepared accordingly.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps of error identification and rectification.",
+    "topics_tags": [
+      "Trial Balance",
+      "Rectification of Errors",
+      "Suspense Account"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.28",
+    "class": 11,
+    "subject": "accountancy",
+    "chapter_number": 6,
+    "chapter_name": "trial balance rectification of errors",
+    "question_type": "mcq",
+    "question_text": "Trial balance of Raju showed an excess debit of Rs 10,000. He put the difference to suspense account and discovered the following errors: (a) Depreciation written-off the furniture Rs 6,000 was not posted to Furniture account. (b) Credit sales to Rupam Rs 10,000 were recorded as Rs 7,000. (c) Purchases book undercast by Rs 2,000. (d) Cash sales to Rana Rs 5,000 were not posted. (e) Old Machinery sold for Rs 7,000 was credited to sales account. (f) Discount received Rs 800 from Kanan on playing cash to him was not posted. Rectify the errors and prepare suspense account.",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "Depreciation written-off the furniture Rs 6,000 was not posted to Furniture account."
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "Credit sales to Rupam Rs 10,000 were recorded as Rs 7,000."
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "Purchases book undercast by Rs 2,000."
+      },
+      {
+        "option_label": "(D)",
+        "option_text": "Cash sales to Rana Rs 5,000 were not posted. (e) Old Machinery sold for Rs 7,000 was credited to sales account. (f) Discount received Rs 800 from Kanan on playing cash to him was not posted. Rectify the errors and prepare suspense account."
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps of error identification and rectification.",
+    "topics_tags": [
+      "Trial Balance",
+      "Rectification of Errors",
+      "Suspense Account"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.29",
+    "class": 11,
+    "subject": "accountancy",
+    "chapter_number": 6,
+    "chapter_name": "trial balance rectification of errors",
+    "question_type": "mcq",
+    "question_text": "Trial balance of Madan did not agree and he put the difference to suspense account. He discovered the following errors: (a) Sales return book overcast by Rs 800. (b) Purchases return to Sahu Rs 2,000 were not posted. (c) Goods purchased on credit from Narula Rs 4,000 though taken into stock, but no entry was passed in the books. (d) Installation charges on new machinery purchased Rs 500 were debited to sundry expenses account as Rs 50. (e) Rent paid for residential accommodation of madam (the proprietor) Rs 1,400 was debited to Rent account as Rs 1,000. Rectify the errors and prepare suspense account to ascertain the difference in trial balance.",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "Sales return book overcast by Rs 800."
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "Purchases return to Sahu Rs 2,000 were not posted."
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "Goods purchased on credit from Narula Rs 4,000 though taken into stock, but no entry was passed in the books."
+      },
+      {
+        "option_label": "(D)",
+        "option_text": "Installation charges on new machinery purchased Rs 500 were debited to sundry expenses account as Rs 50. (e) Rent paid for residential accommodation of madam (the proprietor) Rs 1,400 was debited to Rent account as Rs 1,000. Rectify the errors and prepare suspense account to ascertain the difference in trial balance."
+      }
+    ],
+    "correct_option": "(A)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Journal\nDebit Credit\nAmount Amount\nS. No. Particulars L.F. Rs Rs\n(a) Suspense A/c Dr. 800\nTo Sales Return A/c 800\n(Sales Return Book overcast by Rs 800, now rectified)\n(b) Sahu Dr. 2,000\nTo Purchases Return A/c 2,000\n(Goods returned to Sahu, were not posted, now rectified)\n(c) Purchases A/c Dr. 4,000\nTo Narula 4,000\n(Goods purchased from Narula were not posted, now rectified)\n(d) Machinery A/c Dr. 500\nTo Sundry Expense A/c 50\nTo Suspense A/c 450\n(Installation charges on machinery Rs 500 wrongly debited to Sundry Expenses Account as Rs 50, now rectified)\n(e) Drawings A/c Dr. 1,400\nTo Rent A/c 1,000\nTo Suspense A/c 400\n(Rent paid for residential accommodation of proprietor as 1,400, was posted to Rent Account as Rs 1,000, now rectified)",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "The errors have been rectified and the suspense account prepared.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of multiple rectifications and journal entries.",
+    "topics_tags": [
+      "Trial Balance",
+      "Rectification of Errors",
+      "Suspense Account"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.30",
+    "class": 11,
+    "subject": "accountancy",
+    "chapter_number": 6,
+    "chapter_name": "trial balance rectification of errors",
+    "question_type": "mcq",
+    "question_text": "Trial balance of Kohli did not agree and showed an excess debit of Rs 16,300. He put the difference to a suspense account and discovered the following errors: (a) Cash received from Rajat Rs 5,000 was posted to the debit of Kamal as Rs 6,000. (b) Salaries paid to an employee Rs 2,000 were debited to his personal account as Rs 1,200. (c) Goods withdrawn by proprietor for personal use Rs 1,000 were credited to sales account as Rs 1,600. (d) Depreciation provided on machinery Rs 3,000 was posted to Machinery account as Rs 300. (e) Sale of old car for Rs 10,000 was credited to sales account as Rs 6,000. Rectify the errors and prepare suspense account.",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "Cash received from Rajat Rs 5,000 was posted to the debit of Kamal as Rs 6,000."
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "Salaries paid to an employee Rs 2,000 were debited to his personal account as Rs 1,200."
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "Goods withdrawn by proprietor for personal use Rs 1,000 were credited to sales account as Rs 1,600."
+      },
+      {
+        "option_label": "(D)",
+        "option_text": "Depreciation provided on machinery Rs 3,000 was posted to Machinery account as Rs 300. (e) Sale of old car for Rs 10,000 was credited to sales account as Rs 6,000. Rectify the errors and prepare suspense account."
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple errors and requires understanding of rectification.",
+    "topics_tags": [
+      "Trial Balance",
+      "Rectification of Errors",
+      "Suspense Account"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.31",
+    "class": 11,
+    "subject": "accountancy",
+    "chapter_number": 6,
+    "chapter_name": "trial balance rectification of errors",
+    "question_type": "mcq",
+    "question_text": "Give journal entries to rectify the following errors assuming that suspense account had been opened. (a) Goods distributed as free sample Rs 5,000 were not recorded in the books. (b) Goods withdrawn for personal use by the proprietor Rs 2,000 were not recorded in the books. (c) Bill receivable received from a debtor Rs 6,000 was not posted to his account. (d) Total of Returns inwards book Rs 1,200 was posted to Returns outwards account. (e) Discount allowed to Reema Rs 700 on receiving cash from her was recorded in the books as Rs 70.",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "Goods distributed as free sample Rs 5,000 were not recorded in the books."
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "Goods withdrawn for personal use by the proprietor Rs 2,000 were not recorded in the books."
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "Bill receivable received from a debtor Rs 6,000 was not posted to his account."
+      },
+      {
+        "option_label": "(D)",
+        "option_text": "Total of Returns inwards book Rs 1,200 was posted to Returns outwards account. (e) Discount allowed to Reema Rs 700 on receiving cash from her was recorded in the books as Rs 70."
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Goods distributed as free sample Rs 5,000 were not recorded in the books.",
+        "part_latex": null,
+        "answer_text": "Advertisement A/c Dr. 5,000 To Purchases A/c 5,000 (Goods distributed as free sample Rs 5,000 were not recorded, now rectified)",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "The journal entry for goods distributed as free sample is recorded.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Goods withdrawn for personal use by the proprietor Rs 2,000 were not recorded in the books.",
+        "part_latex": null,
+        "answer_text": "Drawings A/c Dr. 2,000 To Purchases A/c 2,000 (Goods withdrawn by proprietor for personal use were not recorded, now rectified)",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "The journal entry for goods withdrawn for personal use is recorded.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "Bill receivable received from a debtor Rs 6,000 was not posted to his account.",
+        "part_latex": null,
+        "answer_text": "Suspense A/c Dr. 6,000 To Debtors A/c 6,000 (B/R received from debtors was not posted to his account, now rectified)",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "The journal entry for bill receivable not posted is recorded.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(d)",
+        "part_text": "Total of Returns inwards book Rs 1,200 was posted to Returns outwards account.",
+        "part_latex": null,
+        "answer_text": "Return Inward A/c Dr. 1,200 Return Outward A/c Dr. 1,200 To Suspense A/c 2,400 (Total Return Inwards Book Rs 1,200 wrongly posted to Returns Outwards Account, now rectified)",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "The journal entry for returns inwards wrongly posted is recorded.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(e)",
+        "part_text": "Discount allowed to Reema Rs 700 on receiving cash from her was recorded in the books as Rs 70.",
+        "part_latex": null,
+        "answer_text": "Discount Allowed A/c Dr. 630 To Reema Dr. 630 (Discount allowed to Reema Rs 700 wrongly recorded as Rs 70, now rectified)",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "The journal entry for discount allowed to Reema is recorded.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of journal entries and rectification of errors.",
+    "topics_tags": [
+      "Journal Entries",
+      "Rectification of Errors",
+      "Suspense Account"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.32",
+    "class": 11,
+    "subject": "accountancy",
+    "chapter_number": 6,
+    "chapter_name": "trial balance rectification of errors",
+    "question_type": "conceptual",
+    "question_text": "Rectify the above errors and prepare suspense account to ascertain the difference in trial balance.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The rectification of errors involves adjusting the accounts to correct the discrepancies found in the trial balance.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify and rectify each error listed.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Prepare the suspense account to reflect the adjustments.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the suspense account will show the corrected balances after all errors are rectified.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of multiple errors and their rectification process.",
+    "topics_tags": [
+      "Trial Balance",
+      "Rectification of Errors",
+      "Suspense Account"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  }
+]

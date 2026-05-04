@@ -1,0 +1,707 @@
+[
+  {
+    "question_id": "Q7.1",
+    "class": 8,
+    "subject": "maths",
+    "chapter_number": 7,
+    "chapter_name": "cubes and cube roots",
+    "question_type": "conceptual",
+    "question_text": "Which of the following numbers are not perfect cubes? (i) 216 (ii) 128 (iii) 1000 (iv) 100 (v) 46656",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The numbers that are not perfect cubes are 128 and 100.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Factorize each number and check the powers of the prime factors.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Identify that 216, 1000, and 46656 are perfect cubes, while 128 and 100 are not.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, 128 and 100 are not perfect cubes.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of prime factorization and perfect cubes.",
+    "topics_tags": [
+      "Perfect Cubes",
+      "Prime Factorization",
+      "Mathematics"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.2",
+    "class": 8,
+    "subject": "maths",
+    "chapter_number": 7,
+    "chapter_name": "cubes and cube roots",
+    "question_type": "numerical",
+    "question_text": "Find the smallest number by which each of the following numbers must be multiplied to obtain a perfect cube. (i) 243 (ii) 256 (iii) 72 (iv) 675 (v) 100",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The smallest numbers to multiply are: (i) 1 for 243, (ii) 4 for 256, (iii) 2 for 72, (iv) 3 for 675, (v) 5 for 100.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Factorize each number to find the powers of prime factors.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Determine the smallest number needed to make each power a multiple of 3.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the smallest numbers to multiply are 1, 4, 2, 3, and 5 respectively.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations and understanding of perfect cubes.",
+    "topics_tags": [
+      "Perfect Cubes",
+      "Multiplication",
+      "Mathematics"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.3",
+    "class": 8,
+    "subject": "maths",
+    "chapter_number": 7,
+    "chapter_name": "cubes and cube roots",
+    "question_type": "multipart",
+    "question_text": "Find the smallest number by which each of the following numbers must be divided to obtain a perfect cube. (i) 81 (ii) 128 (iii) 135 (iv) 192 (v) 704",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "81",
+        "part_latex": null,
+        "answer_text": "Hence, the smallest number by which 81 should be divided to make it a perfect cube is 3.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Factor 81 into prime factors.",
+            "expression": "81 = 3 x 3 x 3 x 3"
+          },
+          {
+            "step_number": 2,
+            "description": "Identify that one 3 is left which is not in a triplet.",
+            "expression": null
+          },
+          {
+            "step_number": 3,
+            "description": "Divide 81 by 3 to make it a perfect cube.",
+            "expression": "81 ÷ 3 = 27 = 3 x 3 x 3"
+          }
+        ],
+        "final_answer": "Thus, 81 divided by 3 gives a perfect cube.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "128",
+        "part_latex": null,
+        "answer_text": "Hence, the smallest number by which 128 should be divided to make it a perfect cube is 2.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Factor 128 into prime factors.",
+            "expression": "128 = 2 x 2 x 2 x 2 x 2 x 2 x 2"
+          },
+          {
+            "step_number": 2,
+            "description": "Identify that one 2 is left which is not in a triplet.",
+            "expression": null
+          },
+          {
+            "step_number": 3,
+            "description": "Divide 128 by 2 to make it a perfect cube.",
+            "expression": "128 ÷ 2 = 64 = 2 x 2 x 2 x 2 x 2 x 2"
+          }
+        ],
+        "final_answer": "Thus, 128 divided by 2 gives a perfect cube.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "135",
+        "part_latex": null,
+        "answer_text": "Hence, the smallest number by which 135 should be divided to make it a perfect cube is 5.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Factor 135 into prime factors.",
+            "expression": "135 = 3 x 3 x 3 x 5"
+          },
+          {
+            "step_number": 2,
+            "description": "Identify that one 5 is left which is not in a triplet.",
+            "expression": null
+          },
+          {
+            "step_number": 3,
+            "description": "Divide 135 by 5 to make it a perfect cube.",
+            "expression": "135 ÷ 5 = 27 = 3 x 3 x 3"
+          }
+        ],
+        "final_answer": "Thus, 135 divided by 5 gives a perfect cube.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iv)",
+        "part_text": "192",
+        "part_latex": null,
+        "answer_text": "Hence, the smallest number by which 192 should be divided to make it a perfect cube is 3.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Factor 192 into prime factors.",
+            "expression": "192 = 2 x 2 x 2 x 2 x 2 x 2 x 3"
+          },
+          {
+            "step_number": 2,
+            "description": "Identify that one 3 is left which is not in a triplet.",
+            "expression": null
+          },
+          {
+            "step_number": 3,
+            "description": "Divide 192 by 3 to make it a perfect cube.",
+            "expression": "192 ÷ 3 = 64 = 2 x 2 x 2 x 2 x 2 x 2"
+          }
+        ],
+        "final_answer": "Thus, 192 divided by 3 gives a perfect cube.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(v)",
+        "part_text": "704",
+        "part_latex": null,
+        "answer_text": "Hence, the smallest number by which 704 should be divided to make it a perfect cube is 11.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Factor 704 into prime factors.",
+            "expression": "704 = 2 x 2 x 2 x 2 x 2 x 2 x 11"
+          },
+          {
+            "step_number": 2,
+            "description": "Identify that one 11 is left which is not in a triplet.",
+            "expression": null
+          },
+          {
+            "step_number": 3,
+            "description": "Divide 704 by 11 to make it a perfect cube.",
+            "expression": "704 ÷ 11 = 64 = 2 x 2 x 2 x 2 x 2 x 2"
+          }
+        ],
+        "final_answer": "Thus, 704 divided by 11 gives a perfect cube.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of prime factorization and division to achieve perfect cubes.",
+    "topics_tags": [
+      "Perfect Cube",
+      "Prime Factorization",
+      "Division"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.4",
+    "class": 8,
+    "subject": "maths",
+    "chapter_number": 7,
+    "chapter_name": "cubes and cube roots",
+    "question_type": "conceptual",
+    "question_text": "State true or false for the following statements: (i) Cube of any odd number is even. (ii) A perfect cube does not end with two zeroes. (iii) If square of a number ends with 5, then its cube ends with 25. (iv) There is no perfect cube which ends with 8. (v) The cube of a two digit number may be a three digit number. (vi) The cube of a two digit number may have seven or more digits.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of properties of cubes and basic number theory.",
+    "topics_tags": [
+      "Cube Properties",
+      "Odd Numbers",
+      "Perfect Cubes"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.5",
+    "class": 8,
+    "subject": "maths",
+    "chapter_number": 7,
+    "chapter_name": "cubes and cube roots",
+    "question_type": "conceptual",
+    "question_text": "You are told that 1331 is a perfect cube. Can you guess without factorization what is its cube root? Similarly, guess the cube roots of 4913, 12167, 32768.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Find the cube root of 1331.",
+        "part_latex": null,
+        "answer_text": "The cube root of 1331 is 11.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Group the digits of 1331 into two groups: 1 and 331.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Identify the unit digit of the cube root based on the unit digit of 331, which is 1.",
+            "expression": null
+          },
+          {
+            "step_number": 3,
+            "description": "Determine the tens digit from the first group, which is 1.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, the cube root of 1331 is 11.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Find the cube root of 4913.",
+        "part_latex": null,
+        "answer_text": "The cube root of 4913 is 17.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Group the digits of 4913 into two groups: 4 and 913.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Identify the unit digit of the cube root based on the unit digit of 913, which is 3.",
+            "expression": null
+          },
+          {
+            "step_number": 3,
+            "description": "Determine the tens digit from the first group, which is 4, and find the nearest cube root, which is 1.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, the cube root of 4913 is 17.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "Find the cube root of 12167.",
+        "part_latex": null,
+        "answer_text": "The cube root of 12167 is 23.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Group the digits of 12167 into two groups: 12 and 167.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Identify the unit digit of the cube root based on the unit digit of 167, which is 7.",
+            "expression": null
+          },
+          {
+            "step_number": 3,
+            "description": "Determine the tens digit from the first group, which is 12, and find the nearest cube root, which is 2.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, the cube root of 12167 is 23.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(d)",
+        "part_text": "Find the cube root of 32768.",
+        "part_latex": null,
+        "answer_text": "The cube root of 32768 is 32.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Group the digits of 32768 into two groups: 32 and 768.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Identify the unit digit of the cube root based on the unit digit of 768, which is 8.",
+            "expression": null
+          },
+          {
+            "step_number": 3,
+            "description": "Determine the tens digit from the first group, which is 32, and find the nearest cube root, which is 3.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, the cube root of 32768 is 32.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of cube roots and grouping digits.",
+    "topics_tags": [
+      "Cube Roots",
+      "Perfect Cubes",
+      "Mathematical Reasoning"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.6",
+    "class": 8,
+    "subject": "maths",
+    "chapter_number": 7,
+    "chapter_name": "cubes and cube roots",
+    "question_type": "conceptual",
+    "question_text": "What is the tens place of the required cube root when comparing 3 and 4?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "3 is smaller between 3 and 4, so 3 will be taken at the tens place of the required cube root.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, 3 will be taken at the tens place of the required cube root.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of comparison between two numbers.",
+    "topics_tags": [
+      "Cube Roots",
+      "Comparison",
+      "Mathematics"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  }
+]

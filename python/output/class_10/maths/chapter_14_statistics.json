@@ -1,0 +1,1416 @@
+[
+  {
+    "question_id": "Q14.1",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 14,
+    "chapter_name": "statistics",
+    "question_type": "numerical",
+    "question_text": "A survey was conducted by a group of students as a part of their environment awareness programme, in which they collected the following data regarding the number of plants in 20 houses in a locality. Find the mean number of plants per house.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, mean number of plants per house is 8.1.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the class mark (x) for each interval and the corresponding fx values.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Sum the fx values and divide by the total number of houses to find the mean.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, the mean number of plants per house is 8.1.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of mean calculation and basic arithmetic.",
+    "topics_tags": [
+      "Mean",
+      "Statistics",
+      "Data Analysis"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q14.2",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 14,
+    "chapter_name": "statistics",
+    "question_type": "numerical",
+    "question_text": "Consider the following distribution of daily wages of 50 workers of a factory. Find the mean daily wages of the workers of the factory by using an appropriate method.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, the mean daily wage of the workers of the factory is Rs 145.20.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the class mark for each interval and the corresponding d and fu values.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the formula to find the mean based on the calculated values.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, the mean daily wage of the workers of the factory is Rs 145.20.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of the sum of frequencies and calculations for mean.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656928/ncert/maths/14/img_2_0.png",
+      "latex_extracted": "\\sum f_{i}=20",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps and understanding of wage distribution.",
+    "topics_tags": [
+      "Mean",
+      "Daily Wages",
+      "Statistics"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the sum of frequencies and calculations for mean.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656928/ncert/maths/14/img_2_0.png",
+        "latex_extracted": "\\sum f_{i}=20",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q14.3",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 14,
+    "chapter_name": "statistics",
+    "question_type": "numerical",
+    "question_text": "The following distribution shows the daily pocket allowance of children of a locality. The mean pocket allowance is Rs.18. Find the missing frequency f.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set up the equation based on the given mean and the frequency distribution.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Solve for the missing frequency f using the mean formula.",
+        "expression": null
+      }
+    ],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of the sum of frequencies and calculations for mean.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656931/ncert/maths/14/img_3_0.png",
+      "latex_extracted": "\\sum f_{i}=50",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires setting up and solving an equation based on mean.",
+    "topics_tags": [
+      "Mean",
+      "Pocket Allowance",
+      "Statistics"
+    ],
+    "confidence_score": 0.88,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the sum of frequencies and calculations for mean.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656931/ncert/maths/14/img_3_0.png",
+        "latex_extracted": "\\sum f_{i}=50",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q14.4",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 14,
+    "chapter_name": "statistics",
+    "question_type": "numerical",
+    "question_text": "Thirty women were examined in a hospital by a doctor and the number of heart beats per minute were recorded and summarized as follows. Find the mean heart beats per minute for these women, choosing a suitable method.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, mean heart beats per minute for these women are 75.9 beats per minute.",
+    "answer_latex": "\\operatorname{Mean}{\\overline{{x}}}=75.9",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the class mark for each interval and the corresponding frequencies.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the formula for mean to calculate the average heart beats per minute.",
+        "expression": "\\operatorname{Mean}{\\overline{{x}}}=75.5+\\left({\\frac{4}{30}}\\right)\\times3"
+      }
+    ],
+    "final_answer": "Thus, the mean heart beats per minute for these women is 75.9.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of the mean calculation for heart beats per minute.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656934/ncert/maths/14/img_4_0.png",
+      "latex_extracted": "\\sum f_{i}=44+f",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps of calculation and understanding of statistical methods.",
+    "topics_tags": [
+      "Mean",
+      "Statistics",
+      "Heart Rate"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the mean calculation for heart beats per minute.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656934/ncert/maths/14/img_4_0.png",
+        "latex_extracted": "\\sum f_{i}=44+f",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      },
+      {
+        "present": true,
+        "description": "Mathematical representation of the mean calculation for heart beats per minute.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656938/ncert/maths/14/img_5_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q14.5",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 14,
+    "chapter_name": "statistics",
+    "question_type": "numerical",
+    "question_text": "Find the mean daily expenditure on food by a suitable method.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, mean daily expenditure on food is Rs 211.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the class marks for each interval.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the step deviation method to find the mean.",
+        "expression": "\\theta=225+\\left(\\frac{-7}{25}\\right)\\times50"
+      }
+    ],
+    "final_answer": "Therefore, the mean daily expenditure on food is Rs 211.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical derivation for calculating mean daily expenditure using step deviation method.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656946/ncert/maths/14/img_8_0.png",
+      "latex_extracted": "\\begin{array}{r l}{\\operatorname{Mean},{\\overset{-}{x}}=a+\\left({\\frac{\\sum f_{i}u_{i}}{2f_{i}}}\\right)x\\,h}\\\\ {\\mathbf{\\theta}=225+\\left({\\frac{-7}{25}}\\right)x\\left(50\\right)}\\\\ {\\mathbf{\\theta}=225-14}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of the step deviation method and basic calculations.",
+    "topics_tags": [
+      "Mean",
+      "Statistics",
+      "Step Deviation Method"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical derivation for calculating mean daily expenditure using step deviation method.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656946/ncert/maths/14/img_8_0.png",
+        "latex_extracted": "\\begin{array}{r l}{\\operatorname{Mean},{\\overset{-}{x}}=a+\\left({\\frac{\\sum f_{i}u_{i}}{2f_{i}}}\\right)x\\,h}\\\\ {\\mathbf{\\theta}=225+\\left({\\frac{-7}{25}}\\right)x\\left(50\\right)}\\\\ {\\mathbf{\\theta}=225-14}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q14.6",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 14,
+    "chapter_name": "statistics",
+    "question_type": "numerical",
+    "question_text": "Find the mean concentration of SO in the air.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, mean concentration of SO in the air is 0.099 ppm.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the class marks for each interval.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the formula to find the mean concentration.",
+        "expression": "=0.14+\\left(-31\\right)\\left(0.04\\right)"
+      }
+    ],
+    "final_answer": "Therefore, the mean concentration of SO in the air is 0.099 ppm.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical derivation for calculating mean concentration of SO in the air.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656948/ncert/maths/14/img_9_0.png",
+      "latex_extracted": "\\begin{array}{l}{{\\sum f_{i}=30}}\\\\ {{\\sum f_{i}u_{i}=-31}}\\\\ {{\\mathrm{Mean},\\stackrel{-}{x}=a+\\left(\\frac{\\sum f_{i}u_{i}}{\\sum f_{i}}\\right)\\times h}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of frequency distribution and basic calculations.",
+    "topics_tags": [
+      "Mean",
+      "Statistics",
+      "Concentration"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical derivation for calculating mean concentration of SO in the air.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656948/ncert/maths/14/img_9_0.png",
+        "latex_extracted": "\\begin{array}{l}{{\\sum f_{i}=30}}\\\\ {{\\sum f_{i}u_{i}=-31}}\\\\ {{\\mathrm{Mean},\\stackrel{-}{x}=a+\\left(\\frac{\\sum f_{i}u_{i}}{\\sum f_{i}}\\right)\\times h}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      },
+      {
+        "present": true,
+        "description": "Further calculations for mean concentration of SO in the air.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656950/ncert/maths/14/img_9_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q14.7",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 14,
+    "chapter_name": "statistics",
+    "question_type": "numerical",
+    "question_text": "The following table gives the literacy rate (in percentage) of 35 cities. Find the mean literacy rate.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Table showing literacy rates and number of cities",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656955/ncert/maths/14/img_11_0.png",
+      "latex_extracted": "\\begin{array}{c}{{\\Sigma_{f u s s}}}\\\\ {{\\Sigma_{f u s s}=2}}\\\\ {{\\Gamma_{h e a n,\\overline{{{x}}}}=a+\\left(\\frac{\\Sigma_{f u s}}{35}\\right)\\cdot\\left(10\\right)}}\\\\ {{}}&{{=70-\\frac{4}{35}\\right)\\cdot\\left(10\\right)}}\\\\ {{\\ast70-\\frac{\\Pi_{f0}}{55}}}\\\\ {{}}&{{\\ast70-0.735}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Therefore, mean literacy rate is 69.43%.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the class marks and frequencies for each literacy rate interval.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the formula for mean to find the mean literacy rate.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the mean literacy rate of the cities is 69.43%.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of mean calculation and basic statistics.",
+    "topics_tags": [
+      "Mean",
+      "Statistics",
+      "Literacy Rate"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Table showing literacy rates and number of cities",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656955/ncert/maths/14/img_11_0.png",
+        "latex_extracted": "\\begin{array}{c}{{\\Sigma_{f u s s}}}\\\\ {{\\Sigma_{f u s s}=2}}\\\\ {{\\Gamma_{h e a n,\\overline{{{x}}}}=a+\\left(\\frac{\\Sigma_{f u s}}{35}\\right)\\cdot\\left(10\\right)}}\\\\ {{}}&{{=70-\\frac{4}{35}\\right)\\cdot\\left(10\\right)}}\\\\ {{\\ast70-\\frac{\\Pi_{f0}}{55}}}\\\\ {{}}&{{\\ast70-0.735}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q14.8",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 14,
+    "chapter_name": "statistics",
+    "question_type": "numerical",
+    "question_text": "Find the mode and the mean of the ages of the patients admitted in a hospital during a year. Compare and interpret the two measures of central tendency.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Table showing ages of patients and their frequencies",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656957/ncert/maths/14/img_12_0.png",
+      "latex_extracted": "\\begin{array}{r l}{\\sum f_{i}=80}\\\\ {\\sum f_{j}d_{i}=430}\\\\ {\\sum f_{i}d_{i}=450}\\\\ {\\ M\\mathrm{{cun}},{\\frac{\\sum f_{i}}{x=30+5.375}}}\\\\ {\\mid\\begin{array}{r}{{}=35.375}}\\\\ {{}=35.38}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Mean of this data is 35.38. It represents that on an average, the age of a patient admitted to hospital was 35.38 years.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the mean using the formula for grouped data.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Identify the modal class and calculate the mode.",
+        "expression": null
+      }
+    ],
+    "final_answer": "The average age of patients is 35.38 years, with the modal class being 35-45 years.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations and interpretation of results.",
+    "topics_tags": [
+      "Mean",
+      "Mode",
+      "Statistics",
+      "Age Distribution"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Table showing ages of patients and their frequencies",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656957/ncert/maths/14/img_12_0.png",
+        "latex_extracted": "\\begin{array}{r l}{\\sum f_{i}=80}\\\\ {\\sum f_{j}d_{i}=430}\\\\ {\\sum f_{i}d_{i}=450}\\\\ {\\ M\\mathrm{{cun}},{\\frac{\\sum f_{i}}{x=30+5.375}}}\\\\ {\\mid\\begin{array}{r}{{}=35.375}}\\\\ {{}=35.38}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q14.9",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 14,
+    "chapter_name": "statistics",
+    "question_type": "numerical",
+    "question_text": "Determine the modal lifetimes of the components from the given data on observed lifetimes of 225 electrical components.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical calculation for determining the mode of the lifetimes of electrical components.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656960/ncert/maths/14/img_13_0.png",
+      "latex_extracted": "\\begin{array}{c}{{=35+\\left({\\frac{23-21}{2(23)-21-14}}\\right)\\times10}}\\\\ {{=35+{\\frac{20}{11}}}}\\\\ {{=35+{\\frac{20}{11}}}}\\\\ {{=35+1.81}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Therefore, modal lifetime of electrical components is 65.625 hours.",
+    "answer_latex": "65.625",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the modal class based on maximum frequency.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Apply the mode formula to calculate the modal lifetime.",
+        "expression": "\\mathrm{Mode}=I+\\left(\\frac{f_{1}-f_{0}}{2f_{1}-f_{0}-f_{2}}\\right)\\times h"
+      },
+      {
+        "step_number": 3,
+        "description": "Substitute the values into the mode formula.",
+        "expression": "\\mathrm{Mode}=60+\\left(\\frac{61-52}{2(61)-52-38}\\right)\\times20"
+      }
+    ],
+    "final_answer": "Therefore, the modal lifetime of electrical components is 65.625 hours.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of frequency distribution and application of the mode formula.",
+    "topics_tags": [
+      "Statistics",
+      "Mode",
+      "Frequency Distribution"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical calculation for determining the mode of the lifetimes of electrical components.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656960/ncert/maths/14/img_13_0.png",
+        "latex_extracted": "\\begin{array}{c}{{=35+\\left({\\frac{23-21}{2(23)-21-14}}\\right)\\times10}}\\\\ {{=35+{\\frac{20}{11}}}}\\\\ {{=35+{\\frac{20}{11}}}}\\\\ {{=35+1.81}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q14.10",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 14,
+    "chapter_name": "statistics",
+    "question_type": "numerical",
+    "question_text": "Find the modal monthly expenditure of the families from the given distribution of total monthly household expenditure of 200 families.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical calculation for determining the mode of the monthly expenditure of families.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656966/ncert/maths/14/img_15_0.png",
+      "latex_extracted": "\\begin{array}{c}{{\\mathrm{Mode}={\\cal I}+\\left(\\frac{f_{1}-f_{0}}{2f_{1}-f_{0}-f_{2}}\\right)\\times h}}\\\\ {{\\qquad\\qquad\\qquad\\left.=1500+\\left(\\frac{40-24}{80-57}\\right)\\times500}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Therefore, modal monthly expenditure was Rs 1847.83.",
+    "answer_latex": "1847.83",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the modal class based on maximum frequency.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Apply the mode formula to calculate the modal monthly expenditure.",
+        "expression": "\\mathrm{Mode}={\\cal I}+\\left(\\frac{f_{1}-f_{0}}{2f_{1}-f_{0}-f_{2}}\\right)\\times h"
+      },
+      {
+        "step_number": 3,
+        "description": "Substitute the values into the mode formula.",
+        "expression": "\\mathrm{Mode}=1500+\\left(\\frac{40-24}{80-57}\\right)\\times500"
+      }
+    ],
+    "final_answer": "Therefore, modal monthly expenditure was Rs 1847.83.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of frequency distribution and application of the mode formula.",
+    "topics_tags": [
+      "Statistics",
+      "Mode",
+      "Expenditure"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical calculation for determining the mode of the monthly expenditure of families.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656966/ncert/maths/14/img_15_0.png",
+        "latex_extracted": "\\begin{array}{c}{{\\mathrm{Mode}={\\cal I}+\\left(\\frac{f_{1}-f_{0}}{2f_{1}-f_{0}-f_{2}}\\right)\\times h}}\\\\ {{\\qquad\\qquad\\qquad\\left.=1500+\\left(\\frac{40-24}{80-57}\\right)\\times500}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q14.11",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 14,
+    "chapter_name": "statistics",
+    "question_type": "multipart",
+    "question_text": "Find the mode and mean of this data. Interpret the two measures.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Table showing the state-wise teacher-student ratio in higher secondary schools of India.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656969/ncert/maths/14/img_16_0.png",
+      "latex_extracted": "\\begin{array}{c}{{\\mathrm{Mode}=l+\\left[{\\frac{f_{1}-f_{o}}{2f_{1}-f_{o}-f_{2}}}\\right]x\\,h}}\\\\ {{=30+\\left[{\\frac{10-9}{20-3}}\\right]<(5)}}\\\\ {{\\mathrm{Mode}=30.6}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Find the mode of the data.",
+        "part_latex": null,
+        "answer_text": "The modal class is 30 - 35, and the mode is 30.6.",
+        "answer_latex": "30.6",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the modal class from the frequency distribution.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Use the mode formula to calculate the mode.",
+            "expression": "\\mathrm{Mode}=l+\\left[{\\frac{f_{1}-f_{o}}{2f_{1}-f_{o}-f_{2}}}\\right]h"
+          }
+        ],
+        "final_answer": "Therefore, the mode of the data is 30.6.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Find the mean of the data.",
+        "part_latex": null,
+        "answer_text": "The mean of the data is 29.2.",
+        "answer_latex": "29.2",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the assumed mean and deviations.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Use the mean formula to calculate the mean.",
+            "expression": "\\operatorname{Mean},\\ {\\overset{-x}{x}}=a+\\left({\\frac{\\sum f_{I}u_{i}}{\\sum f_{I}}}\\right)h"
+          }
+        ],
+        "final_answer": "Therefore, the mean of the data is 29.2.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of both mode and mean calculations.",
+    "topics_tags": [
+      "Statistics",
+      "Mean",
+      "Mode"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Table showing the state-wise teacher-student ratio in higher secondary schools of India.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656969/ncert/maths/14/img_16_0.png",
+        "latex_extracted": "\\begin{array}{c}{{\\mathrm{Mode}=l+\\left[{\\frac{f_{1}-f_{o}}{2f_{1}-f_{o}-f_{2}}}\\right]x\\,h}}\\\\ {{=30+\\left[{\\frac{10-9}{20-3}}\\right]<(5)}}\\\\ {{\\mathrm{Mode}=30.6}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q14.12",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 14,
+    "chapter_name": "statistics",
+    "question_type": "numerical",
+    "question_text": "The following frequency distribution gives the monthly consumption of electricity of 68 consumers of a locality. Find the median, mean and mode of the data and compare them.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of mode calculation using frequency distribution.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656977/ncert/maths/14/img_19_0.png",
+      "latex_extracted": "\\begin{array}{l}{{\\mathrm{Mode}=l+\\left(\\frac{f_{1}-f_{0}}{2f_{1}-f_{0}-f_{2}}\\right)\\times h}}\\\\ {{\\mathrm{~=40+\\left(\\frac{20}{40-12}\\right)}}}\\\\ {{\\mathrm{~=40+\\left(\\frac{80}{2}+12-11\\right)\\right.}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The mode of this data is 44.7 cars.",
+    "answer_latex": "Mode = 44.7",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the modal class and its frequencies.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Apply the mode formula to calculate the mode.",
+        "expression": "\\mathrm{Mode}=l+\\left(\\frac{f_{1}-f_{0}}{2f_{1}-f_{0}-f_{2}}\\right)\\times h"
+      }
+    ],
+    "final_answer": "Therefore, the mode of this data is 44.7 cars.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of frequency distribution and application of mode formula.",
+    "topics_tags": [
+      "Statistics",
+      "Mode",
+      "Frequency Distribution"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of mode calculation using frequency distribution.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656977/ncert/maths/14/img_19_0.png",
+        "latex_extracted": "\\begin{array}{l}{{\\mathrm{Mode}=l+\\left(\\frac{f_{1}-f_{0}}{2f_{1}-f_{0}-f_{2}}\\right)\\times h}}\\\\ {{\\mathrm{~=40+\\left(\\frac{20}{40-12}\\right)}}}\\\\ {{\\mathrm{~=40+\\left(\\frac{80}{2}+12-11\\right)\\right.}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q14.13",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 14,
+    "chapter_name": "statistics",
+    "question_type": "numerical",
+    "question_text": "If the median of the distribution is given below is 28.5, find the values of x and y.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Involves setting up equations based on cumulative frequency and median calculation.",
+    "topics_tags": [
+      "Statistics",
+      "Median",
+      "Cumulative Frequency"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q14.14",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 14,
+    "chapter_name": "statistics",
+    "question_type": "numerical",
+    "question_text": "A life insurance agent found the following data for distribution of ages of 100 policy holders. Calculate the median age, if policies are given only to persons having age 18 years onwards but less than 60 year.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical formula for calculating median age based on frequency distribution.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656981/ncert/maths/14/img_22_0.png",
+      "latex_extracted": "\\operatorname{Median}=l+{\\left({\\frac{n}{2}}-c f\\atop{f}\\right)}_{20}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Therefore, median age is 35.76 years.",
+    "answer_latex": "35.76",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the median class from the cumulative frequency table.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the median formula to calculate the median age.",
+        "expression": "\\operatorname{Median}=l+{\\left({\\frac{n}{2}}-c f\\atop{f}\\right)}_{20}"
+      },
+      {
+        "step_number": 3,
+        "description": "Substitute the values into the formula and solve.",
+        "expression": "35+\\left(\\frac{50-45}{33}\\right)\\times5"
+      }
+    ],
+    "final_answer": "Thus, the median age of the policy holders is 35.76 years.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of cumulative frequency and application of the median formula.",
+    "topics_tags": [
+      "Median",
+      "Statistics",
+      "Cumulative Frequency"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical formula for calculating median age based on frequency distribution.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656981/ncert/maths/14/img_22_0.png",
+        "latex_extracted": "\\operatorname{Median}=l+{\\left({\\frac{n}{2}}-c f\\atop{f}\\right)}_{20}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q14.15",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 14,
+    "chapter_name": "statistics",
+    "question_type": "numerical",
+    "question_text": "Find the median life time of a lamp from the given distribution of the life time of 400 neon lamps.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical expression for calculating the median of the life time of lamps.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656987/ncert/maths/14/img_26_0.png",
+      "latex_extracted": "=l+\\left({\\frac{n}{2}}-c f\\right)_{\\mathrm{\\tiny~}}\\times h",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Therefore, median life time of lamps is 3406.98 hours.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the median class from the cumulative frequency distribution.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the median formula to calculate the median life time.",
+        "expression": "=3000+\\left(\\frac{200-130}{86}\\right)\\times500"
+      }
+    ],
+    "final_answer": "Thus, the median life time of lamps is 3406.98 hours.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of cumulative frequency and application of the median formula.",
+    "topics_tags": [
+      "Median",
+      "Cumulative Frequency",
+      "Statistics"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical expression for calculating the median of the life time of lamps.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656987/ncert/maths/14/img_26_0.png",
+        "latex_extracted": "=l+\\left({\\frac{n}{2}}-c f\\right)_{\\mathrm{\\tiny~}}\\times h",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q14.16",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 14,
+    "chapter_name": "statistics",
+    "question_type": "conceptual",
+    "question_text": "Determine the median number of letters in the surnames from the given frequency distribution.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical expression for calculating the median of the number of letters in surnames.",
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of frequency distribution and median calculation.",
+    "topics_tags": [
+      "Median",
+      "Frequency Distribution",
+      "Statistics"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical expression for calculating the median of the number of letters in surnames.",
+        "cloudinary_url": null,
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q14.17",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 14,
+    "chapter_name": "statistics",
+    "question_type": "numerical",
+    "question_text": "The distribution below gives the weights of 30 students of a class. Find the median weight of the students.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical relation for calculating median weight using cumulative frequency.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656990/ncert/maths/14/img_28_0.png",
+      "latex_extracted": "=l+\\left({\\frac{n}{2}}{\\frac{-c f}{f}}\\right)\\times h",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Therefore, median weight is 56.67 kg.",
+    "answer_latex": "Median = 56.67",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate cumulative frequencies for each weight class.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Identify the median class based on cumulative frequency.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Use the median formula to calculate the median weight.",
+        "expression": "=l+\\left({\\frac{n}{2}}{\\frac{-c f}{f}}\\right)\\times h"
+      }
+    ],
+    "final_answer": "Thus, the median weight of the students is 56.67 kg.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical calculation for finding the median weight.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656992/ncert/maths/14/img_29_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps including cumulative frequency calculation and application of the median formula.",
+    "topics_tags": [
+      "Median",
+      "Statistics",
+      "Cumulative Frequency"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical relation for calculating median weight using cumulative frequency.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656990/ncert/maths/14/img_28_0.png",
+        "latex_extracted": "=l+\\left({\\frac{n}{2}}{\\frac{-c f}{f}}\\right)\\times h",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical calculation for finding the median weight.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777656992/ncert/maths/14/img_29_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q14.18",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 14,
+    "chapter_name": "statistics",
+    "question_type": "diagram_based",
+    "question_text": "Draw a less than type ogive for the given data. Hence obtain the median weight from the graph verify the result by using the formula.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the less than type ogive for cumulative frequency distribution of weights.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777657006/ncert/maths/14/img_31_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The median of this data is 46.5.",
+    "answer_latex": "Median = 46.5",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the cumulative frequency and mark the point on the ogive.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the formula to calculate the median.",
+        "expression": "Median = l + \\left(\\frac{n}{2} - cf\\right) \\times h"
+      }
+    ],
+    "final_answer": "Therefore, the median weight obtained from the graph is 46.5.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of ogives and median calculation.",
+    "topics_tags": [
+      "Ogive",
+      "Cumulative Frequency",
+      "Median"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the less than type ogive for cumulative frequency distribution of weights.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777657006/ncert/maths/14/img_31_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q14.19",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 14,
+    "chapter_name": "statistics",
+    "question_type": "conceptual",
+    "question_text": "Change the distribution to a more than type distribution and draw ogive.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the more than type ogive for cumulative frequency distribution of production yield.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777657016/ncert/maths/14/img_33_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The cumulative frequency distribution of more than type can be obtained as follows.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate cumulative frequencies for more than type distribution.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Draw the ogive using the calculated cumulative frequencies.",
+        "expression": null
+      }
+    ],
+    "final_answer": "The ogive for the more than type distribution can be drawn based on the cumulative frequencies.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic understanding of cumulative frequency and ogives.",
+    "topics_tags": [
+      "More Than Ogive",
+      "Cumulative Frequency",
+      "Statistics"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the more than type ogive for cumulative frequency distribution of production yield.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777657016/ncert/maths/14/img_33_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q14.20",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 14,
+    "chapter_name": "statistics",
+    "question_type": "conceptual",
+    "question_text": "Explain the concept of statistics and its importance in real life.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation related to statistics, possibly involving variables and equations.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777657031/ncert/maths/14/img_34_0.jpg",
+      "latex_extracted": "\\begin{array}{c}{{\\mathrm{~{\\scriptstyle~\\theta_{0}^{\\pm}}~}^{\\pm}\\times\\times\\times\\times\\times}}\\\\ {{\\mathrm{~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~}}}\\\\ {{\\left.{\\left.\\frac{\\mathrm{~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~{{~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~}{{{{~~~~~~~~~~~~~~~~}{{{{{~~~~~~~~~~~~~~{~~~~~~~~~~~~~~~~}~}{{{~~~~~~~~{\\frac{~~~~{{~~~~{{~~~~~~{{~~~~~~~~~~~~~{{{{{~~~~~~{{~~~~~~~~~~",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Statistics is the study of data collection, analysis, interpretation, presentation, and organization. It is important in real life as it helps in making informed decisions based on data.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, statistics plays a crucial role in various fields by providing insights through data analysis.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of the concept and its applications.",
+    "topics_tags": [
+      "Statistics",
+      "Data Analysis",
+      "Real Life Applications"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "mixed_or_weak_context"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation related to statistics, possibly involving variables and equations.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777657031/ncert/maths/14/img_34_0.jpg",
+        "latex_extracted": "\\begin{array}{c}{{\\mathrm{~{\\scriptstyle~\\theta_{0}^{\\pm}}~}^{\\pm}\\times\\times\\times\\times\\times}}\\\\ {{\\mathrm{~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~}}}\\\\ {{\\left.{\\left.\\frac{\\mathrm{~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~{{~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~}{{{{~~~~~~~~~~~~~~~~}{{{{{~~~~~~~~~~~~~~{~~~~~~~~~~~~~~~~}~}{{{~~~~~~~~{\\frac{~~~~{{~~~~{{~~~~~~{{~~~~~~~~~~~~~{{{{{~~~~~~{{~~~~~~~~~~",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  }
+]

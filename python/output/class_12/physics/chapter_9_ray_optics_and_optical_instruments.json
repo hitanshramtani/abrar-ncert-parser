@@ -1,0 +1,2625 @@
+[
+  {
+    "question_id": "Q9.1",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 9,
+    "chapter_name": "ray optics and optical instruments",
+    "question_type": "numerical",
+    "question_text": "A small candle, 2.5 cm in size is placed at 27 cm in front of a concave mirror of radius of curvature 36 cm. At what distance from the mirror should a screen be placed in order to obtain a sharp image? Describe the nature and size of the image. If the candle is moved closer to the mirror, how would the screen have to be moved?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The screen should be placed 54 cm away from the mirror to obtain a sharp image. The height of the candle’s image is 5 cm. The negative sign indicates that the image is inverted and virtual. If the candle is moved closer to the mirror, then the screen will have to be moved away from the mirror in order to obtain the image.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Use the mirror formula to find the image distance.",
+        "expression": "1/f = 1/v + 1/u"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values to find v.",
+        "expression": "f = -18 cm, u = -27 cm, v = 54 cm"
+      }
+    ],
+    "final_answer": "Therefore, the screen should be placed 54 cm away from the mirror.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram related to the concave mirror setup for image formation.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898200/ncert/physics/9/img_1_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves application of the mirror formula and understanding of image characteristics.",
+    "topics_tags": [
+      "Concave Mirror",
+      "Image Formation",
+      "Mirror Formula"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the concave mirror setup for image formation.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898200/ncert/physics/9/img_1_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q9.2",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 9,
+    "chapter_name": "ray optics and optical instruments",
+    "question_type": "numerical",
+    "question_text": "A 4.5 cm needle is placed 12 cm away from a convex mirror of focal length 15 cm. Give the location of the image and the magnification. Describe what happens as the needle is moved farther from the mirror.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to the convex mirror setup for image formation.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898201/ncert/physics/9/img_2_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Hence, the image of the needle is 6.7 cm away from the mirror. Also, it is on the other side of the mirror. The height of the image is 2.55 cm. The positive sign indicates that the image is erect, virtual, and diminished. If the needle is moved farther from the mirror, the image will also move away from the mirror, and the size of the image will reduce gradually.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Use the mirror formula to find the image distance.",
+        "expression": "1/f = 1/v + 1/u"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values to find v.",
+        "expression": "f = 15 cm, u = -12 cm, v = 6.7 cm"
+      }
+    ],
+    "final_answer": "Therefore, the image is located 6.7 cm away from the mirror.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the image formation by the convex mirror.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898203/ncert/physics/9/img_2_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves application of the mirror formula and understanding of image characteristics.",
+    "topics_tags": [
+      "Convex Mirror",
+      "Image Formation",
+      "Magnification"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the convex mirror setup for image formation.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898201/ncert/physics/9/img_2_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the image formation by the convex mirror.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898203/ncert/physics/9/img_2_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q9.3",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 9,
+    "chapter_name": "ray optics and optical instruments",
+    "question_type": "mcq",
+    "question_text": "A tank is filled with water to a height of 12.5 cm. The apparent depth of a needle lying at the bottom of the tank is measured by a microscope to be 9.4 cm. What is the refractive index of water? If water is replaced by a liquid of refractive index 1.63 up to the same height, by what distance would the microscope have to be moved to focus on the needle again?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The refractive index of water can be obtained using the formula μ = h/h'. If water is replaced by a liquid of refractive index 1.63, the microscope would have to be moved to focus on the needle again.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the refractive index using the apparent and actual depth.",
+        "expression": "μ = h/h' = 12.5/9.4"
+      },
+      {
+        "step_number": 2,
+        "description": "Determine the new distance for the microscope with the new liquid.",
+        "expression": "New distance = h' / 1.63"
+      }
+    ],
+    "final_answer": "The refractive index of water is calculated, and the microscope will need to be adjusted for the new liquid.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the setup for measuring apparent depth in water.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898205/ncert/physics/9/img_3_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Involves understanding of refractive index and adjustments for different media.",
+    "topics_tags": [
+      "Refractive Index",
+      "Apparent Depth",
+      "Optical Instruments"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the setup for measuring apparent depth in water.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898205/ncert/physics/9/img_3_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      },
+      {
+        "present": true,
+        "description": "Diagram showing the setup for measuring apparent depth in a different liquid.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898206/ncert/physics/9/img_3_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q9.4",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 9,
+    "chapter_name": "ray optics and optical instruments",
+    "question_type": "conceptual",
+    "question_text": "Predict the angle of refraction in glass when the angle of incidence in water is 45º with the normal to a water-glass interface.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Hence, the angle of refraction at the water − glass interface is 38.68°.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Apply Snell's law to find the angle of refraction.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, the angle of refraction in glass is 38.68°.",
+    "answer_image": {
+      "present": true,
+      "description": "Figures showing refraction of a ray in air incident at 60° with the normal to a glass-air and water-air interface.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898207/ncert/physics/9/img_4_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of Snell's law and basic application.",
+    "topics_tags": [
+      "Refraction",
+      "Snell's Law",
+      "Optical Interfaces"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Figures showing refraction of a ray in air incident at 60° with the normal to a glass-air and water-air interface.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898207/ncert/physics/9/img_4_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q9.5",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 9,
+    "chapter_name": "ray optics and optical instruments",
+    "question_type": "numerical",
+    "question_text": "A small bulb is placed at the bottom of a tank containing water to a depth of 80 cm. What is the area of the surface of water through which light from the bulb can emerge out?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the situation involving the bulb at the bottom of the tank.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898217/ncert/physics/9/img_6_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The actual depth of the bulb in water is 80 cm.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the actual depth of the bulb.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the area of the surface through which light can emerge is determined by the bulb's position.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of light emergence and area calculation.",
+    "topics_tags": [
+      "Light Emergence",
+      "Optics",
+      "Refraction"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the situation involving the bulb at the bottom of the tank.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898217/ncert/physics/9/img_6_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q9.6",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 9,
+    "chapter_name": "ray optics and optical instruments",
+    "question_type": "numerical",
+    "question_text": "A prism is made of glass of unknown refractive index. A parallel beam of light is incident on a face of the prism. The angle of minimum deviation is measured to be 40°. What is the refractive index of the material of the prism? The refracting angle of the prism is 60°.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the prism and the incident light beam.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898220/ncert/physics/9/img_7_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The refractive index of the material of the prism is 1.532.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Use the formula for refractive index in terms of angle of minimum deviation and angle of prism.",
+        "expression": "n = \\frac{sin\\left(\\frac{A + D}{2}\\right)}{sin\\left(\\frac{A}{2}\\right)}"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values A = 60° and D = 40° into the formula.",
+        "expression": "n = \\frac{sin\\left(\\frac{60 + 40}{2}\\right)}{sin\\left(\\frac{60}{2}\\right)}"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the refractive index.",
+        "expression": "n = \\frac{sin(50)}{sin(30)} = 1.532"
+      }
+    ],
+    "final_answer": "Therefore, the refractive index of the material of the prism is 1.532.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of the relationship between angles and refractive index.",
+    "topics_tags": [
+      "Prism",
+      "Refractive Index",
+      "Optics"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the prism and the incident light beam.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898220/ncert/physics/9/img_7_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q9.7",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 9,
+    "chapter_name": "ray optics and optical instruments",
+    "question_type": "numerical",
+    "question_text": "Double-convex lenses are to be manufactured from a glass of refractive index 1.55, with both faces of the same radius of curvature. What is the radius of curvature required if the focal length is to be 20 cm?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The radius of curvature required for the lens is calculated using the lens maker's formula.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Use the lens maker's formula to relate focal length and radius of curvature.",
+        "expression": "\\frac{1}{f} = (n - 1) \\left( \\frac{1}{R_1} - \\frac{1}{R_2} \\right)"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values for the focal length and refractive index.",
+        "expression": "\\frac{1}{20} = (1.55 - 1) \\left( \\frac{1}{R} - \\frac{1}{R} \\right)"
+      },
+      {
+        "step_number": 3,
+        "description": "Solve for R.",
+        "expression": "R = 20 \\text{ cm}"
+      }
+    ],
+    "final_answer": "Thus, the radius of curvature required is 20 cm.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the double-convex lens and its curvature.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898224/ncert/physics/9/img_9_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves application of lens maker's formula and algebraic manipulation.",
+    "topics_tags": [
+      "Lens",
+      "Focal Length",
+      "Optics"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the double-convex lens and its curvature.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898224/ncert/physics/9/img_9_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q9.8",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 9,
+    "chapter_name": "ray optics and optical instruments",
+    "question_type": "mcq",
+    "question_text": "A beam of light converges at a point P. Now a lens is placed in the path of the convergent beam 12 cm from P. At what point does the beam converge if the lens is (a) a convex lens of focal length 20 cm, and (b) a concave lens of focal length 16 cm?",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "a convex lens of focal length 20 cm, and"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "a concave lens of focal length 16 cm?"
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "At what point does the beam converge if the lens is a convex lens of focal length 20 cm?",
+        "part_latex": null,
+        "answer_text": "The image is formed 77.5 cm away from the lens, toward its right.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the object distance and focal length for the convex lens.",
+            "expression": "u = +12 \text{ cm}, f = +20 \text{ cm}"
+          },
+          {
+            "step_number": 2,
+            "description": "Use the lens formula to find the image distance.",
+            "expression": "1/f = 1/v - 1/u"
+          },
+          {
+            "step_number": 3,
+            "description": "Calculate the image distance.",
+            "expression": "v = 77.5 \text{ cm}"
+          }
+        ],
+        "final_answer": "Hence, the image is formed 77.5 cm away from the lens, toward its right.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "At what point does the beam converge if the lens is a concave lens of focal length 16 cm?",
+        "part_latex": null,
+        "answer_text": "The image is formed 448 cm away from the lens, toward its right.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the object distance and focal length for the concave lens.",
+            "expression": "u = +12 \text{ cm}, f = -16 \text{ cm}"
+          },
+          {
+            "step_number": 2,
+            "description": "Use the lens formula to find the image distance.",
+            "expression": "1/f = 1/v - 1/u"
+          },
+          {
+            "step_number": 3,
+            "description": "Calculate the image distance.",
+            "expression": "v = 448 \text{ cm}"
+          }
+        ],
+        "final_answer": "Hence, the image is formed 448 cm away from the lens, toward its right.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Diagram related to lens and light convergence",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898226/ncert/physics/9/img_10_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of lens formula and application for two different lenses.",
+    "topics_tags": [
+      "Lens Formula",
+      "Convex Lens",
+      "Concave Lens",
+      "Image Formation"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram related to lens and light convergence",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898226/ncert/physics/9/img_10_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q9.9",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 9,
+    "chapter_name": "ray optics and optical instruments",
+    "question_type": "multipart",
+    "question_text": "An object of size 3.0 cm is placed 14 cm in front of a concave lens of focal length 21 cm. Describe the image produced by the lens. What happens if the object is moved further away from the lens?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Describe the image produced by the lens.",
+        "part_latex": null,
+        "answer_text": "The image is formed on the other side of the lens, 8.4 cm away from it. The negative sign shows that the image is erect and virtual.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the object distance and focal length for the concave lens.",
+            "expression": "u = -14 \text{ cm}, f = -21 \text{ cm}"
+          },
+          {
+            "step_number": 2,
+            "description": "Use the lens formula to find the image distance.",
+            "expression": "1/f = 1/v - 1/u"
+          },
+          {
+            "step_number": 3,
+            "description": "Calculate the image distance.",
+            "expression": "v = 8.4 \text{ cm}"
+          }
+        ],
+        "final_answer": "Hence, the image is formed on the other side of the lens, 8.4 cm away from it.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "What happens if the object is moved further away from the lens?",
+        "part_latex": null,
+        "answer_text": "If the object is moved further away from the lens, the virtual image will move toward the focus of the lens, but not beyond it. The size of the image will decrease with the increase in the object distance.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "The virtual image will move toward the focus and decrease in size.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Diagram related to concave lens and image formation",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898229/ncert/physics/9/img_11_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of image characteristics and behavior with object distance changes.",
+    "topics_tags": [
+      "Concave Lens",
+      "Image Characteristics",
+      "Virtual Image"
+    ],
+    "confidence_score": 0.93,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram related to concave lens and image formation",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898229/ncert/physics/9/img_11_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q9.10",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 9,
+    "chapter_name": "ray optics and optical instruments",
+    "question_type": "conceptual",
+    "question_text": "What is the focal length of a convex lens of focal length 30 cm in contact with a concave lens of focal length 20 cm? Is the system a converging or a diverging lens? Ignore thickness of the lenses.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The equivalent focal length of the combination of lenses is 60 cm. The negative sign indicates that the system of lenses acts as a diverging lens.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the focal lengths of the lenses.",
+        "expression": "f_{convex} = 30 \text{ cm}, f_{concave} = -20 \text{ cm}"
+      },
+      {
+        "step_number": 2,
+        "description": "Use the formula for equivalent focal length of two lenses in contact.",
+        "expression": "f = f_{convex} + f_{concave}"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the equivalent focal length.",
+        "expression": "f = 30 - 20 = 10 \text{ cm}"
+      }
+    ],
+    "final_answer": "Hence, the focal length of the combination of lenses is 10 cm, indicating a diverging lens.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram related to lens system and focal lengths",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898233/ncert/physics/9/img_12_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires basic understanding of lens combinations and focal lengths.",
+    "topics_tags": [
+      "Focal Length",
+      "Lens System",
+      "Converging Lens",
+      "Diverging Lens"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram related to lens system and focal lengths",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898233/ncert/physics/9/img_12_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q9.11",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 9,
+    "chapter_name": "ray optics and optical instruments",
+    "question_type": "mcq",
+    "question_text": "A compound microscope consists of an objective lens of focal length 2.0 cm and an eyepiece of focal length 6.25 cm separated by a distance of 15 cm. How far from the objective should an object be placed in order to obtain the final image at (a) the least distance of distinct vision (25 cm), and (b) at infinity? What is the magnifying power of the microscope in each case?",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "the least distance of distinct vision (25 cm), and"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "at infinity? What is the magnifying power of the microscope in each case?"
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to the compound microscope setup.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898237/ncert/physics/9/img_13_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "How far from the objective should an object be placed to obtain the final image at the least distance of distinct vision (25 cm)?",
+        "part_latex": null,
+        "answer_text": "The object distance for the objective lens is 2.5 cm.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the lens formula for the eyepiece to find the object distance.",
+            "expression": "v = -25 cm"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the object distance for the objective lens using the total distance.",
+            "expression": "u = d - v_{eyepiece} = 15 - (-25) = 2.5 cm"
+          }
+        ],
+        "final_answer": "Therefore, the object should be placed 2.5 cm from the objective.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "How far from the objective should an object be placed to obtain the final image at infinity?",
+        "part_latex": null,
+        "answer_text": "The object distance for the objective lens is 8 cm.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the lens formula for the eyepiece to find the object distance.",
+            "expression": "v = \\infty"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the object distance for the objective lens using the total distance.",
+            "expression": "u = d - v_{eyepiece} = 15 - \\infty = 8 cm"
+          }
+        ],
+        "final_answer": "Therefore, the object should be placed 8 cm from the objective.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "What is the magnifying power of the microscope in each case?",
+        "part_latex": null,
+        "answer_text": "The magnifying power of the microscope is 20 for the least distance of distinct vision and 13.51 for the image at infinity.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the magnifying power using the formula for each case.",
+            "expression": "M = \\frac{v_{eyepiece}}{u_{objective}}"
+          }
+        ],
+        "final_answer": "Thus, the magnifying power is 20 for the least distance of distinct vision and 13.51 for the image at infinity.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations and understanding of lens formulas.",
+    "topics_tags": [
+      "Compound Microscope",
+      "Lens Formula",
+      "Magnifying Power"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the compound microscope setup.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898237/ncert/physics/9/img_13_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q9.12",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 9,
+    "chapter_name": "ray optics and optical instruments",
+    "question_type": "numerical",
+    "question_text": "A small telescope has an objective lens of focal length 144 cm and an eyepiece of focal length 6.0 cm. What is the magnifying power of the telescope? What is the separation between the objective and the eyepiece?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to the magnifying power of the telescope.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898249/ncert/physics/9/img_17_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The magnifying power of the telescope is 24 and the separation between the objective lens and the eyepiece is 150 cm.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the magnifying power using the formula for telescopes.",
+        "expression": "M = \frac{f_{objective}}{f_{eyepiece}}"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values of the focal lengths.",
+        "expression": "M = \frac{144}{6} = 24"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the separation between the objective lens and the eyepiece.",
+        "expression": "S = f_{objective} + f_{eyepiece} = 144 + 6 = 150 \text{ cm}"
+      }
+    ],
+    "final_answer": "Hence, the magnifying power of the telescope is 24 and the separation between the objective lens and the eyepiece is 150 cm.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of telescope optics and basic calculations.",
+    "topics_tags": [
+      "Telescope",
+      "Magnifying Power",
+      "Optics"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the magnifying power of the telescope.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898249/ncert/physics/9/img_17_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q9.13",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 9,
+    "chapter_name": "ray optics and optical instruments",
+    "question_type": "mcq",
+    "question_text": "A giant refracting telescope at an observatory has an objective lens of focal length 15 m. If an eyepiece of focal length 1.0 cm is used, what is the angular magnification of the telescope? If this telescope is used to view the moon, what is the diameter of the image of the moon formed by the objective lens? The diameter of the moon is 3.48 × 10^6 m, and the radius of lunar orbit is 3.8 × 10^8 m.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The angular magnification of the given refracting telescope is 1500. The diameter of the moon’s image formed by the objective lens is 13.74 cm.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the angular magnification using the formula for telescopes.",
+        "expression": "M = \frac{f_{objective}}{f_{eyepiece}}"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values of the focal lengths.",
+        "expression": "M = \frac{15}{0.01} = 1500"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the diameter of the moon's image using the angle subtended.",
+        "expression": "d_{image} = d_{moon} \times \frac{f_{objective}}{r_{lunar}}"
+      },
+      {
+        "step_number": 4,
+        "description": "Substitute the values to find the diameter of the image.",
+        "expression": "d_{image} = 3.48 \times 10^6 \times \frac{15}{3.8 \times 10^8} = 13.74 \text{ cm}"
+      }
+    ],
+    "final_answer": "Hence, the angular magnification of the given refracting telescope is 1500 and the diameter of the moon’s image formed by the objective lens is 13.74 cm.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram related to the angular magnification of the telescope.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898250/ncert/physics/9/img_18_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations and understanding of angular magnification.",
+    "topics_tags": [
+      "Telescope",
+      "Angular Magnification",
+      "Optics"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the angular magnification of the telescope.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898250/ncert/physics/9/img_18_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q9.14",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 9,
+    "chapter_name": "ray optics and optical instruments",
+    "question_type": "conceptual",
+    "question_text": "What type of image is produced by a concave mirror when an object is placed between the pole and focus?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram illustrating the formation of a virtual and enlarged image by a concave mirror.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898253/ncert/physics/9/img_19_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "A concave mirror produces a virtual and enlarged image when the object is placed between the pole and focus.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the image is virtual and enlarged.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of mirror properties and image formation.",
+    "topics_tags": [
+      "Concave Mirror",
+      "Image Formation",
+      "Virtual Image"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram illustrating the formation of a virtual and enlarged image by a concave mirror.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898253/ncert/physics/9/img_19_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q9.15",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 9,
+    "chapter_name": "ray optics and optical instruments",
+    "question_type": "conceptual",
+    "question_text": "What type of image is produced by a convex mirror?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "A convex mirror always produces a virtual image, regardless of the object distance.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Hence, the image formed by a convex mirror is always virtual.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the formation of a virtual image by a convex mirror.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898255/ncert/physics/9/img_20_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves understanding the properties of convex mirrors.",
+    "topics_tags": [
+      "Convex Mirror",
+      "Image Formation",
+      "Virtual Image"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the formation of a virtual image by a convex mirror.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898255/ncert/physics/9/img_20_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q9.16",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 9,
+    "chapter_name": "ray optics and optical instruments",
+    "question_type": "conceptual",
+    "question_text": "What happens to the image when the object is placed between the focus and the pole of a concave mirror?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The image formed is diminished and is located between the focus and the pole.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the image is diminished and virtual.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram illustrating the image formation by a concave mirror when the object is between the focus and the pole.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898257/ncert/physics/9/img_21_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of concave mirror properties.",
+    "topics_tags": [
+      "Concave Mirror",
+      "Image Formation",
+      "Diminished Image"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram illustrating the image formation by a concave mirror when the object is between the focus and the pole.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898257/ncert/physics/9/img_21_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q9.17",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 9,
+    "chapter_name": "ray optics and optical instruments",
+    "question_type": "mcq",
+    "question_text": "A small pin fixed on a table top is viewed from above from a distance of 50 cm. By what distance would the pin appear to be raised if it is viewed from the same point through a 15 cm thick glass slab held parallel to the table? Refractive index of glass = 1.5. Does the answer depend on the location of the slab?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to the question about the apparent depth of a pin viewed through a glass slab.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898260/ncert/physics/9/img_22_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The distance at which the pin appears to be raised does not depend upon the location of the slab.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the actual depth of the pin and the refractive index of the glass.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the formula relating actual depth and apparent depth with the refractive index.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the distance at which the pin appears to be raised is independent of the slab's location.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of optics and application of the refractive index concept.",
+    "topics_tags": [
+      "Refraction",
+      "Refractive Index",
+      "Optics"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the question about the apparent depth of a pin viewed through a glass slab.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898260/ncert/physics/9/img_22_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q9.18",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 9,
+    "chapter_name": "ray optics and optical instruments",
+    "question_type": "conceptual",
+    "question_text": "You have learnt that plane and convex mirrors produce virtual images of objects. Can they produce real images under some circumstances? Explain.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram illustrating the concept of image formation by mirrors.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898262/ncert/physics/9/img_24_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Yes, plane and convex mirrors can produce real images under certain conditions, such as when they are used in conjunction with other optical elements.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, while typically producing virtual images, under specific setups, real images can be formed.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of mirror properties and conditions for image formation.",
+    "topics_tags": [
+      "Mirrors",
+      "Image Formation",
+      "Optics"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram illustrating the concept of image formation by mirrors.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898262/ncert/physics/9/img_24_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q9.19",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 9,
+    "chapter_name": "ray optics and optical instruments",
+    "question_type": "numerical",
+    "question_text": "The image of a small electric bulb fixed on the wall of a room is to be obtained on the opposite wall 3 m away by means of a large convex lens. What is the maximum possible focal length of the lens required for the purpose?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The maximum possible focal length of the convex lens is 0.75 m.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the distance between the object and the image.",
+        "expression": "d = 3 m"
+      },
+      {
+        "step_number": 2,
+        "description": "Use the formula for maximum focal length for real images.",
+        "expression": "f_{max} = \\frac{d}{2} = 0.75 m"
+      }
+    ],
+    "final_answer": "Hence, for the required purpose, the maximum possible focal length of the convex lens is 0.75 m.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram related to the focal length of a convex lens.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898265/ncert/physics/9/img_26_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of lens formula and basic calculations.",
+    "topics_tags": [
+      "Convex Lens",
+      "Focal Length",
+      "Optics"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the focal length of a convex lens.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898265/ncert/physics/9/img_26_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q9.20",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 9,
+    "chapter_name": "ray optics and optical instruments",
+    "question_type": "numerical",
+    "question_text": "A screen is placed 90 cm from an object. The image of the object on the screen is formed by a convex lens at two different locations separated by 20 cm. Determine the focal length of the lens.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, the focal length of the convex lens is 21.39 cm.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the distance between the object and the screen.",
+        "expression": "D = 90 cm"
+      },
+      {
+        "step_number": 2,
+        "description": "Identify the distance between the two locations of the convex lens.",
+        "expression": "d = 20 cm"
+      },
+      {
+        "step_number": 3,
+        "description": "Use the lens formula to calculate the focal length.",
+        "expression": "f = \\frac{D \\cdot d}{d + D} = 21.39 cm"
+      }
+    ],
+    "final_answer": "Therefore, the focal length of the convex lens is 21.39 cm.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram related to the focal length of a convex lens.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898266/ncert/physics/9/img_27_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of lens formula and multi-step calculations.",
+    "topics_tags": [
+      "Convex Lens",
+      "Focal Length",
+      "Optics"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the focal length of a convex lens.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898266/ncert/physics/9/img_27_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      },
+      {
+        "present": true,
+        "description": "Additional diagram related to the focal length of a convex lens.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898268/ncert/physics/9/img_27_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q9.21",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 9,
+    "chapter_name": "ray optics and optical instruments",
+    "question_type": "conceptual",
+    "question_text": "What happens to the image when the parallel incident beam appears to diverge from a point that is from the centre of the combination of the two lenses?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram illustrating the behavior of light rays through a concave lens.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898268/ncert/physics/9/img_28_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The image will act as a virtual object for the concave lens.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the image acts as a virtual object for the concave lens.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of lens behavior and virtual objects.",
+    "topics_tags": [
+      "Concave Lens",
+      "Virtual Object",
+      "Ray Optics"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram illustrating the behavior of light rays through a concave lens.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898268/ncert/physics/9/img_28_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q9.22",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 9,
+    "chapter_name": "ray optics and optical instruments",
+    "question_type": "conceptual",
+    "question_text": "What is the object distance when applying the lens formula to the convex lens?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the application of the lens formula to a convex lens.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898271/ncert/physics/9/img_29_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The object distance is calculated as - (20 + d) = - (20 + 8) = -28 cm.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the object distance for the convex lens is -28 cm.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic application of the lens formula.",
+    "topics_tags": [
+      "Convex Lens",
+      "Object Distance",
+      "Ray Optics"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the application of the lens formula to a convex lens.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898271/ncert/physics/9/img_29_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q9.23",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 9,
+    "chapter_name": "ray optics and optical instruments",
+    "question_type": "conceptual",
+    "question_text": "What is the magnification due to the convex lens?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The magnification due to the convex lens is 3.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the magnification of the image formed by the convex lens is 3.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram illustrating the magnification of an image formed by a convex lens.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898273/ncert/physics/9/img_30_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of magnification value.",
+    "topics_tags": [
+      "Magnification",
+      "Convex Lens",
+      "Ray Optics"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram illustrating the magnification of an image formed by a convex lens.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898273/ncert/physics/9/img_30_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q9.24",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 9,
+    "chapter_name": "ray optics and optical instruments",
+    "question_type": "conceptual",
+    "question_text": "For a normal eye, the far point is at infinity and the near point of distinct vision is about 25cm in front of the eye. The cornea of the eye provides a converging power of about 40 dioptres, and the least converging power of the eye-lens behind the cornea is about 20 dioptres. From this rough data estimate the range of accommodation (i.e., the range of converging power of the eye-lens) of a normal eye.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Least distance of distinct vision, d = 25 cm.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "The range of accommodation can be estimated based on the given converging powers.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of eye optics and basic calculations.",
+    "topics_tags": [
+      "Accommodation",
+      "Optics",
+      "Eye"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q9.27",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 9,
+    "chapter_name": "Ray Optics and Optical Instruments",
+    "question_type": "conceptual",
+    "question_text": "What is the power of the eye-lens and how is it calculated?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to the power of the eye-lens and its components.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898281/ncert/physics/9/img_34_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The power of the eye-lens is calculated as the sum of the converging powers of the cornea and the eye-lens, which is 60 D.",
+    "answer_latex": "P = P_c + P_e = 40 + 20 = 60 \\, D",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the converging powers of the cornea and the eye-lens.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Add the converging powers to find the total power of the eye-lens.",
+        "expression": "P = P_c + P_e = 40 + 20"
+      }
+    ],
+    "final_answer": "Thus, the power of the eye-lens is 60 D.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of the concept of lens power and basic addition.",
+    "topics_tags": [
+      "Eye Lens",
+      "Optics",
+      "Power of Lens"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the power of the eye-lens and its components.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898281/ncert/physics/9/img_34_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q9.28",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 9,
+    "chapter_name": "ray optics and optical instruments",
+    "question_type": "conceptual",
+    "question_text": "Does short-sightedness (myopia) or long-sightedness (hypermetropia) imply necessarily that the eye has partially lost its ability of accommodation? If not, what might cause these defects of vision?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image related to the power of the eye-lens calculations.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898282/ncert/physics/9/img_35_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "A myopic or hypermetropic person can also possess the normal ability of accommodation of the eye-lens. Myopia occurs when the eye-balls get elongated from front to back. Hypermetropia occurs when the eye-balls get shortened. When the eye-lens loses its ability of accommodation, the defect is called presbyopia.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, myopia and hypermetropia do not necessarily imply a loss of accommodation ability.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of eye defects and their relation to accommodation.",
+    "topics_tags": [
+      "Myopia",
+      "Hypermetropia",
+      "Accommodation",
+      "Vision Defects"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image related to the power of the eye-lens calculations.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898282/ncert/physics/9/img_35_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q9.29",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 9,
+    "chapter_name": "ray optics and optical instruments",
+    "question_type": "mcq",
+    "question_text": "A myopic person has been using spectacles of power −1.0 dioptre for distant vision. During old age he also needs to use separate reading glass of power + 2.0 dioptres. Explain what may have happened.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image related to the power of the eye-lens calculations.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898283/ncert/physics/9/img_35_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The myopic person initially required glasses to correct distant vision due to elongated eyeballs. As he aged, he developed presbyopia, which is the loss of accommodation ability, necessitating reading glasses for near vision.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the need for reading glasses indicates a loss of accommodation due to aging.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of vision changes with age and the concept of presbyopia.",
+    "topics_tags": [
+      "Myopia",
+      "Presbyopia",
+      "Vision Correction",
+      "Aging"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image related to the power of the eye-lens calculations.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898283/ncert/physics/9/img_35_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q9.30",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 9,
+    "chapter_name": "ray optics and optical instruments",
+    "question_type": "conceptual",
+    "question_text": "A person looking at a person wearing a shirt with a pattern comprising vertical and horizontal lines is able to see the vertical lines more distinctly than the horizontal ones. What is this defect due to? How is such a defect of vision corrected?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "In the given case, the person is able to see vertical lines more distinctly than horizontal lines. This means that the refracting system (cornea and eye-lens) of the eye is not working in the same way in different planes. This defect is called astigmatism. The person’s eye has enough curvature in the vertical plane. However, the curvature in the horizontal plane is insufficient. Hence, sharp images of the vertical lines are formed on the retina, but horizontal lines appear blurred. This defect can be corrected by using cylindrical lenses.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, astigmatism can be corrected by using cylindrical lenses.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of eye defects and their corrections.",
+    "topics_tags": [
+      "Astigmatism",
+      "Vision Defects",
+      "Optical Correction"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q9.31",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 9,
+    "chapter_name": "ray optics and optical instruments",
+    "question_type": "mcq",
+    "question_text": "What should be the distance between the object in Exercise 9.30 and the magnifying glass if the virtual image of each square in the figure is to have an area of 6.25 mm²? Would you be able to see the squares distinctly with your eyes very close to the magnifier?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The virtual image is formed at a distance of 15 cm, which is less than the near point (i.e., 25 cm) of a normal eye. Hence, it cannot be seen by the eyes distinctly.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the area of the virtual image and relate it to the object distance.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Determine the distance at which the virtual image is formed.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the virtual image cannot be seen distinctly by the eyes.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram related to magnifying glass and virtual image formation.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898288/ncert/physics/9/img_40_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of magnification concepts and application of lens formula.",
+    "topics_tags": [
+      "Magnification",
+      "Virtual Image",
+      "Lens Formula"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram related to magnifying glass and virtual image formation.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898288/ncert/physics/9/img_40_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q9.32",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 9,
+    "chapter_name": "ray optics and optical instruments",
+    "question_type": "conceptual",
+    "question_text": "What is the maximum and the minimum angular magnification (magnifying power) possible using the above simple microscope?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The maximum angular magnification is given by the relation: ...",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Hence, the closest distance at which the person can read the book is 4.167 cm.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram related to the simple microscope showing focal length and distances.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898284/ncert/physics/9/img_37_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of angular magnification and application of lens formula.",
+    "topics_tags": [
+      "Angular Magnification",
+      "Simple Microscope",
+      "Lens Formula"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the simple microscope showing focal length and distances.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898284/ncert/physics/9/img_37_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      },
+      {
+        "present": true,
+        "description": "Diagram showing the farthest distance at which the person can read the book.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898285/ncert/physics/9/img_37_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q9.33",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 9,
+    "chapter_name": "ray optics and optical instruments",
+    "question_type": "mcq",
+    "question_text": "A card sheet divided into squares each of size 1 mm² is being viewed at a distance of 9 cm through a magnifying glass (a converging lens of focal length 9 cm) held close to the eye. What is the magnification produced by the lens? How much is the area of each square in the virtual image? What is the angular magnification (magnifying power) of the lens? Is the magnification in (a) equal to the magnifying power in (b)? Explain.",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "equal to the magnifying power in"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "? Explain."
+      }
+    ],
+    "correct_option": "(A)",
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the setup for viewing the card sheet through a magnifying glass.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898286/ncert/physics/9/img_38_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Area of each square in the virtual image = 100 mm² = 1 cm². The magnification in (a) is not the same as the magnifying power in (b).",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "The two quantities will be equal when the image is formed at the near point (25 cm).",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves calculations for magnification and understanding of lens properties.",
+    "topics_tags": [
+      "Magnification",
+      "Virtual Image",
+      "Converging Lens"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the setup for viewing the card sheet through a magnifying glass.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898286/ncert/physics/9/img_38_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q9.35",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 9,
+    "chapter_name": "ray optics and optical instruments",
+    "question_type": "numerical",
+    "question_text": "An angular magnification (magnifying power) of 30X is desired using an objective of focal length 1.25 cm and an eyepiece of focal length 5 cm. How will you set up the compound microscope?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to the setup of a compound microscope.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898296/ncert/physics/9/img_43_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The object should be placed 1.5 cm away from the objective lens to obtain the desired magnification. The separation between the objective lens and the eyepiece should be 11.67 cm.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the focal lengths of the objective and eyepiece.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the object distance for the objective lens to achieve the desired magnification.",
+        "expression": "d_{object} = 1.5 \text{ cm}"
+      },
+      {
+        "step_number": 3,
+        "description": "Use the lens formula to find the separation between the objective lens and the eyepiece.",
+        "expression": "d_{separation} = 11.67 \text{ cm}"
+      }
+    ],
+    "final_answer": "Therefore, the setup requires placing the object 1.5 cm from the objective lens and ensuring a separation of 11.67 cm between the lenses.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps of calculation and understanding of lens formulas.",
+    "topics_tags": [
+      "Compound Microscope",
+      "Angular Magnification",
+      "Optics"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the setup of a compound microscope.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898296/ncert/physics/9/img_43_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q9.36",
+    "class": 12,
+    "subject": "physics",
+    "chapter_number": 9,
+    "chapter_name": "ray optics and optical instruments",
+    "question_type": "mcq",
+    "question_text": "For the telescope described in Exercise 9.34 (a), what is the separation between the objective lens and the eyepiece? If this telescope is used to view a 100 m tall tower 3 km away, what is the height of the image of the tower formed by the objective lens?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to the telescope's optical setup.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898301/ncert/physics/9/img_46_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "What is the separation between the objective lens and the eyepiece?",
+        "part_latex": null,
+        "answer_text": "The separation between the objective lens and the eyepiece is 145 cm.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the focal lengths of the objective and eyepiece.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the separation using the formula for normal adjustment.",
+            "expression": "d = f_{objective} + f_{eyepiece} = 140 + 5"
+          }
+        ],
+        "final_answer": "Therefore, the separation between the objective lens and the eyepiece is 145 cm.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "What is the height of the image of the tower formed by the objective lens?",
+        "part_latex": null,
+        "answer_text": "The objective lens forms a 4.7 cm tall image of the tower.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the height of the image using the magnification formula.",
+            "expression": "h' = h * \frac{f_{objective}}{u} = 100 * \frac{140}{3000}"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the values to find the height of the image.",
+            "expression": "h' = 4.67"
+          }
+        ],
+        "final_answer": "Hence, the height of the final image of the tower is approximately 4.7 cm.",
+        "answer_image": {
+          "present": true,
+          "description": "Diagram showing the height of the image formed by the objective lens.",
+          "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898304/ncert/physics/9/img_47_1.png",
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "answer"
+        },
+        "question_images": [],
+        "answer_images": [
+          {
+            "present": true,
+            "description": "Diagram showing the height of the image formed by the objective lens.",
+            "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898304/ncert/physics/9/img_47_1.png",
+            "latex_extracted": null,
+            "source_page_number": null,
+            "source_image_index": null,
+            "ownership": "answer"
+          }
+        ],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of telescope optics and application of magnification formulas.",
+    "topics_tags": [
+      "Telescope",
+      "Optics",
+      "Magnification"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "Some context is mixed or weak, affecting clarity."
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the telescope's optical setup.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898301/ncert/physics/9/img_46_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q9.37",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 9,
+    "chapter_name": "ray optics and optical instruments",
+    "question_type": "mcq",
+    "question_text": "Light incident normally on a plane mirror attached to a galvanometer coil retraces backwards as shown in Fig. 99.36. A current in the coil produces a deflection of 3.5° of the mirror. What is the displacement of the reflected spot of light on a screen placed 1.5 m away?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the setup of a plane mirror and galvanometer coil with light incident normally.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898308/ncert/physics/9/img_49_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The displacement of the reflected spot of light is calculated using the angle of deflection.",
+    "answer_latex": "d = 2D \\tan\\left(\\frac{\\theta}{2}\\right) = 2 \\times 1.5 \\times \\tan\\left(\\frac{3.5}{2}\\right)",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the angle of deflection for the reflected rays.",
+        "expression": "2\\theta = 7.0°"
+      },
+      {
+        "step_number": 2,
+        "description": "Use the formula for displacement based on the distance to the screen and angle.",
+        "expression": "d = 2D \\tan\\left(\\frac{\\theta}{2}\\right)"
+      },
+      {
+        "step_number": 3,
+        "description": "Substitute the values into the formula.",
+        "expression": "d = 2 \\times 1.5 \\times \\tan\\left(\\frac{3.5}{2}\\right)"
+      }
+    ],
+    "final_answer": "Hence, the displacement of the reflected spot of light is 18.4 cm.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of reflection and basic trigonometry.",
+    "topics_tags": [
+      "Reflection",
+      "Galvanometer",
+      "Optics"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the setup of a plane mirror and galvanometer coil with light incident normally.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898308/ncert/physics/9/img_49_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q9.38",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 9,
+    "chapter_name": "ray optics and optical instruments",
+    "question_type": "mcq",
+    "question_text": "Figure 9.37 shows an equiconvex lens (of refractive index 1.50) in contact with a liquid layer on top of a plane mirror. A small needle with its tip on the principal axis is moved along the axis until its inverted image is found at the position of the needle. The distance of the needle from the lens is measured to be 45.0 cm. The liquid is removed and the experiment is repeated. The new distance is measured to be 30.0 cm. What is the refractive index of the liquid?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The refractive index of the liquid is calculated using the focal lengths of the lens and the system.",
+    "answer_latex": "n = \\frac{f_{lens}}{f_{system}} = \\frac{30}{45} = 1.33",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the focal lengths of the lens and the system.",
+        "expression": "f_{lens} = 30 cm, f_{system} = 45 cm"
+      },
+      {
+        "step_number": 2,
+        "description": "Use the formula for refractive index based on focal lengths.",
+        "expression": "n = \\frac{f_{lens}}{f_{system}}"
+      },
+      {
+        "step_number": 3,
+        "description": "Substitute the values into the formula.",
+        "expression": "n = \\frac{30}{45}"
+      }
+    ],
+    "final_answer": "Hence, the refractive index of the liquid is 1.33.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing an equiconvex lens in contact with a liquid layer on a plane mirror.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898312/ncert/physics/9/img_50_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of optics and application of formulas.",
+    "topics_tags": [
+      "Refractive Index",
+      "Optical Systems",
+      "Lens"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing an equiconvex lens in contact with a liquid layer on a plane mirror.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898312/ncert/physics/9/img_50_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  }
+]

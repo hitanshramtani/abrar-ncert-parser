@@ -1,0 +1,1429 @@
+[
+  {
+    "question_id": "Q5.1",
+    "class": 8,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "data handling",
+    "question_type": "mcq",
+    "question_text": "For which of these would you use a histogram to show the data? (a) The number of letters for different areas in a postman's bag. (b) The height of competitors in an athletics meet. (c) The number of cassettes produced by 5 companies. (d) The number of passengers boarding trains from 7:00 a.m. to 7:00 p.m. at a station. Give reasons for each.",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "The number of letters for different areas in a postman's bag."
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "The height of competitors in an athletics meet."
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "The number of cassettes produced by 5 companies."
+      },
+      {
+        "option_label": "(D)",
+        "option_text": "The number of passengers boarding trains from 7:00 a.m. to 7:00 p.m. at a station. Give reasons for each."
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "The number of letters for different areas in a postman's bag.",
+        "part_latex": null,
+        "answer_text": "We cannot define class intervals for this data as we do not know about the number of letters of different areas.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Therefore, we will not use a histogram.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "The height of competitors in an athletics meet.",
+        "part_latex": null,
+        "answer_text": "We can divide the given data into class intervals based on height.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, we will use a histogram.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "The number of cassettes produced by 5 companies.",
+        "part_latex": null,
+        "answer_text": "We do not have any approximate idea about the number of cassettes produced by the given companies.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Therefore, we cannot define class intervals for this data and thus, we will not use a histogram.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(d)",
+        "part_text": "The number of passengers boarding trains from 7:00 a.m. to 7:00 p.m. at a station.",
+        "part_latex": null,
+        "answer_text": "We can divide the given data into class intervals based on time.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, we will use a histogram.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of when to use histograms based on data characteristics.",
+    "topics_tags": [
+      "Histogram",
+      "Data Representation",
+      "Statistics"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.2",
+    "class": 8,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "data handling",
+    "question_type": "conceptual",
+    "question_text": "Make a frequency distribution table using tally marks for the shoppers who came during the first hour in the morning.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The frequency distribution table is as follows: W: 28, M: 15, B: 5, G: 12.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the frequency distribution table is complete.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct application of tally marks to count categories.",
+    "topics_tags": [
+      "Frequency Distribution",
+      "Tally Marks",
+      "Data Handling"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.3",
+    "class": 8,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "data handling",
+    "question_type": "numerical",
+    "question_text": "Using tally marks make a frequency table with intervals as 800 - 810, 810 - 820 and so on for the weekly wages of 30 workers.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "A frequency distribution table by using tally marks for the above data is as follows: 800 - 810: 3, 810 - 820: 2, 820 - 830: 1, 830 - 840: 9, 840 - 850: 5, 850 - 860: 1, 860 - 870: 3, 870 - 880: 1, 880 - 890: 1.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the frequency table is complete.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of frequency distribution and tally marks.",
+    "topics_tags": [
+      "Frequency Table",
+      "Tally Marks",
+      "Data Handling"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.4",
+    "class": 8,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "data handling",
+    "question_type": "conceptual",
+    "question_text": "Draw a histogram for the frequency table made for the data in Question 3 and answer the following questions: (i) Which group has the maximum number of workers? (ii) How many workers earn Rs 850 and more? (iii) How many workers earn less than Rs 850?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The histogram for the above frequency distribution table can be drawn based on the frequencies. (i) The group with the maximum number of workers is 830 - 840. (ii) The number of workers earning Rs 850 and more is 10. (iii) The number of workers earning less than Rs 850 is 20.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the histogram illustrates the frequency distribution effectively.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves drawing a histogram and interpreting data from it.",
+    "topics_tags": [
+      "Histogram",
+      "Data Interpretation",
+      "Statistics"
+    ],
+    "confidence_score": 0.94,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.7",
+    "class": 8,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "data handling",
+    "question_type": "multipart",
+    "question_text": "A group of 360 people were asked to vote for their favourite season from the three seasons rainy, winter and summer. (i) Which season got the most votes (ii) Find the central angle of each sector. (iii) Draw a pie chart to show this information.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "A diagram showing the votes for each season and their corresponding central angles.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777838114/ncert/maths/5/img_7_0.png",
+      "latex_extracted": "={\\frac{40}{100}}\\times1000",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "Which season got the most votes?",
+        "part_latex": null,
+        "answer_text": "Winter",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "The season with the most votes is Winter.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "Find the central angle of each sector.",
+        "part_latex": null,
+        "answer_text": "Total number of votes = 90 + 120 + 150 = 360.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the total number of votes.",
+            "expression": "360"
+          }
+        ],
+        "final_answer": "The central angles can be calculated based on the total votes.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "Draw a pie chart to show this information.",
+        "part_latex": null,
+        "answer_text": "A pie chart can be drawn for the above data.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "The pie chart visually represents the voting data.",
+        "answer_image": {
+          "present": true,
+          "description": "A pie chart showing the distribution of votes among the seasons.",
+          "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777838118/ncert/maths/5/img_8_0.jpg",
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "answer"
+        },
+        "question_images": [],
+        "answer_images": [
+          {
+            "present": true,
+            "description": "A pie chart showing the distribution of votes among the seasons.",
+            "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777838118/ncert/maths/5/img_8_0.jpg",
+            "latex_extracted": null,
+            "source_page_number": null,
+            "source_image_index": null,
+            "ownership": "answer"
+          }
+        ],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of pie charts and central angles, involving multiple calculations.",
+    "topics_tags": [
+      "Data Handling",
+      "Pie Chart",
+      "Voting"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "Some parts of the question are not fully detailed."
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "A diagram showing the votes for each season and their corresponding central angles.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777838114/ncert/maths/5/img_7_0.png",
+        "latex_extracted": "={\\frac{40}{100}}\\times1000",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.8",
+    "class": 8,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "data handling",
+    "question_type": "multipart",
+    "question_text": "The adjoining pie chart gives the marks scored in an examination by a student in Hindi, English, Mathematics, Social Science and Science. If the total marks obtained by the students were 540, answer the following questions. (i) In which subject did the student score 105 marks? (ii) How many more marks were obtained by the student in Mathematics than in Hindi? (iii) Examine whether the sum of the marks obtained in Social Science and Mathematics is more than that in Science and Hindi.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "A pie chart showing the marks scored in different subjects.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777838121/ncert/maths/5/img_9_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "In which subject did the student score 105 marks?",
+        "part_latex": null,
+        "answer_text": "The subject with 105 marks can be calculated using the central angle.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "The subject with 105 marks is determined by the central angle calculation.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "How many more marks were obtained by the student in Mathematics than in Hindi?",
+        "part_latex": null,
+        "answer_text": "This requires comparing the marks in Mathematics and Hindi.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "The difference in marks between Mathematics and Hindi can be calculated.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "Examine whether the sum of the marks obtained in Social Science and Mathematics is more than that in Science and Hindi.",
+        "part_latex": null,
+        "answer_text": "This requires analyzing the central angles of the respective subjects.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "The comparison of sums can be made based on the central angles.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Involves multiple calculations and comparisons based on pie chart data.",
+    "topics_tags": [
+      "Pie Chart",
+      "Marks Distribution",
+      "Examination"
+    ],
+    "confidence_score": 0.8,
+    "confidence_issues": [
+      "Some calculations and specific marks are not provided."
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "A pie chart showing the marks scored in different subjects.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777838121/ncert/maths/5/img_9_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.9",
+    "class": 8,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "data handling",
+    "question_type": "conceptual",
+    "question_text": "The number of students in a hostel, speaking different languages is given below. Display the data in a pie chart.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "A pie chart representing the distribution of students speaking different languages.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777838129/ncert/maths/5/img_11_0.jpg",
+      "latex_extracted": "\\begin{array}{l}{{\\stackrel{\\mathrm{Busb}}{\\longrightarrow}}}\\\\ {{\\mid\\begin{array}{c}{{\\mid\\Lambda^{\\prime}\\mid}}\\\\ {{\\mid\\stackrel{\\scriptstyle\\mathrm{deul}\\Vert}{\\scriptstyle\\uparrow}\\atop\\qquad\\mid\\aleph^{\\prime}=\\mid}}}\\\\ {{\\mid\\stackrel{\\scriptstyle\\mathrm{deul}\\leq\\zeta}{\\mid\\xi\\mid}\\end{array}\\atop{\\scriptstyle\\mathrm{dial}}\\atop\\in\\leq\\zeta^{\\prime}\\mid}}\\\\ {{\\mid\\stackrel{\\scriptstyle\\mathrm{dep}}{\\mid\\xi\\in\\xi^{\\prime}\\mid}\\Big\\}}}\\\\ {{\\bigotimes\\bigotimes\\bigotimes\\atop\\langle\\beta\\mid\\beta\\atop\\ \\{\\beta\\in\\beta\\in\\xi=\\beta\\atop\\quad\\langle\\leq\\beta\\in\\beta\\in\\beta\\atop\\beta\\in\\beta\\in\\beta\\atop\\beta\\in\\beta\\neq\\beta\\not\\in\\beta}}}\\end{array}",
+      "source_page_number": 11,
+      "source_image_index": 0,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The central angle for each subject can be calculated as follows.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the central angle for each language based on the number of students.",
+        "expression": "\\frac{40}{72} \\times 360 = 200 \\degree"
+      },
+      {
+        "step_number": 2,
+        "description": "Repeat for each language to find their respective central angles.",
+        "expression": "\\frac{12}{72} \\times 360 = 60 \\degree, \\frac{9}{72} \\times 360 = 45 \\degree, \\frac{7}{72} \\times 360 = 35 \\degree, \\frac{4}{72} \\times 360 = 20 \\degree"
+      }
+    ],
+    "final_answer": "Thus, the pie chart visually represents the distribution of students across different languages.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of pie chart representation and basic calculations.",
+    "topics_tags": [
+      "Pie Chart",
+      "Data Representation",
+      "Statistics"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "A pie chart representing the distribution of students speaking different languages.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777838129/ncert/maths/5/img_11_0.jpg",
+        "latex_extracted": "\\begin{array}{l}{{\\stackrel{\\mathrm{Busb}}{\\longrightarrow}}}\\\\ {{\\mid\\begin{array}{c}{{\\mid\\Lambda^{\\prime}\\mid}}\\\\ {{\\mid\\stackrel{\\scriptstyle\\mathrm{deul}\\Vert}{\\scriptstyle\\uparrow}\\atop\\qquad\\mid\\aleph^{\\prime}=\\mid}}}\\\\ {{\\mid\\stackrel{\\scriptstyle\\mathrm{deul}\\leq\\zeta}{\\mid\\xi\\mid}\\end{array}\\atop{\\scriptstyle\\mathrm{dial}}\\atop\\in\\leq\\zeta^{\\prime}\\mid}}\\\\ {{\\mid\\stackrel{\\scriptstyle\\mathrm{dep}}{\\mid\\xi\\in\\xi^{\\prime}\\mid}\\Big\\}}}\\\\ {{\\bigotimes\\bigotimes\\bigotimes\\atop\\langle\\beta\\mid\\beta\\atop\\ \\{\\beta\\in\\beta\\in\\xi=\\beta\\atop\\quad\\langle\\leq\\beta\\in\\beta\\in\\beta\\atop\\beta\\in\\beta\\in\\beta\\atop\\beta\\in\\beta\\neq\\beta\\not\\in\\beta}}}\\end{array}",
+        "source_page_number": 11,
+        "source_image_index": 0,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.10",
+    "class": 8,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "data handling",
+    "question_type": "conceptual",
+    "question_text": "List the outcomes you can see in these experiments.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "On spinning the given wheel, the possible outcomes are A, B, C, D.",
+        "part_latex": null,
+        "answer_text": "The possible outcomes are A, B, C, D.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, the outcomes of spinning the wheel are A, B, C, D.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "By tossing two coins together, the possible outcomes are HT, TH, HH, TT where H and T represents Head and Tail of the coins respectively.",
+        "part_latex": null,
+        "answer_text": "The possible outcomes are HT, TH, HH, TT.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, the outcomes of tossing two coins are HT, TH, HH, TT.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "A diagram showing possible outcomes of spinning a wheel and tossing two coins.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777838131/ncert/maths/5/img_12_0.jpg",
+      "latex_extracted": "\\begin{array}{c}{{{\\displaystyle\\sqrt{<_{\\mathrm{A}}\\left\\vert}\\right\\vert_{\\displaystyle\\vphantom{{\\Lambda}}^{\\mathrm{A}}\\right\\langle_{\\mathrm{C}}^{\\mathrm{A}}\\right\\rangle}}}\\\\ {{\\displaystyle\\left(\\begin{array}{l}{{{\\displaystyle\\mathrm{p}}^{\\mathrm{A}}\\displaystyle\\sqrt{<_{\\mathrm{B}}^{\\mathrm{A}}\\right\\ /}}}}\\end{array}",
+      "source_page_number": 12,
+      "source_image_index": 0,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of possible outcomes from basic probability experiments.",
+    "topics_tags": [
+      "Probability",
+      "Outcomes",
+      "Experiments"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "A diagram showing possible outcomes of spinning a wheel and tossing two coins.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777838131/ncert/maths/5/img_12_0.jpg",
+        "latex_extracted": "\\begin{array}{c}{{{\\displaystyle\\sqrt{<_{\\mathrm{A}}\\left\\vert}\\right\\vert_{\\displaystyle\\vphantom{{\\Lambda}}^{\\mathrm{A}}\\right\\langle_{\\mathrm{C}}^{\\mathrm{A}}\\right\\rangle}}}\\\\ {{\\displaystyle\\left(\\begin{array}{l}{{{\\displaystyle\\mathrm{p}}^{\\mathrm{A}}\\displaystyle\\sqrt{<_{\\mathrm{B}}^{\\mathrm{A}}\\right\\ /}}}}\\end{array}",
+        "source_page_number": 12,
+        "source_image_index": 0,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q5.11",
+    "class": 8,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "data handling",
+    "question_type": "mcq",
+    "question_text": "Find the.\n(a) Probability of the pointer stopping on D in (Question 1 - (a))\n(b) Probability of getting an ace from a well shuffled deck of 52 playing cards\n(c) Probability of getting a red apple. (See figure below)",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "Probability of the pointer stopping on D in (Question 1"
+      },
+      {
+        "option_label": "(A)",
+        "option_text": ")"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "Probability of getting an ace from a well shuffled deck of 52 playing cards"
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "Probability of getting a red apple. (See figure below)"
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Probability of the pointer stopping on D in (Question 1 - (a))",
+        "part_latex": null,
+        "answer_text": "The probability that the pointer will stop at region D is \\frac{1}{5}.",
+        "answer_latex": "\\frac{1}{5}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the total number of regions where the pointer can stop.",
+            "expression": "5"
+          },
+          {
+            "step_number": 2,
+            "description": "Determine the number of favorable outcomes for stopping at D.",
+            "expression": "1"
+          },
+          {
+            "step_number": 3,
+            "description": "Calculate the probability using the formula P(E) = \\frac{n(E)}{n(S)}.",
+            "expression": "\\frac{1}{5}"
+          }
+        ],
+        "final_answer": "Therefore, the probability that the pointer will stop at region D is \\frac{1}{5}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Probability of getting an ace from a well shuffled deck of 52 playing cards",
+        "part_latex": null,
+        "answer_text": "The probability of getting an ace card is \\frac{4}{52}.",
+        "answer_latex": "\\frac{4}{52}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the total number of cards in the deck.",
+            "expression": "52"
+          },
+          {
+            "step_number": 2,
+            "description": "Determine the number of favorable outcomes for getting an ace.",
+            "expression": "4"
+          },
+          {
+            "step_number": 3,
+            "description": "Calculate the probability using the formula P(E) = \\frac{n(E)}{n(S)}.",
+            "expression": "\\frac{4}{52}"
+          }
+        ],
+        "final_answer": "Therefore, the probability of getting an ace card is \\frac{4}{52}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "Probability of getting a red apple.",
+        "part_latex": null,
+        "answer_text": "The probability of getting a red apple is \\frac{4}{7}.",
+        "answer_latex": "\\frac{4}{7}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the total number of apples.",
+            "expression": "7"
+          },
+          {
+            "step_number": 2,
+            "description": "Determine the number of favorable outcomes for getting a red apple.",
+            "expression": "4"
+          },
+          {
+            "step_number": 3,
+            "description": "Calculate the probability using the formula P(E) = \\frac{n(E)}{n(S)}.",
+            "expression": "\\frac{4}{7}"
+          }
+        ],
+        "final_answer": "Therefore, the probability of getting a red apple is \\frac{4}{7}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Figure showing regions A, B, C, D for the pointer to stop.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777838134/ncert/maths/5/img_13_0.jpg",
+      "latex_extracted": "\\begin{array}{c}{{{\\cal S}_{z}\\qquad\\sum_{\\alpha}\\sum_{\\alpha}\\sum_{\\alpha}\\sum_{\\alpha}\\sum_{\\beta=1}}}\\\\ {{\\left({\\scriptstyle\\frac{\\kappa}{\\kappa}}\\right)\\left({\\scriptstyle\\exp\\left({\\bf e}\\right)}\\bigotimes_{\\beta=1}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of basic probability concepts and calculations.",
+    "topics_tags": [
+      "Probability",
+      "Events",
+      "Favorable Outcomes"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Figure showing regions A, B, C, D for the pointer to stop.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777838134/ncert/maths/5/img_13_0.jpg",
+        "latex_extracted": "\\begin{array}{c}{{{\\cal S}_{z}\\qquad\\sum_{\\alpha}\\sum_{\\alpha}\\sum_{\\alpha}\\sum_{\\alpha}\\sum_{\\beta=1}}}\\\\ {{\\left({\\scriptstyle\\frac{\\kappa}{\\kappa}}\\right)\\left({\\scriptstyle\\exp\\left({\\bf e}\\right)}\\bigotimes_{\\beta=1}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q5.12",
+    "class": 8,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "data handling",
+    "question_type": "multipart",
+    "question_text": "Numbers 1 to 10 are written on ten separate slips (one number on one slip), kept in a box and mixed well. One slip is chosen from the box without looking into it. What is the probability of.\n(i) getting a number 6\n(ii) getting a number less than 6\n(iii) getting a number greater than 6\n(iv) getting a 1-digit number",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "getting a number 6",
+        "part_latex": null,
+        "answer_text": "The probability of getting a number 6 is \\frac{1}{10}.",
+        "answer_latex": "\\frac{1}{10}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the total number of slips.",
+            "expression": "10"
+          },
+          {
+            "step_number": 2,
+            "description": "Determine the number of favorable outcomes for getting a 6.",
+            "expression": "1"
+          },
+          {
+            "step_number": 3,
+            "description": "Calculate the probability using the formula P(E) = \\frac{n(E)}{n(S)}.",
+            "expression": "\\frac{1}{10}"
+          }
+        ],
+        "final_answer": "Therefore, the probability of getting a number 6 is \\frac{1}{10}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "getting a number less than 6",
+        "part_latex": null,
+        "answer_text": "The probability of getting a number less than 6 is \\frac{5}{10}.",
+        "answer_latex": "\\frac{5}{10}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the total number of slips.",
+            "expression": "10"
+          },
+          {
+            "step_number": 2,
+            "description": "Determine the numbers less than 6: 1, 2, 3, 4, 5.",
+            "expression": "5"
+          },
+          {
+            "step_number": 3,
+            "description": "Calculate the probability using the formula P(E) = \\frac{n(E)}{n(S)}.",
+            "expression": "\\frac{5}{10}"
+          }
+        ],
+        "final_answer": "Therefore, the probability of getting a number less than 6 is \\frac{5}{10}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "getting a number greater than 6",
+        "part_latex": null,
+        "answer_text": "The probability of getting a number greater than 6 is \\frac{4}{10}.",
+        "answer_latex": "\\frac{4}{10}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the total number of slips.",
+            "expression": "10"
+          },
+          {
+            "step_number": 2,
+            "description": "Determine the numbers greater than 6: 7, 8, 9, 10.",
+            "expression": "4"
+          },
+          {
+            "step_number": 3,
+            "description": "Calculate the probability using the formula P(E) = \\frac{n(E)}{n(S)}.",
+            "expression": "\\frac{4}{10}"
+          }
+        ],
+        "final_answer": "Therefore, the probability of getting a number greater than 6 is \\frac{4}{10}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iv)",
+        "part_text": "getting a 1-digit number",
+        "part_latex": null,
+        "answer_text": "The probability of getting a 1-digit number is \\frac{9}{10}.",
+        "answer_latex": "\\frac{9}{10}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the total number of slips.",
+            "expression": "10"
+          },
+          {
+            "step_number": 2,
+            "description": "Determine the number of 1-digit numbers: 1, 2, 3, 4, 5, 6, 7, 8, 9.",
+            "expression": "9"
+          },
+          {
+            "step_number": 3,
+            "description": "Calculate the probability using the formula P(E) = \\frac{n(E)}{n(S)}.",
+            "expression": "\\frac{9}{10}"
+          }
+        ],
+        "final_answer": "Therefore, the probability of getting a 1-digit number is \\frac{9}{10}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of basic probability concepts and calculations.",
+    "topics_tags": [
+      "Probability",
+      "Events",
+      "Favorable Outcomes"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.13",
+    "class": 8,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "data handling",
+    "question_type": "multipart",
+    "question_text": "If you have a spinning wheel with 3 green sectors, 1 blue sector and 1 red sector, what is the probability of getting a green sector? What is the probability of getting a non blue sector?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "getting a green sector",
+        "part_latex": null,
+        "answer_text": "The probability of getting a green sector is \\frac{3}{5}.",
+        "answer_latex": "\\frac{3}{5}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the total number of sectors.",
+            "expression": "5"
+          },
+          {
+            "step_number": 2,
+            "description": "Determine the number of favorable outcomes for getting a green sector.",
+            "expression": "3"
+          },
+          {
+            "step_number": 3,
+            "description": "Calculate the probability using the formula P(E) = \\frac{n(E)}{n(S)}.",
+            "expression": "\\frac{3}{5}"
+          }
+        ],
+        "final_answer": "Therefore, the probability of getting a green sector is \\frac{3}{5}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "getting a non blue sector",
+        "part_latex": null,
+        "answer_text": "The probability of getting a non blue sector is \\frac{4}{5}.",
+        "answer_latex": "\\frac{4}{5}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the total number of sectors.",
+            "expression": "5"
+          },
+          {
+            "step_number": 2,
+            "description": "Determine the number of favorable outcomes for getting a non blue sector (green + red).",
+            "expression": "4"
+          },
+          {
+            "step_number": 3,
+            "description": "Calculate the probability using the formula P(E) = \\frac{n(E)}{n(S)}.",
+            "expression": "\\frac{4}{5}"
+          }
+        ],
+        "final_answer": "Therefore, the probability of getting a non blue sector is \\frac{4}{5}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic probability calculations with simple outcomes.",
+    "topics_tags": [
+      "Probability",
+      "Spinning Wheel",
+      "Events"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.14",
+    "class": 8,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "data handling",
+    "question_type": "conceptual",
+    "question_text": "What is the probability of getting a number not greater than 5?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of basic probability concepts.",
+    "topics_tags": [
+      "Probability",
+      "Data Handling",
+      "Statistics"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  }
+]

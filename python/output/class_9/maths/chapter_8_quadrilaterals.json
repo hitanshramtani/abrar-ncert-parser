@@ -1,0 +1,1955 @@
+[
+  {
+    "question_id": "Q8.1",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "quadrilaterals",
+    "question_type": "mcq",
+    "question_text": "The angles of quadrilateral are in the ratio 3: 5: 9: 13. Find all the angles of the quadrilateral.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The angles are 36º, 60º, 108º, and 156º.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Let the common ratio between the angles be x.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Set up the equation for the sum of angles: 3x + 5x + 9x + 13x = 360º.",
+        "expression": "30x = 360"
+      },
+      {
+        "step_number": 3,
+        "description": "Solve for x: x = 12º.",
+        "expression": "x = 12"
+      },
+      {
+        "step_number": 4,
+        "description": "Calculate each angle using x.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, the angles of the quadrilateral are 36º, 60º, 108º, and 156º.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of angle ratios and basic algebra.",
+    "topics_tags": [
+      "Quadrilaterals",
+      "Angles",
+      "Ratios"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.2",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "quadrilaterals",
+    "question_type": "conceptual",
+    "question_text": "If the diagonals of a parallelogram are equal, then show that it is a rectangle.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing a parallelogram with equal diagonals.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840914/ncert/maths/8/img_2_0.jpg",
+      "latex_extracted": "\\left|\\left|\\begin{array}{l}{{\\H(\\B\\times_{\\infty})}}\\\\ {{\\sum_{n},K\\sum_{\\infty}^{\\prime}\\sum_{\\infty}^{\\frac{1}{n}}}}\\\\ {{|E\\sum^{\\prime}}}\\end{array}\\right|",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Since ABCD is a parallelogram and one of its interior angles is 90º, ABCD is a rectangle.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the triangles formed by the diagonals.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use SSS congruence to show that the triangles are equal.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Conclude that the angles are equal and one must be 90º.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, ABCD is a rectangle.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding properties of parallelograms and triangle congruence.",
+    "topics_tags": [
+      "Parallelograms",
+      "Diagonals",
+      "Congruence"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing a parallelogram with equal diagonals.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840914/ncert/maths/8/img_2_0.jpg",
+        "latex_extracted": "\\left|\\left|\\begin{array}{l}{{\\H(\\B\\times_{\\infty})}}\\\\ {{\\sum_{n},K\\sum_{\\infty}^{\\prime}\\sum_{\\infty}^{\\frac{1}{n}}}}\\\\ {{|E\\sum^{\\prime}}}\\end{array}\\right|",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.3",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "quadrilaterals",
+    "question_type": "conceptual",
+    "question_text": "Show that if the diagonals of a quadrilateral bisect each other at right angles, then it is a rhombus.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing a quadrilateral with diagonals bisecting at right angles.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840916/ncert/maths/8/img_3_0.jpg",
+      "latex_extracted": "\\Big|_{1\\!\\!\\!\\slash^{\\prime}\\!\\!\\!\\slash<\\!\\!\\!\\Lambda_{\\mathrm{\\scriptsize{J}}}^{\\mathrm{\\scriptsize{A}}}\\!\\!\\!\\setminus\\!\\!\\bigcup_{c}}^{\\mathrm{\\scriptsize{J}}}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Since ABCD is a parallelogram and one of its interior angles is 90º, ABCD is a rhombus.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the properties of the diagonals bisecting each other.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use triangle congruence to show that all sides are equal.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Conclude that ABCD is a rhombus.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, ABCD is a rhombus.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of properties of quadrilaterals and triangle congruence.",
+    "topics_tags": [
+      "Quadrilaterals",
+      "Diagonals",
+      "Rhombus"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing a quadrilateral with diagonals bisecting at right angles.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840916/ncert/maths/8/img_3_0.jpg",
+        "latex_extracted": "\\Big|_{1\\!\\!\\!\\slash^{\\prime}\\!\\!\\!\\slash<\\!\\!\\!\\Lambda_{\\mathrm{\\scriptsize{J}}}^{\\mathrm{\\scriptsize{A}}}\\!\\!\\!\\setminus\\!\\!\\bigcup_{c}}^{\\mathrm{\\scriptsize{J}}}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.4",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "quadrilaterals",
+    "question_type": "conceptual",
+    "question_text": "Show that the diagonals of a square are equal and bisect each other at right angles.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram illustrating the diagonals of a square intersecting at right angles.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840918/ncert/maths/8/img_4_0.jpg",
+      "latex_extracted": "\\left|\\begin{array}{c}{{\\mathrm{\\Large{\\frac{A}{}}}\\nabla_{\\mathrm{{e}}}^{\\mathrm{{s}}}}}\\\\ {{\\mathrm{\\tiny{\\S}}}}\\\\ {{\\mathrm{\\tiny{\\tiny{\\S}}}}}\\\\ {{\\mathrm{\\Delta^{X}}}}\\\\ {{\\mathrm{\\tiny{\\P}}}}\\\\ {{\\mathrm{\\tiny{\\tiny{\\S}}}}}\\end{array}\\right|",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The diagonals of a square are equal in length and bisect each other at right angles.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify that the diagonals AC and BD intersect at point O.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Prove that triangles ABC and DCB are congruent using SAS.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Conclude that AC = DB by CPCT.",
+        "expression": null
+      },
+      {
+        "step_number": 4,
+        "description": "Prove that diagonals bisect each other using congruence of triangles AOB and COD.",
+        "expression": null
+      },
+      {
+        "step_number": 5,
+        "description": "Show that angles AOB and COB are equal and sum to 180 degrees.",
+        "expression": null
+      },
+      {
+        "step_number": 6,
+        "description": "Conclude that AOB = 90 degrees.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, the diagonals of a square are equal and bisect each other at right angles.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps of reasoning and congruence proofs.",
+    "topics_tags": [
+      "Diagonals",
+      "Square",
+      "Congruence"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram illustrating the diagonals of a square intersecting at right angles.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840918/ncert/maths/8/img_4_0.jpg",
+        "latex_extracted": "\\left|\\begin{array}{c}{{\\mathrm{\\Large{\\frac{A}{}}}\\nabla_{\\mathrm{{e}}}^{\\mathrm{{s}}}}}\\\\ {{\\mathrm{\\tiny{\\S}}}}\\\\ {{\\mathrm{\\tiny{\\tiny{\\S}}}}}\\\\ {{\\mathrm{\\Delta^{X}}}}\\\\ {{\\mathrm{\\tiny{\\P}}}}\\\\ {{\\mathrm{\\tiny{\\tiny{\\S}}}}}\\end{array}\\right|",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.5",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "quadrilaterals",
+    "question_type": "multipart",
+    "question_text": "Diagonal AC of a parallelogram ABCD bisects A. Show that (i) It bisects C also, (ii) ABCD is a rhombus.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "Show that it bisects C.",
+        "part_latex": null,
+        "answer_text": "AC bisects angle C as well.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify that angles DAC and BCA are alternate interior angles.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Use the fact that AC bisects angle A to conclude that DAC = BAC.",
+            "expression": null
+          },
+          {
+            "step_number": 3,
+            "description": "Conclude that AC also bisects angle C by showing DAC = BCA.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, AC bisects angle C.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "Show that ABCD is a rhombus.",
+        "part_latex": null,
+        "answer_text": "Since opposite sides are equal and angles are equal, ABCD is a rhombus.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the fact that angles DAC = DCA to show that DA = DC.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Since DA = BC and AB = CD, conclude that all sides are equal.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Therefore, ABCD is a rhombus.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the parallelogram ABCD with diagonal AC bisecting angle A.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840921/ncert/maths/8/img_8_0.jpg",
+      "latex_extracted": "\\left|\\frac{\\stackrel{\\mathrm{D}}{\\sqrt{\\langle\\cal{N}\\rangle}}}{\\sqrt{\\frac{\\sqrt{\\langle\\cal{N}}}{\\langle\\sqrt{\\langle\\cal{N}\\rangle}}}}\\right|",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of properties of parallelograms and rhombuses.",
+    "topics_tags": [
+      "Parallelogram",
+      "Rhombus",
+      "Congruence"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the parallelogram ABCD with diagonal AC bisecting angle A.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840921/ncert/maths/8/img_8_0.jpg",
+        "latex_extracted": "\\left|\\frac{\\stackrel{\\mathrm{D}}{\\sqrt{\\langle\\cal{N}\\rangle}}}{\\sqrt{\\frac{\\sqrt{\\langle\\cal{N}}}{\\langle\\sqrt{\\langle\\cal{N}\\rangle}}}}\\right|",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q8.6",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "quadrilaterals",
+    "question_type": "multipart",
+    "question_text": "In parallelogram ABCD, two points P and Q are taken on diagonal BD such that DP = BQ (see the given figure). Show that:",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing parallelogram ABCD with points P and Q on diagonal BD.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840931/ncert/maths/8/img_11_0.jpg",
+      "latex_extracted": "\\begin{array}{c}{{\\mathrm{~\\Gamma~}}}\\\\ {{\\mathrm{~}\\displaystyle{\\frac{\\sqrt{\\displaystyle\\exp\\llap/}\\sqrt{\\llap/}}{\\sqrt{\\llap/}}}{\\sqrt[[object Object]]{\\sqrt[[object Object]]{\\sqrt[[object Object]]{4/2}}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "∆APD ∆CQB",
+        "part_latex": null,
+        "answer_text": "In ∆APD and ∆CQB, ADP = CBQ (Alternate interior angles for BC || AD), AD = CB (Opposite sides of parallelogram ABCD), DP = BQ (Given). Therefore, ∆APD ∆CQB (Using SAS congruence rule).",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the angles ADP and CBQ as alternate interior angles.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "State that AD = CB as opposite sides of parallelogram ABCD.",
+            "expression": null
+          },
+          {
+            "step_number": 3,
+            "description": "Use the given condition DP = BQ.",
+            "expression": null
+          },
+          {
+            "step_number": 4,
+            "description": "Apply the SAS congruence rule to conclude that ∆APD is congruent to ∆CQB.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, ∆APD is congruent to ∆CQB.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "AP = CQ",
+        "part_latex": null,
+        "answer_text": "Since ∆APD ∆CQB, by CPCT, AP = CQ.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Therefore, AP = CQ.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "∆AQB ∆CPD",
+        "part_latex": null,
+        "answer_text": "In ∆AQB and ∆CPD, ABQ = CDP (Alternate interior angles for AB || CD), AB = CD (Opposite sides of parallelogram ABCD), BQ = DP (Given). Therefore, ∆AQB ∆CPD (Using SAS congruence rule).",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the angles ABQ and CDP as alternate interior angles.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "State that AB = CD as opposite sides of parallelogram ABCD.",
+            "expression": null
+          },
+          {
+            "step_number": 3,
+            "description": "Use the given condition BQ = DP.",
+            "expression": null
+          },
+          {
+            "step_number": 4,
+            "description": "Apply the SAS congruence rule to conclude that ∆AQB is congruent to ∆CPD.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, ∆AQB is congruent to ∆CPD.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iv)",
+        "part_text": "AQ = CP",
+        "part_latex": null,
+        "answer_text": "Since ∆AQB ∆CPD, by CPCT, AQ = CP.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Therefore, AQ = CP.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(v)",
+        "part_text": "APCQ is a parallelogram",
+        "part_latex": null,
+        "answer_text": "From the results obtained in (ii) and (iv), AQ = CP and AP = CQ, thus APCQ is a parallelogram.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Therefore, APCQ is a parallelogram.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of congruence and properties of parallelograms.",
+    "topics_tags": [
+      "Parallelogram",
+      "Congruence",
+      "Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing parallelogram ABCD with points P and Q on diagonal BD.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840931/ncert/maths/8/img_11_0.jpg",
+        "latex_extracted": "\\begin{array}{c}{{\\mathrm{~\\Gamma~}}}\\\\ {{\\mathrm{~}\\displaystyle{\\frac{\\sqrt{\\displaystyle\\exp\\llap/}\\sqrt{\\llap/}}{\\sqrt{\\llap/}}}{\\sqrt[[object Object]]{\\sqrt[[object Object]]{\\sqrt[[object Object]]{4/2}}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.7",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "quadrilaterals",
+    "question_type": "multipart",
+    "question_text": "ABCD is a parallelogram and AP and CQ are perpendiculars from vertices A and C on diagonal BD (See the given figure). Show that (i) ∆APB ≅ ∆CQD (ii) AP = CQ",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing parallelogram ABCD with perpendiculars AP and CQ from vertices A and C to diagonal BD.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840933/ncert/maths/8/img_13_0.jpg",
+      "latex_extracted": "\\left[\\begin{array}{l l}{\\left[\\sum_{\\left\\sum_{\\bar{\\gamma}}\\atop\\bar{\\gamma}^{\\prime}}\\sum_{\\sum}\\sum_{\\bar{\\Lambda}}\\bar{\\tilde{\\gamma}}^{\\prime}\\right]}\\\\ {\\vdots}\\\\ {\\Lambda}\\end{array}\\right.",
+      "source_page_number": 13,
+      "source_image_index": 0,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "Show that ∆APB ≅ ∆CQD",
+        "part_latex": null,
+        "answer_text": "In ∆APB and ∆CQD, ∠APB = ∠CQD (Each 90°), AB = CD (Opposite sides of parallelogram ABCD), ∠ABP = ∠CDQ (Alternate interior angles for AB || CD). Therefore, ∆APB ≅ ∆CQD (By AAS congruency).",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the right angles in both triangles.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Use the property of opposite sides of parallelograms.",
+            "expression": null
+          },
+          {
+            "step_number": 3,
+            "description": "Apply the AAS congruency criterion.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, ∆APB ≅ ∆CQD.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "Show that AP = CQ",
+        "part_latex": null,
+        "answer_text": "By using the above result ∆APB ≅ ∆CQD, we obtain AP = CQ (By CPCT).",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the congruency result to state that corresponding parts are equal.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Therefore, AP = CQ.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of triangle congruence and properties of parallelograms.",
+    "topics_tags": [
+      "Parallelogram",
+      "Triangle Congruence",
+      "AAS Congruence"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing parallelogram ABCD with perpendiculars AP and CQ from vertices A and C to diagonal BD.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840933/ncert/maths/8/img_13_0.jpg",
+        "latex_extracted": "\\left[\\begin{array}{l l}{\\left[\\sum_{\\left\\sum_{\\bar{\\gamma}}\\atop\\bar{\\gamma}^{\\prime}}\\sum_{\\sum}\\sum_{\\bar{\\Lambda}}\\bar{\\tilde{\\gamma}}^{\\prime}\\right]}\\\\ {\\vdots}\\\\ {\\Lambda}\\end{array}\\right.",
+        "source_page_number": 13,
+        "source_image_index": 0,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.8",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "quadrilaterals",
+    "question_type": "multipart",
+    "question_text": "In ∆ABC and ∆DEF, AB = DE, AB || DE, BC = EF and BC || EF. Vertices A, B and C are joined to vertices D, E and F respectively (see the given figure). Show that (i) Quadrilateral ABED is a parallelogram (ii) Quadrilateral BEFC is a parallelogram (iii) AD || CF and AD = CF (iv) Quadrilateral ACFD is a parallelogram (v) AC = DF (vi) ∆ABC ≅ ∆DEF.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing triangles ABC and DEF with corresponding sides and angles.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840935/ncert/maths/8/img_14_0.jpg",
+      "latex_extracted": "\\underbrace{\\left\\langle\\sum_{\\mathbb{R}}\\sum_{\\leq\\leq\\leq_{\\geq}\\leq\\leq_{\\geq}\\leq_{\\geq}\\leq\\leq\\leq\\leq\\leq\\leq\\leq\\leq\\leq\\leq\\sum}{\\left\\langle\\sum_{\\mathbb{R}}\\right|}}",
+      "source_page_number": 14,
+      "source_image_index": 0,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "Show that Quadrilateral ABED is a parallelogram.",
+        "part_latex": null,
+        "answer_text": "It is given that AB = DE and AB || DE. If two opposite sides of a quadrilateral are equal and parallel to each other, then it will be a parallelogram. Therefore, quadrilateral ABED is a parallelogram.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the given equal and parallel sides.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Apply the property of parallelograms.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, quadrilateral ABED is a parallelogram.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "Show that Quadrilateral BEFC is a parallelogram.",
+        "part_latex": null,
+        "answer_text": "Again, BC = EF and BC || EF. Therefore, quadrilateral BEFC is a parallelogram.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the given equal and parallel sides.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Apply the property of parallelograms.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, quadrilateral BEFC is a parallelogram.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "Show that AD || CF and AD = CF.",
+        "part_latex": null,
+        "answer_text": "As we had observed that ABED and BEFC are parallelograms, therefore AD = BE and AD || BE (Opposite sides of a parallelogram are equal and parallel). And, BE = CF and BE || CF.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the properties of the previously established parallelograms.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, AD || CF and AD = CF.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iv)",
+        "part_text": "Show that Quadrilateral ACFD is a parallelogram.",
+        "part_latex": null,
+        "answer_text": "As we had observed that one pair of opposite sides (AD and CF) of quadrilateral ACFD are equal and parallel to each other, therefore, it is a parallelogram.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the equal and parallel sides.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Apply the property of parallelograms.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, quadrilateral ACFD is a parallelogram.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(v)",
+        "part_text": "Show that AC = DF.",
+        "part_latex": null,
+        "answer_text": "As ACFD is a parallelogram, therefore, the pair of opposite sides will be equal and parallel to each other. AC || DF and AC = DF.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the properties of the parallelogram.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, AC = DF.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(vi)",
+        "part_text": "Show that ∆ABC ≅ ∆DEF.",
+        "part_latex": null,
+        "answer_text": "Given AB = DE, BC = EF, and AC = DF (ACFD is a parallelogram). Therefore, ∆ABC ≅ ∆DEF (By SSS congruence rule).",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the equal sides.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Apply the SSS congruence rule.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, ∆ABC ≅ ∆DEF.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Involves multiple properties of parallelograms and triangle congruence.",
+    "topics_tags": [
+      "Parallelogram",
+      "Triangle Congruence",
+      "Properties of Quadrilaterals"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing triangles ABC and DEF with corresponding sides and angles.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840935/ncert/maths/8/img_14_0.jpg",
+        "latex_extracted": "\\underbrace{\\left\\langle\\sum_{\\mathbb{R}}\\sum_{\\leq\\leq\\leq_{\\geq}\\leq\\leq_{\\geq}\\leq_{\\geq}\\leq\\leq\\leq\\leq\\leq\\leq\\leq\\leq\\leq\\leq\\sum}{\\left\\langle\\sum_{\\mathbb{R}}\\right|}}",
+        "source_page_number": 14,
+        "source_image_index": 0,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.9",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "quadrilaterals",
+    "question_type": "multipart",
+    "question_text": "ABCD is a trapezium in which AB || CD and AD = BC (see the given figure). Show that (i) ∠A = ∠B (ii) ∠C = ∠D (iii) ∆ ABC ≅ ∆ BAD (iv) diagonal AC = diagonal BD.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing trapezium ABCD with parallel sides AB and CD.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840937/ncert/maths/8/img_15_0.jpg",
+      "latex_extracted": "\\underbrace{\\sqrt{\\left.\\frac{\\mathrm{A}}{}}\\right.\\overbrace{\\sim}\\displaystyle\\left.\\underbrace{\\frac{\\gamma^{\\prime}}{\\zeta^{\\prime}}\\right|}_{\\begin{array}{\\sqrt{\\log\\left(\\gamma^{\\prime}\\mathrm{E}}\\right)}}_{\\left.\\begin{array}{c}{\\gamma^{\\prime}\\right.}\\\\ {\\left.\\leq}\\\\ {\\downarrow}\\\\ {\\odot}\\end{array}\\right.}",
+      "source_page_number": 15,
+      "source_image_index": 0,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "Show that ∠A = ∠B.",
+        "part_latex": null,
+        "answer_text": "Since AB || CD, the alternate interior angles are equal. Therefore, ∠A = ∠B.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the parallel lines AB and CD.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Apply the property of alternate interior angles.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, ∠A = ∠B.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "Show that ∠C = ∠D.",
+        "part_latex": null,
+        "answer_text": "Similarly, since AB || CD, the alternate interior angles are equal. Therefore, ∠C = ∠D.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the parallel lines AB and CD.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Apply the property of alternate interior angles.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, ∠C = ∠D.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "Show that ∆ ABC ≅ ∆ BAD.",
+        "part_latex": null,
+        "answer_text": "Since ∠A = ∠B, AD = BC (given), and AC = AC (common side), we can use the SAS congruence criterion. Therefore, ∆ ABC ≅ ∆ BAD.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the equal angles and sides.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Apply the SAS congruence criterion.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, ∆ ABC ≅ ∆ BAD.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iv)",
+        "part_text": "Show that diagonal AC = diagonal BD.",
+        "part_latex": null,
+        "answer_text": "Since ∆ ABC ≅ ∆ BAD, the corresponding parts are equal. Therefore, diagonal AC = diagonal BD.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the congruency result to state that corresponding parts are equal.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, diagonal AC = diagonal BD.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of trapezium properties and triangle congruence.",
+    "topics_tags": [
+      "Trapezium",
+      "Triangle Congruence",
+      "Properties of Angles"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing trapezium ABCD with parallel sides AB and CD.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840937/ncert/maths/8/img_15_0.jpg",
+        "latex_extracted": "\\underbrace{\\sqrt{\\left.\\frac{\\mathrm{A}}{}}\\right.\\overbrace{\\sim}\\displaystyle\\left.\\underbrace{\\frac{\\gamma^{\\prime}}{\\zeta^{\\prime}}\\right|}_{\\begin{array}{\\sqrt{\\log\\left(\\gamma^{\\prime}\\mathrm{E}}\\right)}}_{\\left.\\begin{array}{c}{\\gamma^{\\prime}\\right.}\\\\ {\\left.\\leq}\\\\ {\\downarrow}\\\\ {\\odot}\\end{array}\\right.}",
+        "source_page_number": 15,
+        "source_image_index": 0,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.10",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "quadrilaterals",
+    "question_type": "multipart",
+    "question_text": "ABCD is a quadrilateral in which P, Q, R and S are mid-points of the sides AB, BC, CD and DA. AC is a diagonal. Show that: (i) SR || AC and SR = AC (ii) PQ = SR (iii) PQRS is a parallelogram.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "A diagram showing quadrilateral ABCD with midpoints P, Q, R, and S marked on the sides.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840939/ncert/maths/8/img_18_0.jpg",
+      "latex_extracted": "\\begin{array}{c}{{\\displaystyle\\int_{\\Delta}\\sum_{\\Lambda^{\\prime}}\\sum_{\\Lambda}^{\\Lambda}\\chi^{\\prime}}}\\\\ {{\\displaystyle\\left(\\sum_{\\Lambda^{\\prime}}^{\\Sigma^{\\prime}}\\sum_{\\bf p}^{\\zeta^{\\prime}}\\right)^{\\Lambda}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "Show that SR || AC and SR = AC.",
+        "part_latex": null,
+        "answer_text": "In triangle ADC, S and R are the mid-points of sides AD and CD respectively. Therefore, SR || AC and SR = AC.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify S and R as mid-points of sides AD and CD in triangle ADC.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Apply the mid-point theorem which states that the line segment joining the mid-points of two sides is parallel to the third side and half its length.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, SR is parallel to AC and equal to AC.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "Show that PQ = SR.",
+        "part_latex": null,
+        "answer_text": "In triangle ABC, P and Q are mid-points of sides AB and BC respectively. Therefore, by using the mid-point theorem, PQ || AC and PQ = AC. Since SR = AC, we have PQ = SR.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify P and Q as mid-points of sides AB and BC in triangle ABC.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Apply the mid-point theorem to conclude that PQ is parallel to AC and equal to AC.",
+            "expression": null
+          },
+          {
+            "step_number": 3,
+            "description": "Since SR = AC, it follows that PQ = SR.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Therefore, PQ = SR.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "Show that PQRS is a parallelogram.",
+        "part_latex": null,
+        "answer_text": "Since PQ || SR and PQ = SR, by definition, PQRS is a parallelogram.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the results from parts (i) and (ii) to establish that both pairs of opposite sides are equal and parallel.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, PQRS is a parallelogram.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of mid-point theorem and properties of parallelograms.",
+    "topics_tags": [
+      "Quadrilaterals",
+      "Mid-point Theorem",
+      "Parallelogram"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "A diagram showing quadrilateral ABCD with midpoints P, Q, R, and S marked on the sides.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840939/ncert/maths/8/img_18_0.jpg",
+        "latex_extracted": "\\begin{array}{c}{{\\displaystyle\\int_{\\Delta}\\sum_{\\Lambda^{\\prime}}\\sum_{\\Lambda}^{\\Lambda}\\chi^{\\prime}}}\\\\ {{\\displaystyle\\left(\\sum_{\\Lambda^{\\prime}}^{\\Sigma^{\\prime}}\\sum_{\\bf p}^{\\zeta^{\\prime}}\\right)^{\\Lambda}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.11",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "quadrilaterals",
+    "question_type": "conceptual",
+    "question_text": "ABCD is a rhombus and P, Q, R and S are the mid-points of the sides AB, BC, CD and DA respectively. Show that the quadrilateral PQRS is a rectangle.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the rhombus ABCD with midpoints P, Q, R, and S marked.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840942/ncert/maths/8/img_19_0.jpg",
+      "latex_extracted": "\\begin{array}{c}{{\\stackrel{\\mathrm{A}}{\\sqrt{\\sum_{\\mathrm{X}}^{\\infty}\\sum_{\\Lambda}^{\\mathrm{M}}\\cdot\\hat{\\Sigma}^{\\prime}}\\hat{\\Sigma}}}\\\\ {{s\\displaystyle\\bigwedge}}\\\\ {{\\hat{\\sum_{\\mathrm{X}}^{\\prime}\\hat{\\Sigma}_{\\times}^{\\prime}\\hat{\\Sigma}}\\times\\hat{\\Sigma}\\hat{\\Sigma}\\hat{\\Sigma}_{\\mathrm{X}}^{\\prime}}}\\\\ {{\\mathrm{~~\\hat{\\Sigma}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Since PQ || AC and PQ = AC, and RS || AC and RS = AC, we conclude that PQ || RS and PQ = RS. Therefore, PQRS is a parallelogram. Since one of its angles is 90°, PQRS is a rectangle.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Apply the mid-point theorem to show that PQ || AC and PQ = AC.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Apply the mid-point theorem to show that RS || AC and RS = AC.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Conclude that PQ || RS and PQ = RS, establishing PQRS as a parallelogram.",
+        "expression": null
+      },
+      {
+        "step_number": 4,
+        "description": "Since one angle of the parallelogram is 90°, conclude that PQRS is a rectangle.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Hence, PQRS is a rectangle.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of properties of rhombus and mid-point theorem.",
+    "topics_tags": [
+      "Rhombus",
+      "Rectangle",
+      "Mid-point Theorem"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the rhombus ABCD with midpoints P, Q, R, and S marked.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840942/ncert/maths/8/img_19_0.jpg",
+        "latex_extracted": "\\begin{array}{c}{{\\stackrel{\\mathrm{A}}{\\sqrt{\\sum_{\\mathrm{X}}^{\\infty}\\sum_{\\Lambda}^{\\mathrm{M}}\\cdot\\hat{\\Sigma}^{\\prime}}\\hat{\\Sigma}}}\\\\ {{s\\displaystyle\\bigwedge}}\\\\ {{\\hat{\\sum_{\\mathrm{X}}^{\\prime}\\hat{\\Sigma}_{\\times}^{\\prime}\\hat{\\Sigma}}\\times\\hat{\\Sigma}\\hat{\\Sigma}\\hat{\\Sigma}_{\\mathrm{X}}^{\\prime}}}\\\\ {{\\mathrm{~~\\hat{\\Sigma}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.12",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "quadrilaterals",
+    "question_type": "conceptual",
+    "question_text": "ABCD is a rectangle and P, Q, R and S are mid-points of the sides AB, BC, CD and DA respectively. Show that the quadrilateral PQRS is a rhombus.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the rectangle ABCD with midpoints P, Q, R, and S marked.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840944/ncert/maths/8/img_20_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "By applying the mid-point theorem, we find that PQ = QR = RS = PS, thus establishing that PQRS is a rhombus.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Join diagonals AC and BD.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Apply the mid-point theorem to show that PQ = AC/2 and SR = AC/2.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Show that PS = QR = BD/2 using the mid-point theorem.",
+        "expression": null
+      },
+      {
+        "step_number": 4,
+        "description": "Conclude that all sides of quadrilateral PQRS are equal, confirming it is a rhombus.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, PQRS is a rhombus.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves understanding of properties of rectangles and mid-point theorem.",
+    "topics_tags": [
+      "Rectangle",
+      "Rhombus",
+      "Mid-point Theorem"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the rectangle ABCD with midpoints P, Q, R, and S marked.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840944/ncert/maths/8/img_20_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.13",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "quadrilaterals",
+    "question_type": "conceptual",
+    "question_text": "In a parallelogram ABCD, E and F are the mid-points of sides AB and CD respectively. Show that the line segments AF and EC trisect the diagonal BD.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Figure showing parallelogram ABCD with midpoints E and F on sides AB and CD, respectively.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840949/ncert/maths/8/img_24_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "ABCD is a parallelogram. AB || CD and hence, AE || FC. Again, AB = CD (Opposite sides of parallelogram ABCD). AE = FC (E and F are mid-points of side AB and CD). In quadrilateral AECF, one pair of opposite sides (AE and CF) is parallel and equal to each other. Therefore, AECF is a parallelogram. AF || EC (Opposite sides of a parallelogram). In ∆DQC, F is the mid-point of side DC and FP || CQ (as AF || EC). Therefore, by using converse of mid-point theorem, it can be said that P is the mid-point of DQ.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify that ABCD is a parallelogram and establish parallel sides.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Show that AE is parallel to FC and equal in length.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Conclude that AECF is a parallelogram, thus AF is parallel to EC.",
+        "expression": null
+      },
+      {
+        "step_number": 4,
+        "description": "Use the converse of the mid-point theorem to show that P is the mid-point of DQ.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, AF and EC trisect the diagonal BD.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of properties of parallelograms and mid-point theorem.",
+    "topics_tags": [
+      "Parallelogram",
+      "Mid-point Theorem",
+      "Trisection"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Figure showing parallelogram ABCD with midpoints E and F on sides AB and CD, respectively.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840949/ncert/maths/8/img_24_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.14",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "quadrilaterals",
+    "question_type": "conceptual",
+    "question_text": "Show that the line segments joining the mid-points of the opposite sides of a quadrilateral bisect each other.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Let ABCD be a quadrilateral in which P, Q, R, and S are the mid-points of sides AB, BC, CD, and DA respectively. Join PQ, QR, RS, SP, and BD. In triangle ABD, S and P are the mid-points of AD and AB respectively. Therefore, by using the mid-point theorem, it can be said that SP || BD and SP = BD. Similarly in triangle BCD, QR || BD and QR = BD. From these equations, we obtain SP || QR and SP = QR. In quadrilateral SPQR, one pair of opposite sides is equal and parallel to each other. Therefore, SPQR is a parallelogram. We know that diagonals of a parallelogram bisect each other. Hence, PR and QS bisect each other.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify mid-points P, Q, R, and S of quadrilateral ABCD.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Apply the mid-point theorem in triangles ABD and BCD.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Conclude that SPQR is a parallelogram and its diagonals bisect each other.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, the line segments joining the mid-points of the opposite sides of a quadrilateral bisect each other.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram illustrating a quadrilateral with mid-points and line segments joining them.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840951/ncert/maths/8/img_25_0.jpg",
+      "latex_extracted": "\\textstyle\\prod_{1{\\frac{\\delta}{\\displaystyle|{\\displaystyle\\int_{\\Sigma^{*}}^{\\prime}{\\hat{\\mathrm{c}}}^{\\prime\\prime}{\\hat{\\mathrm{c}}}^{\\prime}{\\hat{\\mathrm{c}}}}{\\displaystyle|{\\hat{\\mathrm{c}}}}|}}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of mid-point theorem and properties of parallelograms.",
+    "topics_tags": [
+      "Quadrilaterals",
+      "Mid-point Theorem",
+      "Parallelograms"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram illustrating a quadrilateral with mid-points and line segments joining them.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840951/ncert/maths/8/img_25_0.jpg",
+        "latex_extracted": "\\textstyle\\prod_{1{\\frac{\\delta}{\\displaystyle|{\\displaystyle\\int_{\\Sigma^{*}}^{\\prime}{\\hat{\\mathrm{c}}}^{\\prime\\prime}{\\hat{\\mathrm{c}}}^{\\prime}{\\hat{\\mathrm{c}}}}{\\displaystyle|{\\hat{\\mathrm{c}}}}|}}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q8.15",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "quadrilaterals",
+    "question_type": "mcq",
+    "question_text": "ABC is a triangle right angled at C. A line through the mid-point M of hypotenuse AB and parallel to BC intersects AC at D. Show that D is the mid-point of AC.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "It is given that M is the mid-point of AB and MD || BC. Therefore, D is the mid-point of AC (Converse of mid-point theorem).",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify M as the mid-point of hypotenuse AB.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Establish that line MD is parallel to BC.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Apply the converse of the mid-point theorem to conclude D is the mid-point of AC.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, D is the mid-point of AC.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing triangle ABC with mid-point M and line parallel to BC intersecting AC at D.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840955/ncert/maths/8/img_27_0.jpg",
+      "latex_extracted": "\\left\\{\\begin{array}{l}{{\\frac{\\partial\\beta\\mathrm{Basfofighghghgh}}{(\\partial\\phi-\\partial\\phi-\\partial=\\phi=\\phi=\\phi=\\phi=\\phi}}}\\\\ {{\\left\\{\\begin{array}{l}{{\\frac{\\lambda}{\\lambda}}}\\\\ {{\\frac{\\partial\\phi=\\phi-\\beta-\\beta-\\beta-\\beta-\\beta}{\\lambda}}}\\\\ {{\\left\\{\\begin{array}{l}{{\\frac{1}{\\cosh\\phi\\cosh\\beta\\beta\\omega\\beta}}}\\\\ {{\\left\\{\\begin{array}{l}{{\\frac{1}{\\beta\\phi\\cosh\\beta\\cosh\\beta\\beta\\omega\\beta}}}\\end{array}\\right\\}}}}\\end{array}\\right.",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves understanding of mid-point theorem and basic properties of triangles.",
+    "topics_tags": [
+      "Triangles",
+      "Mid-point Theorem",
+      "Right Angled Triangle"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing triangle ABC with mid-point M and line parallel to BC intersecting AC at D.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840955/ncert/maths/8/img_27_0.jpg",
+        "latex_extracted": "\\left\\{\\begin{array}{l}{{\\frac{\\partial\\beta\\mathrm{Basfofighghghgh}}{(\\partial\\phi-\\partial\\phi-\\partial=\\phi=\\phi=\\phi=\\phi=\\phi}}}\\\\ {{\\left\\{\\begin{array}{l}{{\\frac{\\lambda}{\\lambda}}}\\\\ {{\\frac{\\partial\\phi=\\phi-\\beta-\\beta-\\beta-\\beta-\\beta}{\\lambda}}}\\\\ {{\\left\\{\\begin{array}{l}{{\\frac{1}{\\cosh\\phi\\cosh\\beta\\beta\\omega\\beta}}}\\\\ {{\\left\\{\\begin{array}{l}{{\\frac{1}{\\beta\\phi\\cosh\\beta\\cosh\\beta\\beta\\omega\\beta}}}\\end{array}\\right\\}}}}\\end{array}\\right.",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q8.16",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "quadrilaterals",
+    "question_type": "conceptual",
+    "question_text": "Prove that AM = CM given that D is the mid-point of side AC and M is the mid-point of side AB.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, it can be said that CM = AM.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify that D is the mid-point of AC, and M is the mid-point of AB.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the SAS congruence rule to show that triangles AMD and CMD are congruent.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Conclude that AM = CM by CPCT.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, it can be concluded that CM = AM.",
+    "answer_image": {
+      "present": true,
+      "description": "A diagram illustrating the quadrilateral with points A, B, C, D, and M marked, showing mid-points.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840957/ncert/maths/8/img_28_0.jpg",
+      "latex_extracted": "\\left|\\begin{array}{c}{{\\Re}}\\\\ {{\\chi_{\\sum_{\\sum_{\\Lambda}}\\displaystyle\\sum_{\\Lambda}\\sum_{A}}}\\\\ {{\\mathrm{e}^{2}\\qquad\\Gamma_{\\Lambda}}}\\end{array}\\right|",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of congruence and properties of mid-points.",
+    "topics_tags": [
+      "Congruence",
+      "Quadrilaterals",
+      "Mid-point Theorem"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "A diagram illustrating the quadrilateral with points A, B, C, D, and M marked, showing mid-points.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840957/ncert/maths/8/img_28_0.jpg",
+        "latex_extracted": "\\left|\\begin{array}{c}{{\\Re}}\\\\ {{\\chi_{\\sum_{\\sum_{\\Lambda}}\\displaystyle\\sum_{\\Lambda}\\sum_{A}}}\\\\ {{\\mathrm{e}^{2}\\qquad\\Gamma_{\\Lambda}}}\\end{array}\\right|",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      },
+      {
+        "present": true,
+        "description": "Diagram showing the relationship between segments AM and CM.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777840957/ncert/maths/8/img_28_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  }
+]

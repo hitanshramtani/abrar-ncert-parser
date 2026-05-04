@@ -1,0 +1,1217 @@
+[
+  {
+    "question_id": "Q2.1",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 2,
+    "chapter_name": "relations functions",
+    "question_type": "numerical",
+    "question_text": "If , find the values of x and y.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "x = 2 and y = 1.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set the ordered pairs equal to each other.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Solve for x and y.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, x = 2 and y = 1.",
+    "answer_image": {
+      "present": true,
+      "description": "Answer showing the values of x and y.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777822826/ncert/maths/2/img_1_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of values from given ordered pairs.",
+    "topics_tags": [
+      "Relations",
+      "Functions",
+      "Ordered Pairs"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Answer showing the values of x and y.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777822826/ncert/maths/2/img_1_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q2.2",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 2,
+    "chapter_name": "relations functions",
+    "question_type": "numerical",
+    "question_text": "If the set A has 3 elements and the set B = {3, 4, 5}, then find the number of elements in (A x B)?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Thus, the number of elements in (A x B) is 9.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the number of elements in set A and B.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the number of elements in the Cartesian product A x B.",
+        "expression": "3 x 3 = 9"
+      }
+    ],
+    "final_answer": "Therefore, the number of elements in (A x B) is 9.",
+    "answer_image": {
+      "present": true,
+      "description": "Answer showing the calculation of elements in A x B.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777822826/ncert/maths/2/img_1_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Simple multiplication of the number of elements in two sets.",
+    "topics_tags": [
+      "Cartesian Product",
+      "Set Theory",
+      "Relations"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Answer showing the calculation of elements in A x B.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777822826/ncert/maths/2/img_1_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q2.3",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 2,
+    "chapter_name": "relations functions",
+    "question_type": "numerical",
+    "question_text": "If G = {7, 8} and H = {5, 4, 2}, find G x H and H x G.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "G x H = {(7, 5), (7, 4), (7, 2), (8, 5), (8, 4), (8, 2)} and H x G = {(5, 7), (5, 8), (4, 7), (4, 8), (2, 7), (2, 8)}.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Define the Cartesian product G x H.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "List all ordered pairs for G x H.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Define the Cartesian product H x G.",
+        "expression": null
+      },
+      {
+        "step_number": 4,
+        "description": "List all ordered pairs for H x G.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, G x H and H x G are calculated as shown.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of Cartesian products and listing pairs.",
+    "topics_tags": [
+      "Cartesian Product",
+      "Set Theory",
+      "Relations"
+    ],
+    "confidence_score": 0.94,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.4",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 2,
+    "chapter_name": "relations functions",
+    "question_type": "conceptual",
+    "question_text": "Let A = {1, 2} and B = {3, 4}. Write A x B. How many subsets will A x B have? List them.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "A x B = {(1, 3), (1, 4), (2, 3), (2, 4)}. The set A x B has 16 subsets: Φ, {(1, 3)}, {(1, 4)}, {(2, 3)}, {(2, 4)}, {(1, 3), (1, 4)}, {(1, 3), (2, 3)}, {(1, 3), (2, 4)}, {(1, 4), (2, 3)}, {(1, 4), (2, 4)}, {(2, 3), (2, 4)}, {(1, 3), (1, 4), (2, 3)}, {(1, 3), (1, 4), (2, 4)}, {(1, 3), (2, 3), (2, 4)}, {(1, 4), (2, 3), (2, 4)}, {(1, 3), (1, 4), (2, 3), (2, 4)}.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, A x B has 16 subsets.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of Cartesian products and subset counting.",
+    "topics_tags": [
+      "Cartesian Product",
+      "Subsets",
+      "Set Theory"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.5",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 2,
+    "chapter_name": "relations functions",
+    "question_type": "mcq",
+    "question_text": "Let A and B be two sets such that n(A) = 3 and n(B) = 2. If (x, 1), (y, 2), (z, 1) are in A x B, find A and B, where x, y and z are distinct elements.",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "= 3 and n"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "= 2. If (x, 1), (y, 2), (z, 1) are in A x B, find A and B, where x, y and z are distinct elements."
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "A = {x, y, z} and B = {1, 2}.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, A consists of the distinct elements x, y, z and B consists of 1 and 2.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves understanding of set definitions and properties of Cartesian products.",
+    "topics_tags": [
+      "Sets",
+      "Cartesian Product",
+      "Relations"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.6",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 2,
+    "chapter_name": "relations functions",
+    "question_type": "mcq",
+    "question_text": "The Cartesian product A x A has 9 elements among which are found (-1, 0) and (0, 1). Find the set A and the remaining elements of A x A.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "A = {-1, 0, 1}. The remaining elements of set A x A are (-1, -1), (-1, 1), (0, -1), (0, 0), (1, -1), (1, 0), and (1, 1).",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the complete set A x A includes all pairs formed by elements of A.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of Cartesian products and element identification.",
+    "topics_tags": [
+      "Cartesian Product",
+      "Set Theory",
+      "Relations"
+    ],
+    "confidence_score": 0.97,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.7",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 2,
+    "chapter_name": "relations functions",
+    "question_type": "conceptual",
+    "question_text": "Let R be the relation on Z defined by R = {(a, b): a, b∈ Z, a - b is an integer}. Find the domain and range of R.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Domain of R = Z, Range of R = Z.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the domain and range of R are both Z.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct application of the definition of integers.",
+    "topics_tags": [
+      "Relations",
+      "Domain",
+      "Range"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.8",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 2,
+    "chapter_name": "relations functions",
+    "question_type": "conceptual",
+    "question_text": "Let A = {x, y, z} and B = {1, 2}. Find the number of relations from A to B.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The number of relations from A to B is 26.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the number of relations from A to B is 26.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of set theory and relations.",
+    "topics_tags": [
+      "Relations",
+      "Set Theory",
+      "Combinatorics"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.9",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 2,
+    "chapter_name": "relations functions",
+    "question_type": "conceptual",
+    "question_text": "Find the domain and range of the following real function: (i) f(x) = -|x|.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Domain of f is R, and the range of f is (-∞, 0].",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the domain is R and the range is (-∞, 0].",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves understanding of absolute value and its properties.",
+    "topics_tags": [
+      "Functions",
+      "Domain",
+      "Range"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.10",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 2,
+    "chapter_name": "relations functions",
+    "question_type": "multipart",
+    "question_text": "The function 't' which maps temperature in degree Celsius into temperature in degree Fahrenheit is defined by . Find (i) t(0) (ii) t(28) (iii) t(â€“10) (iv) The value of C, when t(C) = 212.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image related to the function mapping temperature from Celsius to Fahrenheit.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777822828/ncert/maths/2/img_10_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "Find t(0)",
+        "part_latex": null,
+        "answer_text": "t(0) = 32",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Substitute 0 into the function t.",
+            "expression": "t(0) = \\frac{9}{5} \\cdot 0 + 32"
+          }
+        ],
+        "final_answer": "Therefore, t(0) = 32.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "Find t(28)",
+        "part_latex": null,
+        "answer_text": "t(28) = 82.4",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Substitute 28 into the function t.",
+            "expression": "t(28) = \\frac{9}{5} \\cdot 28 + 32"
+          }
+        ],
+        "final_answer": "Therefore, t(28) = 82.4.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "Find t(â€“10)",
+        "part_latex": null,
+        "answer_text": "t(â€“10) = 14.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Substitute -10 into the function t.",
+            "expression": "t(-10) = \\frac{9}{5} \\cdot (-10) + 32"
+          }
+        ],
+        "final_answer": "Therefore, t(â€“10) = 14.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iv)",
+        "part_text": "Find the value of C when t(C) = 212.",
+        "part_latex": null,
+        "answer_text": "C = 100.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Set the equation t(C) = 212 and solve for C.",
+            "expression": "212 = \\frac{9}{5} C + 32"
+          }
+        ],
+        "final_answer": "Thus, the value of C when t(C) = 212 is 100.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of the temperature conversion formula and basic substitution.",
+    "topics_tags": [
+      "Temperature Conversion",
+      "Functions",
+      "Mathematical Functions"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image related to the function mapping temperature from Celsius to Fahrenheit.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777822828/ncert/maths/2/img_10_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.11",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 2,
+    "chapter_name": "relations functions",
+    "question_type": "multipart",
+    "question_text": "Find the range of each of the following functions. (i) f(x) = 2 - 3x, x∈ R, x> 0. (ii) f(x) = x^2 + 2, x is a real number. (iii) f(x) = x, x is a real number.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "Find the range of f(x) = 2 - 3x, x∈ R, x> 0.",
+        "part_latex": null,
+        "answer_text": "Range of f = (â€“ , 2).",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Analyze the function as x approaches 0 and positive infinity.",
+            "expression": "f(x) < 2"
+          }
+        ],
+        "final_answer": "Thus, the range of f(x) = 2 - 3x is (â€“ , 2).",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "Find the range of f(x) = x^2 + 2, x is a real number.",
+        "part_latex": null,
+        "answer_text": "Range of f = [2, ).",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify that x^2 is always non-negative.",
+            "expression": "x^2 ≥ 0"
+          }
+        ],
+        "final_answer": "Thus, the range of f(x) = x^2 + 2 is [2, ).",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "Find the range of f(x) = x, x is a real number.",
+        "part_latex": null,
+        "answer_text": "Range of f = R.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Recognize that f(x) = x covers all real numbers.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, the range of f(x) = x is all real numbers.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of function behavior and range determination.",
+    "topics_tags": [
+      "Function Range",
+      "Linear Functions",
+      "Quadratic Functions"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.12",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 2,
+    "chapter_name": "relations functions",
+    "question_type": "conceptual",
+    "question_text": "Find the domain of the function.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The given function is defined for all real numbers except at x= 6 and x= 2. Hence, the domain of f is R – {2, 6}.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the domain of f is R – {2, 6}.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of function domains and exclusions.",
+    "topics_tags": [
+      "Function Domain",
+      "Real Numbers",
+      "Exclusions"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.13",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 2,
+    "chapter_name": "relations functions",
+    "question_type": "conceptual",
+    "question_text": "Find the domain and the range of the real function f defined by f(x) = |x - 1|.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The given real function is f(x) = |x - 1|. It is clear that |x - 1| is defined for all real numbers. Hence, the domain of f is R. Also, for x ∈ R, |x - 1| assumes all real numbers. Hence, the range of f is the set of all non-negative real numbers.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the domain of f is R and the range of f is the set of all non-negative real numbers.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves understanding of absolute functions and their properties.",
+    "topics_tags": [
+      "Absolute Function",
+      "Domain",
+      "Range"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.14",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 2,
+    "chapter_name": "relations functions",
+    "question_type": "conceptual",
+    "question_text": "Let f be a function from R into R. Determine the range of f.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The range of f is the set of all second elements. It can be observed that all these elements are greater than or equal to 0 but less than 1. Thus, the range of f is [0, 1).",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the range of f is [0, 1).",
+    "answer_image": {
+      "present": true,
+      "description": "Image related to the range of a function.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777822834/ncert/maths/2/img_14_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of function ranges and inequalities.",
+    "topics_tags": [
+      "Function Range",
+      "Real Numbers",
+      "Inequalities"
+    ],
+    "confidence_score": 0.94,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image related to the range of a function.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777822834/ncert/maths/2/img_14_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q2.15",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 2,
+    "chapter_name": "relations functions",
+    "question_type": "conceptual",
+    "question_text": "Let f, g: R → R be defined, respectively by f(x) = x + 1, g(x) = 2x - 3. Find f + g and f - g.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image showing the functions f and g.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777822835/ncert/maths/2/img_15_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "f + g (x) = f(x) + g(x) = (x + 1) + (2x - 3) = 3x - 2. Therefore, (f + g)(x) = 3x - 2. f - g (x) = f(x) - g(x) = (x + 1) - (2x - 3) = -x + 4. Therefore, (f - g)(x) = -x + 4.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, (f + g)(x) = 3x - 2 and (f - g)(x) = -x + 4.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic algebraic manipulation of functions.",
+    "topics_tags": [
+      "Function Addition",
+      "Function Subtraction",
+      "Algebra"
+    ],
+    "confidence_score": 0.93,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image showing the functions f and g.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777822835/ncert/maths/2/img_15_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.16",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 2,
+    "chapter_name": "relations functions",
+    "question_type": "mcq",
+    "question_text": "Let A = {1, 2, 3, 4}, B = {1, 5, 9, 11, 15, 16} and f = {(1, 5), (2, 9), (3, 1), (4, 5), (2, 11)}. Are the following true? (i) f is a relation from A to B (ii) f is a function from A to B. Justify your answer in each case.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "f is a relation from A to B because it is a subset of the Cartesian product A x B. However, f is not a function because the same first element 2 corresponds to two different images 9 and 11.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the Cartesian product A x B.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Check if f is a subset of A x B.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Determine if f is a function by checking unique images for each element in A.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, f is a relation but not a function.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of relations and functions with basic justification.",
+    "topics_tags": [
+      "Relations",
+      "Functions",
+      "Set Theory"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.17",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 2,
+    "chapter_name": "relations functions",
+    "question_type": "conceptual",
+    "question_text": "Let f be the subset of Z x Z defined by f = {(ab, a + b): a, b ∈ Z}. Is f a function from Z to Z: justify your answer.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "f is not a function because the same first element 12 corresponds to two different images 8 and -8.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Define the relation f.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Check if every element in Z has a unique image in Z.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, f is not a function.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of functions and justification based on examples.",
+    "topics_tags": [
+      "Functions",
+      "Relations",
+      "Set Theory"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.18",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 2,
+    "chapter_name": "relations functions",
+    "question_type": "conceptual",
+    "question_text": "Let A = {9, 10, 11, 12, 13} and let f: A → N be defined by f(n) = the highest prime factor of n. Find the range of f.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The range of f is {3, 5, 11, 13}.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Find the highest prime factor for each element in A.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "List the unique highest prime factors obtained.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the range of f is {3, 5, 11, 13}.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic calculations and understanding of prime factors.",
+    "topics_tags": [
+      "Prime Factors",
+      "Functions",
+      "Set Theory"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  }
+]

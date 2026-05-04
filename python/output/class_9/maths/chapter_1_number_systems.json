@@ -1,0 +1,585 @@
+[
+  {
+    "question_id": "Q1.1",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "number systems",
+    "question_type": "conceptual",
+    "question_text": "Is zero a rational number? Can you write it in the form \\( \\frac{p}{q} \\), where p and q are integers ≠ 0?",
+    "question_latex": "\\text{Is zero a rational number? Can you write it in the form } \\frac{p}{q} \\text{, where } p \\text{ and } q \\text{ are integers } \\neq 0?",
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Yes. Zero is a rational number as it can be represented as \\( \\frac{0}{1} \\).",
+    "answer_latex": "0 = \\frac{0}{1}",
+    "steps": [],
+    "final_answer": "Therefore, zero is a rational number.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of the definition of rational numbers.",
+    "topics_tags": [
+      "Rational Numbers",
+      "Number Systems",
+      "Integers"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.2",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "number systems",
+    "question_type": "conceptual",
+    "question_text": "Find six rational numbers between 3 and 4.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of rational numbers between 3 and 4.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777721026/ncert/maths/1/img_2_0.jpg",
+      "latex_extracted": "\\begin{array}{l}{{\\frac{3}{5}}={\\frac{3\\times6}{5\\times6}}={\\frac{18}{30}}}\\\\ {{4}={\\frac{4\\times6}{5\\times6}}={\\frac{24}{30}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "There are infinite rational numbers between 3 and 4. For example, \\( \\frac{18}{30}, \\frac{19}{30}, \\frac{20}{30}, \\frac{21}{30}, \\frac{22}{30}, \\frac{23}{30} \\).",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, rational numbers between 3 and 4 include \\( \\frac{18}{30}, \\frac{19}{30}, \\frac{20}{30}, \\frac{21}{30}, \\frac{22}{30}, \\frac{23}{30} \\).",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of rational numbers and their representation.",
+    "topics_tags": [
+      "Rational Numbers",
+      "Number Line",
+      "Fractions"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of rational numbers between 3 and 4.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777721026/ncert/maths/1/img_2_0.jpg",
+        "latex_extracted": "\\begin{array}{l}{{\\frac{3}{5}}={\\frac{3\\times6}{5\\times6}}={\\frac{18}{30}}}\\\\ {{4}={\\frac{4\\times6}{5\\times6}}={\\frac{24}{30}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.3",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "number systems",
+    "question_type": "conceptual",
+    "question_text": "State whether the following statements are true or false. Give reasons for your answers. (i) Every natural number is a whole number. (ii) Every integer is a whole number. (iii) Every rational number is a whole number.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "(i) True; since the collection of whole numbers contains all natural numbers. (ii) False; as integers may be negative but whole numbers are positive. For example: −3 is an integer but not a whole number. (iii) False; as rational numbers may be fractional but whole numbers may not be.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the statements are evaluated as true or false with justifications.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of number classifications and definitions.",
+    "topics_tags": [
+      "Natural Numbers",
+      "Whole Numbers",
+      "Integers"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.4",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "number systems",
+    "question_type": "conceptual",
+    "question_text": "Show how \\( \\sqrt{2} \\) and \\( \\sqrt{3} \\) can be represented on the number line.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Mark a point ‘A’ representing 2 on the number line. Now, construct AB of unit length perpendicular to OA. Then, taking O as centre and OB as radius, draw an arc intersecting the number line at C. C is representing \\( \\sqrt{2} \\).",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Mark point A on the number line to represent the number 2.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Construct a perpendicular line of unit length from point A.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Using point O as the center and OB as the radius, draw an arc to find point C.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, point C represents \\( \\sqrt{2} \\) on the number line.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the representation of square roots on a number line.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777721042/ncert/maths/1/img_4_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of geometric construction and representation on a number line.",
+    "topics_tags": [
+      "Number Line",
+      "Square Roots",
+      "Geometric Representation"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the representation of square roots on a number line.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777721042/ncert/maths/1/img_4_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q1.5",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "number systems",
+    "question_type": "conceptual",
+    "question_text": "What can the maximum number of digits be in the repeating block of digits in the decimal expansion of ? Perform the division to check your answer.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation related to decimal expansion.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777721075/ncert/maths/1/img_7_0.jpg",
+      "latex_extracted": "\\overline{{{\\left|\\frac{1}{\\mid\\overline{{{\\gamma}}}}\\overline{{{\\left|}}}\\right|\\frac{1}{\\left|\\overline{{{\\left|}}}\\right|}\\right|\\frac{\\varsigma}{\\vartheta\\aleph_{\\stackrel{\\cdot\\cdot\\cdot}{\\sim}}\\right|\\stackrel{\\sim}{\\sim}}\\right.}}}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "It can be observed that, there are 16 digits in the repeating block of the decimal expansion.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the maximum number of digits in the repeating block is 16.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of decimal expansions and performing division.",
+    "topics_tags": [
+      "Decimal Expansion",
+      "Repeating Block",
+      "Rational Numbers"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation related to decimal expansion.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777721075/ncert/maths/1/img_7_0.jpg",
+        "latex_extracted": "\\overline{{{\\left|\\frac{1}{\\mid\\overline{{{\\gamma}}}}\\overline{{{\\left|}}}\\right|\\frac{1}{\\left|\\overline{{{\\left|}}}\\right|}\\right|\\frac{\\varsigma}{\\vartheta\\aleph_{\\stackrel{\\cdot\\cdot\\cdot}{\\sim}}\\right|\\stackrel{\\sim}{\\sim}}\\right.}}}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.6",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "number systems",
+    "question_type": "conceptual",
+    "question_text": "Look at several examples of rational numbers in the form (q ≠ 0), where p and q are integers with no common factors other than 1 and having terminating decimal representations (expansions). Can you guess what property q must satisfy?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation related to rational numbers.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777721076/ncert/maths/1/img_7_1.jpg",
+      "latex_extracted": "{\\Bigg\\lbrack}{\\frac{\\mathbb{Q}}{\\pm}}=2.25",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Terminating decimal expansion will occur when denominator q of rational number is either of 2, 4, 5, 8, 10, and so on…",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, q must be a product of the primes 2 and 5.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of properties of rational numbers and their decimal representations.",
+    "topics_tags": [
+      "Rational Numbers",
+      "Terminating Decimals",
+      "Properties of Numbers"
+    ],
+    "confidence_score": 0.93,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation related to rational numbers.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777721076/ncert/maths/1/img_7_1.jpg",
+        "latex_extracted": "{\\Bigg\\lbrack}{\\frac{\\mathbb{Q}}{\\pm}}=2.25",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.7",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "number systems",
+    "question_type": "conceptual",
+    "question_text": "Write three numbers whose decimal expansions are non-terminating non-recurring.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "3 numbers whose decimal expansions are non-terminating non-recurring are as follows: 0.505005000500005000005…, 0.7207200720007200007200000…, 0.080080008000080000080000008…",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "These examples illustrate non-terminating non-recurring decimals.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires knowledge of decimal expansions and examples of non-terminating numbers.",
+    "topics_tags": [
+      "Non-Terminating Decimals",
+      "Rational Numbers",
+      "Irrational Numbers"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.8",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "number systems",
+    "question_type": "conceptual",
+    "question_text": "Find three different irrational numbers between the rational numbers and .",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "3 irrational numbers are as follows: 0.73073007300073000073…, 0.75075007500075000075…, 0.79079007900079000079…",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "These examples demonstrate irrational numbers between rational numbers.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of irrational numbers and their placement between rational numbers.",
+    "topics_tags": [
+      "Irrational Numbers",
+      "Rational Numbers",
+      "Number Line"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.11",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "number systems",
+    "question_type": "conceptual",
+    "question_text": "Visualise 3.765 on the number line using successive magnification.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of number line and visualization skills.",
+    "topics_tags": [
+      "Number Line",
+      "Visualization",
+      "Decimal Numbers"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.12",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "number systems",
+    "question_type": "conceptual",
+    "question_text": "Is 2π a rational or irrational number? Justify your answer.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The expression 2π is an irrational number because its decimal expansion is non-terminating and non-recurring.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, 2π is an irrational number.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical expression showing the calculation of 2π.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777721117/ncert/maths/1/img_13_0.jpg",
+      "latex_extracted": "\\begin{array}{c}{{\\frac{\\Gamma^{(n+\\sigma_{t})}(\\tilde{n})}{|\\tilde{n}\\delta\\theta\\omega\\delta\\overline{{{n}}}|\\delta\\overline{{{n}}}|\\delta\\xi\\overline{{{n}}}|}}}\\\\ {{\\frac{\\Gamma[\\tilde{n}\\delta\\delta\\delta\\overline{{{n}}}]\\delta\\overline{{{n}}}\\delta\\delta\\overline{{{n}}}]\\delta\\xi\\overline{{{n}}}}}}\\\\ {{\\frac{\\Gamma[\\tilde{n}\\delta\\delta\\overline{{{n}}}]\\delta\\overline{{{n}}}\\delta\\overline{{{\\delta\\phi}}}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of rational and irrational numbers.",
+    "topics_tags": [
+      "Irrational Numbers",
+      "Pi",
+      "Decimal Expansion"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical expression showing the calculation of 2π.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777721117/ncert/maths/1/img_13_0.jpg",
+        "latex_extracted": "\\begin{array}{c}{{\\frac{\\Gamma^{(n+\\sigma_{t})}(\\tilde{n})}{|\\tilde{n}\\delta\\theta\\omega\\delta\\overline{{{n}}}|\\delta\\overline{{{n}}}|\\delta\\xi\\overline{{{n}}}|}}}\\\\ {{\\frac{\\Gamma[\\tilde{n}\\delta\\delta\\delta\\overline{{{n}}}]\\delta\\overline{{{n}}}\\delta\\delta\\overline{{{n}}}]\\delta\\xi\\overline{{{n}}}}}}\\\\ {{\\frac{\\Gamma[\\tilde{n}\\delta\\delta\\overline{{{n}}}]\\delta\\overline{{{n}}}\\delta\\overline{{{\\delta\\phi}}}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q1.13",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 1,
+    "chapter_name": "number systems",
+    "question_type": "conceptual",
+    "question_text": "Find:",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical expressions related to number systems.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777721153/ncert/maths/1/img_16_0.jpg",
+      "latex_extracted": "\\begin{array}{l}{{\\frac{\\mathbb{N}^{\\prime}-\\epsilon_{+}^{\\prime}\\cdot{\\overset{\\circ}{\\cdot}}\\cdot{\\overset{\\cdot\\cdot\\cdot}{\\longleftrightarrow}}{\\cdot\\cdot\\mathbf{\\mu}^{\\prime}+\\mathbf{\\sigma}}}{\\mathbb{N}^{\\prime}:\\cdot\\mathbf{\\sigma}^{\\prime}\\to\\mathbf{\\sigma}^{\\prime}\\in\\mathbf{\\beta}}{\\mathfrak{F}}}}\\\\ {{\\frac{\\gamma_{+}^{\\prime}\\cdot\\mathbf{\\sigma_{-}}}{\\left(\\mathbf{\\hat{\\sigma}}^{\\prime}\\cdot\\mathbf{\\sigma_{-}}^{\\prime}\\right)\\cdot\\mathbf{\\sigma_{-}}}{\\mathfrak{\\in}}}}\\\\ {{\\frac{\\cdot\\cdot\\mathbf{\\sigma_{-}}^{\\prime}\\cdot\\mathbf{\\sigma_{-}}^{\\prime}\\cdot\\mathbf{\\sigma_{-}}}{\\mathrm{\\tilde{\\beta}}}}}\\end{array}",
+      "source_page_number": 16,
+      "source_image_index": 0,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of definitions or concepts.",
+    "topics_tags": [
+      "Number Systems",
+      "Mathematical Expressions"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "question_truncated"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical expressions related to number systems.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777721153/ncert/maths/1/img_16_0.jpg",
+        "latex_extracted": "\\begin{array}{l}{{\\frac{\\mathbb{N}^{\\prime}-\\epsilon_{+}^{\\prime}\\cdot{\\overset{\\circ}{\\cdot}}\\cdot{\\overset{\\cdot\\cdot\\cdot}{\\longleftrightarrow}}{\\cdot\\cdot\\mathbf{\\mu}^{\\prime}+\\mathbf{\\sigma}}}{\\mathbb{N}^{\\prime}:\\cdot\\mathbf{\\sigma}^{\\prime}\\to\\mathbf{\\sigma}^{\\prime}\\in\\mathbf{\\beta}}{\\mathfrak{F}}}}\\\\ {{\\frac{\\gamma_{+}^{\\prime}\\cdot\\mathbf{\\sigma_{-}}}{\\left(\\mathbf{\\hat{\\sigma}}^{\\prime}\\cdot\\mathbf{\\sigma_{-}}^{\\prime}\\right)\\cdot\\mathbf{\\sigma_{-}}}{\\mathfrak{\\in}}}}\\\\ {{\\frac{\\cdot\\cdot\\mathbf{\\sigma_{-}}^{\\prime}\\cdot\\mathbf{\\sigma_{-}}^{\\prime}\\cdot\\mathbf{\\sigma_{-}}}{\\mathrm{\\tilde{\\beta}}}}}\\end{array}",
+        "source_page_number": 16,
+        "source_image_index": 0,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  }
+]

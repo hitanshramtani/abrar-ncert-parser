@@ -1,0 +1,1401 @@
+[
+  {
+    "question_id": "Q11.1",
+    "class": 8,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "mensuration",
+    "question_type": "conceptual",
+    "question_text": "A square and a rectangular field with measurements as given in the figure have the same perimeter. Which field has a larger area?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing a square and a rectangular field with measurements.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777406955/ncert/maths/11/img_1_0.jpg",
+      "latex_extracted": "\\left[\\begin{array}{l l}{{\\displaystyle\\left[\\begin{array}{c}{{}}&{{}}\\\\ {{\\displaystyle\\oplus\\frac{6(0\\mathrm{m})}{(\\mathrm{n})}}}}\\end{array}\\right]}\\qquad\\left[\\begin{array}{l l l}{{}}&{{}}&{{\\displaystyle\\left[\\begin{array}{c}{{}}&{{}}\\\\ {{}}&{{}}\\\\ {{}}&{{\\displaystyle(0)}}\\end{array}\\right]}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Thus, the area of the square field is larger than the area of the rectangular field.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the perimeter of the square using the formula 4 times the side.",
+        "expression": "Perimeter_{square} = 4 \\times 60 = 240 \\text{ m}"
+      },
+      {
+        "step_number": 2,
+        "description": "Set the perimeter of the rectangle equal to the square's perimeter and solve for the breadth.",
+        "expression": "160 + 2 \\times \\text{Breadth} = 240"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the area of the square and rectangle.",
+        "expression": "Area_{square} = (60)^2 = 3600 \\text{ m}^2, Area_{rectangle} = 80 \\times 40 = 3200 \\text{ m}^2"
+      }
+    ],
+    "final_answer": "Therefore, the area of the square field is larger than the area of the rectangular field.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of perimeter and area calculations.",
+    "topics_tags": [
+      "Perimeter",
+      "Area",
+      "Square",
+      "Rectangle"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing a square and a rectangular field with measurements.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777406955/ncert/maths/11/img_1_0.jpg",
+        "latex_extracted": "\\left[\\begin{array}{l l}{{\\displaystyle\\left[\\begin{array}{c}{{}}&{{}}\\\\ {{\\displaystyle\\oplus\\frac{6(0\\mathrm{m})}{(\\mathrm{n})}}}}\\end{array}\\right]}\\qquad\\left[\\begin{array}{l l l}{{}}&{{}}&{{\\displaystyle\\left[\\begin{array}{c}{{}}&{{}}\\\\ {{}}&{{}}\\\\ {{}}&{{\\displaystyle(0)}}\\end{array}\\right]}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.2",
+    "class": 8,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "mensuration",
+    "question_type": "numerical",
+    "question_text": "Mrs. Kaushik has a square plot with the measurement as shown in the following figure. She wants to construct a house in the middle of the plot. A garden is developed around the house. Find the total cost of developing a garden around the house at the rate of Rs 55 per m2.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Total cost of developing the garden of area 325 m2 = Rs 17,875.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the area of the square plot.",
+        "expression": "Area_{square} = (25)^2 = 625 \\text{ m}^2"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the area of the house.",
+        "expression": "Area_{house} = 15 \\times 20 = 300 \\text{ m}^2"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the area of the remaining portion for the garden.",
+        "expression": "Area_{garden} = 625 - 300 = 325 \\text{ m}^2"
+      },
+      {
+        "step_number": 4,
+        "description": "Calculate the total cost of developing the garden.",
+        "expression": "Total cost = 55 \\times 325 = 17875"
+      }
+    ],
+    "final_answer": "Thus, the total cost of developing the garden is Rs 17,875.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing a square plot with a house in the middle.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777406956/ncert/maths/11/img_2_0.jpg",
+      "latex_extracted": "25\\operatorname{m}\\left|{\\Bigg\\sqrt[[object Object]]{\\left|\\left|\\mathbf{_{-},~n}{\\frac{2(\\operatorname{n}n)}{2\\varepsilon_{\\operatorname{m}}}}}\\right|}\\right|",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves area calculations and multiplication.",
+    "topics_tags": [
+      "Area",
+      "Cost Calculation",
+      "Square Plot"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing a square plot with a house in the middle.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777406956/ncert/maths/11/img_2_0.jpg",
+        "latex_extracted": "25\\operatorname{m}\\left|{\\Bigg\\sqrt[[object Object]]{\\left|\\left|\\mathbf{_{-},~n}{\\frac{2(\\operatorname{n}n)}{2\\varepsilon_{\\operatorname{m}}}}}\\right|}\\right|",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q11.3",
+    "class": 8,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "mensuration",
+    "question_type": "mcq",
+    "question_text": "The shape of a garden is rectangular in the middle and semi circular at the ends as shown in the diagram. Find the area and the perimeter of the garden [Length of rectangle is 20 - (3.5 + 3.5) metres].",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing a garden with a rectangular middle and semi-circular ends.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777406957/ncert/maths/11/img_2_1.jpg",
+      "latex_extracted": "\\begin{array}{r}{\\overbrace{{\\mathbf{\\hat{e}}}\\mid}}&{{}\\bigcup_{x}\\prod_{\\alpha}\\not\\to}\\ &{{}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The perimeter of the garden is 48 m.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the length of the rectangle.",
+        "expression": "Length_{rectangle} = 20 - (3.5 + 3.5) = 13 \\text{ m}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the circumference of both semi-circular parts.",
+        "expression": "Circumference_{semi-circular} = 2 \\times 11 = 22 \\text{ m}"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the perimeter of the garden.",
+        "expression": "Perimeter = 13 + 22 + 13 = 48 \\text{ m}"
+      }
+    ],
+    "final_answer": "Thus, the perimeter of the garden is 48 m.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves multiple calculations for perimeter and area.",
+    "topics_tags": [
+      "Perimeter",
+      "Area",
+      "Garden Shape"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing a garden with a rectangular middle and semi-circular ends.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777406957/ncert/maths/11/img_2_1.jpg",
+        "latex_extracted": "\\begin{array}{r}{\\overbrace{{\\mathbf{\\hat{e}}}\\mid}}&{{}\\bigcup_{x}\\prod_{\\alpha}\\not\\to}\\ &{{}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.4",
+    "class": 8,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "mensuration",
+    "question_type": "numerical",
+    "question_text": "A flooring tile has the shape of a parallelogram whose base is 24 cm and the corresponding height is 10 cm. How many such tiles are required to cover a floor of area 1080 m2 (If required you can split the tiles in whatever way you want to fill up the corners).",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing a parallelogram-shaped tile.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777406959/ncert/maths/11/img_3_0.jpg",
+      "latex_extracted": "\\bigcap_{\\mathbf{e}{\\frac{1}{\\underbrace{\\Vert}{\\to}}}\\sum_{20\\;\\mathbf{m}}\\Big)\\bigcup_{\\mathbf{e}}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Thus, 45000 tiles are required to cover a floor of area 1080 m2.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the area of one tile.",
+        "expression": "Area_{tile} = 24 \\times 10 = 240 \\text{ cm}^2"
+      },
+      {
+        "step_number": 2,
+        "description": "Convert the area of the floor to cm^2.",
+        "expression": "Area_{floor} = 1080 \\text{ m}^2 = 10800000 \\text{ cm}^2"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the required number of tiles.",
+        "expression": "Required_{tiles} = \\frac{10800000}{240} = 45000"
+      }
+    ],
+    "final_answer": "Thus, 45000 tiles are required to cover a floor of area 1080 m2.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves area calculations and unit conversions.",
+    "topics_tags": [
+      "Area",
+      "Tiles",
+      "Parallelogram"
+    ],
+    "confidence_score": 0.88,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing a parallelogram-shaped tile.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777406959/ncert/maths/11/img_3_0.jpg",
+        "latex_extracted": "\\bigcap_{\\mathbf{e}{\\frac{1}{\\underbrace{\\Vert}{\\to}}}\\sum_{20\\;\\mathbf{m}}\\Big)\\bigcup_{\\mathbf{e}}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.5",
+    "class": 8,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "mensuration",
+    "question_type": "numerical",
+    "question_text": "Daniel is painting the walls and ceiling of a cuboidal hall with length, breadth and height of 15 m, 10 m and 7 m respectively. From each can of paint 100 m2 of area is painted. How many cans of paint will she need to paint the room?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Hence, 5 cans are required to paint the walls and the ceiling of the cuboidal hall.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the area of the walls and ceiling using the formula.",
+        "expression": "Area = 2h(l + b) + lb"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values into the formula.",
+        "expression": "Area = 2(7)(15 + 10) + 15 \\times 10"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the total area to be painted.",
+        "expression": "Area = 500 m^2"
+      },
+      {
+        "step_number": 4,
+        "description": "Determine the number of cans required by dividing the total area by the area covered by one can.",
+        "expression": "Number of cans = \\frac{500}{100} = 5"
+      }
+    ],
+    "final_answer": "Thus, 5 cans are required to paint the walls and the ceiling of the cuboidal hall.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of area calculation and basic division.",
+    "topics_tags": [
+      "Cuboidal Hall",
+      "Paint Area",
+      "Surface Area"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.6",
+    "class": 8,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "mensuration",
+    "question_type": "numerical",
+    "question_text": "The diagonal of a quadrilateral shaped field is 24 m and the perpendiculars dropped on it from the remaining opposite vertices are 8 m and 13 m. Find the area of the field.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing a quadrilateral with a diagonal and perpendiculars from opposite vertices.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777406978/ncert/maths/11/img_7_0.jpg",
+      "latex_extracted": "\\begin{array}{l}{{{\\mathcal J}\\left|_{13\\mathrm{m}}\\sum_{A\\mathrm{m}}\\sum_{\\mathrm{\\scriptsize{~}}}{\\mathcal V}}}\\\\ {{\\leq\\sum_{\\mathrm{\\scriptsize{T}}}\\sum_{\\mathrm{\\scriptsize{~}}}\\sum_{\\mathrm{\\scriptsize{~}}}{\\mathcal V}}}\\end{array}\\right.",
+      "source_page_number": 7,
+      "source_image_index": 0,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The area of the field is 252 m².",
+    "answer_latex": "Area = \\frac{1}{2} \\times 24 \\mathrm{m} \\times (8 \\mathrm{m} + 13 \\mathrm{m}) = 252 \\mathrm{m}^2",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the area using the formula for the area of a quadrilateral with a diagonal.",
+        "expression": "Area = \\frac{1}{2} \\times d \\times (h_1 + h_2)"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values of the diagonal and the heights.",
+        "expression": "Area = \\frac{1}{2} \\times 24 \\mathrm{m} \\times (8 \\mathrm{m} + 13 \\mathrm{m})"
+      }
+    ],
+    "final_answer": "Thus, the area of the field is 252 m².",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of the area formula for quadrilaterals and basic arithmetic.",
+    "topics_tags": [
+      "Quadrilateral Area",
+      "Mensuration",
+      "Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing a quadrilateral with a diagonal and perpendiculars from opposite vertices.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777406978/ncert/maths/11/img_7_0.jpg",
+        "latex_extracted": "\\begin{array}{l}{{{\\mathcal J}\\left|_{13\\mathrm{m}}\\sum_{A\\mathrm{m}}\\sum_{\\mathrm{\\scriptsize{~}}}{\\mathcal V}}}\\\\ {{\\leq\\sum_{\\mathrm{\\scriptsize{T}}}\\sum_{\\mathrm{\\scriptsize{~}}}\\sum_{\\mathrm{\\scriptsize{~}}}{\\mathcal V}}}\\end{array}\\right.",
+        "source_page_number": 7,
+        "source_image_index": 0,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.7",
+    "class": 8,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "mensuration",
+    "question_type": "numerical",
+    "question_text": "The diagonals of a rhombus are 7.5 cm and 12 cm. Find its area.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing a rhombus with its diagonals labeled.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777406980/ncert/maths/11/img_7_1.png",
+      "latex_extracted": "={\\frac{1}{2}}(24{\\mathrm{m}})(21{\\mathrm{m}})",
+      "source_page_number": 7,
+      "source_image_index": 1,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The area of the rhombus is 45 cm².",
+    "answer_latex": "Area = \\frac{1}{2} \\times d_1 \\times d_2 = \\frac{1}{2} \\times 7.5 \\mathrm{cm} \\times 12 \\mathrm{cm} = 45 \\mathrm{cm}^2",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Use the formula for the area of a rhombus based on its diagonals.",
+        "expression": "Area = \\frac{1}{2} \\times d_1 \\times d_2"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values of the diagonals.",
+        "expression": "Area = \\frac{1}{2} \\times 7.5 \\mathrm{cm} \\times 12 \\mathrm{cm}"
+      }
+    ],
+    "final_answer": "Therefore, the area of the rhombus is 45 cm².",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires knowledge of the area formula for rhombuses and basic multiplication.",
+    "topics_tags": [
+      "Rhombus Area",
+      "Mensuration",
+      "Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing a rhombus with its diagonals labeled.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777406980/ncert/maths/11/img_7_1.png",
+        "latex_extracted": "={\\frac{1}{2}}(24{\\mathrm{m}})(21{\\mathrm{m}})",
+        "source_page_number": 7,
+        "source_image_index": 1,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.8",
+    "class": 8,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "mensuration",
+    "question_type": "numerical",
+    "question_text": "Find the area of a rhombus whose side is 6 cm and whose altitude is 4 cm. If one of its diagonals is 8 cm long, find the length of the other diagonal.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing a rhombus with labeled sides and altitude.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777406981/ncert/maths/11/img_8_0.png",
+      "latex_extracted": "\\begin{array}{r}{\\Rightarrow24{\\mathrm{~cm}}^{2}={\\frac{1}{2}}(8{\\mathrm{~cm}}\\times x)}\\\\ {\\Rightarrow x=\\left({\\frac{24\\times2}{8}}\\right){\\mathrm{cm}}=6{\\mathrm{~cm}}}\\end{array}",
+      "source_page_number": 8,
+      "source_image_index": 0,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Find the area of the rhombus.",
+        "part_latex": null,
+        "answer_text": "The area of the rhombus is 24 cm².",
+        "answer_latex": "Area = 6 \\mathrm{cm} \\times 4 \\mathrm{cm} = 24 \\mathrm{cm}^2",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the area using the base and height.",
+            "expression": "Area = 6 \\mathrm{cm} \\times 4 \\mathrm{cm}"
+          }
+        ],
+        "final_answer": "Thus, the area of the rhombus is 24 cm².",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Find the length of the other diagonal.",
+        "part_latex": null,
+        "answer_text": "The length of the other diagonal is 6 cm.",
+        "answer_latex": "x = \\frac{24 \\times 2}{8} = 6 \\mathrm{cm}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the area formula to find the other diagonal.",
+            "expression": "24 \\mathrm{cm}^2 = \\frac{1}{2} \\times 8 \\mathrm{cm} \\times x"
+          },
+          {
+            "step_number": 2,
+            "description": "Solve for x.",
+            "expression": "x = \\frac{24 \\times 2}{8}"
+          }
+        ],
+        "final_answer": "Therefore, the length of the other diagonal is 6 cm.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps: calculating area and then finding the diagonal.",
+    "topics_tags": [
+      "Rhombus Area",
+      "Diagonals",
+      "Mensuration"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing a rhombus with labeled sides and altitude.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777406981/ncert/maths/11/img_8_0.png",
+        "latex_extracted": "\\begin{array}{r}{\\Rightarrow24{\\mathrm{~cm}}^{2}={\\frac{1}{2}}(8{\\mathrm{~cm}}\\times x)}\\\\ {\\Rightarrow x=\\left({\\frac{24\\times2}{8}}\\right){\\mathrm{cm}}=6{\\mathrm{~cm}}}\\end{array}",
+        "source_page_number": 8,
+        "source_image_index": 0,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.9",
+    "class": 8,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "mensuration",
+    "question_type": "numerical",
+    "question_text": "The floor of a building consists of 3000 tiles which are rhombus shaped and each of its diagonals are 45 cm and 30 cm in length. Find the total cost of polishing the floor, if the cost per m² is Rs 4.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The cost of polishing the floor is Rs 810.",
+    "answer_latex": "Total Area = 3000 \\times \\frac{1}{2} \\times 45 \\mathrm{cm} \\times 30 \\mathrm{cm} = 202.5 \\mathrm{m}^2; Cost = 4 \\times 202.5 = 810",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the area of one tile using the diagonals.",
+        "expression": "Area = \\frac{1}{2} \\times 45 \\mathrm{cm} \\times 30 \\mathrm{cm}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the total area for 3000 tiles.",
+        "expression": "Total Area = 3000 \\times \\frac{1}{2} \\times 45 \\mathrm{cm} \\times 30 \\mathrm{cm}"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the cost of polishing the total area.",
+        "expression": "Cost = 4 \\times 202.5"
+      }
+    ],
+    "final_answer": "Thus, the cost of polishing the floor is Rs 810.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing rhombus-shaped tiles with dimensions labeled.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777406985/ncert/maths/11/img_9_0.jpg",
+      "latex_extracted": "\\frac{-\\frac{\\mathrm{Rod}}{\\sim\\displaystyle--\\left.--\\left.--\\left.--\\left.--\\right.--\\left.--\\right.-\\left.-\\right.}}{\\sqrt{\\left|10\\right.m}}\\sqrt{\\left|\\left|10\\left.-\\right.}\\right.\\left\\langle\\begin{array}{c}{{-\\left.-\\infty}}\\\\ {{\\sim\\displaystyle\\sum_{\\infty}\\displaystyle\\infty\\displaystyle_{\\displaystyle<\\infty}^{\\displaystyle>}\\sim\\displaystyle{\\infty}\\displaystyle{\\infty}}\\displaystyle{\\sqrt{\\displaystyle-\\frac{\\sqrt{\\displaystyle-\\infty}}{\\displaystyle<\\displaystyle<\\displaystyle<\\displaystyle<\\displaystyle<\\infty}}}}\\end{array}\\right.}",
+      "source_page_number": 9,
+      "source_image_index": 0,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations: area of tiles and total cost.",
+    "topics_tags": [
+      "Tile Area",
+      "Cost Calculation",
+      "Mensuration"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing rhombus-shaped tiles with dimensions labeled.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777406985/ncert/maths/11/img_9_0.jpg",
+        "latex_extracted": "\\frac{-\\frac{\\mathrm{Rod}}{\\sim\\displaystyle--\\left.--\\left.--\\left.--\\left.--\\right.--\\left.--\\right.-\\left.-\\right.}}{\\sqrt{\\left|10\\right.m}}\\sqrt{\\left|\\left|10\\left.-\\right.}\\right.\\left\\langle\\begin{array}{c}{{-\\left.-\\infty}}\\\\ {{\\sim\\displaystyle\\sum_{\\infty}\\displaystyle\\infty\\displaystyle_{\\displaystyle<\\infty}^{\\displaystyle>}\\sim\\displaystyle{\\infty}\\displaystyle{\\infty}}\\displaystyle{\\sqrt{\\displaystyle-\\frac{\\sqrt{\\displaystyle-\\infty}}{\\displaystyle<\\displaystyle<\\displaystyle<\\displaystyle<\\displaystyle<\\infty}}}}\\end{array}\\right.}",
+        "source_page_number": 9,
+        "source_image_index": 0,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q11.10",
+    "class": 8,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "mensuration",
+    "question_type": "conceptual",
+    "question_text": "Top surface of a raised platform is in the shape of a regular octagon as shown in the figure. Find the area of the octagonal surface.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the shape of a regular octagon.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777406988/ncert/maths/11/img_10_1.jpg",
+      "latex_extracted": "\\left.\\begin{array}{l}{{{\\mathcal{V}}{\\bigl\\lbrack}{\\overset{\\underset{\\mathrm{F}}{}}{\\binom{4\\to\\sum\\infty}{11\\cdot\\mathbf{\\hat{m}}}}{\\bigr]}}{\\bigr\\rbrack}{\\boldsymbol{\\varepsilon}}\\operatorname{\\to}}\\right\\lbrack{\\boldsymbol{\\varepsilon}}\\operatorname{\\to}}",
+      "source_page_number": 10,
+      "source_image_index": 1,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Area of trapezium ABCH = Area of trapezium DEFG + Area of rectangle HGDC.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the area of the octagonal surface can be calculated using the areas of the trapeziums and rectangle.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of area calculation for composite shapes.",
+    "topics_tags": [
+      "Octagon",
+      "Area Calculation",
+      "Mensuration"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the shape of a regular octagon.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777406988/ncert/maths/11/img_10_1.jpg",
+        "latex_extracted": "\\left.\\begin{array}{l}{{{\\mathcal{V}}{\\bigl\\lbrack}{\\overset{\\underset{\\mathrm{F}}{}}{\\binom{4\\to\\sum\\infty}{11\\cdot\\mathbf{\\hat{m}}}}{\\bigr]}}{\\bigr\\rbrack}{\\boldsymbol{\\varepsilon}}\\operatorname{\\to}}\\right\\lbrack{\\boldsymbol{\\varepsilon}}\\operatorname{\\to}}",
+        "source_page_number": 10,
+        "source_image_index": 1,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.11",
+    "class": 8,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "mensuration",
+    "question_type": "conceptual",
+    "question_text": "There is a pentagonal shaped park as shown in the figure. For finding its area Jyoti and Kavita divided it in two different ways. Find the area of this park using both ways. Can you suggest some other way of finding its area?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the pentagonal shaped park.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777406999/ncert/maths/11/img_11_0.jpg",
+      "latex_extracted": "|s_{\\mathrm{{\\scriptsize~m}}}\\Bigg|_{\\pm\\left\\langle\\frac{\\displaystyle\\hat{\\Lambda}_{{\\left[\\frac{15}{2}}}}{\\displaystyle\\left|\\frac{\\displaystyle\\hat{\\Lambda}_{{\\left[\\frac{15}{2}}}}{\\displaystyle\\hat{\\Pi}_{{\\left[\\frac{15}{2}}}}\\right|}}~~~\\left.\\left.\\left.\\frac{\\displaystyle\\left.\\left.\\left.\\frac{\\displaystyle\\hat{\\Lambda}_{{\\left[\\frac{1}{2}}}{\\displaystyle\\hat{\\Lambda}_{{\\left[\\frac{1}{2}}}}}}{\\displaystyle\\left(\\begin{array}{c c}{{\\displaystyle\\left.\\left.\\left.\\frac{\\displaystyle{\\Lambda}_{{\\left[\\begin{array}{c}{{\\Lambda}}}{{\\displaystyle\\hat{\\Lambda}_{{\\mu}}}}}\\right]_{{\\left[\\begin{array}{c}{{\\hat{\\Lambda}_{{\\mu}}}}\\hat{\\Lambda}_{{\\mu}}}\\right]_{{\\hat{\\Lambda}_{{\\mu}}}}\\right)_{{\\Lambda}_{{\\hat{\\Lambda}}}}}\\\\ {{{{\\left[\\hat{\\hat{\\frac{{\\Lambda}}}}}}}}\\end{array}\\right|\\left(\\left(\\right)",
+      "source_page_number": 11,
+      "source_image_index": 0,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Jyoti's way of finding area is as follows. Area of pentagon = 2 (Area of trapezium ABCF) = 337.5 m².",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the area of the park can be calculated using different methods.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding different methods of area calculation.",
+    "topics_tags": [
+      "Pentagon",
+      "Area Calculation",
+      "Mensuration"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the pentagonal shaped park.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777406999/ncert/maths/11/img_11_0.jpg",
+        "latex_extracted": "|s_{\\mathrm{{\\scriptsize~m}}}\\Bigg|_{\\pm\\left\\langle\\frac{\\displaystyle\\hat{\\Lambda}_{{\\left[\\frac{15}{2}}}}{\\displaystyle\\left|\\frac{\\displaystyle\\hat{\\Lambda}_{{\\left[\\frac{15}{2}}}}{\\displaystyle\\hat{\\Pi}_{{\\left[\\frac{15}{2}}}}\\right|}}~~~\\left.\\left.\\left.\\frac{\\displaystyle\\left.\\left.\\left.\\frac{\\displaystyle\\hat{\\Lambda}_{{\\left[\\frac{1}{2}}}{\\displaystyle\\hat{\\Lambda}_{{\\left[\\frac{1}{2}}}}}}{\\displaystyle\\left(\\begin{array}{c c}{{\\displaystyle\\left.\\left.\\left.\\frac{\\displaystyle{\\Lambda}_{{\\left[\\begin{array}{c}{{\\Lambda}}}{{\\displaystyle\\hat{\\Lambda}_{{\\mu}}}}}\\right]_{{\\left[\\begin{array}{c}{{\\hat{\\Lambda}_{{\\mu}}}}\\hat{\\Lambda}_{{\\mu}}}\\right]_{{\\hat{\\Lambda}_{{\\mu}}}}\\right)_{{\\Lambda}_{{\\hat{\\Lambda}}}}}\\\\ {{{{\\left[\\hat{\\hat{\\frac{{\\Lambda}}}}}}}}\\end{array}\\right|\\left(\\left(\\right)",
+        "source_page_number": 11,
+        "source_image_index": 0,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.12",
+    "class": 8,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "mensuration",
+    "question_type": "numerical",
+    "question_text": "Diagram of the adjacent picture frame has outer dimensions = 24 cm x 28 cm and inner dimensions 16 cm x 20 cm. Find the area of each section of the frame, if the width of each section is same.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the dimensions of a picture frame.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777407004/ncert/maths/11/img_12_1.png",
+      "latex_extracted": "\\begin{array}{l}{{\\equiv\\left[{\\frac{1}{2}}\\times15\\times\\left(30-15\\right)+\\left(15\\right)^{2}\\right]\\mathbf{m}^{2}}}\\\\ {{=\\left(1\\times15\\times15+225\\right)\\mathbf{m}^{2}}}\\\\ {{=337.5\\mathbf{m}^{2}}}\\end{array}",
+      "source_page_number": 12,
+      "source_image_index": 1,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Area of pentagon = Area of ΔABE + Area of square BCDE.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the area of each section of the frame can be calculated based on the given dimensions.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires basic area calculations and understanding of frame dimensions.",
+    "topics_tags": [
+      "Picture Frame",
+      "Area Calculation",
+      "Mensuration"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the dimensions of a picture frame.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777407004/ncert/maths/11/img_12_1.png",
+        "latex_extracted": "\\begin{array}{l}{{\\equiv\\left[{\\frac{1}{2}}\\times15\\times\\left(30-15\\right)+\\left(15\\right)^{2}\\right]\\mathbf{m}^{2}}}\\\\ {{=\\left(1\\times15\\times15+225\\right)\\mathbf{m}^{2}}}\\\\ {{=337.5\\mathbf{m}^{2}}}\\end{array}",
+        "source_page_number": 12,
+        "source_image_index": 1,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.13",
+    "class": 8,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "mensuration",
+    "question_type": "conceptual",
+    "question_text": "There are two cuboidal boxes as shown in the adjoining figure. Which box requires the lesser amount of material to make?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Thus, the cuboidal box (a) will require lesser amount of material.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the total surface area of both boxes.",
+        "expression": "Total surface area of cuboid (a) = 2{(60)(40) + (40)(50) + (50)(60)}"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute values and simplify.",
+        "expression": "Total surface area of cuboid (a) = 14800 cm^2"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the total surface area of the cube.",
+        "expression": "Total surface area of cube (b) = 6(50 cm)^2 = 15000 cm^2"
+      }
+    ],
+    "final_answer": "Thus, the cuboidal box (a) will require lesser amount of material.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing two cuboidal boxes for comparison of material required.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777407017/ncert/maths/11/img_13_0.jpg",
+      "latex_extracted": "\\left.\\begin{array}{c}{{\\mathrm{H}\\quad\\mathrm{P}\\qquad\\qquad\\mathrm{I}}}\\\\ {{\\left.\\left.\\left.\\nabla\\right|\\sum_{\\mathrm{=}}^{\\infty}\\frac{\\mathrm{P}}{\\mathrm{P}}\\right|\\right|_{\\mathrm{}}^{\\mathrm{E}}\\qquad\\left|\\sum_{\\mathrm{<}}^{\\mathrm{E}}\\cos{\\frac{\\mathrm{P}}{\\mathrm{P}}}{\\left|\\mathbf{K}}\\right|}}\\\\ {{\\left.\\left.\\left.\\left|\\begin{array}{c}{{\\frac{1}{2}}\\exp{\\frac{1}{\\mathrm{P}}}{\\mathrm{P}}}\\right|^{2}}}\\end{array}\\right|={\\left|\\begin{array}{c}{{\\left|\\sum_{\\mathrm{i}}^{\\mathrm{N}}\\cdot{\\mathrm{em}}}\\\\ {{\\left|\\leq{\\frac{1}{\\mathrm{K}}}}\\end{array}\\right|}{\\left|\\leq{\\mathrm{N}}}\\\\ {{\\right|}}\\\\ {{\\left|\\leq{\\frac{\\times{\\mathrm{X}}}{\\leq{\\mathrm{\\cdot{\\mathrm{-}}}}{\\quad{\\quad{\\mathrm{\\mathrm{\\mathrm{\\quad{\\leq{\\mathrm{\\mathrm{Y}}}}}}}{{\\leq{\\quad{\\quad{\\quad{\\quad{\\leq{1}}{{\\quad{\\sqrt{\\quad{\\leq{\\leq{\\quad{\\quad{\\quad{\\sqrt{{\\leq}}}}}}{\\mathrm{\\leq{\\leq}}{V}}}}}}}}}}}\\end{array}\\right|\\right|}",
+      "source_page_number": 13,
+      "source_image_index": 0,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of surface area calculations and comparison.",
+    "topics_tags": [
+      "Cuboid",
+      "Surface Area",
+      "Material Requirement"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing two cuboidal boxes for comparison of material required.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777407017/ncert/maths/11/img_13_0.jpg",
+        "latex_extracted": "\\left.\\begin{array}{c}{{\\mathrm{H}\\quad\\mathrm{P}\\qquad\\qquad\\mathrm{I}}}\\\\ {{\\left.\\left.\\left.\\nabla\\right|\\sum_{\\mathrm{=}}^{\\infty}\\frac{\\mathrm{P}}{\\mathrm{P}}\\right|\\right|_{\\mathrm{}}^{\\mathrm{E}}\\qquad\\left|\\sum_{\\mathrm{<}}^{\\mathrm{E}}\\cos{\\frac{\\mathrm{P}}{\\mathrm{P}}}{\\left|\\mathbf{K}}\\right|}}\\\\ {{\\left.\\left.\\left.\\left|\\begin{array}{c}{{\\frac{1}{2}}\\exp{\\frac{1}{\\mathrm{P}}}{\\mathrm{P}}}\\right|^{2}}}\\end{array}\\right|={\\left|\\begin{array}{c}{{\\left|\\sum_{\\mathrm{i}}^{\\mathrm{N}}\\cdot{\\mathrm{em}}}\\\\ {{\\left|\\leq{\\frac{1}{\\mathrm{K}}}}\\end{array}\\right|}{\\left|\\leq{\\mathrm{N}}}\\\\ {{\\right|}}\\\\ {{\\left|\\leq{\\frac{\\times{\\mathrm{X}}}{\\leq{\\mathrm{\\cdot{\\mathrm{-}}}}{\\quad{\\quad{\\mathrm{\\mathrm{\\mathrm{\\quad{\\leq{\\mathrm{\\mathrm{Y}}}}}}}{{\\leq{\\quad{\\quad{\\quad{\\quad{\\leq{1}}{{\\quad{\\sqrt{\\quad{\\leq{\\leq{\\quad{\\quad{\\quad{\\sqrt{{\\leq}}}}}}{\\mathrm{\\leq{\\leq}}{V}}}}}}}}}}}\\end{array}\\right|\\right|}",
+        "source_page_number": 13,
+        "source_image_index": 0,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q11.14",
+    "class": 8,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "mensuration",
+    "question_type": "numerical",
+    "question_text": "A suitcase with measures 80 cm x 48 cm x 24 cm is to be covered with a tarpaulin cloth. How many metres of tarpaulin of width 96 cm is required to cover 100 such suitcases?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Thus, 144 m of tarpaulin is required to cover 100 suitcases.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the total surface area of one suitcase.",
+        "expression": "Total surface area = 2[(80)(48) + (48)(24) + (24)(80)]"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the total surface area for 100 suitcases.",
+        "expression": "Total surface area of 100 suitcases = 13824 cm^2 × 100 = 1382400 cm^2"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the length of tarpaulin required.",
+        "expression": "Length = \\frac{1382400 cm^2}{96 cm} = 14400 cm = 144 m"
+      }
+    ],
+    "final_answer": "Thus, 144 m of tarpaulin is required to cover 100 suitcases.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the dimensions of a suitcase for tarpaulin coverage.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777407019/ncert/maths/11/img_14_0.jpg",
+      "latex_extracted": "\\left.\\begin{array}{c}{{\\displaystyle\\left(\\begin{array}{c}{{\\displaystyle\\sum_{\\scriptstyle(o\\infty)}^{}}}\\\\ {{\\displaystyle\\left(\\left.\\mathrm{en}\\right)}}\\end{array}\\right)_{\\mathrm{co\\,cm}}}}\\end{array}\\right.",
+      "source_page_number": 14,
+      "source_image_index": 0,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations and unit conversions.",
+    "topics_tags": [
+      "Surface Area",
+      "Tarpaulin",
+      "Suitcase"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the dimensions of a suitcase for tarpaulin coverage.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777407019/ncert/maths/11/img_14_0.jpg",
+        "latex_extracted": "\\left.\\begin{array}{c}{{\\displaystyle\\left(\\begin{array}{c}{{\\displaystyle\\sum_{\\scriptstyle(o\\infty)}^{}}}\\\\ {{\\displaystyle\\left(\\left.\\mathrm{en}\\right)}}\\end{array}\\right)_{\\mathrm{co\\,cm}}}}\\end{array}\\right.",
+        "source_page_number": 14,
+        "source_image_index": 0,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q11.15",
+    "class": 8,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "mensuration",
+    "question_type": "numerical",
+    "question_text": "Find the side of a cube whose surface area is 600 cm².",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Thus, the side of the cube is 10 cm.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set up the equation for surface area of the cube.",
+        "expression": "600 cm^2 = 6l^2"
+      },
+      {
+        "step_number": 2,
+        "description": "Solve for l.",
+        "expression": "l^2 = 100 cm^2"
+      },
+      {
+        "step_number": 3,
+        "description": "Take the square root to find l.",
+        "expression": "l = 10 cm"
+      }
+    ],
+    "final_answer": "Thus, the side of the cube is 10 cm.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic algebra and understanding of surface area.",
+    "topics_tags": [
+      "Cube",
+      "Surface Area",
+      "Geometry"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.20",
+    "class": 8,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "mensuration",
+    "question_type": "conceptual",
+    "question_text": "Let us verify it by calculating the volume of both the cylinders. Volume of cylinder A and Volume of cylinder B is greater. Surface area of cylinder A and Surface area of cylinder B is also greater than the surface area of cylinder A.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical expressions for the volumes of cylinder A and B.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777407034/ncert/maths/11/img_22_0.png",
+      "latex_extracted": "=\\left({\\frac{22}{7}}\\times{\\frac{7}{2}}\\times{\\frac{7}{2}}\\times14\\right)\\cos^{3}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of volume and surface area concepts.",
+    "topics_tags": [
+      "Volume",
+      "Surface Area",
+      "Cylinders"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "question_truncated"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical expressions for the volumes of cylinder A and B.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777407034/ncert/maths/11/img_22_0.png",
+        "latex_extracted": "=\\left({\\frac{22}{7}}\\times{\\frac{7}{2}}\\times{\\frac{7}{2}}\\times14\\right)\\cos^{3}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.21",
+    "class": 8,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "mensuration",
+    "question_type": "numerical",
+    "question_text": "A cuboid is of dimensions 60 cm x 54 cm x 30 cm. How many small cubes with side 6 cm can be placed in the given cuboid?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Thus, 450 cubes can be placed in the given cuboid.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the volume of the cuboid.",
+        "expression": "60 \\times 54 \\times 30 = 97200 \\text{ cm}^3"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the volume of one small cube.",
+        "expression": "6^3 = 216 \\text{ cm}^3"
+      },
+      {
+        "step_number": 3,
+        "description": "Divide the volume of the cuboid by the volume of one cube to find the number of cubes.",
+        "expression": "\\frac{97200}{216} = 450"
+      }
+    ],
+    "final_answer": "Therefore, 450 cubes can be placed in the given cuboid.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic volume calculations and division.",
+    "topics_tags": [
+      "Cuboid",
+      "Volume",
+      "Cubes"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.22",
+    "class": 8,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "mensuration",
+    "question_type": "numerical",
+    "question_text": "Find the height of the cylinder whose volume is 1.54 m3 and diameter of the base is 140 cm.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical expression for calculating the height of the cylinder.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777407041/ncert/maths/11/img_23_0.png",
+      "latex_extracted": "\\begin{array}{c}{{1.54\\ \\mathrm{m^{3}}=\\frac{22}7\\times\\frac{70}{7}\\;\\mathrm{lo}\\ \\ n\\times\\frac{70}{100}\\ \\mathrm{m\\times}h}}\\\\ {{h=\\left(\\frac{1.54\\times100}{22\\times7}\\right)\\mathrm{m=1\\\\mathrm{m}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Thus, the height of the cylinder is 1 m.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Convert diameter to radius.",
+        "expression": "r = \\frac{140}{2} = 70 \\text{ cm} = 0.7 \\text{ m}"
+      },
+      {
+        "step_number": 2,
+        "description": "Use the volume formula for a cylinder to find height.",
+        "expression": "1.54 = \\frac{22}{7} \\times 0.7^2 \\times h"
+      },
+      {
+        "step_number": 3,
+        "description": "Solve for height h.",
+        "expression": "h = \\frac{1.54 \\times 100}{22 \\times 7} = 1"
+      }
+    ],
+    "final_answer": "Therefore, the height of the cylinder is 1 m.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of volume formula and unit conversion.",
+    "topics_tags": [
+      "Cylinder",
+      "Volume",
+      "Height"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical expression for calculating the height of the cylinder.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777407041/ncert/maths/11/img_23_0.png",
+        "latex_extracted": "\\begin{array}{c}{{1.54\\ \\mathrm{m^{3}}=\\frac{22}7\\times\\frac{70}{7}\\;\\mathrm{lo}\\ \\ n\\times\\frac{70}{100}\\ \\mathrm{m\\times}h}}\\\\ {{h=\\left(\\frac{1.54\\times100}{22\\times7}\\right)\\mathrm{m=1\\\\mathrm{m}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.23",
+    "class": 8,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "mensuration",
+    "question_type": "numerical",
+    "question_text": "A milk tank is in the form of cylinder whose radius is 1.5 m and length is 7 m. Find the quantity of milk in litres that can be stored in the tank.",
+    "question_latex": "=\\left({\\frac{22}{7}}\\times1.5\\times1.5\\times7\\right)\\mathbf{m}^{3}",
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical expression for calculating the volume of the milk tank.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777407042/ncert/maths/11/img_24_0.png",
+      "latex_extracted": "=\\left({\\frac{22}{7}}\\times1.5\\times1.5\\times7\\right)\\mathbf{m}^{3}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Therefore, 49500 L of milk can be stored in the tank.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the volume of the cylinder.",
+        "expression": "V = \\frac{22}{7} \\times 1.5 \\times 1.5 \\times 7"
+      },
+      {
+        "step_number": 2,
+        "description": "Convert volume from m^3 to litres.",
+        "expression": "1 m^3 = 1000 L"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the total quantity of milk in litres.",
+        "expression": "V \\times 1000 = 49500 L"
+      }
+    ],
+    "final_answer": "Therefore, 49500 L of milk can be stored in the tank.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic volume calculation and unit conversion.",
+    "topics_tags": [
+      "Cylinder",
+      "Volume",
+      "Milk Tank"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical expression for calculating the volume of the milk tank.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777407042/ncert/maths/11/img_24_0.png",
+        "latex_extracted": "=\\left({\\frac{22}{7}}\\times1.5\\times1.5\\times7\\right)\\mathbf{m}^{3}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.24",
+    "class": 8,
+    "subject": "maths",
+    "chapter_number": 11,
+    "chapter_name": "mensuration",
+    "question_type": "numerical",
+    "question_text": "Water is pouring into a cuboidal reservoir at the rate of 60 litres per minute. If the volume of reservoir is 108 m³, find the number of hours it will take to fill the reservoir.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Thus, it will take 30 hours to fill the reservoir.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Convert the volume of the reservoir from cubic meters to liters.",
+        "expression": "108 m^3 = 108000 L"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the rate of water filling in liters per hour.",
+        "expression": "60 L/min = 3600 L/hour"
+      },
+      {
+        "step_number": 3,
+        "description": "Divide the total volume by the rate to find the time in hours.",
+        "expression": "Required number of hours = \\frac{108000 L}{3600 L/hour} = 30 hours"
+      }
+    ],
+    "final_answer": "Therefore, it will take 30 hours to fill the reservoir.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of volume conversion and basic division.",
+    "topics_tags": [
+      "Volume",
+      "Cuboidal Reservoir",
+      "Rate of Flow"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  }
+]

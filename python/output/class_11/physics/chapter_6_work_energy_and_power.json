@@ -1,0 +1,2245 @@
+[
+  {
+    "question_id": "Q6.1",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 6,
+    "chapter_name": "Work Energy and Power",
+    "question_type": "conceptual",
+    "question_text": "The sign of work done by a force on a body is important to understand. State carefully if the following quantities are positive or negative: work done by a man in lifting a bucket out of a well by means of a rope tied to the bucket; work done by gravitational force in the above case; work done by friction on a body sliding down an inclined plane; work done by an applied force on a body moving on a rough horizontal plane with uniform velocity; work done by the resistive force of air on a vibrating pendulum in bringing it to rest.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Positive: In the given case, force and displacement are in the same direction. Hence, the sign of work done is positive. In this case, the work is done on the bucket. Negative: In the given case, the direction of force (vertically downward) and displacement (vertically upward) are opposite to each other. Hence, the sign of work done is negative. Negative: Since the direction of frictional force is opposite to the direction of motion, the work done by frictional force is negative in this case. Positive: Here the body is moving on a rough horizontal plane. Frictional force opposes the motion of the body. Therefore, in order to maintain a uniform velocity, a uniform force must be applied to the body. Since the applied force acts in the direction of motion of the body, the work done is positive. Negative: The resistive force of air acts in the direction opposite to the direction of motion of the pendulum. Hence, the work done is negative in this case.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "The signs of work done vary based on the direction of force and displacement.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of work done and its signs based on force and displacement directions.",
+    "topics_tags": [
+      "Work Done",
+      "Force",
+      "Energy"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.2",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 6,
+    "chapter_name": "Work Energy and Power",
+    "question_type": "numerical",
+    "question_text": "A body of mass 2 kg initially at rest moves under the action of an applied horizontal force of 7 N on a table with coefficient of kinetic friction = 0.1. Compute the work done by the applied force in 10 s, work done by friction in 10 s, work done by the net force on the body in 10 s, change in kinetic energy of the body in 10 s, and interpret your results.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Mass of the body, m = 2 kg; Applied force, F = 7 N; Coefficient of kinetic friction, µ = 0.1; Initial velocity, u = 0; Time, t = 10 s. The acceleration produced in the body by the applied force is given by Newton’s second law of motion as: a = \frac{F - f}{m}. Frictional force is given as: f = µmg = 0.1 × 2 × 9.8 = -1.96 N. The acceleration produced by the frictional force: a = \frac{F - f}{m} = \frac{7 - (-1.96)}{2} = 4.98 m/s². Total acceleration of the body: a = 2.52 m/s². The distance travelled by the body is given by the equation of motion: s = ut + \frac{1}{2} a t² = 0 + \frac{1}{2} \times 2.52 \times (10)² = 126 m. Work done by the applied force, W = F × s = 7 × 126 = 882 J. Work done by the frictional force, W = f × s = -1.96 × 126 = -247 J. Net force = 7 + (-1.96) = 5.04 N. Work done by the net force, W = 5.04 × 126 = 635 J. Change in kinetic energy can be calculated as: ΔKE = KE_{final} - KE_{initial}.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the frictional force using the coefficient of kinetic friction.",
+        "expression": "f = \\mu mg = 0.1 \\times 2 \\times 9.8 = -1.96"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the total acceleration of the body.",
+        "expression": "a = \\frac{F - f}{m} = \\frac{7 - (-1.96)}{2} = 4.98"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the distance travelled by the body using the equation of motion.",
+        "expression": "s = ut + \\frac{1}{2} a t^{2} = 0 + \\frac{1}{2} \\times 2.52 \\times (10)^{2} = 126"
+      },
+      {
+        "step_number": 4,
+        "description": "Calculate the work done by the applied force.",
+        "expression": "W = F \\times s = 7 \\times 126 = 882"
+      },
+      {
+        "step_number": 5,
+        "description": "Calculate the work done by the frictional force.",
+        "expression": "W = f \\times s = -1.96 \\times 126 = -247"
+      },
+      {
+        "step_number": 6,
+        "description": "Calculate the net force acting on the body.",
+        "expression": "Net force = 7 + (-1.96) = 5.04"
+      },
+      {
+        "step_number": 7,
+        "description": "Calculate the work done by the net force.",
+        "expression": "W = 5.04 \\times 126 = 635"
+      }
+    ],
+    "final_answer": "The change in kinetic energy can be calculated from the work done by the net force.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagrams showing calculations for acceleration and distance travelled.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758953/ncert/physics/6/img_3_0.png",
+      "latex_extracted": "\\begin{array}{c}{{a=a^{\\prime}+a^{\\prime}}}\\\\ {{\\displaystyle=3.5+\\left(-0.98\\right)=2.52~\\mathrm{m/s}^{2}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations and understanding of forces and motion.",
+    "topics_tags": [
+      "Work Done",
+      "Friction",
+      "Kinetic Energy"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagrams showing calculations for acceleration and distance travelled.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758953/ncert/physics/6/img_3_0.png",
+        "latex_extracted": "\\begin{array}{c}{{a=a^{\\prime}+a^{\\prime}}}\\\\ {{\\displaystyle=3.5+\\left(-0.98\\right)=2.52~\\mathrm{m/s}^{2}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q6.3",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 6,
+    "chapter_name": "Work Energy and Power",
+    "question_type": "conceptual",
+    "question_text": "Explain why a particle will not exist in a region where kinetic energy becomes negative.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The particle will not exist in a region where kinetic energy becomes negative because kinetic energy is a positive quantity and cannot take negative values.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the particle cannot exist in regions where kinetic energy is negative.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing potential energy shapes relevant to the context.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758963/ncert/physics/6/img_4_0.jpg",
+      "latex_extracted": "\\left.\\begin{array}{l l l}{{\\mathrm{we}}}&{{}}&{{\\qquad\\mathrm{we}^{\\mathrm{i}\\to}}}\\\\ {{\\qquad\\qquad\\qquad\\qquad\\qquad\\mathrm{we}^{\\mathrm{i}\\pm}}}&{{}}\\\\ {{\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\quad\\qquad\\quad\\quad\\frac{1}{\\sqrt{\\frac{1}{\\sqrt{1}}\\pm\\sqrt{1}}\\frac{1}{\\sqrt{1}}\\frac{1}{\\sqrt{1}}\\sqrt{1}}\\right)^{\\frac{1}{\\sqrt{1}}}\\right\\}}}\\end{array}\\right.",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of kinetic energy and its implications.",
+    "topics_tags": [
+      "Kinetic Energy",
+      "Potential Energy",
+      "Energy Conservation"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing potential energy shapes relevant to the context.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758963/ncert/physics/6/img_4_0.jpg",
+        "latex_extracted": "\\left.\\begin{array}{l l l}{{\\mathrm{we}}}&{{}}&{{\\qquad\\mathrm{we}^{\\mathrm{i}\\to}}}\\\\ {{\\qquad\\qquad\\qquad\\qquad\\qquad\\mathrm{we}^{\\mathrm{i}\\pm}}}&{{}}\\\\ {{\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\quad\\qquad\\quad\\quad\\frac{1}{\\sqrt{\\frac{1}{\\sqrt{1}}\\pm\\sqrt{1}}\\frac{1}{\\sqrt{1}}\\frac{1}{\\sqrt{1}}\\sqrt{1}}\\right)^{\\frac{1}{\\sqrt{1}}}\\right\\}}}\\end{array}\\right.",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q6.4",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 6,
+    "chapter_name": "Work Energy and Power",
+    "question_type": "numerical",
+    "question_text": "Show that a particle of total energy 1 J moving under the potential energy function V(x) = kx^2/2 must ‘turn back’ when it reaches x = ± 2 m.",
+    "question_latex": "V(x) = \\frac{kx^2}{2}",
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Calculate the minimum potential energy.",
+        "part_latex": null,
+        "answer_text": "The minimum potential energy is -V.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the potential energy function.",
+            "expression": "V(x) = \\frac{kx^2}{2}"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute k = 0.5 N/m and x = ±2 m to find V.",
+            "expression": "V(2) = \\frac{0.5 \\cdot (2)^2}{2} = 1 J"
+          }
+        ],
+        "final_answer": "Thus, the particle turns back when it reaches x = ± 2 m.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Graph of potential energy V(x) versus x for the given function.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758965/ncert/physics/6/img_5_0.jpg",
+      "latex_extracted": "\\underbrace{{\\sqrt{}}_{\\mathbf{X}^{\\ldots\\ldots\\ldots\\ldots\\ldots}}^{\\mathrm{V}(x)}}_{\\mathbf{X}^{\\ldots\\ldots\\ldots\\ldots}\\right|_{\\mathbf{X}}^{\\infty\\ldots\\ldots\\times\\chi}\\not{\\mathcal{X}}}_{\\mathrm{~}}\\Big/\\left.\\right.",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves calculation and understanding of potential energy.",
+    "topics_tags": [
+      "Simple Harmonic Motion",
+      "Potential Energy",
+      "Energy Conservation"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Graph of potential energy V(x) versus x for the given function.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758965/ncert/physics/6/img_5_0.jpg",
+        "latex_extracted": "\\underbrace{{\\sqrt{}}_{\\mathbf{X}^{\\ldots\\ldots\\ldots\\ldots\\ldots}}^{\\mathrm{V}(x)}}_{\\mathbf{X}^{\\ldots\\ldots\\ldots\\ldots}\\right|_{\\mathbf{X}}^{\\infty\\ldots\\ldots\\times\\chi}\\not{\\mathcal{X}}}_{\\mathrm{~}}\\Big/\\left.\\right.",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q6.5",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 6,
+    "chapter_name": "Work Energy and Power",
+    "question_type": "conceptual",
+    "question_text": "When a conservative force does positive work on a body, the potential energy of the body increases/decreases/remains unaltered. Work done by a body against friction always results in a loss of its kinetic/potential energy. The rate of change of total momentum of a many-particle system is proportional to the external force/sum of the internal forces on the system. In an inelastic collision of two bodies, the quantities which do not change after the collision are the total kinetic energy/total linear momentum/total energy of the system of two bodies.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Diagram related to work-energy principles, showing energy conservation concepts.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758973/ncert/physics/6/img_7_0.jpg",
+      "latex_extracted": "\\begin{array}{c}{{\\displaystyle\\left.\\hat{\\alpha}^{\\widehat{\\mathrm{N}}}\\right.^{\\widehat{\\omega}}\\hat{\\mathrm{N}}^{\\widehat{\\omega}}\\widehat{\\Lambda}}\\right.^{\\widehat{\\omega}}\\left.^{\\widehat{\\omega}}\\widehat{\\left\\{\\left.\\frac{^{\\mu}}{\\Lambda}\\right\\}^{\\widehat{\\omega}\\cdot\\widehat{\\omega}}\\right.^{\\widehat{\\left(1\\right)}}\\sqrt{^{\\widehat{\\omega}}\\prod_{\\widehat{\\omega}}\\widehat{^{\\prime}\\widehat{\\mathbf{N}}}}}}\\\\ {{\\displaystyle\\left.\\frac{_{\\tiny}^{\\widehat{\\left[\\widetilde{\\omega}}}{^{\\vphantom{\\left|\\omega}}}\\right.^{\\widehat{\\left|\\omega\\prime\\prime\\prime\\prime}}}}\\end{array}",
+      "source_page_number": 7,
+      "source_image_index": 0,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of multiple concepts related to energy and momentum.",
+    "topics_tags": [
+      "Conservative Forces",
+      "Potential Energy",
+      "Kinetic Energy",
+      "Momentum",
+      "Collisions"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram related to work-energy principles, showing energy conservation concepts.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758973/ncert/physics/6/img_7_0.jpg",
+        "latex_extracted": "\\begin{array}{c}{{\\displaystyle\\left.\\hat{\\alpha}^{\\widehat{\\mathrm{N}}}\\right.^{\\widehat{\\omega}}\\hat{\\mathrm{N}}^{\\widehat{\\omega}}\\widehat{\\Lambda}}\\right.^{\\widehat{\\omega}}\\left.^{\\widehat{\\omega}}\\widehat{\\left\\{\\left.\\frac{^{\\mu}}{\\Lambda}\\right\\}^{\\widehat{\\omega}\\cdot\\widehat{\\omega}}\\right.^{\\widehat{\\left(1\\right)}}\\sqrt{^{\\widehat{\\omega}}\\prod_{\\widehat{\\omega}}\\widehat{^{\\prime}\\widehat{\\mathbf{N}}}}}}\\\\ {{\\displaystyle\\left.\\frac{_{\\tiny}^{\\widehat{\\left[\\widetilde{\\omega}}}{^{\\vphantom{\\left|\\omega}}}\\right.^{\\widehat{\\left|\\omega\\prime\\prime\\prime\\prime}}}}\\end{array}",
+        "source_page_number": 7,
+        "source_image_index": 0,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q6.6",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 6,
+    "chapter_name": "Work Energy and Power",
+    "question_type": "conceptual",
+    "question_text": "State if each of the following statements is true or false. Give reasons for your answer. In an elastic collision of two bodies, the momentum and energy of each body is conserved. Total energy of a system is always conserved, no matter what internal and external forces on the body are present. Work done in the motion of a body over a closed loop is zero for every force in nature. In an inelastic collision, the final kinetic energy is always less than the initial kinetic energy of the system.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Involves multiple concepts and requires detailed explanations for each statement.",
+    "topics_tags": [
+      "Elastic Collision",
+      "Inelastic Collision",
+      "Conservation of Energy",
+      "Work Done",
+      "Momentum"
+    ],
+    "confidence_score": 0.8,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.7",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 6,
+    "chapter_name": "Work Energy and Power",
+    "question_type": "mcq",
+    "question_text": "In an elastic collision of two billiard balls, is the total kinetic energy conserved during the short time of collision of the balls (i.e. when they are in contact)? Is the total linear momentum conserved during the short time of an elastic collision of two balls? What are the answers to (a) and (b) for an inelastic collision? If the potential energy of two billiard balls depends only on the separation distance between their centres, is the collision elastic or inelastic?",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "and"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "for an inelastic collision? If the potential energy of two billiard balls depends only on the separation distance between their centres, is the collision elastic or inelastic?"
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "In an elastic collision, the total initial kinetic energy of the balls will be equal to the total final kinetic energy of the balls. This kinetic energy is not conserved at the instant the two balls are in contact with each other. In fact, at the time of collision, the kinetic energy of the balls will get converted into potential energy. Yes, in an elastic collision, the total linear momentum of the system always remains conserved. No; Yes, in an inelastic collision, there is always a loss of kinetic energy, i.e., the total kinetic energy of the billiard balls before collision will always be greater than that after collision. The total linear momentum of the system of billiard balls will remain conserved even in the case of an inelastic collision. In the given case, the forces involved are conservation. This is because they depend on the separation between the centres of the billiard balls. Hence, the collision is elastic.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the collision is elastic.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of conservation laws in different types of collisions.",
+    "topics_tags": [
+      "Elastic Collision",
+      "Inelastic Collision",
+      "Conservation of Momentum",
+      "Kinetic Energy"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.8",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 6,
+    "chapter_name": "Work Energy and Power",
+    "question_type": "numerical",
+    "question_text": "A body is initially at rest. It undergoes one-dimensional motion with constant acceleration. The power delivered to it at time t is proportional to:",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Power is directly proportional to time.",
+    "answer_latex": "P \\propto t",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Using Newton’s second law of motion, the force experienced by the body is given by the equation: F = ma.",
+        "expression": "F = ma"
+      },
+      {
+        "step_number": 2,
+        "description": "Power is given by the relation: P = F.v.",
+        "expression": "P = F.v"
+      },
+      {
+        "step_number": 3,
+        "description": "Since both mass and acceleration are constants, force F will also be a constant.",
+        "expression": "F = ma = Constant"
+      },
+      {
+        "step_number": 4,
+        "description": "Thus, substituting the values leads to the conclusion that power is proportional to time.",
+        "expression": "P \\propto t"
+      }
+    ],
+    "final_answer": "Therefore, the power delivered to the body is proportional to time.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of basic physics concepts and relationships.",
+    "topics_tags": [
+      "Power",
+      "Acceleration",
+      "Newton's Laws"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.9",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 6,
+    "chapter_name": "Work Energy and Power",
+    "question_type": "numerical",
+    "question_text": "A body is moving unidirectionally under the influence of a source of constant power. Its displacement in time t is proportional to:",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of displacement under constant power.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758978/ncert/physics/6/img_12_0.png",
+      "latex_extracted": "\\begin{array}{l}{{d\\nu=\\mathrm{Constant}\\times d t}}\\\\ {{\\nu=\\alpha t}}\\\\ {{\\mathrm{~where,}a\\ \\mathrm{is~another~constant}~}}\\\\ {{\\mathrm{~where,}a\\ \\mathrm{~is~another~constant}~}}\\end{array}\\qquad\\dots(i i)",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The displacement is proportional to the square of time.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the displacement is proportional to time squared.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves understanding the relationship between power, force, and displacement.",
+    "topics_tags": [
+      "Displacement",
+      "Constant Power",
+      "Kinematics"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of displacement under constant power.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758978/ncert/physics/6/img_12_0.png",
+        "latex_extracted": "\\begin{array}{l}{{d\\nu=\\mathrm{Constant}\\times d t}}\\\\ {{\\nu=\\alpha t}}\\\\ {{\\mathrm{~where,}a\\ \\mathrm{is~another~constant}~}}\\\\ {{\\mathrm{~where,}a\\ \\mathrm{~is~another~constant}~}}\\end{array}\\qquad\\dots(i i)",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.10",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 6,
+    "chapter_name": "Work Energy and Power",
+    "question_type": "conceptual",
+    "question_text": "Power is given by the relation: P = Fv. Integrating both sides: On integrating both sides, we get:",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical expression related to power and force.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758983/ncert/physics/6/img_13_0.png",
+      "latex_extracted": "\\scriptstyle{\\begin{array}{l}{\\scriptstyle{\\frac{\\sigma}{2}}={\\frac{L}{m}},}\\\\ {\\scriptstyle*\\underbrace{\\pi^{\\prime}}{a}},}\\\\ {\\scriptstyle*\\underbrace{\\left\\{{\\frac{\\partial}{\\partial n}}}_{n}=1}\\\\ {\\scriptstyle*\\scriptstyle{\\frac{\\partial E}{\\sqrt{\\frac{n}{2}}}},}\\\\ {\\scriptstyle~\\scriptstyle{\\sqrt[[object Object]]{\\frac{\\partial L^{\\prime}}{3}}}}\\end{array}\\right.}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of power and integration concepts.",
+    "topics_tags": [
+      "Power",
+      "Force",
+      "Integration"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical expression related to power and force.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758983/ncert/physics/6/img_13_0.png",
+        "latex_extracted": "\\scriptstyle{\\begin{array}{l}{\\scriptstyle{\\frac{\\sigma}{2}}={\\frac{L}{m}},}\\\\ {\\scriptstyle*\\underbrace{\\pi^{\\prime}}{a}},}\\\\ {\\scriptstyle*\\underbrace{\\left\\{{\\frac{\\partial}{\\partial n}}}_{n}=1}\\\\ {\\scriptstyle*\\scriptstyle{\\frac{\\partial E}{\\sqrt{\\frac{n}{2}}}},}\\\\ {\\scriptstyle~\\scriptstyle{\\sqrt[[object Object]]{\\frac{\\partial L^{\\prime}}{3}}}}\\end{array}\\right.}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.11",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 6,
+    "chapter_name": "Work Energy and Power",
+    "question_type": "numerical",
+    "question_text": "A body constrained to move along the z-axis of a coordinate system is subject to a constant force F. What is the work done by this force in moving the body a distance of 4 m along the z-axis?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical expression showing work done calculation.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758984/ncert/physics/6/img_14_0.png",
+      "latex_extracted": "\\begin{array}{r}{x={\\frac{2}{3}}k{\\overset{3}{t^{2}}}}\\\\ {y}\\\\ {z\\cdot x-{\\bar{t}}^{2}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Hence, 12 J of work is done by the force on the body.",
+    "answer_latex": "W = F.s = 12 \text{ J}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the force and displacement.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate work done using W = F.s.",
+        "expression": "W = F.s = 12"
+      }
+    ],
+    "final_answer": "Therefore, the work done by the force is 12 J.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical expression showing work done calculation.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758986/ncert/physics/6/img_14_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires basic application of work-energy principle.",
+    "topics_tags": [
+      "Work",
+      "Force",
+      "Energy"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical expression showing work done calculation.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758984/ncert/physics/6/img_14_0.png",
+        "latex_extracted": "\\begin{array}{r}{x={\\frac{2}{3}}k{\\overset{3}{t^{2}}}}\\\\ {y}\\\\ {z\\cdot x-{\\bar{t}}^{2}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical expression showing work done calculation.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758986/ncert/physics/6/img_14_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q6.12",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 6,
+    "chapter_name": "Work Energy and Power",
+    "question_type": "numerical",
+    "question_text": "An electron and a proton are detected in a cosmic ray experiment, the first with kinetic energy 10 keV, and the second with 100 keV. Which is faster, the electron or the proton? Obtain the ratio of their speeds.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Electron is faster; Ratio of speeds is 13.54 : 1.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate speed of the electron using kinetic energy.",
+        "expression": "v_{e} = \\sqrt{\\frac{2 \\times 1.60 \\times 10^{-15}}{9.11 \\times 10^{-31}}}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate speed of the proton using kinetic energy.",
+        "expression": "v_{p} = \\sqrt{\\frac{2 \\times 1.60 \\times 10^{-14}}{1.67 \\times 10^{-27}}}"
+      },
+      {
+        "step_number": 3,
+        "description": "Determine the ratio of speeds.",
+        "expression": "Ratio = \\frac{v_{e}}{v_{p}}"
+      }
+    ],
+    "final_answer": "Hence, the electron is moving faster than the proton.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical expressions for calculating speeds of electron and proton.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758989/ncert/physics/6/img_15_0.png",
+      "latex_extracted": "\\begin{array}{l}{{\\mathrm{For~the~velociveron}\\mathrm{v_{e},\\ i f s\\ l i c a n\\ s i t g y\\ l i g e n\\ b y\\ l i e r\\ r e l a f l o n}\\mathrm{sus\\sithersithion}\\mathrm{sus\\sithe\\sign}}}\\\\ {{\\mathrm{\\se=1\\rho_{e}=\\sqrt{\\frac{2\\cdot E_{S_{S_{S_{S_{S_{S_{S}}}}}}{m}}}}\\tilde{\\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ }}}\\end{array}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves calculations and understanding of kinetic energy.",
+    "topics_tags": [
+      "Kinetic Energy",
+      "Electron",
+      "Proton"
+    ],
+    "confidence_score": 0.88,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical expressions for calculating speeds of electron and proton.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758989/ncert/physics/6/img_15_0.png",
+        "latex_extracted": "\\begin{array}{l}{{\\mathrm{For~the~velociveron}\\mathrm{v_{e},\\ i f s\\ l i c a n\\ s i t g y\\ l i g e n\\ b y\\ l i e r\\ r e l a f l o n}\\mathrm{sus\\sithersithion}\\mathrm{sus\\sithe\\sign}}}\\\\ {{\\mathrm{\\se=1\\rho_{e}=\\sqrt{\\frac{2\\cdot E_{S_{S_{S_{S_{S_{S_{S}}}}}}{m}}}}\\tilde{\\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ }}}\\end{array}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      },
+      {
+        "present": true,
+        "description": "Mathematical expressions for calculating speeds of electron and proton.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758990/ncert/physics/6/img_15_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q6.13",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 6,
+    "chapter_name": "Work Energy and Power",
+    "question_type": "multipart",
+    "question_text": "A rain drop of radius 2 mm falls from a height of 500 m above the ground. It falls with decreasing acceleration (due to viscous resistance of the air) until at half its original height, it attains its maximum (terminal) speed, and moves with uniform speed thereafter. What is the work done by the gravitational force on the drop in the first and second half of its journey? What is the work done by the resistive force in the entire journey if its speed on reaching the ground is 10 m/s?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of work done by gravitational force on the rain drop.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758997/ncert/physics/6/img_17_0.png",
+      "latex_extracted": "\\begin{array}{l}{{=\\frac{1}{2}\\times\\frac{4}{3}\\times3.14\\times\\left(2\\times10^{-3}\\right)^{3}\\times10^{3}\\times9.8\\times\\left(10\\right)^{2}}}\\\\ {{=1.675\\times10^{-3}\\mathrm{~J}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "What is the work done by the gravitational force on the drop in the first half of its journey?",
+        "part_latex": null,
+        "answer_text": "The work done by the gravitational force on the drop in the first half of its journey is 0.082 J.",
+        "answer_latex": "W = 0.082 \\text{ J}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the work done using the formula W = F \\cdot s.",
+            "expression": "W = F \\cdot s"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the values to find the work done.",
+            "expression": "W = 0.082"
+          }
+        ],
+        "final_answer": "Therefore, the work done by the gravitational force on the drop in the first half of its journey is 0.082 J.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "What is the work done by the resistive force in the entire journey?",
+        "part_latex": null,
+        "answer_text": "The work done by the resistive force in the entire journey is -0.162 J.",
+        "answer_latex": "W_{resistive} = -0.162 \\text{ J}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the total energy at the top and at the ground.",
+            "expression": "E_{top} = mgh, E_{ground} = \\frac{1}{2}mv^2"
+          },
+          {
+            "step_number": 2,
+            "description": "Find the work done by the resistive force.",
+            "expression": "W_{resistive} = E_{top} - E_{ground}"
+          }
+        ],
+        "final_answer": "Thus, the work done by the resistive force in the entire journey is -0.162 J.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations and understanding of work-energy principles.",
+    "topics_tags": [
+      "Work Done",
+      "Gravitational Force",
+      "Resistive Force"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of work done by gravitational force on the rain drop.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758997/ncert/physics/6/img_17_0.png",
+        "latex_extracted": "\\begin{array}{l}{{=\\frac{1}{2}\\times\\frac{4}{3}\\times3.14\\times\\left(2\\times10^{-3}\\right)^{3}\\times10^{3}\\times9.8\\times\\left(10\\right)^{2}}}\\\\ {{=1.675\\times10^{-3}\\mathrm{~J}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.14",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 6,
+    "chapter_name": "Work Energy and Power",
+    "question_type": "conceptual",
+    "question_text": "A molecule in a gas container hits a horizontal wall with speed 200 m/s and angle 30° with the normal, and rebounds with the same speed. Is momentum conserved in the collision? Is the collision elastic or inelastic?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Yes; Collision is elastic. The momentum of the gas molecule remains conserved whether the collision is elastic or inelastic.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the collision is an example of an elastic collision.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of momentum conservation and collision types.",
+    "topics_tags": [
+      "Momentum",
+      "Elastic Collision",
+      "Gas Molecules"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.15",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 6,
+    "chapter_name": "Work Energy and Power",
+    "question_type": "conceptual",
+    "question_text": "Two identical ball bearings in contact with each other and resting on a frictionless table are hit head-on by another ball bearing of the same mass moving initially with a speed V. If the collision is elastic, which of the following figure is a possible result after collision?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagrams showing possible outcomes of an elastic collision between ball bearings.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759004/ncert/physics/6/img_19_0.png",
+      "latex_extracted": "\\begin{array}{c}{{P_{0}={\\cfrac{\\mathrm{WOrk~done}}{\\bar{\\Pi}\\mathrm{me}}}}}\\\\ {{\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad}}}\\\\ {{\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad}}}\\\\ {{={\\frac{\\qquad\\qquad}{\\qquad\\qquad\\qquad}}}={\\frac{\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad{\\qquad\\qquad}{\\qquad\\qquad}}{\\qquad\\qquad}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Case (ii) is the correct outcome. It can be observed that the total momentum before and after collision in each case is constant. For an elastic collision, the total kinetic energy of a system remains conserved before and after collision.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the conditions of the collision and the properties of elastic collisions.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Analyze the momentum and kinetic energy conservation in each case.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Hence, the kinetic energy of the system is conserved in case (ii).",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of elastic collisions and conservation laws.",
+    "topics_tags": [
+      "Elastic Collision",
+      "Momentum Conservation",
+      "Kinetic Energy"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagrams showing possible outcomes of an elastic collision between ball bearings.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759004/ncert/physics/6/img_19_0.png",
+        "latex_extracted": "\\begin{array}{c}{{P_{0}={\\cfrac{\\mathrm{WOrk~done}}{\\bar{\\Pi}\\mathrm{me}}}}}\\\\ {{\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad}}}\\\\ {{\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad}}}\\\\ {{={\\frac{\\qquad\\qquad}{\\qquad\\qquad\\qquad}}}={\\frac{\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad{\\qquad\\qquad}{\\qquad\\qquad}}{\\qquad\\qquad}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.16",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 6,
+    "chapter_name": "Work Energy and Power",
+    "question_type": "conceptual",
+    "question_text": "The bob A of a pendulum released from 30° to the vertical hits another bob B of the same mass at rest on a table. How high does the bob A rise after the collision? Neglect the size of the bobs and assume the collision to be elastic.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Bob A will not rise at all. In an elastic collision between two equal masses in which one is stationary, the stationary mass acquires the same velocity, while the moving mass comes to rest after collision.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Analyze the motion of bob A before the collision.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Apply the principles of elastic collision to determine the outcome.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Hence, bob A of mass m, after colliding with bob B of equal mass, will come to rest.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the setup of the pendulum and the collision with another bob.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759032/ncert/physics/6/img_21_0.png",
+      "latex_extracted": "={\\frac{1}{2}}{\\bigl(}3m\\ {\\Bigr(}{\\frac{V}{3}}{\\bigr)}^{2}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of elastic collisions and energy transfer.",
+    "topics_tags": [
+      "Elastic Collision",
+      "Pendulum",
+      "Energy Transfer"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the setup of the pendulum and the collision with another bob.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759032/ncert/physics/6/img_21_0.png",
+        "latex_extracted": "={\\frac{1}{2}}{\\bigl(}3m\\ {\\Bigr(}{\\frac{V}{3}}{\\bigr)}^{2}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q6.17",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 6,
+    "chapter_name": "Work Energy and Power",
+    "question_type": "numerical",
+    "question_text": "The bob of a pendulum is released from a horizontal position. If the length of the pendulum is 1.5 m, what is the speed with which the bob arrives at the lowermost point, given that it dissipated 5% of its initial energy against air resistance?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of energy conservation and percentage loss.",
+    "topics_tags": [
+      "Pendulum",
+      "Energy Conservation",
+      "Kinetic Energy"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.18",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 6,
+    "chapter_name": "Work Energy and Power",
+    "question_type": "numerical",
+    "question_text": "A trolley of mass 300 kg carrying a sandbag of 25 kg is moving uniformly with a speed of 27 km/h on a frictionless track. After a while, sand starts leaking out of a hole on the floor of the trolley at the rate of 0.005 kg s–1. What is the speed of the trolley after the entire sand bag is empty?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The speed of the trolley will remain 27 km/h as the leaking action does not produce any external force on the system.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the speed of the trolley will remain 27 km/h.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of Newton's first law and conservation of momentum.",
+    "topics_tags": [
+      "Newton's Laws",
+      "Momentum",
+      "Frictionless Motion"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.19",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 6,
+    "chapter_name": "Work Energy and Power",
+    "question_type": "numerical",
+    "question_text": "A body of mass 0.5 kg travels in a straight line with velocity where. What is the work done by the net force during its displacement from x = 0 to x = 2 m?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves calculation of work done using kinetic energy principles.",
+    "topics_tags": [
+      "Work Done",
+      "Kinetic Energy",
+      "Force"
+    ],
+    "confidence_score": 0.8,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.20",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 6,
+    "chapter_name": "Work Energy and Power",
+    "question_type": "mcq",
+    "question_text": "The blades of a windmill sweep out a circle of area A. (a) If the wind flows at a velocity v perpendicular to the circle, what is the mass of the air passing through it in time t? (b) What is the kinetic energy of the air? (c) Assume that the windmill converts 25% of the wind’s energy into electrical energy, and that A = 30 m², v = 36 km/h and the density of air is 1.2 kg m–3. What is the electrical power produced?",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "If the wind flows at a velocity v perpendicular to the circle, what is the mass of the air passing through it in time t?"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "What is the kinetic energy of the air?"
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "Assume that the windmill converts 25% of the wind’s energy into electrical energy, and that A = 30 m², v = 36 km/h and the density of air is 1.2 kg m–3. What is the electrical power produced?"
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "If the wind flows at a velocity v perpendicular to the circle, what is the mass of the air passing through it in time t?",
+        "part_latex": null,
+        "answer_text": null,
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "What is the kinetic energy of the air?",
+        "part_latex": null,
+        "answer_text": null,
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "What is the electrical power produced?",
+        "part_latex": null,
+        "answer_text": null,
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Involves multiple calculations and understanding of energy conversion.",
+    "topics_tags": [
+      "Wind Energy",
+      "Kinetic Energy",
+      "Electrical Power"
+    ],
+    "confidence_score": 0.75,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.21",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 6,
+    "chapter_name": "Work Energy and Power",
+    "question_type": "mcq",
+    "question_text": "A person trying to lose weight (dieter) lifts a 10 kg mass, one thousand times, to a height of 0.5 m each time. Assume that the potential energy lost each time she lowers the mass is dissipated. (a) How much work does she do against the gravitational force? (b) How much fat will the dieter use up?",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "How much work does she do against the gravitational force?"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "How much fat will the dieter use up?"
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of kinetic energy of air and electrical power calculations.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759039/ncert/physics/6/img_25_0.png",
+      "latex_extracted": "\\frac{25}{100}\\times\\mathrm{Kinetic~energy~of~air}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "How much work does she do against the gravitational force?",
+        "part_latex": null,
+        "answer_text": "The work done against gravitational force is 49,000 J.",
+        "answer_latex": "W = n \\cdot m \\cdot g \\cdot h = 1000 \\cdot 10 \\cdot 9.8 \\cdot 0.5 = 49000 \\text{ J}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the total work done using the formula W = n * m * g * h.",
+            "expression": "W = n \\cdot m \\cdot g \\cdot h"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the values: n = 1000, m = 10 kg, g = 9.8 m/s², h = 0.5 m.",
+            "expression": "W = 1000 \\cdot 10 \\cdot 9.8 \\cdot 0.5 = 49000"
+          }
+        ],
+        "final_answer": "Therefore, the work done against the gravitational force is 49,000 J.",
+        "answer_image": {
+          "present": true,
+          "description": "Mathematical representation of work done against gravitational force.",
+          "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759047/ncert/physics/6/img_26_0.png",
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "answer"
+        },
+        "question_images": [],
+        "answer_images": [
+          {
+            "present": true,
+            "description": "Mathematical representation of work done against gravitational force.",
+            "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759047/ncert/physics/6/img_26_0.png",
+            "latex_extracted": null,
+            "source_page_number": null,
+            "source_image_index": null,
+            "ownership": "answer"
+          }
+        ],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "How much fat will the dieter use up?",
+        "part_latex": null,
+        "answer_text": "The equivalent mass of fat lost by the dieter is approximately 0.006 kg.",
+        "answer_latex": "m_{fat} = \\frac{W}{E_{fat}} = \\frac{49000}{0.2 \\cdot 3.8 \\times 10^7} = 0.006",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the mechanical energy supplied by the person's body considering efficiency.",
+            "expression": "E_{mechanical} = 0.2 \\cdot 3.8 \\times 10^7"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the mass of fat lost using the formula m_{fat} = W / E_{fat}.",
+            "expression": "m_{fat} = \\frac{49000}{0.2 \\cdot 3.8 \\times 10^7}"
+          }
+        ],
+        "final_answer": "Thus, the dieter will use up approximately 0.006 kg of fat.",
+        "answer_image": {
+          "present": true,
+          "description": "Mathematical representation of energy conversion and fat loss calculation.",
+          "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759048/ncert/physics/6/img_26_1.png",
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "answer"
+        },
+        "question_images": [],
+        "answer_images": [
+          {
+            "present": true,
+            "description": "Mathematical representation of energy conversion and fat loss calculation.",
+            "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759048/ncert/physics/6/img_26_1.png",
+            "latex_extracted": null,
+            "source_page_number": null,
+            "source_image_index": null,
+            "ownership": "answer"
+          }
+        ],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of work-energy principles and energy conversion.",
+    "topics_tags": [
+      "Work",
+      "Energy",
+      "Fat Loss",
+      "Gravitational Force"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "Some text garbling and incomplete extraction."
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of kinetic energy of air and electrical power calculations.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759039/ncert/physics/6/img_25_0.png",
+        "latex_extracted": "\\frac{25}{100}\\times\\mathrm{Kinetic~energy~of~air}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.22",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 6,
+    "chapter_name": "Work Energy and Power",
+    "question_type": "mcq",
+    "question_text": "A family uses 8 kW of power. (a) Direct solar energy is incident on the horizontal surface at an average rate of 200 W per square meter. If 20% of this energy can be converted to useful electrical energy, how large an area is needed to supply 8 kW? (b) Compare this area to that of the roof of a typical house.",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "Direct solar energy is incident on the horizontal surface at an average rate of 200 W per square meter. If 20% of this energy can be converted to useful electrical energy, how large an area is needed to supply 8 kW?"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "Compare this area to that of the roof of a typical house."
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "How large an area is needed to supply 8 kW?",
+        "part_latex": null,
+        "answer_text": "The area required to generate 8 kW of electricity is 200 m².",
+        "answer_latex": "A = \\frac{P}{E} = \\frac{8 \\times 10^3}{200 \\times 0.2} = 200",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the area required using the formula A = P / (E * efficiency).",
+            "expression": "A = \\frac{P}{E \\cdot efficiency}"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the values: P = 8 kW, E = 200 W/m², efficiency = 0.2.",
+            "expression": "A = \\frac{8 \\times 10^3}{200 \\cdot 0.2} = 200"
+          }
+        ],
+        "final_answer": "Therefore, the area needed is 200 m².",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Compare this area to that of the roof of a typical house.",
+        "part_latex": null,
+        "answer_text": "The area of a typical house roof is approximately equivalent to 14 m × 14 m.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, the area required for solar panels is comparable to the roof area of a typical house.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic calculations and understanding of energy conversion.",
+    "topics_tags": [
+      "Solar Energy",
+      "Power",
+      "Area Calculation"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.23",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 6,
+    "chapter_name": "Work Energy and Power",
+    "question_type": "numerical",
+    "question_text": "A bullet of mass 0.012 kg is fired into a wooden block of mass 0.4 kg. The bullet's initial speed is 70 m/s. Calculate the final speed of the system after the bullet embeds itself in the block.",
+    "question_latex": "\\begin{array}{l}{{m u_{\\mathrm{b}}+M u_{\\mathrm{b}}=\\left(m+M\\right)\\nu}}\\\\ {{0.012\\times70+0.4\\times0=(0.012+0.4)\\nu}}\\\\ {{\\vdots.\\nu={\\frac{0.84}{0.412}}=2.04\\;\\mathrm{m}/s}}\\end{array}",
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the conservation of momentum for the bullet and block system.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759052/ncert/physics/6/img_28_0.png",
+      "latex_extracted": "\\begin{array}{l}{{m u_{\\mathrm{b}}+M u_{\\mathrm{b}}=\\left(m+M\\right)\\nu}}\\\\ {{0.012\\times70+0.4\\times0=(0.012+0.4)\\nu}}\\\\ {{\\vdots.\\nu={\\frac{0.84}{0.412}}=2.04\\;\\mathrm{m}/s}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The final speed of the system is 2.04 m/s.",
+    "answer_latex": "v = 2.04 \\text{ m/s}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Apply the conservation of momentum formula.",
+        "expression": "m u_{b} + M u_{b} = (m + M) \\nu"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values into the equation.",
+        "expression": "0.012 \\times 70 + 0.4 \\times 0 = (0.012 + 0.4) \\nu"
+      },
+      {
+        "step_number": 3,
+        "description": "Solve for the final speed \\nu.",
+        "expression": "\\nu = \\frac{0.84}{0.412} = 2.04"
+      }
+    ],
+    "final_answer": "Therefore, the final speed of the system is 2.04 m/s.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of momentum conservation and basic algebra.",
+    "topics_tags": [
+      "Conservation of Momentum",
+      "Bullet and Block",
+      "Final Speed"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the conservation of momentum for the bullet and block system.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759052/ncert/physics/6/img_28_0.png",
+        "latex_extracted": "\\begin{array}{l}{{m u_{\\mathrm{b}}+M u_{\\mathrm{b}}=\\left(m+M\\right)\\nu}}\\\\ {{0.012\\times70+0.4\\times0=(0.012+0.4)\\nu}}\\\\ {{\\vdots.\\nu={\\frac{0.84}{0.412}}=2.04\\;\\mathrm{m}/s}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.24",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 6,
+    "chapter_name": "Work Energy and Power",
+    "question_type": "numerical",
+    "question_text": "Calculate the height to which the wooden block will rise after the bullet embeds itself in it.",
+    "question_latex": ":h={\\frac{1}{2}}\\left({\\frac{\\nu^{2}}{g}}\\right)",
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the relationship between kinetic energy and potential energy.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759053/ncert/physics/6/img_28_1.png",
+      "latex_extracted": ":h={\\frac{1}{2}}\\left({\\frac{\\nu^{2}}{g}}\\right)",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The wooden block will rise to a height of 0.2123 m.",
+    "answer_latex": "h = 0.2123 \\text{ m}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Use the conservation of energy principle to relate kinetic and potential energy.",
+        "expression": "Potential Energy = Kinetic Energy"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the final speed and gravitational acceleration into the height formula.",
+        "expression": "h = \\frac{1}{2} \\left( \\frac{(2.04)^{2}}{9.81} \\right)"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the height.",
+        "expression": "h = 0.2123"
+      }
+    ],
+    "final_answer": "Therefore, the wooden block will rise to a height of 0.2123 m.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves applying energy conservation and basic calculations.",
+    "topics_tags": [
+      "Potential Energy",
+      "Kinetic Energy",
+      "Height Calculation"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the relationship between kinetic energy and potential energy.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759053/ncert/physics/6/img_28_1.png",
+        "latex_extracted": ":h={\\frac{1}{2}}\\left({\\frac{\\nu^{2}}{g}}\\right)",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.25",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 6,
+    "chapter_name": "Work Energy and Power",
+    "question_type": "conceptual",
+    "question_text": "Two inclined frictionless tracks, one gradual and the other steep, meet at point A from where two stones are allowed to slide down from rest, one on each track. Will the stones reach the bottom at the same time? Will they reach there with the same speed? Explain.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing two inclined tracks with stones sliding down.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759055/ncert/physics/6/img_29_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "No; the stone moving down the steep plane will reach the bottom first. Yes; the stones will reach the bottom with the same speed.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the stones will reach the bottom at different times but with the same speed.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of motion on inclined planes and energy conservation.",
+    "topics_tags": [
+      "Inclined Planes",
+      "Frictionless Motion",
+      "Speed Comparison"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing two inclined tracks with stones sliding down.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759055/ncert/physics/6/img_29_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.26",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 6,
+    "chapter_name": "Work Energy and Power",
+    "question_type": "numerical",
+    "question_text": "A 1 kg block situated on a rough incline is connected to a spring of spring constant 100 N/m as shown in Fig. 6.17. The block is released from rest with the spring in the unstretched position. The block moves 10 cm down the incline before coming to rest. Find the coefficient of friction between the block and the incline. Assume that the spring has a negligible mass and the pulley is frictionless.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The coefficient of friction can be calculated using the equilibrium condition of forces acting on the block.",
+    "answer_latex": "\\mu = \\frac{0.092}{0.799} = 0.115",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the forces acting on the block and set up the equilibrium equation.",
+        "expression": "mg \\sin 37^{\\circ} - \\mu mg \\cos 37^{\\circ} = 0"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values into the equation to find the coefficient of friction.",
+        "expression": "\\mu = \\frac{0.092}{0.799}"
+      }
+    ],
+    "final_answer": "Thus, the coefficient of friction between the block and the incline is 0.115.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing a block on a rough incline connected to a spring.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759088/ncert/physics/6/img_32_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of forces and equilibrium conditions.",
+    "topics_tags": [
+      "Friction",
+      "Inclined Plane",
+      "Spring"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing a block on a rough incline connected to a spring.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759088/ncert/physics/6/img_32_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q6.27",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 6,
+    "chapter_name": "Work Energy and Power",
+    "question_type": "numerical",
+    "question_text": "A bolt of mass 0.3 kg falls from the ceiling of an elevator moving down with an uniform speed of 7 m/s. It hits the floor of the elevator (length of the elevator = 3 m) and does not rebound. What is the heat produced by the impact? Would your answer be different if the elevator were stationary?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing a bolt falling in an elevator.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759094/ncert/physics/6/img_33_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The heat produced is equal to the loss of potential energy of the bolt.",
+    "answer_latex": "Heat = mgh = 0.3 \\times 9.8 \\times 3",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the potential energy lost by the bolt when it falls.",
+        "expression": "mgh = 0.3 \\times 9.8 \\times 3"
+      }
+    ],
+    "final_answer": "Therefore, the heat produced by the impact is equal to the potential energy lost.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic calculations of potential energy.",
+    "topics_tags": [
+      "Potential Energy",
+      "Impact",
+      "Heat Energy"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing a bolt falling in an elevator.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759094/ncert/physics/6/img_33_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.28",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 6,
+    "chapter_name": "Work Energy and Power",
+    "question_type": "numerical",
+    "question_text": "A trolley of mass 200 kg moves with a uniform speed of 36 km/h on a frictionless track. A child of mass 20 kg runs on the trolley from one end to the other (10 m away) with a speed of 4 m/s relative to the trolley in a direction opposite to its motion, and jumps out of the trolley. What is the final speed of the trolley? How much has the trolley moved from the time the child begins to run?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The final speed of the trolley can be calculated using the conservation of momentum. The initial momentum of the system is 2200 kg m/s. After the child runs and jumps out, the final momentum is 220v' - 80. Setting these equal gives us the final speed of the trolley.",
+    "answer_latex": "2200 = 220v' - 80 \\Rightarrow v' = 10.09 \\text{ m/s}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the initial momentum of the system.",
+        "expression": "2200 = (200 + 20) \\times 10"
+      },
+      {
+        "step_number": 2,
+        "description": "Set the initial momentum equal to the final momentum.",
+        "expression": "2200 = 220v' - 80"
+      },
+      {
+        "step_number": 3,
+        "description": "Solve for the final speed of the trolley.",
+        "expression": "v' = \\frac{2200 + 80}{220} = 10.09"
+      }
+    ],
+    "final_answer": "Therefore, the final speed of the trolley is approximately 10.09 m/s.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of momentum conservation and solving a linear equation.",
+    "topics_tags": [
+      "Conservation of Momentum",
+      "Trolley Problem",
+      "Relative Motion"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.29",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 6,
+    "chapter_name": "Work Energy and Power",
+    "question_type": "conceptual",
+    "question_text": "Which of the following potential energy curves in Fig. 6.18 cannot possibly describe the elastic collision of two billiard balls? Here r is the distance between centres of the balls.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The potential energy of a system of two masses is inversely proportional to the separation between them. The curves that do not satisfy the conditions of potential energy decreasing as they come closer cannot describe elastic collisions.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, curves (i), (ii), (iii), (iv), and (vi) cannot describe the elastic collisions between the billiard balls.",
+    "answer_image": {
+      "present": true,
+      "description": "Potential energy curves for elastic collisions of billiard balls.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759117/ncert/physics/6/img_35_1.jpg",
+      "latex_extracted": "\\begin{array}{c}{{\\mathrm{v}_{o p}\\Bigg|\\qquad\\left.\\frac{\\sqrt{\\displaystyle\\int}}{\\displaystyle\\frac{1}{\\displaystyle\\left|\\displaystyle\\frac{1\\mathrm{R}}{\\displaystyle\\left|\\frac{1\\mathrm{R}}{\\cdot\\ \\!\\epsilon}}\\right|}}{\\displaystyle\\left|\\displaystyle\\sum_{\\mathrm{d}\\mathrm{e}}\\right.}\\qquad\\left.\\frac{\\mathrm{v}_{o p}}{\\textstyle\\left|\\displaystyle\\frac{\\mathrm{A}}{\\mathrm{R}}\\right|}}}\\\\ {{\\mathrm{v}_{o\\mathrm{e}}\\right|\\qquad\\left.\\mathrm{v}_{o}\\right|}\\qquad\\left.\\left.\\left.\\left.\\left.\\sum_{\\mathrm{k}}\\right|\\qquad\\left.\\left.\\frac{1}{\\mathrm{k}}\\right.\\right.\\qquad\\left.\\left.\\frac{\\mathrm{t}}{\\mathrm{ta}}\\right\\rangle}}\\\\ {{\\left|\\displaystyle\\left|\\displaystyle\\sum_{\\mathrm{k}}\\right|\\qquad\\left.\\left.\\mathrm{v}_{o}\\right|}\\right.\\left.\\left.\\left.\\right.\\right.\\right.\\right.\\right.\\qquad\\left.\\left|\\frac{\\frac{\\frac{\\frac{\\mathrm{\\frac{\\mathrm{\\mathrm{k}}}{\\mathrm{\\mathrm{\\bar{\\frac{\\mathrm{t}}}}}}}{\\psi}{\\psi}{\\psi}{\\psi}}{{\\right.\\left|\\right.\\right.\\psi}}}}}\\right.\\right.\\right.\\right.\\right.\\right.\\right.\\right.\\right.",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of potential energy concepts and elastic collisions.",
+    "topics_tags": [
+      "Potential Energy",
+      "Elastic Collision",
+      "Billiard Balls"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Potential energy curves for elastic collisions of billiard balls.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759117/ncert/physics/6/img_35_1.jpg",
+        "latex_extracted": "\\begin{array}{c}{{\\mathrm{v}_{o p}\\Bigg|\\qquad\\left.\\frac{\\sqrt{\\displaystyle\\int}}{\\displaystyle\\frac{1}{\\displaystyle\\left|\\displaystyle\\frac{1\\mathrm{R}}{\\displaystyle\\left|\\frac{1\\mathrm{R}}{\\cdot\\ \\!\\epsilon}}\\right|}}{\\displaystyle\\left|\\displaystyle\\sum_{\\mathrm{d}\\mathrm{e}}\\right.}\\qquad\\left.\\frac{\\mathrm{v}_{o p}}{\\textstyle\\left|\\displaystyle\\frac{\\mathrm{A}}{\\mathrm{R}}\\right|}}}\\\\ {{\\mathrm{v}_{o\\mathrm{e}}\\right|\\qquad\\left.\\mathrm{v}_{o}\\right|}\\qquad\\left.\\left.\\left.\\left.\\left.\\sum_{\\mathrm{k}}\\right|\\qquad\\left.\\left.\\frac{1}{\\mathrm{k}}\\right.\\right.\\qquad\\left.\\left.\\frac{\\mathrm{t}}{\\mathrm{ta}}\\right\\rangle}}\\\\ {{\\left|\\displaystyle\\left|\\displaystyle\\sum_{\\mathrm{k}}\\right|\\qquad\\left.\\left.\\mathrm{v}_{o}\\right|}\\right.\\left.\\left.\\left.\\right.\\right.\\right.\\right.\\right.\\qquad\\left.\\left|\\frac{\\frac{\\frac{\\frac{\\mathrm{\\frac{\\mathrm{\\mathrm{k}}}{\\mathrm{\\mathrm{\\bar{\\frac{\\mathrm{t}}}}}}}{\\psi}{\\psi}{\\psi}{\\psi}}{{\\right.\\left|\\right.\\right.\\psi}}}}}\\right.\\right.\\right.\\right.\\right.\\right.\\right.\\right.\\right.",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q6.30",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 6,
+    "chapter_name": "Work Energy and Power",
+    "question_type": "conceptual",
+    "question_text": "Consider the decay of a free neutron at rest: n → p + e–. Show that the two-body decay of this type must necessarily give an electron of fixed energy and, therefore, cannot account for the observed continuous energy distribution in the β-decay of a neutron or a nucleus.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Decay process of a free neutron showing the products of decay.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759122/ncert/physics/6/img_36_0.jpg",
+      "latex_extracted": "\\left.\\begin{array}{c}{{\\displaystyle\\frac{g}{\\frac{g}{\\sqrt{\\frac{g}{5}}}\\frac{g}{\\frac{g}{5}}}}\\right|\\nonumber\\nonumber\\begin{array}{c}{{\\displaystyle\\frac{g}{g}}}\\\\ {{\\displaystyle\\frac{g}{\\frac{g}{5}}\\frac{g}{\\frac{g}{5}}}}\\end{array}\\right)\\bigg/\\nonumber}}\\\\ {{\\left.\\frac{\\mathrm{kinetenergeseg}\\langle\\Psi\\rangle\\right.}}\\\\ {{\\displaystyle\\frac{g}{g}\\frac{g}{g}\\right.\\left\\langle\\begin{array}{c}{{\\displaystyle\\cos(\\pi\\mathrm{weg}\\langle\\Psi\\rangle}}\\\\ {{\\displaystyle\\frac{g}{g}{g}}\\end{array}\\right|}}}\\end{array}\\right.",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The decay process of a free neutron at rest results in a fixed energy for the emitted electron due to conservation of momentum and energy. This fixed energy cannot account for the continuous energy distribution observed in β-decay.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the two-body decay cannot explain the continuous energy distribution in β-decay.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Involves understanding of particle decay and energy conservation principles.",
+    "topics_tags": [
+      "Neutron Decay",
+      "Beta Decay",
+      "Energy Conservation"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Decay process of a free neutron showing the products of decay.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777759122/ncert/physics/6/img_36_0.jpg",
+        "latex_extracted": "\\left.\\begin{array}{c}{{\\displaystyle\\frac{g}{\\frac{g}{\\sqrt{\\frac{g}{5}}}\\frac{g}{\\frac{g}{5}}}}\\right|\\nonumber\\nonumber\\begin{array}{c}{{\\displaystyle\\frac{g}{g}}}\\\\ {{\\displaystyle\\frac{g}{\\frac{g}{5}}\\frac{g}{\\frac{g}{5}}}}\\end{array}\\right)\\bigg/\\nonumber}}\\\\ {{\\left.\\frac{\\mathrm{kinetenergeseg}\\langle\\Psi\\rangle\\right.}}\\\\ {{\\displaystyle\\frac{g}{g}\\frac{g}{g}\\right.\\left\\langle\\begin{array}{c}{{\\displaystyle\\cos(\\pi\\mathrm{weg}\\langle\\Psi\\rangle}}\\\\ {{\\displaystyle\\frac{g}{g}{g}}\\end{array}\\right|}}}\\end{array}\\right.",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.31",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 6,
+    "chapter_name": "Work Energy and Power",
+    "question_type": "conceptual",
+    "question_text": "Explain why the two-body decay is unable to explain the continuous energy distribution in the β-decay of a neutron or a nucleus.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The two-body decay is unable to explain the continuous energy distribution in β-decay because it assumes that the decay products share the energy equally, which does not account for the presence of the neutrino that allows for a range of energy distributions.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the presence of the neutrino explains the continuous energy distribution observed in β-decay.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of particle decay and energy distribution concepts.",
+    "topics_tags": [
+      "Beta Decay",
+      "Neutrino",
+      "Energy Distribution"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  }
+]

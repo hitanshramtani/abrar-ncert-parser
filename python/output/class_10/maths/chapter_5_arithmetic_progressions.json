@@ -1,0 +1,3298 @@
+[
+  {
+    "question_id": "Q5.1",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "arithmetic progressions",
+    "question_type": "conceptual",
+    "question_text": "In which of the following situations, does the list of numbers involved make as arithmetic progression and why? (i) The taxi fare after each km when the fare is Rs 15 for the first km and Rs 8 for each additional km. (ii) The amount of air present in a cylinder when a vacuum pump removes of the air remaining in the cylinder at a time. (iii) The cost of digging a well after every metre of digging, when it costs Rs 150 for the first metre and rises by Rs 50 for each subsequent metre. (iv) The amount of money in the account every year, when Rs 10000 is deposited at compound interest at 8% per annum.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "(i) It can be observed that 15, 23, 31, 39 forms an A.P. because every term is 8 more than the preceding term. (ii) The adjacent terms of this series do not have the same difference between them. Therefore, this is not an A.P. (iii) 150, 200, 250, 300 forms an A.P. because every term is 50 more than the preceding term. (iv) The adjacent terms of this series do not have the same difference between them. Therefore, this is not an A.P.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, only (i) and (iii) form an arithmetic progression.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of arithmetic progression and reasoning for each case.",
+    "topics_tags": [
+      "Arithmetic Progression",
+      "Mathematical Reasoning",
+      "Sequences"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.2",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "arithmetic progressions",
+    "question_type": "mcq",
+    "question_text": "Write first four terms of the A.P. when the first term a and the common difference d are given as follows (i) a = 10, d = 10 (ii) a = -2, d = 0 (iii) a = 4, d = -3 (iv) a = -1, d = ? (v) a = -1.25, d = -0.25.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "a = 10, d = 10",
+        "part_latex": null,
+        "answer_text": "The series will be 10, 20, 30, 40.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the first four terms using the formula a_n = a + (n-1)d.",
+            "expression": "10, 10 + 10, 10 + 2*10, 10 + 3*10"
+          }
+        ],
+        "final_answer": "First four terms of this A.P. will be 10, 20, 30, and 40.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "a = -2, d = 0",
+        "part_latex": null,
+        "answer_text": "The series will be -2, -2, -2, -2.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Since d = 0, all terms are the same.",
+            "expression": null
+          }
+        ],
+        "final_answer": "First four terms of this A.P. will be -2, -2, -2, and -2.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "a = 4, d = -3",
+        "part_latex": null,
+        "answer_text": "The series will be 4, 1, -2, -5.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the first four terms using the formula a_n = a + (n-1)d.",
+            "expression": "4, 4 - 3, 4 - 2*3, 4 - 3*3"
+          }
+        ],
+        "final_answer": "First four terms of this A.P. will be 4, 1, -2, and -5.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iv)",
+        "part_text": "a = -1, d = ?",
+        "part_latex": null,
+        "answer_text": "Answer missing due to incomplete information.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Cannot determine without the value of d.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(v)",
+        "part_text": "a = -1.25, d = -0.25",
+        "part_latex": null,
+        "answer_text": "The series will be -1.25, -1.50, -1.75, -2.00.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the first four terms using the formula a_n = a + (n-1)d.",
+            "expression": "-1.25, -1.25 - 0.25, -1.50 - 0.25, -1.75 - 0.25"
+          }
+        ],
+        "final_answer": "First four terms of this A.P. will be -1.25, -1.50, -1.75, and -2.00.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires basic understanding of arithmetic progressions and calculations.",
+    "topics_tags": [
+      "Arithmetic Progression",
+      "Sequences",
+      "Mathematics"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.3",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "arithmetic progressions",
+    "question_type": "mcq",
+    "question_text": "For the following A.P.s, write the first term and the common difference.\n(i) 3, 1, - 1, - 3 …\n(ii) - 5, - 1, 3, 7 …\n(iii)\n(iv) 0.6, 1.7, 2.8, 3.9 …",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "3, 1, - 1, - 3 …",
+        "part_latex": null,
+        "answer_text": "First term, a = 3; Common difference, d = 1 - 3 = -2.",
+        "answer_latex": "a = 3, d = 1 - 3 = -2",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the first term and calculate the common difference.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Therefore, the first term is 3 and the common difference is -2.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "- 5, - 1, 3, 7 …",
+        "part_latex": null,
+        "answer_text": "First term, a = -5; Common difference, d = (-1) - (-5) = 4.",
+        "answer_latex": "a = -5, d = (-1) - (-5) = 4",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the first term and calculate the common difference.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Therefore, the first term is -5 and the common difference is 4.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iv)",
+        "part_text": "0.6, 1.7, 2.8, 3.9 …",
+        "part_latex": null,
+        "answer_text": "First term, a = 0.6; Common difference, d = 1.7 - 0.6 = 1.1.",
+        "answer_latex": "a = 0.6, d = 1.7 - 0.6 = 1.1",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the first term and calculate the common difference.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Therefore, the first term is 0.6 and the common difference is 1.1.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of arithmetic progressions and basic calculations.",
+    "topics_tags": [
+      "Arithmetic Progression",
+      "Common Difference",
+      "First Term"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.4",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "arithmetic progressions",
+    "question_type": "numerical",
+    "question_text": "Fill in the blanks in the following table, given that a is the first term, d the common difference and a the nth term of the A.P.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "I.a = 7, d = 3, n = 8, a = 28. II. d = 2. III. a = 46. IV. n = 10. V. a = 3.5.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the nth term for the first row using the formula a = a + (n - 1)d.",
+        "expression": "a = 7 + (8 - 1) * 3 = 28"
+      },
+      {
+        "step_number": 2,
+        "description": "Find the common difference for the second row.",
+        "expression": "0 = -18 + (10 - 1)d \\Rightarrow d = 2"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the first term for the third row.",
+        "expression": "-5 = a + (18 - 1)(-3) \\Rightarrow a = 46"
+      },
+      {
+        "step_number": 4,
+        "description": "Find n for the fourth row using the nth term formula.",
+        "expression": "3.6 = -18.9 + (n - 1) * 2.5 \\Rightarrow n = 10"
+      },
+      {
+        "step_number": 5,
+        "description": "Calculate the first term for the fifth row.",
+        "expression": "a = 3.5 + (105 - 1) * 0 \\Rightarrow a = 3.5"
+      }
+    ],
+    "final_answer": "Thus, the filled values are: I. 28, II. 2, III. 46, IV. 10, V. 3.5.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of A.P. formulas and basic calculations.",
+    "topics_tags": [
+      "Arithmetic Progression",
+      "Common Difference",
+      "Nth Term"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.5",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "arithmetic progressions",
+    "question_type": "mcq",
+    "question_text": "Choose the correct choice in the following and justify: I. 30th term of the A.P: 10, 7, 4, …, is A. 97 B. 77 C. -77 D. -87",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "97"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "77"
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "-77"
+      },
+      {
+        "option_label": "(D)",
+        "option_text": "-87"
+      }
+    ],
+    "correct_option": "(C)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The 30th term can be calculated using the formula a_n = a + (n - 1)d.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the first term and common difference.",
+        "expression": "a = 10, d = 7 - 10 = -3"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute into the nth term formula.",
+        "expression": "a_{30} = 10 + (30 - 1)(-3)"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the 30th term.",
+        "expression": "a_{30} = 10 - 87 = -77"
+      }
+    ],
+    "final_answer": "Thus, the 30th term of the A.P. is -77.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of A.P. and application of the formula.",
+    "topics_tags": [
+      "Arithmetic Progression",
+      "Nth Term",
+      "Sequence"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.6",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "arithmetic progressions",
+    "question_type": "multipart",
+    "question_text": "In the following APs find the missing term in the boxes I. II. III.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(I)",
+        "part_text": "For this A.P., a = 2, a = 26. We know that, a = a + (n - 1) d.",
+        "part_latex": null,
+        "answer_text": "Therefore, 14 is the missing term.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Set up the equation for the arithmetic progression.",
+            "expression": "26 = 2 + 2d"
+          },
+          {
+            "step_number": 2,
+            "description": "Solve for d.",
+            "expression": "d = 12"
+          },
+          {
+            "step_number": 3,
+            "description": "Find the missing term using the value of d.",
+            "expression": "a = 2 + (2 - 1) * 12 = 14"
+          }
+        ],
+        "final_answer": "Thus, the missing term is 14.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(II)",
+        "part_text": "For this A.P., a = 13 and a = 3. We know that, a = a + (n - 1) d.",
+        "part_latex": null,
+        "answer_text": "Therefore, the missing term is 8.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Set up the equations based on the given terms.",
+            "expression": "13 = a + d (I) and 3 = a + 3d (II)"
+          },
+          {
+            "step_number": 2,
+            "description": "Subtract equation (I) from (II) to find d.",
+            "expression": "-10 = 2d"
+          },
+          {
+            "step_number": 3,
+            "description": "Solve for a using the value of d.",
+            "expression": "a = 18"
+          },
+          {
+            "step_number": 4,
+            "description": "Find the missing term using the value of a and d.",
+            "expression": "a = 18 + (3 - 1)(-5) = 8"
+          }
+        ],
+        "final_answer": "Thus, the missing term is 8.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(III)",
+        "part_text": "For this A.P., we know that.",
+        "part_latex": null,
+        "answer_text": null,
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical expressions related to arithmetic progressions.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659756/ncert/maths/5/img_10_0.png",
+      "latex_extracted": "\\begin{array}{c}{{=-{\\frac{1}{2}}-\\left(-3\\right)}}\\\\ {{=-{\\frac{1}{2}}+3={\\frac{5}{2}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of arithmetic progressions and solving equations.",
+    "topics_tags": [
+      "Arithmetic Progression",
+      "Mathematical Equations",
+      "Finding Terms"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical expressions related to arithmetic progressions.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659756/ncert/maths/5/img_10_0.png",
+        "latex_extracted": "\\begin{array}{c}{{=-{\\frac{1}{2}}-\\left(-3\\right)}}\\\\ {{=-{\\frac{1}{2}}+3={\\frac{5}{2}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q5.7",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "arithmetic progressions",
+    "question_type": "numerical",
+    "question_text": "Which term of the A.P. 3, 8, 13, 18, … is 78?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Hence, 16th term of this A.P. is 78.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the first term and common difference of the A.P.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Set up the equation for the nth term of the A.P.",
+        "expression": "78 = 3 + (n - 1) \\cdot 5"
+      },
+      {
+        "step_number": 3,
+        "description": "Solve for n.",
+        "expression": "(n - 1) = 15"
+      }
+    ],
+    "final_answer": "Therefore, the 16th term of the A.P. is 78.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of A.P. and solving a simple equation.",
+    "topics_tags": [
+      "Arithmetic Progression",
+      "Nth Term",
+      "Sequences"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.8",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "arithmetic progressions",
+    "question_type": "numerical",
+    "question_text": "Find the number of terms in the A.P. 7, 13, 19, …, 205.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, this given series has 34 terms in it.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the first term and common difference of the A.P.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Set up the equation for the number of terms in the A.P.",
+        "expression": "205 = 7 + (n - 1) \\cdot 6"
+      },
+      {
+        "step_number": 3,
+        "description": "Solve for n.",
+        "expression": "n = 34"
+      }
+    ],
+    "final_answer": "Thus, the A.P. has 34 terms.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves setting up and solving a linear equation.",
+    "topics_tags": [
+      "Arithmetic Progression",
+      "Number of Terms",
+      "Sequences"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.9",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "arithmetic progressions",
+    "question_type": "mcq",
+    "question_text": "If the 3rd and the 9th terms of an A.P. are 4 and -8 respectively. Which term of this A.P. is zero?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The 5th term of this A.P. is 0.",
+    "answer_latex": "n = 5",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set up the equations for the 3rd and 9th terms based on the A.P. formula.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Subtract the equations to find the common difference.",
+        "expression": "-12 = 6d"
+      },
+      {
+        "step_number": 3,
+        "description": "Solve for d and then find the term where the value is zero.",
+        "expression": "d = -2"
+      },
+      {
+        "step_number": 4,
+        "description": "Substitute d back to find the term that equals zero.",
+        "expression": "0 = 8 + (n - 1)(-2)"
+      }
+    ],
+    "final_answer": "Hence, the 5th term of this A.P. is 0.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps and understanding of A.P. properties.",
+    "topics_tags": [
+      "Arithmetic Progression",
+      "Zero Term",
+      "Sequences"
+    ],
+    "confidence_score": 0.93,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.10",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "arithmetic progressions",
+    "question_type": "mcq",
+    "question_text": "If 17th term of an A.P. exceeds its 10th term by 7. Find the common difference.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The common difference is found to be 1.",
+    "answer_latex": "d = 1",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set up the equation for the 17th and 10th terms based on the A.P. formula.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Subtract the equations for the 17th and 10th terms to find the common difference.",
+        "expression": "7d = 7"
+      },
+      {
+        "step_number": 3,
+        "description": "Solve for d.",
+        "expression": "d = 1"
+      }
+    ],
+    "final_answer": "Therefore, the common difference is 1.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of A.P. properties and basic algebra.",
+    "topics_tags": [
+      "Arithmetic Progression",
+      "Common Difference",
+      "Sequences"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.12",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "arithmetic progressions",
+    "question_type": "numerical",
+    "question_text": "Which term of the A.P. 3, 15, 27, 39, … will be 132 more than its 54th term?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical expression showing the calculation of the term in an arithmetic progression.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659767/ncert/maths/5/img_19_0.png",
+      "latex_extracted": "\\begin{array}{c}{{n=54+{\\frac{132}{12}}}}\\\\ {{=54+{\\frac{12}{1=65^{\\mathrm{a}}}}\\tan}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Therefore, the 65th term was 132 more than the 54th term.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the 54th term using the formula for the nth term of an A.P.",
+        "expression": "a_{54} = a + (54 - 1)d = 3 + (53)(12) = 639"
+      },
+      {
+        "step_number": 2,
+        "description": "Set up the equation for the term that is 132 more than the 54th term.",
+        "expression": "a_n = 639 + 132 = 771"
+      },
+      {
+        "step_number": 3,
+        "description": "Solve for n using the nth term formula.",
+        "expression": "771 = 3 + (n - 1)12"
+      },
+      {
+        "step_number": 4,
+        "description": "Rearrange and solve for n.",
+        "expression": "(n - 1) = 64 \\Rightarrow n = 65"
+      }
+    ],
+    "final_answer": "Therefore, the 65th term was 132 more than the 54th term.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps of calculation and understanding of arithmetic progressions.",
+    "topics_tags": [
+      "Arithmetic Progression",
+      "Nth Term",
+      "Mathematical Calculation"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical expression showing the calculation of the term in an arithmetic progression.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659767/ncert/maths/5/img_19_0.png",
+        "latex_extracted": "\\begin{array}{c}{{n=54+{\\frac{132}{12}}}}\\\\ {{=54+{\\frac{12}{1=65^{\\mathrm{a}}}}\\tan}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.13",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "arithmetic progressions",
+    "question_type": "numerical",
+    "question_text": "How many three digit numbers are divisible by 7?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, 128 three-digit numbers are divisible by 7.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the first three-digit number divisible by 7.",
+        "expression": "First number = 105"
+      },
+      {
+        "step_number": 2,
+        "description": "Identify the last three-digit number divisible by 7.",
+        "expression": "Last number = 994"
+      },
+      {
+        "step_number": 3,
+        "description": "Set up the equation for the nth term of the A.P.",
+        "expression": "994 = 105 + (n - 1)7"
+      },
+      {
+        "step_number": 4,
+        "description": "Solve for n.",
+        "expression": "(n - 1) = 127 \\Rightarrow n = 128"
+      }
+    ],
+    "final_answer": "Therefore, 128 three-digit numbers are divisible by 7.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires basic understanding of arithmetic progressions and simple calculations.",
+    "topics_tags": [
+      "Divisibility",
+      "Arithmetic Progression",
+      "Three-Digit Numbers"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.14",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "arithmetic progressions",
+    "question_type": "numerical",
+    "question_text": "How many multiples of 4 lie between 10 and 250?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, there are 60 multiples of 4 between 10 and 250.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the first multiple of 4 greater than 10.",
+        "expression": "First multiple = 12"
+      },
+      {
+        "step_number": 2,
+        "description": "Identify the last multiple of 4 less than or equal to 250.",
+        "expression": "Last multiple = 248"
+      },
+      {
+        "step_number": 3,
+        "description": "Set up the equation for the nth term of the A.P.",
+        "expression": "248 = 12 + (n - 1)4"
+      },
+      {
+        "step_number": 4,
+        "description": "Solve for n.",
+        "expression": "(n - 1) = 59 \\Rightarrow n = 60"
+      }
+    ],
+    "final_answer": "Therefore, there are 60 multiples of 4 between 10 and 250.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical expressions showing the calculations for multiples of 4.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659768/ncert/maths/5/img_21_0.png",
+      "latex_extracted": "\\begin{array}{l}{{a=12}}\\\\ {{d=4}}\\\\ {{a_{n}=248}}\\\\ {{a_{n}=n-1}}\\\\ {{a_{n}=n-1}}\\\\ {{\\vdots}}\\\\ {{a=60}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic arithmetic and understanding of sequences.",
+    "topics_tags": [
+      "Multiples",
+      "Arithmetic Progression",
+      "Counting"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical expressions showing the calculations for multiples of 4.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659768/ncert/maths/5/img_21_0.png",
+        "latex_extracted": "\\begin{array}{l}{{a=12}}\\\\ {{d=4}}\\\\ {{a_{n}=248}}\\\\ {{a_{n}=n-1}}\\\\ {{a_{n}=n-1}}\\\\ {{\\vdots}}\\\\ {{a=60}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q5.15",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "arithmetic progressions",
+    "question_type": "numerical",
+    "question_text": "For what value of n, are the nth terms of two APs 63, 65, 67, and 3, 10, 17, … equal?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, the 13th terms of both these A.P.s are equal to each other.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the first term and common difference of the first A.P.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Write the nth term formula for the first A.P.",
+        "expression": "a_1 = 63 + (n - 1) \\cdot 2"
+      },
+      {
+        "step_number": 3,
+        "description": "Identify the first term and common difference of the second A.P.",
+        "expression": null
+      },
+      {
+        "step_number": 4,
+        "description": "Write the nth term formula for the second A.P.",
+        "expression": "a_2 = 3 + (n - 1) \\cdot 7"
+      },
+      {
+        "step_number": 5,
+        "description": "Set the two nth term equations equal to each other.",
+        "expression": "61 + 2n = 7n - 4"
+      },
+      {
+        "step_number": 6,
+        "description": "Solve for n.",
+        "expression": "5n = 65 \\Rightarrow n = 13"
+      }
+    ],
+    "final_answer": "Therefore, the value of n is 13.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves setting up equations and solving for n, requiring understanding of A.P.",
+    "topics_tags": [
+      "Arithmetic Progression",
+      "Nth Term",
+      "Equations"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.16",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "arithmetic progressions",
+    "question_type": "numerical",
+    "question_text": "Determine the A.P. whose third term is 16 and the 7th term exceeds the 5th term by 12.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, the A.P. will be 4, 10, 16, 22, …",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set up the equation for the third term.",
+        "expression": "a + 2d = 16"
+      },
+      {
+        "step_number": 2,
+        "description": "Set up the equation for the difference between the 7th and 5th terms.",
+        "expression": "(a + 6d) - (a + 4d) = 12"
+      },
+      {
+        "step_number": 3,
+        "description": "Solve for d.",
+        "expression": "2d = 12 \\Rightarrow d = 6"
+      },
+      {
+        "step_number": 4,
+        "description": "Substitute d back into the equation for the third term.",
+        "expression": "a + 2(6) = 16"
+      },
+      {
+        "step_number": 5,
+        "description": "Solve for a.",
+        "expression": "a = 4"
+      }
+    ],
+    "final_answer": "Therefore, the A.P. will be 4, 10, 16, 22, …",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires basic algebraic manipulation and understanding of A.P.",
+    "topics_tags": [
+      "Arithmetic Progression",
+      "Terms",
+      "Algebra"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.17",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "arithmetic progressions",
+    "question_type": "numerical",
+    "question_text": "Find the 20th term from the last term of the A.P. 3, 8, 13, …, 253.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, the 20th term from the last term is 158.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the common difference of the A.P.",
+        "expression": "d = 5"
+      },
+      {
+        "step_number": 2,
+        "description": "Write the A.P. in reverse order.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Set up the equation for the 20th term from the last.",
+        "expression": "a_{20} = 253 + (19)(-5)"
+      },
+      {
+        "step_number": 4,
+        "description": "Calculate the 20th term.",
+        "expression": "a_{20} = 253 - 95 = 158"
+      }
+    ],
+    "final_answer": "Therefore, the 20th term from the last term is 158.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic calculations and understanding of A.P. terms.",
+    "topics_tags": [
+      "Arithmetic Progression",
+      "Terms",
+      "Reverse Order"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.18",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "arithmetic progressions",
+    "question_type": "mcq",
+    "question_text": "The sum of 4th and 8th terms of an A.P. is 24 and the sum of the 6th and 10th terms is 44. Find the first three terms of the A.P.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, the first three terms of the A.P. are -13, -8, -3.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set up the equations based on the given sums.",
+        "expression": "2a + 10d = 24"
+      },
+      {
+        "step_number": 2,
+        "description": "Set up the second equation for the other sum.",
+        "expression": "2a + 14d = 44"
+      },
+      {
+        "step_number": 3,
+        "description": "Subtract the first equation from the second.",
+        "expression": "2d = 10 \\Rightarrow d = 5"
+      },
+      {
+        "step_number": 4,
+        "description": "Substitute d back into the first equation to find a.",
+        "expression": "a + 5(5) = 12 \\Rightarrow a = -13"
+      }
+    ],
+    "final_answer": "Therefore, the first three terms of the A.P. are -13, -8, -3.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves setting up and solving simultaneous equations.",
+    "topics_tags": [
+      "Arithmetic Progression",
+      "Terms",
+      "Equations"
+    ],
+    "confidence_score": 0.94,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.19",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "arithmetic progressions",
+    "question_type": "numerical",
+    "question_text": "Ramkali saved Rs 5 in the first week of a year and then increased her weekly saving by Rs 1.75. If in the nth week, her weekly savings become Rs 20.75, find n.",
+    "question_latex": "\\begin{array}{c}{{20.75=5+(n-1)1.75}}\\\\ {{15.75=(n-1)1.75}}\\\\ {{(n-1)={\\frac{15.75}{1.75}}={\\frac{1575}{175}}}}\\end{array}",
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of the equation for weekly savings in an arithmetic progression.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659770/ncert/maths/5/img_25_0.png",
+      "latex_extracted": "\\begin{array}{c}{{20.75=5+(n-1)1.75}}\\\\ {{15.75=(n-1)1.75}}\\\\ {{(n-1)={\\frac{15.75}{1.75}}={\\frac{1575}{175}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Hence, n is 10.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set up the equation based on the arithmetic progression formula.",
+        "expression": "20.75 = 5 + (n - 1) * 1.75"
+      },
+      {
+        "step_number": 2,
+        "description": "Rearrange the equation to solve for n.",
+        "expression": "n - 1 = 9"
+      }
+    ],
+    "final_answer": "Therefore, n is 10.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of arithmetic progression and basic algebra.",
+    "topics_tags": [
+      "Arithmetic Progression",
+      "Savings",
+      "Algebra"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the equation for weekly savings in an arithmetic progression.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659770/ncert/maths/5/img_25_0.png",
+        "latex_extracted": "\\begin{array}{c}{{20.75=5+(n-1)1.75}}\\\\ {{15.75=(n-1)1.75}}\\\\ {{(n-1)={\\frac{15.75}{1.75}}={\\frac{1575}{175}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.20",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "arithmetic progressions",
+    "question_type": "numerical",
+    "question_text": "Find the sum of the following APs: (i) 2, 7, 12, …, to 10 terms.",
+    "question_latex": "\\begin{array}{c}{{S_{n}=\\frac{n}{2}\\bigl[2a+\\bigl(n-1\\bigr)d\\bigr]}}\\\\ {{S_{10}=\\frac{10}{2}\\bigl[2(2)+\\bigl(10-1\\bigr)5\\bigr]}}\\\\ {{=5\\bigl[4+\\bigl(9\\bigr)\\times\\bigl(5\\bigr)\\bigr]}}\\\\ {{=5\\bigl(5\\bigr)\\bigl(24+\\bigr(9\\bigr)\\bigr)}}\\end{array}",
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of the sum of the first 10 terms of an arithmetic progression.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659772/ncert/maths/5/img_26_0.png",
+      "latex_extracted": "\\begin{array}{c}{{S_{n}=\\frac{n}{2}\\bigl[2a+\\bigl(n-1\\bigr)d\\bigr]}}\\\\ {{S_{10}=\\frac{10}{2}\\bigl[2(2)+\\bigl(10-1\\bigr)5\\bigr]}}\\\\ {{=5\\bigl[4+\\bigl(9\\bigr)\\times\\bigl(5\\bigr)\\bigr]}}\\\\ {{=5\\bigl(5\\bigr)\\bigl(24+\\bigr(9\\bigr)\\bigr)}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The sum of the first 10 terms is 250.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the first term and common difference.",
+        "expression": "a = 2, d = 5"
+      },
+      {
+        "step_number": 2,
+        "description": "Use the sum formula for the first n terms of an AP.",
+        "expression": "S_{10} = \\frac{10}{2}[2(2) + (10-1)5]"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the sum.",
+        "expression": "S_{10} = 5[4 + 45] = 250"
+      }
+    ],
+    "final_answer": "Therefore, the sum of the first 10 terms is 250.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires application of the sum formula for arithmetic progressions.",
+    "topics_tags": [
+      "Arithmetic Progression",
+      "Sum of Terms",
+      "Mathematics"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the sum of the first 10 terms of an arithmetic progression.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659772/ncert/maths/5/img_26_0.png",
+        "latex_extracted": "\\begin{array}{c}{{S_{n}=\\frac{n}{2}\\bigl[2a+\\bigl(n-1\\bigr)d\\bigr]}}\\\\ {{S_{10}=\\frac{10}{2}\\bigl[2(2)+\\bigl(10-1\\bigr)5\\bigr]}}\\\\ {{=5\\bigl[4+\\bigl(9\\bigr)\\times\\bigl(5\\bigr)\\bigr]}}\\\\ {{=5\\bigl(5\\bigr)\\bigl(24+\\bigr(9\\bigr)\\bigr)}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.21",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "arithmetic progressions",
+    "question_type": "multipart",
+    "question_text": "Find the sums given below\n(i) 7 + 14 + ………… + 84\n(ii) 34 + 32 + 30 + ……….. + 10\n(iii) - 5 + ( - 8) + ( - 11) + ………… + ( - 230)",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical derivation for the sum of an arithmetic progression.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659783/ncert/maths/5/img_28_0.png",
+      "latex_extracted": "\\begin{array}{c}{{S_{n}={\\frac{n}{2}}(a+l)}}\\\\ {{S_{n}={\\frac{23}{2}}[7+84]}}\\\\ {{={\\frac{23\\times91}{2}}={\\frac{2093}{2}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "7 + 14 + ………… + 84",
+        "part_latex": null,
+        "answer_text": "The sum of the series is  2093/2.",
+        "answer_latex": "\\frac{2093}{2}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the first term (a) and last term (l) of the A.P.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the number of terms (n) using the formula l = a + (n - 1)d.",
+            "expression": "n = 23"
+          },
+          {
+            "step_number": 3,
+            "description": "Use the sum formula S_n = \\frac{n}{2}(a + l) to find the sum.",
+            "expression": "S_n = \\frac{23}{2}(7 + 84)"
+          }
+        ],
+        "final_answer": "Therefore, the sum of the series is \\frac{2093}{2}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "34 + 32 + 30 + ……….. + 10",
+        "part_latex": null,
+        "answer_text": "The sum of the series is 440.",
+        "answer_latex": "440",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the first term (a) and last term (l) of the A.P.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the number of terms (n) using the formula l = a + (n - 1)d.",
+            "expression": "n = 13"
+          },
+          {
+            "step_number": 3,
+            "description": "Use the sum formula S_n = \\frac{n}{2}(a + l) to find the sum.",
+            "expression": "S_{13} = \\frac{13}{2}(34 + 10)"
+          }
+        ],
+        "final_answer": "Therefore, the sum of the series is 440.",
+        "answer_image": {
+          "present": true,
+          "description": "Mathematical derivation for the sum of the arithmetic progression.",
+          "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659785/ncert/maths/5/img_29_0.png",
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "answer"
+        },
+        "question_images": [],
+        "answer_images": [
+          {
+            "present": true,
+            "description": "Mathematical derivation for the sum of the arithmetic progression.",
+            "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659785/ncert/maths/5/img_29_0.png",
+            "latex_extracted": null,
+            "source_page_number": null,
+            "source_image_index": null,
+            "ownership": "answer"
+          }
+        ],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "- 5 + ( - 8) + ( - 11) + ………… + ( - 230)",
+        "part_latex": null,
+        "answer_text": "The sum of the series is -8930.",
+        "answer_latex": "-8930",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the first term (a) and last term (l) of the A.P.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the number of terms (n) using the formula l = a + (n - 1)d.",
+            "expression": "n = 76"
+          },
+          {
+            "step_number": 3,
+            "description": "Use the sum formula S_n = \\frac{n}{2}(a + l) to find the sum.",
+            "expression": "S_{76} = \\frac{76}{2}(-5 + -230)"
+          }
+        ],
+        "final_answer": "Therefore, the sum of the series is -8930.",
+        "answer_image": {
+          "present": true,
+          "description": "Mathematical derivation for the sum of the arithmetic progression.",
+          "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659786/ncert/maths/5/img_30_0.png",
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "answer"
+        },
+        "question_images": [],
+        "answer_images": [
+          {
+            "present": true,
+            "description": "Mathematical derivation for the sum of the arithmetic progression.",
+            "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659786/ncert/maths/5/img_30_0.png",
+            "latex_extracted": null,
+            "source_page_number": null,
+            "source_image_index": null,
+            "ownership": "answer"
+          }
+        ],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of arithmetic progressions and application of the sum formula.",
+    "topics_tags": [
+      "Arithmetic Progression",
+      "Sum of Series",
+      "Mathematics"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical derivation for the sum of an arithmetic progression.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659783/ncert/maths/5/img_28_0.png",
+        "latex_extracted": "\\begin{array}{c}{{S_{n}={\\frac{n}{2}}(a+l)}}\\\\ {{S_{n}={\\frac{23}{2}}[7+84]}}\\\\ {{={\\frac{23\\times91}{2}}={\\frac{2093}{2}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.22",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "arithmetic progressions",
+    "question_type": "numerical",
+    "question_text": "How many terms of the AP 9, 17, 25 must be taken to give a sum of 636?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of the sum of an arithmetic progression.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659796/ncert/maths/5/img_33_0.png",
+      "latex_extracted": "\\begin{array}{c}{{=\\frac{-35}{3}+8\\left(5\\right)}}\\\\ {{=\\frac{-35}{3}+40}}\\\\ {{=\\frac{-35+120}{3}=\\frac{85}{3}=\\frac{85}{3}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Let there be n terms of this A.P. For this A.P., a = 9 and d = 8.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the first term and common difference of the A.P.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Set up the equation for the sum of the first n terms.",
+        "expression": "S_n = \\frac{n}{2}[2a + (n-1)d]"
+      },
+      {
+        "step_number": 3,
+        "description": "Substitute the values into the equation.",
+        "expression": "90 = n[2 + (n-1)8]"
+      },
+      {
+        "step_number": 4,
+        "description": "Solve the quadratic equation to find n.",
+        "expression": "4n^2 - 2n - 90 = 0"
+      }
+    ],
+    "final_answer": "Therefore, n = 5 terms must be taken to give a sum of 636.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves setting up and solving a quadratic equation.",
+    "topics_tags": [
+      "Arithmetic Progression",
+      "Sum of Terms",
+      "Quadratic Equation"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the sum of an arithmetic progression.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659796/ncert/maths/5/img_33_0.png",
+        "latex_extracted": "\\begin{array}{c}{{=\\frac{-35}{3}+8\\left(5\\right)}}\\\\ {{=\\frac{-35}{3}+40}}\\\\ {{=\\frac{-35+120}{3}=\\frac{85}{3}=\\frac{85}{3}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.23",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "arithmetic progressions",
+    "question_type": "numerical",
+    "question_text": "The first term of an AP is 5, the last term is 45 and the sum is 400. Find the number of terms and the common difference.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of the sum of an arithmetic progression.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659798/ncert/maths/5/img_34_0.png",
+      "latex_extracted": "\\begin{array}{c}{{S_{n}={\\frac{n}{2}}\\bigl[2a+\\bigl(n-1\\bigr)d\\bigr]}}\\\\ {{636={\\frac{n}{2}}\\bigl[2\\times a+\\bigl(n-1\\bigr)8\\bigr]}}\\\\ {{636={\\frac{n}{2}}\\bigl[28+\\bigl(n-1\\bigr)8\\bigr]}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The number of terms is 12 and the common difference is 8.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Use the formula for the sum of an AP: S_n = n/2 * (a + l)",
+        "expression": "400 = n/2 * (5 + 45)"
+      },
+      {
+        "step_number": 2,
+        "description": "Solve for n to find the number of terms.",
+        "expression": "n = 12"
+      },
+      {
+        "step_number": 3,
+        "description": "Use the last term formula to find the common difference: l = a + (n - 1)d",
+        "expression": "45 = 5 + (12 - 1)d"
+      },
+      {
+        "step_number": 4,
+        "description": "Solve for d.",
+        "expression": "d = 8"
+      }
+    ],
+    "final_answer": "Therefore, the number of terms is 12 and the common difference is 8.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps to derive the number of terms and common difference.",
+    "topics_tags": [
+      "Arithmetic Progression",
+      "Sum of AP",
+      "Common Difference"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the sum of an arithmetic progression.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659798/ncert/maths/5/img_34_0.png",
+        "latex_extracted": "\\begin{array}{c}{{S_{n}={\\frac{n}{2}}\\bigl[2a+\\bigl(n-1\\bigr)d\\bigr]}}\\\\ {{636={\\frac{n}{2}}\\bigl[2\\times a+\\bigl(n-1\\bigr)8\\bigr]}}\\\\ {{636={\\frac{n}{2}}\\bigl[28+\\bigl(n-1\\bigr)8\\bigr]}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.24",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "arithmetic progressions",
+    "question_type": "numerical",
+    "question_text": "The first and the last term of an AP are 17 and 350 respectively. If the common difference is 9, how many terms are there and what is their sum?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of the sum of an arithmetic progression.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659802/ncert/maths/5/img_35_0.png",
+      "latex_extracted": "\\begin{array}{l c r}{S_{n}={\\frac{n}{2}}(a+l)}\\\\ {\\Rightarrow S_{n}={\\frac{38}{2}}{\\big(}17+350{\\big)}=19{\\big(}367{\\big)}=6973}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "This A.P. contains 38 terms and the sum of the terms of this A.P. is 6973.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Use the formula for the last term: l = a + (n - 1)d",
+        "expression": "350 = 17 + (n - 1) * 9"
+      },
+      {
+        "step_number": 2,
+        "description": "Solve for n.",
+        "expression": "n = 38"
+      },
+      {
+        "step_number": 3,
+        "description": "Use the sum formula: S_n = n/2 * (a + l)",
+        "expression": "S_n = 38/2 * (17 + 350)"
+      },
+      {
+        "step_number": 4,
+        "description": "Calculate the sum.",
+        "expression": "S_n = 6973"
+      }
+    ],
+    "final_answer": "Thus, this A.P. contains 38 terms and the sum of the terms of this A.P. is 6973.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of AP properties and multiple calculations.",
+    "topics_tags": [
+      "Arithmetic Progression",
+      "Sum of AP",
+      "Common Difference"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the sum of an arithmetic progression.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659802/ncert/maths/5/img_35_0.png",
+        "latex_extracted": "\\begin{array}{l c r}{S_{n}={\\frac{n}{2}}(a+l)}\\\\ {\\Rightarrow S_{n}={\\frac{38}{2}}{\\big(}17+350{\\big)}=19{\\big(}367{\\big)}=6973}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.25",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "arithmetic progressions",
+    "question_type": "numerical",
+    "question_text": "Find the sum of first 22 terms of an AP in which d = 7 and 22nd term is 149.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of the sum of an arithmetic progression.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659803/ncert/maths/5/img_36_0.png",
+      "latex_extracted": "\\begin{array}{c}{{S_{n}={\\frac{n}{2}}{\\big(}a+a_{n}{\\big)}}}\\\\ {{={\\frac{22}{2}}{\\big(}2+149{\\big)}}}\\\\ {{=11{\\big(}151{\\big)}=1661}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The sum of the first 22 terms is 1661.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the first term using the 22nd term formula: a_n = a + (n - 1)d",
+        "expression": "149 = a + 21 * 7"
+      },
+      {
+        "step_number": 2,
+        "description": "Solve for a.",
+        "expression": "a = 2"
+      },
+      {
+        "step_number": 3,
+        "description": "Use the sum formula: S_n = n/2 * (a + a_n)",
+        "expression": "S_{22} = 22/2 * (2 + 149)"
+      },
+      {
+        "step_number": 4,
+        "description": "Calculate the sum.",
+        "expression": "S_{22} = 1661"
+      }
+    ],
+    "final_answer": "Therefore, the sum of the first 22 terms is 1661.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic application of AP sum formula and simple calculations.",
+    "topics_tags": [
+      "Arithmetic Progression",
+      "Sum of AP",
+      "Common Difference"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the sum of an arithmetic progression.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659803/ncert/maths/5/img_36_0.png",
+        "latex_extracted": "\\begin{array}{c}{{S_{n}={\\frac{n}{2}}{\\big(}a+a_{n}{\\big)}}}\\\\ {{={\\frac{22}{2}}{\\big(}2+149{\\big)}}}\\\\ {{=11{\\big(}151{\\big)}=1661}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.26",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "arithmetic progressions",
+    "question_type": "numerical",
+    "question_text": "If the sum of first 7 terms of an AP is 49 and that of 17 terms is 289, find the sum of first n terms.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical equations related to the sum of an arithmetic progression.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659806/ncert/maths/5/img_37_0.png",
+      "latex_extracted": "\\begin{array}{c}{{S_{n}={\\frac{n}{2}}\\bigl[2a+\\bigl(n-1\\bigr)d\\bigr]}}\\\\ {{S_{s_{1}}={\\frac{51}{2}}\\bigl[2\\times10+\\bigl(51-1\\bigr)4\\bigr]}}\\\\ {{={\\frac{51}{2}}\\bigl[20+\\bigl(50\\bigr)\\bigl(4\\bigr)\\bigr]}}\\\\ {{={\\frac{51}{2}}=51\\bigl(110\\bigr)}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The common difference d is found to be 2, and the first term a is 1. The sum of the first n terms can be calculated using the formula S_n = \\frac{n}{2}[2a + (n-1)d].",
+    "answer_latex": "S_n = \\frac{n}{2}[2(1) + (n-1)(2)]",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set up the equations based on the given sums of the first 7 and 17 terms.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Solve for the common difference d and first term a.",
+        "expression": "5d = 10 \\Rightarrow d = 2; a + 3(2) = 7 \\Rightarrow a = 1"
+      },
+      {
+        "step_number": 3,
+        "description": "Use the formula for the sum of the first n terms of an AP.",
+        "expression": "S_n = \\frac{n}{2}[2(1) + (n-1)(2)]"
+      }
+    ],
+    "final_answer": "Thus, the sum of the first n terms can be expressed as S_n = n(n + 1).",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves solving equations and applying the formula for the sum of an AP.",
+    "topics_tags": [
+      "Arithmetic Progression",
+      "Sum of Terms",
+      "Mathematical Equations"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical equations related to the sum of an arithmetic progression.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659806/ncert/maths/5/img_37_0.png",
+        "latex_extracted": "\\begin{array}{c}{{S_{n}={\\frac{n}{2}}\\bigl[2a+\\bigl(n-1\\bigr)d\\bigr]}}\\\\ {{S_{s_{1}}={\\frac{51}{2}}\\bigl[2\\times10+\\bigl(51-1\\bigr)4\\bigr]}}\\\\ {{={\\frac{51}{2}}\\bigl[20+\\bigl(50\\bigr)\\bigl(4\\bigr)\\bigr]}}\\\\ {{={\\frac{51}{2}}=51\\bigl(110\\bigr)}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.27",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "arithmetic progressions",
+    "question_type": "multipart",
+    "question_text": "If the sum of the first n terms of an AP is 4n - n², what is the first term? What is the sum of first two terms? What is the second term? Similarly find the 3rd, the 10th and the nth terms.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "What is the first term?",
+        "part_latex": null,
+        "answer_text": "The first term is 3.",
+        "answer_latex": "a = 4(1) - (1)^2 = 3",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Substitute n = 1 into the sum formula.",
+            "expression": "S = 4(1) - (1)^2"
+          }
+        ],
+        "final_answer": "Therefore, the first term is 3.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "What is the sum of first two terms?",
+        "part_latex": null,
+        "answer_text": "The sum of the first two terms is 4.",
+        "answer_latex": "S = 4(2) - (2)^2 = 4",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Substitute n = 2 into the sum formula.",
+            "expression": "S = 4(2) - (2)^2"
+          }
+        ],
+        "final_answer": "Hence, the sum of the first two terms is 4.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "What is the second term?",
+        "part_latex": null,
+        "answer_text": "The second term is 1.",
+        "answer_latex": "a_2 = S_2 - S_1 = 4 - 3 = 1",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the second term using the difference of sums.",
+            "expression": "a_2 = S_2 - S_1"
+          }
+        ],
+        "final_answer": "Thus, the second term is 1.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(d)",
+        "part_text": "Find the 3rd term.",
+        "part_latex": null,
+        "answer_text": "The 3rd term is -1.",
+        "answer_latex": "a_3 = 5 - 2(3) = -1",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the formula for the nth term.",
+            "expression": "a_n = a + (n - 1)d"
+          }
+        ],
+        "final_answer": "Therefore, the 3rd term is -1.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(e)",
+        "part_text": "Find the 10th term.",
+        "part_latex": null,
+        "answer_text": "The 10th term is -15.",
+        "answer_latex": "a_{10} = 5 - 2(10) = -15",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Substitute n = 10 into the nth term formula.",
+            "expression": "a_{10} = 5 - 2(10)"
+          }
+        ],
+        "final_answer": "Thus, the 10th term is -15.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(f)",
+        "part_text": "Find the nth term.",
+        "part_latex": null,
+        "answer_text": "The nth term is 5 - 2n.",
+        "answer_latex": "a_n = 5 - 2n",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the formula for the nth term.",
+            "expression": "a_n = 5 - 2n"
+          }
+        ],
+        "final_answer": "Therefore, the nth term is 5 - 2n.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations and understanding of arithmetic progressions.",
+    "topics_tags": [
+      "Arithmetic Progression",
+      "Sum of Terms",
+      "Nth Term"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.28",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "arithmetic progressions",
+    "question_type": "numerical",
+    "question_text": "Find the sum of first 40 positive integers divisible by 6.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical expression for the sum of an arithmetic progression.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659815/ncert/maths/5/img_41_0.png",
+      "latex_extracted": "\\begin{array}{c}{{S_{n}=\\frac{n}{2}\\Big[2a+\\big(n-1\\big)d\\Big]}}\\\\ {{S_{n0}=\\frac{40}{2}\\Big[2\\big(6\\big)+\\big(40-1\\big)6\\Big]}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The sum of the first 40 positive integers divisible by 6 is 4920.",
+    "answer_latex": "S = 20 \\times 246 = 4920",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the first term and common difference of the AP.",
+        "expression": "a = 6, d = 6"
+      },
+      {
+        "step_number": 2,
+        "description": "Use the formula for the sum of an AP.",
+        "expression": "S_{n} = \\frac{n}{2}[2a + (n-1)d]"
+      },
+      {
+        "step_number": 3,
+        "description": "Substitute values into the formula.",
+        "expression": "S_{40} = \\frac{40}{2}[2(6) + (40-1)(6)]"
+      },
+      {
+        "step_number": 4,
+        "description": "Calculate the sum.",
+        "expression": "S_{40} = 20[12 + 234] = 20 \\times 246 = 4920"
+      }
+    ],
+    "final_answer": "Therefore, the sum of the first 40 positive integers divisible by 6 is 4920.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of arithmetic progressions and basic calculations.",
+    "topics_tags": [
+      "Arithmetic Progression",
+      "Sum of Terms",
+      "Divisibility"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical expression for the sum of an arithmetic progression.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659815/ncert/maths/5/img_41_0.png",
+        "latex_extracted": "\\begin{array}{c}{{S_{n}=\\frac{n}{2}\\Big[2a+\\big(n-1\\big)d\\Big]}}\\\\ {{S_{n0}=\\frac{40}{2}\\Big[2\\big(6\\big)+\\big(40-1\\big)6\\Big]}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.29",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "arithmetic progressions",
+    "question_type": "numerical",
+    "question_text": "Find the sum of first 15 multiples of 8.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical expression for the sum of an arithmetic progression.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659817/ncert/maths/5/img_41_1.png",
+      "latex_extracted": "\\begin{array}{r}{S_{n}={\\frac{n}{2}}[2a+(n-1)d]}\\\\ {={\\frac{15}{2}}[2(8)+(15-1)8]}\\\\ {={\\frac{15}{2}}[16+14(8)]}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The sum of the first 15 multiples of 8 is 960.",
+    "answer_latex": "S = 960",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the first term and common difference of the AP.",
+        "expression": "a = 8, d = 8"
+      },
+      {
+        "step_number": 2,
+        "description": "Use the formula for the sum of an AP.",
+        "expression": "S_{n} = \\frac{n}{2}[2a + (n-1)d]"
+      },
+      {
+        "step_number": 3,
+        "description": "Substitute values into the formula.",
+        "expression": "S_{15} = \\frac{15}{2}[2(8) + (15-1)(8)]"
+      },
+      {
+        "step_number": 4,
+        "description": "Calculate the sum.",
+        "expression": "S_{15} = \\frac{15}{2}[16 + 112] = 960"
+      }
+    ],
+    "final_answer": "Therefore, the sum of the first 15 multiples of 8 is 960.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of arithmetic progressions and basic calculations.",
+    "topics_tags": [
+      "Arithmetic Progression",
+      "Multiples",
+      "Sum of Terms"
+    ],
+    "confidence_score": 0.97,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical expression for the sum of an arithmetic progression.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659817/ncert/maths/5/img_41_1.png",
+        "latex_extracted": "\\begin{array}{r}{S_{n}={\\frac{n}{2}}[2a+(n-1)d]}\\\\ {={\\frac{15}{2}}[2(8)+(15-1)8]}\\\\ {={\\frac{15}{2}}[16+14(8)]}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.30",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "arithmetic progressions",
+    "question_type": "numerical",
+    "question_text": "A sum of Rs 700 is to be used to give seven cash prizes to students of a school for their overall academic performance. If each prize is Rs 20 less than its preceding prize, find the value of each of the prizes.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical expression showing the sum of an arithmetic progression.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659820/ncert/maths/5/img_43_0.png",
+      "latex_extracted": "{\\frac{7}{2}}{\\frac{\\left[2a+\\left(7-1\\right)d\\right]-700}{\\left[2a+\\left(6\\right)(-20)\\right]}}=100",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Therefore, the value of each of the prizes was Rs 160, Rs 140, Rs 120, Rs 100, Rs 80, Rs 60, and Rs 40.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Let the cost of the 1st prize be P, then express the subsequent prizes in terms of P.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Set up the equation for the sum of the prizes as an arithmetic progression.",
+        "expression": "S = 700"
+      },
+      {
+        "step_number": 3,
+        "description": "Solve for P using the equation derived from the sum of the arithmetic progression.",
+        "expression": "a + 3(-20) = 100"
+      }
+    ],
+    "final_answer": "Thus, the prizes are Rs 160, Rs 140, Rs 120, Rs 100, Rs 80, Rs 60, and Rs 40.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves setting up and solving an equation based on arithmetic progression.",
+    "topics_tags": [
+      "Arithmetic Progression",
+      "Cash Prizes",
+      "Mathematical Problem"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical expression showing the sum of an arithmetic progression.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659820/ncert/maths/5/img_43_0.png",
+        "latex_extracted": "{\\frac{7}{2}}{\\frac{\\left[2a+\\left(7-1\\right)d\\right]-700}{\\left[2a+\\left(6\\right)(-20)\\right]}}=100",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.31",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "arithmetic progressions",
+    "question_type": "numerical",
+    "question_text": "In a school, students thought of planting trees in and around the school to reduce air pollution. It was decided that the number of trees, that each section of each class will plant, will be the same as the class, e.g., a section of class I will plant 1 tree, a section of class II will plant 2 trees and so on till class XII. There are three sections of each class. How many trees will be planted by the students?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, 234 trees will be planted by the students.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the number of trees planted by each class as an arithmetic progression.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the total number of trees planted by one section of all classes.",
+        "expression": "S = 6(2 + 11)"
+      },
+      {
+        "step_number": 3,
+        "description": "Multiply by the number of sections to find the total.",
+        "expression": "3 × 78"
+      }
+    ],
+    "final_answer": "Thus, the total number of trees planted by the students is 234.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of arithmetic progression and basic multiplication.",
+    "topics_tags": [
+      "Tree Plantation",
+      "Arithmetic Progression",
+      "Environmental Awareness"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.32",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "arithmetic progressions",
+    "question_type": "mcq",
+    "question_text": "A spiral is made up of successive semicircles, with centres alternately at A and B, starting with centre at A of radii 0.5, 1.0 cm, 1.5 cm, 2.0 cm, ……… as shown in figure. What is the total length of such a spiral made up of thirteen consecutive semicircles?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical expression showing the lengths of semicircles in an arithmetic progression.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659822/ncert/maths/5/img_44_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Therefore, the length of such spiral of thirteen consecutive semi-circles will be 143 cm.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the lengths of the semicircles as an arithmetic progression.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the formula for the sum of an arithmetic progression to calculate the total length.",
+        "expression": "S_{n} = \\frac{n}{2}[2a + (n-1)d]"
+      },
+      {
+        "step_number": 3,
+        "description": "Substitute the values into the formula to find the total length.",
+        "expression": "S_{13} = \\frac{13}{2}[2(0.5) + (13-1)(0.5)]"
+      }
+    ],
+    "final_answer": "Thus, the total length of the spiral is 143 cm.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of semicircles and application of arithmetic progression formulas.",
+    "topics_tags": [
+      "Spiral Length",
+      "Semicircles",
+      "Arithmetic Progression"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical expression showing the lengths of semicircles in an arithmetic progression.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659822/ncert/maths/5/img_44_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.33",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "arithmetic progressions",
+    "question_type": "numerical",
+    "question_text": "200 logs are stacked in the following manner: 20 logs in the bottom row, 19 in the next row, 18 in the row next to it and so on. In how many rows are the 200 logs placed and how many logs are in the top row?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of the arithmetic progression and calculations related to the logs.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659842/ncert/maths/5/img_46_0.jpg",
+      "latex_extracted": "\\begin{array}{c}{{S_{n}={\\displaystyle\\frac{n}{2}}\\bigl[2a+\\bigl(n-1\\bigr)d\\bigr]}}\\\\ {{200={\\displaystyle\\frac{n}{2}}\\bigl[2(20)+\\bigl(n-1\\bigr)(-1)\\bigr]}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Therefore, 200 logs can be placed in 16 rows and the number of logs in the 16th row is 5.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set up the equation for the sum of an arithmetic progression.",
+        "expression": "S = \\frac{n}{2}[2a + (n-1)d]"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values into the equation.",
+        "expression": "200 = \\frac{n}{2}[2(20) + (n-1)(-1)]"
+      },
+      {
+        "step_number": 3,
+        "description": "Solve the quadratic equation to find n.",
+        "expression": "n^2 - 41n + 400 = 0"
+      },
+      {
+        "step_number": 4,
+        "description": "Factor the quadratic equation.",
+        "expression": "(n - 16)(n - 25) = 0"
+      },
+      {
+        "step_number": 5,
+        "description": "Determine the valid solution for n.",
+        "expression": "n = 16"
+      },
+      {
+        "step_number": 6,
+        "description": "Calculate the number of logs in the top row.",
+        "expression": "a = 20 + (16 - 1)(-1) = 5"
+      }
+    ],
+    "final_answer": "Therefore, the number of logs in the top row is 5.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves setting up and solving a quadratic equation.",
+    "topics_tags": [
+      "Arithmetic Progression",
+      "Logs",
+      "Quadratic Equation"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the arithmetic progression and calculations related to the logs.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659842/ncert/maths/5/img_46_0.jpg",
+        "latex_extracted": "\\begin{array}{c}{{S_{n}={\\displaystyle\\frac{n}{2}}\\bigl[2a+\\bigl(n-1\\bigr)d\\bigr]}}\\\\ {{200={\\displaystyle\\frac{n}{2}}\\bigl[2(20)+\\bigl(n-1\\bigr)(-1)\\bigr]}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.34",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "arithmetic progressions",
+    "question_type": "numerical",
+    "question_text": "In a potato race, a bucket is placed at the starting point, which is 5 m from the first potato and other potatoes are placed 3 m apart in a straight line. There are ten potatoes in the line. What is the total distance the competitor has to run?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of the distances of potatoes and calculations for total distance.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659856/ncert/maths/5/img_47_0.jpg",
+      "latex_extracted": "\\begin{array}{c}{{S_{n}={\\displaystyle\\frac{n}{2}}\\bigl[2a+\\bigl(n-1\\bigr)d\\bigr]}}\\\\ {{S_{10}={\\displaystyle\\frac{10}{2}}\\bigl[2\\bigl(5\\bigr)+\\bigl(10-1\\bigr)3\\bigr]}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Therefore, the total distance that the competitor will run is 370 m.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the total distance for collecting the potatoes.",
+        "expression": "5 + 8 + 11 + 14 + ... + 32"
+      },
+      {
+        "step_number": 2,
+        "description": "Use the formula for the sum of an arithmetic series.",
+        "expression": "S_{10} = \\frac{10}{2}[2(5) + (10-1)(3)]"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the total distance run by the competitor.",
+        "expression": "2 \\times S_{10} = 2 \\times 185 = 370"
+      }
+    ],
+    "final_answer": "Therefore, the competitor will run a total distance of 370 m.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of arithmetic series and basic calculations.",
+    "topics_tags": [
+      "Arithmetic Progression",
+      "Distance",
+      "Potato Race"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the distances of potatoes and calculations for total distance.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659856/ncert/maths/5/img_47_0.jpg",
+        "latex_extracted": "\\begin{array}{c}{{S_{n}={\\displaystyle\\frac{n}{2}}\\bigl[2a+\\bigl(n-1\\bigr)d\\bigr]}}\\\\ {{S_{10}={\\displaystyle\\frac{10}{2}}\\bigl[2\\bigl(5\\bigr)+\\bigl(10-1\\bigr)3\\bigr]}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.35",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "arithmetic progressions",
+    "question_type": "mcq",
+    "question_text": "The sum of the third and the seventh terms of an A.P is 6 and their product is 8. Find the sum of first sixteen terms of the A.P.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical expressions related to the A.P. terms and their product.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659874/ncert/maths/5/img_50_0.png",
+      "latex_extracted": "\\begin{array}{r}{(3-4d+2d)x(3-4d+6d)=8}\\\\ {(3-2d)x(3+2d)=8}\\\\ {\\qquad(2^{2}=4}\\\\ {d^{2}=1}\\\\ {d^{2}={\\frac{1}{2}}}\\\\ {d^{2}={\\frac{1}{2}}}\\\\ {d^{2}={\\frac{1}{2}}}\\\\ {d^{2}={\\frac{1}{2}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The sum of the first sixteen terms of the A.P. is 8.",
+    "answer_latex": "S_{16}=\\frac{16}{2}\\left[2(1)+(16-1)\\left(\\frac{1}{2}\\right)\\right]=8\\left[2+\\frac{15}{2}\\right]",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set up the equations based on the given conditions of the A.P.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Solve for 'a' and 'd' using the product and sum of the terms.",
+        "expression": "(3-4d+2d)(3-4d+6d)=8"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the sum of the first sixteen terms using the formula.",
+        "expression": "S_{16}=\\frac{16}{2}\\left[2(1)+(16-1)\\left(\\frac{1}{2}\\right)\\right]"
+      }
+    ],
+    "final_answer": "Therefore, the sum of the first sixteen terms of the A.P. is 8.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves setting up and solving equations based on given conditions.",
+    "topics_tags": [
+      "Arithmetic Progression",
+      "Sum of Terms",
+      "Algebra"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical expressions related to the A.P. terms and their product.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659874/ncert/maths/5/img_50_0.png",
+        "latex_extracted": "\\begin{array}{r}{(3-4d+2d)x(3-4d+6d)=8}\\\\ {(3-2d)x(3+2d)=8}\\\\ {\\qquad(2^{2}=4}\\\\ {d^{2}=1}\\\\ {d^{2}={\\frac{1}{2}}}\\\\ {d^{2}={\\frac{1}{2}}}\\\\ {d^{2}={\\frac{1}{2}}}\\\\ {d^{2}={\\frac{1}{2}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.36",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "arithmetic progressions",
+    "question_type": "conceptual",
+    "question_text": "A ladder has rungs 25 cm apart. The rungs decrease uniformly in length from 45 cm at the bottom to 25 cm at the top. If the top and bottom rungs are m apart, what is the length of the wood required for the rungs?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical expressions related to the length of the rungs of the ladder.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659885/ncert/maths/5/img_51_1.jpg",
+      "latex_extracted": "={\\frac{2}{25}}{\\frac{\\lambda\\cdot100}{25}}+1",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of uniform decrease and basic arithmetic.",
+    "topics_tags": [
+      "Ladder",
+      "Uniform Decrease",
+      "Geometry"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical expressions related to the length of the rungs of the ladder.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659885/ncert/maths/5/img_51_1.jpg",
+        "latex_extracted": "={\\frac{2}{25}}{\\frac{\\lambda\\cdot100}{25}}+1",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.37",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "arithmetic progressions",
+    "question_type": "conceptual",
+    "question_text": "The houses of a row are number consecutively from 1 to 49. Show that there is a value of x such that the sum of numbers of the houses preceding the house numbered x is equal to the sum of the number of houses following it. Find this value of x.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of the sum of house numbers preceding and following house number x.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659891/ncert/maths/5/img_53_0.png",
+      "latex_extracted": "\\begin{array}{c}{{=\\frac{\\left(x-1\\right)}{2}\\left[2a+\\left(x-1-1\\right)d\\right]}}\\\\ {{=\\frac{x-1}{2}\\left[2\\left(1\\right)+\\left(x-2\\right)(1\\right)\\right]}}\\\\ {{=\\frac{x-1}{2}\\left[2+x-2\\right]}}\\\\ {{=\\frac{\\left(x-1\\right)}{2}\\left(1+\\left(x-1\\right)}}\\\\ {{\\left.=\\frac{\\left(x-1\\right)}{2}\\right.}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The value of x will be 35 only. Therefore, house number 35 is such that the sum of the numbers of houses preceding the house numbered 35 is equal to the sum of the numbers of the houses following it.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set up the equation for the sum of house numbers preceding and following house number x.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Solve the equation to find the value of x.",
+        "expression": "\\frac{x(x-1)}{2}=25(49)-x\\left(\\frac{x+1}{2}\\right)"
+      }
+    ],
+    "final_answer": "Thus, the value of x is 35.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of arithmetic progressions and solving a linear equation.",
+    "topics_tags": [
+      "Arithmetic Progression",
+      "Sum of Series",
+      "Linear Equations"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the sum of house numbers preceding and following house number x.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659891/ncert/maths/5/img_53_0.png",
+        "latex_extracted": "\\begin{array}{c}{{=\\frac{\\left(x-1\\right)}{2}\\left[2a+\\left(x-1-1\\right)d\\right]}}\\\\ {{=\\frac{x-1}{2}\\left[2\\left(1\\right)+\\left(x-2\\right)(1\\right)\\right]}}\\\\ {{=\\frac{x-1}{2}\\left[2+x-2\\right]}}\\\\ {{=\\frac{\\left(x-1\\right)}{2}\\left(1+\\left(x-1\\right)}}\\\\ {{\\left.=\\frac{\\left(x-1\\right)}{2}\\right.}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.38",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 5,
+    "chapter_name": "arithmetic progressions",
+    "question_type": "mcq",
+    "question_text": "The volumes of concrete in the steps are in an A.P. The volume of concrete required to build the terrace is 750 m³. Find the common difference and the first term of the A.P.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of the first three terms of an arithmetic progression.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659924/ncert/maths/5/img_55_0.png",
+      "latex_extracted": "\\begin{array}{c}{{\\frac{25}{4},{\\frac{25}{2}},{\\frac{75}{4}},\\ldots}}\\\\ {{a={\\frac{25}{4}}}}\\\\ {{d}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The first term is \\( a = \\frac{25}{4} \\) and the common difference is \\( d = \\frac{25}{4} \\).",
+    "answer_latex": "a = \\frac{25}{4}, d = \\frac{25}{4}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the first term and common difference from the A.P.",
+        "expression": "a = \\frac{25}{4}, d = \\frac{25}{4}"
+      },
+      {
+        "step_number": 2,
+        "description": "Use the formula for the sum of the first n terms of an A.P. to verify the total volume.",
+        "expression": "S_{15} = \\frac{15}{2}\\left[2a + (15-1)d\\right]"
+      },
+      {
+        "step_number": 3,
+        "description": "Substitute the values into the formula.",
+        "expression": "S_{15} = \\frac{15}{2}\\left[2\\left(\\frac{25}{4}\\right) + 14\\left(\\frac{25}{4}\\right)\\right]"
+      },
+      {
+        "step_number": 4,
+        "description": "Calculate the total volume.",
+        "expression": "S_{15} = \\frac{15}{2}\\left(100\\right) = 750"
+      }
+    ],
+    "final_answer": "Thus, the first term is \\( \\frac{25}{4} \\) and the common difference is \\( \\frac{25}{4} \\).",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of the sum of the first 15 terms of the A.P.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659926/ncert/maths/5/img_55_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of arithmetic progressions and application of the sum formula.",
+    "topics_tags": [
+      "Arithmetic Progression",
+      "Sum of Terms",
+      "Mathematics"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the first three terms of an arithmetic progression.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659924/ncert/maths/5/img_55_0.png",
+        "latex_extracted": "\\begin{array}{c}{{\\frac{25}{4},{\\frac{25}{2}},{\\frac{75}{4}},\\ldots}}\\\\ {{a={\\frac{25}{4}}}}\\\\ {{d}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the sum of the first 15 terms of the A.P.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659926/ncert/maths/5/img_55_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  }
+]

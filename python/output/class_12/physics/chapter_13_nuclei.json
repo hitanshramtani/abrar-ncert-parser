@@ -1,0 +1,2027 @@
+[
+  {
+    "question_id": "Q13.1",
+    "class": 12,
+    "subject": "physics",
+    "chapter_number": 13,
+    "chapter_name": "nuclei",
+    "question_type": "mcq",
+    "question_text": "Two stable isotopes of lithium have respective abundances of 7.5% and 92.5%. These isotopes have masses 6.01512 u and 7.01600 u, respectively. Find the atomic mass of lithium.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of the atomic mass calculation for lithium isotopes.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777760987/ncert/physics/13/img_1_0.png",
+      "latex_extracted": "\\begin{array}{c}{{m=\\displaystyle\\frac{m_{1}\\eta_{1}+m_{2}\\eta_{2}}{\\eta_{1}+\\eta_{2}}~~~}}\\\\ {{\\qquad\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{=6.01512\\times7.5+7.01600\\times92.5}}\\\\ {{=6.940934\\pm}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The atomic mass of lithium atom is given as: 6.940934 u.",
+    "answer_latex": "m_{Li} = 6.940934 \text{ u}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Use the formula for atomic mass based on isotopic abundances.",
+        "expression": "m = \\frac{m_{1}\\eta_{1}+m_{2}\\eta_{2}}{\\eta_{1}+\\eta_{2}}"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values of masses and abundances.",
+        "expression": "m = \\frac{6.01512 \\times 7.5 + 7.01600 \\times 92.5}{100}"
+      }
+    ],
+    "final_answer": "Therefore, the atomic mass of lithium is 6.940934 u.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of isotopic mass calculation and basic substitution.",
+    "topics_tags": [
+      "Atomic Mass",
+      "Isotopes",
+      "Lithium"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the atomic mass calculation for lithium isotopes.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777760987/ncert/physics/13/img_1_0.png",
+        "latex_extracted": "\\begin{array}{c}{{m=\\displaystyle\\frac{m_{1}\\eta_{1}+m_{2}\\eta_{2}}{\\eta_{1}+\\eta_{2}}~~~}}\\\\ {{\\qquad\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{=6.01512\\times7.5+7.01600\\times92.5}}\\\\ {{=6.940934\\pm}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.2",
+    "class": 12,
+    "subject": "physics",
+    "chapter_number": 13,
+    "chapter_name": "nuclei",
+    "question_type": "numerical",
+    "question_text": "Boron has two stable isotopes. Their respective masses are 10.01294 u and 11.00931 u, and the atomic mass of boron is 10.811 u. Find the abundances of the isotopes.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The abundance of the first isotope is 19.89% and that of the second isotope is 80.11%.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set up the equation based on the known atomic mass and isotopic masses.",
+        "expression": "10.811 = \\frac{10.01294 \\times x + 11.00931 \\times (100 - x)}{100}"
+      },
+      {
+        "step_number": 2,
+        "description": "Solve for x to find the abundances.",
+        "expression": "x = 19.89"
+      }
+    ],
+    "final_answer": "Hence, the abundance of the first isotope is 19.89% and the second is 80.11%.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of the atomic mass calculation for boron isotopes.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777760990/ncert/physics/13/img_2_0.png",
+      "latex_extracted": "\\begin{array}{r}{{m={\\frac{m(\\eta_{1}+m_{2}\\eta_{2}}{\\eta_{1}+\\eta_{2}}}}}\\\\ {{\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad}}\\\\ {{\\log11={\\frac{10.01294+\\mp11.00931\\times(100-x)}{x+10.899\\phi_{0}}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves setting up and solving a linear equation based on isotopic masses.",
+    "topics_tags": [
+      "Atomic Mass",
+      "Isotopes",
+      "Boron"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the atomic mass calculation for boron isotopes.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777760990/ncert/physics/13/img_2_0.png",
+        "latex_extracted": "\\begin{array}{r}{{m={\\frac{m(\\eta_{1}+m_{2}\\eta_{2}}{\\eta_{1}+\\eta_{2}}}}}\\\\ {{\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad}}\\\\ {{\\log11={\\frac{10.01294+\\mp11.00931\\times(100-x)}{x+10.899\\phi_{0}}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q13.3",
+    "class": 12,
+    "subject": "physics",
+    "chapter_number": 13,
+    "chapter_name": "nuclei",
+    "question_type": "numerical",
+    "question_text": "Obtain the binding energy (in MeV) of a nitrogen nucleus, given its atomic mass is 14.00307 u.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of the binding energy calculation for nitrogen nucleus.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777760995/ncert/physics/13/img_3_0.png",
+      "latex_extracted": "\\begin{array}{c}{{m=\\displaystyle\\frac{m_{1}\\eta_{1}+m_{2}\\eta_{2}+m_{3}\\eta_{3}}}}\\\\ {{\\eta_{1}+\\eta_{2}+\\eta_{3}}}\\\\ {{\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad}}\\\\ {{=\\displaystyle\\frac{19.99\\times90.51+20.99\\times0.27+21.93\\times9.22}}}\\\\ {{=20.1771\\ +}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The binding energy of the nitrogen nucleus can be calculated using the mass defect.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the mass defect using the formula Δm = 7m_{p} + 7m_{n} - m_{N}.",
+        "expression": "Δm = 7 \\times 1.007825 + 7 \\times 1.008665 - 14.00307"
+      },
+      {
+        "step_number": 2,
+        "description": "Convert the mass defect to energy using E = Δm c^2.",
+        "expression": "E = Δm \\times 931.5"
+      }
+    ],
+    "final_answer": "Thus, the binding energy of the nitrogen nucleus is calculated from the mass defect.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of mass defect and conversion to energy.",
+    "topics_tags": [
+      "Binding Energy",
+      "Nitrogen Nucleus",
+      "Nuclear Physics"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the binding energy calculation for nitrogen nucleus.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777760995/ncert/physics/13/img_3_0.png",
+        "latex_extracted": "\\begin{array}{c}{{m=\\displaystyle\\frac{m_{1}\\eta_{1}+m_{2}\\eta_{2}+m_{3}\\eta_{3}}}}\\\\ {{\\eta_{1}+\\eta_{2}+\\eta_{3}}}\\\\ {{\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad}}\\\\ {{=\\displaystyle\\frac{19.99\\times90.51+20.99\\times0.27+21.93\\times9.22}}}\\\\ {{=20.1771\\ +}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.4",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 13,
+    "chapter_name": "nuclei",
+    "question_type": "numerical",
+    "question_text": "Obtain the binding energy of the nuclei and in units of MeV from the following data: Atomic mass = 55.934939 u.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The binding energy of the nucleus is given as 104.66334 MeV.",
+    "answer_latex": "E = 0.11236 \\times 931.5 = 104.66334 \\text{ MeV}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the mass defect using the given atomic mass.",
+        "expression": "\\Delta m = 0.11236"
+      },
+      {
+        "step_number": 2,
+        "description": "Convert mass defect to energy using E = \\Delta mc^2.",
+        "expression": "E = 0.11236 \\times 931.5"
+      }
+    ],
+    "final_answer": "Hence, the binding energy of a nitrogen nucleus is 104.66334 MeV.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of mass-energy equivalence and basic calculations.",
+    "topics_tags": [
+      "Binding Energy",
+      "Nuclear Physics",
+      "Mass Defect"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.5",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 13,
+    "chapter_name": "nuclei",
+    "question_type": "numerical",
+    "question_text": "A given coin has a mass of 3.0 g. Calculate the nuclear energy that would be required to separate all the neutrons and protons from each other. For simplicity assume that the coin is entirely made of atoms (of mass 62.92960 u).",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The total number of atoms in the coin can be calculated using Avogadro's number.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the total number of atoms in the coin using the mass and Avogadro's number.",
+        "expression": "N = \\frac{3.0 \\text{ g}}{62.92960 \\text{ u}} \\times 6.022 \\times 10^{23}"
+      }
+    ],
+    "final_answer": "The nuclear energy required can be calculated from the total number of atoms.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps and understanding of atomic mass and Avogadro's number.",
+    "topics_tags": [
+      "Nuclear Energy",
+      "Atoms",
+      "Avogadro's Number"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.6",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 13,
+    "chapter_name": "nuclei",
+    "question_type": "conceptual",
+    "question_text": "Write nuclear reaction equations for α-decay, β−-decay, β+-decay, and electron capture.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagrams showing various nuclear reactions including α-decay and β-decay.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777761002/ncert/physics/13/img_8_0.png",
+      "latex_extracted": "\\begin{array}{r l}{{\\stackrel{\\mathrm{ngn}}}\\rightarrow\\dots}\\\\ {(n)}&{{\\overset{\\underset{\\mathrm{ne}}{}}{=}}\\rightarrow{\\frac{\\mathfrak{n g n}}{\\textbf{n}}}+{\\frac{\\gamma\\mathbf{n}}{\\textbf{n}}}}\\\\ {(n)}&{{\\textrm{*p}}\\longrightarrow{\\frac{\\ !}{\\mathfrak{n}}}\\cdot{\\boldsymbol{e}}+{\\boldsymbol{e}}^{*}}\\\\ {(n)}&{{\\textrm{*p}}}&{{\\longrightarrow}&{{\\overset{n}{\\in}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "α is a nucleus of helium and β is an electron (e− for β− and e+ for β+). In every α-decay, there is a loss of 2 protons and 4 neutrons. In every β+-decay, there is a loss of 1 proton and a neutrino is emitted from the nucleus. In every β−-decay, there is a gain of 1 proton and an antineutrino is emitted from the nucleus.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "These reactions illustrate the processes of nuclear decay.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of nuclear decay processes and their equations.",
+    "topics_tags": [
+      "Nuclear Reactions",
+      "Decay Processes",
+      "Radioactivity"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagrams showing various nuclear reactions including α-decay and β-decay.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777761002/ncert/physics/13/img_8_0.png",
+        "latex_extracted": "\\begin{array}{r l}{{\\stackrel{\\mathrm{ngn}}}\\rightarrow\\dots}\\\\ {(n)}&{{\\overset{\\underset{\\mathrm{ne}}{}}{=}}\\rightarrow{\\frac{\\mathfrak{n g n}}{\\textbf{n}}}+{\\frac{\\gamma\\mathbf{n}}{\\textbf{n}}}}\\\\ {(n)}&{{\\textrm{*p}}\\longrightarrow{\\frac{\\ !}{\\mathfrak{n}}}\\cdot{\\boldsymbol{e}}+{\\boldsymbol{e}}^{*}}\\\\ {(n)}&{{\\textrm{*p}}}&{{\\longrightarrow}&{{\\overset{n}{\\in}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.7",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 13,
+    "chapter_name": "nuclei",
+    "question_type": "mcq",
+    "question_text": "A radioactive isotope has a half-life of T years. How long will it take the activity to reduce to a) 3.125%, b) 1% of its original value?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "How long will it take the activity to reduce to 3.125% of its original value?",
+        "part_latex": null,
+        "answer_text": "It takes 5 half-lives for the activity to reduce to 3.125% of its original value.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Determine the fraction remaining after decay.",
+            "expression": "\\frac{N}{N_{o}}=3.125\\% = \\frac{1}{32}"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the number of half-lives required.",
+            "expression": "n = \\log_{2}(32) = 5"
+          }
+        ],
+        "final_answer": "Thus, it takes 5 half-lives to reach 3.125% of the original amount.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "How long will it take the activity to reduce to 1% of its original value?",
+        "part_latex": null,
+        "answer_text": "It takes approximately 6.644 half-lives for the activity to reduce to 1% of its original value.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Determine the fraction remaining after decay.",
+            "expression": "\\frac{N}{N_{o}}=1\\% = \\frac{1}{100}"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the number of half-lives required.",
+            "expression": "n = \\log_{2}(100) \\approx 6.644"
+          }
+        ],
+        "final_answer": "Thus, it takes approximately 6.644 half-lives to reach 1% of the original amount.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of the decay of a radioactive isotope.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777761009/ncert/physics/13/img_9_0.png",
+      "latex_extracted": "\\begin{array}{l}{{\\frac{N}{N_{o}}=3.1259_{0}={\\frac{3.125}{100}}={\\frac{1}{32}}}}\\\\ {{\\mathrm{But~}{\\frac{N}{N_{o}}}=e^{-i/\\hbar}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of half-life and logarithmic calculations.",
+    "topics_tags": [
+      "Radioactive Decay",
+      "Half-Life",
+      "Exponential Decay"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the decay of a radioactive isotope.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777761009/ncert/physics/13/img_9_0.png",
+        "latex_extracted": "\\begin{array}{l}{{\\frac{N}{N_{o}}=3.1259_{0}={\\frac{3.125}{100}}={\\frac{1}{32}}}}\\\\ {{\\mathrm{But~}{\\frac{N}{N_{o}}}=e^{-i/\\hbar}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q13.8",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 13,
+    "chapter_name": "nuclei",
+    "question_type": "numerical",
+    "question_text": "Estimate the approximate age of the Indus-Valley civilization based on the activity of a specimen from Mohenjodaro.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Hence, the approximate age of the Indus-Valley civilization is 4223.5 years.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Use the decay rate of the specimen and the known half-life to calculate the age.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, the age of the specimen is approximately 4223.5 years.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical expressions related to radioactive decay and half-life calculations.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777761013/ncert/physics/13/img_10_0.png",
+      "latex_extracted": "\\begin{array}{l}{{\\frac{N}{N_{0}}=\\vert\\phi_{0}={\\frac{1}{N_{0}}}}}\\\\ {{\\frac{N}{2\\times\\epsilon^{2}}={\\frac{1}{100}}}}\\\\ {{\\frac{(2\\pi=0-4.6030}{\\lambda}}}\\\\ {{\\frac{(110)}{\\lambda}}}\\\\ {{\\frac{(4\\cdot602)}{\\lambda}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of radioactive decay and application of half-life calculations.",
+    "topics_tags": [
+      "Radioactive Decay",
+      "Half-Life",
+      "Archaeological Dating"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical expressions related to radioactive decay and half-life calculations.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777761013/ncert/physics/13/img_10_0.png",
+        "latex_extracted": "\\begin{array}{l}{{\\frac{N}{N_{0}}=\\vert\\phi_{0}={\\frac{1}{N_{0}}}}}\\\\ {{\\frac{N}{2\\times\\epsilon^{2}}={\\frac{1}{100}}}}\\\\ {{\\frac{(2\\pi=0-4.6030}{\\lambda}}}\\\\ {{\\frac{(110)}{\\lambda}}}\\\\ {{\\frac{(4\\cdot602)}{\\lambda}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      },
+      {
+        "present": true,
+        "description": "Mathematical expressions showing the calculation of the age based on decay rates.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777761014/ncert/physics/13/img_10_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q13.9",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 13,
+    "chapter_name": "nuclei",
+    "question_type": "numerical",
+    "question_text": "Obtain the amount of necessary to provide a radioactive source of 8.0 mCi strength.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical expressions related to the calculation of the amount of radioactive material needed.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777761020/ncert/physics/13/img_12_0.png",
+      "latex_extracted": "\\begin{array}{l}{{\\frac{d N}{d t}=8.0\\;{\\mathrm{mCi}}}}\\\\ {{=8\\times10^{-3}\\times3.7\\times10^{0}}}\\\\ {{=29.6\\times10^{7}\\;\\mathrm{decay}/{\\mathrm{s}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Hence, the amount necessary for the purpose is 7.106 × 10−6 g.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the decay rate from the given strength in mCi.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the decay constant and half-life to find the required number of atoms.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the required amount of radioactive material is 7.106 × 10−6 g.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical expressions showing the calculation of the amount of radioactive material needed.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777761021/ncert/physics/13/img_12_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Involves multiple steps of calculation and understanding of radioactive decay principles.",
+    "topics_tags": [
+      "Radioactive Sources",
+      "Decay Rate",
+      "Half-Life"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical expressions related to the calculation of the amount of radioactive material needed.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777761020/ncert/physics/13/img_12_0.png",
+        "latex_extracted": "\\begin{array}{l}{{\\frac{d N}{d t}=8.0\\;{\\mathrm{mCi}}}}\\\\ {{=8\\times10^{-3}\\times3.7\\times10^{0}}}\\\\ {{=29.6\\times10^{7}\\;\\mathrm{decay}/{\\mathrm{s}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical expressions showing the calculation of the amount of radioactive material needed.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777761021/ncert/physics/13/img_12_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q13.10",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 13,
+    "chapter_name": "nuclei",
+    "question_type": "numerical",
+    "question_text": "The half-life of an isotope is 28 years. What is the disintegration rate of 15 mg of this isotope?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The disintegration rate of 15 mg of the given isotope is 7.878 × 10^{10} atoms/s.",
+    "answer_latex": "7.878 \\times 10^{10} \\text{ atoms/s}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Convert half-life from years to seconds.",
+        "expression": "T_{1/2} = 28 \\times 365 \\times 24 \\times 60 \\times 60 = 8.83 \\times 10^8 \\text{ s}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the decay constant using the half-life.",
+        "expression": "\\lambda = \\frac{\\ln(2)}{T_{1/2}}"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the number of atoms in 15 mg of the isotope.",
+        "expression": "N = \\frac{15 \\text{ mg}}{90 \\text{ g}} \\times 6.023 \\times 10^{23}"
+      },
+      {
+        "step_number": 4,
+        "description": "Calculate the disintegration rate using the decay constant and number of atoms.",
+        "expression": "R = \\lambda N"
+      }
+    ],
+    "final_answer": "Therefore, the disintegration rate of 15 mg of the given isotope is 7.878 × 10^{10} atoms/s.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps including conversion and calculations.",
+    "topics_tags": [
+      "Radioactive Decay",
+      "Half-Life",
+      "Disintegration Rate"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.11",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 13,
+    "chapter_name": "nuclei",
+    "question_type": "conceptual",
+    "question_text": "Obtain approximately the ratio of the nuclear radii of the gold isotope and the silver isotope.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The ratio of the nuclear radii of the gold and silver isotopes is about 1.23.",
+    "answer_latex": "R_{au}/R_{Ag} \\approx 1.23",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the mass numbers of gold and silver isotopes.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the formula relating nuclear radius to mass number.",
+        "expression": "R \\propto A^{1/3}"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the ratio of the nuclear radii.",
+        "expression": "\\frac{R_{au}}{R_{Ag}} = \\left(\\frac{197}{107}\\right)^{1/3}"
+      }
+    ],
+    "final_answer": "Thus, the ratio of the nuclear radii of the gold and silver isotopes is approximately 1.23.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical expression showing the ratio of nuclear radii of gold and silver isotopes.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777761027/ncert/physics/13/img_14_0.png",
+      "latex_extracted": "\\begin{array}{c}{{\\frac{\\displaystyle R_{\\mathrm{au}}}{\\displaystyle R_{\\mathrm{Ag}}}=\\left(\\frac{R_{\\mathrm{ad}}}{\\displaystyle R_{\\mathrm{Ag}}}\\right)^{3}}}\\\\ {{\\mathrm{~}=\\left(197\\right)^{\\frac{1}{3}}=1.2256}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of nuclear physics concepts and simple calculations.",
+    "topics_tags": [
+      "Nuclear Radius",
+      "Gold Isotope",
+      "Silver Isotope"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical expression showing the ratio of nuclear radii of gold and silver isotopes.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777761027/ncert/physics/13/img_14_0.png",
+        "latex_extracted": "\\begin{array}{c}{{\\frac{\\displaystyle R_{\\mathrm{au}}}{\\displaystyle R_{\\mathrm{Ag}}}=\\left(\\frac{R_{\\mathrm{ad}}}{\\displaystyle R_{\\mathrm{Ag}}}\\right)^{3}}}\\\\ {{\\mathrm{~}=\\left(197\\right)^{\\frac{1}{3}}=1.2256}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q13.12",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 13,
+    "chapter_name": "nuclei",
+    "question_type": "numerical",
+    "question_text": "Find the Q-value and the kinetic energy of the emitted α-particle in the α-decay of the isotopes.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The Q-value is approximately 4.94 MeV.",
+    "answer_latex": "Q \\approx 4.94 \\text{ MeV}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the Q-value using the mass difference.",
+        "expression": "Q = [226.02540 - (222.01750 + 4.002603)] u c^2"
+      },
+      {
+        "step_number": 2,
+        "description": "Convert the Q-value from atomic mass units to MeV.",
+        "expression": "Q = 0.005297 \\times 931.5"
+      }
+    ],
+    "final_answer": "Therefore, the Q-value of the emitted α-particle is approximately 4.94 MeV.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves calculations of mass difference and energy conversion.",
+    "topics_tags": [
+      "Alpha Decay",
+      "Q-Value",
+      "Kinetic Energy"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.13",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 13,
+    "chapter_name": "nuclei",
+    "question_type": "numerical",
+    "question_text": "The radionuclide 11C decays according to the given nuclear reaction. Calculate Q and compare it with the maximum energy of the positron emitted.",
+    "question_latex": "\\begin{array}{l}{{{}^{\\mathrm{t}}\\,\\mathbf{C}\\rightarrow{\\frac{1}{s}}\\,\\mathbf{B}+\\,{e^{*}}+\\,\\nu}}\\\\ {{{}}}\\\\ {{{}}}\\\\ {{{}}}\\\\ {{{\\mathrm{Half~life~of~\\partialf~\\partialc~\\partialt~}},\\,T_{1/2}=20.3\\ \\mathrm{min}}}\\end{array}",
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Nuclear reaction diagram showing the decay of 11C to 11B with positron emission.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777761032/ncert/physics/13/img_16_0.png",
+      "latex_extracted": "\\begin{array}{l}{{{}^{\\mathrm{t}}\\,\\mathbf{C}\\rightarrow{\\frac{1}{s}}\\,\\mathbf{B}+\\,{e^{*}}+\\,\\nu}}\\\\ {{{}}}\\\\ {{{}}}\\\\ {{{}}}\\\\ {{{\\mathrm{Half~life~of~\\partialf~\\partialc~\\partialt~}},\\,T_{1/2}=20.3\\ \\mathrm{min}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The Q-value is calculated as ΔQ = [11.011434 − 11.0093305 − 2 × 0.000548] c², which gives approximately 0.962 MeV, comparable to the maximum energy of the emitted positron.",
+    "answer_latex": "ΔQ = [11.011434 - 11.0093305 - 2 \\times 0.000548] c^{2} = 0.001033 \\times 931.5 \\approx 0.962 \\text{ MeV}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the masses involved in the decay and set up the Q-value equation.",
+        "expression": "ΔQ = [11.011434 - 11.0093305 - 2 \\times 0.000548] c^{2}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the Q-value using the mass-energy equivalence.",
+        "expression": "ΔQ = 0.001033 \\times 931.5"
+      }
+    ],
+    "final_answer": "Therefore, the Q-value is approximately 0.962 MeV, which is comparable to the maximum energy of the emitted positron.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multi-step calculations and understanding of nuclear decay.",
+    "topics_tags": [
+      "Nuclear Decay",
+      "Q-value",
+      "Positron Emission"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Nuclear reaction diagram showing the decay of 11C to 11B with positron emission.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777761032/ncert/physics/13/img_16_0.png",
+        "latex_extracted": "\\begin{array}{l}{{{}^{\\mathrm{t}}\\,\\mathbf{C}\\rightarrow{\\frac{1}{s}}\\,\\mathbf{B}+\\,{e^{*}}+\\,\\nu}}\\\\ {{{}}}\\\\ {{{}}}\\\\ {{{}}}\\\\ {{{\\mathrm{Half~life~of~\\partialf~\\partialc~\\partialt~}},\\,T_{1/2}=20.3\\ \\mathrm{min}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.14",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 13,
+    "chapter_name": "nuclei",
+    "question_type": "numerical",
+    "question_text": "The nucleus decays by emission. Write down the decay equation and determine the maximum kinetic energy of the electrons emitted.",
+    "question_latex": "\\begin{array}{l}{{\\mathrm{:}.{\\mathcal{Q}}=\\left[22.994466-22.989770\\right]c^{2}}}\\\\ {{\\mathrm{:}=\\left(0.004696\\times^{2}\\right)1}}\\\\ {{\\mathrm{}=(0.004696\\times931.5\\ \\mathrm{MeV/c^{2}}}}\\\\ {{\\mathrm{}:{\\mathcal{Q}}=0.004696\\times931.5=4.374\\ \\mathrm{MeV}.}}\\end{array}",
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The Q-value of the given reaction is calculated as Q = [22.994466 - 22.989770] c², resulting in approximately 4.374 MeV, which is the maximum kinetic energy of the emitted electrons.",
+    "answer_latex": "Q = [22.994466 - 22.989770] c^{2} = 0.004696 \\times 931.5 = 4.374 \\text{ MeV}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set up the Q-value equation using the atomic masses.",
+        "expression": "Q = [22.994466 - 22.989770] c^{2}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the Q-value using the mass-energy equivalence.",
+        "expression": "Q = 0.004696 \\times 931.5"
+      }
+    ],
+    "final_answer": "Thus, the maximum kinetic energy of the emitted electrons is approximately 4.374 MeV.",
+    "answer_image": {
+      "present": true,
+      "description": "Equation showing the calculation of Q-value for the decay process.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777761043/ncert/physics/13/img_18_0.png",
+      "latex_extracted": "\\begin{array}{l}{{\\mathrm{:}.{\\mathcal{Q}}=\\left[22.994466-22.989770\\right]c^{2}}}\\\\ {{\\mathrm{:}=\\left(0.004696\\times^{2}\\right)1}}\\\\ {{\\mathrm{}=(0.004696\\times931.5\\ \\mathrm{MeV/c^{2}}}}\\\\ {{\\mathrm{}:{\\mathcal{Q}}=0.004696\\times931.5=4.374\\ \\mathrm{MeV}.}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of nuclear decay and energy calculations.",
+    "topics_tags": [
+      "Nuclear Decay",
+      "Kinetic Energy",
+      "Q-value"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Equation showing the calculation of Q-value for the decay process.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777761043/ncert/physics/13/img_18_0.png",
+        "latex_extracted": "\\begin{array}{l}{{\\mathrm{:}.{\\mathcal{Q}}=\\left[22.994466-22.989770\\right]c^{2}}}\\\\ {{\\mathrm{:}=\\left(0.004696\\times^{2}\\right)1}}\\\\ {{\\mathrm{}=(0.004696\\times931.5\\ \\mathrm{MeV/c^{2}}}}\\\\ {{\\mathrm{}:{\\mathcal{Q}}=0.004696\\times931.5=4.374\\ \\mathrm{MeV}.}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q13.15",
+    "class": 12,
+    "subject": "physics",
+    "chapter_number": 13,
+    "chapter_name": "nuclei",
+    "question_type": "numerical",
+    "question_text": "Determine from the given data the Q-value of the following reactions and state whether the reactions are exothermic or endothermic.",
+    "question_latex": "Q = [ m_A + m_b - m_C - m_d ]c^2",
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The negative Q-value of the reaction shows that the reaction is endothermic.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the Q-value using the provided atomic masses.",
+        "expression": "Q = [m_A + m_b - m_C - m_d]c^2"
+      },
+      {
+        "step_number": 2,
+        "description": "Determine if the Q-value is positive or negative to classify the reaction.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, the reaction is endothermic.",
+    "answer_image": {
+      "present": true,
+      "description": "Table showing atomic masses of isotopes involved in the nuclear reaction.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777761049/ncert/physics/13/img_19_0.png",
+      "latex_extracted": "\\begin{array}{l}{{m\\bigl(^{2}{\\dot{\\mathbf{i}}}\\mathrm{H}\\bigr)=2.014102\\ \\mathrm{u}}}\\\\ {{m\\bigl({}^{3}{\\dot{\\mathbf{i}}}\\bigr)=3.016049\\ \\mathrm{u}}}\\\\ {{m\\bigl({}^{2}{\\dot{\\mathbf{s}}}{\\mathsf{G}}\\bigr)=12.000000\\mathrm{u}}}\\\\ {{m\\bigl({}^{3}{\\mathsf{N}}{\\mathsf{G}}\\bigr)=1.992439\\quad}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires calculation of Q-value and understanding of exothermic vs endothermic reactions.",
+    "topics_tags": [
+      "Nuclear Reactions",
+      "Q-value",
+      "Exothermic",
+      "Endothermic"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Table showing atomic masses of isotopes involved in the nuclear reaction.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777761049/ncert/physics/13/img_19_0.png",
+        "latex_extracted": "\\begin{array}{l}{{m\\bigl(^{2}{\\dot{\\mathbf{i}}}\\mathrm{H}\\bigr)=2.014102\\ \\mathrm{u}}}\\\\ {{m\\bigl({}^{3}{\\dot{\\mathbf{i}}}\\bigr)=3.016049\\ \\mathrm{u}}}\\\\ {{m\\bigl({}^{2}{\\dot{\\mathbf{s}}}{\\mathsf{G}}\\bigr)=12.000000\\mathrm{u}}}\\\\ {{m\\bigl({}^{3}{\\mathsf{N}}{\\mathsf{G}}\\bigr)=1.992439\\quad}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q13.16",
+    "class": 12,
+    "subject": "physics",
+    "chapter_number": 13,
+    "chapter_name": "nuclei",
+    "question_type": "numerical",
+    "question_text": "The Q-value of this nuclear reaction is given as:",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical expressions showing calculations for Q-value of a nuclear reaction.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777761055/ncert/physics/13/img_20_0.png",
+      "latex_extracted": "\\begin{array}{c}{{Q=\\left[2m\\Bigl(_{~5}^{12}\\zeta\\Bigr)-m\\Bigl(_{~10}^{13}\\mathrm{Ne}\\Bigr)-m\\Bigl(_{~10}^{4}\\mathrm{He}\\Bigr)-m\\Bigl(_{~2}^{4}\\mathrm{He}\\Bigr)\\right]c^{2}}}\\\\ {{=\\bigl(2\\times12.0-19.992439-4.002603]c^{2}}}\\\\ {{=0.004958\\times931.5=4.618377\\mathrm{~MeV}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The positive Q-value of the reaction shows that the reaction is exothermic.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the Q-value using the provided atomic masses.",
+        "expression": "Q = [2m(^{12}C) - m(^{13}Ne) - m(^{4}He)]c^2"
+      },
+      {
+        "step_number": 2,
+        "description": "Determine if the Q-value is positive or negative to classify the reaction.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, the reaction is exothermic.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires calculation of Q-value and understanding of exothermic vs endothermic reactions.",
+    "topics_tags": [
+      "Nuclear Reactions",
+      "Q-value",
+      "Exothermic"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical expressions showing calculations for Q-value of a nuclear reaction.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777761055/ncert/physics/13/img_20_0.png",
+        "latex_extracted": "\\begin{array}{c}{{Q=\\left[2m\\Bigl(_{~5}^{12}\\zeta\\Bigr)-m\\Bigl(_{~10}^{13}\\mathrm{Ne}\\Bigr)-m\\Bigl(_{~10}^{4}\\mathrm{He}\\Bigr)-m\\Bigl(_{~2}^{4}\\mathrm{He}\\Bigr)\\right]c^{2}}}\\\\ {{=\\bigl(2\\times12.0-19.992439-4.002603]c^{2}}}\\\\ {{=0.004958\\times931.5=4.618377\\mathrm{~MeV}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.17",
+    "class": 12,
+    "subject": "physics",
+    "chapter_number": 13,
+    "chapter_name": "nuclei",
+    "question_type": "numerical",
+    "question_text": "How much energy, in MeV, is released if all the atoms in 1 kg of pure undergo fission?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The Q-value of the fission is negative. Therefore, the fission is not possible energetically.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the Q-value using the provided atomic masses.",
+        "expression": "Q = [m(^{2}Fe) - 2m(^{3}A)]c^2"
+      },
+      {
+        "step_number": 2,
+        "description": "Determine if the Q-value is positive or negative to classify the reaction.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, the fission is not possible energetically.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical expressions showing calculations for Q-value of a fission reaction.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777761070/ncert/physics/13/img_21_1.png",
+      "latex_extracted": "\\begin{array}{l}{{Q=\\left[m\\left(\\stackrel{S_{0}}{2}\\mathrm{Fe}\\right)-2m\\left(\\stackrel{S_{3}}{15}\\mathrm{A}\\right)\\right]c^{2}}}\\\\ {{=\\left[5.93494-2\\times27.98191\\right]c^{2}}}\\\\ {{=\\left(-0.02888\\times931.5=-26.902\\,\\mathrm{MeV}.}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires calculation of Q-value and understanding of fission energetics.",
+    "topics_tags": [
+      "Nuclear Fission",
+      "Q-value",
+      "Energy Release"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical expressions showing calculations for Q-value of a fission reaction.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777761070/ncert/physics/13/img_21_1.png",
+        "latex_extracted": "\\begin{array}{l}{{Q=\\left[m\\left(\\stackrel{S_{0}}{2}\\mathrm{Fe}\\right)-2m\\left(\\stackrel{S_{3}}{15}\\mathrm{A}\\right)\\right]c^{2}}}\\\\ {{=\\left[5.93494-2\\times27.98191\\right]c^{2}}}\\\\ {{=\\left(-0.02888\\times931.5=-26.902\\,\\mathrm{MeV}.}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q13.18",
+    "class": 12,
+    "subject": "physics",
+    "chapter_number": 13,
+    "chapter_name": "nuclei",
+    "question_type": "numerical",
+    "question_text": "A 1000 MW fission reactor consumes half of its fuel in 5.00 y. How much did it contain initially? Assume that the reactor operates 80% of the time, that all the energy generated arises from the fission of U-235 and that this nuclide is consumed only by the fission process.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The initial amount of Uranium-235 is calculated as 3076 kg.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the total energy generated per gram of Uranium-235.",
+        "expression": "\\frac{6.023\\times10^{5}}{235}\\times200\\mathrm{~MeV}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the total energy generated in 5 years considering the reactor operates 80% of the time.",
+        "expression": "5\\times80\\times60\\times60\\times24\\times1000\\times10^{6}"
+      },
+      {
+        "step_number": 3,
+        "description": "Determine the initial amount of Uranium-235 based on the energy calculations.",
+        "expression": "2\\times1538"
+      }
+    ],
+    "final_answer": "Therefore, the initial amount of Uranium-235 in the reactor was 3076 kg.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical expression showing total energy released during fission of 1 kg of Uranium-235.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777761071/ncert/physics/13/img_22_0.png",
+      "latex_extracted": "\\begin{array}{l}{{{\\cal E}={\\cal E}_{\\omega}\\times2.52\\times10^{24}}}\\\\ {{=180\\times2.52\\times10^{24}=4.536\\times10^{26}\\ \\mathrm{MeV}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations and understanding of fission energy.",
+    "topics_tags": [
+      "Fission Reactor",
+      "Uranium-235",
+      "Energy Calculation"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical expression showing total energy released during fission of 1 kg of Uranium-235.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777761071/ncert/physics/13/img_22_0.png",
+        "latex_extracted": "\\begin{array}{l}{{{\\cal E}={\\cal E}_{\\omega}\\times2.52\\times10^{24}}}\\\\ {{=180\\times2.52\\times10^{24}=4.536\\times10^{26}\\ \\mathrm{MeV}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q13.19",
+    "class": 12,
+    "subject": "physics",
+    "chapter_number": 13,
+    "chapter_name": "nuclei",
+    "question_type": "numerical",
+    "question_text": "How long can an electric lamp of 100W be kept glowing by fusion of 2.0 kg of deuterium?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical expression showing total energy released in the fusion reaction of deuterium.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777761083/ncert/physics/13/img_24_0.png",
+      "latex_extracted": "\\begin{array}{c}{{E=\\frac{3.27}{2}\\times6.023\\times10^{26}\\;\\mathrm{MeV}}}\\\\ {{=\\frac{3.27}{2}\\times6.023\\times10^{26}\\times1.6\\times10^{-19}\\times10^{6}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The total time for which the electric lamp will glow is calculated as approximately 1.576 x 10^4 seconds.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the total energy released from 2 kg of deuterium.",
+        "expression": "E=\\frac{3.27}{2}\\times6.023\\times10^{26}\\;\\mathrm{MeV}"
+      },
+      {
+        "step_number": 2,
+        "description": "Convert the energy from MeV to Joules.",
+        "expression": "E=\\frac{3.27}{2}\\times6.023\\times10^{26}\\times1.6\\times10^{-19}\\times10^{6}"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the time the lamp can glow using the power of the lamp.",
+        "expression": "\\frac{1.576\\times10^{4}}{100\\times60\\times10^{4}}"
+      }
+    ],
+    "final_answer": "Thus, the electric lamp can glow for approximately 1.576 x 10^4 seconds.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of fusion energy and conversion to time.",
+    "topics_tags": [
+      "Fusion Reaction",
+      "Deuterium",
+      "Energy Calculation"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical expression showing total energy released in the fusion reaction of deuterium.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777761083/ncert/physics/13/img_24_0.png",
+        "latex_extracted": "\\begin{array}{c}{{E=\\frac{3.27}{2}\\times6.023\\times10^{26}\\;\\mathrm{MeV}}}\\\\ {{=\\frac{3.27}{2}\\times6.023\\times10^{26}\\times1.6\\times10^{-19}\\times10^{6}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.20",
+    "class": 12,
+    "subject": "physics",
+    "chapter_number": 13,
+    "chapter_name": "nuclei",
+    "question_type": "numerical",
+    "question_text": "Calculate the height of the potential barrier for a head on collision of two deuterons. (Hint: The height of the potential barrier is given by the Coulomb repulsion between the two deuterons when they just touch each other. Assume that they can be taken as hard spheres of radius 2.0 fm.)",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the formula for Coulomb's law and constants related to the potential energy of deuterons.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777761102/ncert/physics/13/img_25_0.png",
+      "latex_extracted": "\\begin{array}{c}{{\\frac{1}{4\\pi\\epsilon_{0}}=9\\times10^{\\circ}\\,\\,{\\mathrm{Nm}}^{\\circ}\\,{\\mathrm{C}}^{2}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}_{\\mathrm{~}}\\times10^{\\circ}\\,\\,{\\mathrm{~}}_{\\mathrm{~}}\\left(1.6\\times10^{\\circ}\\right)^{\\circ}{\\mathrm{~}}}}\\\\ {{\\mathrm{~}}\\:{=300\\,\\,{\\mathrm{kC}}\\,\\,{\\mathrm{~}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Hence, the height of the potential barrier of the two-deuteron system is 360 keV.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the distance between the centers of the two deuterons.",
+        "expression": "d = 2 \\times 10^{-15} + 2 \\times 10^{-15} = 4 \\times 10^{-15} m"
+      },
+      {
+        "step_number": 2,
+        "description": "Use Coulomb's law to find the potential energy at this distance.",
+        "expression": "U = \\frac{1}{4\\pi\\epsilon_{0}} \\cdot \\frac{(1.6 \\times 10^{-19})^2}{d}"
+      }
+    ],
+    "final_answer": "Therefore, the height of the potential barrier is 360 keV.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding Coulomb's law and performing calculations.",
+    "topics_tags": [
+      "Coulomb's Law",
+      "Deuterons",
+      "Nuclear Physics"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the formula for Coulomb's law and constants related to the potential energy of deuterons.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777761102/ncert/physics/13/img_25_0.png",
+        "latex_extracted": "\\begin{array}{c}{{\\frac{1}{4\\pi\\epsilon_{0}}=9\\times10^{\\circ}\\,\\,{\\mathrm{Nm}}^{\\circ}\\,{\\mathrm{C}}^{2}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}_{\\mathrm{~}}\\times10^{\\circ}\\,\\,{\\mathrm{~}}_{\\mathrm{~}}\\left(1.6\\times10^{\\circ}\\right)^{\\circ}{\\mathrm{~}}}}\\\\ {{\\mathrm{~}}\\:{=300\\,\\,{\\mathrm{kC}}\\,\\,{\\mathrm{~}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.21",
+    "class": 12,
+    "subject": "physics",
+    "chapter_number": 13,
+    "chapter_name": "nuclei",
+    "question_type": "conceptual",
+    "question_text": "From the relation R = R0 A^{1/3}, where R is a constant and A is the mass number of a nucleus, show that the nuclear matter density is nearly constant (i.e. independent of A).",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Hence, the nuclear matter density is independent of A. It is nearly constant.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the nuclear matter density remains nearly constant regardless of the mass number.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of nuclear matter density and its relation to mass number.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777761104/ncert/physics/13/img_26_0.png",
+      "latex_extracted": ":\\rho={\\frac{m A}{4}}={\\frac{3m A}{4\\pi{R^{3}}}}={\\frac{3m A}{4\\pi{R_{0}}^{3}A}}={\\frac{3m}{4\\pi R_{0}^{3}}}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of nuclear physics concepts and basic algebra.",
+    "topics_tags": [
+      "Nuclear Density",
+      "Mass Number",
+      "Nuclear Physics"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of nuclear matter density and its relation to mass number.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777761104/ncert/physics/13/img_26_0.png",
+        "latex_extracted": ":\\rho={\\frac{m A}{4}}={\\frac{3m A}{4\\pi{R^{3}}}}={\\frac{3m A}{4\\pi{R_{0}}^{3}A}}={\\frac{3m}{4\\pi R_{0}^{3}}}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q13.22",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 13,
+    "chapter_name": "nuclei",
+    "question_type": "conceptual",
+    "question_text": "Q-value of the positron capture reaction is given as: It can be inferred that if Q >> 0, then Q > 0; Also, if Q > 0, it does not necessarily mean that Q > 0.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of Q-value in nuclear reactions.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777761109/ncert/physics/13/img_28_0.png",
+      "latex_extracted": "\\begin{array}{l}{{Q_{1}=\\left[m_{N}\\left({}_{z}^{4}X\\right)+m_{e}-m_{N}\\left({}_{z+1}^{4}Y\\right)\\right]c^{2}}}\\\\ {{{}}}\\\\ {{=\\left[m\\left({}_{z}^{4}X\\right)-Z m_{e}+m_{e}-m\\left({}_{z+1}^{4}Y\\right)+\\left({}}}\\\\ {{=\\left[m\\left({}_{z}^{4}X\\right)-m\\left({}_{z+1}^{4}Y\\right)+\\left({}}}\\\\ {{{}}}\\end{array}\\right.}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of nuclear reactions and Q-value implications.",
+    "topics_tags": [
+      "Nuclear Reactions",
+      "Q-value",
+      "Positron Capture"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of Q-value in nuclear reactions.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777761109/ncert/physics/13/img_28_0.png",
+        "latex_extracted": "\\begin{array}{l}{{Q_{1}=\\left[m_{N}\\left({}_{z}^{4}X\\right)+m_{e}-m_{N}\\left({}_{z+1}^{4}Y\\right)\\right]c^{2}}}\\\\ {{{}}}\\\\ {{=\\left[m\\left({}_{z}^{4}X\\right)-Z m_{e}+m_{e}-m\\left({}_{z+1}^{4}Y\\right)+\\left({}}}\\\\ {{=\\left[m\\left({}_{z}^{4}X\\right)-m\\left({}_{z+1}^{4}Y\\right)+\\left({}}}\\\\ {{{}}}\\end{array}\\right.}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.23",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 13,
+    "chapter_name": "nuclei",
+    "question_type": "mcq",
+    "question_text": "A source contains two phosphorous radio nuclides (T = 14.3 d) and (T = 25.3 d). Initially, 10% of the decays come from one nuclide. How long must one wait until 90% do so?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "It will take about 208.5 days for 90% decay of the nuclide.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the half-lives of the nuclides involved.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the time required for the decay to reach 90%.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Hence, it will take about 208.5 days for 90% decay of the nuclide.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of mass defect and energy calculation.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777761142/ncert/physics/13/img_31_0.png",
+      "latex_extracted": "\\begin{array}{c}{{\\Delta m=m\\left(\\frac{\\beta^{0}}{15}\\Lambda!\\right)+m\\left(_{\\nu}^{1}\\right)-m\\binom{1}{13}\\Lambda!\\right)}}\\\\ {{=25.986895+1.008665-26.98154!}}\\\\ {{=0.014019\\times931.5\\;\\mathrm{MeV/c^{2}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of half-life and decay calculations.",
+    "topics_tags": [
+      "Radioactive Decay",
+      "Half-Life",
+      "Nuclear Physics"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "Some text garbling and incomplete context."
+    ],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of mass defect and energy calculation.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777761142/ncert/physics/13/img_31_0.png",
+        "latex_extracted": "\\begin{array}{c}{{\\Delta m=m\\left(\\frac{\\beta^{0}}{15}\\Lambda!\\right)+m\\left(_{\\nu}^{1}\\right)-m\\binom{1}{13}\\Lambda!\\right)}}\\\\ {{=25.986895+1.008665-26.98154!}}\\\\ {{=0.014019\\times931.5\\;\\mathrm{MeV/c^{2}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q13.24",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 13,
+    "chapter_name": "nuclei",
+    "question_type": "conceptual",
+    "question_text": "Under certain circumstances, a nucleus can decay by emitting a particle more massive than an α-particle. Calculate the Q-values for these decays and determine that both are energetically allowed.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The Q-value of the reaction is given as Q = (m1 - m2 - m3)c².",
+    "answer_latex": "Q = (m_1 - m_2 - m_3)c^2",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the masses involved in the decay process.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the Q-value using the mass difference.",
+        "expression": "Q = (223.01850 - 208.98107 - 14.00324)c^2"
+      }
+    ],
+    "final_answer": "The Q-value indicates that the decay is energetically allowed.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Requires understanding of nuclear reactions and energy calculations.",
+    "topics_tags": [
+      "Nuclear Decay",
+      "Q-Value",
+      "Energy Conservation"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.27",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 13,
+    "chapter_name": "nuclei",
+    "question_type": "numerical",
+    "question_text": "Calculate Q for the fission process given the masses of the nuclei involved.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Hence, the Q-value of the fission process is 231.007 MeV.",
+    "answer_latex": "Q=231.007 \\text{ MeV}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the masses of the nuclei involved in the fission process.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Apply the formula for Q-value using the identified masses.",
+        "expression": "Q = (m_{initial} - m_{final}) c^2"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the Q-value using the provided masses.",
+        "expression": "Q = 0.247995 \\times 931.5 = 231.007 \\text{ MeV}"
+      }
+    ],
+    "final_answer": "Therefore, the Q-value of the fission process is 231.007 MeV.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical derivation of the Q-value for the fission process.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777761161/ncert/physics/13/img_36_0.png",
+      "latex_extracted": "\\begin{array}{l}{{Q=\\left[m_{i}-92m_{e}+m_{i}-m_{i}+58m_{e}-m_{j}+44m_{e}-10m_{e}\\right]c^{2}}}\\\\ {{=\\left[m_{i}+m_{i}-m_{2}-m_{1}c^{2}\\right]\\Phi}}\\\\ {{=\\left[(\\sum_{i}3807+1.008665-1.399343-98905943-3890594}}\\\\ {{\\mathrm{~;}Q=0.247995\\times9315\\times931.5=231.007\\ M e V^{2}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multi-step calculations and understanding of nuclear reactions.",
+    "topics_tags": [
+      "Nuclear Fission",
+      "Q-value",
+      "Energy Release"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical derivation of the Q-value for the fission process.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777761161/ncert/physics/13/img_36_0.png",
+        "latex_extracted": "\\begin{array}{l}{{Q=\\left[m_{i}-92m_{e}+m_{i}-m_{i}+58m_{e}-m_{j}+44m_{e}-10m_{e}\\right]c^{2}}}\\\\ {{=\\left[m_{i}+m_{i}-m_{2}-m_{1}c^{2}\\right]\\Phi}}\\\\ {{=\\left[(\\sum_{i}3807+1.008665-1.399343-98905943-3890594}}\\\\ {{\\mathrm{~;}Q=0.247995\\times9315\\times931.5=231.007\\ M e V^{2}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q13.26",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 13,
+    "chapter_name": "nuclei",
+    "question_type": "numerical",
+    "question_text": "Q-value of the given D-T reaction is: Q = [m1 + m2 − m3 − m4] c². Calculate Q.",
+    "question_latex": "Q = [m_1 + m_2 - m_3 - m_4] c^2",
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the calculation of Q-value for D-T reaction.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777761169/ncert/physics/13/img_37_0.png",
+      "latex_extracted": "\\begin{array}{c}{{\\mathrm{\\Large~\\hat{z}\\times{\\scriptstyle\\left(1.6\\times10^{-19}\\right)}^{2}}}}\\\\ {{\\mathrm{\\tiny{~4\\times10^{-11}}}=5.76\\times10^{-14}}}\\\\ {{\\mathrm{\\tiny{~\\displaystyle{L6\\times10^{-1}}}}=3.6\\times10^{5}\\mathrm{\\scriptsize{~eV=360\\keV}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The Q-value is calculated as Q = 0.018883 × 931.5 = 17.59 MeV.",
+    "answer_latex": "Q = 0.018883 \\times 931.5 = 17.59 \\text{ MeV}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Substitute the masses into the Q-value formula.",
+        "expression": "Q = [2.014102 + 3.016049 - 4.002603 - 1.008665] c^2"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the value inside the brackets.",
+        "expression": "Q = [0.018883] c^2"
+      },
+      {
+        "step_number": 3,
+        "description": "Convert the mass defect to energy using the conversion factor.",
+        "expression": "Q = 0.018883 \\times 931.5"
+      }
+    ],
+    "final_answer": "Therefore, the Q-value of the reaction is 17.59 MeV.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps of calculation and understanding of mass-energy equivalence.",
+    "topics_tags": [
+      "Nuclear Reactions",
+      "Q-value",
+      "Deuterium-Tritium Fusion"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the calculation of Q-value for D-T reaction.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777761169/ncert/physics/13/img_37_0.png",
+        "latex_extracted": "\\begin{array}{c}{{\\mathrm{\\Large~\\hat{z}\\times{\\scriptstyle\\left(1.6\\times10^{-19}\\right)}^{2}}}}\\\\ {{\\mathrm{\\tiny{~4\\times10^{-11}}}=5.76\\times10^{-14}}}\\\\ {{\\mathrm{\\tiny{~\\displaystyle{L6\\times10^{-1}}}}=3.6\\times10^{5}\\mathrm{\\scriptsize{~eV=360\\keV}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.28",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 13,
+    "chapter_name": "nuclei",
+    "question_type": "conceptual",
+    "question_text": "Obtain the maximum kinetic energy of β-particles, and the radiation frequencies of γ decays in the decay scheme shown in Fig. 13.6.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The maximum kinetic energy of β-particles and the radiation frequencies of γ decays can be calculated from the energy levels.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "The calculations yield the maximum kinetic energy and frequencies based on the decay scheme.",
+    "answer_image": {
+      "present": true,
+      "description": "Decay scheme diagram showing energy levels and transitions for γ decays.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777761173/ncert/physics/13/img_38_1.png",
+      "latex_extracted": "\\left.\\begin{array}{l l}{\\nu_{5}^{0,8,44}}\\\\ {\\sum_{\\Lambda_{1}^{0}}\\sum_{\\Lambda_{1}^{-}}\\sum_{\\Lambda_{2}^{-}}\\prod_{\\stackrel{\\mathrm{1,0.412.M41}}{\\Lambda_{5}^{-}}}}\\\\ {\\sum_{\\Lambda_{0}^{-}\\Lambda_{5}^{-}\\Gamma_{3}^{-}}\\end{array}\\right.",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of decay processes and energy level transitions.",
+    "topics_tags": [
+      "Beta Decay",
+      "Gamma Decay",
+      "Energy Levels"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Decay scheme diagram showing energy levels and transitions for γ decays.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777761173/ncert/physics/13/img_38_1.png",
+        "latex_extracted": "\\left.\\begin{array}{l l}{\\nu_{5}^{0,8,44}}\\\\ {\\sum_{\\Lambda_{1}^{0}}\\sum_{\\Lambda_{1}^{-}}\\sum_{\\Lambda_{2}^{-}}\\prod_{\\stackrel{\\mathrm{1,0.412.M41}}{\\Lambda_{5}^{-}}}}\\\\ {\\sum_{\\Lambda_{0}^{-}\\Lambda_{5}^{-}\\Gamma_{3}^{-}}\\end{array}\\right.",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q13.29",
+    "class": 12,
+    "subject": "physics",
+    "chapter_number": 13,
+    "chapter_name": "nuclei",
+    "question_type": "mcq",
+    "question_text": "Calculate and compare the energy released by a) fusion of 1.0 kg of hydrogen deep within the Sun and b) the fission of 1.0 kg of 235U in a fission reactor.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of energy calculations related to fusion and fission processes.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777761183/ncert/physics/13/img_40_0.png",
+      "latex_extracted": "\\begin{array}{l}{{\\mathrm{:}\\cdot\\nu_{3}={\\frac{E_{3}}{h}}}}\\\\ {{\\mathrm{=}{\\frac{6.676\\times1.6\\times10^{-19}\\times10^{6}}{6.6\\times10^{-14}}}=1.639\\times10^{19}\\ \\mathrm{Hz}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The energy released in the fusion of 1 kg of hydrogen is nearly 8 times the energy released in the fission of 1 kg of uranium.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the energy released from the fusion of 1 kg of hydrogen.",
+        "expression": "E_{1}=\\frac{6.023\\times10^{35}\\times26\\times10^{1}}{4}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the energy released from the fission of 1 kg of 235U.",
+        "expression": "E_{2}={\\cfrac{6\\times10^{5}\\times1000\\times200}{235}}"
+      }
+    ],
+    "final_answer": "Therefore, the energy released in the fusion of 1 kg of hydrogen is nearly 8 times the energy released in the fission of 1 kg of uranium.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations and comparisons of energy from fusion and fission.",
+    "topics_tags": [
+      "Nuclear Fusion",
+      "Nuclear Fission",
+      "Energy Release"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of energy calculations related to fusion and fission processes.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777761183/ncert/physics/13/img_40_0.png",
+        "latex_extracted": "\\begin{array}{l}{{\\mathrm{:}\\cdot\\nu_{3}={\\frac{E_{3}}{h}}}}\\\\ {{\\mathrm{=}{\\frac{6.676\\times1.6\\times10^{-19}\\times10^{6}}{6.6\\times10^{-14}}}=1.639\\times10^{19}\\ \\mathrm{Hz}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.30",
+    "class": 12,
+    "subject": "physics",
+    "chapter_number": 13,
+    "chapter_name": "nuclei",
+    "question_type": "numerical",
+    "question_text": "Suppose India had a target of producing by 2020 AD, 200,000 MW of electric power, ten percent of which was to be obtained from nuclear power plants. Suppose we are given that, on an average, the efficiency of utilization (i.e. conversion to electric energy) of thermal energy produced in a reactor was 25%. How much amount of fissionable uranium would our country need per year by 2020? Take the heat energy per fission of 235U to be about 200MeV.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the amount of nuclear power needed from fission.",
+        "expression": "P = 2 \\times 10^{5} MW"
+      },
+      {
+        "step_number": 2,
+        "description": "Convert the power requirement to energy per year.",
+        "expression": "2 \\times 10^{10} \\times 60 \\times 60 \\times 24 \\times 365 J/y"
+      }
+    ],
+    "final_answer": "The exact amount of fissionable uranium needed is not provided in the text.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of energy calculations related to nuclear power generation.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777761207/ncert/physics/13/img_42_0.png",
+      "latex_extracted": "\\frac{25}{100}\\times200=50\\;\\mathrm{MeV}_{2}\\;\\mathrm{MeV}_{2}\\;\\mathrm{MeV}_{2}\\;\\mathrm{HeV}_{2}\\;\\times\\;10^{6}=8\\times10^{-12}\\;\\mathrm{J}\\;.",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Requires understanding of energy conversion and multiple calculations.",
+    "topics_tags": [
+      "Nuclear Power",
+      "Energy Efficiency",
+      "Uranium Fission"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of energy calculations related to nuclear power generation.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777761207/ncert/physics/13/img_42_0.png",
+        "latex_extracted": "\\frac{25}{100}\\times200=50\\;\\mathrm{MeV}_{2}\\;\\mathrm{MeV}_{2}\\;\\mathrm{MeV}_{2}\\;\\mathrm{HeV}_{2}\\;\\times\\;10^{6}=8\\times10^{-12}\\;\\mathrm{J}\\;.",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q13.31",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 13,
+    "chapter_name": "nuclei",
+    "question_type": "numerical",
+    "question_text": "Calculate the mass of 78840 × 10^24 atoms of U-235.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The mass of uranium needed per year is 3.076 × 10^4 kg.",
+    "answer_latex": "m = 3.076 \\times 10^{4} \\text{ kg}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the mass of U-235 atoms using the given number of atoms.",
+        "expression": "m = \\frac{78840 \\times 10^{24}}{6.023 \\times 10^{23}} \\times 235 \\text{ g}"
+      },
+      {
+        "step_number": 2,
+        "description": "Convert grams to kilograms.",
+        "expression": "m = \\frac{78840 \\times 10^{24} \\times 235}{6.023 \\times 10^{23}} \\times 10^{-3} \\text{ kg}"
+      }
+    ],
+    "final_answer": "Thus, the mass of uranium needed per year is 3.076 × 10^4 kg.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multi-step calculation and unit conversion.",
+    "topics_tags": [
+      "Uranium-235",
+      "Nuclear Physics",
+      "Mass Calculation"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  }
+]

@@ -1,0 +1,1580 @@
+[
+  {
+    "question_id": "Q3.1",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 3,
+    "chapter_name": "Current Electricity",
+    "question_type": "numerical",
+    "question_text": "The storage battery of a car has an emf of 12 V. If the internal resistance of the battery is 0.4Ω, what is the maximum current that can be drawn from the battery?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to the battery and current flow.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796053/ncert/physics/3/img_1_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The maximum current drawn from the given battery is 30 A.",
+    "answer_latex": "I = \\frac{E}{r} = \\frac{12}{0.4} = 30 \\text{ A}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Use Ohm's law to find the maximum current.",
+        "expression": "I = \\frac{E}{r}"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values of emf and internal resistance.",
+        "expression": "I = \\frac{12}{0.4} = 30"
+      }
+    ],
+    "final_answer": "Therefore, the maximum current that can be drawn from the battery is 30 A.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of Ohm's law and simple substitution.",
+    "topics_tags": [
+      "Ohm's Law",
+      "Current",
+      "Resistance"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the battery and current flow.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796053/ncert/physics/3/img_1_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.2",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 3,
+    "chapter_name": "Current Electricity",
+    "question_type": "numerical",
+    "question_text": "A battery of emf 10 V and internal resistance 3 Ω is connected to a resistor. If the current in the circuit is 0.5 A, what is the resistance of the resistor? What is the terminal voltage of the battery when the circuit is closed?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to the battery and resistor circuit.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796056/ncert/physics/3/img_2_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The resistance of the resistor is 17 Ω and the terminal voltage is 8.5 V.",
+    "answer_latex": "R = \\frac{E - V}{I} = \\frac{10 - 8.5}{0.5} = 17 \\text{ Ω}, V = IR = 0.5 \\times 17 = 8.5 \\text{ V}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the terminal voltage using Ohm's law.",
+        "expression": "V = IR"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values to find the terminal voltage.",
+        "expression": "V = 0.5 \\times 17 = 8.5"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the resistance of the resistor.",
+        "expression": "R = \\frac{E - V}{I} = \\frac{10 - 8.5}{0.5} = 17"
+      }
+    ],
+    "final_answer": "Therefore, the resistance of the resistor is 17 Ω and the terminal voltage is 8.5 V.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic calculations using Ohm's law.",
+    "topics_tags": [
+      "Ohm's Law",
+      "Terminal Voltage",
+      "Resistance"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the battery and resistor circuit.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796056/ncert/physics/3/img_2_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.3",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 3,
+    "chapter_name": "Current Electricity",
+    "question_type": "numerical",
+    "question_text": "Three resistors 1 Ω, 2 Ω, and 3 Ω are combined in series. What is the total resistance of the combination? If the combination is connected to a battery of emf 12 V and negligible internal resistance, obtain the potential drop across each resistor.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to the series combination of resistors.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796057/ncert/physics/3/img_3_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The total resistance of the combination is 6 Ω. The potential drop across 1 Ω, 2 Ω, and 3 Ω resistors are 2 V, 4 V, and 6 V respectively.",
+    "answer_latex": "R_{total} = 1 + 2 + 3 = 6 \\text{ Ω}, V_1 = I \\cdot 1 = 2 \\text{ V}, V_2 = I \\cdot 2 = 4 \\text{ V}, V_3 = I \\cdot 3 = 6 \\text{ V}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the total resistance in series.",
+        "expression": "R_{total} = 1 + 2 + 3"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the current using Ohm's law.",
+        "expression": "I = \\frac{E}{R_{total}} = \\frac{12}{6} = 2"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate potential drop across each resistor.",
+        "expression": "V_1 = I \\cdot 1, V_2 = I \\cdot 2, V_3 = I \\cdot 3"
+      }
+    ],
+    "final_answer": "Therefore, the total resistance is 6 Ω and the potential drops are 2 V, 4 V, and 6 V across the resistors.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations and understanding of series circuits.",
+    "topics_tags": [
+      "Series Circuit",
+      "Resistance",
+      "Potential Drop"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the series combination of resistors.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796057/ncert/physics/3/img_3_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.4",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 3,
+    "chapter_name": "current electricity",
+    "question_type": "numerical",
+    "question_text": "There are three resistors of resistances, R = 2 Ω, R = 4 Ω, and R = 5 Ω. They are connected in parallel. Hence, total resistance (R) of the combination is given by, Emf of the battery, V = 20 V. Total current, I = I1 + I2 + I3 = 10 + 5 + 4 = 19 A.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, the current through each resistor is 10 A, 5 A, and 4 A respectively and the total current is 19 A.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the total current flowing through the resistors.",
+        "expression": "I = I1 + I2 + I3 = 10 + 5 + 4"
+      }
+    ],
+    "final_answer": "Thus, the total current is 19 A.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the arrangement of three resistors connected in parallel.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796059/ncert/physics/3/img_4_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of parallel circuits and basic addition.",
+    "topics_tags": [
+      "Resistors",
+      "Parallel Circuits",
+      "Current"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the arrangement of three resistors connected in parallel.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796059/ncert/physics/3/img_4_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q3.5",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 3,
+    "chapter_name": "current electricity",
+    "question_type": "numerical",
+    "question_text": "At room temperature (27.0 °C) the resistance of a heating element is 100 Ω. What is the temperature of the element if the resistance is found to be 117 Ω, given that the temperature coefficient of the material of the resistor is unknown.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, at 1027°C, the resistance of the element is 117Ω.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the temperature of the element is 1027°C.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the relationship between resistance and temperature for a heating element.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796067/ncert/physics/3/img_5_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of temperature coefficient and resistance change.",
+    "topics_tags": [
+      "Resistance",
+      "Temperature Coefficient",
+      "Heating Element"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the relationship between resistance and temperature for a heating element.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796067/ncert/physics/3/img_5_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q3.6",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 3,
+    "chapter_name": "current electricity",
+    "question_type": "mcq",
+    "question_text": "A negligibly small current is passed through a wire of length 15 m and uniform cross-section 6.0 × 10−7 m², and its resistance is measured to be 5.0 Ω. What is the resistivity of the material at the temperature of the experiment?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, the resistivity of the material is 2 × 10−7 Ω m.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the resistivity of the material is 2 × 10−7 Ω m.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the relationship between resistance, length, area, and resistivity.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796068/ncert/physics/3/img_6_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires application of the resistivity formula and basic calculations.",
+    "topics_tags": [
+      "Resistivity",
+      "Resistance",
+      "Electrical Properties"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the relationship between resistance, length, area, and resistivity.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796068/ncert/physics/3/img_6_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q3.7",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 3,
+    "chapter_name": "current electricity",
+    "question_type": "mcq",
+    "question_text": "A heating element using nichrome connected to a 230 V supply draws an initial current of 3.2 A which settles after a few seconds to a steady value of 2.8 A. What is the steady temperature of the heating element if the room temperature is 27.0 °C? Temperature coefficient of resistance of nichrome averaged over the temperature range involved is 1.70 × 10−4 °C −1.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, the steady temperature of the heating element is 867.5°C.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the initial resistance using Ohm's law.",
+        "expression": "R_1 = \\frac{V}{I_1} = \\frac{230}{3.2}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the steady state resistance using Ohm's law.",
+        "expression": "R_2 = \\frac{V}{I_2} = \\frac{230}{2.8}"
+      },
+      {
+        "step_number": 3,
+        "description": "Use the temperature coefficient formula to find the steady temperature.",
+        "expression": "T = T_0 + \\frac{R_2 - R_1}{\\alpha R_1} = 27 + \\frac{R_2 - R_1}{1.70 \\times 10^{-4}}"
+      }
+    ],
+    "final_answer": "Thus, the steady temperature of the heating element is 867.5°C.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram related to the heating element and its resistance.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796072/ncert/physics/3/img_7_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations and understanding of resistance and temperature coefficient.",
+    "topics_tags": [
+      "Nichrome",
+      "Temperature Coefficient",
+      "Heating Element"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the heating element and its resistance.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796072/ncert/physics/3/img_7_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q3.8",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 3,
+    "chapter_name": "Current Electricity",
+    "question_type": "multipart",
+    "question_text": "In a metre bridge [Fig. 3.27], the balance point is found to be at 39.5 cm from the end A, when the resistor Y is of 12.55 Ω. Determine the resistance of X. Why are the connections between resistors in a Wheatstone or meter bridge made of thick copper strips? Determine the balance point of the bridge above if X and Y are interchanged. What happens if the galvanometer and cell are interchanged at the balance point of the bridge? Would the galvanometer show any current?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Determine the resistance of X.",
+        "part_latex": null,
+        "answer_text": "The resistance of resistor X is 8.2 Ω.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the balance point formula for a metre bridge.",
+            "expression": "R_X / R_Y = l / (100 - l)"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the known values into the formula.",
+            "expression": "R_X / 12.55 = 39.5 / (100 - 39.5)"
+          },
+          {
+            "step_number": 3,
+            "description": "Solve for R_X.",
+            "expression": "R_X = 12.55 * (39.5 / 60.5)"
+          }
+        ],
+        "final_answer": "Therefore, the resistance of resistor X is 8.2 Ω.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Why are the connections between resistors in a Wheatstone or meter bridge made of thick copper strips?",
+        "part_latex": null,
+        "answer_text": "The connection between resistors in a Wheatstone or metre bridge is made of thick copper strips to minimize the resistance, which is not taken into consideration in the bridge formula.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "This ensures accurate measurements by reducing additional resistance.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "Determine the balance point of the bridge above if X and Y are interchanged.",
+        "part_latex": null,
+        "answer_text": "The balance point will be 60.5 cm from A.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "When X and Y are interchanged, the balance point l and 100-l get interchanged.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the new balance point.",
+            "expression": "100 - 39.5 = 60.5"
+          }
+        ],
+        "final_answer": "Therefore, the balance point is 60.5 cm from A.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(d)",
+        "part_text": "What happens if the galvanometer and cell are interchanged at the balance point of the bridge? Would the galvanometer show any current?",
+        "part_latex": null,
+        "answer_text": "If the galvanometer and cell are interchanged at the balance point, the galvanometer would not show any current.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "This is because the potential difference across the galvanometer is zero at the balance point.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Diagram of a metre bridge setup with resistors X and Y.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796099/ncert/physics/3/img_11_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple concepts and calculations related to the metre bridge.",
+    "topics_tags": [
+      "Metre Bridge",
+      "Wheatstone Bridge",
+      "Resistance",
+      "Current Electricity"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram of a metre bridge setup with resistors X and Y.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796099/ncert/physics/3/img_11_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q3.9",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 3,
+    "chapter_name": "Current Electricity",
+    "question_type": "numerical",
+    "question_text": "A storage battery of emf 8.0 V and internal resistance 0.5 Ω is being charged by a 120 V dc supply using a series resistor of 15.5 Ω. What is the terminal voltage of the battery during charging? What is the purpose of having a series resistor in the charging circuit?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to the charging circuit of a storage battery.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796106/ncert/physics/3/img_13_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The terminal voltage of the battery during charging is 11.5 V. The purpose of having a series resistor in the charging circuit is to limit the current drawn from the external source, preventing extremely high currents which can be dangerous.",
+    "answer_latex": "V_{terminal} = 120 - 108.5 = 11.5 \\text{ V}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the effective voltage in the circuit.",
+        "expression": "V_1 = V - E = 120 - 8 = 112 \\text{ V}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the current flowing in the circuit using Ohm's law.",
+        "expression": "I = \\frac{V_1}{R + r} = \\frac{112}{15.5 + 0.5} = 7 \\text{ A}"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the voltage drop across the series resistor.",
+        "expression": "V_R = I \\cdot R = 7 \\cdot 15.5 = 108.5 \\text{ V}"
+      },
+      {
+        "step_number": 4,
+        "description": "Calculate the terminal voltage of the battery.",
+        "expression": "V_{terminal} = V - V_R = 120 - 108.5 = 11.5 \\text{ V}"
+      }
+    ],
+    "final_answer": "Therefore, the terminal voltage of the battery during charging is 11.5 V.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations and understanding of circuit principles.",
+    "topics_tags": [
+      "Battery Charging",
+      "Terminal Voltage",
+      "Ohm's Law"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the charging circuit of a storage battery.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796106/ncert/physics/3/img_13_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.10",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 3,
+    "chapter_name": "Current Electricity",
+    "question_type": "conceptual",
+    "question_text": "What is the purpose of having a series resistor in the charging circuit?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The purpose of having a series resistor in the charging circuit is to limit the current drawn from the external source, preventing extremely high currents which can be dangerous.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the series resistor is crucial for safety in the charging circuit.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of the function of a series resistor in a circuit.",
+    "topics_tags": [
+      "Series Resistor",
+      "Charging Circuit",
+      "Current Limiting"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.11",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 3,
+    "chapter_name": "Current Electricity",
+    "question_type": "numerical",
+    "question_text": "In a potentiometer arrangement, a cell of emf 1.25 V gives a balance point at 35.0 cm length of the wire. If the cell is replaced by another cell and the balance point shifts to 63.0 cm, what is the emf of the second cell?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The emf of the second cell is 2.25 V.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Use the ratio of the lengths to find the emf of the second cell.",
+        "expression": "E_2 = E_1 \\cdot \\frac{l_2}{l_1} = 1.25 \\cdot \\frac{63}{35}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the emf of the second cell.",
+        "expression": "E_2 = 1.25 \\cdot 1.8 = 2.25 \\text{ V}"
+      }
+    ],
+    "final_answer": "Therefore, the emf of the second cell is 2.25 V.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of potentiometer principles and simple calculations.",
+    "topics_tags": [
+      "Potentiometer",
+      "Electromotive Force",
+      "Balance Point"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.12",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 3,
+    "chapter_name": "current electricity",
+    "question_type": "mcq",
+    "question_text": "Six lead-acid type of secondary cells each of emf 2.0 V and internal resistance 0.015 Ω are joined in series to provide a supply to a resistance of 8.5 Ω. What are the current drawn from the supply and its terminal voltage?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The current drawn from the supply is 1.39 A and terminal voltage is 11.87 V.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the total emf and total internal resistance of the cells in series.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use Ohm's law to find the current drawn from the supply.",
+        "expression": "I = \\frac{E}{R + r_{total}}"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the terminal voltage using the current and the external resistance.",
+        "expression": "V = I \\times R"
+      }
+    ],
+    "final_answer": "Therefore, the current drawn from the supply is 1.39 A and terminal voltage is 11.87 V.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram related to the current drawn from the supply and terminal voltage.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796119/ncert/physics/3/img_16_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of series circuits and application of Ohm's law.",
+    "topics_tags": [
+      "Series Circuit",
+      "Ohm's Law",
+      "Lead-Acid Battery"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the current drawn from the supply and terminal voltage.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796119/ncert/physics/3/img_16_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q3.13",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 3,
+    "chapter_name": "current electricity",
+    "question_type": "numerical",
+    "question_text": "A secondary cell after long use has an emf of 1.9 V and a large internal resistance of 380 Ω. What maximum current can be drawn from the cell? Could the cell drive the starting motor of a car?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to the maximum current drawn from the secondary cell.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796120/ncert/physics/3/img_17_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The maximum current drawn from the cell is 0.005 A. Since a large current is required to start the motor of a car, the cell cannot be used to start a motor.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the emf and internal resistance of the cell.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the maximum current using Ohm's law.",
+        "expression": "I_{max} = \\frac{E}{r}"
+      }
+    ],
+    "final_answer": "Therefore, the maximum current drawn from the cell is 0.005 A, and it cannot drive the starting motor of a car.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic application of Ohm's law and understanding of cell characteristics.",
+    "topics_tags": [
+      "Secondary Cell",
+      "Ohm's Law",
+      "Motor Starting Current"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the maximum current drawn from the secondary cell.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796120/ncert/physics/3/img_17_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.14",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 3,
+    "chapter_name": "current electricity",
+    "question_type": "conceptual",
+    "question_text": "Two wires of equal length, one of aluminium and the other of copper have the same resistance. Which of the two wires is lighter? Hence explain why aluminium wires are preferred for overhead power cables.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram comparing the properties of aluminium and copper wires.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796125/ncert/physics/3/img_18_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Aluminium wires are lighter than copper wires due to their lower relative density. Aluminium is preferred for overhead power cables because it is lighter and has good conductivity.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, aluminium wires are preferred for overhead power cables due to their lighter weight and sufficient conductivity.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of material properties and their applications in electrical engineering.",
+    "topics_tags": [
+      "Aluminium Wire",
+      "Copper Wire",
+      "Electrical Conductivity"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram comparing the properties of aluminium and copper wires.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796125/ncert/physics/3/img_18_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.17",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 3,
+    "chapter_name": "Current Electricity",
+    "question_type": "conceptual",
+    "question_text": "What conclusion can you draw from the following observations on a resistor made of alloy manganin?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image related to the mass of aluminium and copper wires, showing their densities.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796128/ncert/physics/3/img_19_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "It can be inferred from the given table that the ratio of voltage with current is a constant, which is equal to 19.7. Hence, manganin is an ohmic conductor i.e., the alloy obeys Ohm’s law. According to Ohm’s law, the ratio of voltage with current is the resistance of the conductor. Hence, the resistance of manganin is 19.7 Ω.",
+    "answer_latex": "R = 19.7 \\, \\Omega",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Analyze the table of current and voltage values.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the resistance using Ohm's law.",
+        "expression": "R = \\frac{V}{I} = 19.7"
+      }
+    ],
+    "final_answer": "Therefore, the resistance of manganin is 19.7 Ω.",
+    "answer_image": {
+      "present": true,
+      "description": "Image showing the calculations and observations related to the resistance of manganin.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796131/ncert/physics/3/img_19_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of Ohm's law and analysis of data.",
+    "topics_tags": [
+      "Ohm's Law",
+      "Manganin",
+      "Resistance",
+      "Electrical Conductivity"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image related to the mass of aluminium and copper wires, showing their densities.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796128/ncert/physics/3/img_19_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image showing the calculations and observations related to the resistance of manganin.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796131/ncert/physics/3/img_19_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q3.18",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 3,
+    "chapter_name": "Current Electricity",
+    "question_type": "multipart",
+    "question_text": "Answer the following questions: A steady current flows in a metallic conductor of non-uniform cross-section. Which of these quantities is constant along the conductor: current, current density, electric field, drift speed? Is Ohm’s law universally applicable for all conducting elements? If not, give examples of elements which do not obey Ohm’s law. A low voltage supply from which one needs high currents must have very low internal resistance. Why? A high tension (HT) supply of, say, 6 kV must have a very large internal resistance. Why?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Which of these quantities is constant along the conductor: current, current density, electric field, drift speed?",
+        "part_latex": null,
+        "answer_text": "The current is constant along the conductor.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Therefore, the current remains constant.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Is Ohm’s law universally applicable for all conducting elements? If not, give examples of elements which do not obey Ohm’s law.",
+        "part_latex": null,
+        "answer_text": "No, Ohm’s law is not universally applicable. An example of a non-ohmic conductor is a vacuum diode.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, vacuum diodes do not obey Ohm's law.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "A low voltage supply from which one needs high currents must have very low internal resistance. Why?",
+        "part_latex": null,
+        "answer_text": "If the voltage is low, then the internal resistance must be very low to allow high current to be drawn.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Therefore, low internal resistance is necessary for high current.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(d)",
+        "part_text": "A high tension (HT) supply of, say, 6 kV must have a very large internal resistance. Why?",
+        "part_latex": null,
+        "answer_text": "To prevent the current from exceeding safety limits in case of a short circuit, a high tension supply must have a large internal resistance.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, large internal resistance is crucial for safety.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple concepts and reasoning about electrical properties.",
+    "topics_tags": [
+      "Current",
+      "Ohm's Law",
+      "Electrical Resistance",
+      "Safety in Circuits"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [],
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    }
+  },
+  {
+    "question_id": "Q3.19",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 3,
+    "chapter_name": "current electricity",
+    "question_type": "numerical",
+    "question_text": "Determine the current drawn from a 12 V supply with internal resistance 0.5 Ω by the infinite network shown in Fig. 3.32. Each resistor has 1 Ω resistance.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The total resistance of the given circuit is 3.23 Ω. Hence, the current drawn from the source is 3.72 A.",
+    "answer_latex": "I = \frac{V}{R_{total}} = \frac{12}{3.23} = 3.72 A",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the total resistance of the circuit including internal resistance.",
+        "expression": "R_{total} = 2.73 + 0.5 = 3.23"
+      },
+      {
+        "step_number": 2,
+        "description": "Use Ohm's Law to find the current drawn from the source.",
+        "expression": "I = \frac{12}{3.23}"
+      }
+    ],
+    "final_answer": "Therefore, the current drawn from the supply is 3.72 A.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram of an infinite resistor network connected to a voltage supply.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796205/ncert/physics/3/img_25_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of series circuits and application of Ohm's Law.",
+    "topics_tags": [
+      "Current",
+      "Resistance",
+      "Ohm's Law"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram of an infinite resistor network connected to a voltage supply.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796205/ncert/physics/3/img_25_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q3.20",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 3,
+    "chapter_name": "current electricity",
+    "question_type": "mcq",
+    "question_text": "What is the value ε? What purpose does the high resistance of 600 kΩ have? Is the balance point affected by this high resistance? Is the balance point affected by the internal resistance of the driver cell? Would the method work in the above situation if the driver cell of the potentiometer had an emf of 1.0 V instead of 2.0 V? Would the circuit work well for determining an extremely small emf, say of the order of a few mV (such as the typical emf of a thermo-couple)? If not, how will you modify the circuit?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The value of unknown emf is 1.247 V. The high resistance of 600 kΩ reduces the current through the galvanometer. The balance point is not affected by the high resistance or the internal resistance of the driver cell.",
+    "answer_latex": "E = 1.247 V",
+    "steps": [],
+    "final_answer": "Thus, the balance point remains unaffected by the high resistance and internal resistance.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing a potentiometer setup with a standard cell and resistors.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796226/ncert/physics/3/img_27_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple conceptual questions requiring understanding of potentiometer principles.",
+    "topics_tags": [
+      "Potentiometer",
+      "Electromotive Force",
+      "Resistance"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing a potentiometer setup with a standard cell and resistors.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796226/ncert/physics/3/img_27_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q3.21",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 3,
+    "chapter_name": "Current Electricity",
+    "question_type": "numerical",
+    "question_text": "Determine the value of the unknown resistance X when the balance point with a standard resistor R = 10.0 Ω is found to be 58.3 cm, while that with the unknown resistance X is 68.55 cm.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing a potentiometer circuit for comparison of two resistances.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796227/ncert/physics/3/img_28_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The value of the unknown resistance, X, is 11.75 Ω.",
+    "answer_latex": "X = 11.75 \\, \\Omega",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the balance points for both resistors.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the relation connecting emf and balance point to find X.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, the value of the unknown resistance X is 11.75 Ω.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of potentiometer principles and basic calculations.",
+    "topics_tags": [
+      "Potentiometer",
+      "Resistance",
+      "Electrical Measurements"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing a potentiometer circuit for comparison of two resistances.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796227/ncert/physics/3/img_28_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.22",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 3,
+    "chapter_name": "Current Electricity",
+    "question_type": "conceptual",
+    "question_text": "What might you do if you failed to find a balance point with the given cell of emf ε?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "If you fail to find a balance point, you can reduce the potential drop across R and X by putting a resistance in series with it.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, adding a series resistance can help achieve a balance point.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of potentiometer adjustment methods.",
+    "topics_tags": [
+      "Potentiometer",
+      "Balance Point",
+      "Electrical Circuits"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.23",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 3,
+    "chapter_name": "Current Electricity",
+    "question_type": "mcq",
+    "question_text": "Determine the internal resistance of a 1.5 V cell when the balance point in open circuit is 76.3 cm and shifts to 64.88 cm with a 9.5 Ω resistor in the external circuit.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The internal resistance of the cell is 1.68 Ω.",
+    "answer_latex": "r = 1.68 \\, \\Omega",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the balance points and the external resistance.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the relation connecting resistance and emf to calculate internal resistance.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, the internal resistance of the cell is 1.68 Ω.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing a potentiometer used for the determination of internal resistance of a cell.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796232/ncert/physics/3/img_29_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of internal resistance and calculations.",
+    "topics_tags": [
+      "Internal Resistance",
+      "Potentiometer",
+      "Electrical Measurements"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing a potentiometer used for the determination of internal resistance of a cell.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777796232/ncert/physics/3/img_29_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  }
+]

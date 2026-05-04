@@ -1,0 +1,5250 @@
+[
+  {
+    "question_id": "Q4.1",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "numerical",
+    "question_text": "Evaluate the determinants in Exercises 1 and 2.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image showing the context of evaluating determinants.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894776/ncert/maths/4/img_1_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The answer is = 2(−1) − 4(−5) = − 2 + 20 = 18.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the determinant using the formula.",
+        "expression": "2(-1) - 4(-5)"
+      },
+      {
+        "step_number": 2,
+        "description": "Simplify the expression.",
+        "expression": "-2 + 20"
+      }
+    ],
+    "final_answer": "Therefore, the value of the determinant is 18.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct calculation of a determinant with simple arithmetic.",
+    "topics_tags": [
+      "Determinants",
+      "Matrix Algebra",
+      "Evaluation"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image showing the context of evaluating determinants.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894776/ncert/maths/4/img_1_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.2",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "mcq",
+    "question_text": "If area of triangle is 35 square units with vertices (2, −6), (5, 4), and (k, 4). Then k is",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "12"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "−2"
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "−12, −2"
+      },
+      {
+        "option_label": "(D)",
+        "option_text": "12, −2"
+      }
+    ],
+    "correct_option": "(D)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The correct answer is D.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Hence, k can be 12 or -2.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram related to the area of a triangle with vertices (2, −6), (5, 4), and (k, 4)",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894943/ncert/maths/4/img_29_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves understanding of area calculation using determinants.",
+    "topics_tags": [
+      "Triangle Area",
+      "Determinants",
+      "Geometry"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the area of a triangle with vertices (2, −6), (5, 4), and (k, 4)",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894943/ncert/maths/4/img_29_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.3",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "conceptual",
+    "question_text": "If , then show that.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image showing the context of a matrix related to determinants.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894780/ncert/maths/4/img_2_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The given matrix is shown, and it can be observed that in the first column, two entries are zero.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of matrix properties and determinant expansion.",
+    "topics_tags": [
+      "Determinants",
+      "Matrix Properties",
+      "Expansion"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image showing the context of a matrix related to determinants.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894780/ncert/maths/4/img_2_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.4",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "conceptual",
+    "question_text": "If , then show that.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image showing the context of a matrix related to determinants.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894781/ncert/maths/4/img_2_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The given matrix is shown, and it can be observed that in the first column, two entries are zero. Thus, we expand along the first column (C1) for easier calculation.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of matrix properties and determinant expansion.",
+    "topics_tags": [
+      "Determinants",
+      "Matrix Properties",
+      "Expansion"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image showing the context of a matrix related to determinants.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894781/ncert/maths/4/img_2_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.5",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "numerical",
+    "question_text": "Evaluate the determinants.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image showing the context of evaluating determinants.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894785/ncert/maths/4/img_3_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "Let the determinant be evaluated.",
+        "part_latex": null,
+        "answer_text": "The answer is obtained by expanding along the second row.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "Let the determinant be evaluated.",
+        "part_latex": null,
+        "answer_text": "The answer is obtained by expanding along the first row.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of determinant properties and algebraic manipulation.",
+    "topics_tags": [
+      "Determinants",
+      "Matrix Algebra",
+      "Evaluation"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image showing the context of evaluating determinants.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894785/ncert/maths/4/img_3_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [],
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    }
+  },
+  {
+    "question_id": "Q4.6",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "conceptual",
+    "question_text": "If , find .",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image related to the question about determinants.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894802/ncert/maths/4/img_4_2.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of determinants and expansion methods.",
+    "topics_tags": [
+      "Determinants",
+      "Matrix",
+      "Expansion"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image related to the question about determinants.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894802/ncert/maths/4/img_4_2.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.7",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "conceptual",
+    "question_text": "Find values of x, if (i) (ii)",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image related to the question about finding values of x.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894809/ncert/maths/4/img_5_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves solving equations based on determinants.",
+    "topics_tags": [
+      "Determinants",
+      "Matrix",
+      "Algebra"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image related to the question about finding values of x.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894809/ncert/maths/4/img_5_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.8",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "mcq",
+    "question_text": "If , then x is equal to",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "6"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "±6"
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "−6"
+      },
+      {
+        "option_label": "(D)",
+        "option_text": "0"
+      }
+    ],
+    "correct_option": "(B)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Hence, the correct answer is B.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, x is equal to ±6.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires basic understanding of determinants and solving for x.",
+    "topics_tags": [
+      "Determinants",
+      "Algebra",
+      "Equations"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.9",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "conceptual",
+    "question_text": "Using the property of determinants and without expanding, prove that:",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image showing a property of determinants related to identical rows.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894817/ncert/maths/4/img_7_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Here, the two rows R1 and R3 are identical. Therefore, ∆ = 0.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the determinant is zero due to identical rows.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of properties of determinants.",
+    "topics_tags": [
+      "Determinants",
+      "Properties",
+      "Linear Algebra"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image showing a property of determinants related to identical rows.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894817/ncert/maths/4/img_7_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.10",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "conceptual",
+    "question_text": "Using the property of determinants and without expanding, prove that:",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image showing a property of determinants related to proportional columns.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894821/ncert/maths/4/img_7_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Here, two columns C1 and C3 are proportional. Therefore, ∆ = 0.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the determinant is zero due to proportional columns.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of properties of determinants.",
+    "topics_tags": [
+      "Determinants",
+      "Properties",
+      "Linear Algebra"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image showing a property of determinants related to proportional columns.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894821/ncert/maths/4/img_7_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.11",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "conceptual",
+    "question_text": "Using the property of determinants and without expanding, prove that:",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image showing a property of determinants related to identical rows.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894822/ncert/maths/4/img_7_2.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Here, the two rows R1 and R3 are identical. Therefore, ∆ = 0.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the determinant is zero due to identical rows.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of properties of determinants.",
+    "topics_tags": [
+      "Determinants",
+      "Properties",
+      "Linear Algebra"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image showing a property of determinants related to identical rows.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894822/ncert/maths/4/img_7_2.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.12",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "conceptual",
+    "question_text": "Using the property of determinants and without expanding, prove that:",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image showing a property of determinants related to proportional columns.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894823/ncert/maths/4/img_7_3.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Here, two columns C1 and C3 are proportional. Therefore, ∆ = 0.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the determinant is zero due to proportional columns.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of properties of determinants.",
+    "topics_tags": [
+      "Determinants",
+      "Properties",
+      "Linear Algebra"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image showing a property of determinants related to proportional columns.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894823/ncert/maths/4/img_7_3.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.13",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "conceptual",
+    "question_text": "By using properties of determinants, show that:",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Images related to properties of determinants.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894845/ncert/maths/4/img_10_5.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of properties of determinants.",
+    "topics_tags": [
+      "Determinants",
+      "Properties",
+      "Matrix Algebra"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Images related to properties of determinants.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894845/ncert/maths/4/img_10_5.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.14",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "conceptual",
+    "question_text": "By using properties of determinants, show that:",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Images related to properties of determinants.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894856/ncert/maths/4/img_12_4.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of properties of determinants.",
+    "topics_tags": [
+      "Determinants",
+      "Properties",
+      "Matrix Algebra"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Images related to properties of determinants.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894856/ncert/maths/4/img_12_4.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.15",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "conceptual",
+    "question_text": "By using properties of determinants, show that:",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "An image related to properties of determinants.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894864/ncert/maths/4/img_14_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "An image showing the answer related to properties of determinants.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894865/ncert/maths/4/img_14_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of properties of determinants and their application.",
+    "topics_tags": [
+      "Determinants",
+      "Properties",
+      "Matrix Algebra"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "An image related to properties of determinants.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894864/ncert/maths/4/img_14_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "An image showing the answer related to properties of determinants.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894865/ncert/maths/4/img_14_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.16",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "multipart",
+    "question_text": "By using properties of determinants, show that:\n(i)\n(ii)",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Images showing properties of determinants and transformations applied to rows and columns.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894882/ncert/maths/4/img_16_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "Applying R → R + R + R , we have:\n1 1 2 3\nApplying C → C − C , C → C − C , we have:\n2 2 1 3 3 1",
+        "part_latex": null,
+        "answer_text": "The result is proved by applying the properties of determinants.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Apply the row operation R → R + R + R to the determinant.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Apply the column operations C → C − C and C → C − C.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Hence, the given result is proved.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "Applying R → R + R + R , we have:\n1 1 2 3\nApplying C → C − C , C → C − C , we have:\n2 2 1 3 3 1",
+        "part_latex": null,
+        "answer_text": "The result is proved by applying the properties of determinants.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Apply the row operation R → R + R + R to the determinant.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Apply the column operations C → C − C and C → C − C.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Hence, the given result is proved.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of properties of determinants and applying multiple operations.",
+    "topics_tags": [
+      "Determinants",
+      "Properties",
+      "Matrix Operations"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "mixed_or_weak_context"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Images showing properties of determinants and transformations applied to rows and columns.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894882/ncert/maths/4/img_16_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.17",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "conceptual",
+    "question_text": "By using properties of determinants, show that:",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Question asking to show a property of determinants.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894904/ncert/maths/4/img_19_3.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Applying R → R + R + R , we have:\n1 1 2 3\nApplying C → C − C and C → C − C , we have:\n2 2 1 3 3 1\nExpanding along R , we have:\nHence, the given result is proved.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Apply the row operation R → R + R + R.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Apply the column operations C → C − C and C → C − C.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Expand the determinant along row R.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Hence, the given result is proved.",
+    "answer_image": {
+      "present": true,
+      "description": "Answer showing the steps to prove the property of determinants.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894906/ncert/maths/4/img_20_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of properties of determinants and basic operations.",
+    "topics_tags": [
+      "Determinants",
+      "Properties",
+      "Matrix Operations"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Question asking to show a property of determinants.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894904/ncert/maths/4/img_19_3.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Answer showing the steps to prove the property of determinants.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894906/ncert/maths/4/img_20_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.18",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "conceptual",
+    "question_text": "By using properties of determinants, show that:",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Question asking to show a property of determinants.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894915/ncert/maths/4/img_21_5.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Applying R → R + bR and R → R − aR , we have:\n1 1 3 2 2 3\nExpanding along R , we have:",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Apply the row operation R → R + bR.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Apply the row operation R → R − aR.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Expand the determinant along row R.",
+        "expression": null
+      }
+    ],
+    "final_answer": "The result is proved using the properties of determinants.",
+    "answer_image": {
+      "present": true,
+      "description": "Answer showing the steps to prove the property of determinants.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894912/ncert/maths/4/img_21_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of properties of determinants and basic operations.",
+    "topics_tags": [
+      "Determinants",
+      "Properties",
+      "Matrix Operations"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Question asking to show a property of determinants.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894915/ncert/maths/4/img_21_5.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Answer showing the steps to prove the property of determinants.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894912/ncert/maths/4/img_21_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.19",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "mcq",
+    "question_text": "Let A be a square matrix of order 3 × 3, then is equal to",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "A",
+        "option_text": "Determinant is a square matrix."
+      },
+      {
+        "option_label": "B",
+        "option_text": "Determinant is a number associated to a matrix."
+      },
+      {
+        "option_label": "C",
+        "option_text": "Determinant is a number associated to a square matrix."
+      },
+      {
+        "option_label": "D",
+        "option_text": "None of these."
+      }
+    ],
+    "correct_option": "C",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Hence, the correct answer is C.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the determinant is a number associated to a square matrix.",
+    "answer_image": {
+      "present": true,
+      "description": "Answer indicating the correct option is C.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894922/ncert/maths/4/img_23_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of the definition of determinants.",
+    "topics_tags": [
+      "Determinants",
+      "Square Matrix",
+      "Matrix Theory"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Answer indicating the correct option is C.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894922/ncert/maths/4/img_23_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.20",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "mcq",
+    "question_text": "Which of the following is correct?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Requires basic understanding of determinants.",
+    "topics_tags": [
+      "Determinants",
+      "Matrix Theory"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.21",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "mcq",
+    "question_text": "Find area of the triangle with vertices at the point given in each of the following:\n(i) (1, 0), (6, 0), (4, 3) \n(ii) (2, 7), (1, 1), (10, 8)\n(iii) (−2, −3), (3, 2), (−1, −8)",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "(1, 0), (6, 0), (4, 3)",
+        "part_latex": null,
+        "answer_text": "The area of the triangle with vertices (1, 0), (6, 0), (4, 3) is given by the relation.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": true,
+          "description": "Image showing the area calculation for the first triangle.",
+          "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894930/ncert/maths/4/img_26_0.png",
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "answer"
+        },
+        "question_images": [],
+        "answer_images": [
+          {
+            "present": true,
+            "description": "Image showing the area calculation for the first triangle.",
+            "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894930/ncert/maths/4/img_26_0.png",
+            "latex_extracted": null,
+            "source_page_number": null,
+            "source_image_index": null,
+            "ownership": "answer"
+          }
+        ],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "(2, 7), (1, 1), (10, 8)",
+        "part_latex": null,
+        "answer_text": "The area of the triangle with vertices (2, 7), (1, 1), (10, 8) is given by the relation.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": true,
+          "description": "Image showing the area calculation for the second triangle.",
+          "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894931/ncert/maths/4/img_26_1.png",
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "answer"
+        },
+        "question_images": [],
+        "answer_images": [
+          {
+            "present": true,
+            "description": "Image showing the area calculation for the second triangle.",
+            "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894931/ncert/maths/4/img_26_1.png",
+            "latex_extracted": null,
+            "source_page_number": null,
+            "source_image_index": null,
+            "ownership": "answer"
+          }
+        ],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "(−2, −3), (3, 2), (−1, −8)",
+        "part_latex": null,
+        "answer_text": "The area of the triangle with vertices (−2, −3), (3, 2), (−1, −8) is given by the relation.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": true,
+          "description": "Image showing the area calculation for the third triangle.",
+          "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894932/ncert/maths/4/img_26_2.png",
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "answer"
+        },
+        "question_images": [],
+        "answer_images": [
+          {
+            "present": true,
+            "description": "Image showing the area calculation for the third triangle.",
+            "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894932/ncert/maths/4/img_26_2.png",
+            "latex_extracted": null,
+            "source_page_number": null,
+            "source_image_index": null,
+            "ownership": "answer"
+          }
+        ],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Image showing the vertices of the triangles for area calculation.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894926/ncert/maths/4/img_25_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of area calculation using vertices.",
+    "topics_tags": [
+      "Area of Triangle",
+      "Determinants",
+      "Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image showing the vertices of the triangles for area calculation.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894926/ncert/maths/4/img_25_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.22",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "conceptual",
+    "question_text": "Show that points are collinear.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Area of ∆ABC is given by the relation. Thus, the area of the triangle formed by points A, B, and C is zero.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Hence, the area of the triangle is zero.",
+    "answer_image": {
+      "present": true,
+      "description": "Image showing the area calculation for collinearity.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894930/ncert/maths/4/img_26_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of collinearity and area calculation.",
+    "topics_tags": [
+      "Collinearity",
+      "Determinants",
+      "Geometry"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image showing the area calculation for collinearity.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894930/ncert/maths/4/img_26_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.23",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "mcq",
+    "question_text": "Find values of k if area of triangle is 4 square units and vertices are:\n(i) (k, 0), (4, 0), (0, 2) \n(ii) (−2, 0), (0, 4), (0, k)",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "(k, 0), (4, 0), (0, 2)",
+        "part_latex": null,
+        "answer_text": "The area of the triangle with vertices (k, 0), (4, 0), (0, 2) is given by the relation. ∆ = ± 4. When −k + 4 = − 4, k = 8. When −k + 4 = 4, k = 0. Hence, k = 0, 8.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, k can be 0 or 8.",
+        "answer_image": {
+          "present": true,
+          "description": "Image showing the area calculation for the first triangle.",
+          "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894934/ncert/maths/4/img_27_0.png",
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "answer"
+        },
+        "question_images": [],
+        "answer_images": [
+          {
+            "present": true,
+            "description": "Image showing the area calculation for the first triangle.",
+            "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894934/ncert/maths/4/img_27_0.png",
+            "latex_extracted": null,
+            "source_page_number": null,
+            "source_image_index": null,
+            "ownership": "answer"
+          }
+        ],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "(−2, 0), (0, 4), (0, k)",
+        "part_latex": null,
+        "answer_text": "The area of the triangle with vertices (−2, 0), (0, 4), (0, k) is given by the relation. ∆ = ± 4.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": true,
+          "description": "Image showing the area calculation for the second triangle.",
+          "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894935/ncert/maths/4/img_27_1.png",
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "answer"
+        },
+        "question_images": [],
+        "answer_images": [
+          {
+            "present": true,
+            "description": "Image showing the area calculation for the second triangle.",
+            "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894935/ncert/maths/4/img_27_1.png",
+            "latex_extracted": null,
+            "source_page_number": null,
+            "source_image_index": null,
+            "ownership": "answer"
+          }
+        ],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves solving for k using area formula.",
+    "topics_tags": [
+      "Area of Triangle",
+      "Determinants",
+      "Algebra"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.26",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "multipart",
+    "question_text": "Write Minors and Cofactors of the elements of following determinants:",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image showing a determinant related to minors and cofactors.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894949/ncert/maths/4/img_31_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "The given determinant is .",
+        "part_latex": null,
+        "answer_text": "The minor of element a_{11} is M_{11} = 3, the cofactor A_{11} = 3. The minor of element a_{12} is M_{12} = 0, the cofactor A_{12} = 0. The minor of element a_{21} is M_{21} = -4, the cofactor A_{21} = 4. The minor of element a_{22} is M_{22} = 2, the cofactor A_{22} = 2.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the minor of element a_{11}.",
+            "expression": "M_{11} = 3"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the cofactor A_{11}.",
+            "expression": "A_{11} = (-1)^{1+1} M_{11} = 3"
+          },
+          {
+            "step_number": 3,
+            "description": "Calculate the minor of element a_{12}.",
+            "expression": "M_{12} = 0"
+          },
+          {
+            "step_number": 4,
+            "description": "Calculate the cofactor A_{12}.",
+            "expression": "A_{12} = (-1)^{1+2} M_{12} = 0"
+          },
+          {
+            "step_number": 5,
+            "description": "Calculate the minor of element a_{21}.",
+            "expression": "M_{21} = -4"
+          },
+          {
+            "step_number": 6,
+            "description": "Calculate the cofactor A_{21}.",
+            "expression": "A_{21} = (-1)^{2+1} M_{21} = 4"
+          },
+          {
+            "step_number": 7,
+            "description": "Calculate the minor of element a_{22}.",
+            "expression": "M_{22} = 2"
+          },
+          {
+            "step_number": 8,
+            "description": "Calculate the cofactor A_{22}.",
+            "expression": "A_{22} = (-1)^{2+2} M_{22} = 2"
+          }
+        ],
+        "final_answer": "Thus, the minors and cofactors for the elements are M_{11} = 3, A_{11} = 3; M_{12} = 0, A_{12} = 0; M_{21} = -4, A_{21} = 4; M_{22} = 2, A_{22} = 2.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "The given determinant is .",
+        "part_latex": null,
+        "answer_text": "The minor of element a_{11} is M_{11} = d, the cofactor A_{11} = d. The minor of element a_{12} is M_{12} = b, the cofactor A_{12} = -b. The minor of element a_{21} is M_{21} = c, the cofactor A_{21} = -c. The minor of element a_{22} is M_{22} = a, the cofactor A_{22} = a.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the minor of element a_{11}.",
+            "expression": "M_{11} = d"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the cofactor A_{11}.",
+            "expression": "A_{11} = (-1)^{1+1} M_{11} = d"
+          },
+          {
+            "step_number": 3,
+            "description": "Calculate the minor of element a_{12}.",
+            "expression": "M_{12} = b"
+          },
+          {
+            "step_number": 4,
+            "description": "Calculate the cofactor A_{12}.",
+            "expression": "A_{12} = (-1)^{1+2} M_{12} = -b"
+          },
+          {
+            "step_number": 5,
+            "description": "Calculate the minor of element a_{21}.",
+            "expression": "M_{21} = c"
+          },
+          {
+            "step_number": 6,
+            "description": "Calculate the cofactor A_{21}.",
+            "expression": "A_{21} = (-1)^{2+1} M_{21} = -c"
+          },
+          {
+            "step_number": 7,
+            "description": "Calculate the minor of element a_{22}.",
+            "expression": "M_{22} = a"
+          },
+          {
+            "step_number": 8,
+            "description": "Calculate the cofactor A_{22}.",
+            "expression": "A_{22} = (-1)^{2+2} M_{22} = a"
+          }
+        ],
+        "final_answer": "Thus, the minors and cofactors for the elements are M_{11} = d, A_{11} = d; M_{12} = b, A_{12} = -b; M_{21} = c, A_{21} = -c; M_{22} = a, A_{22} = a.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of minors and cofactors with multiple calculations.",
+    "topics_tags": [
+      "Minors",
+      "Cofactors",
+      "Determinants"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image showing a determinant related to minors and cofactors.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894949/ncert/maths/4/img_31_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.27",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "conceptual",
+    "question_text": "Using Cofactors of elements of second row, evaluate.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image showing the context of evaluating cofactors of elements of the second row.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894959/ncert/maths/4/img_35_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The given determinant is evaluated using the cofactors of the second row.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the cofactors of the elements in the second row.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the determinant using the cofactors.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the determinant is calculated using the cofactors.",
+    "answer_image": {
+      "present": true,
+      "description": "Image showing the calculation of the determinant using cofactors.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894960/ncert/maths/4/img_35_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of cofactors and basic determinant evaluation.",
+    "topics_tags": [
+      "Cofactors",
+      "Determinants",
+      "Matrix Algebra"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "mixed_or_weak_context"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image showing the context of evaluating cofactors of elements of the second row.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894959/ncert/maths/4/img_35_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image showing the calculation of the determinant using cofactors.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894960/ncert/maths/4/img_35_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.28",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "conceptual",
+    "question_text": "Using Cofactors of elements of third column, evaluate.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The given determinant is evaluated using the cofactors of the third column.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the cofactors of the elements in the third column.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the determinant using the cofactors.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the determinant is calculated using the cofactors.",
+    "answer_image": {
+      "present": true,
+      "description": "Image showing the context of evaluating cofactors of elements of the third column.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894963/ncert/maths/4/img_36_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of cofactors and basic determinant evaluation.",
+    "topics_tags": [
+      "Cofactors",
+      "Determinants",
+      "Matrix Algebra"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "mixed_or_weak_context"
+    ],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image showing the context of evaluating cofactors of elements of the third column.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894963/ncert/maths/4/img_36_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      },
+      {
+        "present": true,
+        "description": "Image showing the calculation of the determinant using cofactors.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894964/ncert/maths/4/img_36_2.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.29",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "conceptual",
+    "question_text": "For the matrices A and B, verify that (AB)′ = | where",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image showing matrices A and B for verification of the property (AB)′.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894966/ncert/maths/4/img_37_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "Verify the property for the first case.",
+        "part_latex": null,
+        "answer_text": null,
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": true,
+          "description": "Answer image for part (i) of the question.",
+          "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894967/ncert/maths/4/img_37_2.png",
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "answer"
+        },
+        "question_images": [],
+        "answer_images": [
+          {
+            "present": true,
+            "description": "Answer image for part (i) of the question.",
+            "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894967/ncert/maths/4/img_37_2.png",
+            "latex_extracted": null,
+            "source_page_number": null,
+            "source_image_index": null,
+            "ownership": "answer"
+          }
+        ],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "Verify the property for the second case.",
+        "part_latex": null,
+        "answer_text": null,
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": true,
+          "description": "Answer image for part (ii) of the question.",
+          "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894968/ncert/maths/4/img_37_3.png",
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "answer"
+        },
+        "question_images": [],
+        "answer_images": [
+          {
+            "present": true,
+            "description": "Answer image for part (ii) of the question.",
+            "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894968/ncert/maths/4/img_37_3.png",
+            "latex_extracted": null,
+            "source_page_number": null,
+            "source_image_index": null,
+            "ownership": "answer"
+          }
+        ],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of matrix properties and verification through calculations.",
+    "topics_tags": [
+      "Matrices",
+      "Determinants",
+      "Matrix Properties"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image showing matrices A and B for verification of the property (AB)′.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894966/ncert/maths/4/img_37_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.30",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "conceptual",
+    "question_text": "Find adjoint of each of the matrices.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image showing matrices for which adjoint needs to be found.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894974/ncert/maths/4/img_40_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of adjoint matrices and basic application.",
+    "topics_tags": [
+      "Adjoint",
+      "Matrices",
+      "Determinants"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image showing matrices for which adjoint needs to be found.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894974/ncert/maths/4/img_40_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.31",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "mcq",
+    "question_text": "Verify A (adj A) = (adj A) A = I.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image related to the verification of the property of adjoint matrices.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894977/ncert/maths/4/img_41_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves verification of a matrix property, requiring understanding of matrix operations.",
+    "topics_tags": [
+      "Adjoint",
+      "Matrix Verification",
+      "Determinants"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image related to the verification of the property of adjoint matrices.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894977/ncert/maths/4/img_41_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.32",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "mcq",
+    "question_text": "Verify A (adj A) = (adj A) A = I.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image related to the verification of the property of adjoint matrices.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894979/ncert/maths/4/img_42_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves verification of a matrix property, requiring understanding of matrix operations.",
+    "topics_tags": [
+      "Adjoint",
+      "Matrix Verification",
+      "Determinants"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image related to the verification of the property of adjoint matrices.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894979/ncert/maths/4/img_42_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.33",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "conceptual",
+    "question_text": "Find the inverse of each of the matrices (if it exists).",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image showing matrices for which the inverse needs to be found.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894984/ncert/maths/4/img_44_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of matrix properties and methods to find inverses.",
+    "topics_tags": [
+      "Matrix Inverse",
+      "Determinants",
+      "Linear Algebra"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image showing matrices for which the inverse needs to be found.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894984/ncert/maths/4/img_44_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.34",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "conceptual",
+    "question_text": "Find the inverse of each of the matrices (if it exists).",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image showing matrices for which the inverse needs to be found.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894987/ncert/maths/4/img_45_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of matrix properties and methods to find inverses.",
+    "topics_tags": [
+      "Matrix Inverse",
+      "Determinants",
+      "Linear Algebra"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image showing matrices for which the inverse needs to be found.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894987/ncert/maths/4/img_45_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.35",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "conceptual",
+    "question_text": "Find the inverse of each of the matrices (if it exists).",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image showing matrices for which the inverse needs to be found.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894991/ncert/maths/4/img_46_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of matrix inverses and conditions for existence.",
+    "topics_tags": [
+      "Matrix Inverse",
+      "Determinants",
+      "Linear Algebra"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image showing matrices for which the inverse needs to be found.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894991/ncert/maths/4/img_46_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.36",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "conceptual",
+    "question_text": "Find the inverse of each of the matrices (if it exists).",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image showing matrices for which the inverse needs to be found.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894996/ncert/maths/4/img_47_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of matrix inverses and conditions for existence.",
+    "topics_tags": [
+      "Matrix Inverse",
+      "Determinants",
+      "Linear Algebra"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image showing matrices for which the inverse needs to be found.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777894996/ncert/maths/4/img_47_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.37",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "conceptual",
+    "question_text": "Find the inverse of each of the matrices (if it exists).",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image showing matrices for which the inverse needs to be found.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895002/ncert/maths/4/img_48_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of matrix inverses and conditions for existence.",
+    "topics_tags": [
+      "Matrix Inverse",
+      "Determinants",
+      "Linear Algebra"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image showing matrices for which the inverse needs to be found.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895002/ncert/maths/4/img_48_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.38",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "conceptual",
+    "question_text": "Let and . Verify that",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Images related to the verification of a determinant property.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895006/ncert/maths/4/img_49_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "From (1) and (2), we have: (AB)−1 = B−1A−1. Hence, the given result is proved.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Hence, the given result is proved.",
+    "answer_image": {
+      "present": true,
+      "description": "Image showing the answer to the verification of the determinant property.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895012/ncert/maths/4/img_51_2.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of properties of determinants and basic verification.",
+    "topics_tags": [
+      "Determinants",
+      "Matrix Algebra",
+      "Properties of Determinants"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "question_truncated",
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Images related to the verification of a determinant property.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895006/ncert/maths/4/img_49_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image showing the answer to the verification of the determinant property.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895012/ncert/maths/4/img_51_2.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.39",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "conceptual",
+    "question_text": "For the matrix , find the numbers a and b such that A2 + aA + bI = O.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Matrix representation related to the equation A^2 + aA + bI = O.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895013/ncert/maths/4/img_52_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Hence, −4 and 1 are the required values of a and b respectively.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the values of a and b are -4 and 1.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of matrix equations and comparison of elements.",
+    "topics_tags": [
+      "Matrix Equations",
+      "Determinants",
+      "Linear Algebra"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Matrix representation related to the equation A^2 + aA + bI = O.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895013/ncert/maths/4/img_52_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.40",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "conceptual",
+    "question_text": "For the matrix show that A3 − 6A2 + 5A + 11 I = O. Hence, find A−1.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Matrix representation related to the equation A^3 - 6A^2 + 5A + 11I = O.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895020/ncert/maths/4/img_54_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves proving a matrix equation and finding the inverse, requiring multiple steps.",
+    "topics_tags": [
+      "Matrix Inverse",
+      "Determinants",
+      "Cubic Equations"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Matrix representation related to the equation A^3 - 6A^2 + 5A + 11I = O.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895020/ncert/maths/4/img_54_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.41",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "numerical",
+    "question_text": "If verify that A^3 − 6A^2 + 9A − 4I = O and hence find A^−1.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "An image related to the question context.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895025/ncert/maths/4/img_56_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "To find A^{-1}, we first verify the equation A^3 - 6A^2 + 9A - 4I = O.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Substitute A into the equation and simplify.",
+        "expression": "A^3 - 6A^2 + 9A - 4I"
+      },
+      {
+        "step_number": 2,
+        "description": "Check if the result equals the zero matrix O.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, if the equation holds true, we can find A^{-1} accordingly.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of determinants and matrix operations.",
+    "topics_tags": [
+      "Determinants",
+      "Matrix Inversion",
+      "Linear Algebra"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "question_truncated"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "An image related to the question context.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895025/ncert/maths/4/img_56_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.42",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "mcq",
+    "question_text": "Let A be a nonsingular square matrix of order 3 × 3. Then is equal to",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "A",
+        "option_text": ""
+      },
+      {
+        "option_label": "B",
+        "option_text": ""
+      },
+      {
+        "option_label": "C",
+        "option_text": ""
+      },
+      {
+        "option_label": "D",
+        "option_text": ""
+      }
+    ],
+    "correct_option": "B",
+    "question_image": {
+      "present": true,
+      "description": "Image related to the question about a nonsingular square matrix.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895035/ncert/maths/4/img_59_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Hence, the correct answer is B.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the answer is B.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of properties of nonsingular matrices.",
+    "topics_tags": [
+      "Nonsingular Matrix",
+      "Determinants",
+      "Matrix Properties"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image related to the question about a nonsingular square matrix.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895035/ncert/maths/4/img_59_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.43",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "mcq",
+    "question_text": "If A is an invertible matrix of order 2, then det (A−1) is equal to",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "A",
+        "option_text": "det (A)"
+      },
+      {
+        "option_label": "B",
+        "option_text": ""
+      },
+      {
+        "option_label": "C",
+        "option_text": "1"
+      },
+      {
+        "option_label": "D",
+        "option_text": "0"
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Image related to the question about the determinant of an invertible matrix.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895036/ncert/maths/4/img_59_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of properties of determinants and invertible matrices.",
+    "topics_tags": [
+      "Invertible Matrix",
+      "Determinants",
+      "Matrix Theory"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image related to the question about the determinant of an invertible matrix.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895036/ncert/maths/4/img_59_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.44",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "conceptual",
+    "question_text": "Examine the consistency of the system of equations: x + 2y = 2, 2x + 3y = 3.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image showing the system of equations in matrix form.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895041/ncert/maths/4/img_61_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The given system of equations is consistent.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Write the system of equations in the form AX = B.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Determine that A is non-singular, hence A^{-1} exists.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, the given system of equations is consistent.",
+    "answer_image": {
+      "present": true,
+      "description": "Image showing the conclusion about the consistency of the equations.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895040/ncert/maths/4/img_61_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of matrix representation and consistency conditions.",
+    "topics_tags": [
+      "Determinants",
+      "Consistency of Equations",
+      "Linear Algebra"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image showing the system of equations in matrix form.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895041/ncert/maths/4/img_61_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image showing the conclusion about the consistency of the equations.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895040/ncert/maths/4/img_61_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.45",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "conceptual",
+    "question_text": "Examine the consistency of the system of equations: 2x − y = 5, x + y = 4.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The given system of equations is consistent.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Write the system of equations in the form AX = B.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Determine that A is non-singular, hence A^{-1} exists.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, the given system of equations is consistent.",
+    "answer_image": {
+      "present": true,
+      "description": "Image showing the system of equations in matrix form.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895042/ncert/maths/4/img_62_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of matrix representation and consistency conditions.",
+    "topics_tags": [
+      "Determinants",
+      "Consistency of Equations",
+      "Linear Algebra"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image showing the system of equations in matrix form.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895042/ncert/maths/4/img_62_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      },
+      {
+        "present": true,
+        "description": "Image showing the conclusion about the consistency of the equations.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895043/ncert/maths/4/img_62_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.46",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "conceptual",
+    "question_text": "Examine the consistency of the system of equations: x + 3y = 5, 2x + 6y = 8.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The given system of equations is inconsistent.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Write the system of equations in the form AX = B.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Determine that A is singular, hence A^{-1} does not exist.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the solution of the given system of equations does not exist.",
+    "answer_image": {
+      "present": true,
+      "description": "Image showing the system of equations in matrix form.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895046/ncert/maths/4/img_63_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of matrix representation and consistency conditions.",
+    "topics_tags": [
+      "Determinants",
+      "Inconsistency of Equations",
+      "Linear Algebra"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image showing the system of equations in matrix form.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895046/ncert/maths/4/img_63_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      },
+      {
+        "present": true,
+        "description": "Image showing the conclusion about the inconsistency of the equations.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895048/ncert/maths/4/img_63_3.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.47",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "conceptual",
+    "question_text": "Examine the consistency of the system of equations: x + y + z = 1, 2x + 3y + 2z = 2, ax + ay + 2az = 4.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The given system of equations is consistent.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Write the system of equations in the form AX = B.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Determine that A is non-singular, hence A^{-1} exists.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, the given system of equations is consistent.",
+    "answer_image": {
+      "present": true,
+      "description": "Image showing the system of equations in matrix form.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895046/ncert/maths/4/img_63_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of matrix representation and consistency conditions.",
+    "topics_tags": [
+      "Determinants",
+      "Consistency of Equations",
+      "Linear Algebra"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image showing the system of equations in matrix form.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895046/ncert/maths/4/img_63_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      },
+      {
+        "present": true,
+        "description": "Image showing the conclusion about the consistency of the equations.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895046/ncert/maths/4/img_63_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.48",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "conceptual",
+    "question_text": "Examine the consistency of the system of equations: 3x − y − 2z = 2, 2y − z = −1, 3x − 5y = 3.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The given system of equations is inconsistent as A is a singular matrix.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Write the system of equations in the form of AX = B.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Determine that matrix A is singular.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Conclude that the system of equations does not have a solution.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Hence, the system of equations is inconsistent.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram related to the system of equations and their consistency.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895048/ncert/maths/4/img_64_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of matrix properties and basic linear algebra.",
+    "topics_tags": [
+      "Linear Equations",
+      "Matrix Theory",
+      "Consistency"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the system of equations and their consistency.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895048/ncert/maths/4/img_64_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      },
+      {
+        "present": true,
+        "description": "Answer explaining the inconsistency of the system of equations.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895049/ncert/maths/4/img_64_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.49",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "conceptual",
+    "question_text": "Examine the consistency of the system of equations: 5x − y + 4z = 5, 2x + 3y + 5z = 2, 5x − 2y + 6z = −1.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Answer explaining the consistency of the system of equations.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895052/ncert/maths/4/img_65_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The given system of equations is consistent as A is non-singular.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Write the system of equations in the form of AX = B.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Determine that matrix A is non-singular.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Conclude that the system of equations has a solution.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, the given system of equations is consistent.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram related to the system of equations and their consistency.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895051/ncert/maths/4/img_65_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of matrix properties and basic linear algebra.",
+    "topics_tags": [
+      "Linear Equations",
+      "Matrix Theory",
+      "Consistency"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Answer explaining the consistency of the system of equations.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895052/ncert/maths/4/img_65_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the system of equations and their consistency.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895051/ncert/maths/4/img_65_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.50",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "conceptual",
+    "question_text": "Solve system of linear equations, using matrix method.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image showing the context of the question regarding solving linear equations using matrix method.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895057/ncert/maths/4/img_67_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The given system of equations can be written in the form of AX = B, where Thus, A is non-singular. Therefore, its inverse exists.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, A is non-singular. Therefore, its inverse exists.",
+    "answer_image": {
+      "present": true,
+      "description": "Image showing the answer context regarding the system of equations.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895058/ncert/maths/4/img_67_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of matrix representation of linear equations.",
+    "topics_tags": [
+      "Linear Equations",
+      "Matrix Method",
+      "Determinants"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image showing the context of the question regarding solving linear equations using matrix method.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895057/ncert/maths/4/img_67_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image showing the answer context regarding the system of equations.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895058/ncert/maths/4/img_67_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.51",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "numerical",
+    "question_text": "Solve system of linear equations, using matrix method.\n5x + 2y = 3\n3x + 2y = 5",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image showing the context of the question regarding solving linear equations using matrix method.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895060/ncert/maths/4/img_68_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The given system of equations can be written in the form of AX = B, where Thus, A is non-singular. Therefore, its inverse exists.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, A is non-singular. Therefore, its inverse exists.",
+    "answer_image": {
+      "present": true,
+      "description": "Image showing the answer context regarding the system of equations.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895061/ncert/maths/4/img_68_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of matrix representation of linear equations.",
+    "topics_tags": [
+      "Linear Equations",
+      "Matrix Method",
+      "Determinants"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image showing the context of the question regarding solving linear equations using matrix method.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895060/ncert/maths/4/img_68_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image showing the answer context regarding the system of equations.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895061/ncert/maths/4/img_68_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.52",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "numerical",
+    "question_text": "Solve system of linear equations, using matrix method.\nx − y + z = 4\n2x + y − 3z = 0",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image showing the context of the question regarding solving linear equations using matrix method.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895064/ncert/maths/4/img_69_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Thus, A is non-singular. Therefore, its inverse exists.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, A is non-singular. Therefore, its inverse exists.",
+    "answer_image": {
+      "present": true,
+      "description": "Image showing the answer context regarding the system of equations.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895066/ncert/maths/4/img_69_3.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of matrix representation of linear equations.",
+    "topics_tags": [
+      "Linear Equations",
+      "Matrix Method",
+      "Determinants"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image showing the context of the question regarding solving linear equations using matrix method.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895064/ncert/maths/4/img_69_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image showing the answer context regarding the system of equations.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895066/ncert/maths/4/img_69_3.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.53",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "numerical",
+    "question_text": "Solve system of linear equations, using matrix method.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The given system of equations can be written in the form of AX = B, where A is non-singular. Therefore, its inverse exists.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, A is non-singular, and its inverse exists.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the system of equations in matrix form.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895068/ncert/maths/4/img_70_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of matrix representation of linear equations.",
+    "topics_tags": [
+      "Linear Equations",
+      "Matrix Method",
+      "Determinants"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the system of equations in matrix form.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895068/ncert/maths/4/img_70_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      },
+      {
+        "present": true,
+        "description": "Answer showing the system of equations in matrix form.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895069/ncert/maths/4/img_70_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.54",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "numerical",
+    "question_text": "Solve system of linear equations, using matrix method.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The given system of equations can be written in the form AX = B, where A is non-singular. Therefore, its inverse exists.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, A is non-singular, and its inverse exists.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the system of equations in matrix form.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895072/ncert/maths/4/img_71_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of matrix representation of linear equations.",
+    "topics_tags": [
+      "Linear Equations",
+      "Matrix Method",
+      "Determinants"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the system of equations in matrix form.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895072/ncert/maths/4/img_71_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      },
+      {
+        "present": true,
+        "description": "Answer showing the system of equations in matrix form.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895073/ncert/maths/4/img_71_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.55",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "numerical",
+    "question_text": "Solve system of linear equations, using matrix method.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The given system of equations can be written in the form AX = B, where A is non-singular. Therefore, its inverse exists.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, A is non-singular, and its inverse exists.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the system of equations in matrix form.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895075/ncert/maths/4/img_72_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of matrix representation of linear equations.",
+    "topics_tags": [
+      "Linear Equations",
+      "Matrix Method",
+      "Determinants"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the system of equations in matrix form.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895075/ncert/maths/4/img_72_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      },
+      {
+        "present": true,
+        "description": "Answer showing the system of equations in matrix form.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895076/ncert/maths/4/img_72_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.56",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "numerical",
+    "question_text": "If , find A−1. Using A−1 solve the system of equations.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image showing the context of finding the inverse of matrix A and solving a system of equations.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895079/ncert/maths/4/img_73_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of matrix inversion and application to solve equations.",
+    "topics_tags": [
+      "Matrix Inversion",
+      "Systems of Equations",
+      "Determinants"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image showing the context of finding the inverse of matrix A and solving a system of equations.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895079/ncert/maths/4/img_73_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.57",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "numerical",
+    "question_text": "The cost of 4 kg onion, 3 kg wheat and 2 kg rice is Rs 60. The cost of 2 kg onion, 4 kg wheat and 6 kg rice is Rs 90. The cost of 6 kg onion 2 kg wheat and 3 kg rice is Rs 70. Find cost of each item per kg by matrix method.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image showing the context of a problem involving costs of different items.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895083/ncert/maths/4/img_74_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Hence, the cost of onions is Rs 5 per kg, the cost of wheat is Rs 8 per kg, and the cost of rice is Rs 8 per kg.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the costs per kg are Rs 5 for onions, Rs 8 for wheat, and Rs 8 for rice.",
+    "answer_image": {
+      "present": true,
+      "description": "Image showing the final answer regarding the costs of the items.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895088/ncert/maths/4/img_75_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves setting up and solving a system of equations using matrices.",
+    "topics_tags": [
+      "Cost Calculation",
+      "Matrix Method",
+      "Systems of Equations"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image showing the context of a problem involving costs of different items.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895083/ncert/maths/4/img_74_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image showing the final answer regarding the costs of the items.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895088/ncert/maths/4/img_75_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.58",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "conceptual",
+    "question_text": "Prove that the determinant is independent of θ.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image related to the question about the independence of the determinant from θ.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895090/ncert/maths/4/img_76_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Hence, ∆ is independent of θ.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the determinant is shown to be independent of θ.",
+    "answer_image": {
+      "present": true,
+      "description": "Image showing the answer to the question about the independence of the determinant from θ.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895090/ncert/maths/4/img_76_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of determinants and their properties.",
+    "topics_tags": [
+      "Determinants",
+      "Independence",
+      "Mathematical Proof"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image related to the question about the independence of the determinant from θ.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895090/ncert/maths/4/img_76_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image showing the answer to the question about the independence of the determinant from θ.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895090/ncert/maths/4/img_76_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.59",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "conceptual",
+    "question_text": "Without expanding the determinant, prove that.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image related to the question about proving a property of determinants without expansion.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895091/ncert/maths/4/img_76_2.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of determinants and proof techniques without expansion.",
+    "topics_tags": [
+      "Determinants",
+      "Proof",
+      "Mathematics"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image related to the question about proving a property of determinants without expansion.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895091/ncert/maths/4/img_76_2.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.60",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "numerical",
+    "question_text": "Evaluate.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image related to the evaluation of a determinant.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895093/ncert/maths/4/img_77_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Expanding along C, we have:",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic evaluation of determinants.",
+    "topics_tags": [
+      "Determinants",
+      "Evaluation",
+      "Mathematics"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image related to the evaluation of a determinant.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895093/ncert/maths/4/img_77_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.61",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "conceptual",
+    "question_text": "Show that either a + b + c = 0 or a = b = c.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image related to the question about the conditions on a, b, and c.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895096/ncert/maths/4/img_78_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Expanding along R, we have:",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of determinants and conditions on variables.",
+    "topics_tags": [
+      "Determinants",
+      "Conditions",
+      "Mathematics"
+    ],
+    "confidence_score": 0.88,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image related to the question about the conditions on a, b, and c.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895096/ncert/maths/4/img_78_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.62",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "conceptual",
+    "question_text": "Solve the equations",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image related to the equations to be solved.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895109/ncert/maths/4/img_79_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Answer related to the equations solved.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895115/ncert/maths/4/img_79_4.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of solving equations.",
+    "topics_tags": [
+      "Equations",
+      "Determinants",
+      "Algebra"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image related to the equations to be solved.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895109/ncert/maths/4/img_79_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Answer related to the equations solved.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895115/ncert/maths/4/img_79_4.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.63",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "conceptual",
+    "question_text": "Prove that",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image related to the proof required.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895115/ncert/maths/4/img_80_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Answer related to the proof.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895118/ncert/maths/4/img_80_3.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves proving a mathematical statement.",
+    "topics_tags": [
+      "Proof",
+      "Determinants",
+      "Mathematics"
+    ],
+    "confidence_score": 0.8,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image related to the proof required.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895115/ncert/maths/4/img_80_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Answer related to the proof.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895118/ncert/maths/4/img_80_3.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.64",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "conceptual",
+    "question_text": "Let verify that (i) (ii)",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image related to the verification of results in determinants.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895123/ncert/maths/4/img_82_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of determinants and verification process.",
+    "topics_tags": [
+      "Determinants",
+      "Verification",
+      "Matrix Algebra"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image related to the verification of results in determinants.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895123/ncert/maths/4/img_82_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.65",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "conceptual",
+    "question_text": "Evaluate",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image related to the evaluation of determinants.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895130/ncert/maths/4/img_84_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding and applying determinant evaluation techniques.",
+    "topics_tags": [
+      "Determinants",
+      "Evaluation",
+      "Matrix Algebra"
+    ],
+    "confidence_score": 0.8,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image related to the evaluation of determinants.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895130/ncert/maths/4/img_84_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.66",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "numerical",
+    "question_text": "Evaluate the determinant by expanding along R.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image showing a determinant to be evaluated by expansion along R.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895134/ncert/maths/4/img_85_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of determinant properties and expansion techniques.",
+    "topics_tags": [
+      "Determinants",
+      "Matrix Algebra",
+      "Expansion"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image showing a determinant to be evaluated by expansion along R.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895134/ncert/maths/4/img_85_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.67",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "derivation",
+    "question_text": "Using properties of determinants, prove that:",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image related to properties of determinants to be proved.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895137/ncert/maths/4/img_86_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Involves multiple steps and understanding of determinant properties.",
+    "topics_tags": [
+      "Determinants",
+      "Matrix Properties",
+      "Proof"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image related to properties of determinants to be proved.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895137/ncert/maths/4/img_86_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.68",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "derivation",
+    "question_text": "Using properties of determinants, prove that:",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Image related to properties of determinants to be proved.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895141/ncert/maths/4/img_87_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Involves multiple steps and understanding of determinant properties.",
+    "topics_tags": [
+      "Determinants",
+      "Matrix Properties",
+      "Proof"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image related to properties of determinants to be proved.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895141/ncert/maths/4/img_87_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.69",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "conceptual",
+    "question_text": "Using properties of determinants, prove that:",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image related to the properties of determinants.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895149/ncert/maths/4/img_88_2.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Hence, the given result is proved.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the result is established using properties of determinants.",
+    "answer_image": {
+      "present": true,
+      "description": "Image showing the proof of the determinant property.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895150/ncert/maths/4/img_88_3.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of determinant properties and basic proof techniques.",
+    "topics_tags": [
+      "Determinants",
+      "Properties",
+      "Proof"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image related to the properties of determinants.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895149/ncert/maths/4/img_88_2.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image showing the proof of the determinant property.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895150/ncert/maths/4/img_88_3.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.70",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "conceptual",
+    "question_text": "Using properties of determinants, prove that:",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Hence, the given result is proved.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the result is established using properties of determinants.",
+    "answer_image": {
+      "present": true,
+      "description": "Image related to the properties of determinants.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895152/ncert/maths/4/img_89_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of determinant properties and basic proof techniques.",
+    "topics_tags": [
+      "Determinants",
+      "Properties",
+      "Proof"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image related to the properties of determinants.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895152/ncert/maths/4/img_89_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      },
+      {
+        "present": true,
+        "description": "Image showing the proof of the determinant property.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895154/ncert/maths/4/img_89_3.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.71",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "conceptual",
+    "question_text": "Using properties of determinants, prove that:",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Hence, the given result is proved.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the result is established using properties of determinants.",
+    "answer_image": {
+      "present": true,
+      "description": "Image related to the properties of determinants.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895156/ncert/maths/4/img_90_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of determinant properties and basic proof techniques.",
+    "topics_tags": [
+      "Determinants",
+      "Properties",
+      "Proof"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image related to the properties of determinants.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895156/ncert/maths/4/img_90_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      },
+      {
+        "present": true,
+        "description": "Image showing the proof of the determinant property.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895158/ncert/maths/4/img_90_3.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.72",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "conceptual",
+    "question_text": "Solve the system of the following equations.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image showing a system of equations in matrix form.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895159/ncert/maths/4/img_91_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Let the given system of equations be written in the form of AX = B.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "The system can be solved using matrix methods.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of matrix representation of equations.",
+    "topics_tags": [
+      "Systems of Equations",
+      "Matrix Representation",
+      "Determinants"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image showing a system of equations in matrix form.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895159/ncert/maths/4/img_91_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.73",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "mcq",
+    "question_text": "If a, b, c, are in A.P., then the determinant.",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "A",
+        "option_text": "0"
+      },
+      {
+        "option_label": "B",
+        "option_text": "1"
+      },
+      {
+        "option_label": "C",
+        "option_text": "x"
+      },
+      {
+        "option_label": "D",
+        "option_text": "2x"
+      }
+    ],
+    "correct_option": "A",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Here, all the elements of the first row (R1) are zero. Hence, we have ∆ = 0.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "The correct answer is A.",
+    "answer_image": {
+      "present": true,
+      "description": "Image showing the options for the determinant question.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895164/ncert/maths/4/img_93_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct application of properties of determinants.",
+    "topics_tags": [
+      "Arithmetic Progression",
+      "Determinants",
+      "Matrix Theory"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image showing the options for the determinant question.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895164/ncert/maths/4/img_93_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      },
+      {
+        "present": true,
+        "description": "Image showing the explanation for the determinant being zero.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895165/ncert/maths/4/img_93_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.74",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "mcq",
+    "question_text": "If x, y, z are nonzero real numbers, then the inverse of matrix is",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "A.",
+        "option_text": ""
+      },
+      {
+        "option_label": "B.",
+        "option_text": ""
+      },
+      {
+        "option_label": "C.",
+        "option_text": ""
+      },
+      {
+        "option_label": "D.",
+        "option_text": ""
+      }
+    ],
+    "correct_option": "A.",
+    "question_image": {
+      "present": true,
+      "description": "Images showing options A, B, C, D for the question about the inverse of a matrix.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895168/ncert/maths/4/img_94_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The correct answer is A.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the correct answer is A.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of the correct answer from given options.",
+    "topics_tags": [
+      "Matrix Inverse",
+      "Determinants",
+      "Linear Algebra"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Images showing options A, B, C, D for the question about the inverse of a matrix.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895168/ncert/maths/4/img_94_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.75",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "mcq",
+    "question_text": "Let , where 0 ≤ θ≤ 2π, then",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "A.",
+        "option_text": "Det (A) = 0"
+      },
+      {
+        "option_label": "B.",
+        "option_text": "Det (A) ∈ (2, ∞)"
+      },
+      {
+        "option_label": "C.",
+        "option_text": "Det (A) ∈ (2, 4)"
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image showing options A, B, C for the question about determinants.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895174/ncert/maths/4/img_95_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The correct answer is A.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the correct answer is A.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of the correct answer from given options.",
+    "topics_tags": [
+      "Determinants",
+      "Matrix Theory",
+      "Linear Algebra"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image showing options A, B, C for the question about determinants.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895174/ncert/maths/4/img_95_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.76",
+    "class": 12,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "determinants",
+    "question_type": "mcq",
+    "question_text": "D. Det (A)∈ [2, 4]",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": "D.",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The correct answer is D.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the correct answer is D.",
+    "answer_image": {
+      "present": true,
+      "description": "Image showing the answer D for the question about determinants.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895177/ncert/maths/4/img_96_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of the correct answer from given options.",
+    "topics_tags": [
+      "Determinants",
+      "Matrix Theory",
+      "Linear Algebra"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image showing the answer D for the question about determinants.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777895177/ncert/maths/4/img_96_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  }
+]

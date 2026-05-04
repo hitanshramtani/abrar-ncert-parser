@@ -1,0 +1,1608 @@
+[
+  {
+    "question_id": "Q9.1",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 9,
+    "chapter_name": "Mechanical Properties of Solids",
+    "question_type": "mcq",
+    "question_text": "A steel wire of length 4.7 m and cross-sectional area 3.0 × 10–5 m² stretches by the same amount as a copper wire of length 3.5 m and cross-sectional area of 4.0 × 10–5 m² under a given load. What is the ratio of the Young’s modulus of steel to that of copper?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing Young's modulus formula for steel and copper wires.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777793651/ncert/physics/9/img_1_0.png",
+      "latex_extracted": "\\begin{array}{c}{{Y_{2}={\\frac{F_{2}}{A_{2}}}\\times{\\frac{L_{2}}{\\Delta L_{2}}}}}\\\\ {{\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\quad\\rightarrow\\left(i i\\right)}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The ratio of Young’s modulus of steel to that of copper is 1.79 : 1.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the lengths and cross-sectional areas of both wires.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the formula for Young's modulus to find the ratio.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, the ratio of Young’s modulus of steel to that of copper is 1.79 : 1.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of Young's modulus and basic calculations.",
+    "topics_tags": [
+      "Young's Modulus",
+      "Steel",
+      "Copper",
+      "Mechanical Properties"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing Young's modulus formula for steel and copper wires.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777793651/ncert/physics/9/img_1_0.png",
+        "latex_extracted": "\\begin{array}{c}{{Y_{2}={\\frac{F_{2}}{A_{2}}}\\times{\\frac{L_{2}}{\\Delta L_{2}}}}}\\\\ {{\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\quad\\rightarrow\\left(i i\\right)}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q9.2",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 9,
+    "chapter_name": "Mechanical Properties of Solids",
+    "question_type": "mcq",
+    "question_text": "Figure 9.11 shows the strain-stress curve for a given material. What are (a) Young’s modulus and (b) approximate yield strength for this material?",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "Young’s modulus and"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "approximate yield strength for this material?"
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "What is Young’s modulus for this material?",
+        "part_latex": null,
+        "answer_text": "Young’s modulus for the given material is 7.5 × 10¹⁰ N/m².",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the stress and strain from the graph.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate Young's modulus using the formula Y = stress/strain.",
+            "expression": "Y = \\frac{150 \\times 10^6}{0.0022}"
+          }
+        ],
+        "final_answer": "Hence, Young’s modulus for the given material is 7.5 × 10¹⁰ N/m².",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "What is the approximate yield strength for this material?",
+        "part_latex": null,
+        "answer_text": "The approximate yield strength of this material is 300 × 10⁶ N/m² or 3 × 10⁸ N/m².",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the yield strength from the graph.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, the yield strength is approximately 300 × 10⁶ N/m².",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves interpretation of a graph and application of formulas.",
+    "topics_tags": [
+      "Strain-Stress Curve",
+      "Young's Modulus",
+      "Yield Strength"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Strain-stress curve showing the relationship between stress and strain.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777793666/ncert/physics/9/img_2_1.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ],
+    "answer_image": {
+      "present": true,
+      "description": "Strain-stress curve showing the relationship between stress and strain.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777793666/ncert/physics/9/img_2_1.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    }
+  },
+  {
+    "question_id": "Q9.3",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 9,
+    "chapter_name": "Mechanical Properties of Solids",
+    "question_type": "multipart",
+    "question_text": "The stress-strain graphs for materials A and B are shown in Fig. 9.12. Which of the materials has the greater Young’s modulus? Which of the two is the stronger material?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Stress-strain graphs for materials A and B.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777793669/ncert/physics/9/img_3_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Which material has the greater Young’s modulus?",
+        "part_latex": null,
+        "answer_text": "Material A has the greater Young’s modulus.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Compare the stress values for the same strain in both materials.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Therefore, Young’s modulus for material A is greater than for material B.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Which of the two is the stronger material?",
+        "part_latex": null,
+        "answer_text": "Material A is the stronger material.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the fracture point from the stress-strain curve.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Hence, material A can withstand more strain than material B.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires analysis of graphs and understanding of material properties.",
+    "topics_tags": [
+      "Stress-Strain Curve",
+      "Young's Modulus",
+      "Material Strength"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Stress-strain graphs for materials A and B.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777793669/ncert/physics/9/img_3_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [],
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    }
+  },
+  {
+    "question_id": "Q9.4",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 9,
+    "chapter_name": "Mechanical Properties of Solids",
+    "question_type": "multipart",
+    "question_text": "The Young’s modulus of rubber is greater than that of steel; The stretching of a coil is determined by its shear modulus. For a given stress, the strain in rubber is more than it is in steel. Young’s modulus for rubber is less than it is for steel. Shear modulus is the ratio of the applied stress to the change in the shape of a body. The stretching of a coil changes its shape. Hence, shear modulus of elasticity is involved in this process.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "The Young’s modulus of rubber is greater than that of steel.",
+        "part_latex": null,
+        "answer_text": "False",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Therefore, the statement is false.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "The stretching of a coil is determined by its shear modulus.",
+        "part_latex": null,
+        "answer_text": "True",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, the statement is true.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Diagram related to the elongation of wires under stress",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777793674/ncert/physics/9/img_4_0.png",
+      "latex_extracted": "\\begin{array}{c}{{\\overline{{{\\mathbf{--27-7}}}}\\displaystyle\\left(\\right)^{1...}}}\\\\ {{\\overline{{{\\left|{\\mathbf{stel}}}}}}}\\\\ {{\\overline{{{\\left|{\\mathbf{suss}}}}}}}\\\\ {{\\overline{{{\\left|{\\mathbf{suss}}}}}}}\\\\ {{\\overline{{{\\left[{\\frac{1}{\\mathrm{ous}}}}\\right|}\\circ\\mathbf{kg}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of material properties and basic application of concepts.",
+    "topics_tags": [
+      "Young's Modulus",
+      "Shear Modulus",
+      "Material Properties"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "Some text garbling and unclear context."
+    ],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the elongation of wires under stress",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777793674/ncert/physics/9/img_4_0.png",
+        "latex_extracted": "\\begin{array}{c}{{\\overline{{{\\mathbf{--27-7}}}}\\displaystyle\\left(\\right)^{1...}}}\\\\ {{\\overline{{{\\left|{\\mathbf{stel}}}}}}}\\\\ {{\\overline{{{\\left|{\\mathbf{suss}}}}}}}\\\\ {{\\overline{{{\\left|{\\mathbf{suss}}}}}}}\\\\ {{\\overline{{{\\left[{\\frac{1}{\\mathrm{ous}}}}\\right|}\\circ\\mathbf{kg}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q9.5",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 9,
+    "chapter_name": "Mechanical Properties of Solids",
+    "question_type": "mcq",
+    "question_text": "Two wires of diameter 0.25 cm, one made of steel and the other made of brass are loaded as shown in Fig. 9.13. The unloaded length of steel wire is 1.5 m and that of brass wire is 1.0 m. Compute the elongations of the steel and the brass wires.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the setup for measuring elongation of steel and brass wires",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777793675/ncert/physics/9/img_5_0.png",
+      "latex_extracted": "Y_{1}={\\frac{\\left({\\frac{F_{1}}{A_{1}}}\\right)}{\\left({\\frac{\\Delta L_{1}}{L_{1}}}\\right)}}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Elongation of the steel wire = 1.49 × 10–4 m; Elongation of the brass wire = 1.3 × 10–4 m.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the area of cross-section for both wires.",
+        "expression": "A = \\pi \\left(0.125 \\times 10^{-2}\\right)^{2}"
+      },
+      {
+        "step_number": 2,
+        "description": "Use Young's modulus formula to find elongation for steel wire.",
+        "expression": "ΔL_{1} = \\frac{F_{1} \\times L_{1}}{A_{1} \\times Y_{1}}"
+      },
+      {
+        "step_number": 3,
+        "description": "Substitute values to find elongation of steel wire.",
+        "expression": "ΔL_{1} = \\frac{98 \\times 1.5}{\\pi \\left(0.125 \\times 10^{-2}\\right)^{2} \\times 2 \\times 10^{11}}"
+      }
+    ],
+    "final_answer": "Thus, the elongation of the steel wire is 1.49 × 10–4 m and that of the brass wire is 1.3 × 10–4 m.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves calculations and application of Young's modulus.",
+    "topics_tags": [
+      "Elongation",
+      "Young's Modulus",
+      "Steel",
+      "Brass"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the setup for measuring elongation of steel and brass wires",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777793675/ncert/physics/9/img_5_0.png",
+        "latex_extracted": "Y_{1}={\\frac{\\left({\\frac{F_{1}}{A_{1}}}\\right)}{\\left({\\frac{\\Delta L_{1}}{L_{1}}}\\right)}}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q9.6",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 9,
+    "chapter_name": "Mechanical Properties of Solids",
+    "question_type": "numerical",
+    "question_text": "Four identical hollow cylindrical columns of mild steel support a big structure of mass 50,000 kg. The inner and outer radii of each column are 30 cm and 60 cm respectively. Assuming the load distribution to be uniform, calculate the compressional strain of each column.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the relationship between shear stress and shear strain.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777793700/ncert/physics/9/img_7_0.png",
+      "latex_extracted": "={\\frac{\\mathrm{Shear~stress}}{\\mathrm{Shear~strain}}}={\\frac{F}{L}}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Hence, the compressional strain of each column is 7.22 × 10–7.",
+    "answer_latex": "={\\frac{\\mathrm{SIrain}}{\\pi\\!\\left[\\left(0.6\\right)^{2}-\\left(0.3\\right)^{2}\\right]\\times2\\times10^{11}}}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the total force exerted on a single column.",
+        "expression": "F = Mg = 50000 \\times 9.8"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the area of cross-section of the column.",
+        "expression": "A = \\pi (R^2 - r^2) = \\pi ((0.6)^2 - (0.3)^2)"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the compressional strain using Young's modulus.",
+        "expression": "\\mathrm{Strain} = \\frac{F}{A \\eta}"
+      }
+    ],
+    "final_answer": "Therefore, the compressional strain of each column is 7.22 × 10–7.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations including force, area, and strain.",
+    "topics_tags": [
+      "Compressional Strain",
+      "Young's Modulus",
+      "Mechanical Properties"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the relationship between shear stress and shear strain.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777793700/ncert/physics/9/img_7_0.png",
+        "latex_extracted": "={\\frac{\\mathrm{Shear~stress}}{\\mathrm{Shear~strain}}}={\\frac{F}{L}}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q9.7",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 9,
+    "chapter_name": "Mechanical Properties of Solids",
+    "question_type": "numerical",
+    "question_text": "A piece of copper having a rectangular cross-section of 15.2 mm × 19.1 mm is pulled in tension with 44,500 N force, producing only elastic deformation. Calculate the resulting strain.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the relationship between stress and strain.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777793714/ncert/physics/9/img_8_0.png",
+      "latex_extracted": "{\\mathrm{Strain}}={\\frac{\\overline{{F}}}{Y}}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The resulting strain is calculated using the formula for strain.",
+    "answer_latex": "{\\mathrm{Strain}}={\\frac{F}{A\\eta}}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Convert dimensions from mm to m.",
+        "expression": "l = 19.1 \\times 10^{-3}, b = 15.2 \\times 10^{-3}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the area of the copper piece.",
+        "expression": "A = l \\times b"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the strain using the applied force and modulus of elasticity.",
+        "expression": "{\\mathrm{Strain}}={\\frac{44500}{A \\times 42 \\times 10^9}}"
+      }
+    ],
+    "final_answer": "Thus, the resulting strain can be calculated from the above formula.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of basic mechanics and simple calculations.",
+    "topics_tags": [
+      "Strain",
+      "Tension",
+      "Elastic Deformation"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the relationship between stress and strain.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777793714/ncert/physics/9/img_8_0.png",
+        "latex_extracted": "{\\mathrm{Strain}}={\\frac{\\overline{{F}}}{Y}}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q9.8",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 9,
+    "chapter_name": "Mechanical Properties of Solids",
+    "question_type": "numerical",
+    "question_text": "A steel cable with a radius of 1.5 cm supports a chairlift at a ski area. If the maximum stress is not to exceed 108 N mm–2, what is the maximum load the cable can support?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the relationship between stress and strain in a steel cable.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777793720/ncert/physics/9/img_9_0.png",
+      "latex_extracted": "={\\frac{\\mathrm{Stress}}{\\mathrm{Strain}}}={\\frac{\\overline{{F}}}{\\mathrm{Strain}}}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Hence, the cable can support the maximum load of 7.065 × 10^4 N.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Convert radius from cm to m.",
+        "expression": "r = 1.5 \\text{ cm} = 0.015 \\text{ m}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the area of cross-section of the cable.",
+        "expression": "A = \\pi r^2"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the maximum force using the maximum stress.",
+        "expression": "F = \\sigma_{max} \\times A"
+      }
+    ],
+    "final_answer": "Therefore, the maximum load the cable can support is 7.065 × 10^4 N.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves calculations of area and force based on stress.",
+    "topics_tags": [
+      "Stress",
+      "Load Capacity",
+      "Steel Cable"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the relationship between stress and strain in a steel cable.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777793720/ncert/physics/9/img_9_0.png",
+        "latex_extracted": "={\\frac{\\mathrm{Stress}}{\\mathrm{Strain}}}={\\frac{\\overline{{F}}}{\\mathrm{Strain}}}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q9.10",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 9,
+    "chapter_name": "Mechanical Properties of Solids",
+    "question_type": "numerical",
+    "question_text": "A rigid bar of mass 15 kg is supported symmetrically by three wires each 2.00 m long. Those at each end are of copper and the middle one is of iron. Determine the ratio of their diameters if each is to have the same tension.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the relationship of tension and Young's modulus for the wires.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777793727/ncert/physics/9/img_10_0.png",
+      "latex_extracted": "\\begin{array}{c}{{\\frac{F}{A}}}\\\\ {{=\\frac{\\pi d}{\\mathrm{Strain}}=\\frac{\\pi d^{2}}{\\mathrm{Strain}}\\qquad\\qquad\\qquad(i)}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The ratio of their diameters is given as 1.31:1.",
+    "answer_latex": "{\\frac{d_{2}}{d_{1}}}={\\sqrt{\\frac{V_{1}}{Y_{2}}}}={\\sqrt{\\frac{190\\times10^{9}}{110\\times10^{9}}}}={\\sqrt{\\frac{19}{11}}}=1.31:1",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify that the tension force is the same for both wires.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the relationship of Young's modulus to find the ratio of diameters.",
+        "expression": "{\\frac{d_{2}}{d_{1}}}={\\sqrt{\\frac{V_{1}}{Y_{2}}}}"
+      },
+      {
+        "step_number": 3,
+        "description": "Substitute the values of Young's modulus for iron and copper.",
+        "expression": "{\\frac{d_{2}}{d_{1}}}={\\sqrt{\\frac{190\\times10^{9}}{110\\times10^{9}}}}"
+      }
+    ],
+    "final_answer": "Therefore, the ratio of their diameters is 1.31:1.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of Young's modulus and application of the formula.",
+    "topics_tags": [
+      "Young's Modulus",
+      "Tension",
+      "Mechanical Properties"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the relationship of tension and Young's modulus for the wires.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777793727/ncert/physics/9/img_10_0.png",
+        "latex_extracted": "\\begin{array}{c}{{\\frac{F}{A}}}\\\\ {{=\\frac{\\pi d}{\\mathrm{Strain}}=\\frac{\\pi d^{2}}{\\mathrm{Strain}}\\qquad\\qquad\\qquad(i)}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q9.11",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 9,
+    "chapter_name": "Mechanical Properties of Solids",
+    "question_type": "numerical",
+    "question_text": "A 14.5 kg mass, fastened to the end of a steel wire of unstretched length 1.0 mm, is whirled in a vertical circle with an angular velocity of 2 rev/s at the bottom of the circle. The cross-sectional area of the wire is 0.065 cm². Calculate the elongation of the wire when the mass is at the lowest point of its path.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the forces acting on the mass at the lowest point of the vertical circle.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777793734/ncert/physics/9/img_11_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The elongation of the wire is 1.539 × 10⁻⁴ m.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the total force acting on the mass at the lowest point.",
+        "expression": "F = mg + mlω^2"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values to find the force.",
+        "expression": "F = 14.5 × 9.8 + 14.5 × 1 × (2)^2"
+      }
+    ],
+    "final_answer": "Hence, the elongation of the wire is 1.539 × 10⁻⁴ m.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of forces in circular motion and application of formulas.",
+    "topics_tags": [
+      "Circular Motion",
+      "Elongation",
+      "Tension"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the forces acting on the mass at the lowest point of the vertical circle.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777793734/ncert/physics/9/img_11_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q9.12",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 9,
+    "chapter_name": "Mechanical Properties of Solids",
+    "question_type": "numerical",
+    "question_text": "What is the density of water at a depth where pressure is 80.0 atm, given that its density at the surface is 1.03 × 10^3 kg m–3?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing bulk modulus of air and water",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777793749/ncert/physics/9/img_13_0.png",
+      "latex_extracted": "\\begin{array}{r}{{\\mathrm{Bulk~modulus~of~air=1.0}\\cdot10^{s}{\\mathrm{P}}_{A}}}\\\\ {{\\mathrm{Sulk~modulus~of~water}={\\frac{2.026\\times10^{\\circ}}{1.0\\times10^{s}}}={\\frac{2.026\\times10^{\\circ}}{1.0\\times10^{s}}}=2.026\\times10^{t}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Therefore, the density of water at the given depth (h) is 1.034 × 10^3 kg m–3.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Convert pressure from atm to Pa.",
+        "expression": "p = 80.0 \times 1.01 \times 10^5 \text{ Pa}"
+      },
+      {
+        "step_number": 2,
+        "description": "Use the relationship between pressure and density to find the new density.",
+        "expression": "ρ = 1.03 \times 10^3 \text{ kg m}^{-3}"
+      }
+    ],
+    "final_answer": "Thus, the density of water at the depth is 1.034 × 10^3 kg m–3.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of pressure-density relationship and basic calculations.",
+    "topics_tags": [
+      "Density",
+      "Hydrostatic Pressure",
+      "Fluid Mechanics"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing bulk modulus of air and water",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777793749/ncert/physics/9/img_13_0.png",
+        "latex_extracted": "\\begin{array}{r}{{\\mathrm{Bulk~modulus~of~air=1.0}\\cdot10^{s}{\\mathrm{P}}_{A}}}\\\\ {{\\mathrm{Sulk~modulus~of~water}={\\frac{2.026\\times10^{\\circ}}{1.0\\times10^{s}}}={\\frac{2.026\\times10^{\\circ}}{1.0\\times10^{s}}}=2.026\\times10^{t}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q9.13",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 9,
+    "chapter_name": "Mechanical Properties of Solids",
+    "question_type": "numerical",
+    "question_text": "Compute the fractional change in volume of a glass slab, when subjected to a hydraulic pressure of 10 atm.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing fractional change in volume under pressure",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777793756/ncert/physics/9/img_15_0.png",
+      "latex_extracted": "\\begin{array}{c}{{:\\frac{\\Delta V}{V}=\\frac{p}{B}}}\\\\ {{}}\\\\ {{}}\\\\ {{}}\\\\ {{\\vdots~~~~~~~~~~~~~~~~~~~~~~~~=2.73\\times10^{-5}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Hence, the fractional change in the volume of the glass slab is 2.73 × 10–5.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Convert hydraulic pressure from atm to Pa.",
+        "expression": "p = 10 \times 1.013 \times 10^5 \text{ Pa}"
+      },
+      {
+        "step_number": 2,
+        "description": "Use the bulk modulus to find the fractional change in volume.",
+        "expression": "\\frac{\\Delta V}{V} = \\frac{p}{B}"
+      }
+    ],
+    "final_answer": "Thus, the fractional change in volume is 2.73 × 10–5.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic calculations and understanding of bulk modulus.",
+    "topics_tags": [
+      "Volume Change",
+      "Hydraulic Pressure",
+      "Bulk Modulus"
+    ],
+    "confidence_score": 0.93,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing fractional change in volume under pressure",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777793756/ncert/physics/9/img_15_0.png",
+        "latex_extracted": "\\begin{array}{c}{{:\\frac{\\Delta V}{V}=\\frac{p}{B}}}\\\\ {{}}\\\\ {{}}\\\\ {{}}\\\\ {{\\vdots~~~~~~~~~~~~~~~~~~~~~~~~=2.73\\times10^{-5}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q9.14",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 9,
+    "chapter_name": "Mechanical Properties of Solids",
+    "question_type": "numerical",
+    "question_text": "How much should the pressure on a litre of water be changed to compress it by 0.10%?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the bulk modulus formula.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777793770/ncert/physics/9/img_16_0.png",
+      "latex_extracted": "{\\mathrm{Bulk~modulus}},B\\ ={\\frac{p}{\\frac{\\Delta V}{V}}}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Therefore, the pressure on water should be 2.2 × 10^6 Nm–2.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the change in pressure using the bulk modulus formula.",
+        "expression": "B = \\frac{p}{\\frac{\\Delta V}{V}}"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values to find the pressure change.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the pressure on water should be increased to 2.2 × 10^6 Nm–2.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of bulk modulus and basic substitution.",
+    "topics_tags": [
+      "Bulk Modulus",
+      "Pressure",
+      "Water Compression"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the bulk modulus formula.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777793770/ncert/physics/9/img_16_0.png",
+        "latex_extracted": "{\\mathrm{Bulk~modulus}},B\\ ={\\frac{p}{\\frac{\\Delta V}{V}}}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q9.15",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 9,
+    "chapter_name": "Mechanical Properties of Solids",
+    "question_type": "numerical",
+    "question_text": "What is the pressure at the tip of the anvil?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, the pressure at the tip of the anvil is 2.55 × 10^11 Pa.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the area at the tip of the anvil using the diameter.",
+        "expression": "A = \\pi \\left(\\frac{d}{2}\\right)^{2}"
+      },
+      {
+        "step_number": 2,
+        "description": "Use the force and area to find the pressure.",
+        "expression": "P = \\frac{F}{A}"
+      }
+    ],
+    "final_answer": "Thus, the pressure at the tip of the anvil is 2.55 × 10^11 Pa.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the calculation of pressure at the tip of the anvil.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777793784/ncert/physics/9/img_17_0.png",
+      "latex_extracted": "\\begin{array}{r}{{\\mathrm{Bulk~modulas,}}}\\\\ {{\\mathrm{g=Ak\\cdotmodubsofwater,}}}\\\\ {{\\mathrm{g=22\\times10^{*}\\times10^{-2}}}}\\\\ {{\\mathrm{=2\\cdot2\\times10^{*}\\cdot10^{-2}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps of calculation and understanding of pressure.",
+    "topics_tags": [
+      "Pressure",
+      "Anvil",
+      "Force"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the calculation of pressure at the tip of the anvil.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777793784/ncert/physics/9/img_17_0.png",
+        "latex_extracted": "\\begin{array}{r}{{\\mathrm{Bulk~modulas,}}}\\\\ {{\\mathrm{g=Ak\\cdotmodubsofwater,}}}\\\\ {{\\mathrm{g=22\\times10^{*}\\times10^{-2}}}}\\\\ {{\\mathrm{=2\\cdot2\\times10^{*}\\cdot10^{-2}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q9.16",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 9,
+    "chapter_name": "Mechanical Properties of Solids",
+    "question_type": "mcq",
+    "question_text": "At what point along the rod should a mass m be suspended in order to produce (a) equal stresses and (b) equal strains in both steel and aluminium wires?",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "equal stresses and"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "equal strains in both steel and aluminium wires?"
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "At what point should the mass be suspended to produce equal stresses?",
+        "part_latex": null,
+        "answer_text": "0.7 m from the steel-wire end.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Set up the equation for equal stresses in both wires.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Solve for the distance from the steel end.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, the mass should be suspended 0.7 m from the steel-wire end.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "At what point should the mass be suspended to produce equal strains?",
+        "part_latex": null,
+        "answer_text": null,
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of stress and strain concepts and their application.",
+    "topics_tags": [
+      "Stress",
+      "Strain",
+      "Rods"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the setup of the rod supported by wires.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777793791/ncert/physics/9/img_18_0.png",
+        "latex_extracted": "\\begin{array}{c}{{p={\\frac{\\mathrm{Force}}{\\mathrm{Arear}}}={\\frac{F}{r^{2}}}}\\\\ {{\\mathrm{Arear}}}\\\\ {{\\frac{\\mathrm{SOOO}}{\\pi\\left(0.25\\times10^{-3}\\right)^{2}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ],
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the setup of the rod supported by wires.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777793791/ncert/physics/9/img_18_0.png",
+      "latex_extracted": "\\begin{array}{c}{{p={\\frac{\\mathrm{Force}}{\\mathrm{Arear}}}={\\frac{F}{r^{2}}}}\\\\ {{\\mathrm{Arear}}}\\\\ {{\\frac{\\mathrm{SOOO}}{\\pi\\left(0.25\\times10^{-3}\\right)^{2}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    }
+  },
+  {
+    "question_id": "Q9.17",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 9,
+    "chapter_name": "Mechanical Properties of Solids",
+    "question_type": "conceptual",
+    "question_text": "If the two wires have equal stresses, then taking torque about the point of suspension, we have:",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the setup with two wires and a mass suspended.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777793811/ncert/physics/9/img_19_0.jpg",
+      "latex_extracted": "\\begin{array}{c}{{\\mathrm{ZZ}\\displaystyle\\left|\\begin{array}{c}{{\\displaystyle\\left|\\begin{array}{c}{{\\displaystyle\\nabla Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z}}\\\\ {{\\displaystyle\\left|\\begin{array}{c}{{\\displaystyle\\nabla\\qquad}}\\\\ {{\\displaystyle\\sinh}}\\end{array}\\right|}}\\end{array}\\right|}}\\\\ {{\\left|\\left.\\begin{array}{c}{{\\displaystyle\\left|\\begin{array}{c}{{\\displaystyle\\Omega}}\\\\ {{\\displaystyle\\Delta}}\\end{array}\\right|}}\\end{array}\\right|}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of torque and stress in wires.",
+    "topics_tags": [
+      "Torque",
+      "Stress",
+      "Wires"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the setup with two wires and a mass suspended.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777793811/ncert/physics/9/img_19_0.jpg",
+        "latex_extracted": "\\begin{array}{c}{{\\mathrm{ZZ}\\displaystyle\\left|\\begin{array}{c}{{\\displaystyle\\left|\\begin{array}{c}{{\\displaystyle\\nabla Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z}}\\\\ {{\\displaystyle\\left|\\begin{array}{c}{{\\displaystyle\\nabla\\qquad}}\\\\ {{\\displaystyle\\sinh}}\\end{array}\\right|}}\\end{array}\\right|}}\\\\ {{\\left|\\left.\\begin{array}{c}{{\\displaystyle\\left|\\begin{array}{c}{{\\displaystyle\\Omega}}\\\\ {{\\displaystyle\\Delta}}\\end{array}\\right|}}\\end{array}\\right|}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q9.18",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 9,
+    "chapter_name": "Mechanical Properties of Solids",
+    "question_type": "numerical",
+    "question_text": "A mild steel wire of length 1.0 m and cross-sectional area 0.50 × 10–2 cm² is stretched horizontally between two pillars. A mass of 100 g is suspended from the midpoint of the wire. Calculate the depression at the midpoint.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the setup with a steel wire and a suspended mass.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777793821/ncert/physics/9/img_21_0.png",
+      "latex_extracted": "\\frac{(1.05-y_{1})}{y_{1}}=\\frac{10}{7}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The depression at the midpoint can be calculated using the formula for the deflection of a wire under load.",
+    "answer_latex": "y = \\frac{mgL^3}{48AE}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the parameters: length L = 1.0 m, area A = 0.50 \\times 10^{-6} m^2, mass m = 0.1 kg.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the force due to the mass: F = mg = 0.1 \\times 9.81.",
+        "expression": "F = 0.981 \\text{ N}"
+      },
+      {
+        "step_number": 3,
+        "description": "Use the formula for depression in the wire to find y.",
+        "expression": "y = \\frac{mgL^3}{48AE}"
+      }
+    ],
+    "final_answer": "Thus, the depression at the midpoint is calculated using the given parameters.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves calculation and application of the formula for deflection.",
+    "topics_tags": [
+      "Deflection",
+      "Steel Wire",
+      "Load"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the setup with a steel wire and a suspended mass.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777793821/ncert/physics/9/img_21_0.png",
+        "latex_extracted": "\\frac{(1.05-y_{1})}{y_{1}}=\\frac{10}{7}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q9.19",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 9,
+    "chapter_name": "Mechanical Properties of Solids",
+    "question_type": "conceptual",
+    "question_text": "Explain the relationship between tension in the wire and the depression caused by a mass attached to it.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram illustrating the relationship between tension and depression in a wire.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777793823/ncert/physics/9/img_22_0.jpg",
+      "latex_extracted": "\\begin{array}{c}{{\\times_{\\infty}\\sum_{\\infty}\\sum_{\\infty}\\sum_{\\infty}\\sum_{\\sim}\\sum_{\\binom{n}{\\infty}}}}\\\\ {{\\vdots}}\\\\ {{\\hat{\\Theta}_{\\infty}\\sum_{\\infty}\\sum_{\\mathfrak{g}}{\\binom{\\mathfrak{g}}{\\sim}}^{\\prime}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The tension in the wire is directly related to the depression caused by the mass attached to it, as described by the equation mg = 2T cosθ.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the tension in the wire increases with the mass attached, leading to greater depression.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of basic concepts of tension and depression in materials.",
+    "topics_tags": [
+      "Tension",
+      "Depression",
+      "Mechanical Properties"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram illustrating the relationship between tension and depression in a wire.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777793823/ncert/physics/9/img_22_0.jpg",
+        "latex_extracted": "\\begin{array}{c}{{\\times_{\\infty}\\sum_{\\infty}\\sum_{\\infty}\\sum_{\\infty}\\sum_{\\sim}\\sum_{\\binom{n}{\\infty}}}}\\\\ {{\\vdots}}\\\\ {{\\hat{\\Theta}_{\\infty}\\sum_{\\infty}\\sum_{\\mathfrak{g}}{\\binom{\\mathfrak{g}}{\\sim}}^{\\prime}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q9.20",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 9,
+    "chapter_name": "Mechanical Properties of Solids",
+    "question_type": "mcq",
+    "question_text": "Two strips of metal are riveted together at their ends by four rivets, each of diameter 6.0 mm. What is the maximum tension that can be exerted by the riveted strip if the shearing stress on the rivet is not to exceed 6.9 × 10^7 Pa? Assume that each rivet is to carry one quarter of the load.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Maximum tension on each rivet = 7799.76 N.",
+    "answer_latex": "T_{max} = 4 \\times 1949.94 = 7799.76 \\text{ N}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the area of one rivet using its diameter.",
+        "expression": "A = \\pi \\left(\\frac{d}{2}\\right)^{2} = \\pi \\left(\\frac{6.0 \\times 10^{-3}}{2}\\right)^{2}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the maximum force using the shearing stress and area.",
+        "expression": "F_{max} = \\text{Shearing Stress} \\times A"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the total maximum tension on all rivets.",
+        "expression": "T_{max} = 4 \\times F_{max}"
+      }
+    ],
+    "final_answer": "Therefore, the maximum tension that can be exerted by the riveted strip is 7799.76 N.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations and understanding of stress and area.",
+    "topics_tags": [
+      "Shearing Stress",
+      "Rivets",
+      "Tension"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q9.21",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 9,
+    "chapter_name": "Mechanical Properties of Solids",
+    "question_type": "numerical",
+    "question_text": "The Marina trench is located in the Pacific Ocean, and at one place it is nearly eleven km beneath the surface of water. The water pressure at the bottom of the trench is about 1.1 × 10^8 Pa. A steel ball of initial volume 0.32 m³ is dropped into the ocean and falls to the bottom of the trench. What is the change in the volume of the ball when it reaches the bottom?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The change in volume of the ball on reaching the bottom of the trench is 2.2 × 10^(-4) m³.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the given values: pressure, initial volume, and bulk modulus.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the formula for change in volume based on bulk modulus.",
+        "expression": "\\Delta V = \\frac{B}{p V}"
+      },
+      {
+        "step_number": 3,
+        "description": "Substitute the values into the formula to calculate the change in volume.",
+        "expression": "\\Delta V = \\frac{1.6 \\times 10^{11} \\text{ Nm}^{-2}}{1.1 \\times 10^8 \\text{ Pa} \\times 0.32 \\text{ m}^3}"
+      }
+    ],
+    "final_answer": "Therefore, the change in volume of the ball on reaching the bottom of the trench is 2.2 × 10^(-4) m³.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of bulk modulus and volume change equations.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777793847/ncert/physics/9/img_25_0.png",
+      "latex_extracted": "\\begin{array}{r}{\\mathrm{Bulk~moduluss},B={\\frac{p}{\\Delta V}}}\\\\ {\\mathrm{A}V={\\frac{B}{p V}}}\\\\ {\\mathrm{a}V={\\frac{B}{p V}}}\\\\ {\\mathrm{a}V={\\frac{B}{p V}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of bulk modulus and application of the formula.",
+    "topics_tags": [
+      "Bulk Modulus",
+      "Volume Change",
+      "Pressure"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of bulk modulus and volume change equations.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777793847/ncert/physics/9/img_25_0.png",
+        "latex_extracted": "\\begin{array}{r}{\\mathrm{Bulk~moduluss},B={\\frac{p}{\\Delta V}}}\\\\ {\\mathrm{A}V={\\frac{B}{p V}}}\\\\ {\\mathrm{a}V={\\frac{B}{p V}}}\\\\ {\\mathrm{a}V={\\frac{B}{p V}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1412 @@
+[
+  {
+    "question_id": "Q1.1",
+    "class": 11,
+    "subject": "accountancy_2",
+    "chapter_number": 1,
+    "chapter_name": "financial statements",
+    "question_type": "numerical",
+    "question_text": "From the following balances taken from the books of Simmi and Vimmi Ltd. for the year ending March 31, 2003, calculate the gross profit.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Gross Profit is calculated as Net Sales minus Cost of Goods Sold.",
+    "answer_latex": "Gross Profit = Net Sales - (Opening Stock + Net Purchases + Direct Expenses - Closing Stock) = 40,00,000 - (15,00,000 + 15,00,000 + 80,000 - 2,50,000) = 11,70,000",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate Cost of Goods Sold using the formula.",
+        "expression": "Cost of Goods Sold = Opening Stock + Net Purchases + Direct Expenses - Closing Stock"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values into the formula.",
+        "expression": "Cost of Goods Sold = 15,00,000 + 15,00,000 + 80,000 - 2,50,000"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate Gross Profit.",
+        "expression": "Gross Profit = 40,00,000 - Cost of Goods Sold"
+      }
+    ],
+    "final_answer": "Therefore, the gross profit is Rs 11,70,000.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of gross profit calculation and basic arithmetic.",
+    "topics_tags": [
+      "Gross Profit",
+      "Financial Statements",
+      "Cost of Goods Sold"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.2",
+    "class": 11,
+    "subject": "accountancy_2",
+    "chapter_number": 1,
+    "chapter_name": "financial statements",
+    "question_type": "mcq",
+    "question_text": "From the following balances extracted from the books of M/s Ahuja and Nanda. Calculate the amount of: (a) Cost of goods available for sale (b) Cost of goods sold during the year (c) Gross Profit.",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "Cost of goods available for sale"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "Cost of goods sold during the year"
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "Gross Profit."
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Cost of goods available for sale",
+        "part_latex": null,
+        "answer_text": "Cost of Goods Available for Sale is calculated as Opening Stock + Net Purchases + Wages.",
+        "answer_latex": "Cost of Goods Available for Sale = Opening Stock + Net Purchases + Wages = 25,000 + 10,40,000 + 1,00,000 = Rs 11,65,000",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the components for Cost of Goods Available for Sale.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the values into the formula.",
+            "expression": "Cost of Goods Available for Sale = 25,000 + 10,40,000 + 1,00,000"
+          }
+        ],
+        "final_answer": "Therefore, the Cost of Goods Available for Sale is Rs 11,65,000.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Cost of goods sold during the year",
+        "part_latex": null,
+        "answer_text": "Cost of Goods Sold is calculated as Opening Stock + Net Purchases + Wages - Closing Stock.",
+        "answer_latex": "Cost of Goods Sold = Opening Stock + Net Purchases + Wages - Closing Stock = 25,000 + 10,40,000 + 1,00,000 - 30,000 = Rs 11,35,000",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the components for Cost of Goods Sold.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the values into the formula.",
+            "expression": "Cost of Goods Sold = 25,000 + 10,40,000 + 1,00,000 - 30,000"
+          }
+        ],
+        "final_answer": "Therefore, the Cost of Goods Sold is Rs 11,35,000.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "Gross Profit",
+        "part_latex": null,
+        "answer_text": "Gross Profit is calculated as Net Sales minus Cost of Goods Sold.",
+        "answer_latex": "Gross Profit = Net Sales - Cost of Goods Sold = 15,50,000 - 4,15,000 = Rs 4,15,000",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the formula for Gross Profit.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the values into the formula.",
+            "expression": "Gross Profit = 15,50,000 - 11,35,000"
+          }
+        ],
+        "final_answer": "Therefore, the Gross Profit is Rs 4,15,000.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations and understanding of financial concepts.",
+    "topics_tags": [
+      "Cost of Goods Sold",
+      "Gross Profit",
+      "Financial Statements"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [],
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    }
+  },
+  {
+    "question_id": "Q1.3",
+    "class": 11,
+    "subject": "accountancy_2",
+    "chapter_number": 1,
+    "chapter_name": "financial statements",
+    "question_type": "numerical",
+    "question_text": "Calculate the amount of net profit earned by the firm given the operating profit, non-operating incomes, and non-operating expenses.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Net profit earned by M/S Arora and Sachdeva in 2005-06 is Rs 14,75,000.",
+    "answer_latex": "Net Profit = Operating Profit + Non-operating Income - Non-operating Expenses = 17,00,000 + 1,50,000 - 3,75,000 = 14,75,000",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the formula for net profit.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values into the formula.",
+        "expression": "Net Profit = 17,00,000 + 1,50,000 - 3,75,000"
+      }
+    ],
+    "final_answer": "Therefore, the net profit earned by the firm is Rs 14,75,000.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of profit calculation and basic arithmetic.",
+    "topics_tags": [
+      "Net Profit",
+      "Operating Profit",
+      "Financial Statements"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.4",
+    "class": 11,
+    "subject": "accountancy_2",
+    "chapter_number": 1,
+    "chapter_name": "financial statements",
+    "question_type": "conceptual",
+    "question_text": "Record the necessary journal entries and show how the above items will appear in the trading and profit and loss account and balance sheet of M/s Bhola and Sons.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The journal entries and their appearance in the trading and profit and loss account and balance sheet are recorded as follows.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "The necessary journal entries and their presentation in the accounts have been recorded.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps of accounting entries and understanding of financial statements.",
+    "topics_tags": [
+      "Journal Entries",
+      "Trading Account",
+      "Profit and Loss Account"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.5",
+    "class": 11,
+    "subject": "accountancy_2",
+    "chapter_number": 1,
+    "chapter_name": "financial statements",
+    "question_type": "conceptual",
+    "question_text": "Prepare trading and profit and loss account and balance sheet, as on March 31, 2005.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Trading Account as on March 31, 2005 shows the gross profit of Rs 15,950. The Profit and Loss Account shows a net profit of Rs 14,000. The Balance Sheet lists total assets and liabilities of Rs 75,500.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Prepare the Trading Account by listing all income and expenses.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate Gross Profit from the Trading Account.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Prepare the Profit and Loss Account using the Gross Profit.",
+        "expression": null
+      },
+      {
+        "step_number": 4,
+        "description": "Prepare the Balance Sheet by listing all assets and liabilities.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the financial statements are prepared as required.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of financial statements and multi-step calculations.",
+    "topics_tags": [
+      "Trading Account",
+      "Profit and Loss Account",
+      "Balance Sheet"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.6",
+    "class": 11,
+    "subject": "accountancy_2",
+    "chapter_number": 1,
+    "chapter_name": "financial statements",
+    "question_type": "conceptual",
+    "question_text": "The following is the trial balance of Manju Chawla on March 31, 2005. You are required to prepare trading and profit and loss account and a balance sheet as on date.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "To prepare the trading and profit and loss account and balance sheet, we need to organize the trial balance data into the respective financial statements.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "List all the debit and credit balances from the trial balance.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the gross profit by subtracting total expenses from total sales.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Prepare the profit and loss account using the calculated gross profit and other incomes/expenses.",
+        "expression": null
+      },
+      {
+        "step_number": 4,
+        "description": "Prepare the balance sheet by listing assets and liabilities.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the financial statements can be prepared using the provided trial balance data.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of financial statements and multi-step calculations.",
+    "topics_tags": [
+      "Trial Balance",
+      "Financial Statements",
+      "Accounting"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.7",
+    "class": 11,
+    "subject": "accountancy_2",
+    "chapter_number": 1,
+    "chapter_name": "financial statements",
+    "question_type": "conceptual",
+    "question_text": "Prepare trading and profit and loss account and balance sheet from the following particulars as on March 31, 2005.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Trading Account as on March 31, 2005 shows the gross profit and the Profit and Loss Account shows the net profit along with the balance sheet.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "List all the income and expenses to prepare the Trading Account.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate Gross Profit by subtracting total expenses from total income.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Prepare the Profit and Loss Account using the Gross Profit and other expenses.",
+        "expression": null
+      },
+      {
+        "step_number": 4,
+        "description": "Compile the Balance Sheet using the final capital and assets.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the Trading and Profit and Loss Account along with the Balance Sheet are prepared as per the given particulars.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of multiple accounting concepts and preparation of financial statements.",
+    "topics_tags": [
+      "Trading Account",
+      "Profit and Loss Account",
+      "Balance Sheet"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.8",
+    "class": 11,
+    "subject": "accountancy_2",
+    "chapter_number": 1,
+    "chapter_name": "financial statements",
+    "question_type": "conceptual",
+    "question_text": "From the following trial balance of Mr. A. Lal, prepare trading, profit and loss account and balance sheet as on March 31, 2005.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Trading Account as on March 31, 2005\nDr. Cr.\nAmount Amount\nParticulars Rs Particulars Rs\nOpening Stock 16,000 Sales 1,12,000\nPurchases 67,600 Less: Sales Return Inwards (4,600) 1,07,400\nLess: Return Outwards 3,200 Closing Stock 15,000\nCarriage Inwards 1,400\nProfit and Loss (Gross Profit) 40,600 1,22,400 1,22,400\nProfit and Loss Account as on March 31, 2005\nDr. Cr.\nAmount Amount\nParticulars Rs Particulars Rs\nGeneral Expenses 2,400 Trading (Gross Profit) 40,600\nBad Debts 600 Discount Received 1,400\nInterest on Bank Overdraft 600 Commission Received 1,800\nInsurance and Taxes 4,000\nScooter Expenses 200\nSalaries 8,800\nNet Profit 27,200\n43,800 43,800\nBalance Sheet as on March 31, 2005\nAmount Amount\nLiabilities Rs Assets Rs\nCapital 50,000 Building 65,000\nAdd: Net Profit 27,200 77,200 Furniture 5,200\nScooter 8,000\nCreditors 16,000 Debtors 6,000\nBank Overdraft 10,000 Closing Stock 15,000",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "The trading, profit and loss account and balance sheet have been prepared as per the trial balance provided.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of financial statements and multi-step calculations.",
+    "topics_tags": [
+      "Trading Account",
+      "Profit and Loss Account",
+      "Balance Sheet"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.9",
+    "class": 11,
+    "subject": "accountancy_2",
+    "chapter_number": 1,
+    "chapter_name": "financial statements",
+    "question_type": "multipart",
+    "question_text": "Prepare trading and profit and loss account and balance sheet of M/s Royal Traders from the following balances as on March 31, 2005.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Prepare trading account.",
+        "part_latex": null,
+        "answer_text": "Trading Account as on March 31, 2005\nDr. Cr.\nAmount Amount\nParticulars Rs Particulars Rs\nOpening Stock 20,000 Sales 2,45,000\nPurchases 1,90,000 Closing Stock 8,000\nCarriage on Purchases 1,500 Profit and Loss (Gross Loss) 13,500",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "List the opening stock, purchases, and carriage on purchases.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the total sales and closing stock.",
+            "expression": null
+          },
+          {
+            "step_number": 3,
+            "description": "Determine the gross loss by subtracting total sales from total costs.",
+            "expression": null
+          }
+        ],
+        "final_answer": "The trading account shows a gross loss of Rs 13,500.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Prepare profit and loss account.",
+        "part_latex": null,
+        "answer_text": "Profit and Loss Account as on March 31, 2005\nDr. Cr.\nAmount Amount\nParticulars Rs Particulars Rs\nTrading (Gross Loss) 13,500\nPostage 300\nSundry Expenses 1,700\nRent 4,500 Net Loss 20,000",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Include gross loss and other expenses in the profit and loss account.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the net loss by summing all expenses.",
+            "expression": null
+          }
+        ],
+        "final_answer": "The profit and loss account shows a net loss of Rs 20,000.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "Prepare balance sheet.",
+        "part_latex": null,
+        "answer_text": "Balance Sheet of M/s Royal Traders as on March 31, 2005\nAmount Amount\nLiabilities Rs Assets Rs\nCapital 2,00,000 Machinery 1,00,000\nLess: Net Loss (20,000) Furniture 35,000\nLess: Drawings (9,000) 1,71,000 Debtors 27,000\nClosing Stock 8,000\nCreditors 10,000 Bank 10,000\nBills Payable 4,000 Cash 5,000\n1,85,000 1,85,000",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the adjusted capital by subtracting net loss and drawings.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "List all liabilities and assets to complete the balance sheet.",
+            "expression": null
+          }
+        ],
+        "final_answer": "The balance sheet balances at Rs 1,85,000 on both sides.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of financial statements and multi-step calculations.",
+    "topics_tags": [
+      "Trading Account",
+      "Profit and Loss Account",
+      "Balance Sheet"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.10",
+    "class": 11,
+    "subject": "accountancy_2",
+    "chapter_number": 1,
+    "chapter_name": "financial statements",
+    "question_type": "conceptual",
+    "question_text": "From the following balances of M/s Nilu Sarees as on March 31, 2005. Prepare trading and profit and loss account and balance sheet as on date.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Trading Account of M/s Nilu Sarees as on March 31, 2005 shows the gross profit of Rs 1,48,500.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "List all the income and expenses to prepare the trading account.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the gross profit by subtracting total expenses from total income.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the gross profit is Rs 1,48,500.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of financial statements and multi-step calculations.",
+    "topics_tags": [
+      "Trading Account",
+      "Profit and Loss Account",
+      "Balance Sheet"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.11",
+    "class": 11,
+    "subject": "accountancy_2",
+    "chapter_number": 1,
+    "chapter_name": "financial statements",
+    "question_type": "numerical",
+    "question_text": "Prepare trading and profit and loss account of M/s Sports Equipments for the year ended March 31, 2006 and balance sheet as on that date.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Trading Account as on March 31, 2006\nDr. Cr.\nAmount Amount\nParticulars Rs Particulars Rs\nOpening Stock 50,000 Sales 4,21,000\nPurchases 3,50,000 Less: Sales Return 5,000 4,16,000\nCarriage on Purchases 12,000 Closing Stock 2,500\nWages 8,000 Profit and Loss (Gross Loss) 1,500\n4,20,000 4,20,000\nProfit and Loss Account as on March 31, 2006\nDr. Cr.\nAmount Amount\nParticulars Rs Particulars Rs\nTrading (Gross Loss) 1,500 Commission 4,000\nRent 15,000 Net Loss 41,500\nBad Debts 7,000\nStationery 6,000\nTravelling Expenses 2,000\nInsurance 7,000\nDiscount 5,000\nOffice Expenses 2,000\n45,500 45,500\nBalance Sheet as on March 31, 2006\nLiabilities Rs Assets Rs\nCapital 3,00,000 Plants 60,000\nLess: Net Loss (41,500) Furniture 1,28,000\nLess: Drawings (24,000) 2,34,500 Debtors 1,40,000\nClosing Stock 2,500\nCreditors 1,00,000 Cash in Hand 32,000\nBank Overdraft 28,000\n3,62,500",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "The trading and profit and loss account along with the balance sheet has been prepared as required.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations and understanding of financial statements.",
+    "topics_tags": [
+      "Trading Account",
+      "Profit and Loss Account",
+      "Balance Sheet"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.12",
+    "class": 11,
+    "subject": "accountancy_2",
+    "chapter_number": 1,
+    "chapter_name": "financial statements",
+    "question_type": "conceptual",
+    "question_text": "Explain the concept of cost of goods sold?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Cost of goods sold (COGS) is the cost of merchandise that is sold to the customers. It includes cost of raw materials purchased, direct expenses incurred, value of opening stock, i.e., the value of the last year's unsold stock and excludes closing stock if any, i.e., the value of current year's unsold stock. The formula to calculate COGS is: Cost of Goods Sold = Opening Stock + Purchases + Direct Expenses - Closing Stock",
+    "answer_latex": "COGS = Opening Stock + Purchases + Direct Expenses - Closing Stock",
+    "steps": [],
+    "final_answer": "Thus, COGS represents the total cost of producing goods that were sold during a specific period.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of basic accounting concepts and formula application.",
+    "topics_tags": [
+      "Cost of Goods Sold",
+      "Accounting",
+      "Financial Statements"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.13",
+    "class": 11,
+    "subject": "accountancy_2",
+    "chapter_number": 1,
+    "chapter_name": "financial statements",
+    "question_type": "conceptual",
+    "question_text": "What is a balance sheet? What are its characteristics?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Balance Sheet is a statement prepared to ascertain values of assets and liabilities of a business on a particular date. It is called Balance Sheet as it contains balances of real and personal accounts, which are not closed on a particular date. Characteristics of Balance Sheet include: 1. It is a statement of assets and liabilities. 2. The total of Assets side must be equal to Liabilities sides. 3. It is prepared at a particular date. 4. It helps in ascertaining the financial position of the business.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the Balance Sheet provides a snapshot of a company's financial position at a specific point in time.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves understanding the structure and purpose of financial statements.",
+    "topics_tags": [
+      "Balance Sheet",
+      "Assets",
+      "Liabilities"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.14",
+    "class": 11,
+    "subject": "accountancy_2",
+    "chapter_number": 1,
+    "chapter_name": "financial statements",
+    "question_type": "mcq",
+    "question_text": "Distinguish between capital and revenue expenditure and state whether the following statements are items of capital or revenue expenditure: (a) Expenditure incurred on repairs and whitewashing at the time of purchase of an old building in order to make it usable. (b) Expenditure incurred to provide one more exit in a cinema hall in compliance with a government order. (c) Registration fees paid at the time of purchase of a building (d) Expenditure incurred in the maintenance of a tea garden which will produce tea after four years. (e) Depreciation charged on a plant. (f) The expenditure incurred in erecting a platform on which a machine will be fixed. (g) Advertising expenditure, the benefits of which will last for four years.",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "Expenditure incurred on repairs and whitewashing at the time of purchase of an old building in order to make it usable."
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "Expenditure incurred to provide one more exit in a cinema hall in compliance with a government order."
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "Registration fees paid at the time of purchase of a building"
+      },
+      {
+        "option_label": "(D)",
+        "option_text": "Expenditure incurred in the maintenance of a tea garden which will produce tea after four years. (e) Depreciation charged on a plant. (f) The expenditure incurred in erecting a platform on which a machine will be fixed. (g) Advertising expenditure, the benefits of which will last for four years."
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Expenditure incurred on repairs and whitewashing at the time of purchase of an old building in order to make it usable.",
+        "part_latex": null,
+        "answer_text": "Capital expenditure",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "This is considered capital expenditure as it enhances the value of the asset.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Expenditure incurred to provide one more exit in a cinema hall in compliance with a government order.",
+        "part_latex": null,
+        "answer_text": "Capital expenditure",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "This is capital expenditure as it improves the facility of the building.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "Registration fees paid at the time of purchase of a building.",
+        "part_latex": null,
+        "answer_text": "Capital expenditure",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "This is capital expenditure as it is a cost incurred to acquire an asset.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(d)",
+        "part_text": "Expenditure incurred in the maintenance of a tea garden which will produce tea after four years.",
+        "part_latex": null,
+        "answer_text": "Capital expenditure",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "This is capital expenditure as it is an investment for future benefits.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(e)",
+        "part_text": "Depreciation charged on a plant.",
+        "part_latex": null,
+        "answer_text": "Revenue expenditure",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "This is revenue expenditure as it is a periodic expense.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(f)",
+        "part_text": "The expenditure incurred in erecting a platform on which a machine will be fixed.",
+        "part_latex": null,
+        "answer_text": "Capital expenditure",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "This is capital expenditure as it is necessary for the installation of an asset.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(g)",
+        "part_text": "Advertising expenditure, the benefits of which will last for four years.",
+        "part_latex": null,
+        "answer_text": "Deferred revenue expenditure",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "This is considered deferred revenue expenditure as it provides benefits over multiple periods.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves distinguishing between two types of expenditures and applying definitions to specific cases.",
+    "topics_tags": [
+      "Capital Expenditure",
+      "Revenue Expenditure",
+      "Accounting Principles"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.15",
+    "class": 11,
+    "subject": "accountancy_2",
+    "chapter_number": 1,
+    "chapter_name": "financial statements",
+    "question_type": "conceptual",
+    "question_text": "What is an operating profit?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Operating profit is a profit earned through normal activities of a business. It is the excess of gross profit over operating expenses. In other words, it is the excess of operating revenue over operating cost. It is also termed as earning before interest and tax (EBTI). It does not include incomes and expenses that are not related to the main course of the business. It is calculated by following formulae: Operating Profit = Gross Profit - Operating Expenses or Operating Profit = Sales - Operating Cost or Operating Profit = Sales - COGS - Operating Expenses.",
+    "answer_latex": "Operating Profit = Gross Profit - Operating Expenses",
+    "steps": [],
+    "final_answer": "Thus, operating profit reflects the profitability of a company's core business operations.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of basic accounting concepts and formula application.",
+    "topics_tags": [
+      "Operating Profit",
+      "Financial Statements",
+      "Profit Calculation"
+    ],
+    "confidence_score": 0.94,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.16",
+    "class": 11,
+    "subject": "accountancy_2",
+    "chapter_number": 1,
+    "chapter_name": "financial statements",
+    "question_type": "conceptual",
+    "question_text": "What are closing entries? Give four examples of closing entries.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The balances of all nominal accounts are transferred to the Trading and Profit and Loss Account. The entries required for such transfers are termed as closing entries. The examples of closing entries are given below: 1. Closing entries to transfer the following items to the debit side of trading account from Trial Balance: Trading A/c Dr. To Opening Stock A/c To Purchase A/c To Wages A/c To Carriage A/c To All Other Direct Expenses A/c. 2. Closing entries to transfer the following items to the credit side of trading account from Trial Balance: Sales A/c Dr. Closing Stock A/c Dr. To Trading A/c. 3. Closing entries to transfer the following items to the debit side of Profit and Loss Account from Trial Balance: Profit and Loss A/c Dr. To Salaries To Rent To Bad Debts To All in Direct Expenses. 4. Closing entries to transfer the following items to the credit side of Profit and Loss Account from Trial Balance: Commission Received A/c Dr. Interest Received A/c Dr. All Other Indirect Income A/c Dr. To Profit and Loss A/c.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Closing entries are essential for transferring nominal account balances to the Trading and Profit and Loss Account.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of accounting principles and examples of closing entries.",
+    "topics_tags": [
+      "Closing Entries",
+      "Nominal Accounts",
+      "Financial Statements"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.17",
+    "class": 11,
+    "subject": "accountancy_2",
+    "chapter_number": 1,
+    "chapter_name": "financial statements",
+    "question_type": "conceptual",
+    "question_text": "Discuss the need of preparing a balance sheet.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The needs to prepare a Balance Sheet are given below: 1. It helps in determining the nature and book value of various assets, such as fixed assets, investments, current assets, etc. at the end of an accounting period. 2. It helps in ascertaining the nature and amount of various liabilities like long term liabilities, current liabilities, provisions, etc., which a business owes. 3. It discloses important information about capital invested in a business. The additional capital invested during the accounting period, drawings of the owners and profit (or loss) added to (or deducted from) the capital of the business. 4. It helps in assessing the solvency of a business. 5. It discloses the true financial position of a business at a particular point of time. 6. It lays down the basis for maintaining new books for next accounting period.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Preparing a balance sheet is essential for understanding the financial position and solvency of a business.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves understanding the purpose and components of a balance sheet.",
+    "topics_tags": [
+      "Balance Sheet",
+      "Financial Position",
+      "Solvency"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.18",
+    "class": 11,
+    "subject": "accountancy_2",
+    "chapter_number": 1,
+    "chapter_name": "financial statements",
+    "question_type": "conceptual",
+    "question_text": "What is meant by Grouping and Marshalling of assets and liabilities? Explain the ways in which a balance sheet may be marshalled.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Grouping of assets and liabilities means showing similar assets and liabilities under a single head. For example, all assets that can be used for more than a year are clubbed together under the heading 'fixed assets'. Marshalling of assets and liabilities refers to showing them in a particular order of liquidity or permanence. 1. In order of liquidity: More liquid assets are recorded first, followed by lesser liquid assets. For example, cash in hand is recorded first and goodwill at last. Liabilities that are to be paid first are recorded first, followed by lower priority ones. 2. In order of permanence: Assets with higher degree of permanence are recorded first, followed by those with lower permanence. For example, goodwill and land are recorded at the top, while cash is recorded at the bottom.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Grouping and marshalling help in organizing financial information for better understanding and decision-making.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of financial statement organization and principles.",
+    "topics_tags": [
+      "Grouping",
+      "Marshalling",
+      "Balance Sheet"
+    ],
+    "confidence_score": 0.94,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  }
+]

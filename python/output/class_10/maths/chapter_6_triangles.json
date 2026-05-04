@@ -1,0 +1,3616 @@
+[
+  {
+    "question_id": "Q6.1",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 6,
+    "chapter_name": "triangles",
+    "question_type": "mcq",
+    "question_text": "Fill in the blanks using correct word given in the brackets:- (i) All circles are __________. (congruent, similar) (ii) All squares are __________. (similar, congruent) (iii) All __________ triangles are similar. (isosceles, equilateral) (iv) Two polygons of the same number of sides are similar, if (a) their corresponding angles are __________ and (b) their corresponding sides are __________. (equal, proportional)",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "their corresponding angles are __________ and"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "their corresponding sides are __________. (equal, proportional)"
+      }
+    ],
+    "correct_option": "(A)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "(i) Similar (ii) Similar (iii) Equilateral (iv) (a) Equal (b) Proportional",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "The answers are: (i) Similar, (ii) Similar, (iii) Equilateral, (iv) (a) Equal, (b) Proportional.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of definitions and properties.",
+    "topics_tags": [
+      "Similar Figures",
+      "Congruence",
+      "Triangles"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.2",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 6,
+    "chapter_name": "triangles",
+    "question_type": "conceptual",
+    "question_text": "Give two different examples of pair of (i) Similar figures (ii) Non-similar figures",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "(i) Two equilateral triangles with sides 1 cm and 2 cm, Two squares with sides 1 cm and 2 cm.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Examples of similar figures include two equilateral triangles with sides 1 cm and 2 cm, and two squares with sides 1 cm and 2 cm.",
+    "answer_image": {
+      "present": true,
+      "description": "Image showing examples of similar figures.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660409/ncert/maths/6/img_1_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Simple identification of examples.",
+    "topics_tags": [
+      "Similar Figures",
+      "Examples",
+      "Geometry"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image showing examples of similar figures.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660409/ncert/maths/6/img_1_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q6.3",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 6,
+    "chapter_name": "triangles",
+    "question_type": "conceptual",
+    "question_text": "State whether the following quadrilaterals are similar or not:",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Quadrilateral PQRS and ABCD are not similar as their corresponding sides are proportional, i.e. 1:2, but their corresponding angles are not equal.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, quadrilateral PQRS and ABCD are not similar.",
+    "answer_image": {
+      "present": true,
+      "description": "Image showing quadrilaterals PQRS and ABCD.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660419/ncert/maths/6/img_2_3.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of similarity criteria for quadrilaterals.",
+    "topics_tags": [
+      "Quadrilaterals",
+      "Similarity",
+      "Geometry"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image showing quadrilaterals PQRS and ABCD.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660419/ncert/maths/6/img_2_3.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q6.4",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 6,
+    "chapter_name": "triangles",
+    "question_type": "conceptual",
+    "question_text": "In the following figure, DE || AC and DF || AE. Prove that",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing lines DE parallel to AC and DF parallel to AE in triangle ABC.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660468/ncert/maths/6/img_7_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "In ΔABC, DE || AC",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, DE is parallel to AC.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of parallel lines and triangle properties.",
+    "topics_tags": [
+      "Parallel Lines",
+      "Triangles",
+      "Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing lines DE parallel to AC and DF parallel to AE in triangle ABC.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660468/ncert/maths/6/img_7_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.5",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 6,
+    "chapter_name": "triangles",
+    "question_type": "multipart",
+    "question_text": "E and F are points on the sides PQ and PR respectively of a ΔPQR. For each of the following cases, state whether EF || QR.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing points E and F on triangle PQR with segments EF and QR.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660433/ncert/maths/6/img_4_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "PE = 3.9 cm, EQ = 3 cm, PF = 3.6 cm and FR = 2.4 cm",
+        "part_latex": null,
+        "answer_text": "Yes, EF || QR by the basic proportionality theorem.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the ratios PE/EQ and PF/FR.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Check if the ratios are equal.",
+            "expression": "\\frac{PE}{EQ} = \\frac{3.9}{3} \\quad \\text{and} \\quad \\frac{PF}{FR} = \\frac{3.6}{2.4}"
+          }
+        ],
+        "final_answer": "Therefore, EF is parallel to QR.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "PE = 4 cm, QE = 4.5 cm, PF = 8 cm and RF = 9 cm",
+        "part_latex": null,
+        "answer_text": "Yes, EF || QR by the basic proportionality theorem.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the ratios PE/EQ and PF/FR.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Check if the ratios are equal.",
+            "expression": "\\frac{PE}{QE} = \\frac{4}{4.5} \\quad \\text{and} \\quad \\frac{PF}{RF} = \\frac{8}{9}"
+          }
+        ],
+        "final_answer": "Therefore, EF is parallel to QR.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "PQ = 1.28 cm, PR = 2.56 cm, PE = 0.18 cm and PF = 0.63 cm",
+        "part_latex": null,
+        "answer_text": "Yes, EF || QR by the basic proportionality theorem.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the ratios PE/PQ and PF/PR.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Check if the ratios are equal.",
+            "expression": "\\frac{PE}{PQ} = \\frac{0.18}{1.28} \\quad \\text{and} \\quad \\frac{PF}{PR} = \\frac{0.63}{2.56}"
+          }
+        ],
+        "final_answer": "Therefore, EF is parallel to QR.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of the basic proportionality theorem and applying it to multiple cases.",
+    "topics_tags": [
+      "Triangles",
+      "Proportionality",
+      "Basic Proportionality Theorem"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing points E and F on triangle PQR with segments EF and QR.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660433/ncert/maths/6/img_4_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.6",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 6,
+    "chapter_name": "triangles",
+    "question_type": "conceptual",
+    "question_text": "In the following figure, A, B and C are points on OP, OQ and OR respectively such that AB || PQ and AC || PR. Show that BC || QR.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing points A, B, and C on lines OP, OQ, and OR with AB parallel to PQ and AC parallel to PR.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660485/ncert/maths/6/img_9_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of multiple parallel lines and triangle properties.",
+    "topics_tags": [
+      "Parallel Lines",
+      "Triangles",
+      "Geometry"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing points A, B, and C on lines OP, OQ, and OR with AB parallel to PQ and AC parallel to PR.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660485/ncert/maths/6/img_9_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.9",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 6,
+    "chapter_name": "triangles",
+    "question_type": "conceptual",
+    "question_text": "Using Basic proportionality theorem, prove that a line drawn through the mid-points of one side of a triangle parallel to another side bisects the third side. (Recall that you have proved it in Class IX).",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram illustrating triangle POQ with line AB parallel to PQ.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660506/ncert/maths/6/img_10_3.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of the theorem and its application in a proof.",
+    "topics_tags": [
+      "Basic Proportionality Theorem",
+      "Triangles",
+      "Geometry"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram illustrating triangle POQ with line AB parallel to PQ.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660506/ncert/maths/6/img_10_3.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.10",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 6,
+    "chapter_name": "triangles",
+    "question_type": "conceptual",
+    "question_text": "Using Converse of basic proportionality theorem, prove that the line joining the mid-points of any two sides of a triangle is parallel to the third side. (Recall that you have done it in Class IX).",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing triangle with mid-points P and Q connected by line segment PQ.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660513/ncert/maths/6/img_11_2.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of the converse theorem and its application in a proof.",
+    "topics_tags": [
+      "Converse of Basic Proportionality Theorem",
+      "Triangles",
+      "Geometry"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing triangle with mid-points P and Q connected by line segment PQ.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660513/ncert/maths/6/img_11_2.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.11",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 6,
+    "chapter_name": "triangles",
+    "question_type": "conceptual",
+    "question_text": "ABCD is a trapezium in which AB || DC and its diagonals intersect each other at the point O. Show that.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Diagram of trapezium ABCD with diagonals intersecting at point O.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660517/ncert/maths/6/img_12_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Involves application of theorems and requires a detailed proof.",
+    "topics_tags": [
+      "Trapezium",
+      "Diagonals",
+      "Geometry"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram of trapezium ABCD with diagonals intersecting at point O.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660517/ncert/maths/6/img_12_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q6.12",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 6,
+    "chapter_name": "triangles",
+    "question_type": "conceptual",
+    "question_text": "The diagonals of a quadrilateral ABCD intersect each other at the point O such that Show that ABCD is a trapezium.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing quadrilateral ABCD with diagonals intersecting at point O.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660524/ncert/maths/6/img_13_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "ABCD is a trapezium because AB is parallel to CD as shown by the basic proportionality theorem.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Draw a line OE parallel to AB.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Apply the basic proportionality theorem in triangle ABD.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Conclude that EO is parallel to DC, hence AB is parallel to CD.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, ABCD is a trapezium.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of the basic proportionality theorem and its application.",
+    "topics_tags": [
+      "Quadrilaterals",
+      "Trapezium",
+      "Basic Proportionality Theorem"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing quadrilateral ABCD with diagonals intersecting at point O.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660524/ncert/maths/6/img_13_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.13",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 6,
+    "chapter_name": "triangles",
+    "question_type": "conceptual",
+    "question_text": "Diagonals AC and BD of a trapezium ABCD with AB || DC intersect each other at the point O. Using a similarity criterion for two triangles, show that.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "In ΔDOC and ΔBOA, the angles are shown to be equal, leading to the conclusion of similarity.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify corresponding angles in triangles DOC and BOA.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Apply the AAA similarity criterion to conclude that ΔDOC is similar to ΔBOA.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, ΔDOC is similar to ΔBOA by the AAA similarity criterion.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing trapezium ABCD with diagonals AC and BD intersecting at point O.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660550/ncert/maths/6/img_16_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of triangle similarity and application of criteria.",
+    "topics_tags": [
+      "Triangle Similarity",
+      "Trapezium",
+      "Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing trapezium ABCD with diagonals AC and BD intersecting at point O.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660550/ncert/maths/6/img_16_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q6.14",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 6,
+    "chapter_name": "triangles",
+    "question_type": "conceptual",
+    "question_text": "In the following figure, Show that.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing triangle PQR with angles PQR and PRQ.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660556/ncert/maths/6/img_17_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "In ΔPQR, ∠PQR = ∠PRQ, therefore PQ = PR.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify that angles PQR and PRQ are equal.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Conclude that sides PQ and PR are equal based on the equal angles.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, PQ = PR as required.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic understanding of triangle properties.",
+    "topics_tags": [
+      "Triangle Properties",
+      "Isosceles Triangle",
+      "Geometry"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing triangle PQR with angles PQR and PRQ.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660556/ncert/maths/6/img_17_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.15",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 6,
+    "chapter_name": "triangles",
+    "question_type": "conceptual",
+    "question_text": "S and T are point on sides PR and QR of ΔPQR such that ∠ P = ∠ RTS. Show that ΔRPQ ∠¼ ΔRTS.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing triangle PQR with points S and T on sides PR and QR.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660564/ncert/maths/6/img_18_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "In ΔRPQ and ΔRST, ∠ RTS = ∠ QPS (Given), ∠ R = ∠ R (Common angle), therefore ΔRPQ ∠¼ ΔRTS.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the given angles and the common angle.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Apply the AA similarity criterion to conclude that ΔRPQ is similar to ΔRTS.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, ΔRPQ is similar to ΔRTS by AA similarity criterion.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of angle relationships and similarity criteria.",
+    "topics_tags": [
+      "Triangle Similarity",
+      "Angle Relationships",
+      "Geometry"
+    ],
+    "confidence_score": 0.94,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing triangle PQR with points S and T on sides PR and QR.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660564/ncert/maths/6/img_18_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.16",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 6,
+    "chapter_name": "triangles",
+    "question_type": "multipart",
+    "question_text": "In the following figure, altitudes AD and CE of ΔABC intersect each other at the point P. Show that:\n(i) ΔAEP ∝¼ ΔCDP\n(ii) ΔABD ∝¼ ΔCBE\n(iii) ΔAEP ∝¼ ΔADB\n(iv) ΔPDC ∝¼ ΔBEC",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Figure showing triangles ABC with altitudes AD and CE intersecting at point P.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660568/ncert/maths/6/img_19_1.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "ΔAEP ∝¼ ΔCDP",
+        "part_latex": null,
+        "answer_text": "In ΔAEP and ΔCDP,\n∠ AEP = ∠ CDP (Each 90°)\n∠ APE = ∠ CPD (Vertically opposite angles)\nHence, by using AA similarity criterion,\nΔAEP ∝¼ ΔCDP",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the angles in triangles AEP and CDP.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Apply AA similarity criterion to conclude the proportionality.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, ΔAEP is similar to ΔCDP.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "ΔABD ∝¼ ΔCBE",
+        "part_latex": null,
+        "answer_text": "In ΔABD and ΔCBE,\n∠ ADB = ∠ CEB (Each 90°)\n∠ ABD = ∠ CBE (Common)\nHence, by using AA similarity criterion,\nΔABD ∝¼ ΔCBE",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the angles in triangles ABD and CBE.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Apply AA similarity criterion to conclude the proportionality.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, ΔABD is similar to ΔCBE.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "ΔAEP ∝¼ ΔADB",
+        "part_latex": null,
+        "answer_text": "In ΔAEP and ΔADB,\n∠ AEP = ∠ ADB (Each 90°)\n∠ PAE = ∠ DAB (Common)\nHence, by using AA similarity criterion,\nΔAEP ∝¼ ΔADB",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the angles in triangles AEP and ADB.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Apply AA similarity criterion to conclude the proportionality.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, ΔAEP is similar to ΔADB.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iv)",
+        "part_text": "ΔPDC ∝¼ ΔBEC",
+        "part_latex": null,
+        "answer_text": "In ΔPDC and ΔBEC,\n∠ PDC = ∠ BEC (Each 90°)\n∠ PCD = ∠ BCE (Common angle)\nHence, by using AA similarity criterion,\nΔPDC ∝¼ ΔBEC",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the angles in triangles PDC and BEC.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Apply AA similarity criterion to conclude the proportionality.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, ΔPDC is similar to ΔBEC.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of triangle similarity and application of AA criterion.",
+    "topics_tags": [
+      "Triangle Similarity",
+      "AA Criterion",
+      "Proportionality"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Figure showing triangles ABC with altitudes AD and CE intersecting at point P.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660568/ncert/maths/6/img_19_1.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.17",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 6,
+    "chapter_name": "triangles",
+    "question_type": "conceptual",
+    "question_text": "CD and GH are respectively the bisectors of ∠ACB and ∠EGF such that D and H lie on sides AB and FE of ΔABC and ΔEFG respectively. If ΔABC ≅ ΔFEG, Show that: (i) (ii) ΔDCB ≅ ΔHGE (iii) ΔDCA ≅ ΔHGF",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing triangles ABC and EFG with angle bisectors CD and GH.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660580/ncert/maths/6/img_22_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "It is given that ΔABC ≅ ΔFEG. ∴∠A = ∠F, ∠B = ∠E, and ∠ACB = ∠FGE.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the angles from the given similarity of triangles.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Apply the angle bisector theorem to establish relationships between angles.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the required congruences ΔDCB ≅ ΔHGE and ΔDCA ≅ ΔHGF are established.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of triangle similarity and angle bisector properties.",
+    "topics_tags": [
+      "Triangle Congruence",
+      "Angle Bisector",
+      "Similarity"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing triangles ABC and EFG with angle bisectors CD and GH.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660580/ncert/maths/6/img_22_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.18",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 6,
+    "chapter_name": "triangles",
+    "question_type": "conceptual",
+    "question_text": "In the following figure, E is a point on side CB produced of an isosceles triangle ABC with AB = AC. If AD ⊥ BC and EF ⊥ AC, prove that ΔABD ≅ ΔECF.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing isosceles triangle ABC with perpendiculars AD and EF.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660585/ncert/maths/6/img_23_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "It is given that ABC is an isosceles triangle. ∴ AB = AC and ∠ABD = ∠ECF.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the properties of the isosceles triangle.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the right angles from the perpendiculars to establish congruence.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, ΔABD ≅ ΔECF by AA similarity criterion.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic properties of isosceles triangles and congruence criteria.",
+    "topics_tags": [
+      "Isosceles Triangle",
+      "Triangle Congruence",
+      "Perpendiculars"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing isosceles triangle ABC with perpendiculars AD and EF.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660585/ncert/maths/6/img_23_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.19",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 6,
+    "chapter_name": "triangles",
+    "question_type": "conceptual",
+    "question_text": "Sides AB and BC and median AD of a triangle ABC are respectively proportional to sides PQ and QR and median PM of ΔPQR. Show that ΔABC ≅ ΔPQR.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing triangle ABC and triangle PQR with median AD and PM.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660587/ncert/maths/6/img_24_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Median divides the opposite side. Given that, in ΔABD and ΔPQM, ΔABD ≅ ΔPQM by SSS similarity criterion.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Establish the proportionality of sides and medians.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Apply the SSS similarity criterion to show congruence.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, ΔABC ≅ ΔPQR by the properties of similar triangles.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of triangle properties and similarity criteria.",
+    "topics_tags": [
+      "Triangle Similarity",
+      "Median",
+      "Proportionality"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing triangle ABC and triangle PQR with median AD and PM.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660587/ncert/maths/6/img_24_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.20",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 6,
+    "chapter_name": "triangles",
+    "question_type": "conceptual",
+    "question_text": "D is a point on the side BC of a triangle ABC such that ∠ADC = ∠BAC. Show that ΔADC ~ ΔBAC.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram illustrating triangle ABC with point D on side BC.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660591/ncert/maths/6/img_25_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "In ΔADC and ΔBAC, ∠ADC = ∠BAC (Given) and ∠ACD = ∠BCA (Common angle). Therefore, ΔADC ~ ΔBAC (By AA similarity criterion).",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the given angles and common angle.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Apply AA similarity criterion to conclude similarity.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, ΔADC is similar to ΔBAC.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of triangle similarity criteria.",
+    "topics_tags": [
+      "Triangle Similarity",
+      "AA Criterion",
+      "Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram illustrating triangle ABC with point D on side BC.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660591/ncert/maths/6/img_25_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.21",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 6,
+    "chapter_name": "triangles",
+    "question_type": "conceptual",
+    "question_text": "Sides AB and AC and median AD of a triangle ABC are respectively proportional to sides PQ and PR and median PM of another triangle PQR. Show that ΔABC ~ ΔPQR.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing triangles ABC and PQR with medians AD and PM.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660593/ncert/maths/6/img_26_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Given that sides AB and AC are proportional to PQ and PR, and medians AD and PM are also proportional, we can show that ΔABC ~ ΔPQR using the SSS similarity criterion.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Extend AD and PM to points E and L respectively.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Show that quadrilaterals ABEC and PQLR are parallelograms.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Conclude that corresponding sides are equal, establishing similarity.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, ΔABC is similar to ΔPQR.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram illustrating the construction of triangles and their medians.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660595/ncert/maths/6/img_26_1.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps and understanding of triangle properties.",
+    "topics_tags": [
+      "Triangle Proportions",
+      "Median",
+      "SSS Criterion"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing triangles ABC and PQR with medians AD and PM.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660593/ncert/maths/6/img_26_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram illustrating the construction of triangles and their medians.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660595/ncert/maths/6/img_26_1.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q6.22",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 6,
+    "chapter_name": "triangles",
+    "question_type": "numerical",
+    "question_text": "A vertical pole of a length 6 m casts a shadow 4 m long on the ground and at the same time a tower casts a shadow 28 m long. Find the height of the tower.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing a pole and a tower with their respective shadows.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660598/ncert/maths/6/img_27_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Let the height of the tower be h. Using the similarity of triangles, we have the proportion: \\frac{6}{4} = \\frac{h}{28}. Solving this gives h = 42 m.",
+    "answer_latex": "h = \\frac{6 \\times 28}{4} = 42",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set up the proportion based on similar triangles.",
+        "expression": "\\frac{6}{4} = \\frac{h}{28}"
+      },
+      {
+        "step_number": 2,
+        "description": "Cross-multiply to solve for h.",
+        "expression": "h = \\frac{6 \\times 28}{4}"
+      }
+    ],
+    "final_answer": "Thus, the height of the tower is 42 m.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic proportion calculation.",
+    "topics_tags": [
+      "Height Calculation",
+      "Similar Triangles",
+      "Proportions"
+    ],
+    "confidence_score": 0.94,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing a pole and a tower with their respective shadows.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660598/ncert/maths/6/img_27_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.23",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 6,
+    "chapter_name": "triangles",
+    "question_type": "conceptual",
+    "question_text": "If AD and PM are medians of triangles ABC and PQR, respectively, where ΔABC ≅ ΔPQR, show that the corresponding sides of similar triangles are in proportion.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "It is given that ΔABC ≅ ΔPQR. We know that the corresponding sides of similar triangles are in proportion.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify that triangles ABC and PQR are congruent.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "State that corresponding sides of similar triangles are in proportion.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, the corresponding sides of triangles ABC and PQR are in proportion.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram illustrating triangles ABC and PQR with medians AD and PM.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660600/ncert/maths/6/img_28_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of triangle properties and similarity.",
+    "topics_tags": [
+      "Triangle Properties",
+      "Medians",
+      "Similarity"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram illustrating triangles ABC and PQR with medians AD and PM.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660600/ncert/maths/6/img_28_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q6.24",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 6,
+    "chapter_name": "triangles",
+    "question_type": "numerical",
+    "question_text": "Let the areas of triangles be, respectively, 64 cm² and 121 cm². If EF = 15.4 cm, find BC.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing triangles with given areas and side EF.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660605/ncert/maths/6/img_29_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves calculation based on area ratios and triangle properties.",
+    "topics_tags": [
+      "Triangle Area",
+      "Proportions",
+      "Geometry"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing triangles with given areas and side EF.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660605/ncert/maths/6/img_29_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.25",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 6,
+    "chapter_name": "triangles",
+    "question_type": "conceptual",
+    "question_text": "Diagonals of a trapezium ABCD with AB || DC intersect each other at the point O. If AB = 2CD, find the ratio of the areas of triangles AOB and COD.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing trapezium ABCD with intersecting diagonals.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660606/ncert/maths/6/img_29_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of trapezium properties and area ratios.",
+    "topics_tags": [
+      "Trapezium",
+      "Area Ratios",
+      "Geometry"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing trapezium ABCD with intersecting diagonals.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660606/ncert/maths/6/img_29_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.26",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 6,
+    "chapter_name": "triangles",
+    "question_type": "conceptual",
+    "question_text": "In the following figure, ABC and DBC are two triangles on the same base BC. If AD intersects BC at O, show that the areas of triangles ABC and DBC are equal.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing triangles ABC and DBC with base BC.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660612/ncert/maths/6/img_30_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Let us draw two perpendiculars AP and DM on line BC.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Draw perpendiculars from points A and D to line BC.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the properties of triangles to show that areas are equal.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the areas of triangles ABC and DBC are equal.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of triangle area properties and geometric reasoning.",
+    "topics_tags": [
+      "Triangle Areas",
+      "Geometry",
+      "Base"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing triangles ABC and DBC with base BC.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660612/ncert/maths/6/img_30_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.27",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 6,
+    "chapter_name": "triangles",
+    "question_type": "conceptual",
+    "question_text": "If the areas of two similar triangles are equal, prove that they are congruent.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing two similar triangles ΔAPO and ΔDMO with angles marked.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660623/ncert/maths/6/img_31_2.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Let us assume two similar triangles as ΔABC ≅ ΔPQR.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, if the areas of two similar triangles are equal, they must be congruent.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of similarity and congruence in triangles.",
+    "topics_tags": [
+      "Similar Triangles",
+      "Congruence",
+      "Area"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing two similar triangles ΔAPO and ΔDMO with angles marked.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660623/ncert/maths/6/img_31_2.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.28",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 6,
+    "chapter_name": "triangles",
+    "question_type": "conceptual",
+    "question_text": "D, E and F are respectively the mid-points of sides AB, BC and CA of ΔABC. Find the ratio of the area of ΔDEF and ΔABC.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing triangle ΔABC with midpoints D, E, and F marked.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660635/ncert/maths/6/img_32_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "D and E are the mid-points of ΔABC.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "The ratio of the area of ΔDEF to ΔABC is 1:4.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves understanding of midpoints and area ratios in triangles.",
+    "topics_tags": [
+      "Midpoints",
+      "Area Ratio",
+      "Triangles"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing triangle ΔABC with midpoints D, E, and F marked.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660635/ncert/maths/6/img_32_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.29",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 6,
+    "chapter_name": "triangles",
+    "question_type": "conceptual",
+    "question_text": "Prove that the ratio of the areas of two similar triangles is equal to the square of the ratio of their corresponding medians.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing two similar triangles ΔABC and ΔPQR with medians marked.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660645/ncert/maths/6/img_33_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Let us assume two similar triangles as ΔABC ≅ ΔPQR. Let AD and PS be the medians of these triangles.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "The ratio of the areas of the triangles is equal to the square of the ratio of their corresponding medians.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Involves understanding of similarity, medians, and area calculations.",
+    "topics_tags": [
+      "Similar Triangles",
+      "Medians",
+      "Area Ratio"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing two similar triangles ΔABC and ΔPQR with medians marked.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660645/ncert/maths/6/img_33_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.30",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 6,
+    "chapter_name": "triangles",
+    "question_type": "conceptual",
+    "question_text": "Prove that the area of an equilateral triangle described on one side of a square is equal to half the area of the equilateral triangle described on one of its diagonals.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Let ABCD be a square of side a. The area of the equilateral triangle described on one side is equal to half the area of the equilateral triangle described on one of its diagonals.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Define the square and its side length.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Identify the equilateral triangles formed on the sides and diagonals.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Use the properties of equilateral triangles to establish the area relationship.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, the area of the equilateral triangle on one side of the square is half that of the triangle on the diagonal.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram illustrating the relationship between the equilateral triangles and the square.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660653/ncert/maths/6/img_35_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of geometric properties and area calculations.",
+    "topics_tags": [
+      "Equilateral Triangle",
+      "Area",
+      "Square",
+      "Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram illustrating the relationship between the equilateral triangles and the square.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660653/ncert/maths/6/img_35_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q6.31",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 6,
+    "chapter_name": "triangles",
+    "question_type": "multipart",
+    "question_text": "Sides of triangles are given below. Determine which of them are right triangles? In case of a right triangle, write the length of its hypotenuse.\n(i) 7 cm, 24 cm, 25 cm\n(ii) 3 cm, 8 cm, 6 cm\n(iii) 50 cm, 80 cm, 100 cm\n(iv) 13 cm, 12 cm, 5 cm",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "7 cm, 24 cm, 25 cm",
+        "part_latex": null,
+        "answer_text": "It is a right triangle. The length of the hypotenuse is 25 cm.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Square the lengths of the sides: 49, 576, and 625.",
+            "expression": "7^2 = 49, 24^2 = 576, 25^2 = 625"
+          },
+          {
+            "step_number": 2,
+            "description": "Check if the sum of the squares of the two shorter sides equals the square of the longest side.",
+            "expression": "49 + 576 = 625"
+          }
+        ],
+        "final_answer": "Therefore, it is a right triangle.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "3 cm, 8 cm, 6 cm",
+        "part_latex": null,
+        "answer_text": "It is not a right triangle.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Square the lengths of the sides: 9, 64, and 36.",
+            "expression": "3^2 = 9, 8^2 = 64, 6^2 = 36"
+          },
+          {
+            "step_number": 2,
+            "description": "Check if the sum of the squares of the two shorter sides equals the square of the longest side.",
+            "expression": "9 + 36 ≠ 64"
+          }
+        ],
+        "final_answer": "Therefore, it is not a right triangle.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "50 cm, 80 cm, 100 cm",
+        "part_latex": null,
+        "answer_text": "It is not a right triangle.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Square the lengths of the sides: 2500, 6400, and 10000.",
+            "expression": "50^2 = 2500, 80^2 = 6400, 100^2 = 10000"
+          },
+          {
+            "step_number": 2,
+            "description": "Check if the sum of the squares of the two shorter sides equals the square of the longest side.",
+            "expression": "2500 + 6400 ≠ 10000"
+          }
+        ],
+        "final_answer": "Therefore, it is not a right triangle.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iv)",
+        "part_text": "13 cm, 12 cm, 5 cm",
+        "part_latex": null,
+        "answer_text": "It is a right triangle. The length of the hypotenuse is 13 cm.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Square the lengths of the sides: 169, 144, and 25.",
+            "expression": "13^2 = 169, 12^2 = 144, 5^2 = 25"
+          },
+          {
+            "step_number": 2,
+            "description": "Check if the sum of the squares of the two shorter sides equals the square of the longest side.",
+            "expression": "144 + 25 = 169"
+          }
+        ],
+        "final_answer": "Therefore, it is a right triangle.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple checks using Pythagorean theorem for each triangle.",
+    "topics_tags": [
+      "Right Triangle",
+      "Pythagorean Theorem",
+      "Triangle Properties"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.32",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 6,
+    "chapter_name": "triangles",
+    "question_type": "conceptual",
+    "question_text": "PQR is a triangle right angled at P and M is a point on QR such that PM ⊥ QR. Show that PM² = QM x MR.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram illustrating triangle PQR with point M on QR and PM perpendicular to QR.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660659/ncert/maths/6/img_38_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Requires understanding of geometric properties and proof.",
+    "topics_tags": [
+      "Right Triangle",
+      "Geometric Proof",
+      "Triangle Properties"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram illustrating triangle PQR with point M on QR and PM perpendicular to QR.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660659/ncert/maths/6/img_38_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.33",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 6,
+    "chapter_name": "triangles",
+    "question_type": "derivation",
+    "question_text": "ABC is an isosceles triangle right angled at C. prove that AB² = 2 AC².",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram illustrating isosceles triangle ABC right angled at C.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660666/ncert/maths/6/img_39_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Additional diagram related to the proof of triangle ABC.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660667/ncert/maths/6/img_39_1.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Involves applying Pythagorean theorem and properties of isosceles triangles.",
+    "topics_tags": [
+      "Isosceles Triangle",
+      "Pythagorean Theorem",
+      "Triangle Properties"
+    ],
+    "confidence_score": 0.88,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram illustrating isosceles triangle ABC right angled at C.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660666/ncert/maths/6/img_39_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Additional diagram related to the proof of triangle ABC.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660667/ncert/maths/6/img_39_1.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q6.34",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 6,
+    "chapter_name": "triangles",
+    "question_type": "derivation",
+    "question_text": "ABC is an isosceles triangle with AC = BC. If AB² = 2 AC², prove that ABC is a right triangle.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram of an isosceles triangle ABC with sides AC and BC equal.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660671/ncert/maths/6/img_40_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Requires understanding of triangle properties and Pythagorean theorem.",
+    "topics_tags": [
+      "Isosceles Triangle",
+      "Pythagorean Theorem",
+      "Right Triangle"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram of an isosceles triangle ABC with sides AC and BC equal.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660671/ncert/maths/6/img_40_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.35",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 6,
+    "chapter_name": "triangles",
+    "question_type": "numerical",
+    "question_text": "ABC is an equilateral triangle of side 2a. Find each of its altitudes.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing an equilateral triangle ABC with side length 2a.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660674/ncert/maths/6/img_40_1.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Let AD be the altitude in the given equilateral triangle, ΔABC.",
+        "part_latex": null,
+        "answer_text": "The altitude bisects the opposite side.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the altitude AD in triangle ABC.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Since ABC is equilateral, the altitude bisects side BC.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Therefore, the length of each altitude is a√3.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of properties of equilateral triangles and basic geometry.",
+    "topics_tags": [
+      "Equilateral Triangle",
+      "Altitude",
+      "Geometry"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing an equilateral triangle ABC with side length 2a.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660674/ncert/maths/6/img_40_1.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [],
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    }
+  },
+  {
+    "question_id": "Q6.36",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 6,
+    "chapter_name": "triangles",
+    "question_type": "conceptual",
+    "question_text": "Prove that the sum of the squares of the sides of rhombus is equal to the sum of the squares of its diagonals.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing a rhombus with its diagonals.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660679/ncert/maths/6/img_41_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves application of Pythagorean theorem in multiple triangles.",
+    "topics_tags": [
+      "Rhombus",
+      "Diagonals",
+      "Pythagorean Theorem"
+    ],
+    "confidence_score": 0.88,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing a rhombus with its diagonals.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660679/ncert/maths/6/img_41_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q6.37",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 6,
+    "chapter_name": "triangles",
+    "question_type": "conceptual",
+    "question_text": "In the following figure, O is a point in the interior of a triangle ABC, OD ⊥ BC, OE ⊥ AC and OF ⊥ AB. Show that (i) OA² + OB² + OC² - OD² - OE² - OF² = AF² + BD² + CE² (ii) AF² + BD² + CE² = AE² + CD² + BF².",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing point O inside triangle ABC with perpendiculars to the sides.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660692/ncert/maths/6/img_42_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Requires understanding of geometric properties and multiple steps to prove.",
+    "topics_tags": [
+      "Triangle Properties",
+      "Perpendiculars",
+      "Geometric Proof"
+    ],
+    "confidence_score": 0.87,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing point O inside triangle ABC with perpendiculars to the sides.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660692/ncert/maths/6/img_42_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.38",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 6,
+    "chapter_name": "triangles",
+    "question_type": "numerical",
+    "question_text": "A ladder 10 m long reaches a window 8 m above the ground. Find the distance of the foot of the ladder from base of the wall.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing a ladder leaning against a wall with height marked.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660703/ncert/maths/6/img_43_2.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Therefore, the distance of the foot of the ladder from the base of the wall is 6 m.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Apply Pythagoras theorem to find the distance from the wall.",
+        "expression": "AB^2 = OA^2 + OB^2"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the known values: 10^2 = 8^2 + OB^2.",
+        "expression": "100 = 64 + OB^2"
+      },
+      {
+        "step_number": 3,
+        "description": "Solve for OB to find the distance from the wall.",
+        "expression": "OB^2 = 100 - 64 = 36"
+      },
+      {
+        "step_number": 4,
+        "description": "Take the square root to find OB.",
+        "expression": "OB = 6"
+      }
+    ],
+    "final_answer": "Thus, the distance of the foot of the ladder from the base of the wall is 6 m.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of Pythagorean theorem and basic algebra.",
+    "topics_tags": [
+      "Pythagorean Theorem",
+      "Triangles",
+      "Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing a ladder leaning against a wall with height marked.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660703/ncert/maths/6/img_43_2.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.39",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 6,
+    "chapter_name": "triangles",
+    "question_type": "conceptual",
+    "question_text": "D and E are points on the sides CA and CB respectively of a triangle ABC right angled at C. Prove that AE² + BD² = AB² + DE².",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram illustrating triangle ABC with points D and E on sides CA and CB.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660721/ncert/maths/6/img_46_2.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Applying Pythagoras theorem in ΔACE, we obtain the required result.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Apply Pythagoras theorem in triangle ACE.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, AE² + BD² = AB² + DE² is proved.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of Pythagorean theorem and application in a right triangle.",
+    "topics_tags": [
+      "Pythagorean Theorem",
+      "Triangles",
+      "Geometry"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram illustrating triangle ABC with points D and E on sides CA and CB.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660721/ncert/maths/6/img_46_2.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.40",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 6,
+    "chapter_name": "triangles",
+    "question_type": "conceptual",
+    "question_text": "The perpendicular from A on side BC of a ΔABC intersect BC at D such that DB = 3 CD. Prove that 2 AB² = 2 AC² + BC².",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing triangle ABC with perpendicular AD intersecting BC at D.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660734/ncert/maths/6/img_47_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Applying Pythagoras theorem for ΔACD and ΔABD, we obtain the required result.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Apply Pythagoras theorem in triangle ACD.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Apply Pythagoras theorem in triangle ABD.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, 2 AB² = 2 AC² + BC² is proved.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple applications of Pythagorean theorem.",
+    "topics_tags": [
+      "Pythagorean Theorem",
+      "Triangles",
+      "Geometry"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing triangle ABC with perpendicular AD intersecting BC at D.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660734/ncert/maths/6/img_47_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.41",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 6,
+    "chapter_name": "triangles",
+    "question_type": "conceptual",
+    "question_text": "In an equilateral triangle ABC, D is a point on side BC such that BD = BC. Prove that 9 AD² = 7 AB².",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram of equilateral triangle ABC with point D on side BC.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660749/ncert/maths/6/img_48_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Let the side of the equilateral triangle be a, and AE be the altitude of ΔABC.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Define the side length of the equilateral triangle as a.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Establish relationships using the properties of equilateral triangles.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, 9 AD² = 7 AB² is proved.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Involves understanding properties of equilateral triangles and applying geometric reasoning.",
+    "topics_tags": [
+      "Equilateral Triangle",
+      "Geometry",
+      "Proofs"
+    ],
+    "confidence_score": 0.8,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram of equilateral triangle ABC with point D on side BC.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660749/ncert/maths/6/img_48_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.42",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 6,
+    "chapter_name": "triangles",
+    "question_type": "derivation",
+    "question_text": "In an equilateral triangle, prove that three times the square of one side is equal to four times the square of one of its altitudes.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to the equilateral triangle and its altitude.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660752/ncert/maths/6/img_49_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Let the side of the equilateral triangle be a, and AE be the altitude of ΔABC. Applying Pythagoras theorem in ΔABE, we obtain 4AE² = 3a².",
+    "answer_latex": "4AE^{2} = 3a^{2}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Define the side of the equilateral triangle and its altitude.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Apply Pythagoras theorem in triangle ABE.",
+        "expression": "AB^{2} = AE^{2} + BE^{2}"
+      },
+      {
+        "step_number": 3,
+        "description": "Substitute the values and simplify.",
+        "expression": "4AE^{2} = 3a^{2}"
+      }
+    ],
+    "final_answer": "Therefore, three times the square of one side is equal to four times the square of one of its altitudes.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of triangle properties and application of Pythagorean theorem.",
+    "topics_tags": [
+      "Equilateral Triangle",
+      "Altitude",
+      "Pythagorean Theorem"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the equilateral triangle and its altitude.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660752/ncert/maths/6/img_49_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.43",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 6,
+    "chapter_name": "triangles",
+    "question_type": "mcq",
+    "question_text": "In ΔABC, AB = cm, AC = 12 cm and BC = 6 cm. The angle B is: (A) 120° (B) 60° (C) 90° (D) 45°",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "120°"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "60°"
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "90°"
+      },
+      {
+        "option_label": "(D)",
+        "option_text": "45°"
+      }
+    ],
+    "correct_option": "(C)",
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to triangle ABC with sides labeled.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660755/ncert/maths/6/img_50_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The triangle is a right triangle, right-angled at B. Hence, the correct answer is (C) 90°.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Check the sides of the triangle against Pythagorean theorem.",
+        "expression": "AB^{2} + BC^{2} = AC^{2}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the squares of the sides.",
+        "expression": "AB^{2} = 108, AC^{2} = 144, BC^{2} = 36"
+      },
+      {
+        "step_number": 3,
+        "description": "Verify the Pythagorean theorem holds.",
+        "expression": "AB^{2} + BC^{2} = AC^{2}"
+      }
+    ],
+    "final_answer": "Therefore, angle B is 90°.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing triangle ABC with angle B marked.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660757/ncert/maths/6/img_50_1.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of triangle properties and basic calculations.",
+    "topics_tags": [
+      "Right Triangle",
+      "Pythagorean Theorem",
+      "Angle Measurement"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to triangle ABC with sides labeled.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660755/ncert/maths/6/img_50_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing triangle ABC with angle B marked.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660757/ncert/maths/6/img_50_1.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q6.44",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 6,
+    "chapter_name": "triangles",
+    "question_type": "conceptual",
+    "question_text": "In the given figure, PS is the bisector of ∠QPR of ΔPQR. Prove that.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing triangle PQR with angle bisector PS.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660758/ncert/maths/6/img_51_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Let us draw a line segment RT parallel to SP which intersects extended line segment QP at point T. By construction, we can show that PT = PR.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Draw line segment RT parallel to SP.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use angle properties to establish relationships.",
+        "expression": "∠QPS = ∠SPR"
+      },
+      {
+        "step_number": 3,
+        "description": "Conclude that PT = PR based on angle bisector theorem.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, we have proved that PT = PR.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of angle bisector properties and geometric proof.",
+    "topics_tags": [
+      "Angle Bisector",
+      "Triangle Properties",
+      "Geometric Proof"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing triangle PQR with angle bisector PS.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660758/ncert/maths/6/img_51_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.45",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 6,
+    "chapter_name": "triangles",
+    "question_type": "derivation",
+    "question_text": "In the given figure, D is a point on hypotenuse AC of ΔABC, DM ⊥ BC and DN ⊥ AB, Prove that: (i) DM² = DN.MC (ii) DN² = DM.AN",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "Prove that DM² = DN.MC",
+        "part_latex": null,
+        "answer_text": "In ΔDMB, using AA similarity criterion, we find that DM² = DN × MC.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Establish similarity between triangles DMB and DCM.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Apply the similarity condition to derive DM² = DN × MC.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, DM² = DN × MC is proved.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "Prove that DN² = DM.AN",
+        "part_latex": null,
+        "answer_text": "In ΔDNA and ΔBND, using AA similarity criterion, we find that DN² = DM × AN.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Establish similarity between triangles DNA and BND.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Apply the similarity condition to derive DN² = DM × AN.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, DN² = DM × AN is proved.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing triangle ABC with points D, M, and N indicating perpendiculars.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660763/ncert/maths/6/img_52_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Involves multi-step reasoning and application of similarity criteria.",
+    "topics_tags": [
+      "Triangles",
+      "Similarity",
+      "Pythagorean Theorem"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing triangle ABC with points D, M, and N indicating perpendiculars.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660763/ncert/maths/6/img_52_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q6.46",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 6,
+    "chapter_name": "triangles",
+    "question_type": "derivation",
+    "question_text": "In the given figure, ABC is a triangle in which ∠ ABC > 90° and AD ⊥ CB produced. Prove that AC² = AB² + BC² + 2BC.BD.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing triangle ABC with point D indicating a perpendicular.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660771/ncert/maths/6/img_54_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Applying Pythagoras theorem in ΔADB, we obtain AC² = AB² + BC² + 2BC.BD.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Apply Pythagorean theorem in triangle ADB.",
+        "expression": "AB² = AD² + DB²"
+      },
+      {
+        "step_number": 2,
+        "description": "Apply Pythagorean theorem in triangle ACD.",
+        "expression": "AC² = AD² + DC²"
+      },
+      {
+        "step_number": 3,
+        "description": "Substitute DC with (DB + BC) and simplify.",
+        "expression": "AC² = AD² + (DB + BC)²"
+      },
+      {
+        "step_number": 4,
+        "description": "Expand and rearrange to get the final result.",
+        "expression": "AC² = AB² + BC² + 2DB × BC"
+      }
+    ],
+    "final_answer": "Thus, AC² = AB² + BC² + 2BC.BD is proved.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Involves multi-step reasoning and application of Pythagorean theorem.",
+    "topics_tags": [
+      "Triangles",
+      "Pythagorean Theorem",
+      "Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing triangle ABC with point D indicating a perpendicular.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660771/ncert/maths/6/img_54_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.47",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 6,
+    "chapter_name": "triangles",
+    "question_type": "derivation",
+    "question_text": "In the given figure, ABC is a triangle in which ∠ ABC < 90° and AD ⊥ BC. Prove that AC² = AB² + BC² - 2BC.BD.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing triangle ABC with point D indicating a perpendicular.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660772/ncert/maths/6/img_54_1.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Applying Pythagoras theorem in ΔADB, we obtain AC² = AB² + BC² - 2BC.BD.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Apply Pythagorean theorem in triangle ADB.",
+        "expression": "AD² + DB² = AB²"
+      },
+      {
+        "step_number": 2,
+        "description": "Apply Pythagorean theorem in triangle ACD.",
+        "expression": "AC² = AD² + DC²"
+      },
+      {
+        "step_number": 3,
+        "description": "Substitute DC with (DB - BC) and simplify.",
+        "expression": "AC² = AD² + (DB - BC)²"
+      },
+      {
+        "step_number": 4,
+        "description": "Expand and rearrange to get the final result.",
+        "expression": "AC² = AB² + BC² - 2DB × BC"
+      }
+    ],
+    "final_answer": "Thus, AC² = AB² + BC² - 2BC.BD is proved.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Involves multi-step reasoning and application of Pythagorean theorem.",
+    "topics_tags": [
+      "Triangles",
+      "Pythagorean Theorem",
+      "Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing triangle ABC with point D indicating a perpendicular.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660772/ncert/maths/6/img_54_1.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.48",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 6,
+    "chapter_name": "triangles",
+    "question_type": "multipart",
+    "question_text": "In the given figure, AD is a median of a triangle ABC and AM ⊥ BC. Prove that: (i) AD² + DC² = AC² (ii) AB² + BD² - 2BD × MD = AD² + BD² (iii) 2AM² + 2MD² + BD² + DC² + 2MD(-BD + DC) = AB² + AC²",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "Applying Pythagoras theorem in ΔAMD, we obtain AM² + MD² = AD².",
+        "part_latex": null,
+        "answer_text": "AD² + DC² = AC² [Using equation (1)]",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Apply Pythagoras theorem in triangle AMD.",
+            "expression": "AM² + MD² = AD²"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute MD with DC in the equation.",
+            "expression": "AD² + DC² = AC²"
+          }
+        ],
+        "final_answer": "Thus, AD² + DC² = AC².",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "Applying Pythagoras theorem in ΔABM, we obtain AB² = AM² + MB².",
+        "part_latex": null,
+        "answer_text": "AD² + BD² - 2BD × MD = AB² + BD².",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Apply Pythagoras theorem in triangle ABM.",
+            "expression": "AB² = AM² + MB²"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute MB with (BD - MD) and simplify.",
+            "expression": "AD² + BD² - 2BD × MD = AB²"
+          }
+        ],
+        "final_answer": "Therefore, AD² + BD² - 2BD × MD = AB².",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "Adding equations (1) and (2), we obtain 2AM² + MB² + MC² = AB² + AC².",
+        "part_latex": null,
+        "answer_text": "2AM² + 2MD² + BD² + DC² + 2MD(-BD + DC) = AB² + AC².",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Add equations from parts (i) and (ii).",
+            "expression": "2AM² + MB² + MC² = AB² + AC²"
+          },
+          {
+            "step_number": 2,
+            "description": "Simplify the equation to reach the final result.",
+            "expression": "2AM² + 2MD² + BD² + DC² + 2MD(-BD + DC) = AB² + AC²"
+          }
+        ],
+        "final_answer": "Thus, 2AM² + 2MD² + BD² + DC² + 2MD(-BD + DC) = AB² + AC².",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing triangle ABC with median AD and perpendicular AM to BC.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660774/ncert/maths/6/img_55_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Involves multiple applications of Pythagorean theorem and algebraic manipulation.",
+    "topics_tags": [
+      "Pythagorean Theorem",
+      "Triangles",
+      "Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing triangle ABC with median AD and perpendicular AM to BC.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777660774/ncert/maths/6/img_55_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  }
+]

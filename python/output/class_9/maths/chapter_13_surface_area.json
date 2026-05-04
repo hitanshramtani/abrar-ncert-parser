@@ -1,0 +1,4811 @@
+[
+  {
+    "question_id": "Q13.1",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface area",
+    "question_type": "mcq",
+    "question_text": "A plastic box 1.5 m long, 1.25 m wide and 65 cm deep, is to be made. It is to be open at the top. Ignoring the thickness of the plastic sheet, determine: (i) The area of the sheet required for making the box. (ii) The cost of sheet for it, if a sheet measuring 1 m² costs Rs 20.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "The area of the sheet required for making the box.",
+        "part_latex": null,
+        "answer_text": "The area of the sheet required is calculated using the formula: Area = 2lh + 2bh + lb.",
+        "answer_latex": "A = 2lh + 2bh + lb",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Substitute the values of length, breadth, and height into the area formula.",
+            "expression": "A = 2(1.5)(0.65) + 2(1.25)(0.65) + (1.5)(1.25)"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the area.",
+            "expression": "A = 1.95 + 1.625 + 1.875"
+          }
+        ],
+        "final_answer": "Therefore, the area of the sheet required for making the box is 5.45 m².",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "The cost of sheet for it, if a sheet measuring 1 m² costs Rs 20.",
+        "part_latex": null,
+        "answer_text": "The cost of the sheet is calculated by multiplying the area by the cost per square meter.",
+        "answer_latex": "Cost = 5.45 \\times 20",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Multiply the area by the cost per square meter.",
+            "expression": "Cost = 5.45 \\times 20"
+          }
+        ],
+        "final_answer": "Thus, the cost of the sheet required is Rs 109.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Image related to the problem of calculating surface area and cost of the plastic sheet.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777719876/ncert/maths/13/img_1_0.jpg",
+      "latex_extracted": "\\left\\vert\\left.\\right|_{\\sqrt{\\left(s s m\\right)}\\displaystyle\\left[\\frac{<{\\displaystyle>}}{1}\\right]_{\\stackrel{\\cdot}{i}\\leq\\cdots\\right\\vert}_{\\sim\\cdots\\atop1}\\right\\lbrace\\left.\\right.}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multi-step calculations for area and cost.",
+    "topics_tags": [
+      "Surface Area",
+      "Cost Calculation",
+      "Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image related to the problem of calculating surface area and cost of the plastic sheet.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777719876/ncert/maths/13/img_1_0.jpg",
+        "latex_extracted": "\\left\\vert\\left.\\right|_{\\sqrt{\\left(s s m\\right)}\\displaystyle\\left[\\frac{<{\\displaystyle>}}{1}\\right]_{\\stackrel{\\cdot}{i}\\leq\\cdots\\right\\vert}_{\\sim\\cdots\\atop1}\\right\\lbrace\\left.\\right.}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q13.2",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface area",
+    "question_type": "numerical",
+    "question_text": "The length, breadth and height of a room are 5 m, 4 m and 3 m respectively. Find the cost of white washing the walls of the room and the ceiling at the rate of Rs 7.50 per m2.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The area to be white-washed is 74 m2. Therefore, the cost of white-washing is Rs 555.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the area of the walls and ceiling to be white-washed.",
+        "expression": "Area = 2lh + 2bh + lb = [2 \\times 5 \\times 3 + 2 \\times 4 \\times 3 + 5 \\times 4]"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values to find the total area.",
+        "expression": "Area = (30 + 24 + 20) = 74 m^2"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the cost of white-washing.",
+        "expression": "Cost = 74 \\times 7.50"
+      }
+    ],
+    "final_answer": "Therefore, the cost of white-washing the walls and ceiling is Rs 555.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of surface area calculation and basic multiplication.",
+    "topics_tags": [
+      "Surface Area",
+      "Cost Calculation",
+      "Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.3",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface area",
+    "question_type": "numerical",
+    "question_text": "The floor of a rectangular hall has a perimeter 250 m. If the cost of panting the four walls at the rate of Rs.10 per m2 is Rs.15000, find the height of the hall.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, the height of the hall is 6 m.",
+    "answer_latex": "h = 6",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set up the equation for the area of the four walls based on the perimeter.",
+        "expression": "Area = 2(l + b)h = 250h"
+      },
+      {
+        "step_number": 2,
+        "description": "Set up the equation for the cost of painting the walls.",
+        "expression": "Cost = 2500h"
+      },
+      {
+        "step_number": 3,
+        "description": "Equate the cost of painting to the given amount to find h.",
+        "expression": "15000 = 2500h"
+      },
+      {
+        "step_number": 4,
+        "description": "Solve for h.",
+        "expression": "h = \frac{15000}{2500} = 6"
+      }
+    ],
+    "final_answer": "Thus, the height of the hall is 6 m.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of perimeter and area relationships and basic algebra.",
+    "topics_tags": [
+      "Perimeter",
+      "Area",
+      "Height",
+      "Rectangular Hall"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.4",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface area",
+    "question_type": "multipart",
+    "question_text": "A cubical box has each edge 10 cm and another cuboidal box is 12.5 cm long, 10 cm wide and 8 cm high. (i) Which box has the greater lateral surface area and by how much? (ii) Which box has the smaller total surface area and by how much?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "Which box has the greater lateral surface area and by how much?",
+        "part_latex": null,
+        "answer_text": "The lateral surface area of the cubical box is greater than the lateral surface area of the cuboidal box by 40 cm².",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the lateral surface area of the cubical box.",
+            "expression": "Lateral surface area = 4(edge)^2 = 4(10 cm)^2 = 400 cm^2"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the lateral surface area of the cuboidal box.",
+            "expression": "Lateral surface area = 2[lh + bh] = 2(12.5 × 8 + 10 × 8) = 360 cm^2"
+          },
+          {
+            "step_number": 3,
+            "description": "Find the difference in lateral surface areas.",
+            "expression": "400 cm^2 - 360 cm^2 = 40 cm^2"
+          }
+        ],
+        "final_answer": "Therefore, the lateral surface area of the cubical box is greater than the lateral surface area of the cuboidal box by 40 cm².",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "Which box has the smaller total surface area and by how much?",
+        "part_latex": null,
+        "answer_text": "The total surface area of the cubical box is smaller than that of the cuboidal box by 10 cm².",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the total surface area of the cubical box.",
+            "expression": "Total surface area = 6(edge)^2 = 6(10 cm)^2 = 600 cm^2"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the total surface area of the cuboidal box.",
+            "expression": "Total surface area = 2[lh + bh + lb] = 610 cm^2"
+          },
+          {
+            "step_number": 3,
+            "description": "Find the difference in total surface areas.",
+            "expression": "610 cm^2 - 600 cm^2 = 10 cm^2"
+          }
+        ],
+        "final_answer": "Therefore, the total surface area of the cubical box is smaller than that of the cuboidal box by 10 cm².",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires multiple calculations and comparisons of surface areas.",
+    "topics_tags": [
+      "Surface Area",
+      "Cubical Box",
+      "Cuboidal Box"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.5",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface area",
+    "question_type": "multipart",
+    "question_text": "A small indoor greenhouse (herbarium) is made entirely of glass panes (including base) held together with tape. It is 30 cm long, 25 cm wide and 25 cm high. (i) What is the area of the glass? (ii) How much of tape is needed for all the 12 edges?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "What is the area of the glass?",
+        "part_latex": null,
+        "answer_text": "The area of glass is 4250 cm².",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the total surface area of the greenhouse.",
+            "expression": "Total surface area = 2[lb + lh + bh] = 2(30 × 25 + 30 × 25 + 25 × 25) = 4250 cm^2"
+          }
+        ],
+        "final_answer": "Therefore, the area of glass is 4250 cm².",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "How much of tape is needed for all the 12 edges?",
+        "part_latex": null,
+        "answer_text": null,
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic calculations for surface area.",
+    "topics_tags": [
+      "Greenhouse",
+      "Surface Area",
+      "Glass"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.6",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface area",
+    "question_type": "numerical",
+    "question_text": "Shanti Sweets Stall was placing an order for making cardboard boxes for packing their sweets. Two sizes of boxes were required. The bigger of dimensions 25 cm × 20 cm × 5 cm and the smaller of dimensions 15 cm × 12 cm × 5 cm. For all the overlaps, 5% of the total surface area is required extra. If the cost of the cardboard is Rs 4 for 1000 cm², find the cost of cardboard required for supplying 250 boxes of each kind.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical expression related to surface area calculations.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777719879/ncert/maths/13/img_7_0.jpg",
+      "latex_extracted": "\\textstyle\\bigcup_{0...}^{\\frac{\\mathrm{H}}{\\vdots}}{\\binom{\\mathrm{S}}{\\vdots}{\\binom{\\mathrm{s}}{\\log\\left(\\mathrm{s}}{\\binom{\\mathrm{s}}{\\leq}}{\\binom{\\mathrm{s}}{\\mathrm{s}}}{\\binom{\\mathrm{s}}{\\mathrm{s}}{\\binom{\\mathrm{s}}{\\mathrm{s}}}{\\binom{\\mathrm{s}}{\\mathrm{s}}}}\\right)}",
+      "source_page_number": 7,
+      "source_image_index": 0,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The cost of cardboard sheet required for 250 such boxes of each kind will be Rs 2184.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the total surface area of the bigger box including overlaps.",
+        "expression": "Total Surface Area = 1522.5 cm²"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the total surface area of the smaller box including overlaps.",
+        "expression": "Total Surface Area = 661.5 cm²"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the total area of cardboard required for 250 boxes of each size.",
+        "expression": "Total Area = 546000 cm²"
+      },
+      {
+        "step_number": 4,
+        "description": "Calculate the cost of the cardboard based on the total area.",
+        "expression": "Cost = Rs 2184"
+      }
+    ],
+    "final_answer": "Therefore, the cost of cardboard sheet required for 250 such boxes of each kind will be Rs 2184.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations and understanding of surface area.",
+    "topics_tags": [
+      "Surface Area",
+      "Cardboard Boxes",
+      "Cost Calculation"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical expression related to surface area calculations.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777719879/ncert/maths/13/img_7_0.jpg",
+        "latex_extracted": "\\textstyle\\bigcup_{0...}^{\\frac{\\mathrm{H}}{\\vdots}}{\\binom{\\mathrm{S}}{\\vdots}{\\binom{\\mathrm{s}}{\\log\\left(\\mathrm{s}}{\\binom{\\mathrm{s}}{\\leq}}{\\binom{\\mathrm{s}}{\\mathrm{s}}}{\\binom{\\mathrm{s}}{\\mathrm{s}}{\\binom{\\mathrm{s}}{\\mathrm{s}}}{\\binom{\\mathrm{s}}{\\mathrm{s}}}}\\right)}",
+        "source_page_number": 7,
+        "source_image_index": 0,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.7",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface area",
+    "question_type": "numerical",
+    "question_text": "Parveen wanted to make a temporary shelter for her car, by making a box-like structure with tarpaulin that covers all the four sides and the top of the car (with the front face as a flap which can be rolled up). Assuming that the stitching margins are very small, and therefore negligible, how much tarpaulin would be required to make the shelter of height 2.5 m, with base dimensions 4 m × 3 m?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, 47 m² tarpaulin will be required.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the area of the tarpaulin required for the top and four wall sides.",
+        "expression": "Area = 2(lh + bh) + lb"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values into the area formula.",
+        "expression": "Area = 2(4 × 2.5 + 3 × 2.5) + 4 × 3"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the total area.",
+        "expression": "Area = 47 m²"
+      }
+    ],
+    "final_answer": "Therefore, 47 m² tarpaulin will be required.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of surface area and basic calculations.",
+    "topics_tags": [
+      "Surface Area",
+      "Tarpaulin",
+      "Shelter"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.8",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface area",
+    "question_type": "numerical",
+    "question_text": "The curved surface area of a right circular cylinder of height 14 cm is 88 cm². Find the diameter of the base of the cylinder.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The diameter of the base of the cylinder is 2 cm.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Use the formula for the curved surface area of a cylinder: 2πrh = 88 cm².",
+        "expression": "2πrh = 88"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the height (h = 14 cm) into the formula to find the radius (r).",
+        "expression": "2πr(14) = 88"
+      },
+      {
+        "step_number": 3,
+        "description": "Solve for r and then find the diameter (d = 2r).",
+        "expression": "d = 2 cm"
+      }
+    ],
+    "final_answer": "Therefore, the diameter of the base of the cylinder is 2 cm.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of the formula for the curved surface area and basic algebra.",
+    "topics_tags": [
+      "Curved Surface Area",
+      "Cylinder",
+      "Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.9",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface area",
+    "question_type": "numerical",
+    "question_text": "It is required to make a closed cylindrical tank of height 1 m and base diameter 140 cm from a metal sheet. How many square meters of the sheet are required for the same?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves calculating the surface area of a closed cylinder, requiring multiple steps.",
+    "topics_tags": [
+      "Surface Area",
+      "Cylinder",
+      "Geometry"
+    ],
+    "confidence_score": 0.8,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.10",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface area",
+    "question_type": "numerical",
+    "question_text": "A metal pipe is 77 cm long. The inner diameter of a cross section is 4 cm, the outer diameter being 4.4 cm. (i) Inner curved surface area.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the cross-section of a metal pipe with inner and outer diameters.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777719883/ncert/maths/13/img_13_0.jpg",
+      "latex_extracted": "\\begin{array}{r l}{\\left[\\left({\\frac{\\operatorname{drea~of~SBectreedireed}=\\Gamma\\circ(\\operatorname{diaf}\\dotsc\\operatorname{direed}\\left[\\operatorname{diree}\\right]}{=\\left[\\begin{array}{c}{{2\\times\\left(\\operatorname{diaf}\\dotsc\\operatorname{direed}\\lnot\\left[\\vphantom{d}\\lnot\\right)}{\\Gamma}}\\right]}}\\\\ {=\\left[\\left(\\frac{2\\times\\bot\\times\\left.1\\right)}{\\Gamma}\\times\\left(\\operatorname{d}\\lnot\\Gamma\\right)\\right]\\ln^{2}}\\\\ {=\\left(\\frac{4\\cdot\\ 4\\times\\sum\\lnot\\Gamma\\lnot\\Gamma\\right)}{\\Gamma}\\right)\\ln^{2}}\\end{array}",
+      "source_page_number": 13,
+      "source_image_index": 0,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of curved surface area calculation and substitution.",
+    "topics_tags": [
+      "Curved Surface Area",
+      "Cylindrical Pipe",
+      "Geometry"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the cross-section of a metal pipe with inner and outer diameters.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777719883/ncert/maths/13/img_13_0.jpg",
+        "latex_extracted": "\\begin{array}{r l}{\\left[\\left({\\frac{\\operatorname{drea~of~SBectreedireed}=\\Gamma\\circ(\\operatorname{diaf}\\dotsc\\operatorname{direed}\\left[\\operatorname{diree}\\right]}{=\\left[\\begin{array}{c}{{2\\times\\left(\\operatorname{diaf}\\dotsc\\operatorname{direed}\\lnot\\left[\\vphantom{d}\\lnot\\right)}{\\Gamma}}\\right]}}\\\\ {=\\left[\\left(\\frac{2\\times\\bot\\times\\left.1\\right)}{\\Gamma}\\times\\left(\\operatorname{d}\\lnot\\Gamma\\right)\\right]\\ln^{2}}\\\\ {=\\left(\\frac{4\\cdot\\ 4\\times\\sum\\lnot\\Gamma\\lnot\\Gamma\\right)}{\\Gamma}\\right)\\ln^{2}}\\end{array}",
+        "source_page_number": 13,
+        "source_image_index": 0,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.11",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface area",
+    "question_type": "numerical",
+    "question_text": "The diameter of a roller is 84 cm and its length is 120 cm. It takes 500 complete revolutions to move once over to level a playground. Find the area of the playground in m2?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing a cylindrical roller used for leveling a playground.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777719891/ncert/maths/13/img_15_0.jpg",
+      "latex_extracted": "\\scriptstyle\\left[=\\left(2\\times{\\frac{22}{7}}\\times42\\times120\\right)\\cot",
+      "source_page_number": 15,
+      "source_image_index": 0,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The area of the playground is 1584 m2.",
+    "answer_latex": "1584 \text{ m}^2",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the curved surface area (CSA) of the roller using the formula CSA = 2πrh.",
+        "expression": "CSA = 2\\pi r h"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values of radius and height into the CSA formula.",
+        "expression": "CSA = 2\\times\\frac{22}{7}\\times42\\times120"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the total area of the playground by multiplying the CSA by the number of revolutions.",
+        "expression": "Area = 500 \\times CSA"
+      }
+    ],
+    "final_answer": "Therefore, the area of the playground is 1584 m2.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic calculations and understanding of cylindrical geometry.",
+    "topics_tags": [
+      "Cylindrical Roller",
+      "Surface Area",
+      "Area Calculation"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing a cylindrical roller used for leveling a playground.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777719891/ncert/maths/13/img_15_0.jpg",
+        "latex_extracted": "\\scriptstyle\\left[=\\left(2\\times{\\frac{22}{7}}\\times42\\times120\\right)\\cot",
+        "source_page_number": 15,
+        "source_image_index": 0,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.12",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface area",
+    "question_type": "numerical",
+    "question_text": "Curved surface area of a right circular cylinder is 4.4 m2. If the radius of the base of the cylinder is 0.7 m, find its height.",
+    "question_latex": "2\\pi rh = 4.4",
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of the curved surface area of a cylinder.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777719893/ncert/maths/13/img_16_0.jpg",
+      "latex_extracted": "\\begin{array}{c}{{\\overline{{{}=\\left(2\\times{\\frac{22}{7}}\\times0.25\\times3.5\\right)\\mathbf{m}^{\\ddagger}}}}\\\\ {{\\overline{{{=\\left(44\\times0.125\\right)\\mathbf{m}^{2}}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Therefore, the height of the cylinder is 1 m.",
+    "answer_latex": "h = 1",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Rearrange the formula for curved surface area to find height.",
+        "expression": "h = \\frac{CSA}{2\\pi r}"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values of CSA and radius into the formula.",
+        "expression": "h = \\frac{4.4}{2\\pi \\times 0.7}"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the height.",
+        "expression": "h = 1"
+      }
+    ],
+    "final_answer": "Therefore, the height of the cylinder is 1 m.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of the formula for curved surface area and basic substitution.",
+    "topics_tags": [
+      "Curved Surface Area",
+      "Cylinder",
+      "Mathematics"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the curved surface area of a cylinder.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777719893/ncert/maths/13/img_16_0.jpg",
+        "latex_extracted": "\\begin{array}{c}{{\\overline{{{}=\\left(2\\times{\\frac{22}{7}}\\times0.25\\times3.5\\right)\\mathbf{m}^{\\ddagger}}}}\\\\ {{\\overline{{{=\\left(44\\times0.125\\right)\\mathbf{m}^{2}}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.13",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface area",
+    "question_type": "numerical",
+    "question_text": "The inner diameter of a circular well is 3.5 m. It is 10 m deep. Find (i) Its inner curved surface area, (ii) The cost of plastering this curved surface at the rate of Rs 40 per m2.",
+    "question_latex": "Inner\\,curved\\,surface\\,area = 2\\pi rh",
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "Find the inner curved surface area.",
+        "part_latex": null,
+        "answer_text": "Therefore, the inner curved surface area of the circular well is 110 m2.",
+        "answer_latex": "Inner\\,curved\\,surface\\,area = 110",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the inner radius from the diameter.",
+            "expression": "r = \\frac{3.5}{2} = 1.75"
+          },
+          {
+            "step_number": 2,
+            "description": "Use the formula for inner curved surface area.",
+            "expression": "CSA = 2\\pi rh = 2\\pi \\times 1.75 \\times 10"
+          },
+          {
+            "step_number": 3,
+            "description": "Calculate the curved surface area.",
+            "expression": "CSA = 110"
+          }
+        ],
+        "final_answer": "Therefore, the inner curved surface area of the circular well is 110 m2.",
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "Find the cost of plastering this curved surface.",
+        "part_latex": null,
+        "answer_text": "Therefore, the cost of plastering the CSA of this well is Rs 4400.",
+        "answer_latex": "Cost = 110 \\times 40 = 4400",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the cost of plastering per square meter.",
+            "expression": "Cost = 110 \\times 40"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the total cost.",
+            "expression": "Cost = 4400"
+          }
+        ],
+        "final_answer": "Therefore, the cost of plastering the CSA of this well is Rs 4400.",
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations and understanding of surface area.",
+    "topics_tags": [
+      "Curved Surface Area",
+      "Well",
+      "Cost Calculation"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.14",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface area",
+    "question_type": "numerical",
+    "question_text": "Find how much cloth is required for covering the lampshade.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the frame of a lampshade with dimensions for covering.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777719896/ncert/maths/13/img_20_0.jpg",
+      "latex_extracted": "\\textstyle\\bigcap{\\frac{\\frown}{\\subseteq{\\frac{\\tan}{\\lnot}}}}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "For covering the lampshade, 2200 cm² cloth will be required.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the height of the lampshade frame including margins.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the formula for the lateral surface area of the cylinder to find the cloth required.",
+        "expression": "Cloth = 2\\pi rh"
+      }
+    ],
+    "final_answer": "Hence, for covering the lampshade, 2200 cm² cloth will be required.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of surface area calculation and basic application.",
+    "topics_tags": [
+      "Surface Area",
+      "Lampshade",
+      "Cylinder"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the frame of a lampshade with dimensions for covering.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777719896/ncert/maths/13/img_20_0.jpg",
+        "latex_extracted": "\\textstyle\\bigcap{\\frac{\\frown}{\\subseteq{\\frac{\\tan}{\\lnot}}}}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.15",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface area",
+    "question_type": "numerical",
+    "question_text": "How much cardboard was required to be bought for the competition of making penholders?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the surface area calculation for a cylindrical penholder.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777719900/ncert/maths/13/img_21_0.jpg",
+      "latex_extracted": "\\left[=\\frac{22}{7}\\times3\\times10.5+\\frac{22}{7}\\times(3)^{'}\\right]\\mathrm{cm}^{'}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Therefore, 7920 cm² cardboard sheet will be bought.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the surface area of one penholder using the formula.",
+        "expression": "CSA + \\pi r^2"
+      },
+      {
+        "step_number": 2,
+        "description": "Multiply the surface area of one penholder by the number of competitors.",
+        "expression": "Area_{total} = 35 \\times Area_{one}"
+      }
+    ],
+    "final_answer": "Therefore, 7920 cm² cardboard sheet will be bought.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps of calculation and understanding of surface area.",
+    "topics_tags": [
+      "Surface Area",
+      "Penholder",
+      "Cylinder"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the surface area calculation for a cylindrical penholder.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777719900/ncert/maths/13/img_21_0.jpg",
+        "latex_extracted": "\\left[=\\frac{22}{7}\\times3\\times10.5+\\frac{22}{7}\\times(3)^{'}\\right]\\mathrm{cm}^{'}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.16",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface area",
+    "question_type": "numerical",
+    "question_text": "Diameter of the base of a cone is 10.5 cm and its slant height is 10 cm. Find its curved surface area.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The curved surface area of the cone is 165 cm².",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the radius of the base of the cone.",
+        "expression": "r = \\frac{10.5}{2} = 5.25 \\text{ cm}"
+      },
+      {
+        "step_number": 2,
+        "description": "Use the formula for curved surface area (CSA) of a cone.",
+        "expression": "CSA = \\pi r l"
+      },
+      {
+        "step_number": 3,
+        "description": "Substitute the values into the CSA formula.",
+        "expression": "CSA = \\pi \\times 5.25 \\times 10"
+      },
+      {
+        "step_number": 4,
+        "description": "Calculate the CSA.",
+        "expression": "CSA \\approx 165 \\text{ cm}^2"
+      }
+    ],
+    "final_answer": "Therefore, the curved surface area of the cone is 165 cm².",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of cone geometry and application of the CSA formula.",
+    "topics_tags": [
+      "Cone",
+      "Curved Surface Area",
+      "Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.17",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface area",
+    "question_type": "numerical",
+    "question_text": "Find the total surface area of a cone, if its slant height is 21 m and diameter of its base is 24 m.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical calculation for total surface area of a cone.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777719903/ncert/maths/13/img_24_0.jpg",
+      "latex_extracted": "\\begin{array}{c}{{\\equiv\\left[\\frac{22}{7}\\times12\\times\\left(12+21\\right)\\right]{\\bf m}^{2}}}\\\\ {{=\\left(\\frac{22}{7}\\times12\\times33\\right){\\bf m}^{2}}}\\\\ {{=1244.57\\;{\\bf m}^{2}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Total surface area of the cone is approximately 1244.57 m².",
+    "answer_latex": "\\begin{array}{c}{{\\equiv\\left[\\frac{22}{7}\\times12\\times\\left(12+21\\right)\\right]{\\bf m}^{2}}}\\\\ {{=\\left(\\frac{22}{7}\\times12\\times33\\right){\\bf m}^{2}}}\\\\ {{=1244.57\\;{\\bf m}^{2}}}\\end{array}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the radius of the base of the cone.",
+        "expression": "r = \\frac{24}{2} = 12 \\text{ m}"
+      },
+      {
+        "step_number": 2,
+        "description": "Use the formula for total surface area of a cone.",
+        "expression": "TSA = \\pi r (r + l)"
+      },
+      {
+        "step_number": 3,
+        "description": "Substitute the values into the TSA formula.",
+        "expression": "TSA = \\pi \\times 12 \\times (12 + 21)"
+      },
+      {
+        "step_number": 4,
+        "description": "Calculate the TSA.",
+        "expression": "TSA \\approx 1244.57 \\text{ m}^2"
+      }
+    ],
+    "final_answer": "Therefore, the total surface area of the cone is approximately 1244.57 m².",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps and application of the TSA formula.",
+    "topics_tags": [
+      "Cone",
+      "Total Surface Area",
+      "Geometry"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical calculation for total surface area of a cone.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777719903/ncert/maths/13/img_24_0.jpg",
+        "latex_extracted": "\\begin{array}{c}{{\\equiv\\left[\\frac{22}{7}\\times12\\times\\left(12+21\\right)\\right]{\\bf m}^{2}}}\\\\ {{=\\left(\\frac{22}{7}\\times12\\times33\\right){\\bf m}^{2}}}\\\\ {{=1244.57\\;{\\bf m}^{2}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.18",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface area",
+    "question_type": "multipart",
+    "question_text": "Curved surface area of a cone is 308 cm² and its slant height is 14 cm. Find (i) radius of the base and (ii) total surface area of the cone.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "Find the radius of the base.",
+        "part_latex": null,
+        "answer_text": "The radius of the base of the cone is approximately 3.5 cm.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the formula for curved surface area (CSA) of a cone.",
+            "expression": "CSA = \\pi r l"
+          },
+          {
+            "step_number": 2,
+            "description": "Rearrange the formula to find r.",
+            "expression": "r = \\frac{CSA}{\\pi l}"
+          },
+          {
+            "step_number": 3,
+            "description": "Substitute the values into the formula.",
+            "expression": "r = \\frac{308}{\\pi \\times 14}"
+          },
+          {
+            "step_number": 4,
+            "description": "Calculate the radius.",
+            "expression": "r \\approx 3.5 \\text{ cm}"
+          }
+        ],
+        "final_answer": "Therefore, the radius of the base of the cone is approximately 3.5 cm.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "Find the total surface area of the cone.",
+        "part_latex": null,
+        "answer_text": "The total surface area of the cone is approximately 80.5 cm².",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the formula for total surface area of a cone.",
+            "expression": "TSA = \\pi r (r + l)"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the radius found in part (i) and the slant height.",
+            "expression": "TSA = \\pi \\times 3.5 \\times (3.5 + 14)"
+          },
+          {
+            "step_number": 3,
+            "description": "Calculate the total surface area.",
+            "expression": "TSA \\approx 80.5 \\text{ cm}^2"
+          }
+        ],
+        "final_answer": "Therefore, the total surface area of the cone is approximately 80.5 cm².",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations and understanding of cone properties.",
+    "topics_tags": [
+      "Cone",
+      "Curved Surface Area",
+      "Total Surface Area"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [],
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    }
+  },
+  {
+    "question_id": "Q13.19",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface area",
+    "question_type": "numerical",
+    "question_text": "A conical tent is 10 m high and the radius of its base is 24 m. Find (i) slant height of the tent (ii) cost of the canvas required to make the tent, if the cost of 1 m² canvas is Rs 70.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the conical tent with height and radius labeled.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777719906/ncert/maths/13/img_26_0.jpg",
+      "latex_extracted": "\\left[=\\left[308+{\\frac{22}{7}}\\times\\left(7\\right)^{2}\\right]{\\mathrm{cm}}^{2}",
+      "source_page_number": 26,
+      "source_image_index": 0,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "Find the slant height of the tent.",
+        "part_latex": null,
+        "answer_text": "The slant height of the tent is calculated using the Pythagorean theorem.",
+        "answer_latex": "l = \\sqrt{h^2 + r^2} = \\sqrt{(10)^2 + (24)^2} = 26 m",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Apply the Pythagorean theorem to find the slant height.",
+            "expression": "l = \\sqrt{h^2 + r^2}"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the values of height and radius.",
+            "expression": "l = \\sqrt{(10)^2 + (24)^2} = 26"
+          }
+        ],
+        "final_answer": "Therefore, the slant height of the tent is 26 m.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "Find the cost of the canvas required to make the tent.",
+        "part_latex": null,
+        "answer_text": "The cost of the canvas is calculated based on the total surface area of the tent.",
+        "answer_latex": "Cost = 70 \\times \\text{Total Surface Area} = 70 \\times 462 = 32340",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the total surface area of the cone.",
+            "expression": "A = \\pi r l + \\pi r^2"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the values of radius and slant height.",
+            "expression": "A = \\pi \\times 24 \\times 26 + \\pi \\times 24^2"
+          },
+          {
+            "step_number": 3,
+            "description": "Calculate the cost of the canvas.",
+            "expression": "Cost = 70 \\times 462"
+          }
+        ],
+        "final_answer": "Therefore, the cost of the canvas required to make the tent is Rs 32340.",
+        "answer_image": {
+          "present": true,
+          "description": "Mathematical calculations related to the cost of canvas.",
+          "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777719907/ncert/maths/13/img_26_1.jpg",
+          "latex_extracted": null,
+          "source_page_number": 26,
+          "source_image_index": 1,
+          "ownership": "answer"
+        },
+        "question_images": [],
+        "answer_images": [
+          {
+            "present": true,
+            "description": "Mathematical calculations related to the cost of canvas.",
+            "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777719907/ncert/maths/13/img_26_1.jpg",
+            "latex_extracted": null,
+            "source_page_number": 26,
+            "source_image_index": 1,
+            "ownership": "answer"
+          }
+        ],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps including geometry and cost calculation.",
+    "topics_tags": [
+      "Conical Tent",
+      "Surface Area",
+      "Cost Calculation"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the conical tent with height and radius labeled.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777719906/ncert/maths/13/img_26_0.jpg",
+        "latex_extracted": "\\left[=\\left[308+{\\frac{22}{7}}\\times\\left(7\\right)^{2}\\right]{\\mathrm{cm}}^{2}",
+        "source_page_number": 26,
+        "source_image_index": 0,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.20",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface area",
+    "question_type": "numerical",
+    "question_text": "The slant height and base diameter of a conical tomb are 25 m and 14 m respectively. Find the cost of white-washing its curved surface at the rate of Rs 210 per 100 m2.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, it will cost Rs 1155 while white-washing such a conical tomb.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the curved surface area (CSA) of the conical tomb using the formula CSA = πrl.",
+        "expression": "CSA = \\pi r l = \\pi (7)(25) = 550 m^2"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the cost of white-washing the CSA.",
+        "expression": "Cost = 210 * (550 / 100) = 1155"
+      }
+    ],
+    "final_answer": "Therefore, it will cost Rs 1155 while white-washing such a conical tomb.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing a conical tomb with slant height and base diameter.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777719933/ncert/maths/13/img_28_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of surface area and basic multiplication.",
+    "topics_tags": [
+      "Curved Surface Area",
+      "Conical Tomb",
+      "Cost Calculation"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing a conical tomb with slant height and base diameter.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777719933/ncert/maths/13/img_28_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q13.21",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface area",
+    "question_type": "numerical",
+    "question_text": "A joker’s cap is in the form of right circular cone of base radius 7 cm and height 24 cm. Find the area of the sheet required to make 10 such caps.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing a right circular cone representing a joker's cap.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777719946/ncert/maths/13/img_29_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Therefore, 5500 cm2 sheet will be required.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the curved surface area (CSA) of one conical cap using the formula CSA = \\pi r l.",
+        "expression": "l = \\sqrt{(7^2 + 24^2)} = 25, CSA = \\pi (7)(25) = 550 cm^2"
+      },
+      {
+        "step_number": 2,
+        "description": "Multiply the CSA of one cap by 10 to find the total area for 10 caps.",
+        "expression": "Total Area = 10 * 550 = 5500 cm^2"
+      }
+    ],
+    "final_answer": "Therefore, 5500 cm2 sheet will be required.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic geometry and multiplication.",
+    "topics_tags": [
+      "Curved Surface Area",
+      "Cone",
+      "Joker's Cap"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing a right circular cone representing a joker's cap.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777719946/ncert/maths/13/img_29_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.22",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface area",
+    "question_type": "numerical",
+    "question_text": "A bus stop is barricaded from the remaining part of the road, by using 50 hollow cones made of recycled cardboard. Each cone has a base diameter of 40 cm and height 1 m. If the outer side of each of the cones is to be painted and the cost of painting is Rs 12 per m2, what will be the cost of painting all these cones?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing hollow cones used for barricading a bus stop.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777719958/ncert/maths/13/img_30_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Therefore, it will cost Rs 384.34 in painting 50 such hollow cones.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the curved surface area (CSA) of one hollow cone using the formula CSA = \\pi r l.",
+        "expression": "r = 20 cm, l = \\sqrt{(20^2 + 100^2)} = 100.198, CSA = \\pi (20)(100.198) = 12.028 m^2"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the total CSA for 50 cones.",
+        "expression": "Total CSA = 50 * 12.028 = 32.028 m^2"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the cost of painting the total area.",
+        "expression": "Cost = 32.028 * 12 = 384.336"
+      }
+    ],
+    "final_answer": "Therefore, it will cost Rs 384.34 in painting 50 such hollow cones.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations and understanding of surface area.",
+    "topics_tags": [
+      "Hollow Cone",
+      "Cost Calculation",
+      "Surface Area"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing hollow cones used for barricading a bus stop.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777719958/ncert/maths/13/img_30_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.23",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface area",
+    "question_type": "numerical",
+    "question_text": "Find the surface area of a sphere of radius:\n(i) 10.5 cm (ii) 5.6 cm (iii) 14 cm",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "Radius (r) of sphere = 10.5 cm",
+        "part_latex": null,
+        "answer_text": "The surface area of a sphere having radius 10.5 cm is 1386 cm².",
+        "answer_latex": "1386 \\, \\mathrm{cm}^{2}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the formula for surface area of a sphere, which is 4πr².",
+            "expression": "4\\pi r^{2}"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the radius into the formula.",
+            "expression": "4\\times\\frac{22}{7}\\times(10.5)^{2}"
+          },
+          {
+            "step_number": 3,
+            "description": "Calculate the surface area.",
+            "expression": "1386"
+          }
+        ],
+        "final_answer": "Therefore, the surface area of a sphere having radius 10.5 cm is 1386 cm².",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "Radius (r) of sphere = 5.6 cm",
+        "part_latex": null,
+        "answer_text": "The surface area of a sphere having radius 5.6 cm is 394.24 cm².",
+        "answer_latex": "394.24 \\, \\mathrm{cm}^{2}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the formula for surface area of a sphere, which is 4πr².",
+            "expression": "4\\pi r^{2}"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the radius into the formula.",
+            "expression": "4\\times\\frac{22}{7}\\times(5.6)^{2}"
+          },
+          {
+            "step_number": 3,
+            "description": "Calculate the surface area.",
+            "expression": "394.24"
+          }
+        ],
+        "final_answer": "Therefore, the surface area of a sphere having radius 5.6 cm is 394.24 cm².",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "Radius (r) of sphere = 14 cm",
+        "part_latex": null,
+        "answer_text": "The surface area of a sphere having radius 14 cm is 2464 cm².",
+        "answer_latex": "2464 \\, \\mathrm{cm}^{2}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the formula for surface area of a sphere, which is 4πr².",
+            "expression": "4\\pi r^{2}"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the radius into the formula.",
+            "expression": "4\\times\\frac{22}{7}\\times(14)^{2}"
+          },
+          {
+            "step_number": 3,
+            "description": "Calculate the surface area.",
+            "expression": "2464"
+          }
+        ],
+        "final_answer": "Therefore, the surface area of a sphere having radius 14 cm is 2464 cm².",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical calculation showing surface area of a sphere with radius 10.5 cm.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777719960/ncert/maths/13/img_31_0.jpg",
+      "latex_extracted": "\\begin{array}{c}{{\\overline{{{\\left|=\\left[4\\times{\\displaystyle{\\frac{22}{7}}\\times\\left(10.5\\right)}^{\\circ}\\right]\\,\\mathrm{cm}^{\\circ}}}}}\\\\ {{\\left|=\\left(88\\times1.5\\times10.5\\times10.5\\right)\\,\\mathrm{cm}^{2}}}\\\\ {{=1386\\,\\mathrm{cm}^{2}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of the surface area formula and basic calculations.",
+    "topics_tags": [
+      "Surface Area",
+      "Sphere",
+      "Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical calculation showing surface area of a sphere with radius 10.5 cm.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777719960/ncert/maths/13/img_31_0.jpg",
+        "latex_extracted": "\\begin{array}{c}{{\\overline{{{\\left|=\\left[4\\times{\\displaystyle{\\frac{22}{7}}\\times\\left(10.5\\right)}^{\\circ}\\right]\\,\\mathrm{cm}^{\\circ}}}}}\\\\ {{\\left|=\\left(88\\times1.5\\times10.5\\times10.5\\right)\\,\\mathrm{cm}^{2}}}\\\\ {{=1386\\,\\mathrm{cm}^{2}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q13.24",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface area",
+    "question_type": "numerical",
+    "question_text": "Find the surface area of a sphere of diameter:\n(i) 14 cm (ii) 21 cm (iii) 3.5 m",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of the surface area formula and basic calculations.",
+    "topics_tags": [
+      "Surface Area",
+      "Sphere",
+      "Geometry"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.25",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface area",
+    "question_type": "numerical",
+    "question_text": "Find the total surface area of a hemisphere of radius 10 cm. [Use π = 3.14]",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical calculation showing total surface area of a hemisphere with radius 10 cm.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777719967/ncert/maths/13/img_33_0.jpg",
+      "latex_extracted": "\\begin{array}{c}{{\\frac{|\\pi^{1-2,-1}(\\neq z)+\\rangle}{|\\Delta|\\hbar\\sqrt{\\log\\ln\\theta+\\langle\\varepsilon\\rangle\\Delta}}}}\\\\ {{\\frac{|\\pi^{1-2,-1-1}|\\cdots}{|\\Delta|\\hbar\\langle\\Delta|\\Delta=\\langle\\Delta|\\Delta|}}}\\\\ {{\\frac{|\\pi|\\pi\\rangle\\langle\\Delta|\\hbar\\rangle\\langle\\Delta|\\Delta|\\Delta|}{\\sin\\beta}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of the surface area formula and basic calculations.",
+    "topics_tags": [
+      "Surface Area",
+      "Hemisphere",
+      "Geometry"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical calculation showing total surface area of a hemisphere with radius 10 cm.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777719967/ncert/maths/13/img_33_0.jpg",
+        "latex_extracted": "\\begin{array}{c}{{\\frac{|\\pi^{1-2,-1}(\\neq z)+\\rangle}{|\\Delta|\\hbar\\sqrt{\\log\\ln\\theta+\\langle\\varepsilon\\rangle\\Delta}}}}\\\\ {{\\frac{|\\pi^{1-2,-1-1}|\\cdots}{|\\Delta|\\hbar\\langle\\Delta|\\Delta=\\langle\\Delta|\\Delta|}}}\\\\ {{\\frac{|\\pi|\\pi\\rangle\\langle\\Delta|\\hbar\\rangle\\langle\\Delta|\\Delta|\\Delta|}{\\sin\\beta}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.26",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface area",
+    "question_type": "conceptual",
+    "question_text": "The radius of a spherical balloon increases from 7 cm to 14 cm as air is being pumped into it. Find the ratio of surface areas of the balloon in the two cases.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of surface area calculations for a spherical balloon.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777719985/ncert/maths/13/img_34_1.jpg",
+      "latex_extracted": "\\begin{array}{c}{{\\left[\\operatorname{Requifred\\;ratio.}={\\frac{\\operatorname{Imitial\\;surface\\;area\\;cnea\\;c}}{\\operatorname{Surfier\\,artea\\;arfiumping\\;airimponloon}}}}\\\\ {{\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad}}\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad=\\qquad\\qquad\\qquad\\qquad{\\qquad\\qquad{\\qquad}}}\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad{\\qquad{\\qquad{\\qquad}}}\\qquad\\qquad\\qquad{\\qquad{\\qquad{\\qquad}{\\qquad}{{\\qquad}}}{\\qquad\\qquad}{\\qquad=\\qquad{\\qquad}{\\qquad}{\\qquad}}}}&{{\\qquad=\\qquad{\\qquad{\\qquad{\\qquad{\\qquad}{\\qquad}{{\\qquad}{\\qquad}}{\\qquad}{{\\qquad{\\qquad}{\\qquad}{\\qquad{\\qquad{\\qquad}{\\qquad}{\\qquad{\\qquad}{\\qquad}{\\qquad{\\qquad}{\\qquad{\\qquad{\\qquad}}{\\qquad{\\qquad}{\\qquad}}{{\\qquad{\\qquad{\\qquad{\\qquad}{\\qquad{\\qquad}}{\\qquad{\\qquad{\\qquad{\\qquad{\\qquad{\\qquad}{",
+      "source_page_number": 34,
+      "source_image_index": 1,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Therefore, the ratio between the surface areas in these two cases is 1:4.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the ratio of the surface areas is 1:4.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of surface area formulas and basic ratio calculations.",
+    "topics_tags": [
+      "Surface Area",
+      "Spheres",
+      "Ratios"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "Some text garbling in the question context."
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of surface area calculations for a spherical balloon.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777719985/ncert/maths/13/img_34_1.jpg",
+        "latex_extracted": "\\begin{array}{c}{{\\left[\\operatorname{Requifred\\;ratio.}={\\frac{\\operatorname{Imitial\\;surface\\;area\\;cnea\\;c}}{\\operatorname{Surfier\\,artea\\;arfiumping\\;airimponloon}}}}\\\\ {{\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad}}\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad=\\qquad\\qquad\\qquad\\qquad{\\qquad\\qquad{\\qquad}}}\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad{\\qquad{\\qquad{\\qquad}}}\\qquad\\qquad\\qquad{\\qquad{\\qquad{\\qquad}{\\qquad}{{\\qquad}}}{\\qquad\\qquad}{\\qquad=\\qquad{\\qquad}{\\qquad}{\\qquad}}}}&{{\\qquad=\\qquad{\\qquad{\\qquad{\\qquad{\\qquad}{\\qquad}{{\\qquad}{\\qquad}}{\\qquad}{{\\qquad{\\qquad}{\\qquad}{\\qquad{\\qquad{\\qquad}{\\qquad}{\\qquad{\\qquad}{\\qquad}{\\qquad{\\qquad}{\\qquad{\\qquad{\\qquad}}{\\qquad{\\qquad}{\\qquad}}{{\\qquad{\\qquad{\\qquad{\\qquad}{\\qquad{\\qquad}}{\\qquad{\\qquad{\\qquad{\\qquad{\\qquad{\\qquad}{",
+        "source_page_number": 34,
+        "source_image_index": 1,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.27",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface area",
+    "question_type": "numerical",
+    "question_text": "A hemispherical bowl made of brass has inner diameter 10.5 cm. Find the cost of tin-plating it on the inside at the rate of 2 Rs 16 per 100 cm².",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of the surface area calculation for a hemispherical bowl.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777719986/ncert/maths/13/img_35_0.jpg",
+      "latex_extracted": "\\begin{array}{c}{{\\left[=\\left(2,\\frac{22}{7}\\times\\left(5.25\\right)^{3}\\right]\\,\\cos^{3}\\,}}\\\\ {{=173.25\\,\\mathrm{cm}^{2}\\,}}\\end{array}",
+      "source_page_number": 35,
+      "source_image_index": 0,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Therefore, the cost of tin-plating the inner side of the hemispherical bowl is Rs 27.72.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the cost of tin-plating is Rs 27.72.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves surface area calculation and cost estimation.",
+    "topics_tags": [
+      "Hemispherical Bowl",
+      "Surface Area",
+      "Cost Calculation"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the surface area calculation for a hemispherical bowl.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777719986/ncert/maths/13/img_35_0.jpg",
+        "latex_extracted": "\\begin{array}{c}{{\\left[=\\left(2,\\frac{22}{7}\\times\\left(5.25\\right)^{3}\\right]\\,\\cos^{3}\\,}}\\\\ {{=173.25\\,\\mathrm{cm}^{2}\\,}}\\end{array}",
+        "source_page_number": 35,
+        "source_image_index": 0,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.28",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface area",
+    "question_type": "numerical",
+    "question_text": "Find the radius of a sphere whose surface area is 154 cm².",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, the radius of the sphere whose surface area is 154 cm² is 3.5 cm.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the radius of the sphere is 3.5 cm.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of the calculation for the radius of a sphere based on its surface area.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488755/ncert/maths/13/img_36_0.jpg",
+      "latex_extracted": "\\begin{array}{c}{{r^{2}=\\left({\\frac{154\\times7}{4\\times22}}\\right)\\cos^{3}\\!=\\!{\\frac{7\\times7}{2\\times2}}\\right)\\cos^{3}\\!}}\\\\ {{r=\\left({\\frac{7}{2}}\\right)\\cos\\!=\\!{3}{.}5\\;\\mathrm{cm}}}\\end{array}",
+      "source_page_number": 36,
+      "source_image_index": 0,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires application of the surface area formula for spheres.",
+    "topics_tags": [
+      "Sphere",
+      "Surface Area",
+      "Radius Calculation"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the calculation for the radius of a sphere based on its surface area.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488755/ncert/maths/13/img_36_0.jpg",
+        "latex_extracted": "\\begin{array}{c}{{r^{2}=\\left({\\frac{154\\times7}{4\\times22}}\\right)\\cos^{3}\\!=\\!{\\frac{7\\times7}{2\\times2}}\\right)\\cos^{3}\\!}}\\\\ {{r=\\left({\\frac{7}{2}}\\right)\\cos\\!=\\!{3}{.}5\\;\\mathrm{cm}}}\\end{array}",
+        "source_page_number": 36,
+        "source_image_index": 0,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q13.29",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface area",
+    "question_type": "conceptual",
+    "question_text": "The diameter of the moon is approximately one-fourth of the diameter of the earth. Find the ratio of their surface area.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, the ratio between their surface areas will be 1:16.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the ratio of the surface areas of the moon to the earth is 1:16.",
+    "answer_image": {
+      "present": true,
+      "description": "Image related to the surface area calculation, possibly showing the moon and earth.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488758/ncert/maths/13/img_37_0.jpg",
+      "latex_extracted": "\\begin{array}{l l l}{{}}&{{\\begin{array}{l l}{{\\frac{N}{\\mathrm{B}}}}\\end{array}}}\\\\ {{}}&{{\\frac{[\\mathrm{B}[-2]}{\\mathrm{B}[-3]}}}\\\\ {{}}&{{\\frac{[\\mathrm{B}[-1]}{\\mathrm{B}[\\mathrm{B}]}}}\\\\ {{}}&{{}}&{{\\frac{[\\mathrm{B}[-1]}{\\mathrm{B}[\\mathrm{B}]}}}\\\\ {{}}&{{}}\\\\ {{}}&{{}}&{{\\frac{[\\mathrm{B}[-1]}{\\mathrm{B}[\\mathrm{B}]}}}\\\\ {{}}&{{}}\\\\ {{}}&{{}}\\\\ {{\\frac{[\\mathrm{B}[\\mathrm{B}[\\mathrm{B}[\\mathrm{B}]}{\\mathrm{B}[\\mathrm{B}]}}}\\end{array}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of surface area ratios based on diameter.",
+    "topics_tags": [
+      "Surface Area",
+      "Geometry",
+      "Ratio"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image related to the surface area calculation, possibly showing the moon and earth.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488758/ncert/maths/13/img_37_0.jpg",
+        "latex_extracted": "\\begin{array}{l l l}{{}}&{{\\begin{array}{l l}{{\\frac{N}{\\mathrm{B}}}}\\end{array}}}\\\\ {{}}&{{\\frac{[\\mathrm{B}[-2]}{\\mathrm{B}[-3]}}}\\\\ {{}}&{{\\frac{[\\mathrm{B}[-1]}{\\mathrm{B}[\\mathrm{B}]}}}\\\\ {{}}&{{}}&{{\\frac{[\\mathrm{B}[-1]}{\\mathrm{B}[\\mathrm{B}]}}}\\\\ {{}}&{{}}\\\\ {{}}&{{}}&{{\\frac{[\\mathrm{B}[-1]}{\\mathrm{B}[\\mathrm{B}]}}}\\\\ {{}}&{{}}\\\\ {{}}&{{}}\\\\ {{\\frac{[\\mathrm{B}[\\mathrm{B}[\\mathrm{B}[\\mathrm{B}]}{\\mathrm{B}[\\mathrm{B}]}}}\\end{array}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q13.30",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface area",
+    "question_type": "numerical",
+    "question_text": "A hemispherical bowl is made of steel, 0.25 cm thick. The inner radius of the bowl is 5 cm. Find the outer curved surface area of the bowl.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram of a hemispherical bowl showing inner and outer radii.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488760/ncert/maths/13/img_38_0.jpg",
+      "latex_extracted": "\\begin{array}{l}{{\\binom{-c^{-\\omega}}{\\theta}}}\\\\ {{\\binom{\\omega}{\\sqrt[[object Object]]{\\omega}}}}\\\\ {{\\binom{\\chi}{|\\chi_{\\Phi_{\\Phi_{\\Phi_{\\Phi_{\\mathrm{e}_{\\mathrm{e}_{\\mathrm{e}_{\\mathrm{e}_{\\mathrm{e}_{\\mathrm{e}_{\\mathrm{e}}}}}}}}}{\\theta_{\\geq>}}}}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Therefore, the outer curved surface area of the bowl is 173.25 cm².",
+    "answer_latex": "A_{outer} = 2\\pi r^2 = 2\\pi (5.25)^2",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the outer radius of the bowl.",
+        "expression": "r = 5 + 0.25 = 5.25"
+      },
+      {
+        "step_number": 2,
+        "description": "Use the formula for the outer curved surface area of a hemispherical bowl.",
+        "expression": "A_{outer} = 2\\pi r^2"
+      },
+      {
+        "step_number": 3,
+        "description": "Substitute the outer radius into the formula.",
+        "expression": "A_{outer} = 2\\pi (5.25)^2"
+      }
+    ],
+    "final_answer": "Thus, the outer curved surface area of the bowl is 173.25 cm².",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic calculations and application of surface area formula.",
+    "topics_tags": [
+      "Hemispherical Bowl",
+      "Surface Area",
+      "Geometry"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram of a hemispherical bowl showing inner and outer radii.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488760/ncert/maths/13/img_38_0.jpg",
+        "latex_extracted": "\\begin{array}{l}{{\\binom{-c^{-\\omega}}{\\theta}}}\\\\ {{\\binom{\\omega}{\\sqrt[[object Object]]{\\omega}}}}\\\\ {{\\binom{\\chi}{|\\chi_{\\Phi_{\\Phi_{\\Phi_{\\Phi_{\\mathrm{e}_{\\mathrm{e}_{\\mathrm{e}_{\\mathrm{e}_{\\mathrm{e}_{\\mathrm{e}_{\\mathrm{e}}}}}}}}}{\\theta_{\\geq>}}}}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.31",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface area",
+    "question_type": "multipart",
+    "question_text": "A right circular cylinder just encloses a sphere of radius r (see figure). Find (i) surface area of the sphere, (ii) curved surface area of the cylinder, (iii) ratio of the areas obtained in (i) and (ii).",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "Find the surface area of the sphere.",
+        "part_latex": null,
+        "answer_text": "Surface area of sphere = 4πr².",
+        "answer_latex": "A_{sphere} = 4\\pi r^2",
+        "steps": [],
+        "final_answer": "Thus, the surface area of the sphere is 4πr².",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "Find the curved surface area of the cylinder.",
+        "part_latex": null,
+        "answer_text": "Curved surface area of cylinder = 4πr².",
+        "answer_latex": "A_{cylinder} = 2\\pi rh = 2\\pi r(2r) = 4\\pi r^2",
+        "steps": [],
+        "final_answer": "Thus, the curved surface area of the cylinder is 4πr².",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "Find the ratio of the areas obtained in (i) and (ii).",
+        "part_latex": null,
+        "answer_text": "The ratio between these two surface areas is 1:1.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, the ratio of the surface areas is 1:1.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves multiple calculations and understanding of geometric properties.",
+    "topics_tags": [
+      "Cylinder",
+      "Sphere",
+      "Surface Area",
+      "Ratio"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing a right circular cylinder enclosing a sphere.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488761/ncert/maths/13/img_39_0.jpg",
+        "latex_extracted": "\\left|\\begin{array}{l}{{\\left|\\frac{e^{i z s}}{e}\\left|\\frac{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\log\\log\\ln\\phi_{-z}}}}}}}{\\left|\\chi\\right|}\\right|\\right|},}}\\\\ {{\\left|\\left.\\left|\\left.\\left|\\frac{\\epsilon_{z z}}{\\epsilon_{z z}\\oplus\\theta_{z z}}\\right|\\right.\\right|\\right|\\right|^{\\gamma}}}\\end{array}\\right|",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ],
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing a right circular cylinder enclosing a sphere.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488761/ncert/maths/13/img_39_0.jpg",
+      "latex_extracted": "\\left|\\begin{array}{l}{{\\left|\\frac{e^{i z s}}{e}\\left|\\frac{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\log\\log\\ln\\phi_{-z}}}}}}}{\\left|\\chi\\right|}\\right|\\right|},}}\\\\ {{\\left|\\left.\\left|\\left.\\left|\\frac{\\epsilon_{z z}}{\\epsilon_{z z}\\oplus\\theta_{z z}}\\right|\\right.\\right|\\right|\\right|^{\\gamma}}}\\end{array}\\right|",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    }
+  },
+  {
+    "question_id": "Q13.32",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface area",
+    "question_type": "mcq",
+    "question_text": "A matchbox measures 4 cm × 2.5 cm × 1.5 cm. What will be the volume of a packet containing 12 such boxes?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, the volume of 12 match boxes is 180 cm³.",
+    "answer_latex": "V = 15 \times 12 = 180 \text{ cm}^3",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the volume of one matchbox using the formula l × b × h.",
+        "expression": "V = 4 \times 2.5 \times 1.5"
+      },
+      {
+        "step_number": 2,
+        "description": "Multiply the volume of one matchbox by 12 to find the total volume.",
+        "expression": "V_{total} = 15 \times 12"
+      }
+    ],
+    "final_answer": "Therefore, the volume of 12 match boxes is 180 cm³.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of volume calculation and basic multiplication.",
+    "topics_tags": [
+      "Volume",
+      "Cuboid",
+      "Mathematics"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.33",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface area",
+    "question_type": "numerical",
+    "question_text": "A cuboidal water tank is 6 m long, 5 m wide and 4.5 m deep. How many litres of water can it hold? (1 m³ = 1000l)",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, such tank can hold up to 135000 litres of water.",
+    "answer_latex": "V = 6 \times 5 \times 4.5 = 135 \text{ m}^3; \text{Total} = 135 \times 1000 = 135000 \text{ litres}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the volume of the tank using the formula l × b × h.",
+        "expression": "V = 6 \times 5 \times 4.5"
+      },
+      {
+        "step_number": 2,
+        "description": "Convert the volume from cubic meters to litres.",
+        "expression": "V_{litres} = 135 \times 1000"
+      }
+    ],
+    "final_answer": "Therefore, such tank can hold up to 135000 litres of water.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic volume calculation and unit conversion.",
+    "topics_tags": [
+      "Volume",
+      "Cuboidal Tank",
+      "Mathematics"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.34",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface area",
+    "question_type": "numerical",
+    "question_text": "A cuboidal vessel is 10 m long and 8 m wide. How high must it be made to hold 380 cubic metres of a liquid?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, the height of the vessel should be 4.75 m.",
+    "answer_latex": "l \times b \times h = 380; h = \frac{380}{10 \times 8} = 4.75",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set up the equation for volume using the dimensions of the vessel.",
+        "expression": "10 \times 8 \times h = 380"
+      },
+      {
+        "step_number": 2,
+        "description": "Solve for height h.",
+        "expression": "h = \frac{380}{10 \times 8}"
+      }
+    ],
+    "final_answer": "Therefore, the height of the vessel should be 4.75 m.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of volume and solving for a variable.",
+    "topics_tags": [
+      "Volume",
+      "Cuboidal Vessel",
+      "Mathematics"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.35",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface area",
+    "question_type": "numerical",
+    "question_text": "Find the cost of digging a cuboidal pit 8 m long, 6 m broad and 3 m deep at the rate of Rs 30 per m³.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The cost of digging the pit is Rs 4320.",
+    "answer_latex": "V = 8 \times 6 \times 3 = 144 \text{ m}^3; \text{Cost} = 144 \times 30 = 4320",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the volume of the pit using the formula l × b × h.",
+        "expression": "V = 8 \times 6 \times 3"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the total cost based on the volume.",
+        "expression": "Cost = 144 \times 30"
+      }
+    ],
+    "final_answer": "The cost of digging the pit is Rs 4320.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves volume calculation and multiplication for cost.",
+    "topics_tags": [
+      "Volume",
+      "Cost Calculation",
+      "Cuboidal Pit"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.36",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface area",
+    "question_type": "numerical",
+    "question_text": "The capacity of a cuboidal tank is 50000 litres of water. Find the breadth of the tank, if its length and depth are respectively 2.5 m and 10 m.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, the breadth of the tank is 2 m.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the volume of the tank using the formula Volume = length × breadth × height.",
+        "expression": "Volume = 2.5 × b × 10"
+      },
+      {
+        "step_number": 2,
+        "description": "Set the volume equal to the capacity in litres and solve for breadth.",
+        "expression": "25b = 50000"
+      },
+      {
+        "step_number": 3,
+        "description": "Solve for b.",
+        "expression": "b = 2"
+      }
+    ],
+    "final_answer": "Thus, the breadth of the tank is 2 m.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of volume calculation and basic algebra.",
+    "topics_tags": [
+      "Volume",
+      "Cuboidal Tank",
+      "Algebra"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.37",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface area",
+    "question_type": "numerical",
+    "question_text": "A village, having a population of 4000, requires 150 litres of water per head per day. It has a tank measuring 20 m × 15 m × 6 m. For how many days will the water of this tank last?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, the water of this tank will last for 3 days.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the total water consumption of the village in one day.",
+        "expression": "4000 × 150"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the capacity of the tank in litres.",
+        "expression": "20 × 15 × 6 = 1800000"
+      },
+      {
+        "step_number": 3,
+        "description": "Set up the equation to find the number of days the water will last.",
+        "expression": "1800000 = 600000n"
+      },
+      {
+        "step_number": 4,
+        "description": "Solve for n.",
+        "expression": "n = 3"
+      }
+    ],
+    "final_answer": "Thus, the water of this tank will last for 3 days.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic calculations and understanding of volume and consumption.",
+    "topics_tags": [
+      "Water Consumption",
+      "Volume",
+      "Daily Requirement"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.38",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface area",
+    "question_type": "mcq",
+    "question_text": "A godown measures 40 m × 25 m × 10 m. Find the maximum number of wooden crates each measuring 1.5 m × 1.25 m × 0.5 m that can be stored in the godown.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, 10666 wooden crates can be stored in the godown.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the volume of the godown.",
+        "expression": "40 × 25 × 10"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the volume of one wooden crate.",
+        "expression": "1.5 × 1.25 × 0.5"
+      },
+      {
+        "step_number": 3,
+        "description": "Set up the equation to find the number of crates that can fit.",
+        "expression": "0.9375 × n = 10000"
+      },
+      {
+        "step_number": 4,
+        "description": "Solve for n.",
+        "expression": "n = 10666"
+      }
+    ],
+    "final_answer": "Thus, 10666 wooden crates can be stored in the godown.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations and understanding of volume.",
+    "topics_tags": [
+      "Volume",
+      "Storage Capacity",
+      "Crates"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.39",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface area",
+    "question_type": "numerical",
+    "question_text": "A solid cube of side 12 cm is cut into eight cubes of equal volume. What will be the side of the new cube? Also, find the ratio between their surface areas.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, the side of the smaller cubes will be 6 cm. The ratio between the surface areas of these cubes is 4:1.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the volume of the original cube.",
+        "expression": "(12)^{3}"
+      },
+      {
+        "step_number": 2,
+        "description": "Determine the volume of one smaller cube.",
+        "expression": "Volume = \frac{1728}{8}"
+      },
+      {
+        "step_number": 3,
+        "description": "Find the side of the smaller cube.",
+        "expression": "a = 6"
+      },
+      {
+        "step_number": 4,
+        "description": "Calculate the ratio of surface areas.",
+        "expression": "={\\frac{6a^{2}}{6a_{1}^{2}}}={\\frac{(12)^{2}}{(6)^{2}}}"
+      }
+    ],
+    "final_answer": "Thus, the side of the smaller cubes is 6 cm and the ratio of their surface areas is 4:1.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical expression showing the ratio of surface areas of the cubes.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488765/ncert/maths/13/img_45_0.jpg",
+      "latex_extracted": "={\\frac{6a^{2}}{6a_{1}^{2}}}={\\frac{(12)^{2}}{(6)^{2}}}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves volume calculation and understanding of surface area ratios.",
+    "topics_tags": [
+      "Cube",
+      "Volume",
+      "Surface Area"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical expression showing the ratio of surface areas of the cubes.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488765/ncert/maths/13/img_45_0.jpg",
+        "latex_extracted": "={\\frac{6a^{2}}{6a_{1}^{2}}}={\\frac{(12)^{2}}{(6)^{2}}}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q13.40",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface area",
+    "question_type": "numerical",
+    "question_text": "A river 3 m deep and 40 m wide is flowing at the rate of 2 km per hour. How much water will fall into the sea in a minute?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, in 1 minute, 4000 m3 water will fall in the sea.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the volume of water flowing per minute using the formula for volume.",
+        "expression": "Volume = Depth × Width × Flow Rate"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values: Volume = 3 m × 40 m × (2 km/h converted to m/min).",
+        "expression": "Volume = 3 × 40 × \\frac{2000}{60} = 4000 m^3"
+      }
+    ],
+    "final_answer": "Therefore, in 1 minute, 4000 m3 water will fall in the sea.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram related to the flow of water in a river",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488767/ncert/maths/13/img_46_0.jpg",
+      "latex_extracted": "\\left\\vert={\\binom{\\frac{2000}{60}}{\\mid\\!\\!\\!\\!-\\!\\!\\left(\\frac{2000}{3}\\right){\\bf m/m\\mathrm{in}}}}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of volume calculation and unit conversion.",
+    "topics_tags": [
+      "Volume",
+      "Flow Rate",
+      "Water",
+      "Cylindrical Shapes"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the flow of water in a river",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488767/ncert/maths/13/img_46_0.jpg",
+        "latex_extracted": "\\left\\vert={\\binom{\\frac{2000}{60}}{\\mid\\!\\!\\!\\!-\\!\\!\\left(\\frac{2000}{3}\\right){\\bf m/m\\mathrm{in}}}}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q13.41",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface area",
+    "question_type": "numerical",
+    "question_text": "The circumference of the base of cylindrical vessel is 132 cm and its height is 25 cm. How many litres of water can it hold? (1000 cm3 = 1l)",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic geometry and volume calculation.",
+    "topics_tags": [
+      "Cylindrical Volume",
+      "Circumference",
+      "Water Capacity"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.42",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface area",
+    "question_type": "numerical",
+    "question_text": "The inner diameter of a cylindrical wooden pipe is 24 cm and its outer diameter is 28 cm. The length of the pipe is 35 cm. Find the mass of the pipe, if 1 cm3 of wood has a mass of 0.6 g.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the dimensions of a cylindrical wooden pipe",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488779/ncert/maths/13/img_48_0.jpg",
+      "latex_extracted": "\\begin{array}{l}{{\\frac{\\Gamma_{0}^{\\infty}(\\hat{p}_{1}^{\\frac{1}{2}})(\\hat{p}_{0}^{1})\\hat{p}_{0}^{2}\\hat{p}_{0}^{1}\\hat{p}_{0}^{2})}{\\Gamma_{0}^{\\frac{1}{2}}\\Gamma_{0}^{1}\\hat{p}_{0}^{2}\\hat{p}_{0}^{2}\\hat{p}_{0}^{2}\\hat{p}_{0}^{2}\\hat{p}_{0}^{2}\\hat{p}_{0}^{1}\\hat{p}_{0}^{1}\\hat{p}_{0}^{1}\\hat{p}_{0}^{1}\\hat{p}_{0}^{2}\\hat{p}_{0}^{2}\\hat{p}_{0}^{1}\\hat{p}_{0}^{1}\\hat{p}_{0}^{1}\\hat{p}_{0}^{2}\\hat{p}_{0}^{1}\\hat{p}_{0}_{0}^{0}^{0}}}}\\\\ {{\\frac{\\equiv\\hat{\\mathrm{0^{0}{0}{0}{0}{0}{0}{0}{0}{0}{\\hat{0}{0}{0}{0}{00}{0}{0}{0}{0}{\\hat{0}{0}{0}{00}{0}{0}{0}{0}{0}{0}{00}_{000}\\hat{00}{00}{0}{00}{00}{00}{00}{0",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps to calculate volume and mass.",
+    "topics_tags": [
+      "Cylindrical Pipe",
+      "Mass Calculation",
+      "Volume"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the dimensions of a cylindrical wooden pipe",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488779/ncert/maths/13/img_48_0.jpg",
+        "latex_extracted": "\\begin{array}{l}{{\\frac{\\Gamma_{0}^{\\infty}(\\hat{p}_{1}^{\\frac{1}{2}})(\\hat{p}_{0}^{1})\\hat{p}_{0}^{2}\\hat{p}_{0}^{1}\\hat{p}_{0}^{2})}{\\Gamma_{0}^{\\frac{1}{2}}\\Gamma_{0}^{1}\\hat{p}_{0}^{2}\\hat{p}_{0}^{2}\\hat{p}_{0}^{2}\\hat{p}_{0}^{2}\\hat{p}_{0}^{2}\\hat{p}_{0}^{1}\\hat{p}_{0}^{1}\\hat{p}_{0}^{1}\\hat{p}_{0}^{1}\\hat{p}_{0}^{2}\\hat{p}_{0}^{2}\\hat{p}_{0}^{1}\\hat{p}_{0}^{1}\\hat{p}_{0}^{1}\\hat{p}_{0}^{2}\\hat{p}_{0}^{1}\\hat{p}_{0}_{0}^{0}^{0}}}}\\\\ {{\\frac{\\equiv\\hat{\\mathrm{0^{0}{0}{0}{0}{0}{0}{0}{0}{0}{\\hat{0}{0}{0}{0}{00}{0}{0}{0}{0}{\\hat{0}{0}{0}{00}{0}{0}{0}{0}{0}{0}{00}_{000}\\hat{00}{00}{0}{00}{00}{00}{00}{0",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.43",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface area",
+    "question_type": "conceptual",
+    "question_text": "A soft drink is available in two packs − (i) a tin can with a rectangular base of length 5 cm and width 4 cm, having a height of 15 cm and (ii) a plastic cylinder with circular base of diameter 7 cm and height 10 cm. Which container has greater capacity and by how much?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the dimensions of a tin can and a plastic cylinder.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488781/ncert/maths/13/img_49_0.jpg",
+      "latex_extracted": "\\begin{array}{c}{{\\equiv\\left[\\frac{22}7\\times\\left(14^{2}-12^{2}\\right)\\times35\\right]\\Omega^{3}}}\\\\ {{=110\\times52\\cdot\\mathrm{cm}^{3}}}\\\\ {{=5720\\mathrm{~cm}^{3}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The tin can will be cuboidal in shape while the plastic cylinder will be cylindrical in shape.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the capacity of the tin can using the formula for volume of a cuboid.",
+        "expression": "Capacity = l \\times b \\times h = 5 \\times 4 \\times 15"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the capacity of the plastic cylinder using the formula for volume of a cylinder.",
+        "expression": "Capacity = \\pi r^2 H = \\pi \\left(\\frac{7}{2}\\right)^2 \\times 10"
+      }
+    ],
+    "final_answer": "Therefore, the plastic cylinder has the greater capacity.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of volume formulas for different shapes.",
+    "topics_tags": [
+      "Volume",
+      "Cuboid",
+      "Cylinder"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the dimensions of a tin can and a plastic cylinder.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488781/ncert/maths/13/img_49_0.jpg",
+        "latex_extracted": "\\begin{array}{c}{{\\equiv\\left[\\frac{22}7\\times\\left(14^{2}-12^{2}\\right)\\times35\\right]\\Omega^{3}}}\\\\ {{=110\\times52\\cdot\\mathrm{cm}^{3}}}\\\\ {{=5720\\mathrm{~cm}^{3}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.44",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface area",
+    "question_type": "numerical",
+    "question_text": "If the lateral surface of a cylinder is 94.2 cm² and its height is 5 cm, then find (i) radius of its base (ii) its volume. [Use π = 3.14]",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the lateral surface area calculation for a cylinder.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488788/ncert/maths/13/img_51_0.jpg",
+      "latex_extracted": "\\begin{array}{c}{{=\\left[\\frac{22}{7}\\times\\left(3.5\\right)^{2}\\times10\\right]\\,{\\mathrm{cm}}^{3}}}\\\\ {{=\\left(1\\mid\\times3.5\\right)\\,{\\mathrm{cm}}^{3}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "Find the radius of the base.",
+        "part_latex": null,
+        "answer_text": "The radius of the base is 3 cm.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the formula for the curved surface area of a cylinder: CSA = 2πrh.",
+            "expression": "2 \\times 3.14 \\times r \\times 5 = 94.2"
+          },
+          {
+            "step_number": 2,
+            "description": "Solve for r.",
+            "expression": "r = 3"
+          }
+        ],
+        "final_answer": "Thus, the radius of the base is 3 cm.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "Find the volume of the cylinder.",
+        "part_latex": null,
+        "answer_text": "The volume of the cylinder is 141.3 cm³.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the formula for the volume of a cylinder: V = πr²h.",
+            "expression": "V = 3.14 \\times (3)^{2} \\times 5"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the volume.",
+            "expression": "V = 141.3"
+          }
+        ],
+        "final_answer": "Therefore, the volume of the cylinder is 141.3 cm³.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps to find radius and volume.",
+    "topics_tags": [
+      "Cylinder",
+      "Volume",
+      "Surface Area"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the lateral surface area calculation for a cylinder.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488788/ncert/maths/13/img_51_0.jpg",
+        "latex_extracted": "\\begin{array}{c}{{=\\left[\\frac{22}{7}\\times\\left(3.5\\right)^{2}\\times10\\right]\\,{\\mathrm{cm}}^{3}}}\\\\ {{=\\left(1\\mid\\times3.5\\right)\\,{\\mathrm{cm}}^{3}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.45",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface area",
+    "question_type": "numerical",
+    "question_text": "The capacity of a closed cylindrical vessel of height 1 m is 15.4 litres. How many square metres of metal sheet would be needed to make it?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the cylindrical vessel with dimensions and calculations related to its surface area.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488798/ncert/maths/13/img_53_0.jpg",
+      "latex_extracted": "\\left[\\begin{array}{c c}{{\\left[\\mathrm{{{Total~surface~arrea~of~vessel}}=2\\pi r\\left(r+h\\right)}}&{{}}\\\\ {{\\left({\\displaystyle\\frac{2}{2}}\\times{\\displaystyle\\frac{22}{7}}\\cdot0.07(0.07+1)\\right)\\right]\\mathrm{{m^{2}}}}}\\\\ {{}}&{{=0.44\\times1.07(0.07+1)\\right]\\mathrm{{m^{2}}}}\\end{array}\\right]\\mathrm{{m^{2}}}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Therefore, 0.4708 m2 of the metal sheet would be required to make the cylindrical vessel.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Convert the volume from litres to cubic meters.",
+        "expression": "15.4 \\text{ litres} = 0.0154 \\text{ m}^3"
+      },
+      {
+        "step_number": 2,
+        "description": "Use the formula for the volume of a cylinder to find the radius.",
+        "expression": "V = \\pi r^2 h"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the total surface area of the cylindrical vessel.",
+        "expression": "A = 2\\pi r(h + r)"
+      }
+    ],
+    "final_answer": "Therefore, 0.4708 m2 of the metal sheet would be required to make the cylindrical vessel.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of volume and surface area formulas and basic calculations.",
+    "topics_tags": [
+      "Cylindrical Vessel",
+      "Surface Area",
+      "Volume"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the cylindrical vessel with dimensions and calculations related to its surface area.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488798/ncert/maths/13/img_53_0.jpg",
+        "latex_extracted": "\\left[\\begin{array}{c c}{{\\left[\\mathrm{{{Total~surface~arrea~of~vessel}}=2\\pi r\\left(r+h\\right)}}&{{}}\\\\ {{\\left({\\displaystyle\\frac{2}{2}}\\times{\\displaystyle\\frac{22}{7}}\\cdot0.07(0.07+1)\\right)\\right]\\mathrm{{m^{2}}}}}\\\\ {{}}&{{=0.44\\times1.07(0.07+1)\\right]\\mathrm{{m^{2}}}}\\end{array}\\right]\\mathrm{{m^{2}}}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.46",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface area",
+    "question_type": "numerical",
+    "question_text": "A patient in a hospital is given soup daily in a cylindrical bowl of diameter 7 cm. If the bowl is filled with soup to a height of 4 cm, how much soup the hospital has to prepare daily to serve 250 patients?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing a cylindrical bowl with dimensions for soup serving.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488823/ncert/maths/13/img_55_0.jpg",
+      "latex_extracted": "\\left\\{\\begin{array}{l}{{\\infty}}\\\\ {{\\vdots_{\\infty}\\prod_{\\tilde{\\nu}_{\\infty}\\leq\\ldots\\cdots\\ldots\\ldots\\ldots\\ldots\\ldots\\ldots\\ldots\\ldots\\ldots}}}\\\\ {{\\downarrow_{\\tilde{\\nu}_{\\infty}}\\quad\\sim}}\\\\ {{\\downarrow_{\\tilde{\\nu}_{\\infty}}\\quad\\ldots}}\\end{array}\\right.",
+      "source_page_number": 55,
+      "source_image_index": 0,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Volume of soup in 1 bowl = πr²h = (11 × 3.5 × 4) cm³ = 154 cm³. Volume of soup given to 250 patients = (250 × 154) cm³ = 38500 cm³ = 38.5 litres.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the volume of soup in one bowl using the formula for the volume of a cylinder.",
+        "expression": "V = \\pi r^2 h"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the radius and height into the volume formula.",
+        "expression": "V = \\pi (3.5)^2 (4)"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the total volume of soup for 250 patients.",
+        "expression": "Total Volume = 250 \\times 154"
+      }
+    ],
+    "final_answer": "Therefore, the hospital has to prepare 38.5 litres of soup daily.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of volume calculation and basic multiplication.",
+    "topics_tags": [
+      "Volume",
+      "Cylindrical Bowl",
+      "Daily Soup Requirement"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing a cylindrical bowl with dimensions for soup serving.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488823/ncert/maths/13/img_55_0.jpg",
+        "latex_extracted": "\\left\\{\\begin{array}{l}{{\\infty}}\\\\ {{\\vdots_{\\infty}\\prod_{\\tilde{\\nu}_{\\infty}\\leq\\ldots\\cdots\\ldots\\ldots\\ldots\\ldots\\ldots\\ldots\\ldots\\ldots\\ldots}}}\\\\ {{\\downarrow_{\\tilde{\\nu}_{\\infty}}\\quad\\sim}}\\\\ {{\\downarrow_{\\tilde{\\nu}_{\\infty}}\\quad\\ldots}}\\end{array}\\right.",
+        "source_page_number": 55,
+        "source_image_index": 0,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.47",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface area",
+    "question_type": "numerical",
+    "question_text": "The height of a cone is 15 cm. If its volume is 1570 cm³, find the diameter of its base. [Use π = 3.14]",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, the radius of the base of cone is 10 cm.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Use the formula for the volume of a cone: V = \\frac{1}{3} \\pi r^2 h.",
+        "expression": "V = \\frac{1}{3} \\times 3.14 \\times r^2 \\times 15"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the volume and height into the formula and solve for r.",
+        "expression": "1570 = \\frac{1}{3} \\times 3.14 \\times r^2 \\times 15"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the radius r from the equation.",
+        "expression": "r = 10 \\text{ cm}"
+      }
+    ],
+    "final_answer": "Thus, the diameter of the base of the cone is 20 cm.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of the volume of a cone calculation.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488841/ncert/maths/13/img_59_0.jpg",
+      "latex_extracted": "\\begin{array}{l}{{\\overline{{{|}}}\\overline{{{x}}}r^{2}h=1570\\mathrm{~cm}^{3}}}\\\\ {{\\pm\\left(\\frac{1}{3}x^{3}14\\times r^{2}\\times15\\right)\\mathrm{~cm}=1570\\mathrm{~cm}^{3}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of volume formula and basic algebra.",
+    "topics_tags": [
+      "Cone Volume",
+      "Geometry",
+      "Algebra"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the volume of a cone calculation.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488841/ncert/maths/13/img_59_0.jpg",
+        "latex_extracted": "\\begin{array}{l}{{\\overline{{{|}}}\\overline{{{x}}}r^{2}h=1570\\mathrm{~cm}^{3}}}\\\\ {{\\pm\\left(\\frac{1}{3}x^{3}14\\times r^{2}\\times15\\right)\\mathrm{~cm}=1570\\mathrm{~cm}^{3}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q13.48",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface area",
+    "question_type": "numerical",
+    "question_text": "If the volume of a right circular cone of height 9 cm is 48π cm³, find the diameter of its base.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Height (h) of cone = 9 cm.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires application of volume formula for cones.",
+    "topics_tags": [
+      "Cone Volume",
+      "Geometry"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.49",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface area",
+    "question_type": "multipart",
+    "question_text": "The volume of a right circular cone is 9856 cm3. If the diameter of the base is 28 cm, find (i) height of the cone (ii) slant height of the cone (iii) curved surface area of the cone.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing a right circular cone with dimensions related to volume and surface area.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488844/ncert/maths/13/img_61_0.jpg",
+      "latex_extracted": "\\scriptstyle{\\frac{\\theta_{\\mathrm{ferefinghgh}}}{\\theta_{\\mathrm{flifingh}}}}{\\sqrt{\\frac{1{\\mathrm{giffingh}}}{\\sin\\theta_{\\mathrm{fliffigh}}}}}{\\Bigg|}}_{\\mathrm{fififfigh}}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "height of the cone",
+        "part_latex": null,
+        "answer_text": "Let the height of the cone be h. The volume of the cone is given by the formula \\( V = \\frac{1}{3} \\pi r^2 h \\).",
+        "answer_latex": "\\Rightarrow\\frac{1}{3}\\pi r^{2}h=9856\\;\\mathrm{cm}^{3}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the radius from the diameter.",
+            "expression": "r = \\frac{28}{2} = 14 \\text{ cm}"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the radius into the volume formula.",
+            "expression": "\\frac{1}{3}\\pi (14)^{2}h=9856"
+          },
+          {
+            "step_number": 3,
+            "description": "Solve for h.",
+            "expression": "h = \\frac{9856 \\times 3}{\\pi (14)^{2}}"
+          }
+        ],
+        "final_answer": "Therefore, the height of the cone is approximately 48 cm.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "slant height of the cone",
+        "part_latex": null,
+        "answer_text": "Using the Pythagorean theorem, the slant height l can be calculated as \\( l = \\sqrt{r^2 + h^2} \\).",
+        "answer_latex": "l = \\sqrt{14^2 + 48^2}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the slant height using the radius and height.",
+            "expression": "l = \\sqrt{14^2 + 48^2}"
+          }
+        ],
+        "final_answer": "Thus, the slant height of the cone is approximately 50 cm.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "curved surface area of the cone",
+        "part_latex": null,
+        "answer_text": "The curved surface area is given by the formula \\( A = \\pi r l \\).",
+        "answer_latex": "A = \\pi \\times 14 \\times l",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Substitute the values of r and l into the surface area formula.",
+            "expression": "A = \\pi \\times 14 \\times 50"
+          }
+        ],
+        "final_answer": "Therefore, the curved surface area of the cone is approximately 2200 cm².",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps and application of formulas for volume and surface area.",
+    "topics_tags": [
+      "Cone",
+      "Volume",
+      "Surface Area",
+      "Geometry"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "Some OCR text may be garbled."
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing a right circular cone with dimensions related to volume and surface area.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488844/ncert/maths/13/img_61_0.jpg",
+        "latex_extracted": "\\scriptstyle{\\frac{\\theta_{\\mathrm{ferefinghgh}}}{\\theta_{\\mathrm{flifingh}}}}{\\sqrt{\\frac{1{\\mathrm{giffingh}}}{\\sin\\theta_{\\mathrm{fliffigh}}}}}{\\Bigg|}}_{\\mathrm{fififfigh}}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.50",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface area",
+    "question_type": "numerical",
+    "question_text": "A right triangle ABC with sides 5 cm, 12 cm and 13 cm is revolved about the side 12 cm. Find the volume of the solid so obtained.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing a right triangle being revolved to form a cone.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488859/ncert/maths/13/img_63_0.jpg",
+      "latex_extracted": "\\left.\\begin{array}{c}{{\\displaystyle{\\left.\\sqrt{\\left.\\left(\\begin{array}{c}{{\\sqrt{\\left(\\begin{array}{{\\begin{array}{{\\begin{array}{{\\sqrt[[object Object]\\Phi}}}}\\end{array}\\right)}}}\\end{array}\\right|}}{{\\sqrt{\\left(\\begin{array}{{\\sqrt[[object Object]\\ Object]\\Phi_{1}^{*}\\right)}}}}}\\right|}}\\end{array}\\right.",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "When right-angled ∆ABC is revolved about its side 12 cm, a cone with height (h) as 12 cm, radius (r) as 5 cm, and slant height (l) 13 cm will be formed. The volume of the cone is given by \\( V = \\frac{1}{3} \\pi r^2 h \\).",
+    "answer_latex": "V = \\frac{1}{3} \\pi (5^2)(12)",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Substitute the values into the volume formula.",
+        "expression": "V = \\frac{1}{3} \\pi (5^2)(12)"
+      }
+    ],
+    "final_answer": "Therefore, the volume of the cone so formed is 100\\pi cm^3.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of volume calculation for a cone.",
+    "topics_tags": [
+      "Cone",
+      "Volume",
+      "Geometry"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing a right triangle being revolved to form a cone.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488859/ncert/maths/13/img_63_0.jpg",
+        "latex_extracted": "\\left.\\begin{array}{c}{{\\displaystyle{\\left.\\sqrt{\\left.\\left(\\begin{array}{c}{{\\sqrt{\\left(\\begin{array}{{\\begin{array}{{\\begin{array}{{\\sqrt[[object Object]\\Phi}}}}\\end{array}\\right)}}}\\end{array}\\right|}}{{\\sqrt{\\left(\\begin{array}{{\\sqrt[[object Object]\\ Object]\\Phi_{1}^{*}\\right)}}}}}\\right|}}\\end{array}\\right.",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.51",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface area",
+    "question_type": "numerical",
+    "question_text": "If the triangle ABC in the Question 7 above is revolved about the side 5 cm, then find the volume of the solid so obtained. Find also the ratio of the volumes of the two solids obtained in Questions 7 and 8.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, the volume of the cone so formed is 240π cm³.",
+    "answer_latex": "V = \\frac{1}{3} \\times \\pi \\times (12)^{2} \\times 5",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the dimensions of the cone formed.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the formula for the volume of a cone.",
+        "expression": "V = \\frac{1}{3} \\times \\pi \\times (12)^{2} \\times 5"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the volume.",
+        "expression": "V = 240\\pi"
+      }
+    ],
+    "final_answer": "Therefore, the volume of the cone so formed is 240π cm³.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the cone formed by revolving triangle ABC around its side.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488867/ncert/maths/13/img_64_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of volume calculation and application of the cone volume formula.",
+    "topics_tags": [
+      "Volume of Cone",
+      "Solid Geometry",
+      "Revolution of Solids"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the cone formed by revolving triangle ABC around its side.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488867/ncert/maths/13/img_64_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q13.52",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface area",
+    "question_type": "numerical",
+    "question_text": "A heap of wheat is in the form of a cone whose diameter is 10.5 m and height is 3 m. Find its volume.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the heap of wheat in the form of a cone.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488868/ncert/maths/13/img_64_1.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires application of the cone volume formula with given dimensions.",
+    "topics_tags": [
+      "Volume of Cone",
+      "Solid Geometry",
+      "Real-life Applications"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the heap of wheat in the form of a cone.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488868/ncert/maths/13/img_64_1.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.53",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface area",
+    "question_type": "conceptual",
+    "question_text": "Find the amount of water displaced by a solid spherical ball of diameter.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the calculation of the volume of a sphere.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488885/ncert/maths/13/img_67_0.jpg",
+      "latex_extracted": "\\begin{array}{c}{{\\frac{\\Gamma^{\\mathrm{in(mal/lot)}}-2^{\\mathrm{in}}}{|\\frac{(v-s)(h)(h)(h)}{k_{\\mathrm{in}}}|\\frac{\\Gamma^{\\mathrm{in}}}{(t_{\\mathrm{in}}+s)(h)(h)(h)(h)(h)(h)(h)(h)}{|\\frac{(v-s)(h)(h)(h)(h)(h)(h)(h)(h)(h)(h)(h)}{(t)(h)(h)(h)(h)(h)(h)(h)(h)(h)(h)(h)(h)}{k_{\\mathrm{in}})}}}}\\end{array}",
+      "source_page_number": 67,
+      "source_image_index": 0,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of volume displacement and basic geometry.",
+    "topics_tags": [
+      "Volume",
+      "Spherical Ball",
+      "Water Displacement"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the calculation of the volume of a sphere.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488885/ncert/maths/13/img_67_0.jpg",
+        "latex_extracted": "\\begin{array}{c}{{\\frac{\\Gamma^{\\mathrm{in(mal/lot)}}-2^{\\mathrm{in}}}{|\\frac{(v-s)(h)(h)(h)}{k_{\\mathrm{in}}}|\\frac{\\Gamma^{\\mathrm{in}}}{(t_{\\mathrm{in}}+s)(h)(h)(h)(h)(h)(h)(h)(h)}{|\\frac{(v-s)(h)(h)(h)(h)(h)(h)(h)(h)(h)(h)(h)}{(t)(h)(h)(h)(h)(h)(h)(h)(h)(h)(h)(h)(h)}{k_{\\mathrm{in}})}}}}\\end{array}",
+        "source_page_number": 67,
+        "source_image_index": 0,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.54",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface area",
+    "question_type": "numerical",
+    "question_text": "The diameter of a metallic ball is 4.2 cm. What is the mass of the ball, if the density = 345.3912 g?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the calculation of the mass of a metallic ball.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488899/ncert/maths/13/img_68_0.jpg",
+      "latex_extracted": "\\begin{array}{c}{{\\left.\\left.\\left.\\frac{\\sqrt{\\left|6|\\right.p_{0}^{\\mathrm{e}}\\right|}\\right|\\left|\\frac{\\left|0\\left|0\\right|\\right.p_{0}^{\\mathrm{e}}\\right|}{\\mathrm{e}\\left|0\\mathrm{e}\\left|0\\mathrm{e}\\right|\\mathrm{e}\\right|\\left.\\frac{\\mathrm{e}}{\\mathrm{e}}\\right|}\\right|}{\\left|\\frac{\\scriptstyle\\mathrm{f}-\\mathrm{e}\\cdot\\mathrm{e}\\cdot\\mathrm{f}\\scriptstyle\\mathrm{e}\\scriptstyle\\mathrm{e}\\scriptstyle\\mathrm{e}\\scriptstyle\\mathrm{e}}\\right|\\left|\\frac{\\mathrm{f}+\\mathrm{e}}{\\mathrm{f}\\mathrm{e}\\mathrm{i}\\mathrm{f}\\mathrm{i}\\right|\\mathrm{e}\\mathrm{j}\\right|\\mathrm{i}\\right|\\mathrm{i}\\right|\\mathrm{e}\\mathrm{i}\\mathrm{i}\\right|\\right|\\frac{\\mathrm{e}\\mathrm{f}\\mathrm{i}\\mathrm{i}\\mathrm{f}\\scriptstyle\\psi}\\right|\\right|}{\\mathrm{f}\\mathrm{\\frac{\\mathrm{i}\\mathrm{i}\\mathrm{f}\\mathrm{f}\\mathrm{i}\\mathrm{f}\\scriptstyle\\leq\\leq\\mathrm{\\scriptstyle\\mathrm{\\mathrm{\\bar{f}\\scriptstyle\\leq\\mathrm{\\leq\\leq\\frac{\\mathrm{\\mathrm{\\mathrm{\\mathrm{\\mathrm{\\mathrm{\\mathrm{\\frac{\\frac{\\mathrm{\\frac{\\mathrm{\\mathrm{\\sqrt{\\mathrm{\\mathrm{\\frac{\\mathrm{\\bar{\\frac{\\mathrm{\\frac{\\frac{\\frac{\\frac{\\frac{\\frac",
+      "source_page_number": 68,
+      "source_image_index": 0,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Hence, the mass of the ball is 345.39 g (approximately).",
+    "answer_latex": "m = \\rho V = 345.3912 \\times \\left(\\frac{4}{3} \\pi \\left(\\frac{4.2}{2}\\right)^{3}\\right)",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the volume of the ball using the formula for the volume of a sphere.",
+        "expression": "V = \\frac{4}{3} \\pi r^{3} = \\frac{4}{3} \\pi \\left(\\frac{4.2}{2}\\right)^{3}"
+      },
+      {
+        "step_number": 2,
+        "description": "Multiply the volume by the density to find the mass.",
+        "expression": "m = \\rho V = 345.3912 \\times V"
+      }
+    ],
+    "final_answer": "Therefore, the mass of the ball is approximately 345.39 g.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves calculation of volume and mass using density.",
+    "topics_tags": [
+      "Density",
+      "Mass",
+      "Volume of Sphere"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the calculation of the mass of a metallic ball.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488899/ncert/maths/13/img_68_0.jpg",
+        "latex_extracted": "\\begin{array}{c}{{\\left.\\left.\\left.\\frac{\\sqrt{\\left|6|\\right.p_{0}^{\\mathrm{e}}\\right|}\\right|\\left|\\frac{\\left|0\\left|0\\right|\\right.p_{0}^{\\mathrm{e}}\\right|}{\\mathrm{e}\\left|0\\mathrm{e}\\left|0\\mathrm{e}\\right|\\mathrm{e}\\right|\\left.\\frac{\\mathrm{e}}{\\mathrm{e}}\\right|}\\right|}{\\left|\\frac{\\scriptstyle\\mathrm{f}-\\mathrm{e}\\cdot\\mathrm{e}\\cdot\\mathrm{f}\\scriptstyle\\mathrm{e}\\scriptstyle\\mathrm{e}\\scriptstyle\\mathrm{e}\\scriptstyle\\mathrm{e}}\\right|\\left|\\frac{\\mathrm{f}+\\mathrm{e}}{\\mathrm{f}\\mathrm{e}\\mathrm{i}\\mathrm{f}\\mathrm{i}\\right|\\mathrm{e}\\mathrm{j}\\right|\\mathrm{i}\\right|\\mathrm{i}\\right|\\mathrm{e}\\mathrm{i}\\mathrm{i}\\right|\\right|\\frac{\\mathrm{e}\\mathrm{f}\\mathrm{i}\\mathrm{i}\\mathrm{f}\\scriptstyle\\psi}\\right|\\right|}{\\mathrm{f}\\mathrm{\\frac{\\mathrm{i}\\mathrm{i}\\mathrm{f}\\mathrm{f}\\mathrm{i}\\mathrm{f}\\scriptstyle\\leq\\leq\\mathrm{\\scriptstyle\\mathrm{\\mathrm{\\bar{f}\\scriptstyle\\leq\\mathrm{\\leq\\leq\\frac{\\mathrm{\\mathrm{\\mathrm{\\mathrm{\\mathrm{\\mathrm{\\mathrm{\\frac{\\frac{\\mathrm{\\frac{\\mathrm{\\mathrm{\\sqrt{\\mathrm{\\mathrm{\\frac{\\mathrm{\\bar{\\frac{\\mathrm{\\frac{\\frac{\\frac{\\frac{\\frac{\\frac",
+        "source_page_number": 68,
+        "source_image_index": 0,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.55",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface area",
+    "question_type": "conceptual",
+    "question_text": "The diameter of the moon is approximately one-fourth of the diameter of the earth. What fraction of the volume of the earth is the volume of the moon?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation related to the volume of the moon and earth.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488910/ncert/maths/13/img_70_0.jpg",
+      "latex_extracted": "\\scriptstyle{\\frac{\\mathbb{N}}{\\sqrt[[object Object]]{\\mathrm{ï¿½}}}{\\sqrt{\\frac{\\mathbb{N}}{\\sqrt[[object Object]]{\\mathrm{op}}}}}}}\\\\ {\\scriptstyle{\\frac{\\sqrt{\\frac{\\mathbb{N}}{\\sqrt[[object Object]]{\\mathrm{op}}}}}{\\sqrt{\\frac{\\sqrt{\\mathrm{g}}}{\\sqrt{\\mathrm{g}}}}}}{\\mathrm{}}}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of volume ratios based on diameter.",
+    "topics_tags": [
+      "Volume",
+      "Diameter",
+      "Moon",
+      "Earth"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation related to the volume of the moon and earth.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488910/ncert/maths/13/img_70_0.jpg",
+        "latex_extracted": "\\scriptstyle{\\frac{\\mathbb{N}}{\\sqrt[[object Object]]{\\mathrm{ï¿½}}}{\\sqrt{\\frac{\\mathbb{N}}{\\sqrt[[object Object]]{\\mathrm{op}}}}}}}\\\\ {\\scriptstyle{\\frac{\\sqrt{\\frac{\\mathbb{N}}{\\sqrt[[object Object]]{\\mathrm{op}}}}}{\\sqrt{\\frac{\\sqrt{\\mathrm{g}}}{\\sqrt{\\mathrm{g}}}}}}{\\mathrm{}}}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.56",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface area",
+    "question_type": "numerical",
+    "question_text": "A hemispherical tank is made up of an iron sheet 1 cm thick. If the inner radius is 1 m, then find the volume of the iron used to make the tank.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing a hemispherical tank with dimensions.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488918/ncert/maths/13/img_71_0.jpg",
+      "latex_extracted": "\\begin{array}{c c}{{}}&{{\\left|\\frac{\\left|\\frac{|y|-1}{|\\Delta|\\Delta|\\Delta|\\Delta|}\\right|}\\frac{|\\frac{|y|-1}{|\\Delta|}|\\frac{|-\\frac{|y|}{|\\Delta|}|}{|\\Delta|}|\\frac{|-\\frac{|y|-\\frac{|y|}{|\\Delta|}|}{|\\Delta|}|}{|\\Delta|\\Delta|}}}}\\\\ {{}}&{{}}&{{\\left|\\frac{|y|-\\frac{|y|}{|\\Delta|}|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|}}}}\\end{array}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves calculation of volume with given dimensions.",
+    "topics_tags": [
+      "Hemispherical Tank",
+      "Volume",
+      "Iron Sheet"
+    ],
+    "confidence_score": 0.8,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing a hemispherical tank with dimensions.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488918/ncert/maths/13/img_71_0.jpg",
+        "latex_extracted": "\\begin{array}{c c}{{}}&{{\\left|\\frac{\\left|\\frac{|y|-1}{|\\Delta|\\Delta|\\Delta|\\Delta|}\\right|}\\frac{|\\frac{|y|-1}{|\\Delta|}|\\frac{|-\\frac{|y|}{|\\Delta|}|}{|\\Delta|}|\\frac{|-\\frac{|y|-\\frac{|y|}{|\\Delta|}|}{|\\Delta|}|}{|\\Delta|\\Delta|}}}}\\\\ {{}}&{{}}&{{\\left|\\frac{|y|-\\frac{|y|}{|\\Delta|}|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|\\Delta|}}}}\\end{array}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q13.57",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface area",
+    "question_type": "numerical",
+    "question_text": "Surface area of sphere = 154 cm². Therefore, the volume of the sphere is cm³.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation related to the volume of a sphere.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488932/ncert/maths/13/img_72_0.jpg",
+      "latex_extracted": "\\left.\\begin{array}{c}{{\\left|\\nu\\mathrm{ounc.0l~irons.}\\right|\\left.\\mathrm{unss.}\\right.}}\\\\ {{\\left|\\begin{array}{c}{{\\left|\\frac{1}{\\sqrt[[object Object]]{1}}\\cdots\\sqrt{-\\frac{\\sqrt{2}}{3}}\\cdot\\left(\\mathrm{op\\to\\mathrm{intonse}\\right.\\mathrm{e}}\\right)\\right|}{\\left|\\begin{array}{c}{{\\frac{1}{2}}+\\sqrt{2}}\\end{array}\\right|}}}\\\\ {{\\left|\\begin{array}{c}{{\\frac{1}{2}}\\end{array}\\right|}}\\\\ {{\\frac{\\left|\\begin{array}{c}{{\\sqrt[[object Object]\\mathrm{obd}\\to1}}{\\sqrt{0}}\\end{array}\\right|}}}\\\\ {{\\left|\\begin{array}{c}{{\\frac{1}{2}}\\end{array}\\right|}{\\sqrt[[object Object]\\cdots\\mathrm{i n h\\to\\mathrm{i n f i n e n s e n\\to m a n\\equiv m\\mathrm{i m a r e r e r o n\\mathrm{i n\\mathrm{\\mathrm{\\to m\\to m a r e n\\mathrm{\\mathrm{\\mathrm{\\mathrm{\\mathrm{\\mathrm{\\mathrm{\\mathrm{\\mathrm{\\mathrm{\\to\\to\\mathrm{\\mathrm{\\mathrm{\\mathrm{\\mathrm{\\to\\mathrm{\\mathrm{\\mathrm{\\mathrm{\\mathrm{\\mathrm{\\mathrm{\\mathrm{\\mathrm{\\mathrm{\\mathrm{\\mathrm{\\mathrm{\\mathrm{\\mathrm{\\to\\mathrm{\\mathrm{\\to\\to\\mathrm{\\mathrm{\\mathrm{\\mathrm{\\mathrm",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires basic understanding of volume calculation from surface area.",
+    "topics_tags": [
+      "Sphere",
+      "Surface Area",
+      "Volume"
+    ],
+    "confidence_score": 0.75,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation related to the volume of a sphere.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488932/ncert/maths/13/img_72_0.jpg",
+        "latex_extracted": "\\left.\\begin{array}{c}{{\\left|\\nu\\mathrm{ounc.0l~irons.}\\right|\\left.\\mathrm{unss.}\\right.}}\\\\ {{\\left|\\begin{array}{c}{{\\left|\\frac{1}{\\sqrt[[object Object]]{1}}\\cdots\\sqrt{-\\frac{\\sqrt{2}}{3}}\\cdot\\left(\\mathrm{op\\to\\mathrm{intonse}\\right.\\mathrm{e}}\\right)\\right|}{\\left|\\begin{array}{c}{{\\frac{1}{2}}+\\sqrt{2}}\\end{array}\\right|}}}\\\\ {{\\left|\\begin{array}{c}{{\\frac{1}{2}}\\end{array}\\right|}}\\\\ {{\\frac{\\left|\\begin{array}{c}{{\\sqrt[[object Object]\\mathrm{obd}\\to1}}{\\sqrt{0}}\\end{array}\\right|}}}\\\\ {{\\left|\\begin{array}{c}{{\\frac{1}{2}}\\end{array}\\right|}{\\sqrt[[object Object]\\cdots\\mathrm{i n h\\to\\mathrm{i n f i n e n s e n\\to m a n\\equiv m\\mathrm{i m a r e r e r o n\\mathrm{i n\\mathrm{\\mathrm{\\to m\\to m a r e n\\mathrm{\\mathrm{\\mathrm{\\mathrm{\\mathrm{\\mathrm{\\mathrm{\\mathrm{\\mathrm{\\mathrm{\\to\\to\\mathrm{\\mathrm{\\mathrm{\\mathrm{\\mathrm{\\to\\mathrm{\\mathrm{\\mathrm{\\mathrm{\\mathrm{\\mathrm{\\mathrm{\\mathrm{\\mathrm{\\mathrm{\\mathrm{\\mathrm{\\mathrm{\\mathrm{\\mathrm{\\to\\mathrm{\\mathrm{\\to\\to\\mathrm{\\mathrm{\\mathrm{\\mathrm{\\mathrm",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.58",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface area",
+    "question_type": "multipart",
+    "question_text": "A dome of a building is in the form of a hemisphere. From inside, it was whitewashed at the cost of Rs 498.96. If the cost of white-washing is Rs 2.00 per square meter, find the (i) inside surface area of the dome, (ii) volume of the air inside the dome.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the calculation of the curved surface area of the dome.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488938/ncert/maths/13/img_73_0.jpg",
+      "latex_extracted": "\\begin{array}{l}{{\\overline{{{\\Rightarrow+\\times{\\frac{22}{7}}\\times r^{2}}=249.48~m^{3}}}}}\\\\ {{\\overline{{{\\Rightarrow+r^{2}=\\left({\\frac{249.48\\times7}{22}}\\right){\\mathbf{m}}^{2}}=39.69~{\\mathbf{m}}^{2}}}}\\end{array}",
+      "source_page_number": 73,
+      "source_image_index": 0,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "Find the inside surface area of the dome.",
+        "part_latex": null,
+        "answer_text": "The inside surface area of the dome is 249.48 m².",
+        "answer_latex": "CSA = 249.48~m^{2}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the curved surface area using the cost of white-washing.",
+            "expression": "CSA = \\frac{498.96}{2} = 249.48~m^{2}"
+          }
+        ],
+        "final_answer": "Therefore, the inside surface area of the dome is 249.48 m².",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "Find the volume of the air inside the dome.",
+        "part_latex": null,
+        "answer_text": "The volume of air inside the dome is approximately 523.9 m³.",
+        "answer_latex": "V = 523.908~m^{3}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the formula for the volume of a hemisphere.",
+            "expression": "V = \\frac{2}{3} \\pi r^{3}"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the radius calculated from the surface area.",
+            "expression": "V = \\frac{2}{3} \\pi (6.3)^{3} \\approx 523.9"
+          }
+        ],
+        "final_answer": "Therefore, the volume of air inside the dome is approximately 523.9 m³.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps of calculation for both surface area and volume.",
+    "topics_tags": [
+      "Hemisphere",
+      "Surface Area",
+      "Volume"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the calculation of the curved surface area of the dome.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488938/ncert/maths/13/img_73_0.jpg",
+        "latex_extracted": "\\begin{array}{l}{{\\overline{{{\\Rightarrow+\\times{\\frac{22}{7}}\\times r^{2}}=249.48~m^{3}}}}}\\\\ {{\\overline{{{\\Rightarrow+r^{2}=\\left({\\frac{249.48\\times7}{22}}\\right){\\mathbf{m}}^{2}}=39.69~{\\mathbf{m}}^{2}}}}\\end{array}",
+        "source_page_number": 73,
+        "source_image_index": 0,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.59",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface area",
+    "question_type": "multipart",
+    "question_text": "Twenty seven solid iron spheres, each of radius r and surface area S are melted to form a sphere with surface area S'. Find the (i) radius r' of the new sphere, (ii) ratio of S and S'.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the relationship between the volumes of the original and new spheres.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488941/ncert/maths/13/img_74_0.jpg",
+      "latex_extracted": "\\begin{array}{l}{{\\begin{array}{l}{{\\frac{4}{3}}\\pi r^{\\prime5}=27\\times{\\frac{4}{3}}\\pi r^{3}}\\\\ {r^{3}=27r^{3}}\\\\ {r^{\\prime}=3r}\\end{array}}}\\end{array}",
+      "source_page_number": 74,
+      "source_image_index": 0,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "Find the radius r' of the new sphere.",
+        "part_latex": null,
+        "answer_text": "The radius of the new sphere is 3r.",
+        "answer_latex": "r' = 3r",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Set the volume of the new sphere equal to the total volume of the 27 original spheres.",
+            "expression": "\\frac{4}{3} \\pi (r')^{3} = 27 \\times \\frac{4}{3} \\pi r^{3}"
+          },
+          {
+            "step_number": 2,
+            "description": "Solve for r'.",
+            "expression": "r' = 3r"
+          }
+        ],
+        "final_answer": "Therefore, the radius of the new sphere is 3r.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "Find the ratio of S and S'.",
+        "part_latex": null,
+        "answer_text": "The ratio of the surface areas S and S' is 1:9.",
+        "answer_latex": "S:S' = 1:9",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the surface area of the new sphere.",
+            "expression": "S' = 4\\pi (r')^{2} = 4\\pi (3r)^{2} = 36\\pi r^{2}"
+          },
+          {
+            "step_number": 2,
+            "description": "Find the ratio of the surface areas.",
+            "expression": "S:S' = 4\\pi r^{2} : 36\\pi r^{2} = 1:9"
+          }
+        ],
+        "final_answer": "Therefore, the ratio of the surface areas S and S' is 1:9.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of volume and surface area relationships.",
+    "topics_tags": [
+      "Sphere",
+      "Volume",
+      "Surface Area"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the relationship between the volumes of the original and new spheres.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488941/ncert/maths/13/img_74_0.jpg",
+        "latex_extracted": "\\begin{array}{l}{{\\begin{array}{l}{{\\frac{4}{3}}\\pi r^{\\prime5}=27\\times{\\frac{4}{3}}\\pi r^{3}}\\\\ {r^{3}=27r^{3}}\\\\ {r^{\\prime}=3r}\\end{array}}}\\end{array}",
+        "source_page_number": 74,
+        "source_image_index": 0,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.60",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface area",
+    "question_type": "numerical",
+    "question_text": "Find the total expenses required for polishing and painting the surface of the bookshelf.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the dimensions of the bookshelf and calculations for surface area.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488955/ncert/maths/13/img_76_0.jpg",
+      "latex_extracted": "\\left[\\left.\\frac{<^{\\infty}\\longrightarrow\\bar{s}s\\operatorname{cm}\\longrightarrow}{\\left|\\begin{array}{\\atop\\left|\\frac{\\uparrow}{\\uparrow-\\downarrow-\\uparrow-\\dots-\\uparrow-\\dots}}\\right|}\\\\ {\\left|\\frac{\\uparrow}{\\uparrow-\\uparrow-\\uparrow-\\uparrow-\\uparrow-\\uparrow-\\downarrow-\\uparrow}\\\\ {\\left|\\frac{\\uparrow}{\\uparrow-\\downarrow-\\uparrow-\\dots\\atop\\longrightarrow}\\right|}\\\\ {\\left|\\frac{\\uparrow}{\\sqrt{\\uparrow-\\uparrow-\\dots-\\uparrow-\\dots-\\uparrow-\\dots-\\imath-\\dots}}}\\\\ {\\left|\\left|\\bigcup\\langle\\Phi\\rangle\\right|}\\end{array}\\right|\\right]",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Therefore, it will cost Rs 6275 for polishing and painting the surface of the bookshelf.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the external surface area of the bookshelf excluding the front face.",
+        "expression": "19100 cm^2"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the area to be polished and the cost of polishing.",
+        "expression": "Cost = 21700 cm^2 * 0.20 Rs/cm^2 = 4340 Rs"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the area to be painted and the cost of painting.",
+        "expression": "Cost = 19350 cm^2 * 0.10 Rs/cm^2 = 1935 Rs"
+      },
+      {
+        "step_number": 4,
+        "description": "Sum the costs of polishing and painting.",
+        "expression": "Total Cost = 4340 Rs + 1935 Rs = 6275 Rs"
+      }
+    ],
+    "final_answer": "Thus, the total expenses required for polishing and painting the surface of the bookshelf is Rs 6275.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations and understanding of surface area.",
+    "topics_tags": [
+      "Surface Area",
+      "Cost Calculation",
+      "Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the dimensions of the bookshelf and calculations for surface area.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488955/ncert/maths/13/img_76_0.jpg",
+        "latex_extracted": "\\left[\\left.\\frac{<^{\\infty}\\longrightarrow\\bar{s}s\\operatorname{cm}\\longrightarrow}{\\left|\\begin{array}{\\atop\\left|\\frac{\\uparrow}{\\uparrow-\\downarrow-\\uparrow-\\dots-\\uparrow-\\dots}}\\right|}\\\\ {\\left|\\frac{\\uparrow}{\\uparrow-\\uparrow-\\uparrow-\\uparrow-\\uparrow-\\uparrow-\\downarrow-\\uparrow}\\\\ {\\left|\\frac{\\uparrow}{\\uparrow-\\downarrow-\\uparrow-\\dots\\atop\\longrightarrow}\\right|}\\\\ {\\left|\\frac{\\uparrow}{\\sqrt{\\uparrow-\\uparrow-\\dots-\\uparrow-\\dots-\\uparrow-\\dots-\\imath-\\dots}}}\\\\ {\\left|\\left|\\bigcup\\langle\\Phi\\rangle\\right|}\\end{array}\\right|\\right]",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.61",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 13,
+    "chapter_name": "surface area",
+    "question_type": "numerical",
+    "question_text": "The diameter of a sphere is decreased by 25%. By what per cent does its curved surface area decrease?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to the decrease in diameter of a sphere and its effect on surface area.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488983/ncert/maths/13/img_79_0.jpg",
+      "latex_extracted": "\\begin{array}{l}{{\\frac{\\vert\\vec{\\sigma}\\hat{\\Gamma}[r^{1}\\rangle^{1}\\rangle\\hat{\\sigma}\\hat{\\sigma}\\hat{\\sigma}\\hat{\\rho}\\hat{\\sigma}^{1}}{\\vert\\vec{\\sigma}\\vert\\vec{\\sigma}\\vert\\vec{\\sigma}\\phi\\hat{\\sigma}\\vert\\vec{\\sigma}\\hat{\\sigma}\\hat{\\sigma}\\hat{\\phi}\\hat{\\theta}\\hat{\\omega}\\hat{\\Omega}\\hat{\\sigma}\\hat{\\phi}}}}}\\\\ {{\\frac{\\vert\\vec{\\sigma}\\lbrack\\vec{\\sigma}\\lbrack\\vec{\\sigma}\\lbrack\\vec{\\sigma}\\lbrack\\vec{\\sigma}\\lbrack\\vec{\\sigma}\\rbrack\\vec{\\sigma}\\lbrack\\vec{\\sigma}\\ ]\\vec{\\sigma}\\lbrack\\vec{\\sigma}\\ ]\\vec{\\sigma}\\lbrack\\vec{\\sigma}\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\hat{\\sigma\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\ \\phi\\ }\\phi\\phi\\phi\\phi\\phi\\phi\\end{array}}\\end{array}}}}}}}}}}}",
+      "source_page_number": 79,
+      "source_image_index": 0,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of the relationship between diameter and surface area, involving calculations.",
+    "topics_tags": [
+      "Surface Area",
+      "Sphere",
+      "Geometry"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the decrease in diameter of a sphere and its effect on surface area.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777488983/ncert/maths/13/img_79_0.jpg",
+        "latex_extracted": "\\begin{array}{l}{{\\frac{\\vert\\vec{\\sigma}\\hat{\\Gamma}[r^{1}\\rangle^{1}\\rangle\\hat{\\sigma}\\hat{\\sigma}\\hat{\\sigma}\\hat{\\rho}\\hat{\\sigma}^{1}}{\\vert\\vec{\\sigma}\\vert\\vec{\\sigma}\\vert\\vec{\\sigma}\\phi\\hat{\\sigma}\\vert\\vec{\\sigma}\\hat{\\sigma}\\hat{\\sigma}\\hat{\\phi}\\hat{\\theta}\\hat{\\omega}\\hat{\\Omega}\\hat{\\sigma}\\hat{\\phi}}}}}\\\\ {{\\frac{\\vert\\vec{\\sigma}\\lbrack\\vec{\\sigma}\\lbrack\\vec{\\sigma}\\lbrack\\vec{\\sigma}\\lbrack\\vec{\\sigma}\\lbrack\\vec{\\sigma}\\rbrack\\vec{\\sigma}\\lbrack\\vec{\\sigma}\\ ]\\vec{\\sigma}\\lbrack\\vec{\\sigma}\\ ]\\vec{\\sigma}\\lbrack\\vec{\\sigma}\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\hat{\\sigma\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\phi\\ \\phi\\ }\\phi\\phi\\phi\\phi\\phi\\phi\\end{array}}\\end{array}}}}}}}}}}}",
+        "source_page_number": 79,
+        "source_image_index": 0,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  }
+]

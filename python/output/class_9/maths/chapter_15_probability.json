@@ -1,0 +1,829 @@
+[
+  {
+    "question_id": "Q15.1",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 15,
+    "chapter_name": "probability",
+    "question_type": "numerical",
+    "question_text": "In a cricket match, a batswoman hits a boundary 6 times out of 30 balls she plays. Find the probability that she did not hit a boundary.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of the probability calculation for not hitting a boundary.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777720884/ncert/maths/15/img_1_0.jpg",
+      "latex_extracted": "\\begin{array}{r}{{\\mathrm{p~(slaes~not~bit~a~boundary)={\\frac{Number~of~tmes~whe~she~does~not~bit~bit~boundary}}{2}}}\\\\ {{}}&{{}}\\\\ {{\\mathrm{={\\frac{24}{30}}}={\\frac{4}{5}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The probability that she did not hit a boundary is \\frac{24}{30} = \\frac{4}{5}.",
+    "answer_latex": "\\frac{4}{5}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the number of times the batswoman does not hit a boundary.",
+        "expression": "30 - 6 = 24"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the probability of not hitting a boundary.",
+        "expression": "p = \\frac{24}{30} = \\frac{4}{5}"
+      }
+    ],
+    "final_answer": "Therefore, the probability that she did not hit a boundary is \\frac{4}{5}.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires basic understanding of probability and simple arithmetic.",
+    "topics_tags": [
+      "Probability",
+      "Cricket",
+      "Basic Arithmetic"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the probability calculation for not hitting a boundary.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777720884/ncert/maths/15/img_1_0.jpg",
+        "latex_extracted": "\\begin{array}{r}{{\\mathrm{p~(slaes~not~bit~a~boundary)={\\frac{Number~of~tmes~whe~she~does~not~bit~bit~boundary}}{2}}}\\\\ {{}}&{{}}\\\\ {{\\mathrm{={\\frac{24}{30}}}={\\frac{4}{5}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q15.2",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 15,
+    "chapter_name": "probability",
+    "question_type": "numerical",
+    "question_text": "1500 families with 2 children were selected randomly, and the following data were recorded: Number of girls in a family 2, 1, 0; Number of families 475, 814, 211. Compute the probability of a family, chosen at random, having (i) 2 girls (ii) 1 girl (iii) No girl.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Graphical representation of the data regarding families with children.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777720894/ncert/maths/15/img_2_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "Compute the probability of a family having 2 girls.",
+        "part_latex": null,
+        "answer_text": "The probability of a family having 2 girls is \\frac{475}{1500}.",
+        "answer_latex": "\\frac{475}{1500}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the number of families with 2 girls.",
+            "expression": "475"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the probability.",
+            "expression": "p = \\frac{475}{1500}"
+          }
+        ],
+        "final_answer": "Therefore, the probability of a family having 2 girls is \\frac{475}{1500}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "Compute the probability of a family having 1 girl.",
+        "part_latex": null,
+        "answer_text": "The probability of a family having 1 girl is \\frac{814}{1500}.",
+        "answer_latex": "\\frac{814}{1500}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the number of families with 1 girl.",
+            "expression": "814"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the probability.",
+            "expression": "p = \\frac{814}{1500}"
+          }
+        ],
+        "final_answer": "Therefore, the probability of a family having 1 girl is \\frac{814}{1500}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "Compute the probability of a family having no girl.",
+        "part_latex": null,
+        "answer_text": "The probability of a family having no girl is \\frac{211}{1500}.",
+        "answer_latex": "\\frac{211}{1500}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the number of families with no girls.",
+            "expression": "211"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the probability.",
+            "expression": "p = \\frac{211}{1500}"
+          }
+        ],
+        "final_answer": "Therefore, the probability of a family having no girl is \\frac{211}{1500}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations and understanding of probability.",
+    "topics_tags": [
+      "Probability",
+      "Families",
+      "Children"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Graphical representation of the data regarding families with children.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777720894/ncert/maths/15/img_2_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q15.3",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 15,
+    "chapter_name": "probability",
+    "question_type": "multipart",
+    "question_text": "An organization selected 2400 families at random and surveyed them to determine a relationship between income level and the number of vehicles in a family. The information gathered is listed in the table below:\nMonthly income Vehicles per family\n(in Rs)\n0 1 2 Above 2\nLess than 7000 10 160 25 0\n7000 − 10000 0 305 27 2\n10000 − 13000 1 535 29 1\n13000 − 16000 2 469 59 25\n16000 or more 1 579 82 88\nSuppose a family is chosen, find the probability that the family chosen is (i) earning Rs 10000 − 13000 per month and owning exactly 2 vehicles.\n(ii) earning Rs 16000 or more per month and owning exactly 1 vehicle.\n(iii) earning less than Rs 7000 per month and does not own any vehicle.\n(iv) earning Rs 13000 − 16000 per month and owning more than 2 vehicles.\n(v) owning not more than 1 vehicle.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Table showing the relationship between monthly income and number of vehicles per family.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777720912/ncert/maths/15/img_4_0.jpg",
+      "latex_extracted": "\\begin{array}{c}{{\\mathrm{P}\\big(2{\\mathrm{~heads~will~come~up}}\\big)\\nonumber\\,={\\frac{\\mathrm{Number~of~times~2~heads~comew}}{\\mathrm{100}}}}\\\\ {{\\mathrm{}={\\frac{\\mathrm{glal~number~of~times~the~coins~were~tossed}}{\\mathrm{ts}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "earning Rs 10000 − 13000 per month and owning exactly 2 vehicles.",
+        "part_latex": null,
+        "answer_text": "The number of families earning Rs 10000 − 13000 per month and owning exactly 2 vehicles is 29. Hence, the required probability is \\frac{29}{2400}.",
+        "answer_latex": "\\frac{29}{2400}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the number of families in the specified income and vehicle category.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the probability by dividing the number of favorable outcomes by the total number of families surveyed.",
+            "expression": "\\frac{29}{2400}"
+          }
+        ],
+        "final_answer": "Therefore, the probability is \\frac{29}{2400}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "earning Rs 16000 or more per month and owning exactly 1 vehicle.",
+        "part_latex": null,
+        "answer_text": "The number of families earning Rs 16000 or more per month and owning exactly 1 vehicle is 579. Hence, the required probability is \\frac{579}{2400}.",
+        "answer_latex": "\\frac{579}{2400}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the number of families in the specified income and vehicle category.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the probability by dividing the number of favorable outcomes by the total number of families surveyed.",
+            "expression": "\\frac{579}{2400}"
+          }
+        ],
+        "final_answer": "Therefore, the probability is \\frac{579}{2400}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "earning less than Rs 7000 per month and does not own any vehicle.",
+        "part_latex": null,
+        "answer_text": "The number of families earning less than Rs 7000 per month and not owning any vehicle is 10. Hence, the required probability is \\frac{10}{2400}.",
+        "answer_latex": "\\frac{10}{2400}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the number of families in the specified income and vehicle category.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the probability by dividing the number of favorable outcomes by the total number of families surveyed.",
+            "expression": "\\frac{10}{2400}"
+          }
+        ],
+        "final_answer": "Therefore, the probability is \\frac{10}{2400}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iv)",
+        "part_text": "earning Rs 13000 − 16000 per month and owning more than 2 vehicles.",
+        "part_latex": null,
+        "answer_text": "The number of families earning Rs 13000 − 16000 per month and owning more than 2 vehicles is 25. Hence, the required probability is \\frac{25}{2400}.",
+        "answer_latex": "\\frac{25}{2400}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the number of families in the specified income and vehicle category.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the probability by dividing the number of favorable outcomes by the total number of families surveyed.",
+            "expression": "\\frac{25}{2400}"
+          }
+        ],
+        "final_answer": "Therefore, the probability is \\frac{25}{2400}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(v)",
+        "part_text": "owning not more than 1 vehicle.",
+        "part_latex": null,
+        "answer_text": "The number of families owning not more than 1 vehicle is 2062. Hence, the required probability is \\frac{2062}{2400}.",
+        "answer_latex": "\\frac{2062}{2400}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the number of families in the specified vehicle ownership category.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the probability by dividing the number of favorable outcomes by the total number of families surveyed.",
+            "expression": "\\frac{2062}{2400}"
+          }
+        ],
+        "final_answer": "Therefore, the probability is \\frac{2062}{2400}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations and understanding of probability concepts.",
+    "topics_tags": [
+      "Probability",
+      "Statistics",
+      "Data Interpretation"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Table showing the relationship between monthly income and number of vehicles per family.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777720912/ncert/maths/15/img_4_0.jpg",
+        "latex_extracted": "\\begin{array}{c}{{\\mathrm{P}\\big(2{\\mathrm{~heads~will~come~up}}\\big)\\nonumber\\,={\\frac{\\mathrm{Number~of~times~2~heads~comew}}{\\mathrm{100}}}}\\\\ {{\\mathrm{}={\\frac{\\mathrm{glal~number~of~times~the~coins~were~tossed}}{\\mathrm{ts}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q15.4",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 15,
+    "chapter_name": "probability",
+    "question_type": "multipart",
+    "question_text": "To know the opinion of the students about the subject statistics, a survey of 200 students was conducted. The data is recorded in the following table. Opinion Number of students: 135 like, 65 dislike. Find the probability that a student chosen at random (i) likes statistics, (ii) does not like it.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Table showing the opinion of students about statistics.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777720925/ncert/maths/15/img_7_0.jpg",
+      "latex_extracted": "\\scriptstyle{\\frac{\\left\\|{\\frac{\\sigma^{2}\\right\\|}{\\left\\|{\\hat{\\nu}}(\\varepsilon_{\\mathrm{tot}}^{n}\\leq\\gamma})^{-1}\\right\\|^{n-n}\\left\\|{\\frac{x_{\\mathrm{tot}}{\\sqrt{-1}}}{\\sqrt{-1}}}\\right\\|^{-1}\\left\\|{\\frac{x_{\\mathrm{tot}}}{\\|x_{\\mathrm{tot}}}}\\right\\|^{\\frac{n-1}{\\sqrt{-1}}}}{\\hat{\\nu}_{\\mathrm{tot}}^{n-n}\\equiv\\varepsilon_{\\mathrm{tot}}^{n-n}\\equiv\\varepsilon_{\\mathrm{tot}}^{n-1}\\right\\|^{2}\\frac{x_{\\mathrm{tot}}}{\\sqrt{-1}}{\\sqrt{-1}}}{\\hat{\\mathrm{tot}}}}}{\\Bigg|}}_{\\mathrm{{\\begin{array}{l}{\\mathrm{tot}}\\ =u=\\pi\\neq\\mathrm{tot}\\equiv\\mathrm{tot}}\\ =\\pi_{\\mathrm{\\mathrm{tot}}\\ =\\omega e r e r e r o t}\\ =\\ =\\pi\\ =\\equiv\\ =\\mathrm{\\equiv\\=\\=\\frac{\\mathrm{\\mathrm{tod{d}(t o d{\\mathrm{d{d{-nd{\\sqrt{\\leq0}}}({\\mathrm{\\mathrm{d{\\mathrm{\\sqrt{\\mathrm{\\sqrt{0.}}}}(t{\\sqrt{\\sqrt{\\sqrt{\\infty}}}}}({\\leq0..}(x_{\\mathrm{\\mathrm{\\mathrm{\\mathrm{\\mathrm{\\mathrm{\\",
+      "source_page_number": 7,
+      "source_image_index": 0,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "Find the probability that a student chosen at random likes statistics.",
+        "part_latex": null,
+        "answer_text": "The probability that a student likes statistics is given by the ratio of the number of students who like statistics to the total number of students.",
+        "answer_latex": "\\frac{135}{200}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the number of students who like statistics and the total number of students.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the probability using the formula.",
+            "expression": "P(likes) = \\frac{135}{200} = 0.675"
+          }
+        ],
+        "final_answer": "Therefore, the probability that a student likes statistics is 0.675.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "Find the probability that a student chosen at random does not like statistics.",
+        "part_latex": null,
+        "answer_text": "The probability that a student does not like statistics is given by the ratio of the number of students who dislike statistics to the total number of students.",
+        "answer_latex": "\\frac{65}{200}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the number of students who dislike statistics.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the probability using the formula.",
+            "expression": "P(dislikes) = \\frac{65}{200} = 0.325"
+          }
+        ],
+        "final_answer": "Therefore, the probability that a student does not like statistics is 0.325.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of basic probability concepts and simple calculations.",
+    "topics_tags": [
+      "Probability",
+      "Statistics",
+      "Survey"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Table showing the opinion of students about statistics.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777720925/ncert/maths/15/img_7_0.jpg",
+        "latex_extracted": "\\scriptstyle{\\frac{\\left\\|{\\frac{\\sigma^{2}\\right\\|}{\\left\\|{\\hat{\\nu}}(\\varepsilon_{\\mathrm{tot}}^{n}\\leq\\gamma})^{-1}\\right\\|^{n-n}\\left\\|{\\frac{x_{\\mathrm{tot}}{\\sqrt{-1}}}{\\sqrt{-1}}}\\right\\|^{-1}\\left\\|{\\frac{x_{\\mathrm{tot}}}{\\|x_{\\mathrm{tot}}}}\\right\\|^{\\frac{n-1}{\\sqrt{-1}}}}{\\hat{\\nu}_{\\mathrm{tot}}^{n-n}\\equiv\\varepsilon_{\\mathrm{tot}}^{n-n}\\equiv\\varepsilon_{\\mathrm{tot}}^{n-1}\\right\\|^{2}\\frac{x_{\\mathrm{tot}}}{\\sqrt{-1}}{\\sqrt{-1}}}{\\hat{\\mathrm{tot}}}}}{\\Bigg|}}_{\\mathrm{{\\begin{array}{l}{\\mathrm{tot}}\\ =u=\\pi\\neq\\mathrm{tot}\\equiv\\mathrm{tot}}\\ =\\pi_{\\mathrm{\\mathrm{tot}}\\ =\\omega e r e r e r o t}\\ =\\ =\\pi\\ =\\equiv\\ =\\mathrm{\\equiv\\=\\=\\frac{\\mathrm{\\mathrm{tod{d}(t o d{\\mathrm{d{d{-nd{\\sqrt{\\leq0}}}({\\mathrm{\\mathrm{d{\\mathrm{\\sqrt{\\mathrm{\\sqrt{0.}}}}(t{\\sqrt{\\sqrt{\\sqrt{\\infty}}}}}({\\leq0..}(x_{\\mathrm{\\mathrm{\\mathrm{\\mathrm{\\mathrm{\\mathrm{\\",
+        "source_page_number": 7,
+        "source_image_index": 0,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q15.5",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 15,
+    "chapter_name": "probability",
+    "question_type": "multipart",
+    "question_text": "The distance (in km) of 40 engineers from their residence to their place of work were found as follows: 5, 3, 10, 20, 25, 11, 13, 7, 12, 31, 19, 10, 12, 17, 18, 11, 32, 17, 16, 2, 7, 9, 7, 8, 3, 5, 12, 15, 18, 3, 12, 14, 2, 9, 6, 15, 15, 7, 6, 12. What is the empirical probability that an engineer lives: (i) less than 7 km from her place of work? (ii) more than or equal to 7 km from her place of work?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "Find the empirical probability that an engineer lives less than 7 km from her place of work.",
+        "part_latex": null,
+        "answer_text": "The number of engineers living less than 7 km from their place of work is 9.",
+        "answer_latex": "\\frac{9}{40}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Count the number of engineers living less than 7 km.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the probability using the formula.",
+            "expression": "P(<7) = \\frac{9}{40} = 0.225"
+          }
+        ],
+        "final_answer": "Therefore, the probability that an engineer lives less than 7 km from her place of work is 0.225.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "Find the empirical probability that an engineer lives more than or equal to 7 km from her place of work.",
+        "part_latex": null,
+        "answer_text": "The number of engineers living more than or equal to 7 km from their place of work is 31.",
+        "answer_latex": "\\frac{31}{40}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Count the number of engineers living more than or equal to 7 km.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the probability using the formula.",
+            "expression": "P(\\geq7) = \\frac{31}{40} = 0.775"
+          }
+        ],
+        "final_answer": "Therefore, the probability that an engineer lives more than or equal to 7 km from her place of work is 0.775.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires counting and basic probability calculations.",
+    "topics_tags": [
+      "Empirical Probability",
+      "Distance",
+      "Engineers"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q15.6",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 15,
+    "chapter_name": "probability",
+    "question_type": "numerical",
+    "question_text": "The above frequency distribution table represents the blood groups of 30 students of a class. Use this table to determine the probability that a student of this class, selected at random, has blood group AB.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The required probability is calculated as the number of students with blood group AB divided by the total number of students.",
+    "answer_latex": "P(AB) = \\frac{3}{30} = \\frac{1}{10}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the number of students with blood group AB.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Identify the total number of students.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the probability using the formula P(A) = \\frac{n(A)}{n(S)}.",
+        "expression": "P(AB) = \\frac{3}{30}"
+      }
+    ],
+    "final_answer": "Hence, the required probability that a student has blood group AB is \\frac{1}{10}.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of basic probability concepts and simple division.",
+    "topics_tags": [
+      "Probability",
+      "Blood Groups",
+      "Frequency Distribution"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  }
+]

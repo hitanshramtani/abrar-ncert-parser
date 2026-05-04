@@ -1,0 +1,2572 @@
+[
+  {
+    "question_id": "Q1.1",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 1,
+    "chapter_name": "Electric Charges and Fields",
+    "question_type": "numerical",
+    "question_text": "What is the force between two small charged spheres having charges of 2 × 10^{-7} C and 3 × 10^{-7} C placed 30 cm apart in air?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Repulsive force of magnitude 6 × 10^{-3} N.",
+    "answer_latex": "F = 6 \\times 10^{-3} \\mathrm{N}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the charges and distance between the spheres.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the formula for electrostatic force to calculate the force.",
+        "expression": "F = \\frac{1}{4\\pi\\epsilon_{0}} \\cdot \\frac{q_1 q_2}{r^2}"
+      },
+      {
+        "step_number": 3,
+        "description": "Substitute the values into the formula.",
+        "expression": "F = \\frac{9 \\times 10^9 \\times (2 \\times 10^{-7}) \\times (3 \\times 10^{-7})}{(0.3)^2}"
+      },
+      {
+        "step_number": 4,
+        "description": "Calculate the force.",
+        "expression": "F = 6 \\times 10^{-3} \\mathrm{N}"
+      }
+    ],
+    "final_answer": "Hence, the force between the two small charged spheres is 6 × 10^{-3} N.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of electrostatic force calculation between two charged spheres.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1776861516/ncert/physics/1/img_1_0.png",
+      "latex_extracted": "\\begin{array}{l}{{\\frac{1}{4\\pi\\,\\epsilon_{0}}=9\\times10^{9}\\,\\,\\,\\mathrm{Nm^{2}C^{\\times2}}}}\\\\ {{\\frac{9\\times10^{9}\\times2\\times10^{7}\\times3\\times10^{-7}}{(0.3)^{2}}=6\\times10^{-3}\\,\\mathrm{N}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of electrostatic force and basic substitution.",
+    "topics_tags": [
+      "Electrostatics",
+      "Coulomb's Law",
+      "Force"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of electrostatic force calculation between two charged spheres.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1776861516/ncert/physics/1/img_1_0.png",
+        "latex_extracted": "\\begin{array}{l}{{\\frac{1}{4\\pi\\,\\epsilon_{0}}=9\\times10^{9}\\,\\,\\,\\mathrm{Nm^{2}C^{\\times2}}}}\\\\ {{\\frac{9\\times10^{9}\\times2\\times10^{7}\\times3\\times10^{-7}}{(0.3)^{2}}=6\\times10^{-3}\\,\\mathrm{N}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q1.2",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 1,
+    "chapter_name": "Electric Charges and Fields",
+    "question_type": "mcq",
+    "question_text": "The electrostatic force on a small sphere of charge 0.4 μC due to another small sphere of charge −0.8 μC in air is 0.2 N. (a) What is the distance between the two spheres? (b) What is the force on the second sphere due to the first?",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "What is the distance between the two spheres?"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "What is the force on the second sphere due to the first?"
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "What is the distance between the two spheres?",
+        "part_latex": null,
+        "answer_text": "The distance between the two spheres is 0.12 m.",
+        "answer_latex": "r = 0.12 \\mathrm{m}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the charges and the force acting on the first sphere.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Use the formula for electrostatic force to find the distance.",
+            "expression": "r = \\sqrt{\\frac{q_1 q_2}{4\\pi\\epsilon_{0} F}}"
+          },
+          {
+            "step_number": 3,
+            "description": "Substitute the values into the formula.",
+            "expression": "r = \\sqrt{\\frac{(0.4 \\times 10^{-6})(-0.8 \\times 10^{-6})}{4\\pi \\epsilon_{0} (0.2)}}"
+          },
+          {
+            "step_number": 4,
+            "description": "Calculate the distance.",
+            "expression": "r = 0.12 \\mathrm{m}"
+          }
+        ],
+        "final_answer": "Therefore, the distance between the two spheres is 0.12 m.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "What is the force on the second sphere due to the first?",
+        "part_latex": null,
+        "answer_text": "The force on the second sphere due to the first is 0.2 N.",
+        "answer_latex": "F = 0.2 \\mathrm{N}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Recognize that the force is equal and opposite due to Newton's third law.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "State the force on the second sphere.",
+            "expression": "F = 0.2 \\mathrm{N}"
+          }
+        ],
+        "final_answer": "Thus, the force on the second sphere due to the first is 0.2 N.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of electrostatic forces and application of formulas.",
+    "topics_tags": [
+      "Electrostatics",
+      "Coulomb's Law",
+      "Force"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [],
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    }
+  },
+  {
+    "question_id": "Q1.4",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 1,
+    "chapter_name": "Electric Charges and Fields",
+    "question_type": "conceptual",
+    "question_text": "Explain the meaning of the statement ‘electric charge of a body is quantised’. Why can one ignore quantisation of electric charge when dealing with macroscopic i.e., large scale charges?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Electric charge of a body is quantized. This means that only integral (1, 2, ……., n) number of electrons can be transferred from one body to the other. Charges are not transferred in fraction. Hence, a body possesses total charge only in integral multiples of electric charge. In macroscopic or large scale charges, the charges used are huge as compared to the magnitude of electric charge. Hence, quantization of electric charge is of no use on macroscopic scale. Therefore, it is ignored and it is considered that electric charge is continuous.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, electric charge is considered continuous in macroscopic scenarios.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of quantization and its implications in different scales.",
+    "topics_tags": [
+      "Quantization of Charge",
+      "Macroscopic Charges",
+      "Electric Charge"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.5",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 1,
+    "chapter_name": "Electric Charges and Fields",
+    "question_type": "conceptual",
+    "question_text": "When a glass rod is rubbed with a silk cloth, charges appear on both. A similar phenomenon is observed with many other pairs of bodies. Explain how this observation is consistent with the law of conservation of charge.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Rubbing produces charges of equal magnitude but of opposite nature on the two bodies because charges are created in pairs. This phenomenon of charging is called charging by friction. The net charge on the system of two rubbed bodies is zero. This is because equal amounts of opposite charges annihilate each other. When a glass rod is rubbed with a silk cloth, opposite natured charges appear on both the bodies. This phenomenon is consistent with the law of conservation of energy.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the law of conservation of charge is upheld in this process.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves understanding of charge conservation and friction charging.",
+    "topics_tags": [
+      "Conservation of Charge",
+      "Charging by Friction",
+      "Electric Charges"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.6",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 1,
+    "chapter_name": "Electric Charges and Fields",
+    "question_type": "numerical",
+    "question_text": "Four point charges q = 2 μC, q = −5 μC, q = 2 μC, and q = −5 μC are located at the corners of a square ABCD of side 10 cm. What is the force on a charge of 1 μC placed at the centre of the square?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the arrangement of charges at the corners of a square with a charge at the center.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1776861555/ncert/physics/1/img_5_0.png",
+      "latex_extracted": "\\left\\vert\\sum_{\\mathrm{\\scriptsize{\\!{J}}}\\in\\L_{\\mathrm{\\scriptsize{J}}}}\\right\\vert\\underbrace{\\mathbf{\\hat{\\Pi}}^{\\mathrm{\\scriptsize{\\scriptsize{\\scriptsize{J}}}}\\to}}_{\\phantom{\\textstyle{\\frac{\\partial_{\\mathrm{C}}\\otimes\\L}{\\textstyle{\\sum}}}}}\\right\\vert\\right\\vert_{\\L\\,\\mathrm{\\scriptsize{f}}_{\\downarrow{\\bf{\\bar{Z}}\\atop{\\mathrm{\\scriptsize{\\hat{Z}}\\cdot\\bar{\\Lambda}}}}}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The net force caused by the four charges placed at the corners of the square on the 1 μC charge at centre O is zero.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the forces acting on the charge at the center due to each corner charge.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Recognize that forces from opposite charges cancel each other out.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, the net force on the charge at the center is zero.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of electrostatic forces and vector addition.",
+    "topics_tags": [
+      "Electrostatics",
+      "Force on Charge",
+      "Square Configuration"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the arrangement of charges at the corners of a square with a charge at the center.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1776861555/ncert/physics/1/img_5_0.png",
+        "latex_extracted": "\\left\\vert\\sum_{\\mathrm{\\scriptsize{\\!{J}}}\\in\\L_{\\mathrm{\\scriptsize{J}}}}\\right\\vert\\underbrace{\\mathbf{\\hat{\\Pi}}^{\\mathrm{\\scriptsize{\\scriptsize{\\scriptsize{J}}}}\\to}}_{\\phantom{\\textstyle{\\frac{\\partial_{\\mathrm{C}}\\otimes\\L}{\\textstyle{\\sum}}}}}\\right\\vert\\right\\vert_{\\L\\,\\mathrm{\\scriptsize{f}}_{\\downarrow{\\bf{\\bar{Z}}\\atop{\\mathrm{\\scriptsize{\\hat{Z}}\\cdot\\bar{\\Lambda}}}}}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.7",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 1,
+    "chapter_name": "Electric Charges and Fields",
+    "question_type": "numerical",
+    "question_text": "A test charge of amount 1.5 × 10−9C is placed at mid-point O. Calculate the force experienced by the test charge.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing electric field lines and forces acting on a test charge at point O.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1776861568/ncert/physics/1/img_7_0.png",
+      "latex_extracted": "{\\frac{3\\times10^{-6}}{4\\pi\\,\\epsilon_{0}\\left({\\mathrm{AO}}\\right)^{2}}}={\\frac{3\\times10^{-6}}{4\\pi\\,\\epsilon_{0}\\left(10\\times10^{-2}\\right)^{2}}}~\\mathrm{NC}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The force experienced by the test charge is 8.1 × 10−3N along OA.",
+    "answer_latex": "F = qE = 1.5 \\times 10^{-9} \\times 5.4 \\times 10^{6} = 8.1 \\times 10^{-3} \\text{ N}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the force using the formula F = qE.",
+        "expression": "F = qE"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values of charge and electric field.",
+        "expression": "F = 1.5 \\times 10^{-9} \\times 5.4 \\times 10^{6}"
+      }
+    ],
+    "final_answer": "Therefore, the force experienced by the test charge is 8.1 × 10−3N along OA.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of electric force and substitution of values.",
+    "topics_tags": [
+      "Electric Force",
+      "Test Charge",
+      "Electric Field"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing electric field lines and forces acting on a test charge at point O.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1776861568/ncert/physics/1/img_7_0.png",
+        "latex_extracted": "{\\frac{3\\times10^{-6}}{4\\pi\\,\\epsilon_{0}\\left({\\mathrm{AO}}\\right)^{2}}}={\\frac{3\\times10^{-6}}{4\\pi\\,\\epsilon_{0}\\left(10\\times10^{-2}\\right)^{2}}}~\\mathrm{NC}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.8",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 1,
+    "chapter_name": "Electric Charges and Fields",
+    "question_type": "mcq",
+    "question_text": "A system has two charges q = 2.5 × 10−7C and q = −2.5 × 10−7C at points A and B. What are the total charge and electric dipole moment of the system?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the positions of two charges A and B in a coordinate system.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1776861596/ncert/physics/1/img_8_0.png",
+      "latex_extracted": "\\begin{array}{c}{{\\begin{array}{c}{{\\mathrm{~}}}\\\\ {{\\vdots}\\\\ {{\\chi^{\\prime}(o,0,1)}^{*}}}\\end{array}}}\\underbrace{\\mathrm{~}}^{\\mathrm{~a}}_{}\\cdot\\mathrm{~}}_{\\begin{array}{c}{{}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The total charge of the system is 0, and the electric dipole moment is 7.5 × 10−8C m along the positive z-axis.",
+    "answer_latex": "p = q \\times d = 2.5 \\times 10^{-7} \\times 0.3 = 7.5 \\times 10^{-8} \\text{ C m}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the total charge of the system.",
+        "expression": "q_{total} = q_A + q_B = 2.5 \\times 10^{-7} - 2.5 \\times 10^{-7} = 0"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the electric dipole moment using p = q × d.",
+        "expression": "p = 2.5 \\times 10^{-7} \\times 0.3"
+      }
+    ],
+    "final_answer": "Therefore, the total charge of the system is 0, and the electric dipole moment is 7.5 × 10−8C m along the positive z-axis.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of electric charge and dipole moment calculations.",
+    "topics_tags": [
+      "Electric Charge",
+      "Dipole Moment",
+      "Electrostatics"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the positions of two charges A and B in a coordinate system.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1776861596/ncert/physics/1/img_8_0.png",
+        "latex_extracted": "\\begin{array}{c}{{\\begin{array}{c}{{\\mathrm{~}}}\\\\ {{\\vdots}\\\\ {{\\chi^{\\prime}(o,0,1)}^{*}}}\\end{array}}}\\underbrace{\\mathrm{~}}^{\\mathrm{~a}}_{}\\cdot\\mathrm{~}}_{\\begin{array}{c}{{}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}}\\\\ {{\\mathrm{~}}}\\\\ {{\\mathrm{~}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.9",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 1,
+    "chapter_name": "Electric Charges and Fields",
+    "question_type": "numerical",
+    "question_text": "An electric dipole with dipole moment 4 × 10−9C m is aligned at 30° with the direction of a uniform electric field of magnitude 5 × 10^4N C−1. Calculate the magnitude of the torque acting on the dipole.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The magnitude of the torque acting on the dipole is 10−4N m.",
+    "answer_latex": "τ = pE \\sin(30°) = 4 \\times 10^{-9} \\times 5 \\times 10^{4} \\times \\frac{1}{2} = 10^{-4} \\text{ Nm}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Use the formula for torque τ = pE sin(θ).",
+        "expression": "τ = pE \\sin(30°)"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values of dipole moment, electric field, and angle.",
+        "expression": "τ = 4 \\times 10^{-9} \\times 5 \\times 10^{4} \\times \\frac{1}{2}"
+      }
+    ],
+    "final_answer": "Therefore, the magnitude of the torque acting on the dipole is 10−4N m.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing an electric dipole in an electric field with angle θ.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1776861615/ncert/physics/1/img_9_0.png",
+      "latex_extracted": "\\begin{array}{l}{{=4\\times10^{-9}\\times5\\times10^{4}\\times5\\mathrm{in}\\,30}}\\\\ {{=20\\times10^{-5}\\times\\frac{1}{2}}}\\\\ {{=10^{-4}\\mathrm{~Nm}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of torque in electric fields and substitution of values.",
+    "topics_tags": [
+      "Torque",
+      "Electric Dipole",
+      "Electric Field"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing an electric dipole in an electric field with angle θ.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1776861615/ncert/physics/1/img_9_0.png",
+        "latex_extracted": "\\begin{array}{l}{{=4\\times10^{-9}\\times5\\times10^{4}\\times5\\mathrm{in}\\,30}}\\\\ {{=20\\times10^{-5}\\times\\frac{1}{2}}}\\\\ {{=10^{-4}\\mathrm{~Nm}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q1.10",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 1,
+    "chapter_name": "Electric Charges and Fields",
+    "question_type": "conceptual",
+    "question_text": "Is there a transfer of mass from wool to polythene?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Yes. There is a transfer of mass taking place. This is because an electron has mass, m = 9.1 × 10−31 kg. Total mass transferred to polythene from wool, m = m × n = 9.1 × 10−31 × 1.87 × 10^{12} = 1.706 × 10−18 kg. Hence, a negligible amount of mass is transferred from wool to polythene.",
+    "answer_latex": "m = 9.1 \\times 10^{-31} \\times 1.87 \\times 10^{12} = 1.706 \\times 10^{-18} \\text{ kg}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the total mass transferred using the number of electrons and the mass of a single electron.",
+        "expression": "m = m \\times n"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values into the equation.",
+        "expression": "m = 9.1 \\times 10^{-31} \\times 1.87 \\times 10^{12}"
+      }
+    ],
+    "final_answer": "Therefore, a negligible amount of mass is transferred from wool to polythene.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of charge transfer and mass calculation.",
+    "topics_tags": [
+      "Charge Transfer",
+      "Electrons",
+      "Mass Transfer"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.11",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 1,
+    "chapter_name": "Electric Charges and Fields",
+    "question_type": "numerical",
+    "question_text": "Two insulated charged copper spheres A and B have their centers separated by a distance of 50 cm. What is the mutual force of electrostatic repulsion if the charge on each is 6.5 × 10−7 C? What is the force of repulsion if each sphere is charged double the above amount, and the distance between them is halved?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the setup of two charged spheres A and B with distance and charge values.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1776861618/ncert/physics/1/img_11_0.png",
+      "latex_extracted": "F={\\frac{9\\times10^{9}\\times\\left(6.5\\times10^{-7}\\right)^{2}}{\\left(0.5\\right)^{2}}}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The force of repulsion between the two spheres is 1.52 × 10−2 N. After doubling the charge, the force becomes 0.243 N.",
+    "answer_latex": "F = 1.52 \\times 10^{-2} \\text{ N}, \\text{ after doubling charge } F = 0.243 \\text{ N}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the force of repulsion using Coulomb's law.",
+        "expression": "F={\\frac{9\\times10^{9}\\times\\left(6.5\\times10^{-7}\\right)^{2}}{\\left(0.5\\right)^{2}}}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the new force after doubling the charge and halving the distance.",
+        "expression": "F={\\frac{9\\times10^{9}\\times(1.3\\times10^{-6})^{2}}{(0.25)^{2}}}"
+      }
+    ],
+    "final_answer": "Therefore, the force between the two spheres is 0.243 N after doubling the charge.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves application of Coulomb's law and multiple calculations.",
+    "topics_tags": [
+      "Coulomb's Law",
+      "Electrostatics",
+      "Force of Repulsion"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the setup of two charged spheres A and B with distance and charge values.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1776861618/ncert/physics/1/img_11_0.png",
+        "latex_extracted": "F={\\frac{9\\times10^{9}\\times\\left(6.5\\times10^{-7}\\right)^{2}}{\\left(0.5\\right)^{2}}}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.12",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 1,
+    "chapter_name": "Electric Charges and Fields",
+    "question_type": "numerical",
+    "question_text": "Suppose the spheres A and B in Exercise 1.12 have identical sizes. A third sphere of the same size but uncharged is brought in contact with the first, then brought in contact with the second, and finally removed from both. What is the new force of repulsion between A and B?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the interaction of three spheres, A, B, and C, with charge transfer.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1776861621/ncert/physics/1/img_12_0.png",
+      "latex_extracted": "={\\frac{9\\times10^{9}\\times1.3\\times10^{-6}\\times1.3\\times10^{-6}}{\\left(0.25\\right)^{2}}}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The new force of repulsion between A and B after charge transfer is calculated using the new charge values.",
+    "answer_latex": "F={\\frac{9\\times10^{9}\\times1.3\\times10^{-6}\\times1.3\\times10^{-6}}{(0.25)^{2}}}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Determine the new charge on spheres A and B after contact with uncharged sphere C.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the new force of repulsion using the updated charges and distance.",
+        "expression": "F={\\frac{9\\times10^{9}\\times1.3\\times10^{-6}\\times1.3\\times10^{-6}}{(0.25)^{2}}}"
+      }
+    ],
+    "final_answer": "The new force of repulsion between A and B is calculated based on the new charge distribution.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding charge distribution and applying Coulomb's law.",
+    "topics_tags": [
+      "Charge Distribution",
+      "Electrostatics",
+      "Force of Repulsion"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the interaction of three spheres, A, B, and C, with charge transfer.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1776861621/ncert/physics/1/img_12_0.png",
+        "latex_extracted": "={\\frac{9\\times10^{9}\\times1.3\\times10^{-6}\\times1.3\\times10^{-6}}{\\left(0.25\\right)^{2}}}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.13",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 1,
+    "chapter_name": "Electric Charges and Fields",
+    "question_type": "conceptual",
+    "question_text": "Figure 1.33 shows tracks of three charged particles in a uniform electrostatic field. Give the signs of the three charges. Which particle has the highest charge to mass ratio?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Opposite charges attract each other and same charges repel each other. It can be observed that particles 1 and 2 both move towards the positively charged plate and repel away from the negatively charged plate. Hence, these two particles are negatively charged. It can also be observed that particle 3 moves towards the negatively charged plate and repels away from the positively charged plate. Hence, particle 3 is positively charged.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, particles 1 and 2 are negatively charged, and particle 3 is positively charged.",
+    "answer_image": {
+      "present": true,
+      "description": "Figure showing tracks of three charged particles in an electrostatic field.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1776861691/ncert/physics/1/img_13_3.jpg",
+      "latex_extracted": "\\frac{\\stackrel{\\pm\\pm\\pm\\ +\\ +\\ +\\ +\\ +\\ +\\ +\\pm\\ +\\infty}}{\\stackrel{\\rightarrow\\infty}{\\longrightarrow\\dots\\to\\infty}}{\\stackrel{\\leftarrow\\infty\\to\\infty}{\\longrightarrow\\infty\\to\\infty\\atop\\mp\\to\\infty\\to\\infty\\to\\infty}}~~~~~\\frac{y}{\\downarrow\\ }",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of electrostatic principles and charge behavior.",
+    "topics_tags": [
+      "Electrostatics",
+      "Charged Particles",
+      "Electric Field"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "Text extraction issues leading to minor garbling."
+    ],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Figure showing tracks of three charged particles in an electrostatic field.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1776861691/ncert/physics/1/img_13_3.jpg",
+        "latex_extracted": "\\frac{\\stackrel{\\pm\\pm\\pm\\ +\\ +\\ +\\ +\\ +\\ +\\ +\\pm\\ +\\infty}}{\\stackrel{\\rightarrow\\infty}{\\longrightarrow\\dots\\to\\infty}}{\\stackrel{\\leftarrow\\infty\\to\\infty}{\\longrightarrow\\infty\\to\\infty\\atop\\mp\\to\\infty\\to\\infty\\to\\infty}}~~~~~\\frac{y}{\\downarrow\\ }",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q1.14",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 1,
+    "chapter_name": "Electric Charges and Fields",
+    "question_type": "mcq",
+    "question_text": "Consider a uniform electric field E = 3 × 10^3 î N/C. (a) What is the flux of this field through a square of 10 cm on a side whose plane is parallel to the yz plane? (b) What is the flux through the same square if the normal to its plane makes a 60° angle with the x-axis?",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "What is the flux of this field through a square of 10 cm on a side whose plane is parallel to the yz plane?"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "What is the flux through the same square if the normal to its plane makes a 60° angle with the x-axis?"
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "What is the flux of this field through a square of 10 cm on a side whose plane is parallel to the yz plane?",
+        "part_latex": null,
+        "answer_text": "The flux through the plane is given by the relation, Φ = E × A × cos(θ). Here, E = 3 × 10^3 N/C, A = 0.01 m², and θ = 0°.",
+        "answer_latex": "Φ = 3 \\times 10^3 \\times 0.01 \\times \\cos(0°) = 30 \\text{ N m}^2/\\text{C}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the area of the square.",
+            "expression": "A = s^2 = (0.1)^2 = 0.01"
+          },
+          {
+            "step_number": 2,
+            "description": "Use the formula for electric flux.",
+            "expression": "Φ = E \\times A \\times \\cos(θ) = 3 \\times 10^3 \\times 0.01 \\times \\cos(0°)"
+          }
+        ],
+        "final_answer": "Therefore, the flux through the square is 30 N m²/C.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "What is the flux through the same square if the normal to its plane makes a 60° angle with the x-axis?",
+        "part_latex": null,
+        "answer_text": "The flux through the plane is given by the relation, Φ = E × A × cos(θ). Here, E = 3 × 10^3 N/C, A = 0.01 m², and θ = 60°.",
+        "answer_latex": "Φ = 3 \\times 10^3 \\times 0.01 \\times \\cos(60°)",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the formula for electric flux with θ = 60°.",
+            "expression": "Φ = E \\times A \\times \\cos(60°) = 3 \\times 10^3 \\times 0.01 \\times \\cos(60°)"
+          }
+        ],
+        "final_answer": "Thus, the flux through the square when the normal makes a 60° angle is 15 N m²/C.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of electric flux and basic trigonometry.",
+    "topics_tags": [
+      "Electric Flux",
+      "Electric Field",
+      "Gauss's Law"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.15",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 1,
+    "chapter_name": "Electric Charges and Fields",
+    "question_type": "conceptual",
+    "question_text": "What is the net flux of the uniform electric field of Exercise 1.15 through a cube of side 20 cm oriented so that its faces are parallel to the coordinate planes?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The net flux through the cube is zero because the number of field lines entering the cube is equal to the number of field lines exiting the cube.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the net flux through the cube is zero.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of electric flux and symmetry in electric fields.",
+    "topics_tags": [
+      "Electric Flux",
+      "Gauss's Law",
+      "Electric Field"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.16",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 1,
+    "chapter_name": "Electric Charges and Fields",
+    "question_type": "mcq",
+    "question_text": "Careful measurement of the electric field at the surface of a black box indicates that the net outward flux through the surface of the box is 8.0 × 10^3 N m²/C. (a) What is the net charge inside the box? (b) If the net outward flux through the surface of the box were zero, could you conclude that there were no charges inside the box? Why or Why not?",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "What is the net charge inside the box?"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "If the net outward flux through the surface of the box were zero, could you conclude that there were no charges inside the box? Why or Why not?"
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "What is the net charge inside the box?",
+        "part_latex": null,
+        "answer_text": "The net charge inside the box can be calculated using the formula Φ = q/ε₀, where Φ is the net outward flux and ε₀ is the permittivity of free space.",
+        "answer_latex": "q = Φ \\cdot \\varepsilon_0 = 8.0 \\times 10^3 \\cdot 8.854 \\times 10^{-12}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the formula for electric flux to find the charge.",
+            "expression": "q = Φ \\cdot \\varepsilon_0"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the values for Φ and ε₀.",
+            "expression": "q = 8.0 \\times 10^3 \\cdot 8.854 \\times 10^{-12}"
+          }
+        ],
+        "final_answer": "Thus, the net charge inside the box is approximately 7.0832 × 10^{-8} C.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "If the net outward flux through the surface of the box were zero, could you conclude that there were no charges inside the box? Why or Why not?",
+        "part_latex": null,
+        "answer_text": "No, you cannot conclude that there are no charges inside the box because the charges could be arranged in such a way that the net flux is zero.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Therefore, zero net flux does not imply zero charge inside the box.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves application of Gauss's law and understanding of electric fields.",
+    "topics_tags": [
+      "Electric Flux",
+      "Gauss's Law",
+      "Charge Distribution"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [],
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    }
+  },
+  {
+    "question_id": "Q1.18",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 1,
+    "chapter_name": "Electric Charges and Fields",
+    "question_type": "numerical",
+    "question_text": "A point charge +10 μC is a distance 5 cm directly above the centre of a square of side 10 cm. What is the magnitude of the electric flux through the square?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The electric flux through the square is calculated using Gauss's theorem.",
+    "answer_latex": "Φ = 1.88 \\times 10^{5} \\text{ N m}^{2}/\\text{C}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the total electric flux through the cube using Gauss's theorem.",
+        "expression": "Φ_{total} = \\frac{q}{\\epsilon_0}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the electric flux through one face of the cube (the square).",
+        "expression": "Φ = \\frac{1}{6} \\cdot Φ_{total}"
+      }
+    ],
+    "final_answer": "Therefore, the electric flux through the square is 1.88 × 10^{5} N m^{2}/C.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing a point charge above a square, representing the electric flux through the square.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1776861701/ncert/physics/1/img_16_0.jpg",
+      "latex_extracted": "\\begin{array}{r}{{\\widehat{\\binom{s\\cdot\\operatorname{tr}}{\\widehat{\\beta}}}}}\\\\ {{\\widehat{\\Bigg(}}}&{{\\widehat{\\Bigg(}}}\\\\ {{\\widehat{\\Bigg(}}}\\\\ {{\\widehat{\\Bigg(}}}\\\\ {{\\widehat{\\Bigg)}}}\\\\ {{\\widehat{\\Bigg(}}}\\\\ {{\\widehat{\\Bigg(}}}\\\\ {{\\widehat{\\delta}}}\\\\ {{\\widehat{\\mathbb{S}}}}\\\\ {{\\widehat{\\mathbb{S}}}}\\\\ {{\\widehat{\\mathbb{S}}}}\\\\ {{\\widehat{\\mathbb{Q}}}}\\end{array}",
+      "source_page_number": 16,
+      "source_image_index": 0,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of Gauss's theorem and basic calculations.",
+    "topics_tags": [
+      "Electric Flux",
+      "Gauss's Law",
+      "Point Charge"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing a point charge above a square, representing the electric flux through the square.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1776861701/ncert/physics/1/img_16_0.jpg",
+        "latex_extracted": "\\begin{array}{r}{{\\widehat{\\binom{s\\cdot\\operatorname{tr}}{\\widehat{\\beta}}}}}\\\\ {{\\widehat{\\Bigg(}}}&{{\\widehat{\\Bigg(}}}\\\\ {{\\widehat{\\Bigg(}}}\\\\ {{\\widehat{\\Bigg(}}}\\\\ {{\\widehat{\\Bigg)}}}\\\\ {{\\widehat{\\Bigg(}}}\\\\ {{\\widehat{\\Bigg(}}}\\\\ {{\\widehat{\\delta}}}\\\\ {{\\widehat{\\mathbb{S}}}}\\\\ {{\\widehat{\\mathbb{S}}}}\\\\ {{\\widehat{\\mathbb{S}}}}\\\\ {{\\widehat{\\mathbb{Q}}}}\\end{array}",
+        "source_page_number": 16,
+        "source_image_index": 0,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q1.19",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 1,
+    "chapter_name": "Electric Charges and Fields",
+    "question_type": "mcq",
+    "question_text": "A point charge of 2.0 μC is at the centre of a cubic Gaussian surface 9.0 cm on edge. What is the net electric flux through the surface?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The net electric flux through the surface is calculated using Gauss's law.",
+    "answer_latex": "Φ = \\frac{q}{\\epsilon_0} = 2.26 \\times 10^{5} \\text{ N m}^{2}/\\text{C}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the net charge enclosed by the Gaussian surface.",
+        "expression": "q = 2.0 \\times 10^{-6} C"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the net electric flux using Gauss's law.",
+        "expression": "Φ = \\frac{q}{\\epsilon_0}"
+      }
+    ],
+    "final_answer": "Therefore, the net electric flux through the surface is 2.26 × 10^{5} N m^{2}/C.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires application of Gauss's law and basic calculations.",
+    "topics_tags": [
+      "Electric Flux",
+      "Gauss's Law",
+      "Cubic Surface"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.20",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 1,
+    "chapter_name": "Electric Charges and Fields",
+    "question_type": "mcq",
+    "question_text": "A point charge causes an electric flux of −1.0 × 10³ Nm²/C to pass through a spherical Gaussian surface of 10.0 cm radius centered on the charge. (a) If the radius of the Gaussian surface were doubled, how much flux would pass through the surface? (b) What is the value of the point charge?",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "If the radius of the Gaussian surface were doubled, how much flux would pass through the surface?"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "What is the value of the point charge?"
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "If the radius of the Gaussian surface were doubled, how much flux would pass through the surface?",
+        "part_latex": null,
+        "answer_text": "The flux remains the same regardless of the size of the Gaussian surface.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, the flux through the surface remains −1.0 × 10³ Nm²/C.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "What is the value of the point charge?",
+        "part_latex": null,
+        "answer_text": "The value of the point charge can be calculated using the electric flux formula.",
+        "answer_latex": "q = Φ \\cdot \\epsilon_0 = -1.0 \\times 10^{3} \\times 8.854 \\times 10^{-12}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the electric flux formula to find the charge.",
+            "expression": "q = Φ \\cdot \\epsilon_0"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the values to calculate the charge.",
+            "expression": "q = -1.0 \\times 10^{3} \\times 8.854 \\times 10^{-12}"
+          }
+        ],
+        "final_answer": "Therefore, the value of the point charge is calculated using the given flux.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of electric flux and calculations for two parts.",
+    "topics_tags": [
+      "Electric Flux",
+      "Gaussian Surface",
+      "Point Charge"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [],
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    }
+  },
+  {
+    "question_id": "Q1.21",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 1,
+    "chapter_name": "Electric Charges and Fields",
+    "question_type": "numerical",
+    "question_text": "A conducting sphere of radius 10 cm has an unknown charge. If the electric field 20 cm from the centre of the sphere is 1.5 × 10^3 N/C and points radially inward, what is the net charge on the sphere?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The net charge on the sphere is calculated using the formula for electric field intensity.",
+    "answer_latex": "q = E \\cdot 4 \\pi \\epsilon_0 d = 1.5 \\times 10^3 \\cdot 4 \\pi \\cdot 8.854 \\times 10^{-12} \\cdot 0.2 = 6.67 \\times 10^{-9} C",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the formula for electric field intensity due to a point charge.",
+        "expression": "E = \\frac{q}{4 \\pi \\epsilon_0 d^2}"
+      },
+      {
+        "step_number": 2,
+        "description": "Rearrange the formula to solve for net charge q.",
+        "expression": "q = E \\cdot 4 \\pi \\epsilon_0 d^2"
+      },
+      {
+        "step_number": 3,
+        "description": "Substitute the known values into the equation.",
+        "expression": "q = 1.5 \\times 10^3 \\cdot 4 \\pi \\cdot 8.854 \\times 10^{-12} \\cdot (0.2)^2"
+      }
+    ],
+    "final_answer": "Therefore, the net charge on the sphere is 6.67 nC.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of electric field concepts and basic calculations.",
+    "topics_tags": [
+      "Electric Field",
+      "Charge",
+      "Conducting Sphere"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.22",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 1,
+    "chapter_name": "Electric Charges and Fields",
+    "question_type": "mcq",
+    "question_text": "A uniformly charged conducting sphere of 2.4 m diameter has a surface charge density of 80.0 μC/m². (a) Find the charge on the sphere. (b) What is the total electric flux leaving the surface of the sphere?",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "Find the charge on the sphere."
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "What is the total electric flux leaving the surface of the sphere?"
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Find the charge on the sphere.",
+        "part_latex": null,
+        "answer_text": "The charge on the sphere is calculated using the surface charge density and surface area.",
+        "answer_latex": "Q = \\sigma \\cdot A = 80 \\times 10^{-6} \\cdot 4 \\pi (1.2)^2 = 1.447 \\times 10^{-3} C",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the surface area of the sphere.",
+            "expression": "A = 4 \\pi r^2"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the radius into the surface area formula.",
+            "expression": "A = 4 \\pi (1.2)^2"
+          },
+          {
+            "step_number": 3,
+            "description": "Calculate the total charge using surface charge density.",
+            "expression": "Q = \\sigma \\cdot A"
+          }
+        ],
+        "final_answer": "Therefore, the charge on the sphere is 1.447 × 10^−3 C.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "What is the total electric flux leaving the surface of the sphere?",
+        "part_latex": null,
+        "answer_text": "The total electric flux leaving the surface of the sphere is calculated using Gauss's law.",
+        "answer_latex": "\\Phi = \\frac{Q}{\\epsilon_0} = \\frac{1.447 \\times 10^{-3}}{8.854 \\times 10^{-12}} = 1.63 \\times 10^8 N C^{-1} m^2",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Apply Gauss's law to find electric flux.",
+            "expression": "\\Phi = \\frac{Q}{\\epsilon_0}"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the charge and permittivity of free space into the equation.",
+            "expression": "\\Phi = \\frac{1.447 \\times 10^{-3}}{8.854 \\times 10^{-12}}"
+          }
+        ],
+        "final_answer": "Therefore, the total electric flux leaving the surface of the sphere is 1.63 × 10^8 N C^−1 m^2.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations and understanding of electric flux.",
+    "topics_tags": [
+      "Surface Charge Density",
+      "Electric Flux",
+      "Gauss's Law"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [],
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    }
+  },
+  {
+    "question_id": "Q1.23",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 1,
+    "chapter_name": "Electric Charges and Fields",
+    "question_type": "mcq",
+    "question_text": "Two large, thin metal plates are parallel and close to each other. On their inner faces, the plates have surface charge densities of opposite signs and of magnitude 17.0 × 10−22 C/m². What is E: (a) in the outer region of the first plate, (b) in the outer region of the second plate, and (c) between the plates?",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "in the outer region of the first plate,"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "in the outer region of the second plate, and"
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "between the plates?"
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing two parallel plates with charge densities and electric field regions labeled.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1776861712/ncert/physics/1/img_22_0.jpg",
+      "latex_extracted": "\\left|\\begin{array}{c c c}{{\\infty}}&{{}}&{{\\stackrel{\\mathrm{B}}{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\vphantom{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\vphantom{\\sqrt{\\vphantom{\\sqrt{\\sqrt{\\vphantom{\\sqrt{\\vphantom{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\ }}}}}}}}}}}}}}}}}\\kern{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\vphantom{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\vphantom{\\sqrt{\\ }}}}}}}}}}}}}}}}}}}}}}}}{\\sqrt{\\vphantom{{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\vphantom{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\ln\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\bot}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}\\end{array}}}\\right|{\\prod}}}\\left}}\\Psiarray}\\end{array}",
+      "source_page_number": 22,
+      "source_image_index": 0,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "What is E in the outer region of the first plate?",
+        "part_latex": null,
+        "answer_text": "The electric field E in the outer region of the first plate is zero.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify that the electric field outside a charged plate is zero.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, E = 0 in the outer region of the first plate.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "What is E in the outer region of the second plate?",
+        "part_latex": null,
+        "answer_text": "The electric field E in the outer region of the second plate is also zero.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify that the electric field outside a charged plate is zero.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, E = 0 in the outer region of the second plate.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "What is E between the plates?",
+        "part_latex": null,
+        "answer_text": "The electric field E between the plates is given by E = \\frac{\\sigma}{\\epsilon_0}, where σ is the surface charge density.",
+        "answer_latex": "E = \\frac{17.0 \\times 10^{-22}}{8.854 \\times 10^{-12}}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the formula for electric field between two parallel plates.",
+            "expression": "E = \\frac{\\sigma}{\\epsilon_0}"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the values of σ and ε₀.",
+            "expression": "E = \\frac{17.0 \\times 10^{-22}}{8.854 \\times 10^{-12}}"
+          }
+        ],
+        "final_answer": "Thus, the electric field E between the plates is approximately 1.92 × 10⁻¹⁰ N/C.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of electric fields and application of formulas.",
+    "topics_tags": [
+      "Electric Field",
+      "Charge Density",
+      "Parallel Plates"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing two parallel plates with charge densities and electric field regions labeled.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1776861712/ncert/physics/1/img_22_0.jpg",
+        "latex_extracted": "\\left|\\begin{array}{c c c}{{\\infty}}&{{}}&{{\\stackrel{\\mathrm{B}}{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\vphantom{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\vphantom{\\sqrt{\\vphantom{\\sqrt{\\sqrt{\\vphantom{\\sqrt{\\vphantom{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\ }}}}}}}}}}}}}}}}}\\kern{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\vphantom{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\vphantom{\\sqrt{\\ }}}}}}}}}}}}}}}}}}}}}}}}{\\sqrt{\\vphantom{{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\vphantom{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\ln\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\sqrt{\\bot}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}\\end{array}}}\\right|{\\prod}}}\\left}}\\Psiarray}\\end{array}",
+        "source_page_number": 22,
+        "source_image_index": 0,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.24",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 1,
+    "chapter_name": "Electric Charges and Fields",
+    "question_type": "mcq",
+    "question_text": "An oil drop of 12 excess electrons is held stationary under a constant electric field of 2.55 × 10^4 N/C in Millikan’s oil drop experiment. The density of the oil is 1.26 g/cm³. Estimate the radius of the drop. (g = 9.81 m/s²; e = 1.60 × 10^-19 C).",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The radius of the oil drop can be estimated using the balance of electric force and gravitational force.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the net charge on the oil drop using the number of excess electrons.",
+        "expression": "q = n \\cdot e = 12 \\cdot 1.6 \\times 10^{-19}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the weight of the oil drop using its density and the volume formula.",
+        "expression": "W = m \\cdot g = \\rho \\cdot V \\cdot g"
+      },
+      {
+        "step_number": 3,
+        "description": "Set the electric force equal to the weight to find the radius.",
+        "expression": "E \\cdot q = \\rho \\cdot V \\cdot g"
+      }
+    ],
+    "final_answer": "Therefore, the radius of the oil drop can be calculated from the above equations.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps of calculation and understanding of forces.",
+    "topics_tags": [
+      "Millikan's Experiment",
+      "Electric Field",
+      "Oil Drop",
+      "Charge",
+      "Density"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "Some text garbling and missing explicit final answer."
+    ],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.25",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 1,
+    "chapter_name": "Electric Charges and Fields",
+    "question_type": "conceptual",
+    "question_text": "Which among the curves shown in Fig. 1.35 cannot possibly represent electrostatic field lines?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Curves representing electrostatic field lines.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1776861768/ncert/physics/1/img_24_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of electrostatic field line properties.",
+    "topics_tags": [
+      "Electrostatics",
+      "Field Lines",
+      "Electric Charges"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Curves representing electrostatic field lines.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1776861768/ncert/physics/1/img_24_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.26",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 1,
+    "chapter_name": "Electric Charges and Fields",
+    "question_type": "mcq",
+    "question_text": "Answer the following questions regarding electrostatic field lines: (c) The field lines showed in (c) represent electrostatic field lines. This is because the field lines emerge from the positive charges and repel each other. (d) The field lines showed in (d) do not represent electrostatic field lines because the field lines should not intersect each other. (e) The field lines showed in (e) do not represent electrostatic field lines because closed loops are not formed in the area between the field lines.",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(C)",
+        "option_text": "The field lines showed in"
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "represent electrostatic field lines. This is because the field lines emerge from the positive charges and repel each other."
+      },
+      {
+        "option_label": "(D)",
+        "option_text": "The field lines showed in"
+      },
+      {
+        "option_label": "(D)",
+        "option_text": "do not represent electrostatic field lines because the field lines should not intersect each other. (e) The field lines showed in (e) do not represent electrostatic field lines because closed loops are not formed in the area between the field lines."
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation related to electrostatic field lines.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1776861789/ncert/physics/1/img_25_0.png",
+      "latex_extracted": "\\frac{\\exp\\mathrm{e}\\!\\left|\\right\\rangle\\!\\right|\\!\\left\\langle\\!\\left\\langle\\sqrt{<\\!\\!\\slash}^{-}\\!\\!\\!\\right.\\!\\!\\!-\\!\\!\\!\\right.",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(c)",
+        "part_text": "The field lines showed in (c) represent electrostatic field lines. This is because the field lines emerge from the positive charges and repel each other.",
+        "part_latex": null,
+        "answer_text": "The field lines represent electrostatic field lines as they emerge from positive charges.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, the field lines in (c) correctly represent electrostatic field lines.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(d)",
+        "part_text": "The field lines showed in (d) do not represent electrostatic field lines because the field lines should not intersect each other.",
+        "part_latex": null,
+        "answer_text": "Field lines cannot intersect as it would imply two different directions of the electric field at a point.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Therefore, the field lines in (d) do not represent electrostatic field lines.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(e)",
+        "part_text": "The field lines showed in (e) do not represent electrostatic field lines because closed loops are not formed in the area between the field lines.",
+        "part_latex": null,
+        "answer_text": "Closed loops in field lines indicate a non-electrostatic field, which is not the case here.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, the field lines in (e) do not represent electrostatic field lines.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of electrostatic field line properties.",
+    "topics_tags": [
+      "Electrostatic Field Lines",
+      "Electric Charges",
+      "Field Properties"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation related to electrostatic field lines.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1776861789/ncert/physics/1/img_25_0.png",
+        "latex_extracted": "\\frac{\\exp\\mathrm{e}\\!\\left|\\right\\rangle\\!\\right|\\!\\left\\langle\\!\\left\\langle\\sqrt{<\\!\\!\\slash}^{-}\\!\\!\\!\\right.\\!\\!\\!-\\!\\!\\!\\right.",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.27",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 1,
+    "chapter_name": "Electric Charges and Fields",
+    "question_type": "numerical",
+    "question_text": "In a certain region of space, electric field is along the z-direction throughout. The magnitude of electric field is, however, not constant but increases uniformly along the positive z-direction, at the rate of 10^5 N/C per metre. What are the force and torque experienced by a system having a total dipole moment equal to 10^{-7} Cm in the negative z-direction?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The force experienced by the system is given by F = qE = -10^{-7} × 10^{-5} = -10^{-2} N. The torque τ is given by τ = pE sin(180°) = 0. Therefore, the torque experienced by the system is zero.",
+    "answer_latex": "F = -10^{-2} N, \\quad \\tau = 0",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the force using the formula F = qE.",
+        "expression": "F = -10^{-7} \\times 10^{-5}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the torque using the formula τ = pE sin(180°).",
+        "expression": "τ = pE \\sin(180°)"
+      }
+    ],
+    "final_answer": "Thus, the force is -10^{-2} N and the torque is zero.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves calculation of force and torque with understanding of dipole moments.",
+    "topics_tags": [
+      "Electric Field",
+      "Dipole Moment",
+      "Force and Torque"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.28",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 1,
+    "chapter_name": "Electric Charges and Fields",
+    "question_type": "mcq",
+    "question_text": "A conductor A with a cavity is given a charge Q. Show that the entire charge must appear on the outer surface of the conductor. (b) Another conductor B with charge q is inserted into the cavity keeping B insulated from A. Show that the total charge on the outside surface of A is Q + q. (c) A sensitive instrument is to be shielded from the strong electrostatic fields in its environment. Suggest a possible way.",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(B)",
+        "option_text": "Another conductor B with charge q is inserted into the cavity keeping B insulated from A. Show that the total charge on the outside surface of A is Q + q."
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "A sensitive instrument is to be shielded from the strong electrostatic fields in its environment. Suggest a possible way."
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The entire charge appears on the outer surface of conductor A due to electrostatic shielding. When conductor B is inserted, the total charge on the outer surface of A becomes Q + q due to the induced charge on the inner surface of A.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the total charge on the outer surface of A is Q + q.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing a conductor with a cavity and charge distribution.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1776861831/ncert/physics/1/img_27_0.jpg",
+      "latex_extracted": "\\begin{array}{r l}{{\\left\\langle\\begin{array}{l l}{{\\overline{{Q}}}}\\\\ {{\\overline{{{\\left(\\sum_{\\Lambda}^{}}\\right)^{\\displaystyle3}}\\lambda}}}&{{\\begin{array}{\\displaystyle\\left(\\begin{array}{c}{{{\\overline{{\\left(\\frac{Q}{\\beta}}\\to\\left(\\infty\\beta}\\right)}}}\\\\ {{\\left(\\frac{1}{\\beta}\\right)}}\\end{array}\\right)}}\\end{array}}}\\end{array}}~~~~{\\begin{array}{r l}{{\\left\\langle\\begin{array}{l}{{{\\cal(\\frac{Q}{\\beta}\\to\\infty\\beta}{\\beta}}}\\\\ {{\\left(\\frac{1}{\\beta}\\right)}}\\end{array}}}\\end{array}\\right\\quad~~~{\\begin{array}{r l}{{\\left(\\begin{array}{l}{{\\nabla_{\\mathrm{es\\leq\\beta=\\infty\\leq\\infty}}}{\\left(\\infty}\\right)}}\\\\ {{\\left(\\frac{1}{\\beta}{\\langle\\right)}{\\right)}{\\left(\\right)}{\\right)}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of electrostatic principles and charge distribution.",
+    "topics_tags": [
+      "Electrostatics",
+      "Charge Distribution",
+      "Conductors"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing a conductor with a cavity and charge distribution.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1776861831/ncert/physics/1/img_27_0.jpg",
+        "latex_extracted": "\\begin{array}{r l}{{\\left\\langle\\begin{array}{l l}{{\\overline{{Q}}}}\\\\ {{\\overline{{{\\left(\\sum_{\\Lambda}^{}}\\right)^{\\displaystyle3}}\\lambda}}}&{{\\begin{array}{\\displaystyle\\left(\\begin{array}{c}{{{\\overline{{\\left(\\frac{Q}{\\beta}}\\to\\left(\\infty\\beta}\\right)}}}\\\\ {{\\left(\\frac{1}{\\beta}\\right)}}\\end{array}\\right)}}\\end{array}}}\\end{array}}~~~~{\\begin{array}{r l}{{\\left\\langle\\begin{array}{l}{{{\\cal(\\frac{Q}{\\beta}\\to\\infty\\beta}{\\beta}}}\\\\ {{\\left(\\frac{1}{\\beta}\\right)}}\\end{array}}}\\end{array}\\right\\quad~~~{\\begin{array}{r l}{{\\left(\\begin{array}{l}{{\\nabla_{\\mathrm{es\\leq\\beta=\\infty\\leq\\infty}}}{\\left(\\infty}\\right)}}\\\\ {{\\left(\\frac{1}{\\beta}{\\langle\\right)}{\\right)}{\\left(\\right)}{\\right)}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q1.29",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 1,
+    "chapter_name": "electric charges and fields",
+    "question_type": "conceptual",
+    "question_text": "A hollow charged conductor has a tiny hole cut into its surface. Show that the electric field in the hole is \\( E = \\frac{\\sigma}{\\epsilon_0} \\hat{n} \\), where \\( \\hat{n} \\) is the unit vector in the outward normal direction, and \\( \\sigma \\) is the surface charge density near the hole.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram illustrating the electric field and charge distribution around a hollow conductor with a hole.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1776861838/ncert/physics/1/img_28_0.png",
+      "latex_extracted": "\\begin{array}{c}{{\\mathrm{Flux},\\;\\phi=\\vec{E}\\mathcal{A}\\delta=\\frac{|q|}{\\epsilon_{0}}}}\\\\ {{E d s=\\frac{\\overline{{{\\sigma}}}\\times\\overline{{{d S}}}}{\\epsilon_{0}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The electric field inside the cavity is zero. The electric field just outside the conductor is a superposition of the field due to the cavity and the field due to the rest of the charged conductor.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify that the electric field inside the cavity is zero.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Determine the electric field just outside the conductor as a superposition of fields.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Hence, the electric field in the hole is given by the formula.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of electrostatics and application of Gauss's law.",
+    "topics_tags": [
+      "Electrostatics",
+      "Electric Field",
+      "Conductors"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram illustrating the electric field and charge distribution around a hollow conductor with a hole.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1776861838/ncert/physics/1/img_28_0.png",
+        "latex_extracted": "\\begin{array}{c}{{\\mathrm{Flux},\\;\\phi=\\vec{E}\\mathcal{A}\\delta=\\frac{|q|}{\\epsilon_{0}}}}\\\\ {{E d s=\\frac{\\overline{{{\\sigma}}}\\times\\overline{{{d S}}}}{\\epsilon_{0}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.30",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 1,
+    "chapter_name": "electric charges and fields",
+    "question_type": "derivation",
+    "question_text": "Obtain the formula for the electric field due to a long thin wire of uniform linear charge density \\( \\lambda \\) without using Gauss’s law. [Hint: Use Coulomb’s law directly and evaluate the necessary integral.]",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "To find the electric field at a point due to a long thin wire, we consider a small length element and resolve the electric field into components.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Consider a small length element of the wire and calculate the electric field due to this element.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Resolve the electric field into perpendicular and parallel components.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Integrate the contributions from all elements to find the total electric field.",
+        "expression": null
+      }
+    ],
+    "final_answer": "The derived formula for the electric field due to a long thin wire is obtained.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing a long thin wire with a uniform linear charge density and a point at a perpendicular distance from it.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1776861843/ncert/physics/1/img_29_0.png",
+      "latex_extracted": "\\begin{array}{r}{\\mathbf{\\hat{\\varepsilon}}\\to E^{\\prime}=E}\\\\ {E^{\\prime}={\\frac{E}{2}}}\\\\ {={\\frac{\\sigma}{2}}{\\hat{n}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Involves integration and understanding of electric fields from charge distributions.",
+    "topics_tags": [
+      "Electric Field",
+      "Coulomb's Law",
+      "Charge Distribution"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing a long thin wire with a uniform linear charge density and a point at a perpendicular distance from it.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1776861843/ncert/physics/1/img_29_0.png",
+        "latex_extracted": "\\begin{array}{r}{\\mathbf{\\hat{\\varepsilon}}\\to E^{\\prime}=E}\\\\ {E^{\\prime}={\\frac{E}{2}}}\\\\ {={\\frac{\\sigma}{2}}{\\hat{n}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q1.31",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 1,
+    "chapter_name": "Electric Charges and Fields",
+    "question_type": "conceptual",
+    "question_text": "Suggest a possible quark composition of a proton and neutron.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical equations related to electric fields and quark composition.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1776863488/ncert/physics/1/img_31_0.png",
+      "latex_extracted": "\\begin{array}{l l l l}{{\\vdots\\operatorname{\\delta}/^{2}\\left(1+\\tan^{2}\\theta\\right)=l^{2}\\operatorname{\\sec}^{2}\\theta}}&{{\\qquad\\qquad}}&{{\\qquad}}&{{}}\\\\ {{x^{2}+l^{2}=l^{2}\\sin^{2}\\theta}}&{{\\qquad}}&{{}}&{{}}&{{}}&{{}}\\\\ {{x^{2}+l^{2}=l^{2}\\sin^{2}\\theta}}&{{}}&{{}}&{{}}&{{}}&{{}}&{{}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "A proton can be represented as 'uud' and a neutron as 'udd'.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the quark composition of a proton is 'uud' and of a neutron is 'udd'.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of quark composition and basic particle physics.",
+    "topics_tags": [
+      "Quarks",
+      "Proton",
+      "Neutron",
+      "Elementary Particles"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical equations related to electric fields and quark composition.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1776863488/ncert/physics/1/img_31_0.png",
+        "latex_extracted": "\\begin{array}{l l l l}{{\\vdots\\operatorname{\\delta}/^{2}\\left(1+\\tan^{2}\\theta\\right)=l^{2}\\operatorname{\\sec}^{2}\\theta}}&{{\\qquad\\qquad}}&{{\\qquad}}&{{}}\\\\ {{x^{2}+l^{2}=l^{2}\\sin^{2}\\theta}}&{{\\qquad}}&{{}}&{{}}&{{}}&{{}}\\\\ {{x^{2}+l^{2}=l^{2}\\sin^{2}\\theta}}&{{}}&{{}}&{{}}&{{}}&{{}}&{{}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.32",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 1,
+    "chapter_name": "Electric Charges and Fields",
+    "question_type": "conceptual",
+    "question_text": "Show that the equilibrium of a test charge at a null point is necessarily unstable.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical equations related to electric fields and equilibrium of charges.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1776863526/ncert/physics/1/img_33_0.png",
+      "latex_extracted": "\\begin{array}{l}{{0=\\left({\\frac{2}{3}}e\\right)n+\\left(-{\\frac{1}{3}}e\\right)(3-n)}}\\\\ {{0={\\frac{2}{3}}e n-e+{\\frac{n e}{3}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The equilibrium of the test charge is unstable as it experiences a restoring force when displaced.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the equilibrium of the test charge at a null point is unstable.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of electric fields and stability concepts.",
+    "topics_tags": [
+      "Electric Field",
+      "Equilibrium",
+      "Test Charge",
+      "Stability"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical equations related to electric fields and equilibrium of charges.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1776863526/ncert/physics/1/img_33_0.png",
+        "latex_extracted": "\\begin{array}{l}{{0=\\left({\\frac{2}{3}}e\\right)n+\\left(-{\\frac{1}{3}}e\\right)(3-n)}}\\\\ {{0={\\frac{2}{3}}e n-e+{\\frac{n e}{3}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q1.33",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 1,
+    "chapter_name": "Electric Charges and Fields",
+    "question_type": "derivation",
+    "question_text": "A particle of mass m and charge (−q) enters the region between the two charged plates initially moving along x-axis with speed vx. The length of the plate is L and a uniform electric field E is maintained between the plates. Show that the vertical deflection of the particle at the far edge of the plate is \\( \\frac{qEL^2}{2m} \\).",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The vertical deflection of the particle at the far edge of the plate is \\( \\frac{qEL^2}{2m} \\). This is similar to the motion of horizontal projectiles under gravity.",
+    "answer_latex": "\\frac{qEL^2}{2m}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the forces acting on the particle and calculate the acceleration.",
+        "expression": "a = \\frac{F}{m} = \\frac{qE}{m}"
+      },
+      {
+        "step_number": 2,
+        "description": "Use the second equation of motion to find the vertical deflection.",
+        "expression": "s = ut + \\frac{1}{2} a t^2"
+      },
+      {
+        "step_number": 3,
+        "description": "Substitute the values to find the deflection at the edge of the plate.",
+        "expression": "s = \\frac{1}{2} \\left(\\frac{qE}{m}\\right) \\left(\\frac{L}{v_x}\\right)^2"
+      }
+    ],
+    "final_answer": "Therefore, the vertical deflection of the particle at the far edge of the plate is \\( \\frac{qEL^2}{2m} \\).",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the motion of a charged particle in an electric field between two plates.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1776863529/ncert/physics/1/img_34_0.png",
+      "latex_extracted": "\\begin{array}{r}{a={\\frac{F}{m}}}\\\\ {\\mathrm{Howver,~electric~force,}F=q E}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of electric forces and application of kinematic equations.",
+    "topics_tags": [
+      "Electric Field",
+      "Charged Particle Motion",
+      "Kinematics"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the motion of a charged particle in an electric field between two plates.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1776863529/ncert/physics/1/img_34_0.png",
+        "latex_extracted": "\\begin{array}{r}{a={\\frac{F}{m}}}\\\\ {\\mathrm{Howver,~electric~force,}F=q E}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q1.34",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 1,
+    "chapter_name": "Electric Charges and Fields",
+    "question_type": "mcq",
+    "question_text": "Suppose that the particle in Exercise 1.33 is an electron projected with velocity v = 2.0 × 10^6 m/s. If E between the plates separated by 0.5 cm is 9.1 × 10^2 N/C, where will the electron strike the upper plate?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, the electron will strike the upper plate after travelling 1.6 cm.",
+    "answer_latex": "1.6 \\text{ cm}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the given values: velocity, electric field, and separation of plates.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the vertical deflection using the derived formula.",
+        "expression": "s = \\frac{qEL^2}{2mv_x^2}"
+      },
+      {
+        "step_number": 3,
+        "description": "Substitute the values to find the deflection.",
+        "expression": "s = \\frac{(1.6 \\times 10^{-19})(9.1 \\times 10^2)(0.005)^2}{2(9.1 \\times 10^{-31})(2.0 \\times 10^6)^2}"
+      }
+    ],
+    "final_answer": "Therefore, the electron will strike the upper plate after travelling 1.6 cm.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the motion of an electron in an electric field between two plates.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1776863541/ncert/physics/1/img_35_0.png",
+      "latex_extracted": "\\begin{array}{l l}{{s=u t+\\displaystyle\\frac{1}{2}\\,a t^{2}}}\\\\ {{s=0+\\displaystyle\\frac{1}{2}\\left(\\frac{q E}{m}\\right)\\left(\\displaystyle\\frac{L}{v_x}\\right)^{2}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires basic application of kinematic equations and substitution of values.",
+    "topics_tags": [
+      "Electron Motion",
+      "Electric Field",
+      "Kinematics"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the motion of an electron in an electric field between two plates.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1776863541/ncert/physics/1/img_35_0.png",
+        "latex_extracted": "\\begin{array}{l l}{{s=u t+\\displaystyle\\frac{1}{2}\\,a t^{2}}}\\\\ {{s=0+\\displaystyle\\frac{1}{2}\\left(\\frac{q E}{m}\\right)\\left(\\displaystyle\\frac{L}{v_x}\\right)^{2}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  }
+]

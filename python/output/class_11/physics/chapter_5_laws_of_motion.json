@@ -1,0 +1,2605 @@
+[
+  {
+    "question_id": "Q5.1",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 5,
+    "chapter_name": "laws of motion",
+    "question_type": "conceptual",
+    "question_text": "Give the magnitude and direction of the net force acting on a drop of rain falling down with a constant speed, a cork of mass 10 g floating on water, a kite skillfully held stationary in the sky, a car moving with a constant velocity of 30 km/h on a rough road, a high-speed electron in space far from all material objects, and free of electric and magnetic fields.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Zero net force in all cases. The rain drop is falling with a constant speed, hence its acceleration is zero. The cork is balanced by the buoyant force, the kite is stationary, the car is moving with constant velocity, and the electron is free from all fields.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the net force is zero in all cases.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of forces acting on objects in equilibrium.",
+    "topics_tags": [
+      "Net Force",
+      "Equilibrium",
+      "Newton's Laws"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.2",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 5,
+    "chapter_name": "laws of motion",
+    "question_type": "numerical",
+    "question_text": "A pebble of mass 0.05 kg is thrown vertically upwards. Give the direction and magnitude of the net force on the pebble, during its upward motion, during its downward motion, at the highest point where it is momentarily at rest. Do your answers change if the pebble was thrown at an angle of 45° with the horizontal direction? Ignore air resistance.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The net force on the pebble in all three cases is 0.5 N, acting in the vertically downward direction.",
+    "answer_latex": "F = m \\times a = 0.05 \\times 10 = 0.5 \\text{ N}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the net force using Newton's second law.",
+        "expression": "F = m \\times g"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values for mass and acceleration due to gravity.",
+        "expression": "F = 0.05 \\times 10"
+      }
+    ],
+    "final_answer": "Therefore, the net force is 0.5 N acting downward in all cases.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic application of Newton's second law.",
+    "topics_tags": [
+      "Net Force",
+      "Projectile Motion",
+      "Gravity"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.3",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 5,
+    "chapter_name": "laws of motion",
+    "question_type": "numerical",
+    "question_text": "Give the magnitude and direction of the net force acting on a stone of mass 0.1 kg, just after it is dropped from the window of a stationary train, just after it is dropped from the window of a train running at a constant velocity of 36 km/h, just after it is dropped from the window of a train accelerating with 1 m/s², lying on the floor of a train which is accelerating with 1 m/s², the stone being at rest relative to the train. Neglect air resistance throughout.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Just after it is dropped from the window of a stationary train.",
+        "part_latex": null,
+        "answer_text": "1 N; vertically downward.",
+        "answer_latex": "F = ma = mg = 0.1 \\times 10 = 1 \\text{ N}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the net force using Newton's second law.",
+            "expression": "F = ma = mg"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the values for mass and acceleration due to gravity.",
+            "expression": "F = 0.1 \\times 10"
+          }
+        ],
+        "final_answer": "Thus, the net force is 1 N acting vertically downward.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Just after it is dropped from the window of a train running at a constant velocity of 36 km/h.",
+        "part_latex": null,
+        "answer_text": "1 N; vertically downward.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, the net force is 1 N acting vertically downward.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "Just after it is dropped from the window of a train accelerating with 1 m/s².",
+        "part_latex": null,
+        "answer_text": "1 N; vertically downward.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, the net force is 1 N acting vertically downward.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic application of Newton's second law in different scenarios.",
+    "topics_tags": [
+      "Net Force",
+      "Gravity",
+      "Newton's Laws"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.4",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 5,
+    "chapter_name": "laws of motion",
+    "question_type": "mcq",
+    "question_text": "One end of a string of length l is connected to a particle of mass m and the other to a small peg on a smooth horizontal table. If the particle moves in a circle with speed v the net force on the particle (directed towards the centre) is: T, (ii), (iii), (iv) 0. Choose the correct alternative.",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(i)",
+        "option_text": "T"
+      },
+      {
+        "option_label": "(ii)",
+        "option_text": ""
+      },
+      {
+        "option_label": "(iii)",
+        "option_text": ""
+      },
+      {
+        "option_label": "(iv)",
+        "option_text": "0"
+      }
+    ],
+    "correct_option": "(i)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "When a particle connected to a string revolves in a circular path around a centre, the centripetal force is provided by the tension produced in the string. Hence, in the given case, the net force on the particle is the tension T.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the net force on the particle is T.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of the concept of centripetal force.",
+    "topics_tags": [
+      "Centripetal Force",
+      "Circular Motion",
+      "Tension"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.5",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 5,
+    "chapter_name": "laws of motion",
+    "question_type": "numerical",
+    "question_text": "A constant retarding force of 50 N is applied to a body of mass 20 kg moving initially with a speed of 15 m/s. How long does the body take to stop?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Using Newton’s second law of motion, the acceleration (a) produced in the body can be calculated as: F = ma, which gives a = -2.5 m/s². Using the first equation of motion, the time (t) taken by the body to come to rest can be calculated as: v = u + at.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate acceleration using F = ma.",
+        "expression": "a = \\frac{-50}{20} = -2.5 \\text{ m/s}^2"
+      },
+      {
+        "step_number": 2,
+        "description": "Use the first equation of motion to find time.",
+        "expression": "0 = 15 + (-2.5)t"
+      },
+      {
+        "step_number": 3,
+        "description": "Solve for t.",
+        "expression": "t = \\frac{15}{2.5} = 6 \\text{ s}"
+      }
+    ],
+    "final_answer": "Therefore, the body takes 6 seconds to stop.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of Newton's laws and application of equations of motion.",
+    "topics_tags": [
+      "Newton's Laws",
+      "Retarding Force",
+      "Equations of Motion"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.6",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 5,
+    "chapter_name": "laws of motion",
+    "question_type": "mcq",
+    "question_text": "A constant force acting on a body of mass 3.0 kg changes its speed from 2.0 m/s to 3.5 m/s in 25 s. What is the magnitude and direction of the force?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": "(A)",
+    "question_image": {
+      "present": true,
+      "description": "Mathematical derivation showing the calculation of acceleration and force.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758372/ncert/physics/5/img_6_0.png",
+      "latex_extracted": "\\begin{array}{c}{{\\therefore a=\\frac{V-u}{25}~~~~}}\\\\ {{t~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~=\\frac{3.5}{25}=0.06~~{\\mathrm{m/s}}^{2}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Using the first equation of motion, the acceleration (a) produced in the body can be calculated as: a = (3.5 - 2.0) / 25 = 0.06 m/s². As per Newton’s second law of motion, force is given as: F = ma = 3 × 0.06 = 0.18 N.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate acceleration using the change in speed over time.",
+        "expression": "a = \\frac{3.5 - 2.0}{25} = 0.06 \\text{ m/s}^2"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate force using F = ma.",
+        "expression": "F = 3 \\times 0.06 = 0.18 \\text{ N}"
+      }
+    ],
+    "final_answer": "Thus, the magnitude of the force is 0.18 N, in the direction of motion of the body.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves calculation of acceleration and application of Newton's second law.",
+    "topics_tags": [
+      "Force",
+      "Acceleration",
+      "Newton's Laws"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical derivation showing the calculation of acceleration and force.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758372/ncert/physics/5/img_6_0.png",
+        "latex_extracted": "\\begin{array}{c}{{\\therefore a=\\frac{V-u}{25}~~~~}}\\\\ {{t~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~=\\frac{3.5}{25}=0.06~~{\\mathrm{m/s}}^{2}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.7",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 5,
+    "chapter_name": "laws of motion",
+    "question_type": "numerical",
+    "question_text": "A body of mass 5 kg is acted upon by two perpendicular forces 8 N and 6 N. Give the magnitude and direction of the acceleration of the body.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram representing the resultant of two perpendicular forces acting on a body.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758376/ncert/physics/5/img_7_0.png",
+      "latex_extracted": "\\left.\\left.\\begin{array}{c}{{\\delta N\\left|}}\\\\ {{\\mathrm{~soly}\\left|}}\\\\ {{\\left|\\displaystyle\\sqrt{\\langle\\displaystyle\\sum_{\\infty}^{\\theta}\\sum_{\\mathrm{~i>}}}\\right|}}\\end{array}\\right.",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The acceleration of the body is 2 m/s² at an angle of 37° with respect to the force of 8 N.",
+    "answer_latex": "a = 2 \\, \\text{m/s}^2, \\theta = 37^{\\circ}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the resultant force using Pythagorean theorem.",
+        "expression": "R = \\sqrt{8^2 + 6^2} = 10 \\, \\text{N}"
+      },
+      {
+        "step_number": 2,
+        "description": "Use Newton's second law to find acceleration.",
+        "expression": "a = \\frac{F}{m} = \\frac{10}{5} = 2 \\, \\text{m/s}^2"
+      },
+      {
+        "step_number": 3,
+        "description": "Determine the angle of acceleration with respect to the force of 8 N.",
+        "expression": "\\theta = \\tan^{-1}\\left(\\frac{6}{8}\\right) = 37^{\\circ}"
+      }
+    ],
+    "final_answer": "Therefore, the acceleration of the body is 2 m/s² at an angle of 37°.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multi-step calculations and application of Newton's laws.",
+    "topics_tags": [
+      "Newton's Second Law",
+      "Acceleration",
+      "Forces"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram representing the resultant of two perpendicular forces acting on a body.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758376/ncert/physics/5/img_7_0.png",
+        "latex_extracted": "\\left.\\left.\\begin{array}{c}{{\\delta N\\left|}}\\\\ {{\\mathrm{~soly}\\left|}}\\\\ {{\\left|\\displaystyle\\sqrt{\\langle\\displaystyle\\sum_{\\infty}^{\\theta}\\sum_{\\mathrm{~i>}}}\\right|}}\\end{array}\\right.",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.8",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 5,
+    "chapter_name": "laws of motion",
+    "question_type": "numerical",
+    "question_text": "The driver of a three-wheeler moving with a speed of 36 km/h sees a child standing in the middle of the road and brings his vehicle to rest in 4.0 s just in time to save the child. What is the average retarding force on the vehicle? The mass of the three-wheeler is 400 kg and the mass of the driver is 65 kg.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The average retarding force on the vehicle is -1162.5 N.",
+    "answer_latex": "F = -1162.5 \\, \\text{N}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Convert initial speed from km/h to m/s.",
+        "expression": "u = 36 \\, \\text{km/h} = 10 \\, \\text{m/s}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate total mass of the system.",
+        "expression": "M = 400 + 65 = 465 \\, \\text{kg}"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate acceleration using the formula v = u + at.",
+        "expression": "a = \\frac{v - u}{t} = \\frac{0 - 10}{4} = -2.5 \\, \\text{m/s}^2"
+      },
+      {
+        "step_number": 4,
+        "description": "Calculate the retarding force using F = Ma.",
+        "expression": "F = 465 \\times (-2.5) = -1162.5 \\, \\text{N}"
+      }
+    ],
+    "final_answer": "Thus, the average retarding force on the vehicle is -1162.5 N.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires basic application of kinematic equations and Newton's laws.",
+    "topics_tags": [
+      "Retarding Force",
+      "Kinematics",
+      "Newton's Laws"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.9",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 5,
+    "chapter_name": "laws of motion",
+    "question_type": "mcq",
+    "question_text": "A rocket with a lift-off mass 20,000 kg is blasted upwards with an initial acceleration of 5.0 m s–2. Calculate the initial thrust (force) of the blast.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The initial thrust of the blast is 3 × 10^5 N.",
+    "answer_latex": "F = 3 \\times 10^5 \\, \\text{N}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the net force (thrust) using F = m(g + a).",
+        "expression": "F = 20000 \\times (10 + 5)"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values to find thrust.",
+        "expression": "F = 20000 \\times 15 = 300000"
+      }
+    ],
+    "final_answer": "Therefore, the initial thrust of the blast is 3 × 10^5 N.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves straightforward application of Newton's second law.",
+    "topics_tags": [
+      "Thrust",
+      "Rocket Motion",
+      "Newton's Laws"
+    ],
+    "confidence_score": 0.97,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.10",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 5,
+    "chapter_name": "laws of motion",
+    "question_type": "mcq",
+    "question_text": "A truck starts from rest and accelerates uniformly at 2.0 m/s². At t = 10 s, a stone is dropped by a person standing on the top of the truck (6 m high from the ground). What are the (a) velocity, and (b) acceleration of the stone at t = 11 s? (Neglect air resistance.)",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "velocity, and"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "acceleration of the stone at t = 11 s? (Neglect air resistance.)"
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of the first equation of motion for the stone's vertical motion.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758382/ncert/physics/5/img_12_0.png",
+      "latex_extracted": "\\left.\\begin{array}{c}{{\\frac{v_{x}}{\\searrow\\binom{v_{y}}{\\rceil}}\\sum_{i}}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}_{\\rightarrow}\\q{\\downarrow}_{v}}}\\end{array}\\right.",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "What is the velocity of the stone at t = 11 s?",
+        "part_latex": null,
+        "answer_text": "The velocity of the stone at t = 11 s is 22.36 m/s at an angle of 26.57° with the motion of the truck.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the final velocity of the truck at t = 10 s.",
+            "expression": "v = u + at = 0 + 2 * 10 = 20 m/s"
+          },
+          {
+            "step_number": 2,
+            "description": "Determine the vertical component of the stone's velocity after 1 second of free fall.",
+            "expression": "v_y = 0 + 10 * 1 = 10 m/s"
+          },
+          {
+            "step_number": 3,
+            "description": "Calculate the resultant velocity of the stone using Pythagorean theorem.",
+            "expression": "v = \\sqrt{(20)^2 + (10)^2} = \\sqrt{400 + 100} = 22.36 m/s"
+          }
+        ],
+        "final_answer": "Thus, the velocity of the stone at t = 11 s is 22.36 m/s at an angle of 26.57°.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "What is the acceleration of the stone at t = 11 s?",
+        "part_latex": null,
+        "answer_text": "The acceleration of the stone at t = 11 s is 10 m/s².",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify that the only force acting on the stone is gravity.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "State the acceleration due to gravity.",
+            "expression": "a = g = 10 m/s²"
+          }
+        ],
+        "final_answer": "Therefore, the acceleration of the stone at t = 11 s is 10 m/s².",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps of calculation and understanding of motion equations.",
+    "topics_tags": [
+      "Motion",
+      "Acceleration",
+      "Velocity"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the first equation of motion for the stone's vertical motion.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758382/ncert/physics/5/img_12_0.png",
+        "latex_extracted": "\\left.\\begin{array}{c}{{\\frac{v_{x}}{\\searrow\\binom{v_{y}}{\\rceil}}\\sum_{i}}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}}\\\\ {{\\downarrow}_{\\rightarrow}\\q{\\downarrow}_{v}}}\\end{array}\\right.",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.11",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 5,
+    "chapter_name": "laws of motion",
+    "question_type": "mcq",
+    "question_text": "A bob of mass 0.1 kg hung from the ceiling of a room by a string 2 m long is set into oscillation. The speed of the bob at its mean position is 1 m/s. What is the trajectory of the bob if the string is cut when the bob is (a) at one of its extreme positions, (b) at its mean position.",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "at one of its extreme positions,"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "at its mean position."
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "What is the trajectory of the bob if the string is cut at one of its extreme positions?",
+        "part_latex": null,
+        "answer_text": "At the extreme position, the velocity of the bob becomes zero. If the string is cut at this moment, then the bob will fall vertically on the ground.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Therefore, the trajectory will be vertically downward.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "What is the trajectory of the bob if the string is cut at its mean position?",
+        "part_latex": null,
+        "answer_text": "At the mean position, the velocity of the bob is 1 m/s. The direction of this velocity is tangential to the arc formed by the oscillating bob. If the bob is cut at the mean position, then it will trace a projectile path having the horizontal component of velocity only.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Hence, it will follow a parabolic path.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of projectile motion and oscillation concepts.",
+    "topics_tags": [
+      "Oscillation",
+      "Projectile Motion",
+      "Gravity"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.12",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 5,
+    "chapter_name": "laws of motion",
+    "question_type": "numerical",
+    "question_text": "A man of mass 70 kg stands on a weighing scale in a lift which is moving upwards with a uniform speed of 10 m/s, downwards with a uniform acceleration of 5 m/s², upwards with a uniform acceleration of 5 m/s². What would be the readings on the scale in each case? What would be the reading if the lift mechanism failed and it hurtled down freely under gravity?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "1. When the lift moves upwards with uniform speed: R = mg = 70 × 10 = 700 N. 2. When the lift moves downwards with uniform acceleration: R = m(g - a) = 70(10 - 5) = 350 N. 3. When the lift moves upwards with uniform acceleration: R = m(g + a) = 70(10 + 5) = 1050 N. 4. When the lift moves freely under gravity: R = 0, the man will be in a state of weightlessness.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate reading when lift moves upwards with uniform speed.",
+        "expression": "R = mg = 70 \\times 10 = 700 \\text{ N}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate reading when lift moves downwards with uniform acceleration.",
+        "expression": "R = m(g - a) = 70(10 - 5) = 350 \\text{ N}"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate reading when lift moves upwards with uniform acceleration.",
+        "expression": "R = m(g + a) = 70(10 + 5) = 1050 \\text{ N}"
+      },
+      {
+        "step_number": 4,
+        "description": "Calculate reading when lift moves freely under gravity.",
+        "expression": "R = 0"
+      }
+    ],
+    "final_answer": "Therefore, the readings on the scale are 700 N, 350 N, 1050 N, and 0 N respectively.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple applications of Newton's laws in different scenarios.",
+    "topics_tags": [
+      "Newton's Laws",
+      "Lift Mechanics",
+      "Weight"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.13",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 5,
+    "chapter_name": "laws of motion",
+    "question_type": "mcq",
+    "question_text": "Figure 5.16 shows the position-time graph of a particle of mass 4 kg. What is the (a) force on the particle for t < 0, t > 4 s, 0 < t < 4 s? (b) impulse at t = 0 and t = 4 s? (Consider one-dimensional motion only).",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "force on the particle for t < 0, t > 4 s, 0 < t < 4 s?"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "impulse at t = 0 and t = 4 s? (Consider one-dimensional motion only)."
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Position-time graph of a particle of mass 4 kg.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758387/ncert/physics/5/img_15_0.png",
+      "latex_extracted": "\\left.\\begin{array}{c}{{x^{(m)}\\Lambda}}\\\\ {{\\frac{1}{\\sqrt{2}}\\displaystyle\\sum_{4}\\frac{1}{\\l}\\ast}}\\\\ {{\\frac{1}{\\l}}}\\end{array}\\right.",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Requires understanding of force and impulse concepts from a graph.",
+    "topics_tags": [
+      "Force",
+      "Impulse",
+      "Graph Analysis"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Position-time graph of a particle of mass 4 kg.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758387/ncert/physics/5/img_15_0.png",
+        "latex_extracted": "\\left.\\begin{array}{c}{{x^{(m)}\\Lambda}}\\\\ {{\\frac{1}{\\sqrt{2}}\\displaystyle\\sum_{4}\\frac{1}{\\l}\\ast}}\\\\ {{\\frac{1}{\\l}}}\\end{array}\\right.",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.14",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 5,
+    "chapter_name": "laws of motion",
+    "question_type": "conceptual",
+    "question_text": "For t < 0, it can be observed from the given graph that the position of the particle is coincident with the time axis. It indicates that the displacement of the particle in this time interval is zero. Hence, the force acting on the particle is zero. For t > 4 s, it can be observed from the given graph that the position of the particle is parallel to the time axis. It indicates that the particle is at rest at a distance of 3 m from the origin. Hence, no force is acting on the particle. For 0 < t < 4, it can be observed that the given position-time graph has a constant slope. Hence, the acceleration produced in the particle is zero. Therefore, the force acting on the particle is zero.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of motion and forces based on graph interpretation.",
+    "topics_tags": [
+      "Force",
+      "Motion",
+      "Graph Interpretation"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "text garbled in extraction"
+    ],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.15",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 5,
+    "chapter_name": "laws of motion",
+    "question_type": "numerical",
+    "question_text": "Two bodies of masses 10 kg and 20 kg respectively kept on a smooth, horizontal surface are tied to the ends of a light string. A horizontal force F = 600 N is applied to (i) A, (ii) B along the direction of string. What is the tension in the string in each case?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the setup of two masses connected by a string on a smooth surface.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758388/ncert/physics/5/img_17_0.jpg",
+      "latex_extracted": "{\\overline{{\\prod_{B}}}}\\prod_{\\={\\frac{V}{\\lfloor\\pm\\hbar\\rfloor\\longrightarrow}}}{\\frac{r}{\\mapsto\\Delta\\ln\\left(\\frac{L}{\\tan\\left(\\frac{L}{\\tan\\left(\\frac{L}{\\sin\\left(\\frac{L}{\\sin}}\\right)}}}}\\Rightarrow\\right.",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "When force F is applied on body A:",
+        "part_latex": null,
+        "answer_text": "The tension in the string when the force is applied on body A is 400 N.",
+        "answer_latex": "T = 600 - 10 \\times 20 = 400 \\text{ N}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Apply Newton's second law to find the tension.",
+            "expression": "F - T = m_1 a"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the values to find T.",
+            "expression": "T = 600 - 10 \\times 20"
+          }
+        ],
+        "final_answer": "Therefore, the tension in the string when the force is applied on body A is 400 N.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "When force F is applied on body B:",
+        "part_latex": null,
+        "answer_text": "The tension in the string when the force is applied on body B is 200 N.",
+        "answer_latex": "T = 600 - 20 \\times 20 = 200 \\text{ N}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Apply Newton's second law to find the tension.",
+            "expression": "F - T = m_2 a"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the values to find T.",
+            "expression": "T = 600 - 20 \\times 20"
+          }
+        ],
+        "final_answer": "Therefore, the tension in the string when the force is applied on body B is 200 N.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves application of Newton's laws and calculations for two scenarios.",
+    "topics_tags": [
+      "Tension",
+      "Newton's Laws",
+      "Forces"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the setup of two masses connected by a string on a smooth surface.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758388/ncert/physics/5/img_17_0.jpg",
+        "latex_extracted": "{\\overline{{\\prod_{B}}}}\\prod_{\\={\\frac{V}{\\lfloor\\pm\\hbar\\rfloor\\longrightarrow}}}{\\frac{r}{\\mapsto\\Delta\\ln\\left(\\frac{L}{\\tan\\left(\\frac{L}{\\tan\\left(\\frac{L}{\\sin\\left(\\frac{L}{\\sin}}\\right)}}}}\\Rightarrow\\right.",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [],
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    }
+  },
+  {
+    "question_id": "Q5.16",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 5,
+    "chapter_name": "laws of motion",
+    "question_type": "numerical",
+    "question_text": "Two masses 8 kg and 12 kg are connected at the two ends of a light inextensible string that goes over a frictionless pulley. Find the acceleration of the masses, and the tension in the string when the masses are released.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing two masses connected by a string over a pulley.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758390/ncert/physics/5/img_18_0.jpg",
+      "latex_extracted": "\\left.\\frac{J^{5}}{\\longrightarrow\\mathrm{\\frac{U_{1}\\mu}{\\ell_{1}\\beta_{2}}}\\right|_{\\mathrm{\\scriptsize{J}}}r\\quad\\left.\\frac{m_{2}\\alpha}{\\ell_{1}\\frac{\\ell_{1}\\Delta}{\\ell_{2}\\Delta}\\right|}}{\\downarrow\\leq\\ell_{1}\\frac{m_{2}\\alpha}{\\downarrow\\Delta\\downarrow}}\\right|}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of dynamics and calculations for two masses.",
+    "topics_tags": [
+      "Pulley System",
+      "Acceleration",
+      "Tension"
+    ],
+    "confidence_score": 0.88,
+    "confidence_issues": [
+      "text garbled in extraction"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing two masses connected by a string over a pulley.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758390/ncert/physics/5/img_18_0.jpg",
+        "latex_extracted": "\\left.\\frac{J^{5}}{\\longrightarrow\\mathrm{\\frac{U_{1}\\mu}{\\ell_{1}\\beta_{2}}}\\right|_{\\mathrm{\\scriptsize{J}}}r\\quad\\left.\\frac{m_{2}\\alpha}{\\ell_{1}\\frac{\\ell_{1}\\Delta}{\\ell_{2}\\Delta}\\right|}}{\\downarrow\\leq\\ell_{1}\\frac{m_{2}\\alpha}{\\downarrow\\Delta\\downarrow}}\\right|}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.17",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 5,
+    "chapter_name": "laws of motion",
+    "question_type": "conceptual",
+    "question_text": "A nucleus is at rest in the laboratory frame of reference. Show that if it disintegrates into two smaller nuclei the products must move in opposite directions.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Let m1, m2, and m be the respective masses of the parent nucleus and the two daughter nuclei. The parent nucleus is at rest. Initial momentum of the system (parent nucleus) = 0. Let v1 and v2 be the respective velocities of the daughter nuclei having masses m1 and m2. Total linear momentum of the system after disintegration = m1v1 + m2v2. According to the law of conservation of momentum: Total initial momentum = Total final momentum. Here, the negative sign indicates that the fragments of the parent nucleus move in directions opposite to each other.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the products must move in opposite directions.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of conservation of momentum and basic application.",
+    "topics_tags": [
+      "Conservation of Momentum",
+      "Nuclear Physics",
+      "Disintegration"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.18",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 5,
+    "chapter_name": "laws of motion",
+    "question_type": "numerical",
+    "question_text": "Two billiard balls each of mass 0.05 kg moving in opposite directions with speed 6 m/s collide and rebound with the same speed. What is the impulse imparted to each ball due to the other?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Impulse imparted to each ball = Change in the momentum of the system = p_f - p_i = -0.3 - 0.3 = -0.6 kg m/s. The negative sign indicates that the impulses imparted to the balls are opposite in direction.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the initial momentum of each ball.",
+        "expression": "p_i = m \\cdot v = 0.05 \\cdot 6 = 0.3 \\text{ kg m/s}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the final momentum of each ball after collision.",
+        "expression": "p_f = -0.3 \\text{ kg m/s}"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the impulse imparted to each ball.",
+        "expression": "Impulse = p_f - p_i = -0.3 - 0.3 = -0.6 \\text{ kg m/s}"
+      }
+    ],
+    "final_answer": "Therefore, the impulse imparted to each ball is -0.6 kg m/s.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic calculations and understanding of impulse.",
+    "topics_tags": [
+      "Impulse",
+      "Momentum",
+      "Collision"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.19",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 5,
+    "chapter_name": "laws of motion",
+    "question_type": "numerical",
+    "question_text": "A shell of mass 0.020 kg is fired by a gun of mass 100 kg. If the muzzle speed of the shell is 80 m/s, what is the recoil speed of the gun?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Using conservation of momentum, the recoil speed of the gun can be calculated as follows: 0 = m_{gun} \\cdot v_{gun} + m_{shell} \\cdot v_{shell}. Therefore, v_{gun} = -\\frac{m_{shell} \\cdot v_{shell}}{m_{gun}} = -\\frac{0.020 \\cdot 80}{100} = -0.016 \\text{ m/s}. The negative sign indicates the gun recoils in the opposite direction.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set up the conservation of momentum equation.",
+        "expression": "0 = m_{gun} \\cdot v_{gun} + m_{shell} \\cdot v_{shell}"
+      },
+      {
+        "step_number": 2,
+        "description": "Rearrange to find the recoil speed of the gun.",
+        "expression": "v_{gun} = -\\frac{m_{shell} \\cdot v_{shell}}{m_{gun}}"
+      },
+      {
+        "step_number": 3,
+        "description": "Substitute the values into the equation.",
+        "expression": "v_{gun} = -\\frac{0.020 \\cdot 80}{100} = -0.016"
+      }
+    ],
+    "final_answer": "Thus, the recoil speed of the gun is -0.016 m/s.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of conservation of momentum and calculations.",
+    "topics_tags": [
+      "Recoil",
+      "Conservation of Momentum",
+      "Projectile Motion"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.20",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 5,
+    "chapter_name": "laws of motion",
+    "question_type": "numerical",
+    "question_text": "A batsman deflects a ball by an angle of 45° without changing its initial speed which is equal to 54 km/h. What is the impulse imparted to the ball? (Mass of the ball is 0.15 kg.)",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the situation of the ball being deflected by the batsman.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758401/ncert/physics/5/img_22_0.png",
+      "latex_extracted": "\\begin{array}{r}{\\therefore{\\mathcal{V}}={\\frac{m\\nu}{M}}}\\\\ {M}\\\\ {\\quad}&{{}={\\frac{0.020\\times80}{100\\times1000}}=0.016\\ \\mathrm{m/S}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Impulse imparted to the ball = Change in the linear momentum of the ball.",
+    "answer_latex": "Impulse = 2 \\times 0.15 \\times 15 \\cos(22.5^{\\circ}) = 4.16 \\text{ kg m/s}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Convert the speed from km/h to m/s.",
+        "expression": "54 \\text{ km/h} = 15 \\text{ m/s}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the impulse using the formula for change in momentum.",
+        "expression": "Impulse = 2 \\times 0.15 \\times 15 \\cos(22.5^{\\circ})"
+      }
+    ],
+    "final_answer": "Therefore, the impulse imparted to the ball is 4.16 kg m/s.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of impulse and basic trigonometry.",
+    "topics_tags": [
+      "Impulse",
+      "Momentum",
+      "Deflection"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the situation of the ball being deflected by the batsman.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758401/ncert/physics/5/img_22_0.png",
+        "latex_extracted": "\\begin{array}{r}{\\therefore{\\mathcal{V}}={\\frac{m\\nu}{M}}}\\\\ {M}\\\\ {\\quad}&{{}={\\frac{0.020\\times80}{100\\times1000}}=0.016\\ \\mathrm{m/S}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.21",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 5,
+    "chapter_name": "laws of motion",
+    "question_type": "numerical",
+    "question_text": "A stone of mass 0.25 kg tied to the end of a string is whirled round in a circle of radius 1.5 m with a speed of 40 rev/min in a horizontal plane. What is the tension in the string? What is the maximum speed with which the stone can be whirled around if the string can withstand a maximum tension of 200 N?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram illustrating the tension in the string while whirling the stone.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758410/ncert/physics/5/img_24_0.png",
+      "latex_extracted": "\\begin{array}{l}{{\\begin{array}{l}{{T=F_{\\mathrm{congedr}}}}\\\\ {{\\frac{\\scriptstyle}{\\scriptstyle}=\\displaystyle{m r}\\sigma^{2}=m r\\left(2\\pi n\\right)^{2}}}\\\\ {{\\qquad~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~=6.57\\mathrm{~N~}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The maximum speed of the stone is 34.64 m/s.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the angular velocity from the given revolutions per minute.",
+        "expression": "40 \\text{ rev/min} = \\frac{40 \\times 2\\pi}{60} \\text{ rad/s}"
+      },
+      {
+        "step_number": 2,
+        "description": "Use the centripetal force formula to find the tension in the string.",
+        "expression": "T = \\frac{m v^2}{r}"
+      },
+      {
+        "step_number": 3,
+        "description": "Determine the maximum speed using the maximum tension.",
+        "expression": "v_{max} = \\sqrt{T_{max} \\cdot r}"
+      }
+    ],
+    "final_answer": "Therefore, the maximum speed of the stone is 34.64 m/s.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps and application of centripetal force concepts.",
+    "topics_tags": [
+      "Centripetal Force",
+      "Tension",
+      "Circular Motion"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram illustrating the tension in the string while whirling the stone.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758410/ncert/physics/5/img_24_0.png",
+        "latex_extracted": "\\begin{array}{l}{{\\begin{array}{l}{{T=F_{\\mathrm{congedr}}}}\\\\ {{\\frac{\\scriptstyle}{\\scriptstyle}=\\displaystyle{m r}\\sigma^{2}=m r\\left(2\\pi n\\right)^{2}}}\\\\ {{\\qquad~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~=6.57\\mathrm{~N~}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.22",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 5,
+    "chapter_name": "laws of motion",
+    "question_type": "mcq",
+    "question_text": "If, in Exercise 5.21, the speed of the stone is increased beyond the maximum permissible value, and the string breaks suddenly, which of the following correctly describes the trajectory of the stone after the string breaks?",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(1)",
+        "option_text": "the stone moves radially outwards"
+      },
+      {
+        "option_label": "(2)",
+        "option_text": "the stone flies off tangentially from the instant the string breaks"
+      },
+      {
+        "option_label": "(3)",
+        "option_text": "the stone flies off at an angle with the tangent whose magnitude depends on the speed of the particle"
+      }
+    ],
+    "correct_option": "(2)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "When the string breaks, the stone will move in the direction of the velocity at that instant. According to the first law of motion, the direction of velocity vector is tangential to the path of the stone at that instant. Hence, the stone will fly off tangentially from the instant the string breaks.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the stone flies off tangentially from the instant the string breaks.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of the first law of motion and its application to the scenario.",
+    "topics_tags": [
+      "Newton's First Law",
+      "Motion",
+      "Trajectory"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.23",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 5,
+    "chapter_name": "laws of motion",
+    "question_type": "multipart",
+    "question_text": "Explain why: a horse cannot pull a cart and run in empty space, passengers are thrown forward from their seats when a speeding bus stops suddenly, it is easier to pull a lawn mower than to push it, a cricketer moves his hands backwards while holding a catch.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "a horse cannot pull a cart and run in empty space",
+        "part_latex": null,
+        "answer_text": "In order to pull a cart, a horse pushes the ground backward with some force. The ground in turn exerts an equal and opposite reaction force upon the feet of the horse. An empty space is devoid of any such reaction force. Therefore, a horse cannot pull a cart and run in empty space.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, a horse cannot pull a cart in empty space due to the lack of reaction force.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "passengers are thrown forward from their seats when a speeding bus stops suddenly",
+        "part_latex": null,
+        "answer_text": "When a speeding bus stops suddenly, the lower portion of a passenger’s body, which is in contact with the seat, suddenly comes to rest. However, the upper portion tends to remain in motion (as per the first law of motion). As a result, the passenger’s upper body is thrown forward in the direction in which the bus was moving.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Therefore, passengers are thrown forward due to inertia.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "it is easier to pull a lawn mower than to push it",
+        "part_latex": null,
+        "answer_text": "While pulling a lawn mower, a force at an angle θ is applied on it, which has a vertical component that acts upward, reducing the effective weight of the mower. In contrast, while pushing, the vertical component of the applied force acts downward, increasing the effective weight. Hence, pulling is easier.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, pulling a lawn mower is easier than pushing it due to the effective weight difference.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(d)",
+        "part_text": "a cricketer moves his hands backwards while holding a catch",
+        "part_latex": null,
+        "answer_text": "While taking a catch, a cricketer moves his hand backward to increase the time of impact (Δt). This results in a decrease in the stopping force, thereby preventing the hands of the cricketer from getting hurt.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Therefore, moving hands backward reduces the impact force.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of multiple concepts of motion and forces.",
+    "topics_tags": [
+      "Newton's Laws",
+      "Inertia",
+      "Forces",
+      "Motion"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.24",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 5,
+    "chapter_name": "laws of motion",
+    "question_type": "conceptual",
+    "question_text": "Figure 5.18 shows a man standing stationary with respect to a horizontal conveyor belt that is accelerating with 1 m/s². What is the net force on the man? If the coefficient of static friction between the man's shoes and the belt is 0.2, up to what acceleration of the belt can the man continue to be stationary relative to the belt? (Mass of the man = 65 kg.)",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Figure showing a man standing on an accelerating conveyor belt.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758428/ncert/physics/5/img_28_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The net force F, acting on the man is given by Newton’s second law of motion as: F = 65 × 1 = 65 N. The man will continue to be stationary with respect to the conveyor belt until the net force on the man is less than or equal to the frictional force f, exerted by the belt, i.e., a' = 0.2 × 10 = 2 m/s². Therefore, the maximum acceleration of the belt up to which the man can stand stationary is 2 m/s².",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the net force acting on the man using Newton's second law.",
+        "expression": "F = m \\cdot a = 65 \\cdot 1 = 65 \\text{ N}"
+      },
+      {
+        "step_number": 2,
+        "description": "Determine the maximum acceleration of the belt using the coefficient of static friction.",
+        "expression": "a' = \\mu \\cdot g = 0.2 \\cdot 10 = 2 \\text{ m/s}^2"
+      }
+    ],
+    "final_answer": "Therefore, the maximum acceleration of the belt up to which the man can stand stationary is 2 m/s².",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of Newton's laws and basic friction concepts.",
+    "topics_tags": [
+      "Newton's Laws",
+      "Friction",
+      "Acceleration"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Figure showing a man standing on an accelerating conveyor belt.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758428/ncert/physics/5/img_28_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.25",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 5,
+    "chapter_name": "laws of motion",
+    "question_type": "numerical",
+    "question_text": "A helicopter of mass 1000 kg rises with a vertical acceleration of 15 m s–2. The crew and the passengers weigh 300 kg. Give the magnitude and direction of the force on the floor by the crew and passengers, action of the rotor of the helicopter on the surrounding air, force on the helicopter due to the surrounding air.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The force on the floor by the crew and passengers is 7500 N, directed downward. The action of the rotor on the surrounding air is 32500 N, directed downward. The force on the helicopter due to the surrounding air is 32500 N, directed upward.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the total mass of the system.",
+        "expression": "m = 1000 + 300 = 1300 \text{ kg}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the reaction force on the system by the floor using Newton's second law.",
+        "expression": "R = m(g + a) = 300(10 + 15) = 7500 \text{ N}"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the reaction force experienced by the helicopter from the surrounding air.",
+        "expression": "R' = m(g + a) = 1300(10 + 15) = 32500 \text{ N}"
+      }
+    ],
+    "final_answer": "Therefore, the force on the floor by the crew and passengers is 7500 N downward, and the force on the helicopter due to the surrounding air is 32500 N upward.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations and application of Newton's laws.",
+    "topics_tags": [
+      "Newton's Laws",
+      "Force",
+      "Helicopter Motion"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.26",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 5,
+    "chapter_name": "laws of motion",
+    "question_type": "numerical",
+    "question_text": "A stream of water flowing horizontally with a speed of 15 m s–1 gushes out of a tube of cross-sectional area 10–2 m², and hits a vertical wall nearby. What is the force exerted on the wall by the impact of water, assuming it does not rebound?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of the force exerted by the water on the wall.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758456/ncert/physics/5/img_32_0.png",
+      "latex_extracted": "\\begin{array}{r l}{={\\frac{m\\nu}{t}}}\\\\ {t}&{{}\\qquad}\\\\ {=150\\times15=2250{\\mathrm{~N}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The force exerted by the water on the wall is 2250 N.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the volume of water coming out from the pipe per second.",
+        "expression": "V = Av = 15 \times 10^{-2} \text{ m}^3/\text{s}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the mass of water flowing out through the pipe per second.",
+        "expression": "m = \\rho V = 1000 \times 15 \times 10^{-2} = 150 \text{ kg/s}"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the force exerted by the water on the wall using Newton's second law.",
+        "expression": "F = \\frac{m \\nu}{t} = 150 \times 15 = 2250 \text{ N}"
+      }
+    ],
+    "final_answer": "Thus, the force exerted on the wall by the impact of water is 2250 N.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of momentum and basic calculations.",
+    "topics_tags": [
+      "Fluid Mechanics",
+      "Momentum",
+      "Force"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the force exerted by the water on the wall.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758456/ncert/physics/5/img_32_0.png",
+        "latex_extracted": "\\begin{array}{r l}{={\\frac{m\\nu}{t}}}\\\\ {t}&{{}\\qquad}\\\\ {=150\\times15=2250{\\mathrm{~N}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.27",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 5,
+    "chapter_name": "laws of motion",
+    "question_type": "conceptual",
+    "question_text": "Ten one-rupee coins are put on top of each other on a table. Each coin has a mass m. Give the magnitude and direction of the force on the 7th coin (counted from the bottom) due to all the coins on its top, the force on the 7th coin by the eighth coin, the reaction of the 6th coin on the 7th coin.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The force on the 7th coin due to the three coins on its top is 3mg, directed downward. The force on the 7th coin by the eighth coin is also 3mg, directed downward. The reaction of the 6th coin on the 7th coin is 4mg, directed upward.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the forces are 3mg downward from the top three coins, 3mg downward from the eighth coin, and 4mg upward from the sixth coin.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves understanding of forces and weights in a stacked system.",
+    "topics_tags": [
+      "Forces",
+      "Weight",
+      "Coins"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.30",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 5,
+    "chapter_name": "laws of motion",
+    "question_type": "numerical",
+    "question_text": "An aircraft executes a horizontal loop at a speed of 720 km/h with its wings banked at 15°. What is the radius of the loop?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical relation for calculating the radius of the loop based on speed and angle of banking.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758458/ncert/physics/5/img_34_0.png",
+      "latex_extracted": "\\begin{array}{c}{{r={\\frac{v^{2}}{\\mathrm{gtan}\\,\\theta}}}}\\\\ {{\\mathrm{gtan}\\,\\theta}}\\\\ {{={\\frac{200\\times200}{10\\times\\tan15}}={\\frac{4000}{0.268}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The radius of the loop is approximately 14.92 km.",
+    "answer_latex": "r = 14925.37 \text{ m} = 14.92 \text{ km}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Convert speed from km/h to m/s.",
+        "expression": "v = 720 \text{ km/h} = 200 \text{ m/s}"
+      },
+      {
+        "step_number": 2,
+        "description": "Use the formula for radius in a banked curve.",
+        "expression": "r = \\frac{v^{2}}{g \\tan \\theta}"
+      },
+      {
+        "step_number": 3,
+        "description": "Substitute the values into the formula.",
+        "expression": "r = \\frac{200^{2}}{10 \\tan(15^{\\circ})}"
+      },
+      {
+        "step_number": 4,
+        "description": "Calculate the radius.",
+        "expression": "r \\approx 14925.37 \text{ m}"
+      }
+    ],
+    "final_answer": "Therefore, the radius of the loop is approximately 14.92 km.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of circular motion and application of the formula.",
+    "topics_tags": [
+      "Circular Motion",
+      "Banked Curves",
+      "Physics of Flight"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical relation for calculating the radius of the loop based on speed and angle of banking.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758458/ncert/physics/5/img_34_0.png",
+        "latex_extracted": "\\begin{array}{c}{{r={\\frac{v^{2}}{\\mathrm{gtan}\\,\\theta}}}}\\\\ {{\\mathrm{gtan}\\,\\theta}}\\\\ {{={\\frac{200\\times200}{10\\times\\tan15}}={\\frac{4000}{0.268}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.31",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 5,
+    "chapter_name": "laws of motion",
+    "question_type": "conceptual",
+    "question_text": "What provides the centripetal force required for a train running along an unbanked circular track?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The centripetal force is provided by the lateral thrust of the rail on the wheel.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the lateral thrust of the rail on the wheel provides the necessary centripetal force.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of forces in circular motion.",
+    "topics_tags": [
+      "Centripetal Force",
+      "Circular Motion",
+      "Train Dynamics"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.32",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 5,
+    "chapter_name": "laws of motion",
+    "question_type": "mcq",
+    "question_text": "Discuss the motion of the block as viewed by (a) a stationary observer on the ground, (b) an observer moving with the trolley.",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "a stationary observer on the ground,"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "an observer moving with the trolley."
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "For a stationary observer on the ground, the block will appear to be at rest because the force of static friction is greater than the applied force. For an observer moving with the trolley, the block will appear to accelerate backward due to the pseudo force acting in the opposite direction.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the block's motion differs based on the observer's frame of reference.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of frames of reference and Newton's laws.",
+    "topics_tags": [
+      "Newton's Laws",
+      "Frames of Reference",
+      "Static Friction"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.33",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 5,
+    "chapter_name": "laws of motion",
+    "question_type": "numerical",
+    "question_text": "At what distance from the starting point does the box fall off the truck?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Figure showing a truck with an open rear side and a box placed inside.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758479/ncert/physics/5/img_42_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The box will fall off the truck when the force of friction is no longer sufficient to keep it in place. The distance can be calculated using the equations of motion.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the force acting on the box due to the truck's acceleration.",
+        "expression": "F = ma = 40 \\times 2 = 80 \\text{ N}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the force of friction acting on the box.",
+        "expression": "f = \\mu mg = 0.15 \\times 40 \\times 10 = 60 \\text{ N}"
+      },
+      {
+        "step_number": 3,
+        "description": "Determine the net force acting on the box and calculate the distance it travels before falling off.",
+        "expression": "s = \\frac{u^2 + 2as}{2} \\text{ (using kinematic equations)}"
+      }
+    ],
+    "final_answer": "The box will fall off the truck after traveling a certain distance determined by the forces acting on it.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of forces acting on the box.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758491/ncert/physics/5/img_42_1.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves calculations and understanding of forces and motion.",
+    "topics_tags": [
+      "Newton's Laws",
+      "Friction",
+      "Motion"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Figure showing a truck with an open rear side and a box placed inside.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758479/ncert/physics/5/img_42_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of forces acting on the box.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758491/ncert/physics/5/img_42_1.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q5.34",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 5,
+    "chapter_name": "laws of motion",
+    "question_type": "conceptual",
+    "question_text": "A disc revolves with a speed of rev/min, and has a radius of 15 cm. Two coins are placed at 4 cm and 14 cm away from the centre of the record. If the coefficient of friction between the coins and the record is 0.15, which of the coins will revolve with the record?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The coin placed at 4 cm will revolve with the record, while the coin at 14 cm will slip.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the frictional force for both coins.",
+        "expression": "f = \\mu mg"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the centripetal force required for both coins.",
+        "expression": "F_{c} = m \\frac{v^2}{r}"
+      },
+      {
+        "step_number": 3,
+        "description": "Compare the frictional force and centripetal force for both coins.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the coin at 4 cm will revolve, while the coin at 14 cm will slip.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of motion equations related to the problem.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758493/ncert/physics/5/img_43_0.png",
+      "latex_extracted": "\\begin{array}{c}{{s^{\\prime}=u t+{\\frac{1}{2}}a_{\\mathrm{bss}}t^{2}}}\\\\ {{\\ }}\\\\ {{\\bar{s}=0+{\\frac{1}{2}}\\times0.5\\times t^{2}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of centripetal force and friction concepts.",
+    "topics_tags": [
+      "Centripetal Force",
+      "Friction",
+      "Circular Motion"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of motion equations related to the problem.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758493/ncert/physics/5/img_43_0.png",
+        "latex_extracted": "\\begin{array}{c}{{s^{\\prime}=u t+{\\frac{1}{2}}a_{\\mathrm{bss}}t^{2}}}\\\\ {{\\ }}\\\\ {{\\bar{s}=0+{\\frac{1}{2}}\\times0.5\\times t^{2}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q5.35",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 5,
+    "chapter_name": "laws of motion",
+    "question_type": "conceptual",
+    "question_text": "Explain clearly why the motorcyclist does not drop down when he is at the uppermost point, with no support from below. What is the minimum speed required at the uppermost position to perform a vertical loop if the radius of the chamber is 25 m?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical equations related to centripetal force and normal force.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758495/ncert/physics/5/img_45_0.jpg",
+      "latex_extracted": "\\left(\\begin{array}{c}{{{\\displaystyle\\left.\\chi\\right.\\leq\\exp}^{\\mathrm{{ex}}}\\star}}\\\\ {{\\displaystyle\\downarrow\\leq\\frac{1}{\\Lambda}\\right\\rangle}}\\\\ {{\\displaystyle\\sum_{N}^{\\prime}\\ =\\infty}}\\end{array}\\right)",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The motorcyclist does not fall because the centripetal force is provided by the normal force and weight, which are balanced.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the forces acting on the motorcyclist at the top of the loop.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Set up the equation for centripetal force using the normal force and weight.",
+        "expression": "F_{N} + mg = \\frac{mv^2}{r}"
+      },
+      {
+        "step_number": 3,
+        "description": "Solve for the minimum speed required at the top of the loop.",
+        "expression": "v_{min} = \\sqrt{g r}"
+      }
+    ],
+    "final_answer": "The minimum speed required at the uppermost position is determined by the radius of the chamber.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Involves understanding of forces in circular motion and derivation of speed.",
+    "topics_tags": [
+      "Centripetal Force",
+      "Vertical Loop",
+      "Motion"
+    ],
+    "confidence_score": 0.88,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical equations related to centripetal force and normal force.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758495/ncert/physics/5/img_45_0.jpg",
+        "latex_extracted": "\\left(\\begin{array}{c}{{{\\displaystyle\\left.\\chi\\right.\\leq\\exp}^{\\mathrm{{ex}}}\\star}}\\\\ {{\\displaystyle\\downarrow\\leq\\frac{1}{\\Lambda}\\right\\rangle}}\\\\ {{\\displaystyle\\sum_{N}^{\\prime}\\ =\\infty}}\\end{array}\\right)",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.36",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 5,
+    "chapter_name": "laws of motion",
+    "question_type": "numerical",
+    "question_text": "A 70 kg man stands in contact against the inner wall of a hollow cylindrical drum of radius 3 m rotating about its vertical axis with 200 rev/min. The coefficient of friction between the wall and his clothing is 0.15. What is the minimum rotational speed of the cylinder to enable the man to remain stuck to the wall (without falling) when the floor is suddenly removed?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the relationship between centripetal force and frictional force acting on the man in the rotating drum.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758498/ncert/physics/5/img_46_0.png",
+      "latex_extracted": "\\begin{array}{r}{\\therefore{\\mathcal{V}}_{\\operatorname*{min}}={\\sqrt{r\\mathbf{g}}}}\\\\ {={\\sqrt{25}}\\times10=15.8~{\\mathfrak{m/s}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The minimum rotational speed required for the man to remain stuck to the wall is 15.8 m/s.",
+    "answer_latex": "\\mathcal{V}_{min} = \\sqrt{r g} = \\sqrt{3 \\times 10} = 15.8~\\text{m/s}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the forces acting on the man and set up the equation for centripetal force.",
+        "expression": "mg < \\mu F"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the expression for frictional force and solve for the minimum speed.",
+        "expression": "mg < \\mu m r \\omega^2"
+      },
+      {
+        "step_number": 3,
+        "description": "Rearrange the equation to find the minimum speed.",
+        "expression": "\\mathcal{V}_{min} = \\sqrt{r g}"
+      }
+    ],
+    "final_answer": "Therefore, the minimum rotational speed of the cylinder is 15.8 m/s.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of forces and requires multi-step reasoning to derive the speed.",
+    "topics_tags": [
+      "Centripetal Force",
+      "Friction",
+      "Rotational Motion"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the relationship between centripetal force and frictional force acting on the man in the rotating drum.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758498/ncert/physics/5/img_46_0.png",
+        "latex_extracted": "\\begin{array}{r}{\\therefore{\\mathcal{V}}_{\\operatorname*{min}}={\\sqrt{r\\mathbf{g}}}}\\\\ {={\\sqrt{25}}\\times10=15.8~{\\mathfrak{m/s}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q5.37",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 5,
+    "chapter_name": "laws of motion",
+    "question_type": "conceptual",
+    "question_text": "A thin circular loop of radius R rotates about its vertical diameter with an angular frequency ω. Show that a small bead on the wire loop remains at its lowermost point for certain conditions. What is the angle made by the radius vector joining the centre to the bead with the vertical downward direction?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram illustrating the forces acting on a bead on a rotating circular loop.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758500/ncert/physics/5/img_47_0.png",
+      "latex_extracted": "\\begin{array}{c}{{\\omega_{\\mathrm{min}}=\\sqrt{\\frac{\\mathrm{G}}{\\mu r}}}}\\\\ {{\\mu_{\\mathrm{m}}}}\\\\ {{=\\sqrt{\\frac{\\mathrm{G}}{0.15\\times3}}=4.71\\;\\mathrm{rad\\;s}^{\\circ}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The angle made by the radius vector with the vertical downward direction is θ = cos^{-1}(0.5) = 60°.",
+    "answer_latex": "θ = \\cos^{-1}(0.5) = 60^{\\circ}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set up the equations of motion for the bead on the loop.",
+        "expression": "mg = N \\cos(θ)"
+      },
+      {
+        "step_number": 2,
+        "description": "Relate the normal force to the angular motion of the bead.",
+        "expression": "mlω^2 = N \\sin(θ)"
+      },
+      {
+        "step_number": 3,
+        "description": "Solve for the angle θ using the derived equations.",
+        "expression": "θ = \\cos^{-1}(0.5)"
+      }
+    ],
+    "final_answer": "Thus, the angle made by the radius vector with the vertical is 60°.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of forces in circular motion and involves some derivation.",
+    "topics_tags": [
+      "Rotational Motion",
+      "Circular Loop",
+      "Bead Dynamics"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram illustrating the forces acting on a bead on a rotating circular loop.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777758500/ncert/physics/5/img_47_0.png",
+        "latex_extracted": "\\begin{array}{c}{{\\omega_{\\mathrm{min}}=\\sqrt{\\frac{\\mathrm{G}}{\\mu r}}}}\\\\ {{\\mu_{\\mathrm{m}}}}\\\\ {{=\\sqrt{\\frac{\\mathrm{G}}{0.15\\times3}}=4.71\\;\\mathrm{rad\\;s}^{\\circ}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  }
+]

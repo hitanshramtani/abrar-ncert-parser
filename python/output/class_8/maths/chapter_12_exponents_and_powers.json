@@ -1,0 +1,981 @@
+[
+  {
+    "question_id": "Q12.1",
+    "class": 8,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "exponents and powers",
+    "question_type": "mcq",
+    "question_text": "Evaluate (i) 3^{-2} (ii) (-4)^{-2} (iii) ( - 4)^{-3}",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The value of (i) is 9, (ii) is 1/16, and (iii) is 1/(-64).",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate 3^{-2} which is 1/(3^2) = 1/9.",
+        "expression": "3^{-2} = \frac{1}{3^2} = \frac{1}{9}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate (-4)^{-2} which is 1/((-4)^2) = 1/16.",
+        "expression": "(-4)^{-2} = \frac{1}{(-4)^2} = \frac{1}{16}"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate (-4)^{-3} which is 1/((-4)^3) = 1/(-64).",
+        "expression": "(-4)^{-3} = \frac{1}{(-4)^3} = \frac{1}{-64}"
+      }
+    ],
+    "final_answer": "Thus, the evaluated results are 9, 1/16, and 1/(-64) respectively.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical evaluation of (-4)^{-2} showing the result as 1/16.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777407536/ncert/maths/12/img_1_0.png",
+      "latex_extracted": "\\left(-4\\right)^{-2}={\\frac{1}{\\left(-4\\right)^{2}}}={\\frac{1}{16}}\\qquad\\qquad\\left(a^{-m}={\\frac{1}{a^{m}}}\\right)",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of negative exponents and basic calculations.",
+    "topics_tags": [
+      "Exponents",
+      "Negative Exponents",
+      "Power Notation"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical evaluation of (-4)^{-2} showing the result as 1/16.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777407536/ncert/maths/12/img_1_0.png",
+        "latex_extracted": "\\left(-4\\right)^{-2}={\\frac{1}{\\left(-4\\right)^{2}}}={\\frac{1}{16}}\\qquad\\qquad\\left(a^{-m}={\\frac{1}{a^{m}}}\\right)",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q12.2",
+    "class": 8,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "exponents and powers",
+    "question_type": "mcq",
+    "question_text": "Simplify and express the result in power notation with positive exponent for (i) (-4)^5 · (-4)^8.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical simplification of (-4)^5 · (-4)^8 showing the result as (-4)^{5+8}.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777407538/ncert/maths/12/img_1_1.png",
+      "latex_extracted": "\\left(-4\\right)^{5} \\cdot \\left(-4\\right)^{8} = \\left(-4\\right)^{5+8}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The simplified result is (-4)^{13}.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Apply the property of exponents that states a^m · a^n = a^{m+n}.",
+        "expression": "(-4)^5 · (-4)^8 = (-4)^{5+8}"
+      },
+      {
+        "step_number": 2,
+        "description": "Add the exponents 5 and 8.",
+        "expression": "5 + 8 = 13"
+      }
+    ],
+    "final_answer": "Thus, the result in power notation is (-4)^{13}.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct application of exponent rules.",
+    "topics_tags": [
+      "Exponents",
+      "Power Notation",
+      "Simplification"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical simplification of (-4)^5 · (-4)^8 showing the result as (-4)^{5+8}.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777407538/ncert/maths/12/img_1_1.png",
+        "latex_extracted": "\\left(-4\\right)^{5} \\cdot \\left(-4\\right)^{8} = \\left(-4\\right)^{5+8}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.3",
+    "class": 8,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "exponents and powers",
+    "question_type": "numerical",
+    "question_text": "Evaluate (i) (ii)",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical expression involving exponents and powers.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777407551/ncert/maths/12/img_4_0.png",
+      "latex_extracted": "\\left\\{\\left({\\frac{-2}{3}}\\right)^{2}\\right\\}^{2}=\\left\\{\\left({\\frac{3}{-2}}\\right)^{2}\\right\\}^{2}\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\left(a^{-m}={\\frac{1}{a^{m}}}\\right)",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of exponent rules and basic calculations.",
+    "topics_tags": [
+      "Exponents",
+      "Powers",
+      "Mathematical Evaluation"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical expression involving exponents and powers.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777407551/ncert/maths/12/img_4_0.png",
+        "latex_extracted": "\\left\\{\\left({\\frac{-2}{3}}\\right)^{2}\\right\\}^{2}=\\left\\{\\left({\\frac{3}{-2}}\\right)^{2}\\right\\}^{2}\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\left(a^{-m}={\\frac{1}{a^{m}}}\\right)",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.4",
+    "class": 8,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "exponents and powers",
+    "question_type": "numerical",
+    "question_text": "Find the value of m for which 5^m ÷ 5^{-3} = 5^5.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "m = 2",
+    "answer_latex": "m = 5 - 3 = 2",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set the exponents equal since the bases are the same.",
+        "expression": "m + 3 = 5"
+      },
+      {
+        "step_number": 2,
+        "description": "Solve for m.",
+        "expression": "m = 5 - 3"
+      }
+    ],
+    "final_answer": "Therefore, the value of m is 2.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic algebraic manipulation and understanding of exponent rules.",
+    "topics_tags": [
+      "Exponents",
+      "Algebra",
+      "Equations"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.5",
+    "class": 8,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "exponents and powers",
+    "question_type": "numerical",
+    "question_text": "Simplify. (i) (ii)",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical expressions involving simplification of exponents.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777407575/ncert/maths/12/img_6_0.png",
+      "latex_extracted": "\\begin{array}{c}{{\\left(\\frac{8^{\\prime}}{5^{\\prime}}\\times\\frac{5^{4}}{8^{1}}}}\\\\ {{\\frac{8^{\\prime}}{5^{\\prime}4}}}\\\\ {{\\frac{8^{\\prime}}{5^{\\prime}}}}\\\\ {{\\frac{8^{\\prime}}{5^{\\prime}}}}\\\\ {{\\frac{8^{\\prime}}{12}}}\\end{array}\\right)\\qquad\\qquad\\qquad\\left(a^{m}\\right)}\\\\ {{\\left(a^{m}\\div a^{m}=a^{m-n}\\right)}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps of simplification and understanding of exponent rules.",
+    "topics_tags": [
+      "Exponents",
+      "Simplification",
+      "Mathematical Operations"
+    ],
+    "confidence_score": 0.8,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical expressions involving simplification of exponents.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777407575/ncert/maths/12/img_6_0.png",
+        "latex_extracted": "\\begin{array}{c}{{\\left(\\frac{8^{\\prime}}{5^{\\prime}}\\times\\frac{5^{4}}{8^{1}}}}\\\\ {{\\frac{8^{\\prime}}{5^{\\prime}4}}}\\\\ {{\\frac{8^{\\prime}}{5^{\\prime}}}}\\\\ {{\\frac{8^{\\prime}}{5^{\\prime}}}}\\\\ {{\\frac{8^{\\prime}}{12}}}\\end{array}\\right)\\qquad\\qquad\\qquad\\left(a^{m}\\right)}\\\\ {{\\left(a^{m}\\div a^{m}=a^{m-n}\\right)}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.6",
+    "class": 8,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "exponents and powers",
+    "question_type": "multipart",
+    "question_text": "Express the following numbers in standard form.\n(i) 0.0000000000085 (ii) 0.00000000000942\n(iii) 6020000000000000 (iv) 0.00000000837\n(v) 31860000000",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "0.0000000000085",
+        "part_latex": null,
+        "answer_text": "8.5 x 10^{-12}",
+        "answer_latex": "8.5 \\times 10^{-12}",
+        "steps": [],
+        "final_answer": "Therefore, 0.0000000000085 in standard form is 8.5 x 10^{-12}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "0.00000000000942",
+        "part_latex": null,
+        "answer_text": "9.42 x 10^{-12}",
+        "answer_latex": "9.42 \\times 10^{-12}",
+        "steps": [],
+        "final_answer": "Therefore, 0.00000000000942 in standard form is 9.42 x 10^{-12}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "6020000000000000",
+        "part_latex": null,
+        "answer_text": "6.02 x 10^{15}",
+        "answer_latex": "6.02 \\times 10^{15}",
+        "steps": [],
+        "final_answer": "Therefore, 6020000000000000 in standard form is 6.02 x 10^{15}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iv)",
+        "part_text": "0.00000000837",
+        "part_latex": null,
+        "answer_text": "8.37 x 10^{-9}",
+        "answer_latex": "8.37 \\times 10^{-9}",
+        "steps": [],
+        "final_answer": "Therefore, 0.00000000837 in standard form is 8.37 x 10^{-9}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(v)",
+        "part_text": "31860000000",
+        "part_latex": null,
+        "answer_text": "3.186 x 10^{10}",
+        "answer_latex": "3.186 \\times 10^{10}",
+        "steps": [],
+        "final_answer": "Therefore, 31860000000 in standard form is 3.186 x 10^{10}.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of converting numbers to standard form.",
+    "topics_tags": [
+      "Standard Form",
+      "Exponents",
+      "Powers"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.7",
+    "class": 8,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "exponents and powers",
+    "question_type": "mcq",
+    "question_text": "Express the following numbers in usual form.\n(i) 3.02 x 10-6 (ii) 4.5 x 104\n(iii) 3 x 10-8 (iv) 1.0001 x 109\n(v) 5.8 x 1012 (vi) 3.61492 x 106",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "3.02 x 10-6",
+        "part_latex": null,
+        "answer_text": "0.00000302",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Therefore, 3.02 x 10^{-6} in usual form is 0.00000302.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "4.5 x 104",
+        "part_latex": null,
+        "answer_text": "45000",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Therefore, 4.5 x 10^{4} in usual form is 45000.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "3 x 10-8",
+        "part_latex": null,
+        "answer_text": "0.00000003",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Therefore, 3 x 10^{-8} in usual form is 0.00000003.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iv)",
+        "part_text": "1.0001 x 109",
+        "part_latex": null,
+        "answer_text": "1000100000",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Therefore, 1.0001 x 10^{9} in usual form is 1000100000.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(v)",
+        "part_text": "5.8 x 1012",
+        "part_latex": null,
+        "answer_text": "5800000000000",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Therefore, 5.8 x 10^{12} in usual form is 5800000000000.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(vi)",
+        "part_text": "3.61492 x 106",
+        "part_latex": null,
+        "answer_text": "3614920",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Therefore, 3.61492 x 10^{6} in usual form is 3614920.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of converting numbers to usual form.",
+    "topics_tags": [
+      "Usual Form",
+      "Exponents",
+      "Powers"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.8",
+    "class": 8,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "exponents and powers",
+    "question_type": "multipart",
+    "question_text": "Express the number appearing in the following statements in standard form.\n(i) 1 micron is equal to m.\n(ii) Charge of an electron is 0.000, 000, 000, 000, 000, 000, 16 coulomb.\n(iii) Size of a bacteria is 0.0000005 m\n(iv) Size of a plant cell is 0.00001275 m\n(v) Thickness of a thick paper is 0.07 mm",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "1 micron is equal to m.",
+        "part_latex": null,
+        "answer_text": "1 x 10^{-6}",
+        "answer_latex": "1 \\times 10^{-6}",
+        "steps": [],
+        "final_answer": "Therefore, 1 micron is equal to 1 x 10^{-6} m.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "Charge of an electron is 0.000, 000, 000, 000, 000, 000, 16 coulomb.",
+        "part_latex": null,
+        "answer_text": "1.6 x 10^{-19}",
+        "answer_latex": "1.6 \\times 10^{-19}",
+        "steps": [],
+        "final_answer": "Therefore, the charge of an electron is 1.6 x 10^{-19} coulomb.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "Size of a bacteria is 0.0000005 m",
+        "part_latex": null,
+        "answer_text": "5 x 10^{-7}",
+        "answer_latex": "5 \\times 10^{-7}",
+        "steps": [],
+        "final_answer": "Therefore, the size of a bacteria is 5 x 10^{-7} m.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iv)",
+        "part_text": "Size of a plant cell is 0.00001275 m",
+        "part_latex": null,
+        "answer_text": "1.275 x 10^{-5}",
+        "answer_latex": "1.275 \\times 10^{-5}",
+        "steps": [],
+        "final_answer": "Therefore, the size of a plant cell is 1.275 x 10^{-5} m.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(v)",
+        "part_text": "Thickness of a thick paper is 0.07 mm",
+        "part_latex": null,
+        "answer_text": "7 x 10^{-2}",
+        "answer_latex": "7 \\times 10^{-2}",
+        "steps": [],
+        "final_answer": "Therefore, the thickness of a thick paper is 7 x 10^{-2} mm.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of converting measurements to standard form.",
+    "topics_tags": [
+      "Standard Form",
+      "Measurements",
+      "Exponents"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.9",
+    "class": 8,
+    "subject": "maths",
+    "chapter_number": 12,
+    "chapter_name": "exponents and powers",
+    "question_type": "conceptual",
+    "question_text": "In a stack there are 5 books each of thickness 20 mm and 5 paper sheets each of thickness 0.016 mm. What is the total thickness of the stack?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Total thickness of the stack is calculated by adding the thickness of books and paper sheets.",
+    "answer_latex": "Total = 100 + 0.080 = 100.08 \text{ mm} = 1.0008 \\times 10^{2} \text{ mm}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the thickness of 5 books.",
+        "expression": "5 \\times 20"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the thickness of 5 paper sheets.",
+        "expression": "5 \\times 0.016"
+      },
+      {
+        "step_number": 3,
+        "description": "Add the thickness of books and paper sheets.",
+        "expression": "100 + 0.080"
+      }
+    ],
+    "final_answer": "Therefore, the total thickness of the stack is 1.0008 x 10^{2} mm.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic arithmetic and understanding of units.",
+    "topics_tags": [
+      "Thickness",
+      "Measurement",
+      "Addition"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  }
+]

@@ -1,0 +1,751 @@
+[
+  {
+    "question_id": "Q2.1",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 2,
+    "chapter_name": "polynomials",
+    "question_type": "diagram_based",
+    "question_text": "The graphs of y = p(x) are given in following figure, for some polynomials p(x). Find the number of zeroes of p(x), in each case.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Graphs of polynomials showing their intersections with the x-axis.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777657941/ncert/maths/2/img_1_0.jpg",
+      "latex_extracted": "\\begin{array}{c}{{\\mathbf{v}}}\\\\ {{\\left.{\\frac{1}{\\epsilon_{1}^{+}-1}}\\right.\\cdot\\left|{\\begin{array}{c}{{\\epsilon_{1}^{-}}}\\end{array}\\right|}{\\left.{\\frac{1}{\\epsilon_{1}^{+}-1}}\\right|}}}\\\\ {{\\left.{\\frac{1}{\\epsilon_{1}^{+}-1}}\\right|^{-\\frac{1}{-1}}\\right|{\\frac{-1}{-1}}\\right|^{-\\frac{1}{-1}\\left.-{\\frac{1}{2}}\\right|^{-\\frac{1}{2}}\\left.\\left.\\left.{\\epsilon_{1}^{-}}\\right.\\right|}}}\\\\ {{\\left.{\\frac{1}{\\epsilon_{1}^{+}-1}}\\right|^{-\\frac{1}{-1}}\\right|^{-\\frac{1}{-1}{-1}}\\left|{\\begin{array}{c c c}{-1}\\right|^{-\\frac{1}{-1}{-1}{-1}{-{\\epsilon_{-1}}}{\\epsilon_{1}}\\left|{-{-1}{\\epsilon_{-1}}{\\left|}{\\left|}\\right.{\\right.{\\epsilon_{1}}\\right.}\\right.}}}}\\\\ {{\\right.{\\right|{=1}\\left.{\\left.{\\right.{\\right.}\\right.{\\right.{\\left|{\\left|}\\right.{\\right.{-{1}\\right.{\\left|{\\right.{\\left|{-{\\left|{\\right.{\\frac{",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "Find the number of zeroes of p(x) for the first graph.",
+        "part_latex": null,
+        "answer_text": "The number of zeroes is 0 as the graph does not cut the x-axis at any point.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Therefore, the number of zeroes is 0.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "Find the number of zeroes of p(x) for the second graph.",
+        "part_latex": null,
+        "answer_text": "The number of zeroes is 1 as the graph intersects the x-axis at only 1 point.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Therefore, the number of zeroes is 1.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "Find the number of zeroes of p(x) for the third graph.",
+        "part_latex": null,
+        "answer_text": "The number of zeroes is 3 as the graph intersects the x-axis at 3 points.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Therefore, the number of zeroes is 3.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iv)",
+        "part_text": "Find the number of zeroes of p(x) for the fourth graph.",
+        "part_latex": null,
+        "answer_text": "The number of zeroes is 2 as the graph intersects the x-axis at 2 points.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Therefore, the number of zeroes is 2.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(v)",
+        "part_text": "Find the number of zeroes of p(x) for the fifth graph.",
+        "part_latex": null,
+        "answer_text": "The number of zeroes is 4 as the graph intersects the x-axis at 4 points.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Therefore, the number of zeroes is 4.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of polynomial graphs and their intersections with the x-axis.",
+    "topics_tags": [
+      "Polynomials",
+      "Zeroes",
+      "Graph Interpretation"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Graphs of polynomials showing their intersections with the x-axis.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777657941/ncert/maths/2/img_1_0.jpg",
+        "latex_extracted": "\\begin{array}{c}{{\\mathbf{v}}}\\\\ {{\\left.{\\frac{1}{\\epsilon_{1}^{+}-1}}\\right.\\cdot\\left|{\\begin{array}{c}{{\\epsilon_{1}^{-}}}\\end{array}\\right|}{\\left.{\\frac{1}{\\epsilon_{1}^{+}-1}}\\right|}}}\\\\ {{\\left.{\\frac{1}{\\epsilon_{1}^{+}-1}}\\right|^{-\\frac{1}{-1}}\\right|{\\frac{-1}{-1}}\\right|^{-\\frac{1}{-1}\\left.-{\\frac{1}{2}}\\right|^{-\\frac{1}{2}}\\left.\\left.\\left.{\\epsilon_{1}^{-}}\\right.\\right|}}}\\\\ {{\\left.{\\frac{1}{\\epsilon_{1}^{+}-1}}\\right|^{-\\frac{1}{-1}}\\right|^{-\\frac{1}{-1}{-1}}\\left|{\\begin{array}{c c c}{-1}\\right|^{-\\frac{1}{-1}{-1}{-1}{-{\\epsilon_{-1}}}{\\epsilon_{1}}\\left|{-{-1}{\\epsilon_{-1}}{\\left|}{\\left|}\\right.{\\right.{\\epsilon_{1}}\\right.}\\right.}}}}\\\\ {{\\right.{\\right|{=1}\\left.{\\left.{\\right.{\\right.}\\right.{\\right.{\\left|{\\left|}\\right.{\\right.{-{1}\\right.{\\left|{\\right.{\\left|{-{\\left|{\\right.{\\frac{",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.2",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 2,
+    "chapter_name": "polynomials",
+    "question_type": "conceptual",
+    "question_text": "Divide the polynomial p(x) by the polynomial g(x) and find the quotient and remainder in each of the following:",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Quotient = x - 3, Remainder = 7x - 9.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Perform polynomial long division of p(x) by g(x).",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Identify the quotient and remainder from the division.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, the quotient is x - 3 and the remainder is 7x - 9.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of polynomial division with p(x) and q(x).",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777657997/ncert/maths/2/img_6_0.png",
+      "latex_extracted": "\\begin{array}{r l}{(\\mathrm{i})\\qquad p(x)=x^{5}-3x^{2}+5x-3}\\\\ {q(x)=x^{2}-2}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves polynomial long division which requires multiple steps.",
+    "topics_tags": [
+      "Polynomial Division",
+      "Quotient",
+      "Remainder"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of polynomial division with p(x) and q(x).",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777657997/ncert/maths/2/img_6_0.png",
+        "latex_extracted": "\\begin{array}{r l}{(\\mathrm{i})\\qquad p(x)=x^{5}-3x^{2}+5x-3}\\\\ {q(x)=x^{2}-2}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q2.4",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 2,
+    "chapter_name": "polynomials",
+    "question_type": "conceptual",
+    "question_text": "Verify that the numbers given alongside of the cubic polynomials below are their zeroes. Also verify the relationship between the zeroes and the coefficients in each case.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical expressions related to cubic polynomials and their zeroes.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777658006/ncert/maths/2/img_7_0.png",
+      "latex_extracted": "\\begin{array}{r}{x^{i}-x+1){\\frac{x^{i}+x-3}{x^{i}-{\\frac{3x^{i}}{x^{i}+x^{i}}}+x^{i}}}}\\\\ {x^{i}-{\\frac{x^{i}+x^{i}}{x^{i}+x^{i}}}}\\\\ {-{\\frac{-3x^{i}+3x+5}{x^{i}}}}\\\\ {0{\\frac{-{\\frac{-4}{x^{i}+3x+5}}{x^{5}+x^{5}}}}}\\\\ {0{\\frac{-{\\frac{-4}{x^{5}+3x+5}}{x^{5}-4}}}}\\\\ {0{\\frac{-{\\frac{-4}{x^{5}+3x+5}}{x^{5}+8}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "Verify the zeroes of the polynomial 2x^3 + x^2 - 5x + 2.",
+        "part_latex": null,
+        "answer_text": "Therefore, 1, and -2 are the zeroes of the given polynomial. Comparing the given polynomial with the standard form, we obtain a = 2, b = 1, c = -5, d = 2. Therefore, the relationship between the zeroes and the coefficients is verified.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Substitute the zeroes into the polynomial to verify.",
+            "expression": "p(\\frac{1}{2}) = 2(\\frac{1}{2})^3 + (\\frac{1}{2})^2 - 5(\\frac{1}{2}) + 2"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the polynomial value at the zeroes.",
+            "expression": "p(1) = 2(1)^3 + (1)^2 - 5(1) + 2"
+          },
+          {
+            "step_number": 3,
+            "description": "Verify the relationship between zeroes and coefficients.",
+            "expression": "\\alpha + \\beta + \\gamma = \\frac{1}{2} + 1 + (-2)"
+          }
+        ],
+        "final_answer": "Thus, the relationship between the zeroes and the coefficients is verified.",
+        "answer_image": {
+          "present": true,
+          "description": "Mathematical calculations verifying the zeroes and their relationship with coefficients.",
+          "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777658015/ncert/maths/2/img_8_0.png",
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "answer"
+        },
+        "question_images": [],
+        "answer_images": [
+          {
+            "present": true,
+            "description": "Mathematical calculations verifying the zeroes and their relationship with coefficients.",
+            "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777658015/ncert/maths/2/img_8_0.png",
+            "latex_extracted": null,
+            "source_page_number": null,
+            "source_image_index": null,
+            "ownership": "answer"
+          }
+        ],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "Verify the zeroes of the polynomial x^3 - 4x^2 + 5x - 2.",
+        "part_latex": null,
+        "answer_text": "Therefore, 2, 1, 1 are the zeroes of the given polynomial.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Substitute the zeroes into the polynomial to verify.",
+            "expression": "p(2) = 2^3 - 4(2)^2 + 5(2) - 2"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the polynomial value at the zeroes.",
+            "expression": "p(1) = (1)^3 - 4(1)^2 + 5(1) - 2"
+          }
+        ],
+        "final_answer": "Thus, the relationship between the zeroes and the coefficients is verified.",
+        "answer_image": {
+          "present": true,
+          "description": "Mathematical calculations verifying the zeroes of the second polynomial.",
+          "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777658018/ncert/maths/2/img_8_1.png",
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "answer"
+        },
+        "question_images": [],
+        "answer_images": [
+          {
+            "present": true,
+            "description": "Mathematical calculations verifying the zeroes of the second polynomial.",
+            "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777658018/ncert/maths/2/img_8_1.png",
+            "latex_extracted": null,
+            "source_page_number": null,
+            "source_image_index": null,
+            "ownership": "answer"
+          }
+        ],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of polynomial properties and verification of zeroes.",
+    "topics_tags": [
+      "Polynomials",
+      "Zeroes",
+      "Coefficients"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "mixed_or_weak_context"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical expressions related to cubic polynomials and their zeroes.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777658006/ncert/maths/2/img_7_0.png",
+        "latex_extracted": "\\begin{array}{r}{x^{i}-x+1){\\frac{x^{i}+x-3}{x^{i}-{\\frac{3x^{i}}{x^{i}+x^{i}}}+x^{i}}}}\\\\ {x^{i}-{\\frac{x^{i}+x^{i}}{x^{i}+x^{i}}}}\\\\ {-{\\frac{-3x^{i}+3x+5}{x^{i}}}}\\\\ {0{\\frac{-{\\frac{-4}{x^{i}+3x+5}}{x^{5}+x^{5}}}}}\\\\ {0{\\frac{-{\\frac{-4}{x^{5}+3x+5}}{x^{5}-4}}}}\\\\ {0{\\frac{-{\\frac{-4}{x^{5}+3x+5}}{x^{5}+8}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.5",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 2,
+    "chapter_name": "polynomials",
+    "question_type": "conceptual",
+    "question_text": "Find a cubic polynomial with the sum, sum of the product of its zeroes taken two at a time, and the product of its zeroes as 2, -7, -14 respectively.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The polynomial is derived from the given sums and products of its zeroes.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the cubic polynomial can be constructed based on the given conditions.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of a cubic polynomial and its properties.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777658030/ncert/maths/2/img_10_0.png",
+      "latex_extracted": "\\begin{array}{r}{x^{3}+3x+{\\frac{1}{3x^{4}-4x^{2}+2x+2}}}\\\\ {\\qquad{\\frac{3x^{4}-3x^{4}-7x^{2}+2x+2}{-4x^{2}+2x}}}\\\\ {-4x^{3}-18x^{4}+3x^{2}+2x+2}\\\\ {-4x^{3}-1x^{2}+2x^{2}+4x}\\\\ {0}&{{}{\\frac{1}{0}}{0}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of polynomial properties and construction.",
+    "topics_tags": [
+      "Cubic Polynomial",
+      "Zeroes of Polynomial",
+      "Polynomial Properties"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of a cubic polynomial and its properties.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777658030/ncert/maths/2/img_10_0.png",
+        "latex_extracted": "\\begin{array}{r}{x^{3}+3x+{\\frac{1}{3x^{4}-4x^{2}+2x+2}}}\\\\ {\\qquad{\\frac{3x^{4}-3x^{4}-7x^{2}+2x+2}{-4x^{2}+2x}}}\\\\ {-4x^{3}-18x^{4}+3x^{2}+2x+2}\\\\ {-4x^{3}-1x^{2}+2x^{2}+4x}\\\\ {0}&{{}{\\frac{1}{0}}{0}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q2.6",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 2,
+    "chapter_name": "polynomials",
+    "question_type": "conceptual",
+    "question_text": "Obtain all other zeroes of the polynomial, if two of its zeroes are given.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The other zeroes can be found by factoring the polynomial using the known zeroes.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the complete set of zeroes can be determined from the polynomial.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of zeroes of a polynomial.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777658034/ncert/maths/2/img_11_0.png",
+      "latex_extracted": "\\begin{array}{r}{\\alpha+\\beta+\\gamma={\\frac{2}{1}}={\\frac{-b}{a}}}\\\\ {\\alpha\\beta+\\beta\\gamma+\\alpha\\gamma={\\frac{-7}{1}}={\\frac{C}{a}}}\\\\ {\\alpha}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding polynomial division and zeroes.",
+    "topics_tags": [
+      "Zeroes of Polynomial",
+      "Polynomial Division",
+      "Factoring Polynomials"
+    ],
+    "confidence_score": 0.88,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of zeroes of a polynomial.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777658034/ncert/maths/2/img_11_0.png",
+        "latex_extracted": "\\begin{array}{r}{\\alpha+\\beta+\\gamma={\\frac{2}{1}}={\\frac{-b}{a}}}\\\\ {\\alpha\\beta+\\beta\\gamma+\\alpha\\gamma={\\frac{-7}{1}}={\\frac{C}{a}}}\\\\ {\\alpha}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q2.7",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 2,
+    "chapter_name": "polynomials",
+    "question_type": "conceptual",
+    "question_text": "Give examples of polynomial p(x), g(x), q(x) and r(x), which satisfy the division algorithm and (i) deg p(x) = deg q(x) (ii) deg q(x) = deg r(x) (iii) deg r(x) = 0.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of polynomial division showing the relationship between dividend, divisor, quotient, and remainder.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777658041/ncert/maths/2/img_13_0.png",
+      "latex_extracted": "\\begin{array}{c}{{x^{5}-3x^{2}+x+2=g\\left(x\\right)x\\left(x-2\\right)+\\left(-2x+4\\right)}}\\\\ {{x^{3}-3x^{2}+x+2x-4=g\\left(x\\right)\\left(x-2\\right)}}\\\\ {{x^{3}-3x^{2}+3x-2=g\\left(x\\right)\\left(x-2\\right)}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "According to the division algorithm, if p(x) and g(x) are two polynomials with g(x) ≠ 0, then we can find polynomials q(x) and r(x) such that p(x) = g(x) × q(x) + r(x), where r(x) = 0 or degree of r(x) < degree of g(x).",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the division algorithm is satisfied with the given examples.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of polynomial division and the division algorithm.",
+    "topics_tags": [
+      "Polynomials",
+      "Division Algorithm",
+      "Degree of Polynomials"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of polynomial division showing the relationship between dividend, divisor, quotient, and remainder.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777658041/ncert/maths/2/img_13_0.png",
+        "latex_extracted": "\\begin{array}{c}{{x^{5}-3x^{2}+x+2=g\\left(x\\right)x\\left(x-2\\right)+\\left(-2x+4\\right)}}\\\\ {{x^{3}-3x^{2}+x+2x-4=g\\left(x\\right)\\left(x-2\\right)}}\\\\ {{x^{3}-3x^{2}+3x-2=g\\left(x\\right)\\left(x-2\\right)}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q2.8",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 2,
+    "chapter_name": "polynomials",
+    "question_type": "conceptual",
+    "question_text": "If two zeroes of the polynomial are 2 and 2, find other zeroes.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of polynomial division and factors.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777658054/ncert/maths/2/img_16_0.png",
+      "latex_extracted": "\\begin{array}{c}{{x^{3}-4x+1)\\frac{x^{4}-6x^{4}-20x-35}{x^{4}-2x^{2}+18x-35}}}\\\\ {{\\qquad\\frac{x^{6}-4x^{2}+12x^{2}+13x-35}{--2x^{3}+40x-35}}}\\\\ {{\\qquad\\frac{-1}{-2x^{4}+5x^{2}+40x-35}}}\\\\ {{\\qquad\\frac{-38^{2}+410x-35}{+}}}\\\\ {{\\qquad\\frac{+4}{-3x^{2}+40x-35}{+}}}\\\\ {{\\qquad\\frac{+}{u}}}&{{\\qquad\\frac{1}{u}}{u}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Hence, 7 and -5 are also zeroes of this polynomial.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the given zeroes and the polynomial.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Perform polynomial division to find the remaining zeroes.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Determine the other zeroes from the factors obtained.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, the other zeroes of the polynomial are 7 and -5.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of polynomial division and factorization.",
+    "topics_tags": [
+      "Polynomials",
+      "Zeroes",
+      "Factorization"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "Some text garbling in the question extraction."
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of polynomial division and factors.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777658054/ncert/maths/2/img_16_0.png",
+        "latex_extracted": "\\begin{array}{c}{{x^{3}-4x+1)\\frac{x^{4}-6x^{4}-20x-35}{x^{4}-2x^{2}+18x-35}}}\\\\ {{\\qquad\\frac{x^{6}-4x^{2}+12x^{2}+13x-35}{--2x^{3}+40x-35}}}\\\\ {{\\qquad\\frac{-1}{-2x^{4}+5x^{2}+40x-35}}}\\\\ {{\\qquad\\frac{-38^{2}+410x-35}{+}}}\\\\ {{\\qquad\\frac{+4}{-3x^{2}+40x-35}{+}}}\\\\ {{\\qquad\\frac{+}{u}}}&{{\\qquad\\frac{1}{u}}{u}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.9",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 2,
+    "chapter_name": "polynomials",
+    "question_type": "numerical",
+    "question_text": "If the polynomial is divided by another polynomial, the remainder comes out to be x + a, find k and a.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Hence, k = 5 and a = -5.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Apply the division algorithm to find k and a.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Set up the equations based on the remainder.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Solve the equations to find the values of k and a.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, the values are k = 5 and a = -5.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of polynomial division and remainder.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777658059/ncert/maths/2/img_17_0.png",
+      "latex_extracted": "\\begin{array}{c}{{\\varepsilon^{\\ast}-2\\pi+\\varepsilon\\frac{\\pi^{\\ast}-6\\kappa^{\\ast}+(8-4)}{\\kappa^{\\ast}-2\\kappa^{\\ast}+k^{\\ast}-2\\alpha+10-\\alpha}}}\\\\ {{\\frac{\\pi^{\\ast}-4\\kappa^{\\ast}-(8-2)\\kappa^{\\ast}-2\\alpha}{\\kappa^{\\ast}-4\\kappa}}}\\\\ {{\\frac{-\\pm^{\\ast}}{\\epsilon}-4\\kappa^{\\ast}-4\\kappa^{\\ast}+(8-k^{\\ast})}}\\\\ {{\\frac{-4\\kappa^{\\ast}+\\epsilon}{\\epsilon}+\\frac{\\pi^{\\ast}-(8-2)\\kappa^{\\ast}+(8-8^{\\ast})}{(-10+2k)x+(10-\\alpha-8\\ast k^{\\ast})}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves application of polynomial division and solving equations.",
+    "topics_tags": [
+      "Polynomial Division",
+      "Remainder Theorem",
+      "Algebra"
+    ],
+    "confidence_score": 0.88,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of polynomial division and remainder.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777658059/ncert/maths/2/img_17_0.png",
+        "latex_extracted": "\\begin{array}{c}{{\\varepsilon^{\\ast}-2\\pi+\\varepsilon\\frac{\\pi^{\\ast}-6\\kappa^{\\ast}+(8-4)}{\\kappa^{\\ast}-2\\kappa^{\\ast}+k^{\\ast}-2\\alpha+10-\\alpha}}}\\\\ {{\\frac{\\pi^{\\ast}-4\\kappa^{\\ast}-(8-2)\\kappa^{\\ast}-2\\alpha}{\\kappa^{\\ast}-4\\kappa}}}\\\\ {{\\frac{-\\pm^{\\ast}}{\\epsilon}-4\\kappa^{\\ast}-4\\kappa^{\\ast}+(8-k^{\\ast})}}\\\\ {{\\frac{-4\\kappa^{\\ast}+\\epsilon}{\\epsilon}+\\frac{\\pi^{\\ast}-(8-2)\\kappa^{\\ast}+(8-8^{\\ast})}{(-10+2k)x+(10-\\alpha-8\\ast k^{\\ast})}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  }
+]

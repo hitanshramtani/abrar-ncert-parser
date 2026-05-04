@@ -1,0 +1,1153 @@
+[
+  {
+    "question_id": "Q12.1",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 12,
+    "chapter_name": "atoms",
+    "question_type": "mcq",
+    "question_text": "Choose the correct alternative from the clues given at the end of the each statement: The size of the atom in Thomson’s model is .......... the atomic size in Rutherford’s model. (much greater than/no different from/much less than.)",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(1)",
+        "option_text": "much greater than"
+      },
+      {
+        "option_label": "(2)",
+        "option_text": "no different from"
+      },
+      {
+        "option_label": "(3)",
+        "option_text": "much less than"
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The sizes of the atoms taken in Thomson’s model and Rutherford’s model have the same order of magnitude.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the sizes of the atoms in both models are comparable.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of atomic models and their comparisons.",
+    "topics_tags": [
+      "Thomson's Model",
+      "Rutherford's Model",
+      "Atomic Structure"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.2",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 12,
+    "chapter_name": "atoms",
+    "question_type": "conceptual",
+    "question_text": "Suppose you are given a chance to repeat the alpha-particle scattering experiment using a thin sheet of solid hydrogen in place of the gold foil. What results do you expect?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "In the alpha-particle scattering experiment, if a thin sheet of solid hydrogen is used in place of a gold foil, then the scattering angle would not be large enough. This is because the mass of hydrogen (1.67 × 10−27 kg) is less than the mass of incident α−particles (6.64 × 10−27 kg). Thus, the mass of the scattering particle is more than the target nucleus (hydrogen). As a result, the α−particles would not bounce back if solid hydrogen is used in the α-particle scattering experiment.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the α−particles would pass through without significant scattering.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of scattering principles and mass relationships.",
+    "topics_tags": [
+      "Alpha Particle Scattering",
+      "Hydrogen",
+      "Atomic Models"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.3",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 12,
+    "chapter_name": "atoms",
+    "question_type": "numerical",
+    "question_text": "What is the shortest wavelength present in the Paschen series of spectral lines?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Rydberg's formula for calculating wavelengths in spectral lines.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777760613/ncert/physics/12/img_2_0.png",
+      "latex_extracted": "{\\frac{h c}{\\lambda}}=21.76\\times10^{-19}\\left[{\\frac{1}{n_{1}^{2}}}-{\\frac{1}{n_{2}^{2}}}\\right]",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The shortest wavelength present in the Paschen series of the spectral lines is given for values n = 3 and n = ∞.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Use Rydberg's formula to find the wavelength.",
+        "expression": "{\\frac{h c}{\\lambda}}=21.76\\times10^{-19}\\left[{\\frac{1}{3^{2}}-{\\frac{1}{\\infty^{2}}}\\right]"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the wavelength using the values.",
+        "expression": "\\lambda=8.189\\times10^{-1}\\times10^{-9}\\times9"
+      }
+    ],
+    "final_answer": "Thus, the shortest wavelength in the Paschen series is approximately 8.19 nm.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves application of Rydberg's formula and basic calculations.",
+    "topics_tags": [
+      "Paschen Series",
+      "Spectral Lines",
+      "Wavelength"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Rydberg's formula for calculating wavelengths in spectral lines.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777760613/ncert/physics/12/img_2_0.png",
+        "latex_extracted": "{\\frac{h c}{\\lambda}}=21.76\\times10^{-19}\\left[{\\frac{1}{n_{1}^{2}}}-{\\frac{1}{n_{2}^{2}}}\\right]",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.4",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 12,
+    "chapter_name": "atoms",
+    "question_type": "numerical",
+    "question_text": "A difference of 2.3 eV separates two energy levels in an atom. What is the frequency of radiation emitted when the atom makes a transition from the upper level to the lower level?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Calculation of frequency from energy difference using Planck's constant.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777760617/ncert/physics/12/img_3_0.png",
+      "latex_extracted": "\\begin{array}{l}{{\\mathrm{:}\\cdot\\nu={\\frac{E}{h}}}}\\\\ {{={\\frac{3.68{\\times}10^{-19}}{6.63{\\times}10^{-34}}}=5.55{\\times}10^{14}{\\mathrm{~Hz}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The frequency of radiation emitted when the atom transitions from the upper level to the lower level is calculated using the formula ν = E/h.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Convert energy from eV to Joules.",
+        "expression": "E = 2.3 eV = 2.3 \\times 1.6 \\times 10^{-19} J"
+      },
+      {
+        "step_number": 2,
+        "description": "Use the relation E = hν to find frequency.",
+        "expression": "ν = \\frac{E}{h}"
+      }
+    ],
+    "final_answer": "Thus, the frequency of the emitted radiation is approximately 5.55 × 10^14 Hz.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves energy conversion and application of Planck's relation.",
+    "topics_tags": [
+      "Energy Levels",
+      "Frequency",
+      "Radiation"
+    ],
+    "confidence_score": 0.88,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Calculation of frequency from energy difference using Planck's constant.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777760617/ncert/physics/12/img_3_0.png",
+        "latex_extracted": "\\begin{array}{l}{{\\mathrm{:}\\cdot\\nu={\\frac{E}{h}}}}\\\\ {{={\\frac{3.68{\\times}10^{-19}}{6.63{\\times}10^{-34}}}=5.55{\\times}10^{14}{\\mathrm{~Hz}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.5",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 12,
+    "chapter_name": "atoms",
+    "question_type": "conceptual",
+    "question_text": "The ground state energy of hydrogen atom is −13.6 eV. What are the kinetic and potential energies of the electron in this state?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Kinetic energy = 13.6 eV, Potential energy = -27.2 eV.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the total energy of the hydrogen atom.",
+        "expression": "E = -13.6 \text{ eV}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate kinetic energy as the negative of total energy.",
+        "expression": "K.E. = -E = -(-13.6) = 13.6 \text{ eV}"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate potential energy as negative two times the kinetic energy.",
+        "expression": "P.E. = -2 \times K.E. = -2 \times 13.6 = -27.2 \text{ eV}"
+      }
+    ],
+    "final_answer": "Thus, the kinetic energy is 13.6 eV and the potential energy is -27.2 eV.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of energy relationships in atomic physics.",
+    "topics_tags": [
+      "Hydrogen Atom",
+      "Energy Levels",
+      "Kinetic Energy",
+      "Potential Energy"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.6",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 12,
+    "chapter_name": "atoms",
+    "question_type": "numerical",
+    "question_text": "A hydrogen atom initially in the ground level absorbs a photon, which excites it to the n = 4 level. Determine the wavelength and frequency of the photon.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The wavelength of the photon is 97 nm while the frequency is 3.1 × 10^15 Hz.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the energy difference between levels n=1 and n=4.",
+        "expression": "E = E_4 - E_1"
+      },
+      {
+        "step_number": 2,
+        "description": "Use the formula for energy of levels in hydrogen atom.",
+        "expression": "E_n = -\\frac{13.6}{n^2} \\text{ eV}"
+      },
+      {
+        "step_number": 3,
+        "description": "Substitute n=1 and n=4 to find energy difference.",
+        "expression": "E = -\\frac{13.6}{4^2} - (-\\frac{13.6}{1^2})"
+      },
+      {
+        "step_number": 4,
+        "description": "Calculate the wavelength using the energy of the photon.",
+        "expression": "\\lambda = \\frac{h c}{E}"
+      }
+    ],
+    "final_answer": "Hence, the wavelength of the photon is 97 nm while the frequency is 3.1 × 10^15 Hz.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical expressions related to energy levels of hydrogen atom.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777760636/ncert/physics/12/img_6_0.png",
+      "latex_extracted": "\\scriptstyle{\\begin{array}{l}{{\\nu={\\frac{c}{\\lambda}}}}\\\\ {{\\frac{3\\times10^{\\circ}}{9.7\\times10^{\\circ}}}}\\end{array}}\\qquad{\\mathrm{~}}\\\\ {{\\mathrm{~}}={\\frac{3\\times10^{\\circ}}{9.7\\times10^{\\circ}}}\\approx3.1\\times10^{\\circ}{\\mathrm{~Hz}}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations and understanding of photon energy.",
+    "topics_tags": [
+      "Photon Energy",
+      "Hydrogen Atom",
+      "Wavelength",
+      "Frequency"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical expressions related to energy levels of hydrogen atom.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777760636/ncert/physics/12/img_6_0.png",
+        "latex_extracted": "\\scriptstyle{\\begin{array}{l}{{\\nu={\\frac{c}{\\lambda}}}}\\\\ {{\\frac{3\\times10^{\\circ}}{9.7\\times10^{\\circ}}}}\\end{array}}\\qquad{\\mathrm{~}}\\\\ {{\\mathrm{~}}={\\frac{3\\times10^{\\circ}}{9.7\\times10^{\\circ}}}\\approx3.1\\times10^{\\circ}{\\mathrm{~Hz}}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      },
+      {
+        "present": true,
+        "description": "Mathematical expressions related to the calculation of wavelength and frequency.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777760640/ncert/physics/12/img_6_3.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q12.7",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 12,
+    "chapter_name": "atoms",
+    "question_type": "numerical",
+    "question_text": "The radius of the innermost electron orbit of a hydrogen atom is 5.3 × 10−11m. What are the radii of the n = 2 and n = 3 orbits?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of the radius for n=2 and n=3 orbits in a hydrogen atom.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777760672/ncert/physics/12/img_9_0.png",
+      "latex_extracted": "\\begin{array}{l}{{r_{2}=\\left(n\\right)^{2}r_{1}}}\\\\ {{\\,=\\,\\,4\\,\\times\\,5.3\\,\\times\\,10^{-11}=2.12\\times10^{-10}\\,\\,m}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Hence, the radii of an electron for n = 2 and n = 3 orbits are 2.12 × 10−10m and 4.77 × 10−10m respectively.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the radius for n=2 using the formula r = n^2 * r1.",
+        "expression": "r_{2} = 4 * 5.3 * 10^{-11} = 2.12 * 10^{-10} m"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the radius for n=3 using the same formula.",
+        "expression": "r_{3} = 9 * 5.3 * 10^{-11} = 4.77 * 10^{-10} m"
+      }
+    ],
+    "final_answer": "Thus, the radii of the electron for n = 2 and n = 3 orbits are 2.12 × 10−10m and 4.77 × 10−10m respectively.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of the radius for n=3 orbit in a hydrogen atom.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777760685/ncert/physics/12/img_9_5.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of the relationship between quantum levels and radius in hydrogen atom.",
+    "topics_tags": [
+      "Hydrogen Atom",
+      "Electron Orbit",
+      "Quantum Mechanics"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the radius for n=2 and n=3 orbits in a hydrogen atom.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777760672/ncert/physics/12/img_9_0.png",
+        "latex_extracted": "\\begin{array}{l}{{r_{2}=\\left(n\\right)^{2}r_{1}}}\\\\ {{\\,=\\,\\,4\\,\\times\\,5.3\\,\\times\\,10^{-11}=2.12\\times10^{-10}\\,\\,m}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the radius for n=3 orbit in a hydrogen atom.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777760685/ncert/physics/12/img_9_5.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q12.8",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 12,
+    "chapter_name": "atoms",
+    "question_type": "conceptual",
+    "question_text": "A 12.5 eV electron beam is used to bombard gaseous hydrogen at room temperature. What series of wavelengths will be emitted?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "In Lyman series, two wavelengths i.e., 102.5 nm and 121.5 nm are emitted. And in the Balmer series, one wavelength i.e., 656.33 nm is emitted.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the emitted wavelengths are 102.5 nm, 121.5 nm (Lyman series) and 656.33 nm (Balmer series).",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of electron transitions and spectral series.",
+    "topics_tags": [
+      "Hydrogen Spectrum",
+      "Lyman Series",
+      "Balmer Series"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.9",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 12,
+    "chapter_name": "atoms",
+    "question_type": "mcq",
+    "question_text": "In accordance with the Bohr’s model, find the quantum number that characterizes the earth’s revolution around the sun in an orbit of radius 1.5 × 10^11 m with orbital speed 3 × 10^4 m/s. (Mass of earth = 6.00 × 10^24 kg.)",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Hence, the quantum number that characterizes the Earth’s revolution is 2.6 × 10^4.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Use the formula for quantum number n based on mass, speed, radius, and Planck's constant.",
+        "expression": "n = \\frac{m v r 2 \\pi}{h}"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values of mass, speed, radius, and Planck's constant into the formula.",
+        "expression": "n = \\frac{6.62 \\times 10^{-34}}{25 \\times 6 \\times 10^{24} \\times 3 \\times 10^{4} \\times 1.5 \\times 10^{11}}"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the quantum number.",
+        "expression": "n = 2.6 \\times 10^{4}"
+      }
+    ],
+    "final_answer": "Therefore, the quantum number is 2.6 × 10^4.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of the quantum number calculation using Bohr's model.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777760701/ncert/physics/12/img_12_0.png",
+      "latex_extracted": "\\begin{array}{l}{{\\mathrm{:}n={\\frac{m v r2\\pi}{h}}}}\\\\ {{\\mathrm{:}={\\frac{h}{25\\times6\\times10^{24}\\times3\\times10^{4}\\times1.5\\times10^{11}}{6.62\\times10^{-4}}}}\\\\ {{\\mathrm{=}{\\frac{2n\\times6\\times10^{-4}}{25.61\\times10^{-4}}}=2.6\\times10^{n}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves application of Bohr's model and requires calculation.",
+    "topics_tags": [
+      "Bohr's Model",
+      "Quantum Number",
+      "Earth's Orbit"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the quantum number calculation using Bohr's model.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777760701/ncert/physics/12/img_12_0.png",
+        "latex_extracted": "\\begin{array}{l}{{\\mathrm{:}n={\\frac{m v r2\\pi}{h}}}}\\\\ {{\\mathrm{:}={\\frac{h}{25\\times6\\times10^{24}\\times3\\times10^{4}\\times1.5\\times10^{11}}{6.62\\times10^{-4}}}}\\\\ {{\\mathrm{=}{\\frac{2n\\times6\\times10^{-4}}{25.61\\times10^{-4}}}=2.6\\times10^{n}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      },
+      {
+        "present": true,
+        "description": "Mathematical representation of the quantum number calculation using Bohr's model.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777760704/ncert/physics/12/img_12_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q12.10",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 12,
+    "chapter_name": "atoms",
+    "question_type": "conceptual",
+    "question_text": "Estimate the radius of the first Bohr orbit of a hydrogen atom if the electron and proton were bound by gravitational attraction.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical expression related to the radius of the first Bohr orbit.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777760711/ncert/physics/12/img_15_0.png",
+      "latex_extracted": "\\begin{array}{c}{{\\left(\\frac{h}{2\\pi}\\right)^{2}}}\\\\ {{G m_{p}m_{e}^{2}}}\\\\ {{\\left(\\frac{2\\times3.14}{2\\times1.67\\times10^{-27}\\times\\left(9.1\\times10^{-31}\\right)^{2}}{\\approx1.21\\times1.21\\times10^{\\geq9}\\cdot m}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The radius of the first Bohr orbit is much greater than the estimated size of the whole universe.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the radius of the first Bohr orbit is significantly larger than the size of the universe.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of gravitational and electrostatic forces and their comparison.",
+    "topics_tags": [
+      "Bohr Model",
+      "Hydrogen Atom",
+      "Gravitational Force"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "text extraction issues",
+      "incomplete mathematical context"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical expression related to the radius of the first Bohr orbit.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777760711/ncert/physics/12/img_15_0.png",
+        "latex_extracted": "\\begin{array}{c}{{\\left(\\frac{h}{2\\pi}\\right)^{2}}}\\\\ {{G m_{p}m_{e}^{2}}}\\\\ {{\\left(\\frac{2\\times3.14}{2\\times1.67\\times10^{-27}\\times\\left(9.1\\times10^{-31}\\right)^{2}}{\\approx1.21\\times1.21\\times10^{\\geq9}\\cdot m}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.11",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 12,
+    "chapter_name": "atoms",
+    "question_type": "derivation",
+    "question_text": "Obtain an expression for the frequency of radiation emitted when a hydrogen atom de-excites from level n to level (n−1).",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical expressions related to the energy of radiation emitted during de-excitation.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777760726/ncert/physics/12/img_15_2.png",
+      "latex_extracted": "\\begin{array}{c}{{\\left(\\frac{h}{2\\pi}\\right)^{2}}}\\\\ {{G m_{p}m_{e}^{2}}}\\\\ {{\\left(\\frac{2\\times3.14}{2\\times1.67\\times10^{-27}\\times\\left(9.1\\times10^{-31}\\right)^{2}}{\\approx1.21\\times1.21\\times10^{\\geq9}\\cdot m}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The frequency of radiation emitted can be derived from the energy difference between the two levels.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the frequency corresponds to the classical frequency of revolution of the electron in the orbit.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Involves derivation and understanding of quantum mechanics principles.",
+    "topics_tags": [
+      "Hydrogen Atom",
+      "De-excitation",
+      "Frequency of Radiation"
+    ],
+    "confidence_score": 0.8,
+    "confidence_issues": [
+      "text extraction issues",
+      "incomplete mathematical context"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical expressions related to the energy of radiation emitted during de-excitation.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777760726/ncert/physics/12/img_15_2.png",
+        "latex_extracted": "\\begin{array}{c}{{\\left(\\frac{h}{2\\pi}\\right)^{2}}}\\\\ {{G m_{p}m_{e}^{2}}}\\\\ {{\\left(\\frac{2\\times3.14}{2\\times1.67\\times10^{-27}\\times\\left(9.1\\times10^{-31}\\right)^{2}}{\\approx1.21\\times1.21\\times10^{\\geq9}\\cdot m}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.12",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 12,
+    "chapter_name": "atoms",
+    "question_type": "conceptual",
+    "question_text": "Classically, an electron can be in any orbit around the nucleus of an atom. Then what determines the typical atomic size? Why is an atom not, say, thousand times bigger than its typical size?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of energy levels and frequency of radiation in atomic structure.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777760743/ncert/physics/12/img_16_0.png",
+      "latex_extracted": "\\begin{array}{l l}{{E_{2}=h\\displaystyle v_{2}=h\\displaystyle v_{2}=\\frac{h m e^{4}}{\\left(4\\pi\\right)^{3}\\epsilon_{0}^{2}\\left(\\frac{h}{2\\pi}\\right)^{3}}\\cdot\\ ~~~~}}&{{~~~~~~~~~~~\\cdots\\left(\\mathrm{ii}\\right)}}\\\\ {{\\mathrm{Where,~}}}&{{}}\\\\ {{\\mathrm{Vhere,~}}}&{{}}\\\\ {{\\mathrm{Vhere,~}}}&{{}}&{{}}\\\\ {{\\displaystyle v_{2}=\\mathrm{Frequency~of~of~radiation~at~level~}\\left(n-1\\right)}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The typical atomic size is determined by the balance between the attractive forces of the nucleus and the repulsive forces of the electrons, as well as the quantization of energy levels.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the atomic size is a result of fundamental forces and quantum mechanics.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of atomic structure and forces involved.",
+    "topics_tags": [
+      "Atomic Structure",
+      "Quantum Mechanics",
+      "Electron Orbits"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of energy levels and frequency of radiation in atomic structure.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777760743/ncert/physics/12/img_16_0.png",
+        "latex_extracted": "\\begin{array}{l l}{{E_{2}=h\\displaystyle v_{2}=h\\displaystyle v_{2}=\\frac{h m e^{4}}{\\left(4\\pi\\right)^{3}\\epsilon_{0}^{2}\\left(\\frac{h}{2\\pi}\\right)^{3}}\\cdot\\ ~~~~}}&{{~~~~~~~~~~~\\cdots\\left(\\mathrm{ii}\\right)}}\\\\ {{\\mathrm{Where,~}}}&{{}}\\\\ {{\\mathrm{Vhere,~}}}&{{}}\\\\ {{\\mathrm{Vhere,~}}}&{{}}&{{}}\\\\ {{\\displaystyle v_{2}=\\mathrm{Frequency~of~of~radiation~at~level~}\\left(n-1\\right)}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.13",
+    "class": 12,
+    "subject": "physics",
+    "chapter_number": 12,
+    "chapter_name": "atoms",
+    "question_type": "multipart",
+    "question_text": "The total energy of an electron in the first excited state of the hydrogen atom is about −3.4 eV. What is the kinetic energy of the electron in this state? What is the potential energy of the electron in this state? Which of the answers above would change if the choice of the zero of potential energy is changed?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "What is the kinetic energy of the electron in this state?",
+        "part_latex": null,
+        "answer_text": "The kinetic energy of the electron in the given state is +3.4 eV.",
+        "answer_latex": "K = -E = -(-3.4) = +3.4 \text{ eV}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the relationship between total energy and kinetic energy.",
+            "expression": "K = -E"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the total energy value.",
+            "expression": "K = -(-3.4) = +3.4"
+          }
+        ],
+        "final_answer": "Hence, the kinetic energy of the electron in the given state is +3.4 eV.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "What is the potential energy of the electron in this state?",
+        "part_latex": null,
+        "answer_text": "The potential energy of the electron is -6.8 eV.",
+        "answer_latex": "U = -2K = -2 \times 3.4 = -6.8 \text{ eV}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the relationship between kinetic energy and potential energy.",
+            "expression": "U = -2K"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the kinetic energy value.",
+            "expression": "U = -2 \times 3.4 = -6.8"
+          }
+        ],
+        "final_answer": "Thus, the potential energy of the electron in this state is -6.8 eV.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "Which of the answers above would change if the choice of the zero of potential energy is changed?",
+        "part_latex": null,
+        "answer_text": "The kinetic energy would remain the same, but the potential energy would change.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Therefore, only the potential energy would change with a different zero of potential energy.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of energy relationships in quantum mechanics.",
+    "topics_tags": [
+      "Quantum Mechanics",
+      "Hydrogen Atom",
+      "Energy Levels"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.14",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 12,
+    "chapter_name": "atoms",
+    "question_type": "conceptual",
+    "question_text": "If Bohr’s quantisation postulate (angular momentum = nh/2π) is a basic law of nature, it should be equally valid for the case of planetary motion also. Why then do we never speak of quantisation of orbits of planets around the sun?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "We never speak of quantisation of orbits of planets around the Sun because the angular momentum associated with planetary motion is largely relative to the value of Planck’s constant (h). The angular momentum of the Earth in its orbit is of the order of 10^{70}h. This leads to a very high value of quantum levels n of the order of 10^{70}. For large values of n, successive energies and angular momenta are relatively very small. Hence, the quantum levels for planetary motion are considered continuous.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the quantisation levels for planetary motion are treated as continuous due to the extremely high values of angular momentum.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of quantum mechanics and its application to planetary motion.",
+    "topics_tags": [
+      "Bohr's Model",
+      "Angular Momentum",
+      "Quantum Mechanics"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.15",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 12,
+    "chapter_name": "atoms",
+    "question_type": "numerical",
+    "question_text": "Obtain the first Bohr’s radius and the ground state energy of a muonic hydrogen atom (i.e., an atom in which a negatively charged muon (μ−) of mass about 207m orbits around a proton).",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Involves derivation of formulas and understanding of atomic structure.",
+    "topics_tags": [
+      "Bohr's Model",
+      "Muonic Hydrogen",
+      "Atomic Physics"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.16",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 12,
+    "chapter_name": "atoms",
+    "question_type": "conceptual",
+    "question_text": "What is the value of the first Bohr radius of a muonic hydrogen atom?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical expression related to the radius of muonic hydrogen atom.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777760774/ncert/physics/12/img_21_0.png",
+      "latex_extracted": "r_{e}\\cdot\\epsilon\\left({\\frac{1}{m_{e}}}\\right)",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The first Bohr radius of a muonic hydrogen atom is 2.56 × 10^{-13} m.",
+    "answer_latex": "r_{\\mu}=\\frac{0.53\\times10^{-10}}{207}=2.56\\times10^{-13}\\mathrm{~m}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Use the relation for the radius of muonic hydrogen atom.",
+        "expression": "r_{\\mu}=\\frac{0.53\\times10^{-10}}{207}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the value.",
+        "expression": "r_{\\mu}=2.56\\times10^{-13} m"
+      }
+    ],
+    "final_answer": "Therefore, the first Bohr radius of a muonic hydrogen atom is 2.56 × 10^{-13} m.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of Bohr's model and basic calculations.",
+    "topics_tags": [
+      "Bohr Radius",
+      "Muonic Hydrogen",
+      "Atomic Physics"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical expression related to the radius of muonic hydrogen atom.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777760774/ncert/physics/12/img_21_0.png",
+        "latex_extracted": "r_{e}\\cdot\\epsilon\\left({\\frac{1}{m_{e}}}\\right)",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q12.17",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 12,
+    "chapter_name": "atoms",
+    "question_type": "conceptual",
+    "question_text": "What is the ground state energy of a muonic hydrogen atom?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The ground state energy of a muonic hydrogen atom is -2.81 keV.",
+    "answer_latex": "E_{\\mu}=207\\times(-13.6)=-2.81\\mathrm{\\keV}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Use the ratio of energies for muonic hydrogen.",
+        "expression": "E_{\\mu}=207E_{e}"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the value of ground state energy of electron hydrogen.",
+        "expression": "E_{\\mu}=207\\times(-13.6)"
+      }
+    ],
+    "final_answer": "Thus, the ground state energy of a muonic hydrogen atom is -2.81 keV.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical expression related to the energy of muonic hydrogen atom.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777760778/ncert/physics/12/img_21_2.png",
+      "latex_extracted": "\\begin{array}{l}{{\\frac{E_{c}}{E_{\\mu}}=\\frac{m_{c}}{m_{\\mu}}=\\frac{m_{c}}{207m_{e}}}}\\\\ {{\\frac{E_{\\mu}}{E_{\\mu}=207E_{e}}{=207\\times(-13.6)=-2.81\\mathrm{\\keV}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of energy levels in hydrogen-like atoms.",
+    "topics_tags": [
+      "Ground State Energy",
+      "Muonic Hydrogen",
+      "Atomic Physics"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical expression related to the energy of muonic hydrogen atom.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777760778/ncert/physics/12/img_21_2.png",
+        "latex_extracted": "\\begin{array}{l}{{\\frac{E_{c}}{E_{\\mu}}=\\frac{m_{c}}{m_{\\mu}}=\\frac{m_{c}}{207m_{e}}}}\\\\ {{\\frac{E_{\\mu}}{E_{\\mu}=207E_{e}}{=207\\times(-13.6)=-2.81\\mathrm{\\keV}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  }
+]

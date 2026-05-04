@@ -1,0 +1,1646 @@
+[
+  {
+    "question_id": "Q8.1",
+    "class": 9,
+    "subject": "science",
+    "chapter_number": 8,
+    "chapter_name": "motion",
+    "question_type": "conceptual",
+    "question_text": "An object has moved through a distance. Can it have zero displacement? If yes, support your answer with an example.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Yes, an object can have zero displacement even when it has moved through a distance. This happens when final position of the object coincides with its initial position. For example, if a person moves around a park and stands on the place from where he started then here displacement will be zero.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, an object can have zero displacement despite moving through a distance.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of displacement and examples.",
+    "topics_tags": [
+      "Displacement",
+      "Distance",
+      "Motion"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.2",
+    "class": 9,
+    "subject": "science",
+    "chapter_number": 8,
+    "chapter_name": "motion",
+    "question_type": "numerical",
+    "question_text": "A farmer moves along the boundary of a square field of side 10 m in 40 s. What will be the magnitude of displacement of the farmer at the end of 2 minutes 20 seconds from his initial position?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Thus, after 2 min 20 seconds the displacement of farmer will be equal to 14.14 m north east from initial position.",
+    "answer_latex": "AC = 10\\sqrt{2} \\text{ m}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the perimeter of the square field.",
+        "expression": "Perimeter = 10 m x 4 = 40 m"
+      },
+      {
+        "step_number": 2,
+        "description": "Determine the total time in seconds.",
+        "expression": "Total time = 2 x 60 s + 20 s = 140 s"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the distance covered by the farmer in 140 seconds.",
+        "expression": "Distance = 1 m/s x 140 s = 140 m"
+      },
+      {
+        "step_number": 4,
+        "description": "Calculate the number of rotations around the field.",
+        "expression": "Number of rotations = 140 m / 40 m = 3.5"
+      },
+      {
+        "step_number": 5,
+        "description": "Determine the final position of the farmer.",
+        "expression": "Displacement = \\sqrt{(10 m)^{2} + (10 m)^{2}} = 10\\sqrt{2} m"
+      }
+    ],
+    "final_answer": "Thus, the displacement of the farmer is 14.14 m north east from the initial position.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of the displacement calculation.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777739738/ncert/science/8/img_2_0.jpg",
+      "latex_extracted": "\\left|\\begin{array}{c}{{\\left|\\begin{array}{c}{{\\displaystyle\\vphantom{{\\vphantom{\\mathcal{N}}}\\overline{{{\\Lambda}}}}\\overline{{{\\Lambda}}}\\overline{{{\\Lambda}}}}\\end{array}\\right|}}\\\\ {{\\qquad\\qquad\\mathcal{N}}}\\\\ {{\\qquad\\qquad\\qquad\\mathcal{N}}}\\\\ {{\\qquad\\left.\\star}}\\end{array}\\right|}\\end{array}\\right|",
+      "source_page_number": 2,
+      "source_image_index": 0,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations and understanding of displacement.",
+    "topics_tags": [
+      "Displacement",
+      "Motion",
+      "Kinematics"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the displacement calculation.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777739738/ncert/science/8/img_2_0.jpg",
+        "latex_extracted": "\\left|\\begin{array}{c}{{\\left|\\begin{array}{c}{{\\displaystyle\\vphantom{{\\vphantom{\\mathcal{N}}}\\overline{{{\\Lambda}}}}\\overline{{{\\Lambda}}}\\overline{{{\\Lambda}}}}\\end{array}\\right|}}\\\\ {{\\qquad\\qquad\\mathcal{N}}}\\\\ {{\\qquad\\qquad\\qquad\\mathcal{N}}}\\\\ {{\\qquad\\left.\\star}}\\end{array}\\right|}\\end{array}\\right|",
+        "source_page_number": 2,
+        "source_image_index": 0,
+        "ownership": "answer"
+      },
+      {
+        "present": true,
+        "description": "Mathematical calculation for the displacement of the farmer.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777739741/ncert/science/8/img_2_1.jpg",
+        "latex_extracted": "\\begin{array}{l}{{\\mp\\mathrm{herefore\\,\\,obspiscemertAC=\\sqrt{\\left(10m\\right)^{2}+\\left(10m\\right)^{2}}}}}\\\\ {{\\left.-\\sqrt{-100m^{2}}+100m^{2}}}\\\\ {{\\left.=10\\sqrt{2}\\right.}}\\\\ {{\\left.=10\\sqrt{2}\\right.\\mathrm{m}}}\\\\ {{\\left.=10\\left(10\\right)\\mathrm{~-n+14\\right)}}}\\\\ {{\\left.=10\\left.x\\,\\,1.414\\right]\\mathrm{~m}}}\\end{array}",
+        "source_page_number": 2,
+        "source_image_index": 1,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q8.3",
+    "class": 9,
+    "subject": "science",
+    "chapter_number": 8,
+    "chapter_name": "motion",
+    "question_type": "conceptual",
+    "question_text": "Distinguish between speed and velocity.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Speed is the distance travelled by an object in a given interval of time. Velocity is the displacement of an object in a given interval of time. Speed = distance / time; Velocity = displacement / time. Speed is scalar quantity i.e. it has only magnitude. Velocity is vector quantity i.e. it has both magnitude as well as direction.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, speed is a scalar quantity while velocity is a vector quantity.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of basic definitions and differences between speed and velocity.",
+    "topics_tags": [
+      "Speed",
+      "Velocity",
+      "Motion"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.4",
+    "class": 9,
+    "subject": "science",
+    "chapter_number": 8,
+    "chapter_name": "motion",
+    "question_type": "conceptual",
+    "question_text": "Under what condition(s) is the magnitude of average velocity of an object equal to its average speed?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The magnitude of average velocity of an object is equal to its average speed, only when an object is moving in a straight line.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, this condition holds true for straight-line motion.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves understanding the relationship between average speed and average velocity.",
+    "topics_tags": [
+      "Average Speed",
+      "Average Velocity",
+      "Motion"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.5",
+    "class": 9,
+    "subject": "science",
+    "chapter_number": 8,
+    "chapter_name": "motion",
+    "question_type": "conceptual",
+    "question_text": "What does the odometer of an automobile measure?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The odometer of an automobile measures the distance covered by an automobile.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, it indicates the total distance traveled.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of a definition.",
+    "topics_tags": [
+      "Odometer",
+      "Distance Measurement",
+      "Automobile"
+    ],
+    "confidence_score": 0.99,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.6",
+    "class": 9,
+    "subject": "science",
+    "chapter_number": 8,
+    "chapter_name": "motion",
+    "question_type": "conceptual",
+    "question_text": "What does the path of an object look like when it is in uniform motion?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "An object having uniform motion has a straight line path.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the path is linear.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Simple definition requiring basic understanding.",
+    "topics_tags": [
+      "Uniform Motion",
+      "Path",
+      "Motion"
+    ],
+    "confidence_score": 0.97,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.7",
+    "class": 9,
+    "subject": "science",
+    "chapter_number": 8,
+    "chapter_name": "motion",
+    "question_type": "numerical",
+    "question_text": "During an experiment, a signal from a spaceship reached the ground station in five minutes. What was the distance of the spaceship from the ground station? The signal travels at the speed of light, that is, 3 × 10^8 m/s.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Distance = Speed x Time. Speed = 3 × 10^8 m/s; Time = 5 min = 300 s. Therefore, Distance = 3 × 10^8 m/s x 300 s = 9 × 10^10 m.",
+    "answer_latex": "Distance = 3 \\times 10^8 \\text{ m/s} \\times 300 \\text{ s} = 9 \\times 10^{10} \\text{ m}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Convert time from minutes to seconds.",
+        "expression": "Time = 5 \\text{ min} = 5 \\times 60 = 300 \\text{ s}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate distance using the formula.",
+        "expression": "Distance = 3 \\times 10^8 \\text{ m/s} \\times 300 \\text{ s}"
+      }
+    ],
+    "final_answer": "Thus, the distance of the spaceship from the ground station is 9 × 10^10 m.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic calculations and unit conversions.",
+    "topics_tags": [
+      "Speed of Light",
+      "Distance",
+      "Signal Transmission"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.8",
+    "class": 9,
+    "subject": "science",
+    "chapter_number": 8,
+    "chapter_name": "motion",
+    "question_type": "conceptual",
+    "question_text": "When will you say a body is in (i) uniform acceleration? (ii) non-uniform acceleration?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "(i) A body is said to be in uniform acceleration if it travels in a straight line and its velocity increases or decreases by equal amounts in equal intervals of time. (ii) A body is said to be in non-uniform acceleration if the rate of change of its velocity is not constant.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, uniform acceleration involves constant change in velocity, while non-uniform does not.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of definitions and examples of acceleration types.",
+    "topics_tags": [
+      "Uniform Acceleration",
+      "Non-Uniform Acceleration",
+      "Motion"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.9",
+    "class": 9,
+    "subject": "science",
+    "chapter_number": 8,
+    "chapter_name": "motion",
+    "question_type": "numerical",
+    "question_text": "A train starting from a railway station and moving with uniform acceleration attains a speed 40 km h−1 in 10 minutes. Find its acceleration.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of the train's initial and final velocity, time, and acceleration.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777739749/ncert/science/8/img_7_0.jpg",
+      "latex_extracted": "\\begin{array}{r l}{\\operatorname{lnifialvelecityot~the~train},\\upsilon=0}\\\\ {\\operatorname{limalvelocityot~the~train},\\upsilon=40\\operatorname{lim}\\cdot{\\frac{5}{18}}}\\\\ {\\operatorname{limetation},\\ t=10\\cdot{\\frac{11\\cdot1\\to0}{60}}}\\\\ {\\operatorname{limetation},\\ t=10\\cdot{\\frac{1}{185\\ m/8^{2}}}}\\\\ {\\operatorname{lim/cetation},\\ t=10\\ s(600,\\ t)+0\\cdot{\\frac{5}{185\\ m/5}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The acceleration of the train can be calculated using the formula a = (v - u) / t.",
+    "answer_latex": "a = \\frac{v - u}{t} = \\frac{40 \\cdot \\frac{5}{18} - 0}{600} = \\frac{10}{600} = \\frac{1}{60} \\text{ m/s}^2",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Convert the final speed from km/h to m/s.",
+        "expression": "v = 40 \\cdot \\frac{5}{18}"
+      },
+      {
+        "step_number": 2,
+        "description": "Convert time from minutes to seconds.",
+        "expression": "t = 10 \\cdot 60"
+      },
+      {
+        "step_number": 3,
+        "description": "Use the formula for acceleration.",
+        "expression": "a = \\frac{v - u}{t}"
+      },
+      {
+        "step_number": 4,
+        "description": "Substitute the values into the acceleration formula.",
+        "expression": "a = \\frac{40 \\cdot \\frac{5}{18} - 0}{600}"
+      }
+    ],
+    "final_answer": "Therefore, the acceleration of the train is \\frac{1}{60} m/s².",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of kinematic equations and unit conversions.",
+    "topics_tags": [
+      "Uniform Acceleration",
+      "Kinematics",
+      "Acceleration"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "Some mathematical expressions are unclear due to OCR errors."
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the train's initial and final velocity, time, and acceleration.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777739749/ncert/science/8/img_7_0.jpg",
+        "latex_extracted": "\\begin{array}{r l}{\\operatorname{lnifialvelecityot~the~train},\\upsilon=0}\\\\ {\\operatorname{limalvelocityot~the~train},\\upsilon=40\\operatorname{lim}\\cdot{\\frac{5}{18}}}\\\\ {\\operatorname{limetation},\\ t=10\\cdot{\\frac{11\\cdot1\\to0}{60}}}\\\\ {\\operatorname{limetation},\\ t=10\\cdot{\\frac{1}{185\\ m/8^{2}}}}\\\\ {\\operatorname{lim/cetation},\\ t=10\\ s(600,\\ t)+0\\cdot{\\frac{5}{185\\ m/5}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.10",
+    "class": 9,
+    "subject": "science",
+    "chapter_number": 8,
+    "chapter_name": "motion",
+    "question_type": "conceptual",
+    "question_text": "What is the nature of the distance - time graphs for uniform and non-uniform motion of an object?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Graphical representation of distance-time relationships for uniform and non-uniform motion.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777739751/ncert/science/8/img_8_0.jpg",
+      "latex_extracted": "\\left|\\begin{array}{c}{{\\displaystyle\\star\\nonumber}}\\\\ {{\\displaystyle\\frac{\\gamma}{\\hat{\\Sigma}}\\left(\\begin{array}{c}{{\\displaystyle\\gamma}}\\\\ {{\\displaystyle\\gamma\\displaystyle\\gamma\\displaystyle\\bmod{\\:\\sin\\displaystyle\\left(\\Sigma\\right)}}}\\end{array}\\right|}}\\end{array}\\right.",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "When the motion is uniform, the distance-time graph is a straight line with a slope. When the motion is non-uniform, the distance-time graph is not a straight line; it can be any curve.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the nature of the distance-time graph varies with the type of motion.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires basic understanding of graph interpretation.",
+    "topics_tags": [
+      "Distance-Time Graph",
+      "Uniform Motion",
+      "Non-Uniform Motion"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Graphical representation of distance-time relationships for uniform and non-uniform motion.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777739751/ncert/science/8/img_8_0.jpg",
+        "latex_extracted": "\\left|\\begin{array}{c}{{\\displaystyle\\star\\nonumber}}\\\\ {{\\displaystyle\\frac{\\gamma}{\\hat{\\Sigma}}\\left(\\begin{array}{c}{{\\displaystyle\\gamma}}\\\\ {{\\displaystyle\\gamma\\displaystyle\\gamma\\displaystyle\\bmod{\\:\\sin\\displaystyle\\left(\\Sigma\\right)}}}\\end{array}\\right|}}\\end{array}\\right.",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.11",
+    "class": 9,
+    "subject": "science",
+    "chapter_number": 8,
+    "chapter_name": "motion",
+    "question_type": "conceptual",
+    "question_text": "What can you say about the motion of an object whose distance - time graph is a straight line parallel to the time axis?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Graph showing a straight line parallel to the time axis indicating rest.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777739754/ncert/science/8/img_9_0.jpg",
+      "latex_extracted": "\\left\\vert\\begin{array}{c c}{{\\mathrm{~A~}}}\\\\ {{\\frac{\\gamma}{\\bar{\\Xi}}\\left(\\begin{array}{c}{{\\sqrt{}}}\\\\ {{\\frac{\\gamma}{\\Gamma\\operatorname*{me}}\\frac{\\gamma}{\\Lambda}}}\\end{array}\\right)}}\\end{array}\\right\\vert\\qquad\\qquad\\left\\vert\\begin{array}{c}{{}}\\\\ {{\\frac{1}{\\Lambda}}}\\end{array}\\right\\vert}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "If the distance-time graph is a straight line parallel to the time axis, the body is at rest.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the object is stationary.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct observation of graph characteristics.",
+    "topics_tags": [
+      "Distance-Time Graph",
+      "Rest",
+      "Motion"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Graph showing a straight line parallel to the time axis indicating rest.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777739754/ncert/science/8/img_9_0.jpg",
+        "latex_extracted": "\\left\\vert\\begin{array}{c c}{{\\mathrm{~A~}}}\\\\ {{\\frac{\\gamma}{\\bar{\\Xi}}\\left(\\begin{array}{c}{{\\sqrt{}}}\\\\ {{\\frac{\\gamma}{\\Gamma\\operatorname*{me}}\\frac{\\gamma}{\\Lambda}}}\\end{array}\\right)}}\\end{array}\\right\\vert\\qquad\\qquad\\left\\vert\\begin{array}{c}{{}}\\\\ {{\\frac{1}{\\Lambda}}}\\end{array}\\right\\vert}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.12",
+    "class": 9,
+    "subject": "science",
+    "chapter_number": 8,
+    "chapter_name": "motion",
+    "question_type": "conceptual",
+    "question_text": "What can you say about the motion of an object if its speed - time graph is a straight line parallel to the time axis?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "If speed time graph is a straight line parallel to the time axis, the object is moving uniformly.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "The object is moving uniformly.",
+    "answer_image": {
+      "present": true,
+      "description": "Image related to speed-time graph showing a straight line parallel to the time axis.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777739758/ncert/science/8/img_10_0.jpg",
+      "latex_extracted": "\\star\\left|\\displaystyle\\left(\\begin{array}{c}{{\\H}}\\\\ {{\\displaystyle\\left(\\begin{array}{c}{{}}\\\\ {{\\displaystyle\\uparrow}}\\\\ {{\\displaystyle\\mathrm{~\\rime}~\\longrightarrow~\\pm}}\\end{array}\\right)}\\right.",
+      "source_page_number": 10,
+      "source_image_index": 0,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of the concept of speed-time graphs.",
+    "topics_tags": [
+      "Speed-Time Graph",
+      "Uniform Motion",
+      "Kinematics"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image related to speed-time graph showing a straight line parallel to the time axis.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777739758/ncert/science/8/img_10_0.jpg",
+        "latex_extracted": "\\star\\left|\\displaystyle\\left(\\begin{array}{c}{{\\H}}\\\\ {{\\displaystyle\\left(\\begin{array}{c}{{}}\\\\ {{\\displaystyle\\uparrow}}\\\\ {{\\displaystyle\\mathrm{~\\rime}~\\longrightarrow~\\pm}}\\end{array}\\right)}\\right.",
+        "source_page_number": 10,
+        "source_image_index": 0,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q8.13",
+    "class": 9,
+    "subject": "science",
+    "chapter_number": 8,
+    "chapter_name": "motion",
+    "question_type": "conceptual",
+    "question_text": "What is the quantity which is measured by the area occupied below the velocity -time graph?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The area below velocity-time graph gives the distance covered by the object.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "The distance covered by the object is measured by the area below the velocity-time graph.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of the concept related to velocity-time graphs.",
+    "topics_tags": [
+      "Velocity-Time Graph",
+      "Distance",
+      "Kinematics"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.14",
+    "class": 9,
+    "subject": "science",
+    "chapter_number": 8,
+    "chapter_name": "motion",
+    "question_type": "mcq",
+    "question_text": "A bus starting from rest moves with a uniform acceleration of 0.1 m/s² for 2 minutes. Find (a) the speed acquired, (b) the distance travelled.",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "the speed acquired,"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "the distance travelled."
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Find the speed acquired.",
+        "part_latex": null,
+        "answer_text": "The speed acquired by the bus is 12 m/s.",
+        "answer_latex": "v = 12 \text{ m/s}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Convert time from minutes to seconds.",
+            "expression": "t = 2 \text{ minutes} = 120 \text{ s}"
+          },
+          {
+            "step_number": 2,
+            "description": "Use the formula for final velocity.",
+            "expression": "v = u + at = 0 + 0.1 \times 120"
+          }
+        ],
+        "final_answer": "Thus, the speed acquired by the bus is 12 m/s.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Find the distance travelled.",
+        "part_latex": null,
+        "answer_text": "The distance travelled by the bus is 720 m.",
+        "answer_latex": "s = 720 \text{ m}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the third equation of motion to find distance.",
+            "expression": "v^2 = u^2 + 2as"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute known values into the equation.",
+            "expression": "(12)^2 = (0)^2 + 2(0.1)s"
+          }
+        ],
+        "final_answer": "Therefore, the distance travelled by the bus is 720 m.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps to calculate speed and distance.",
+    "topics_tags": [
+      "Uniform Acceleration",
+      "Distance",
+      "Speed"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [],
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    }
+  },
+  {
+    "question_id": "Q8.15",
+    "class": 9,
+    "subject": "science",
+    "chapter_number": 8,
+    "chapter_name": "motion",
+    "question_type": "numerical",
+    "question_text": "A stone is thrown in a vertically upward direction with a velocity of 5 m s−1. If the acceleration of the stone during its motion is 10 m s−2 in the downward direction, what will be the height attained by the stone and how much time will it take to reach there?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical derivation related to the motion of the stone.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777739780/ncert/science/8/img_15_0.jpg",
+      "latex_extracted": "\\begin{array}{c}{{\\mathrm{rherefore,~riejelitefint~atrained~by~the~stone,~}}}\\\\ {{={\\frac{-25}{25}}\\ m}}\\\\ {{\\mathrm{~-1}_{-25}\\qquad}}\\\\ {{\\mathrm{~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~}}}\\\\ {{\\qquad~~~~~~~~~~~~~~~~~}}}\\\\ {{\\qquad~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~}}\\\\ {{\\qquad~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~{{\\scriptstyle{-1}}{{\\epsilon l e l e r a r a r a r a l e l e l e l e r a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t",
+      "source_page_number": 15,
+      "source_image_index": 0,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The height attained by the stone can be calculated using the formula h = \\frac{u^2}{2a}. Therefore, the height attained is 1.25 m and the time taken to reach there is 0.5 s.",
+    "answer_latex": "h = \\frac{u^2}{2a} = \\frac{(5)^2}{2 \\times 10} = 1.25 \\text{ m}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Use the formula for height attained in vertical motion.",
+        "expression": "h = \\frac{u^2}{2a}"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values of initial velocity and acceleration.",
+        "expression": "h = \\frac{(5)^2}{2 \\times 10} = 1.25"
+      }
+    ],
+    "final_answer": "Therefore, the height attained by the stone is 1.25 m and it takes 0.5 seconds to reach there.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of kinematic equations and substitution.",
+    "topics_tags": [
+      "Vertical Motion",
+      "Acceleration",
+      "Kinematics"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "Some text garbling in the image extraction."
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical derivation related to the motion of the stone.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777739780/ncert/science/8/img_15_0.jpg",
+        "latex_extracted": "\\begin{array}{c}{{\\mathrm{rherefore,~riejelitefint~atrained~by~the~stone,~}}}\\\\ {{={\\frac{-25}{25}}\\ m}}\\\\ {{\\mathrm{~-1}_{-25}\\qquad}}\\\\ {{\\mathrm{~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~}}}\\\\ {{\\qquad~~~~~~~~~~~~~~~~~}}}\\\\ {{\\qquad~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~}}\\\\ {{\\qquad~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~{{\\scriptstyle{-1}}{{\\epsilon l e l e r a r a r a r a l e l e l e l e r a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t a t",
+        "source_page_number": 15,
+        "source_image_index": 0,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.16",
+    "class": 9,
+    "subject": "science",
+    "chapter_number": 8,
+    "chapter_name": "motion",
+    "question_type": "numerical",
+    "question_text": "An athlete completes one round of a circular track of diameter 200 m in 40 s. What will be the distance covered and the displacement at the end of 2 minutes 20 s?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The distance covered by the athlete is 2200 m and the displacement is the straight line distance from the starting point to the final position.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the radius of the circular track.",
+        "expression": "r = \\frac{200}{2} = 100 \\text{ m}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the distance covered in one round.",
+        "expression": "s = 2 \\pi r = 2 \\times \\frac{22}{7} \\times 100"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the speed of the athlete.",
+        "expression": "v = \\frac{Distance}{Time} = \\frac{2 \\times 2200}{7 \\times 40}"
+      },
+      {
+        "step_number": 4,
+        "description": "Calculate the total distance covered in 140 seconds.",
+        "expression": "Distance = v \\times t = \\frac{4400}{7 \\times 40} \\times 140"
+      }
+    ],
+    "final_answer": "Therefore, the distance covered is 2200 m.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the athlete's position after completing 3.5 rounds on a circular track.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777739798/ncert/science/8/img_17_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations including distance, speed, and displacement.",
+    "topics_tags": [
+      "Circular Motion",
+      "Distance",
+      "Displacement"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the athlete's position after completing 3.5 rounds on a circular track.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777739798/ncert/science/8/img_17_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q8.17",
+    "class": 9,
+    "subject": "science",
+    "chapter_number": 8,
+    "chapter_name": "motion",
+    "question_type": "mcq",
+    "question_text": "Joseph jogs from one end A to the other end B of a straight 300 m road in 2 minutes 30 seconds and then turns around and jogs 100 m back to point C in another 1 minute. What are Joseph's average speeds and velocities in jogging (a) from A to B and (b) from A to C?",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "from A to B and"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "from A to C?"
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Calculate average speed and velocity from A to B.",
+        "part_latex": null,
+        "answer_text": "Average speed from A to B is 2 m/s and velocity is also 2 m/s.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate total distance and time from A to B.",
+            "expression": "Distance = 300 m, Time = 150 s"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate average speed.",
+            "expression": "Average Speed = \\frac{Total Distance}{Total Time} = \\frac{300}{150} = 2 \\text{ m/s}"
+          },
+          {
+            "step_number": 3,
+            "description": "Calculate average velocity.",
+            "expression": "Velocity = \\frac{Displacement}{Time} = \\frac{300}{150} = 2 \\text{ m/s}"
+          }
+        ],
+        "final_answer": "Thus, average speed and velocity from A to B are both 2 m/s.",
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Calculate average speed and velocity from A to C.",
+        "part_latex": null,
+        "answer_text": "Average speed from A to C is 2 m/s and velocity is 0.67 m/s.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate total distance and time from A to C.",
+            "expression": "Distance = 300 + 100 = 400 m, Time = 150 + 60 = 210 s"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate average speed.",
+            "expression": "Average Speed = \\frac{400}{210} \\approx 1.90 \\text{ m/s}"
+          },
+          {
+            "step_number": 3,
+            "description": "Calculate average velocity.",
+            "expression": "Velocity = \\frac{Displacement}{Time} = \\frac{200}{210} \\approx 0.95 \\text{ m/s}"
+          }
+        ],
+        "final_answer": "Thus, average speed from A to C is approximately 1.90 m/s and average velocity is approximately 0.95 m/s.",
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing Joseph's jogging path from A to B and back to C.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777739806/ncert/science/8/img_18_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of average speed and velocity concepts with calculations.",
+    "topics_tags": [
+      "Average Speed",
+      "Average Velocity",
+      "Motion"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing Joseph's jogging path from A to B and back to C.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777739806/ncert/science/8/img_18_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q8.18",
+    "class": 9,
+    "subject": "science",
+    "chapter_number": 8,
+    "chapter_name": "motion",
+    "question_type": "mcq",
+    "question_text": "A motorboat starting from rest on a lake accelerates in a straight line at a constant rate of 3.0 m s−2 for 8.0 s. How far does the boat travel during this time?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical expression related to the distance traveled by the motorboat.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777739811/ncert/science/8/img_21_0.jpg",
+      "latex_extracted": "\\begin{array}{l}{{\\frac{\\gamma}{x}}}\\\\ {{\\frac{\\lambda}{x}\\displaystyle\\sum_{\\alpha}^{\\frac{\\nu}{2}}\\displaystyle\\sum_{\\alpha}^{\\frac{\\nu}{2}}\\displaystyle\\sum_{\\Lambda\\in\\Delta\\atop\\left\\vert\\begin{array}{l}{\\infty}\\\\ {\\frac{\\nu}{\\Lambda}\\pm\\left\\vert\\displaystyle\\sum_{\\Lambda\\atop\\right\\vert}\\displaystyle\\left\\langle\\begin{array}{l}{\\quad\\quad}\\\\ {\\frac{\\nu}{\\Lambda}}\\right\\vert}}\\\\ {{\\frac{\\nu}{\\zeta}\\pm\\left\\vert-\\frac{\\Lambda}{-\\lambda-\\frac{\\Lambda}{\\rightarrow\\infty}\\pm\\frac{\\Lambda}{\\rightarrow\\quad\\nu\\equiv\\nu\\sin\\infty\\left\\vert\\begin{array}{l}{\\zeta}\\\\ {\\frac{\\Lambda}{\\Lambda}\\end{array}\\right\\vert}}}\\end{array}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The distance traveled by the motorboat is 96 m.",
+    "answer_latex": "s = 96 \text{ m}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the initial velocity, acceleration, and time.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the formula for distance under constant acceleration.",
+        "expression": "s = ut + \\frac{1}{2}at^2"
+      },
+      {
+        "step_number": 3,
+        "description": "Substitute the values into the formula.",
+        "expression": "s = 0 \\cdot 8 + \\frac{1}{2} \\cdot 3.0 \\cdot 8^2"
+      },
+      {
+        "step_number": 4,
+        "description": "Calculate the distance.",
+        "expression": "s = \\frac{1}{2} \\cdot 3 \\cdot 8 \\cdot 8 = 96"
+      }
+    ],
+    "final_answer": "Therefore, the distance traveled by the motorboat is 96 m.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of kinematic equations and substitution.",
+    "topics_tags": [
+      "Kinematics",
+      "Acceleration",
+      "Distance"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical expression related to the distance traveled by the motorboat.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777739811/ncert/science/8/img_21_0.jpg",
+        "latex_extracted": "\\begin{array}{l}{{\\frac{\\gamma}{x}}}\\\\ {{\\frac{\\lambda}{x}\\displaystyle\\sum_{\\alpha}^{\\frac{\\nu}{2}}\\displaystyle\\sum_{\\alpha}^{\\frac{\\nu}{2}}\\displaystyle\\sum_{\\Lambda\\in\\Delta\\atop\\left\\vert\\begin{array}{l}{\\infty}\\\\ {\\frac{\\nu}{\\Lambda}\\pm\\left\\vert\\displaystyle\\sum_{\\Lambda\\atop\\right\\vert}\\displaystyle\\left\\langle\\begin{array}{l}{\\quad\\quad}\\\\ {\\frac{\\nu}{\\Lambda}}\\right\\vert}}\\\\ {{\\frac{\\nu}{\\zeta}\\pm\\left\\vert-\\frac{\\Lambda}{-\\lambda-\\frac{\\Lambda}{\\rightarrow\\infty}\\pm\\frac{\\Lambda}{\\rightarrow\\quad\\nu\\equiv\\nu\\sin\\infty\\left\\vert\\begin{array}{l}{\\zeta}\\\\ {\\frac{\\Lambda}{\\Lambda}\\end{array}\\right\\vert}}}\\end{array}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.19",
+    "class": 9,
+    "subject": "science",
+    "chapter_number": 8,
+    "chapter_name": "motion",
+    "question_type": "conceptual",
+    "question_text": "A driver of a car travelling at 52 km h−1 applies the brakes and accelerates uniformly in the opposite direction. The car stops in 5 s. Another driver going at 3 km h−1 in another car applies his brakes slowly and stops in 10 s. On the same graph paper, plot the speed versus time graphs for the two cars. Which of the two cars travelled farther after the brakes were applied?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "To determine which car traveled farther after the brakes were applied, we need to analyze the speed versus time graphs for both cars.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "The car that was initially traveling faster (52 km/h) will have a greater distance covered before stopping compared to the slower car (3 km/h).",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of speed-time graphs and distance calculation.",
+    "topics_tags": [
+      "Speed-Time Graph",
+      "Braking Distance",
+      "Kinematics"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.20",
+    "class": 9,
+    "subject": "science",
+    "chapter_number": 8,
+    "chapter_name": "motion",
+    "question_type": "mcq",
+    "question_text": "6. Fig 8.11 shows the distance-time graph of three objects A, B and C. Study the graph and answer the following questions:\n(a) Which of the three is travelling the fastest?\n(b) Are all three ever at the same point on the road?\n(c) How far has C travelled when B passes A?\n(d) How far has B travelled by the time it passes C?",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "Which of the three is travelling the fastest?"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "Are all three ever at the same point on the road?"
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "How far has C travelled when B passes A?"
+      },
+      {
+        "option_label": "(D)",
+        "option_text": "How far has B travelled by the time it passes C?"
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Distance-time graph showing the motion of three objects A, B, and C.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777739820/ncert/science/8/img_23_0.jpg",
+      "latex_extracted": "\\begin{array}{r}{{\\mathrm{Speed}}={\\frac{\\mathrm{Distance}}{\\mathrm{Time}}}}\\\\ {{\\mathrm{Slope~of~graph}={\\frac{y-\\mathrm{axis}}{x-\\mathrm{axis}}}={\\frac{\\mathrm{Distance}}{\\mathrm{Time}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Which of the three is travelling the fastest?",
+        "part_latex": null,
+        "answer_text": "Object B",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Therefore, Object B is travelling the fastest.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Are all three ever at the same point on the road?",
+        "part_latex": null,
+        "answer_text": "No",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, they were never at the same point on the road.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "How far has C travelled when B passes A?",
+        "part_latex": null,
+        "answer_text": "5.714 km",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "C has travelled 5.714 km when B passes A.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(d)",
+        "part_text": "How far has B travelled by the time it passes C?",
+        "part_latex": null,
+        "answer_text": "5.143 km",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "B has travelled 5.143 km by the time it passes C.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of distance-time graphs and basic calculations.",
+    "topics_tags": [
+      "Distance-Time Graph",
+      "Speed",
+      "Motion"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Distance-time graph showing the motion of three objects A, B, and C.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777739820/ncert/science/8/img_23_0.jpg",
+        "latex_extracted": "\\begin{array}{r}{{\\mathrm{Speed}}={\\frac{\\mathrm{Distance}}{\\mathrm{Time}}}}\\\\ {{\\mathrm{Slope~of~graph}={\\frac{y-\\mathrm{axis}}{x-\\mathrm{axis}}}={\\frac{\\mathrm{Distance}}{\\mathrm{Time}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.23",
+    "class": 9,
+    "subject": "science",
+    "chapter_number": 8,
+    "chapter_name": "motion",
+    "question_type": "mcq",
+    "question_text": "State which of the following situations are possible and give an example for each of these:\\n(a) an object with a constant acceleration but with zero velocity.\\n(b) an object moving in a certain direction with an acceleration in the perpendicular direction.",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "an object with a constant acceleration but with zero velocity.\\n"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "an object moving in a certain direction with an acceleration in the perpendicular direction."
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "an object with a constant acceleration but with zero velocity.",
+        "part_latex": null,
+        "answer_text": "Possible. When a ball is thrown up at maximum height, it has zero velocity, although it will have constant acceleration due to gravity, which is equal to 9.8 m/s².",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, a ball at maximum height exemplifies this situation.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "an object moving in a certain direction with an acceleration in the perpendicular direction.",
+        "part_latex": null,
+        "answer_text": "Possible. When a car is moving in a circular track, its acceleration is perpendicular to its direction.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Therefore, a car on a circular track illustrates this scenario.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of motion concepts and examples.",
+    "topics_tags": [
+      "Acceleration",
+      "Velocity",
+      "Circular Motion"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.24",
+    "class": 9,
+    "subject": "science",
+    "chapter_number": 8,
+    "chapter_name": "motion",
+    "question_type": "numerical",
+    "question_text": "An artificial satellite is moving in a circular orbit of radius 42250 km. Calculate its speed if it takes 24 hours to revolve around the earth.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The speed of the satellite is calculated using the formula v = (2πr)/t.",
+    "answer_latex": "v = \\frac{2 \\pi r}{t} = \\frac{2 \\times \\frac{22}{7} \\times 42250 \\times 1000}{24 \\times 60 \\times 60} = 3073.74 \\text{ m/s}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the formula for the speed of a circular moving object.",
+        "expression": "v = \\frac{2 \\pi r}{t}"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values of radius and time into the formula.",
+        "expression": "v = \\frac{2 \\times \\frac{22}{7} \\times 42250 \\times 1000}{24 \\times 60 \\times 60}"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the speed.",
+        "expression": "v = 3073.74 \\text{ m/s}"
+      }
+    ],
+    "final_answer": "Therefore, the speed of the artificial satellite is 3073.74 m/s.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves applying a formula and performing calculations.",
+    "topics_tags": [
+      "Satellite Motion",
+      "Circular Motion",
+      "Speed Calculation"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  }
+]

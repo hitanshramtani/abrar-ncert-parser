@@ -1,0 +1,682 @@
+[
+  {
+    "question_id": "Q7.1",
+    "class": 7,
+    "subject": "maths",
+    "chapter_number": 7,
+    "chapter_name": "congruence of triangles",
+    "question_type": "multipart",
+    "question_text": "Complete the following statements:",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Two line segments are congruent if __________.",
+        "part_latex": null,
+        "answer_text": "They have the same length",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Among two congruent angles, one has a measure of 70°; the measure of the other angle is __________.",
+        "part_latex": null,
+        "answer_text": "70°",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "When we write A = B, we actually mean __________.",
+        "part_latex": null,
+        "answer_text": "m A = m B",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of definitions and properties.",
+    "topics_tags": [
+      "Congruence",
+      "Triangles",
+      "Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.2",
+    "class": 7,
+    "subject": "maths",
+    "chapter_number": 7,
+    "chapter_name": "congruence of triangles",
+    "question_type": "conceptual",
+    "question_text": "Give any two real-life examples for congruent shapes.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Sheets of same letter pad, Biscuits in the same packet.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "These examples illustrate congruence in real life.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Simple identification of examples.",
+    "topics_tags": [
+      "Congruence",
+      "Real-life Examples",
+      "Geometry"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.3",
+    "class": 7,
+    "subject": "maths",
+    "chapter_number": 7,
+    "chapter_name": "congruence of triangles",
+    "question_type": "conceptual",
+    "question_text": "If ΔABC ≅ ΔFED under the correspondence ABC ↔ FED, write all the Corresponding congruent parts of the triangles.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "If these triangles are congruent, then the corresponding angles and sides will be equal to each other: A ↔ F, B ↔ E, C ↔ D.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the corresponding parts are A ↔ F, B ↔ E, C ↔ D.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of triangle congruence.",
+    "topics_tags": [
+      "Triangle Congruence",
+      "Corresponding Parts",
+      "Geometry"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.4",
+    "class": 7,
+    "subject": "maths",
+    "chapter_number": 7,
+    "chapter_name": "congruence of triangles",
+    "question_type": "multipart",
+    "question_text": "Which congruence criterion do you use in the following?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Given: AC = DF, AB = DE, BC = EF. So, ΔABC ≅ ΔDEF.",
+        "part_latex": null,
+        "answer_text": "SSS, as the sides of ΔABC are equal to the sides of ΔDEF.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Given: ZX = RP, RQ = ZY, ∠PRQ = ∠XZY. So, ΔPQR ≅ ΔXYZ.",
+        "part_latex": null,
+        "answer_text": "SAS, as two sides and the angle included between these sides of ΔPQR are equal to two sides and the angle included between these sides of ΔXYZ.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "Given: MLN ≅ FGH, NML ≅ GFH, ML = FG. So, ΔLMN ≅ ΔGFH.",
+        "part_latex": null,
+        "answer_text": "ASA, as two angles and the side included between these angles of ΔLMN are equal to two angles and the side included between these angles of ΔGFH.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(d)",
+        "part_text": "Given: EB = DB, AE = BC, ∠A = ∠C = 90°. So, ΔABE ≅ ΔCDB.",
+        "part_latex": null,
+        "answer_text": "RHS, as in the given two right-angled triangles, one side and the hypotenuse are respectively equal.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of congruence criteria.",
+    "topics_tags": [
+      "Congruence Criteria",
+      "Triangles",
+      "Geometry"
+    ],
+    "confidence_score": 0.94,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.5",
+    "class": 7,
+    "subject": "maths",
+    "chapter_number": 7,
+    "chapter_name": "congruence of triangles",
+    "question_type": "multipart",
+    "question_text": "In the following proof, supply the missing reasons. You have to show that ΔAMP ≅ ΔAMQ.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing two triangles ΔAMP and ΔAMQ with marked sides and angles.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777836042/ncert/maths/7/img_4_0.png",
+      "latex_extracted": "\\begin{array}{c}{{\\qquad}}\\\\ {{\\qquad\\left.\\begin{array}{c}{{\\qquad}}\\\\ {{\\qquad\\qquad}}\\\\ {{\\qquad\\qquad}}\\\\ {{\\qquad\\qquad}}\\\\ {{\\qquad\\qquad}}\\\\ {{\\qquad\\qquad\\qquad\\qquad}}\\\\ {{\\qquad\\qquad\\qquad}}\\\\ {{\\qquad\\qquad}}\\\\ {{\\qquad\\qquad}}\\\\ {{\\qquad\\qquad\\qquad}}\\\\ {{\\qquad\\qquad}}\\\\ {{\\qquad\\qquad}}\\\\ {{\\qquad\\qquad}}\\\\ {{\\qquad\\qquad}}\\\\ {{\\qquad}}&{{\\qquad\\qquad}}\\\\ {{\\qquad\\qquad}}\\\\ {{\\qquad\\qquad\\qquad}}\\\\ {{\\qquad\\qquad}}\\\\ {{\\qquad\\qquad}}\\\\ {{\\qquad\\qquad\\qquad}}\\\\ {{\\qquad\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}&{{\\qquad\\qquad\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad\\qquad}}\\\\ {{\\qquad}}&{{\\qquad}}}\\\\ {{\\qquad}}\\\\ {{\\qquad\\qquad}}\\\\ {{\\qquad\\qquad}}&{{\\qquad}}\\\\ {{{\\qquad{\\qquad}}}\\qquad}}\\\\ {{\\qquad{\\qquad}}\\\\ {{{\\qquad}}}\\\\ {{{\\qquad}}}}\\\\ {{\\qquad{{{{\\qquad}}}}}}\\\\ {{{{{{{{{\\qquad}}}}}}\\\\ {{{\\qquad{\\qquad{{\\qquad}}}}}\\\\ {{{{{{\\qquad}}}}{\\qquad{{{\\qquad{{{\\qquad}}}}}\\\\ {{{{\\qquad{{{\\qquad}}{{{{{{{{{\\qquad}}}}}}}}}}\\\\ {{{{{{\\qquad}}}}\\\\ {{{{{{{{{{{",
+      "source_page_number": 4,
+      "source_image_index": 0,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "Given",
+        "part_latex": null,
+        "answer_text": "Given",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "Given",
+        "part_latex": null,
+        "answer_text": "Given",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "Common",
+        "part_latex": null,
+        "answer_text": "Common",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iv)",
+        "part_text": "SAS, as the two sides and the angle included between these sides of ΔAMP are equal to two sides and the angle included between these sides of ΔAMQ.",
+        "part_latex": null,
+        "answer_text": "SAS, as the two sides and the angle included between these sides of ΔAMP are equal to two sides and the angle included between these sides of ΔAMQ.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of triangle congruence criteria and logical reasoning.",
+    "topics_tags": [
+      "Triangle Congruence",
+      "SAS Criterion",
+      "Proof"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing two triangles ΔAMP and ΔAMQ with marked sides and angles.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777836042/ncert/maths/7/img_4_0.png",
+        "latex_extracted": "\\begin{array}{c}{{\\qquad}}\\\\ {{\\qquad\\left.\\begin{array}{c}{{\\qquad}}\\\\ {{\\qquad\\qquad}}\\\\ {{\\qquad\\qquad}}\\\\ {{\\qquad\\qquad}}\\\\ {{\\qquad\\qquad}}\\\\ {{\\qquad\\qquad\\qquad\\qquad}}\\\\ {{\\qquad\\qquad\\qquad}}\\\\ {{\\qquad\\qquad}}\\\\ {{\\qquad\\qquad}}\\\\ {{\\qquad\\qquad\\qquad}}\\\\ {{\\qquad\\qquad}}\\\\ {{\\qquad\\qquad}}\\\\ {{\\qquad\\qquad}}\\\\ {{\\qquad\\qquad}}\\\\ {{\\qquad}}&{{\\qquad\\qquad}}\\\\ {{\\qquad\\qquad}}\\\\ {{\\qquad\\qquad\\qquad}}\\\\ {{\\qquad\\qquad}}\\\\ {{\\qquad\\qquad}}\\\\ {{\\qquad\\qquad\\qquad}}\\\\ {{\\qquad\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}&{{\\qquad\\qquad\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad\\qquad}}\\\\ {{\\qquad}}&{{\\qquad}}}\\\\ {{\\qquad}}\\\\ {{\\qquad\\qquad}}\\\\ {{\\qquad\\qquad}}&{{\\qquad}}\\\\ {{{\\qquad{\\qquad}}}\\qquad}}\\\\ {{\\qquad{\\qquad}}\\\\ {{{\\qquad}}}\\\\ {{{\\qquad}}}}\\\\ {{\\qquad{{{{\\qquad}}}}}}\\\\ {{{{{{{{{\\qquad}}}}}}\\\\ {{{\\qquad{\\qquad{{\\qquad}}}}}\\\\ {{{{{{\\qquad}}}}{\\qquad{{{\\qquad{{{\\qquad}}}}}\\\\ {{{{\\qquad{{{\\qquad}}{{{{{{{{{\\qquad}}}}}}}}}}\\\\ {{{{{{\\qquad}}}}\\\\ {{{{{{{{{{{",
+        "source_page_number": 4,
+        "source_image_index": 0,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.6",
+    "class": 7,
+    "subject": "maths",
+    "chapter_number": 7,
+    "chapter_name": "congruence of triangles",
+    "question_type": "conceptual",
+    "question_text": "In ΔABC, A = 30°, B = 40° and C = 110°. In ΔPQR, P = 30°, Q = 40° and R = 110°. A student says that ΔABC ≅ ΔPQR by AAA congruence criterion. Is he justified? Why or why not?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "No. This property represents that these triangles have their respective angles of equal measure. However, this gives no information about their sides. The sides of these triangles have a ratio somewhat different than 1:1. Therefore, AAA property does not prove the two triangles congruent.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, AAA property does not prove the two triangles congruent.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of triangle properties and congruence criteria.",
+    "topics_tags": [
+      "Triangle Congruence",
+      "AAA Criterion",
+      "Angle Properties"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q7.9",
+    "class": 7,
+    "subject": "maths",
+    "chapter_number": 7,
+    "chapter_name": "congruence of triangles",
+    "question_type": "conceptual",
+    "question_text": "Explain, why ΔABC ≅ ΔFED.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Given that, ∠ABC = ∠FED (1), ∠BAC = ∠EFD (2). The two angles of ΔABC are equal to the two respective angles of ΔFED. Also, the sum of all interior angles of a triangle is 180º. Therefore, the third angle of both triangles will also be equal in measure, ∠BCA = ∠EDF (3). Also, given that, BC = ED (4). By using equations (1), (3), and (4), we obtain ΔABC ≅ ΔFED (ASA criterion).",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the equal angles between the two triangles.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "State the sum of angles in a triangle is 180º to find the third angle.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Use the ASA criterion to conclude the triangles are congruent.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, ΔABC ≅ ΔFED by the ASA criterion.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing triangles ABC and FED with angles and sides labeled.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777836066/ncert/maths/7/img_7_0.jpg",
+      "latex_extracted": "\\left[\\left[\\frac{\\Lambda^{\\cdot}\\sum}{\\Lambda}_{\\displaystyle{\\bf Y}_{\\displaystyle{\\bf\\scriptstyle{N}}}}\\right._{\\displaystyle{\\bf Y}_{\\displaystyle{\\bf\\scriptstyle{N}}}\\atop{\\left[\\displaystyle{\\bf\\scriptstyle{F}}}\\right.}\\!\\!\\right]_{\\displaystyle{\\bf F}}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of triangle congruence criteria and basic reasoning.",
+    "topics_tags": [
+      "Triangle Congruence",
+      "ASA Criterion",
+      "Angles"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing triangles ABC and FED with angles and sides labeled.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777836066/ncert/maths/7/img_7_0.jpg",
+        "latex_extracted": "\\left[\\left[\\frac{\\Lambda^{\\cdot}\\sum}{\\Lambda}_{\\displaystyle{\\bf Y}_{\\displaystyle{\\bf\\scriptstyle{N}}}}\\right._{\\displaystyle{\\bf Y}_{\\displaystyle{\\bf\\scriptstyle{N}}}\\atop{\\left[\\displaystyle{\\bf\\scriptstyle{F}}}\\right.}\\!\\!\\right]_{\\displaystyle{\\bf F}}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  }
+]

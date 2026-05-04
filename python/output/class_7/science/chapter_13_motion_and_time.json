@@ -1,0 +1,659 @@
+[
+  {
+    "question_id": "Q13.1",
+    "class": 7,
+    "subject": "science",
+    "chapter_number": 13,
+    "chapter_name": "motion and time",
+    "question_type": "conceptual",
+    "question_text": "Classify the following as motion along a straight line, circular or oscillatory motion: (i) Motion of your hands while running. (ii) Motion of a horse pulling a cart on a straight road. (iii) Motion of a child in a merry-go-round. (iv) Motion of a child on a see-saw. (v) Motion of the hammer of an electric bell. (vi) Motion of a train on a straight bridge.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "(i) Oscillatory motion. (ii) Straight line. (iii) Circular motion. (iv) Oscillatory motion. (v) Oscillatory motion. (vi) Straight line.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "The classifications are: (i) Oscillatory, (ii) Straight line, (iii) Circular, (iv) Oscillatory, (v) Oscillatory, (vi) Straight line.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of different types of motion.",
+    "topics_tags": [
+      "Types of Motion",
+      "Oscillatory Motion",
+      "Circular Motion"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.2",
+    "class": 7,
+    "subject": "science",
+    "chapter_number": 13,
+    "chapter_name": "motion and time",
+    "question_type": "conceptual",
+    "question_text": "Which of the following are not correct? (i) The basic unit of time is second. (ii) Every object moves with a constant speed. (iii) Distances between two cities are measured in kilometres. (iv) The time period of a given pendulum is not constant. (v) The speed of a train is expressed in m/h.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "(i) Correct. (ii) Not correct. (iii) Correct. (iv) Not correct. (v) Not correct.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "The incorrect statements are (ii), (iv), and (v).",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires knowledge of basic physics concepts.",
+    "topics_tags": [
+      "Units of Measurement",
+      "Speed",
+      "Pendulum"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.3",
+    "class": 7,
+    "subject": "science",
+    "chapter_number": 13,
+    "chapter_name": "motion and time",
+    "question_type": "numerical",
+    "question_text": "A simple pendulum takes 32 s to complete 20 oscillations. What is the time period of the pendulum?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The time period of the pendulum is calculated by dividing the total time by the number of oscillations.",
+    "answer_latex": "T = \frac{32 \text{ s}}{20} = 1.6 \text{ s}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the time period by dividing total time by number of oscillations.",
+        "expression": "T = \\frac{32}{20}"
+      },
+      {
+        "step_number": 2,
+        "description": "Perform the division to find the time period.",
+        "expression": "T = 1.6"
+      }
+    ],
+    "final_answer": "Therefore, the time period of the pendulum is 1.6 seconds.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic calculation and understanding of oscillations.",
+    "topics_tags": [
+      "Pendulum",
+      "Oscillation",
+      "Time Period"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.4",
+    "class": 7,
+    "subject": "science",
+    "chapter_number": 13,
+    "chapter_name": "motion and time",
+    "question_type": "numerical",
+    "question_text": "The distance between two stations is 240 km. A train takes 4 hours to cover this distance. Calculate the speed of the train.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Speed is calculated by dividing distance by time.",
+    "answer_latex": "Speed = \\frac{240 \\text{ km}}{4 \\text{ h}} = 60 \\text{ km/h}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the formula for speed as distance divided by time.",
+        "expression": "Speed = \\frac{Distance}{Time}"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values into the formula.",
+        "expression": "Speed = \\frac{240}{4}"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the speed.",
+        "expression": "Speed = 60"
+      }
+    ],
+    "final_answer": "Therefore, the speed of the train is 60 km/h.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires basic calculation of speed.",
+    "topics_tags": [
+      "Speed",
+      "Distance",
+      "Time"
+    ],
+    "confidence_score": 0.97,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.5",
+    "class": 7,
+    "subject": "science",
+    "chapter_number": 13,
+    "chapter_name": "motion and time",
+    "question_type": "numerical",
+    "question_text": "The odometer of a car reads 57321.0 km when the clock shows the time 08:30 AM. What is the distance moved by the car, if at 08:50 AM, the odometer reading has changed to 57336.0 km? Calculate the speed of the car in km/min during this time. Express the speed in km/h also.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Distance covered by the car is 15 km. Time taken is 20 minutes. Speed in km/min is 0.75 km/min and in km/h is 45 km/h.",
+    "answer_latex": "Speed = \\frac{15 \\text{ km}}{20 \\text{ min}} = 0.75 \\text{ km/min} \\quad \\text{and} \\quad Speed = 0.75 \\times 60 = 45 \\text{ km/h}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the distance covered by subtracting initial odometer reading from final reading.",
+        "expression": "Distance = 57336.0 - 57321.0"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the time taken in minutes.",
+        "expression": "Time = 20"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate speed in km/min.",
+        "expression": "Speed = \\frac{15}{20}"
+      },
+      {
+        "step_number": 4,
+        "description": "Convert speed to km/h.",
+        "expression": "Speed = 0.75 \\times 60"
+      }
+    ],
+    "final_answer": "Therefore, the speed of the car is 0.75 km/min or 45 km/h.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations and conversions.",
+    "topics_tags": [
+      "Odometer",
+      "Speed",
+      "Distance"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.6",
+    "class": 7,
+    "subject": "science",
+    "chapter_number": 13,
+    "chapter_name": "motion and time",
+    "question_type": "mcq",
+    "question_text": "Which of the following relations is correct?",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(i)",
+        "option_text": "Speed = Distance × Time"
+      },
+      {
+        "option_label": "(ii)",
+        "option_text": "Speed of an object is given by the relation"
+      },
+      {
+        "option_label": "(iii)",
+        "option_text": ""
+      },
+      {
+        "option_label": "(iv)",
+        "option_text": ""
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Distance-time graph of a car parked on a roadside showing no change in distance over time.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777735678/ncert/science/13/img_4_0.png",
+      "latex_extracted": "\\left|\\begin{array}{c c}{{\\mathbf{A}}}\\\\ {{\\frac{9}{2}}}\\\\ {{\\sqrt{\\frac{9}{2}}}}\\end{array}\\right|\\begin{array}{c c}{{}}&{{}}\\\\ {{}}&{{}}\\\\ {{}}&{{}}\\\\ {{}}&{{\\mathrm{Time}\\cdot\\mathbf{\\overline{{{9}}}}}}\\end{array}\\right|",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of speed relation.",
+    "topics_tags": [
+      "Speed",
+      "Distance-Time Graph",
+      "Motion"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "Missing correct option and incomplete options."
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Distance-time graph of a car parked on a roadside showing no change in distance over time.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777735678/ncert/science/13/img_4_0.png",
+        "latex_extracted": "\\left|\\begin{array}{c c}{{\\mathbf{A}}}\\\\ {{\\frac{9}{2}}}\\\\ {{\\sqrt{\\frac{9}{2}}}}\\end{array}\\right|\\begin{array}{c c}{{}}&{{}}\\\\ {{}}&{{}}\\\\ {{}}&{{}}\\\\ {{}}&{{\\mathrm{Time}\\cdot\\mathbf{\\overline{{{9}}}}}}\\end{array}\\right|",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.7",
+    "class": 7,
+    "subject": "science",
+    "chapter_number": 13,
+    "chapter_name": "motion and time",
+    "question_type": "mcq",
+    "question_text": "The basic unit of speed is:",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(i)",
+        "option_text": "km/min"
+      },
+      {
+        "option_label": "(ii)",
+        "option_text": "m/min"
+      },
+      {
+        "option_label": "(iii)",
+        "option_text": "km/h"
+      },
+      {
+        "option_label": "(iv)",
+        "option_text": "m/s"
+      }
+    ],
+    "correct_option": "(iv)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The basic unit of speed is m/s.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the basic unit of speed is m/s.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of speed unit.",
+    "topics_tags": [
+      "Speed",
+      "Units of Measurement",
+      "Motion"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.8",
+    "class": 7,
+    "subject": "science",
+    "chapter_number": 13,
+    "chapter_name": "motion and time",
+    "question_type": "numerical",
+    "question_text": "A car moves with a speed of 40 km/h for 15 minutes and then with a speed of 60 km/h for the next 15 minutes. The total distance covered by the car is:",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The total distance covered by the car is 25 km.",
+    "answer_latex": "d = 10 + 15 = 25 \text{ km}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate distance covered at 40 km/h for 15 minutes.",
+        "expression": "d_1 = 40 \times 0.25 = 10 \text{ km}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate distance covered at 60 km/h for 15 minutes.",
+        "expression": "d_2 = 60 \times 0.25 = 15 \text{ km}"
+      },
+      {
+        "step_number": 3,
+        "description": "Add both distances to find total distance.",
+        "expression": "d = d_1 + d_2 = 10 + 15"
+      }
+    ],
+    "final_answer": "Therefore, the total distance covered by the car is 25 km.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of speed and time to calculate distance.",
+    "topics_tags": [
+      "Distance",
+      "Speed",
+      "Time"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.9",
+    "class": 7,
+    "subject": "science",
+    "chapter_number": 13,
+    "chapter_name": "motion and time",
+    "question_type": "numerical",
+    "question_text": "If a distance of 100 metres is shown by 1 cm in these photographs, calculate the speed of the blue car.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Photographs showing vehicles moving in the same direction.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777735703/ncert/science/13/img_6_1.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires calculation based on given distance and time.",
+    "topics_tags": [
+      "Speed",
+      "Distance",
+      "Time"
+    ],
+    "confidence_score": 0.8,
+    "confidence_issues": [
+      "Answer missing, requires calculation."
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Photographs showing vehicles moving in the same direction.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777735703/ncert/science/13/img_6_1.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.10",
+    "class": 7,
+    "subject": "science",
+    "chapter_number": 13,
+    "chapter_name": "motion and time",
+    "question_type": "diagram_based",
+    "question_text": "Figure shows the distance-time graph for the motion of two vehicles A and B. Which one of them is moving faster?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Distance-time graph for the motion of two vehicles A and B.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777735703/ncert/science/13/img_6_1.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires interpretation of a graph to determine speed.",
+    "topics_tags": [
+      "Distance-Time Graph",
+      "Speed",
+      "Motion"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Distance-time graph for the motion of two vehicles A and B.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777735703/ncert/science/13/img_6_1.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q13.11",
+    "class": 7,
+    "subject": "science",
+    "chapter_number": 13,
+    "chapter_name": "motion and time",
+    "question_type": "mcq",
+    "question_text": "Which of the following distance-time graphs shows a truck moving with speed which is not constant?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Graph (iii)",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, Graph (iii) represents a truck moving with a speed that is not constant.",
+    "answer_image": {
+      "present": true,
+      "description": "Distance-time graph showing the motion of two cars.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777735756/ncert/science/13/img_7_0.jpg",
+      "latex_extracted": "\\left|\\begin{array}{c}{{\\lambda\\displaystyle\\left|}}\\\\ {{\\frac{9}{\\pi}}\\right|\\sim\\cdots\\sim\\cdots\\cdot\\cdot\\cdot\\cdot\\cdot\\cdot\\cdot\\cdot\\cdot\\cdot\\cdot\\cdot}}\\\\ {{\\left|\\displaystyle\\frac{9}{\\pi}\\right|\\ldots\\sqrt{\\mathcal{L}\\mathcal{L}}\\right.\\sum_{\\mathrm{~mne~}\\longrightarrow}}}\\end{array}\\right|",
+      "source_page_number": 7,
+      "source_image_index": 0,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of distance-time graphs and speed representation.",
+    "topics_tags": [
+      "Distance-Time Graph",
+      "Speed",
+      "Motion"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Distance-time graph showing the motion of two cars.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777735756/ncert/science/13/img_7_0.jpg",
+        "latex_extracted": "\\left|\\begin{array}{c}{{\\lambda\\displaystyle\\left|}}\\\\ {{\\frac{9}{\\pi}}\\right|\\sim\\cdots\\sim\\cdots\\cdot\\cdot\\cdot\\cdot\\cdot\\cdot\\cdot\\cdot\\cdot\\cdot\\cdot\\cdot}}\\\\ {{\\left|\\displaystyle\\frac{9}{\\pi}\\right|\\ldots\\sqrt{\\mathcal{L}\\mathcal{L}}\\right.\\sum_{\\mathrm{~mne~}\\longrightarrow}}}\\end{array}\\right|",
+        "source_page_number": 7,
+        "source_image_index": 0,
+        "ownership": "answer"
+      },
+      {
+        "present": true,
+        "description": "Graph indicating the speed of a truck.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777735765/ncert/science/13/img_8_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  }
+]

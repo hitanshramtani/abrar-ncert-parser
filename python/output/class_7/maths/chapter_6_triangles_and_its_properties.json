@@ -1,0 +1,985 @@
+[
+  {
+    "question_id": "Q6.1",
+    "class": 7,
+    "subject": "maths",
+    "chapter_number": 6,
+    "chapter_name": "triangles and its properties",
+    "question_type": "multipart",
+    "question_text": "In ΔPQR, D is the mid-point of . Is QM = MR?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing triangle PQR with mid-point D and segments QM and MR.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777835668/ncert/maths/6/img_1_0.png",
+      "latex_extracted": "\\left|{\\overline{{\\{\\mathbf{Q}\\rangle\\mathbf{Q}}}}\\right|{\\overline{{\\left(\\mathbf{Q}\\right)\\mathbf{Q}}}}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "What is the term for D?",
+        "part_latex": null,
+        "answer_text": "Altitude",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "D is the altitude.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "What is PD?",
+        "part_latex": null,
+        "answer_text": "Median",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "PD is the median.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "Is QM = MR?",
+        "part_latex": null,
+        "answer_text": "No",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "QM is not equal to MR.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of triangle properties and definitions.",
+    "topics_tags": [
+      "Triangles",
+      "Median",
+      "Altitude"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing triangle PQR with mid-point D and segments QM and MR.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777835668/ncert/maths/6/img_1_0.png",
+        "latex_extracted": "\\left|{\\overline{{\\{\\mathbf{Q}\\rangle\\mathbf{Q}}}}\\right|{\\overline{{\\left(\\mathbf{Q}\\right)\\mathbf{Q}}}}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.2",
+    "class": 7,
+    "subject": "maths",
+    "chapter_number": 6,
+    "chapter_name": "triangles and its properties",
+    "question_type": "numerical",
+    "question_text": "A 15 m long ladder reached a window 12 m high from the ground on placing it against a wall at a distance a. Find the distance of the foot of the ladder from the wall.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing a ladder leaning against a wall.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777835738/ncert/maths/6/img_12_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "By applying Pythagoras theorem, we find that the distance of the foot of the ladder from the wall is 9 m.",
+    "answer_latex": "a = 9",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Apply Pythagoras theorem: (15)^2 = (12)^2 + a^2",
+        "expression": "225 = 144 + a^2"
+      },
+      {
+        "step_number": 2,
+        "description": "Rearrange to find a^2.",
+        "expression": "a^2 = 225 - 144 = 81"
+      },
+      {
+        "step_number": 3,
+        "description": "Take the square root to find a.",
+        "expression": "a = 9"
+      }
+    ],
+    "final_answer": "Therefore, the distance of the foot of the ladder from the wall is 9 m.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves application of Pythagorean theorem with straightforward calculations.",
+    "topics_tags": [
+      "Pythagorean Theorem",
+      "Right Triangle",
+      "Geometry"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing a ladder leaning against a wall.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777835738/ncert/maths/6/img_12_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.3",
+    "class": 7,
+    "subject": "maths",
+    "chapter_number": 6,
+    "chapter_name": "triangles and its properties",
+    "question_type": "conceptual",
+    "question_text": "Verify by drawing a diagram if the median and altitude of an isosceles triangle can be same.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Draw a line segment AD perpendicular to BC. It is an altitude for this triangle. It can be observed that the length of BD and DC is also same. Therefore, AD is also a median of this triangle.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the median and altitude can be the same in an isosceles triangle.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing an isosceles triangle with median and altitude.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777835673/ncert/maths/6/img_2_0.jpg",
+      "latex_extracted": "\\left\\langle\\begin{array}{c}{{\\displaystyle\\bigwedge}}\\\\ {{\\displaystyle\\Phi\\left(\\frac{1}{8}\\right)\\displaystyle\\Vert_{\\displaystyle\\Vert_{\\displaystyle\\Vert_{\\displaystyle\\Vert}}}\\right.}}\\end{array}\\right\\Vert_{\\displaystyle\\Vert_{\\displaystyle\\Vert_{\\displaystyle\\Vert_{\\displaystyle\\Vert}}}\\right\\rangle_{\\displaystyle\\Vert_{\\displaystyle\\Vert_{\\displaystyle}}}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of triangle properties and basic drawing.",
+    "topics_tags": [
+      "Isosceles Triangle",
+      "Median",
+      "Altitude"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing an isosceles triangle with median and altitude.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777835673/ncert/maths/6/img_2_0.jpg",
+        "latex_extracted": "\\left\\langle\\begin{array}{c}{{\\displaystyle\\bigwedge}}\\\\ {{\\displaystyle\\Phi\\left(\\frac{1}{8}\\right)\\displaystyle\\Vert_{\\displaystyle\\Vert_{\\displaystyle\\Vert_{\\displaystyle\\Vert}}}\\right.}}\\end{array}\\right\\Vert_{\\displaystyle\\Vert_{\\displaystyle\\Vert_{\\displaystyle\\Vert_{\\displaystyle\\Vert}}}\\right\\rangle_{\\displaystyle\\Vert_{\\displaystyle\\Vert_{\\displaystyle}}}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q6.4",
+    "class": 7,
+    "subject": "maths",
+    "chapter_number": 6,
+    "chapter_name": "triangles and its properties",
+    "question_type": "multipart",
+    "question_text": "Find the value of the unknown x in the following diagrams:",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagrams showing triangles with unknown angles labeled as x.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777835694/ncert/maths/6/img_4_0.jpg",
+      "latex_extracted": "\\begin{array}{c c c}{{\\displaystyle\\sqrt{^{\\frac{\\Lambda}{x}}}\\displaystyle\\left.\\right.\\left.\\left.\\frac{^{\\displaystyle\\mathrm{}}}{^{\\displaystyle\\frac{\\zeta}{^{\\textstyle\\left(x\\right)}}}\\right.^{\\!\\mathrm{}}}\\right.\\left.\\frac{^{\\displaystyle\\mathrm{}}{^{\\displaystyle\\frac{\\zeta}{\\Lambda}}\\displaystyle\\sum_{_{\\mathrm{}}\\zeta}^{\\displaystyle\\frac{\\zeta}{\\Lambda}}\\right.^{\\!\\!\\mathrm{}}}{_{\\!\\!\\begin{array}{c}{{^{\\textstyle\\frac{\\zeta}{x\\right)}}}}}}\\right.}}\\\\ {{\\displaystyle\\left.\\left.\\frac{_{_{\\displaystyle\\begin{array}{c}{{^{\\prime}}}}{_{\\mathrm{}}}}\\right.\\right.\\right.\\right.\\left.\\frac{_{}}{^{\\displaystyle\\frac{\\zeta}{\\Lambda}}}{_{\\,\\!\\zeta}}\\right.}}&{{\\displaystyle\\left.\\sum_{_{_{_{\\mathrm{}}}{_{\\mathrm{}}{\\mathrm{}}}}}\\left.\\right.}}}\\\\ {{{{}}\\displaystyle\\right.\\left.\\right.\\right.\\right.\\right.\\right.\\right.",
+      "source_page_number": 4,
+      "source_image_index": 0,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "x + 50° + 60° = 180°",
+        "part_latex": null,
+        "answer_text": "x = 70°",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Set up the equation based on the angle sum property of triangles.",
+            "expression": "x + 50° + 60° = 180°"
+          },
+          {
+            "step_number": 2,
+            "description": "Combine the known angles and solve for x.",
+            "expression": "x + 110° = 180°"
+          },
+          {
+            "step_number": 3,
+            "description": "Isolate x to find its value.",
+            "expression": "x = 180° - 110°"
+          }
+        ],
+        "final_answer": "Therefore, x = 70°.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "x + 90° + 30° = 180°",
+        "part_latex": null,
+        "answer_text": "x = 60°",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Set up the equation based on the angle sum property of triangles.",
+            "expression": "x + 90° + 30° = 180°"
+          },
+          {
+            "step_number": 2,
+            "description": "Combine the known angles and solve for x.",
+            "expression": "x + 120° = 180°"
+          },
+          {
+            "step_number": 3,
+            "description": "Isolate x to find its value.",
+            "expression": "x = 180° - 120°"
+          }
+        ],
+        "final_answer": "Therefore, x = 60°.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "x + 30° + 110° = 180°",
+        "part_latex": null,
+        "answer_text": "x = 40°",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Set up the equation based on the angle sum property of triangles.",
+            "expression": "x + 30° + 110° = 180°"
+          },
+          {
+            "step_number": 2,
+            "description": "Combine the known angles and solve for x.",
+            "expression": "x + 140° = 180°"
+          },
+          {
+            "step_number": 3,
+            "description": "Isolate x to find its value.",
+            "expression": "x = 180° - 140°"
+          }
+        ],
+        "final_answer": "Therefore, x = 40°.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iv)",
+        "part_text": "50° + x + x = 180°",
+        "part_latex": null,
+        "answer_text": "x = 65°",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Set up the equation based on the angle sum property of triangles.",
+            "expression": "50° + x + x = 180°"
+          },
+          {
+            "step_number": 2,
+            "description": "Combine like terms and solve for x.",
+            "expression": "50° + 2x = 180°"
+          },
+          {
+            "step_number": 3,
+            "description": "Isolate x to find its value.",
+            "expression": "2x = 180° - 50°"
+          }
+        ],
+        "final_answer": "Therefore, x = 65°.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(v)",
+        "part_text": "x + x + x = 180°",
+        "part_latex": null,
+        "answer_text": "x = 60°",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Set up the equation based on the angle sum property of triangles.",
+            "expression": "x + x + x = 180°"
+          },
+          {
+            "step_number": 2,
+            "description": "Combine like terms and solve for x.",
+            "expression": "3x = 180°"
+          },
+          {
+            "step_number": 3,
+            "description": "Isolate x to find its value.",
+            "expression": "x = 180° / 3"
+          }
+        ],
+        "final_answer": "Therefore, x = 60°.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(vi)",
+        "part_text": "x + 2x + 90° = 180°",
+        "part_latex": null,
+        "answer_text": "x = 30°",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Set up the equation based on the angle sum property of triangles.",
+            "expression": "x + 2x + 90° = 180°"
+          },
+          {
+            "step_number": 2,
+            "description": "Combine like terms and solve for x.",
+            "expression": "3x = 180° - 90°"
+          },
+          {
+            "step_number": 3,
+            "description": "Isolate x to find its value.",
+            "expression": "x = 90° / 3"
+          }
+        ],
+        "final_answer": "Therefore, x = 30°.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps and understanding of triangle properties.",
+    "topics_tags": [
+      "Triangles",
+      "Angle Sum Property",
+      "Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagrams showing triangles with unknown angles labeled as x.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777835694/ncert/maths/6/img_4_0.jpg",
+        "latex_extracted": "\\begin{array}{c c c}{{\\displaystyle\\sqrt{^{\\frac{\\Lambda}{x}}}\\displaystyle\\left.\\right.\\left.\\left.\\frac{^{\\displaystyle\\mathrm{}}}{^{\\displaystyle\\frac{\\zeta}{^{\\textstyle\\left(x\\right)}}}\\right.^{\\!\\mathrm{}}}\\right.\\left.\\frac{^{\\displaystyle\\mathrm{}}{^{\\displaystyle\\frac{\\zeta}{\\Lambda}}\\displaystyle\\sum_{_{\\mathrm{}}\\zeta}^{\\displaystyle\\frac{\\zeta}{\\Lambda}}\\right.^{\\!\\!\\mathrm{}}}{_{\\!\\!\\begin{array}{c}{{^{\\textstyle\\frac{\\zeta}{x\\right)}}}}}}\\right.}}\\\\ {{\\displaystyle\\left.\\left.\\frac{_{_{\\displaystyle\\begin{array}{c}{{^{\\prime}}}}{_{\\mathrm{}}}}\\right.\\right.\\right.\\right.\\left.\\frac{_{}}{^{\\displaystyle\\frac{\\zeta}{\\Lambda}}}{_{\\,\\!\\zeta}}\\right.}}&{{\\displaystyle\\left.\\sum_{_{_{_{\\mathrm{}}}{_{\\mathrm{}}{\\mathrm{}}}}}\\left.\\right.}}}\\\\ {{{{}}\\displaystyle\\right.\\left.\\right.\\right.\\right.\\right.\\right.\\right.",
+        "source_page_number": 4,
+        "source_image_index": 0,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.5",
+    "class": 7,
+    "subject": "maths",
+    "chapter_number": 6,
+    "chapter_name": "triangles and its properties",
+    "question_type": "conceptual",
+    "question_text": "Take any point O in the interior of a triangle PQR. Is (i) OP + OQ > PQ? (ii) OQ + OR > QR? (iii) OR + OP > RP?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "If O is a point in the interior of a given triangle, then three triangles ΔOPQ, ΔOQR, and ΔORP can be constructed. In a triangle, the sum of the lengths of either two sides is always greater than the third side.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Construct triangles ΔOPQ, ΔOQR, and ΔORP using point O.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Apply the triangle inequality to each triangle.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, all three inequalities hold true.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing point O inside triangle PQR with segments OP, OQ, and OR.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777835724/ncert/maths/6/img_9_0.jpg",
+      "latex_extracted": "\\left\\vert\\begin{array}{c}{{\\displaystyle\\left(\\begin{array}{c}{{\\displaystyle\\nabla_{}}}\\\\ {{\\displaystyle\\nabla_{}^{\\mathcal{J}}^{\\mathcal{J}}}_{}^{\\mathcal{J}\\,_{}_{}^{\\prime},\\,}}\\\\ {{\\displaystyle\\left.\\mathrm{}\\right.\\nabla_{}^{\\prime},\\,}}\\end{array}\\right)\\displaystyle\\left\\langle\\begin{array}{c}{{}}\\\\ {{}}\\\\ {{\\displaystyle\\left[\\mathrm{}}}\\\\ {{\\displaystyle\\frac{\\vphantom{{\\vphantom{{\\vphantom{{\\cal J}}^{\\prime}}^{\\prime}}^{\\prime}}}{}_{}}\\right]}}\\\\ {{\\displaystyle\\mathrm{}}}\\\\ {{\\mathrm{}\\displaystyle\\mathrm{}\\displaystyle\\frac{{\\vphantom|{{\\cal J}^{\\prime}}_{}^{\\prime}}{}_{}^{\\prime}}\\end{array}\\right]}}}\\end{array}\\right\\rangle",
+      "source_page_number": 9,
+      "source_image_index": 0,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of triangle properties and application of inequalities.",
+    "topics_tags": [
+      "Triangle Inequality",
+      "Geometry",
+      "Properties of Triangles"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing point O inside triangle PQR with segments OP, OQ, and OR.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777835724/ncert/maths/6/img_9_0.jpg",
+        "latex_extracted": "\\left\\vert\\begin{array}{c}{{\\displaystyle\\left(\\begin{array}{c}{{\\displaystyle\\nabla_{}}}\\\\ {{\\displaystyle\\nabla_{}^{\\mathcal{J}}^{\\mathcal{J}}}_{}^{\\mathcal{J}\\,_{}_{}^{\\prime},\\,}}\\\\ {{\\displaystyle\\left.\\mathrm{}\\right.\\nabla_{}^{\\prime},\\,}}\\end{array}\\right)\\displaystyle\\left\\langle\\begin{array}{c}{{}}\\\\ {{}}\\\\ {{\\displaystyle\\left[\\mathrm{}}}\\\\ {{\\displaystyle\\frac{\\vphantom{{\\vphantom{{\\vphantom{{\\cal J}}^{\\prime}}^{\\prime}}^{\\prime}}}{}_{}}\\right]}}\\\\ {{\\displaystyle\\mathrm{}}}\\\\ {{\\mathrm{}\\displaystyle\\mathrm{}\\displaystyle\\frac{{\\vphantom|{{\\cal J}^{\\prime}}_{}^{\\prime}}{}_{}^{\\prime}}\\end{array}\\right]}}}\\end{array}\\right\\rangle",
+        "source_page_number": 9,
+        "source_image_index": 0,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q6.6",
+    "class": 7,
+    "subject": "maths",
+    "chapter_number": 6,
+    "chapter_name": "triangles and its properties",
+    "question_type": "conceptual",
+    "question_text": "AM is a median of a triangle ABC. Is AB + BC + CA > 2 AM?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "In a triangle, the sum of the lengths of either two sides is always greater than the third side. Considering the sides of triangles ΔABM and ΔACM, we can derive that AB + BC + CA > 2AM.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Consider triangles ΔABM and ΔACM.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Apply the triangle inequality to both triangles.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Add the inequalities to conclude the result.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Yes, the given expression is true.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing triangle ABC with median AM.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777835726/ncert/maths/6/img_9_1.jpg",
+      "latex_extracted": "\\left|\\left|\\bigotimes_{\\bf{\\hat{\\Lambda}}\\cdot\\bf{\\hat{\\Lambda}}}\\right|\\right|_{\\bf{\\hat{\\Lambda}}^{\\prime}}\\!\\!\\!\\!\\!\\left|\\bigotimes_{\\bf{\\hat{\\Lambda}}\\cdot{\\bf{\\hat{\\Lambda}}}}\\!\\!\\!\\!\\sim_{\\bf{\\hat{\\Lambda}}}\\!\\!\\!\\!\\!\\sim_{\\bf{\\hat{\\Lambda}}}\\!\\!\\!\\!\\!\\!\\Lambda_{\\bf{\\Lambda}}",
+      "source_page_number": 9,
+      "source_image_index": 1,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of triangle properties and application of inequalities.",
+    "topics_tags": [
+      "Median",
+      "Triangle Inequality",
+      "Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing triangle ABC with median AM.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777835726/ncert/maths/6/img_9_1.jpg",
+        "latex_extracted": "\\left|\\left|\\bigotimes_{\\bf{\\hat{\\Lambda}}\\cdot\\bf{\\hat{\\Lambda}}}\\right|\\right|_{\\bf{\\hat{\\Lambda}}^{\\prime}}\\!\\!\\!\\!\\!\\left|\\bigotimes_{\\bf{\\hat{\\Lambda}}\\cdot{\\bf{\\hat{\\Lambda}}}}\\!\\!\\!\\!\\sim_{\\bf{\\hat{\\Lambda}}}\\!\\!\\!\\!\\!\\sim_{\\bf{\\hat{\\Lambda}}}\\!\\!\\!\\!\\!\\!\\Lambda_{\\bf{\\Lambda}}",
+        "source_page_number": 9,
+        "source_image_index": 1,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q6.9",
+    "class": 7,
+    "subject": "maths",
+    "chapter_number": 6,
+    "chapter_name": "triangles and its properties",
+    "question_type": "numerical",
+    "question_text": "A tree is broken at a height of 5 m from the ground and its top touches the ground at a distance of 12 m from the base of the tree. Find the original height of the tree.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing a right-angled triangle formed by the broken tree, with height and distance from the base.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777835743/ncert/maths/6/img_13_0.jpg",
+      "latex_extracted": "\\left|\\begin{array}{c}{{\\begin{array}{c}{{C_{\\displaystyle\\uparrow\\uparrow\\downarrow\\sim}}}\\\\ {{\\sum_{\\downarrow\\sim}}}\\end{array}}}\\\\ {{\\left|\\sum_{\\downarrow\\sim}}}\\\\ {{\\mathrm{B}}}\\end{array}\\right|_{\\displaystyle\\uparrow\\uparrow\\downarrow\\atop\\uparrow\\downarrow\\atop{\\mathrm{\\footnotesize\\uparrow\\atop\\uparrow\\atop~\\downarrow\\sim}}}\\sum_{\\downarrow\\atop{\\tt\\downarrow\\atop{\\tt\\sim}}}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Thus, the original height of the tree is 18 m.",
+    "answer_latex": "AC + CB = 13 m + 5 m = 18 m",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the right triangle formed by the broken tree.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Apply Pythagoras theorem: AC^2 = BC^2 + AB^2.",
+        "expression": "AC^2 = (5 m)^2 + (12 m)^2"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate AC using the theorem.",
+        "expression": "AC^2 = 25 m^2 + 144 m^2 = 169 m^2"
+      },
+      {
+        "step_number": 4,
+        "description": "Find AC by taking the square root.",
+        "expression": "AC = 13 m"
+      },
+      {
+        "step_number": 5,
+        "description": "Add the height of the unbroken part to find the total height.",
+        "expression": "AC + CB = 13 m + 5 m"
+      }
+    ],
+    "final_answer": "Therefore, the original height of the tree is 18 m.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of right triangles and application of Pythagorean theorem.",
+    "topics_tags": [
+      "Pythagorean Theorem",
+      "Right Triangle",
+      "Height Calculation"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing a right-angled triangle formed by the broken tree, with height and distance from the base.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777835743/ncert/maths/6/img_13_0.jpg",
+        "latex_extracted": "\\left|\\begin{array}{c}{{\\begin{array}{c}{{C_{\\displaystyle\\uparrow\\uparrow\\downarrow\\sim}}}\\\\ {{\\sum_{\\downarrow\\sim}}}\\end{array}}}\\\\ {{\\left|\\sum_{\\downarrow\\sim}}}\\\\ {{\\mathrm{B}}}\\end{array}\\right|_{\\displaystyle\\uparrow\\uparrow\\downarrow\\atop\\uparrow\\downarrow\\atop{\\mathrm{\\footnotesize\\uparrow\\atop\\uparrow\\atop~\\downarrow\\sim}}}\\sum_{\\downarrow\\atop{\\tt\\downarrow\\atop{\\tt\\sim}}}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q6.10",
+    "class": 7,
+    "subject": "maths",
+    "chapter_number": 6,
+    "chapter_name": "triangles and its properties",
+    "question_type": "numerical",
+    "question_text": "Find the perimeter of the rectangle whose length is 40 cm and a diagonal is 41 cm.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The perimeter of the rectangle is 98 cm.",
+    "answer_latex": "P = 2(Length + Breadth) = 2(40 + 9) = 98 \text{ cm}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Apply Pythagorean theorem to find the breadth.",
+        "expression": "(41)^2 = (40)^2 + x^2"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate x using the equation.",
+        "expression": "x^2 = 1681 - 1600 = 81"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the perimeter using the length and breadth.",
+        "expression": "P = 2(40 + 9)"
+      }
+    ],
+    "final_answer": "Therefore, the perimeter of the rectangle is 98 cm.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the relationship between the sides of a rectangle and its diagonal using Pythagorean theorem.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777835752/ncert/maths/6/img_14_1.jpg",
+      "latex_extracted": "\\left\\lfloor\\left\\lfloor{\\begin{array}{r}{40\\,\\mathrm{em}}\\\\ {\\vdots}\\\\ {x\\mathrm{em}}\\end{array}}\\right\\rfloor",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of Pythagorean theorem and basic arithmetic.",
+    "topics_tags": [
+      "Perimeter",
+      "Rectangle",
+      "Pythagorean Theorem"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the relationship between the sides of a rectangle and its diagonal using Pythagorean theorem.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777835752/ncert/maths/6/img_14_1.jpg",
+        "latex_extracted": "\\left\\lfloor\\left\\lfloor{\\begin{array}{r}{40\\,\\mathrm{em}}\\\\ {\\vdots}\\\\ {x\\mathrm{em}}\\end{array}}\\right\\rfloor",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q6.11",
+    "class": 7,
+    "subject": "maths",
+    "chapter_number": 6,
+    "chapter_name": "triangles and its properties",
+    "question_type": "numerical",
+    "question_text": "Let ABCD be a rhombus (all sides are of equal length) and its diagonals, AC and BD, are intersecting each other at point O. By applying Pythagoras theorem in ΔAOB, find the length of the side of the rhombus and its perimeter.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The length of the side of the rhombus is 17 cm and the perimeter is 68 cm.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Apply Pythagoras theorem in triangle AOB.",
+        "expression": "OA^2 + OB^2 = AB^2"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values OA = 8 cm and OB = 15 cm.",
+        "expression": "8^2 + 15^2 = AB^2"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate AB.",
+        "expression": "64 + 225 = AB^2"
+      },
+      {
+        "step_number": 4,
+        "description": "Find the value of AB.",
+        "expression": "AB = 17"
+      },
+      {
+        "step_number": 5,
+        "description": "Calculate the perimeter of the rhombus.",
+        "expression": "Perimeter = 4 × Side = 4 × 17 = 68"
+      }
+    ],
+    "final_answer": "Therefore, the length of the side of the rhombus is 17 cm and the perimeter is 68 cm.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing a rhombus with diagonals intersecting at point O.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777835756/ncert/maths/6/img_15_0.jpg",
+      "latex_extracted": "\\begin{array}{c}{{\\stackrel{\\mathrm{A}}{\\sqrt{\\stackrel{\\mathrm{A}}{\\hat{\\alpha}}_{\\mathrm{S}}<\\hat{S}{\\hat{\\mathrm{S}}}^{\\mathrm{S}}}}}}\\\\ {{\\frac{\\sqrt{\\hat{\\omega}_{\\mathrm{S}}}\\sum_{\\mathrm{c}}^{\\mathrm{CS}}{}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of Pythagorean theorem and basic arithmetic.",
+    "topics_tags": [
+      "Rhombus",
+      "Pythagorean Theorem",
+      "Perimeter"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing a rhombus with diagonals intersecting at point O.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777835756/ncert/maths/6/img_15_0.jpg",
+        "latex_extracted": "\\begin{array}{c}{{\\stackrel{\\mathrm{A}}{\\sqrt{\\stackrel{\\mathrm{A}}{\\hat{\\alpha}}_{\\mathrm{S}}<\\hat{S}{\\hat{\\mathrm{S}}}^{\\mathrm{S}}}}}}\\\\ {{\\frac{\\sqrt{\\hat{\\omega}_{\\mathrm{S}}}\\sum_{\\mathrm{c}}^{\\mathrm{CS}}{}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      },
+      {
+        "present": true,
+        "description": "Mathematical representation of the Pythagorean theorem applied in the context of the rhombus.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777835758/ncert/maths/6/img_15_1.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  }
+]

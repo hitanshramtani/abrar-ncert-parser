@@ -1,0 +1,1388 @@
+[
+  {
+    "question_id": "Q11.1",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 11,
+    "chapter_name": "thermal properties of matter",
+    "question_type": "numerical",
+    "question_text": "The triple points of neon and carbon dioxide are 24.57 K and 216.55 K respectively. Express these temperatures on the Celsius and Fahrenheit scales.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Equation relating Celsius and Fahrenheit temperatures.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777753651/ncert/physics/11/img_1_0.png",
+      "latex_extracted": "\\begin{array}{c}{{T_{\\mathrm{r}}={\\frac{9}{5}}T_{\\mathrm{c}}+32}}\\\\ {{=415.44^{\\circ}\\mathrm{F}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "For neon: T_C = 24.57 - 273.15 = -248.58°C. For carbon dioxide: T_C = 216.55 - 273.15 = -56.60°C.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Convert the temperature of neon from Kelvin to Celsius.",
+        "expression": "T_C = 24.57 - 273.15"
+      },
+      {
+        "step_number": 2,
+        "description": "Convert the temperature of carbon dioxide from Kelvin to Celsius.",
+        "expression": "T_C = 216.55 - 273.15"
+      }
+    ],
+    "final_answer": "Therefore, the temperatures are -248.58°C for neon and -56.60°C for carbon dioxide.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of temperature conversion formulas.",
+    "topics_tags": [
+      "Temperature Conversion",
+      "Triple Point",
+      "Thermodynamics"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Equation relating Celsius and Fahrenheit temperatures.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777753651/ncert/physics/11/img_1_0.png",
+        "latex_extracted": "\\begin{array}{c}{{T_{\\mathrm{r}}={\\frac{9}{5}}T_{\\mathrm{c}}+32}}\\\\ {{=415.44^{\\circ}\\mathrm{F}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.2",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 11,
+    "chapter_name": "thermal properties of matter",
+    "question_type": "conceptual",
+    "question_text": "Two absolute scales A and B have triple points of water defined to be 200 A and 350 B. What is the relation between T_A and T_B?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Equation relating temperatures on absolute scales A and B.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777753653/ncert/physics/11/img_2_0.png",
+      "latex_extracted": "\\begin{array}{c}{{T_{\\mathrm{r}}={\\frac{9}{5}}\\big(T_{\\mathrm{c}}\\big)+32}}\\\\ {{=-69.88^{\\circ}{\\mathrm{C}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The ratio T_A : T_B is given as 4 : 7.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the triple point of water on both scales.",
+        "expression": "T_A = 200 A, T_B = 350 B"
+      },
+      {
+        "step_number": 2,
+        "description": "Establish the relationship between the two scales based on the triple point of water.",
+        "expression": "T_A : T_B = 4 : 7"
+      }
+    ],
+    "final_answer": "Thus, the relation between T_A and T_B is 4 : 7.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of absolute temperature scales.",
+    "topics_tags": [
+      "Absolute Temperature",
+      "Triple Point",
+      "Thermodynamics"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Equation relating temperatures on absolute scales A and B.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777753653/ncert/physics/11/img_2_0.png",
+        "latex_extracted": "\\begin{array}{c}{{T_{\\mathrm{r}}={\\frac{9}{5}}\\big(T_{\\mathrm{c}}\\big)+32}}\\\\ {{=-69.88^{\\circ}{\\mathrm{C}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.3",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 11,
+    "chapter_name": "thermal properties of matter",
+    "question_type": "numerical",
+    "question_text": "The electrical resistance in ohms of a certain thermometer varies with temperature according to the approximate law: R = R_0 [1 + α (T – T_0)]. The resistance is 101.6 Ω at the triple-point of water (273.16 K), and 165.5 Ω at the normal melting point of lead (600.5 K). What is the temperature when the resistance is 123.4 Ω?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set up the equation for resistance at the triple point of water.",
+        "expression": "R = R_0 [1 + α (T – T_0)]"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute known values into the equation.",
+        "expression": "101.6 = R_0 [1 + α (273.15 – T_0)]"
+      },
+      {
+        "step_number": 3,
+        "description": "Use the second known resistance to find α.",
+        "expression": "165.5 = R_0 [1 + α (600.5 – T_0)]"
+      }
+    ],
+    "final_answer": "The answer is not fully derived due to missing information.",
+    "answer_image": {
+      "present": true,
+      "description": "Equation relating resistance and temperature.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777753654/ncert/physics/11/img_3_0.png",
+      "latex_extracted": "\\begin{array}{l}{{\\vdots{\\mathrm{273.15}}\\times T_{\\Lambda}={\\frac{273.15}{350}}\\times T_{\\mathrm{B}}}}\\\\ {{T_{\\Lambda}={\\frac{200}{350}}T_{\\mathrm{B}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps and understanding of resistance-temperature relationship.",
+    "topics_tags": [
+      "Electrical Resistance",
+      "Temperature",
+      "Thermodynamics"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Equation relating resistance and temperature.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777753654/ncert/physics/11/img_3_0.png",
+        "latex_extracted": "\\begin{array}{l}{{\\vdots{\\mathrm{273.15}}\\times T_{\\Lambda}={\\frac{273.15}{350}}\\times T_{\\mathrm{B}}}}\\\\ {{T_{\\Lambda}={\\frac{200}{350}}T_{\\mathrm{B}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q11.4",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 11,
+    "chapter_name": "thermal properties of matter",
+    "question_type": "conceptual",
+    "question_text": "The triple-point of water is a standard fixed point in modern thermometry. Why? What is wrong in taking the melting point of ice and the boiling point of water as standard fixed points (as was originally done in the Celsius scale)?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of resistance and temperature relationship.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777753659/ncert/physics/11/img_4_0.png",
+      "latex_extracted": "\\begin{array}{c}{{\\left|65.5=101.6\\Bigl[1+\\alpha\\Bigl(600.5-273.15\\Bigr)\\right]}}\\\\ {{\\left|.629=1+\\alpha\\left(327.35\\right)}}\\\\ {{\\left|\\vdots\\right.\\alpha=\\frac{0.629}{327.35}=1.92\\times10^{-3}\\mathrm{~K^{-1}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The triple point of water has a unique value of 273.16 K. The melting point of ice and boiling point of water do not have particular values because these points depend on pressure and temperature.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the triple point of water is a reliable standard fixed point.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of thermometric standards and their implications.",
+    "topics_tags": [
+      "Triple Point",
+      "Thermometry",
+      "Celsius Scale"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of resistance and temperature relationship.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777753659/ncert/physics/11/img_4_0.png",
+        "latex_extracted": "\\begin{array}{c}{{\\left|65.5=101.6\\Bigl[1+\\alpha\\Bigl(600.5-273.15\\Bigr)\\right]}}\\\\ {{\\left|.629=1+\\alpha\\left(327.35\\right)}}\\\\ {{\\left|\\vdots\\right.\\alpha=\\frac{0.629}{327.35}=1.92\\times10^{-3}\\mathrm{~K^{-1}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.5",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 11,
+    "chapter_name": "thermal properties of matter",
+    "question_type": "numerical",
+    "question_text": "What is the absolute temperature of normal melting point of sulphur as read by thermometers A and B? What do you think is the reason behind the slight difference in answers of the thermometers A and B? (The thermometers are not faulty). What further procedure is needed in the experiment to reduce the discrepancy between the two readings?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of temperature conversion.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777753679/ncert/physics/11/img_6_0.png",
+      "latex_extracted": "\\begin{array}{c}{{T_{\\mathrm{fl}}-T_{\\mathrm{g}}=\\frac{T_{\\mathrm{gl}}-T_{\\mathrm{g}}}{100}}}\\\\ {{180}}\\\\ {{\\mathrm{Ioo}}}\\\\ {{T_{\\mathrm{r}}=\\frac{1\\times180}{5}=\\frac{9}{5}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The absolute temperature of the normal melting point of sulphur can be calculated using the pressures from both thermometers.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Further calibration of the thermometers may be needed to reduce discrepancies.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of gas laws and temperature conversion.",
+    "topics_tags": [
+      "Thermometers",
+      "Melting Point",
+      "Gas Laws"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of temperature conversion.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777753679/ncert/physics/11/img_6_0.png",
+        "latex_extracted": "\\begin{array}{c}{{T_{\\mathrm{fl}}-T_{\\mathrm{g}}=\\frac{T_{\\mathrm{gl}}-T_{\\mathrm{g}}}{100}}}\\\\ {{180}}\\\\ {{\\mathrm{Ioo}}}\\\\ {{T_{\\mathrm{r}}=\\frac{1\\times180}{5}=\\frac{9}{5}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.6",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 11,
+    "chapter_name": "thermal properties of matter",
+    "question_type": "mcq",
+    "question_text": "A steel tape 1m long is correctly calibrated for a temperature of 27.0 °C. The length of a steel rod measured by this tape is found to be 63.0 cm on a hot day when the temperature is 45.0 °C. What is the actual length of the steel rod on that day? What is the length of the same steel rod on a day when the temperature is 27.0 °C? Coefficient of linear expansion of steel = 1.20 × 10–5K–1.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, the actual length of the rod at 45.0°C is 63.0136 cm. Its length at 27.0°C is 63.0 cm.",
+    "answer_latex": "l' = 63.01366 \\text{ cm}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the length of the steel tape at 45°C using the coefficient of linear expansion.",
+        "expression": "l' = 100 + 1.20 \\times 10^{-5} \\times 100 \\times (45 - 27)"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values to find the actual length.",
+        "expression": "l' = 100.0216 \\text{ cm}"
+      }
+    ],
+    "final_answer": "Therefore, the actual length of the rod at 45.0°C is 63.0136 cm.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical expression showing the calculation of the actual length of the steel rod at 45°C.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777753687/ncert/physics/11/img_8_0.png",
+      "latex_extracted": "\\begin{array}{c}{{\\therefore{\\mathcal{L}}^{'}=100+1.20\\times10^{-5}\\times100\\left(45-27\\right)}}\\\\ {{=100.0216\\ \\mathrm{cm}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of linear expansion and basic calculations.",
+    "topics_tags": [
+      "Linear Expansion",
+      "Thermal Properties",
+      "Steel"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical expression showing the calculation of the actual length of the steel rod at 45°C.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777753687/ncert/physics/11/img_8_0.png",
+        "latex_extracted": "\\begin{array}{c}{{\\therefore{\\mathcal{L}}^{'}=100+1.20\\times10^{-5}\\times100\\left(45-27\\right)}}\\\\ {{=100.0216\\ \\mathrm{cm}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q11.7",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 11,
+    "chapter_name": "thermal properties of matter",
+    "question_type": "mcq",
+    "question_text": "A large steel wheel is to be fitted onto a shaft of the same material. At 27 °C, the outer diameter of the shaft is 8.70 cm and the diameter of the central hole in the wheel is 8.69 cm. The shaft is cooled using ‘dry ice’. At what temperature of the shaft does the wheel slip on the shaft? Assume coefficient of linear expansion of the steel to be constant over the required temperature range: α = 1.20 × 10–5 K–1.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, the wheel will slip on the shaft when the temperature of the shaft is –69°C.",
+    "answer_latex": "T = -68.95°C",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the change in diameter when the wheel slips.",
+        "expression": "Δd = d_{hole} - d_{shaft} = 8.69 - 8.70"
+      },
+      {
+        "step_number": 2,
+        "description": "Use the linear expansion formula to find the temperature.",
+        "expression": "Δd = d_{shaft} \\cdot \\alpha \\cdot (T - T_{initial})"
+      },
+      {
+        "step_number": 3,
+        "description": "Solve for T to find the temperature at which the wheel slips.",
+        "expression": "T = 204.21 K = -68.95°C"
+      }
+    ],
+    "final_answer": "Therefore, the wheel will slip on the shaft when the temperature of the shaft is –69°C.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps and application of thermal expansion concepts.",
+    "topics_tags": [
+      "Thermal Expansion",
+      "Steel",
+      "Temperature"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.8",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 11,
+    "chapter_name": "thermal properties of matter",
+    "question_type": "mcq",
+    "question_text": "A brass wire 1.8 m long at 27 °C is held taut with little tension between two rigid supports. If the wire is cooled to a temperature of –39 °C, what is the tension developed in the wire, if its diameter is 2.0 mm? Co-efficient of linear expansion of brass = 2.0 × 10–5 K–1; Young’s modulus of brass = 0.91 × 10^11 Pa.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of Young's modulus and tension in the wire.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777753697/ncert/physics/11/img_11_0.png",
+      "latex_extracted": "\\begin{array}{c}{{Y=\\frac{\\mathrm{Stress}}{\\mathrm{Strin}}\\frac{F}{\\Delta L}}}\\\\ {{\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\rightarrow(i)}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The tension developed in the wire is 3.8 × 10^2 N.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the change in length using the coefficient of linear expansion.",
+        "expression": "\\Delta L = \\alpha L (T_2 - T_1)"
+      },
+      {
+        "step_number": 2,
+        "description": "Use Young's modulus to find the tension in the wire.",
+        "expression": "Y = \\frac{F}{A \\Delta L}"
+      }
+    ],
+    "final_answer": "Therefore, the tension developed in the wire is 3.8 × 10^2 N.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps including temperature change and application of Young's modulus.",
+    "topics_tags": [
+      "Thermal Expansion",
+      "Young's Modulus",
+      "Tension in Wire"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of Young's modulus and tension in the wire.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777753697/ncert/physics/11/img_11_0.png",
+        "latex_extracted": "\\begin{array}{c}{{Y=\\frac{\\mathrm{Stress}}{\\mathrm{Strin}}\\frac{F}{\\Delta L}}}\\\\ {{\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\rightarrow(i)}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.9",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 11,
+    "chapter_name": "thermal properties of matter",
+    "question_type": "mcq",
+    "question_text": "A brass rod of length 50 cm and diameter 3.0 mm is joined to a steel rod of the same length and diameter. What is the change in length of the combined rod at 2500 °C, if the original lengths are at 40.0 °C? Is there a ‘thermal stress’ developed at the junction? The ends of the rod are free to expand (Coefficient of linear expansion of brass = 2.0 × 10–5 K–1, steel = 1.2 × 10–5 K–1).",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of thermal expansion and stress in the rods.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777753701/ncert/physics/11/img_12_0.png",
+      "latex_extracted": "\\begin{array}{c}{{\\alpha L(T_{2}-T_{1})=\\displaystyle\\frac{F L}{\\pi\\left(\\displaystyle\\frac{d}{2}\\right)^{2}\\times Y}}}\\\\ {{F=2\\times10^{-8}\\times\\left(-39-27\\right)\\times3.14\\times0.91\\times10^{11}\\times\\left(\\displaystyle\\frac{d}{2}\\right)^{2}}}\\\\ {{\\pi=3.8\\times10^{2}\\mathrm{N}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Requires understanding of thermal expansion and stress calculations.",
+    "topics_tags": [
+      "Thermal Expansion",
+      "Brass and Steel",
+      "Thermal Stress"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of thermal expansion and stress in the rods.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777753701/ncert/physics/11/img_12_0.png",
+        "latex_extracted": "\\begin{array}{c}{{\\alpha L(T_{2}-T_{1})=\\displaystyle\\frac{F L}{\\pi\\left(\\displaystyle\\frac{d}{2}\\right)^{2}\\times Y}}}\\\\ {{F=2\\times10^{-8}\\times\\left(-39-27\\right)\\times3.14\\times0.91\\times10^{11}\\times\\left(\\displaystyle\\frac{d}{2}\\right)^{2}}}\\\\ {{\\pi=3.8\\times10^{2}\\mathrm{N}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.11",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 11,
+    "chapter_name": "thermal properties of matter",
+    "question_type": "numerical",
+    "question_text": "The coefficient of volume expansion of glycerin is 49 × 10–5K–1. What is the fractional change in its density for a 30 °C rise in temperature?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of change in length and related formulas.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777753708/ncert/physics/11/img_13_0.png",
+      "latex_extracted": "\\begin{array}{l}{{\\underline{{{\\mathrm{change~in~length}}}\\left(\\Delta I_{1}\\right)}=\\alpha_{1}\\Delta T}}\\\\ {{\\mathrm{Oifiginal~length~(I_{1})}}}\\\\ {{\\vdots}}\\\\ {{\\vdots}}\\\\ {{\\vdots}}\\\\ {{\\vdots}}\\\\ {{\\delta M_{1}=50\\times\\left(2.1\\times10^{-5}\\right)\\times210}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Fractional change in the density of glycerin = 49 ×10–5 × 30 = 1.47 × 10–2.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Use the formula for fractional change in density with given values.",
+        "expression": "\\frac{\\Delta \\rho}{\\rho} = \\alpha \\Delta T"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values into the formula.",
+        "expression": "1.47 \\times 10^{-2} = 49 \\times 10^{-5} \\times 30"
+      }
+    ],
+    "final_answer": "Therefore, the fractional change in the density of glycerin is 1.47 × 10–2.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of volume expansion and basic substitution.",
+    "topics_tags": [
+      "Volume Expansion",
+      "Density Change",
+      "Thermal Properties"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of change in length and related formulas.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777753708/ncert/physics/11/img_13_0.png",
+        "latex_extracted": "\\begin{array}{l}{{\\underline{{{\\mathrm{change~in~length}}}\\left(\\Delta I_{1}\\right)}=\\alpha_{1}\\Delta T}}\\\\ {{\\mathrm{Oifiginal~length~(I_{1})}}}\\\\ {{\\vdots}}\\\\ {{\\vdots}}\\\\ {{\\vdots}}\\\\ {{\\vdots}}\\\\ {{\\delta M_{1}=50\\times\\left(2.1\\times10^{-5}\\right)\\times210}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.12",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 11,
+    "chapter_name": "thermal properties of matter",
+    "question_type": "mcq",
+    "question_text": "A 10 kW drilling machine is used to drill a bore in a small aluminium block of mass 8.0 kg. How much is the rise in temperature of the block in 2.5 minutes, assuming 50% of power is used up in heating the machine itself or lost to the surroundings. Specific heat of aluminium = 0.91 J g–1K–1.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of useful energy and related formulas.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777753716/ncert/physics/11/img_14_0.png",
+      "latex_extracted": "\\begin{array}{l}{{\\frac{\\Delta V}{V}=\\alpha_{r}\\Delta T}}\\\\ {{V}}\\\\ {{{}}}\\\\ {{{}}}\\\\ {{{}}}\\\\ {{V_{\\bar{r}_{s}}-V_{\\bar{r}_{s}}=\\frac{m}{\\rho_{\\bar{r}_{s}}}\\alpha_{r}\\Delta T}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The rise in the temperature of the block after drilling is 103°C.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate total energy used by the drilling machine.",
+        "expression": "Pt = 10 \\times 10^{3} \\times 150"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate useful energy considering 50% efficiency.",
+        "expression": "\\Delta Q = \\frac{50}{100} \\times Pt"
+      },
+      {
+        "step_number": 3,
+        "description": "Use the specific heat formula to find the rise in temperature.",
+        "expression": "\\Delta T = \\frac{\\Delta Q}{m c}"
+      }
+    ],
+    "final_answer": "Therefore, the rise in the temperature of the block is 103°C.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple steps and calculations with energy and specific heat.",
+    "topics_tags": [
+      "Thermal Energy",
+      "Specific Heat",
+      "Temperature Change"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of useful energy and related formulas.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777753716/ncert/physics/11/img_14_0.png",
+        "latex_extracted": "\\begin{array}{l}{{\\frac{\\Delta V}{V}=\\alpha_{r}\\Delta T}}\\\\ {{V}}\\\\ {{{}}}\\\\ {{{}}}\\\\ {{{}}}\\\\ {{V_{\\bar{r}_{s}}-V_{\\bar{r}_{s}}=\\frac{m}{\\rho_{\\bar{r}_{s}}}\\alpha_{r}\\Delta T}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.13",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 11,
+    "chapter_name": "thermal properties of matter",
+    "question_type": "mcq",
+    "question_text": "In an experiment on the specific heat of a metal, a 0.20 kg block of the metal at 150 °C is dropped in a copper calorimeter (of water equivalent 0.025 kg) containing 1550 cm³ of water at 27 °C. The final temperature is 40 °C. Compute the specific heat of the metal. If heat losses to the surroundings are not negligible, is your answer greater or smaller than the actual value for specific heat of the metal?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The specific heat of the metal can be calculated using the heat lost by the metal equals the heat gained by the water and calorimeter system. If some heat is lost to the surroundings, then the value of C will be smaller than the actual value.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the mass and temperature of the metal and water.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Set up the equation for heat lost by the metal and heat gained by the water.",
+        "expression": "mCΔT = (M + m')CΔT'"
+      },
+      {
+        "step_number": 3,
+        "description": "Substitute the known values into the equation.",
+        "expression": "200 × C × 110 = (150 + 25) × 4.186 × 13"
+      }
+    ],
+    "final_answer": "Thus, the calculated specific heat will be less than the actual value due to heat losses.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multi-step reasoning and application of heat transfer principles.",
+    "topics_tags": [
+      "Specific Heat",
+      "Calorimetry",
+      "Heat Transfer"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.14",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 11,
+    "chapter_name": "thermal properties of matter",
+    "question_type": "conceptual",
+    "question_text": "Explain the difference in molar specific heats of diatomic gases compared to monatomic gases. What can you infer from the somewhat larger value for chlorine?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The gases listed are diatomic and have additional degrees of freedom (modes of motion) compared to monatomic gases. This results in a higher molar specific heat for diatomic gases. The larger value for chlorine suggests it has more complex molecular motion.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, diatomic gases require more heat to increase their temperature due to their additional degrees of freedom.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of molecular motion and specific heat concepts.",
+    "topics_tags": [
+      "Molar Specific Heat",
+      "Diatomic Gases",
+      "Monatomic Gases"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.15",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 11,
+    "chapter_name": "Thermal Properties of Matter",
+    "question_type": "multipart",
+    "question_text": "Answer the following questions based on the P–T phase diagram of CO: CO at 1 atm pressure and temperature – 60 °C is compressed isothermally. Does it go through a liquid phase? What happens when CO at 44 atm pressure is cooled from room temperature at constant pressure? Describe qualitatively the changes in a given mass of solid CO at 10 atm pressure and temperature –65 °C as it is heated up to room temperature at constant pressure. CO is heated to a temperature 70 °C and compressed isothermally. What changes in its properties do you expect to observe?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "CO at 1 atm pressure and temperature – 60 °C is compressed isothermally. Does it go through a liquid phase?",
+        "part_latex": null,
+        "answer_text": "It condenses to solid directly.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Therefore, it does not go through a liquid phase.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "What happens when CO at 44 atm pressure is cooled from room temperature at constant pressure?",
+        "part_latex": null,
+        "answer_text": "The fusion and boiling points are given by the intersection point where this parallel line cuts the fusion and vaporization curves.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, it will undergo phase changes as it cools.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "Describe qualitatively the changes in a given mass of solid CO at 10 atm pressure and temperature –65 °C as it is heated up to room temperature at constant pressure.",
+        "part_latex": null,
+        "answer_text": "It departs from ideal gas behaviour as pressure increases.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "As it is heated, it will transition from solid to gas without passing through a liquid phase.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(d)",
+        "part_text": "CO is heated to a temperature 70 °C and compressed isothermally. What changes in its properties do you expect to observe?",
+        "part_latex": null,
+        "answer_text": "It will exhibit changes in its properties as it is compressed, likely showing deviations from ideal gas behavior.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "The properties will change significantly under compression.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of phase diagrams and properties of gases and solids.",
+    "topics_tags": [
+      "Phase Diagram",
+      "Carbon Monoxide",
+      "Thermal Properties"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.16",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 11,
+    "chapter_name": "thermal properties of matter",
+    "question_type": "numerical",
+    "question_text": "A child running a temperature of 101°F is given an antipyrin (i.e. a medicine that lowers fever) which causes an increase in the rate of evaporation of sweat from his body. If the fever is brought down to 98°F in 20 min, what is the average rate of extra evaporation caused by the drug? Assume the evaporation mechanism to be the only way by which heat is lost. The mass of the child is 30 kg. The specific heat of human body is approximately the same as that of water, and latent heat of evaporation of water at that temperature is about 580 cal g–1.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "P-T phase diagram for CO showing various phases and transitions.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777753745/ncert/physics/11/img_21_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The average rate of extra evaporation can be calculated using the formula Q = mcΔT, where Q is the heat lost, m is the mass, c is the specific heat, and ΔT is the change in temperature.",
+    "answer_latex": "Q = mc\\Delta T = 30 \\times 1 \\times (101 - 98) = 90 \\text{ cal}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the heat lost using the specific heat formula.",
+        "expression": "Q = mc\\Delta T"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values into the formula.",
+        "expression": "Q = 30 \\times 1 \\times (101 - 98) = 90"
+      }
+    ],
+    "final_answer": "Therefore, the average rate of extra evaporation caused by the drug is 90 cal.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of heat transfer and basic calculations.",
+    "topics_tags": [
+      "Heat Transfer",
+      "Evaporation",
+      "Thermal Properties"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "P-T phase diagram for CO showing various phases and transitions.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777753745/ncert/physics/11/img_21_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.17",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 11,
+    "chapter_name": "thermal properties of matter",
+    "question_type": "mcq",
+    "question_text": "A ‘thermacole’ icebox is a cheap and efficient method for storing small quantities of cooked food in summer in particular. A cubical icebox of side 30 cm has a thickness of 5.0 cm. If 4.0 kg of ice is put in the box, estimate the amount of ice remaining after 6 h. The outside temperature is 45°C, and coefficient of thermal conductivity of thermacole is 0.01 J s–1m–1K–1. [Heat of fusion of water = 335 × 10^3 J kg–1]",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Mass of ice left = 4 – 0.313 = 3.687 kg. Hence, the amount of ice remaining after 6 h is 3.687 kg.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the surface area of the icebox.",
+        "expression": "A = 6s^2 = 6 × (0.3)^2 = 0.54 m^2"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the total heat lost by the icebox over 6 hours.",
+        "expression": "Q = K × A × (T_{outside} - T_{inside}) × t"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the mass of ice that melts using the heat of fusion.",
+        "expression": "m' = \\frac{Q}{L}"
+      }
+    ],
+    "final_answer": "Therefore, the amount of ice remaining after 6 hours is 3.687 kg.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations including area, heat loss, and mass of ice melted.",
+    "topics_tags": [
+      "Thermal Conductivity",
+      "Heat Transfer",
+      "Phase Change"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.18",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 11,
+    "chapter_name": "thermal properties of matter",
+    "question_type": "mcq",
+    "question_text": "A brass boiler has a base area of 0.15 m² and thickness 1.0 cm. It boils water at the rate of 6.0 kg/min when placed on a gas stove. Estimate the temperature of the part of the flame in contact with the boiler. Thermal conductivity of brass = 109 J s–1m–1 K–1; Heat of vaporisation of water = 2256 × 10^3 J kg–1.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of heat transfer through the brass boiler.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777753761/ncert/physics/11/img_24_0.png",
+      "latex_extracted": "\\begin{array}{l}{{\\theta=\\frac{0.01\\times0.54\\times(45)\\times6.\\times60\\times60}{L}=\\nonumber}}\\\\ {{\\mathrm{~But~}\\theta=m L}}\\\\ {{\\mathrm{~B}}}\\\\ {{\\mathrm{~But~}\\theta=m L}}\\\\ {{\\mathrm{~B}}}\\\\ {{\\mathrm{~But~}\\theta=m L}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The amount of heat flowing into water through the brass base of the boiler is calculated, leading to the estimation of the flame temperature.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the heat transfer through the brass base.",
+        "expression": "Q = K × A × \\frac{(T_{flame} - T_{water})}{l} × t"
+      },
+      {
+        "step_number": 2,
+        "description": "Relate the heat transfer to the mass of water boiled.",
+        "expression": "Q = m × L"
+      },
+      {
+        "step_number": 3,
+        "description": "Solve for the flame temperature.",
+        "expression": "T_{flame} = \\frac{Q × l}{K × A × t} + T_{water}"
+      }
+    ],
+    "final_answer": "Thus, the temperature of the part of the flame in contact with the boiler can be estimated.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of heat transfer through the brass boiler.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777753763/ncert/physics/11/img_24_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Involves complex calculations and understanding of heat transfer principles.",
+    "topics_tags": [
+      "Heat Transfer",
+      "Thermal Conductivity",
+      "Boiling Point"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of heat transfer through the brass boiler.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777753761/ncert/physics/11/img_24_0.png",
+        "latex_extracted": "\\begin{array}{l}{{\\theta=\\frac{0.01\\times0.54\\times(45)\\times6.\\times60\\times60}{L}=\\nonumber}}\\\\ {{\\mathrm{~But~}\\theta=m L}}\\\\ {{\\mathrm{~B}}}\\\\ {{\\mathrm{~But~}\\theta=m L}}\\\\ {{\\mathrm{~B}}}\\\\ {{\\mathrm{~But~}\\theta=m L}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of heat transfer through the brass boiler.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777753763/ncert/physics/11/img_24_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q11.19",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 11,
+    "chapter_name": "thermal properties of matter",
+    "question_type": "conceptual",
+    "question_text": "Explain why:\na body with large reflectivity is a poor emitter\na brass tumbler feels much cooler than a wooden tray on a chilly day\nan optical pyrometer (for measuring high temperatures) calibrated for an ideal black body radiation gives too low a value for the temperature of a red hot iron piece in the open, but gives a correct value for the temperature when the same piece is in the furnace\nthe earth without its atmosphere would be inhospitably cold\nheating systems based on circulation of steam are more efficient in warming a building.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "A body with a large reflectivity is a poor absorber of light radiations. A poor absorber will in turn be a poor emitter of radiations. Hence, a body with a large reflectivity is a poor emitter. Brass is a good conductor of heat. When one touches a brass tumbler, heat is conducted from the body to the brass tumbler easily. Hence, the temperature of the body reduces to a lower value and one feels cooler. Wood is a poor conductor of heat. When one touches a wooden tray, very little heat is conducted from the body to the wooden tray. Hence, there is only a negligible drop in the temperature of the body and one does not feel cool. Thus, a brass tumbler feels colder than a wooden tray on a chilly day. An optical pyrometer calibrated for an ideal black body radiation gives too low a value for temperature of a red hot iron piece kept in the open. Without its atmosphere, earth would be inhospitably cold. In the absence of atmospheric gases, no extra heat will be trapped. All the heat would be radiated back from earth’s surface. A heating system based on the circulation of steam is more efficient in warming a building than that based on the circulation of hot water.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, a brass tumbler feels colder than a wooden tray on a chilly day.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation related to heat and temperature.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777753765/ncert/physics/11/img_25_0.png",
+      "latex_extracted": "\\begin{array}{c}{{\\mathrm{:}m L={\\frac{K d(T_{1}-T_{2})t}{10\\times0.15\\times0.01}}}}\\\\ {{}}\\\\ {{}}&{{}}\\\\ {{\\mathrm{}={\\frac{6\\times2256\\times10^{1}\\times0.00}{-137\\times60}}}\\end{array}",
+      "source_page_number": 25,
+      "source_image_index": 0,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of thermal properties and heat transfer concepts.",
+    "topics_tags": [
+      "Thermal Properties",
+      "Heat Transfer",
+      "Conduction",
+      "Radiation"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation related to heat and temperature.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777753765/ncert/physics/11/img_25_0.png",
+        "latex_extracted": "\\begin{array}{c}{{\\mathrm{:}m L={\\frac{K d(T_{1}-T_{2})t}{10\\times0.15\\times0.01}}}}\\\\ {{}}\\\\ {{}}&{{}}\\\\ {{\\mathrm{}={\\frac{6\\times2256\\times10^{1}\\times0.00}{-137\\times60}}}\\end{array}",
+        "source_page_number": 25,
+        "source_image_index": 0,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q11.20",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 11,
+    "chapter_name": "thermal properties of matter",
+    "question_type": "mcq",
+    "question_text": "A body cools from 80 °C to 50 °C in 5 minutes. Calculate the time it takes to cool from 60 °C to 30 °C. The temperature of the surroundings is 20 °C.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of Newton's law of cooling.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777753772/ncert/physics/11/img_27_0.png",
+      "latex_extracted": "\\begin{array}{c}{{-\\frac{d T}{d t}=K\\big(T-T_{\\scriptscriptstyle0}\\big)}}\\\\ {{\\phantom{\\frac{A T}{}}}}\\\\ {{\\phantom{\\frac{\\partial T}{}_{}}{\\cal K\\big(}T-T_{\\scriptscriptstyle0}\\big)}=-K d t}}\\end{array}",
+      "source_page_number": 27,
+      "source_image_index": 0,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Apply Newton's law of cooling to find the cooling constant K.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the cooling constant K to calculate the time taken to cool from 60 °C to 30 °C.",
+        "expression": null
+      }
+    ],
+    "final_answer": "The time taken to cool from 60 °C to 30 °C can be calculated using the derived formula.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves application of Newton's law of cooling and requires calculations.",
+    "topics_tags": [
+      "Newton's Law of Cooling",
+      "Heat Transfer",
+      "Thermal Properties"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of Newton's law of cooling.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777753772/ncert/physics/11/img_27_0.png",
+        "latex_extracted": "\\begin{array}{c}{{-\\frac{d T}{d t}=K\\big(T-T_{\\scriptscriptstyle0}\\big)}}\\\\ {{\\phantom{\\frac{A T}{}}}}\\\\ {{\\phantom{\\frac{\\partial T}{}_{}}{\\cal K\\big(}T-T_{\\scriptscriptstyle0}\\big)}=-K d t}}\\end{array}",
+        "source_page_number": 27,
+        "source_image_index": 0,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.21",
+    "class": 11,
+    "subject": "Physics",
+    "chapter_number": 11,
+    "chapter_name": "thermal properties of matter",
+    "question_type": "numerical",
+    "question_text": "The temperature of the body falls from 60°C to 30°C in time = t'. Hence, we get: Therefore, the time taken to cool the body from 60°C to 30°C is 10 minutes.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of temperature change and cooling equations.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777753781/ncert/physics/11/img_28_0.png",
+      "latex_extracted": "\\begin{array}{l l}{{}}&{{\\stackrel{\\vec{v}}{K\\bigl(}T-T_{\\circ}\\bigr)-\\frac{\\partial v}{\\partial\\left(}S\\right)}}\\\\ {{\\frac{\\left|S\\left(T-T_{\\circ}\\right)-\\frac{\\sqrt{v}}{K}\\left(T_{\\circ}\\right)\\right)_{\\theta_{0}}^{\\phantom{u}}{\\left(}S-20\\right)-K\\left[t\\right)_{\\circ}^{\\phantom{u b v}}}}\\\\ {{}}&{{\\left.\\begin{array}{l}{{\\left.S\\right)_{0}\\left(S-20\\right)-S\\left(L\\right)-S\\left(L\\right)}\\\\ {{\\left.\\frac{1}{K}\\left(L\\right)\\right)_{\\theta_{0}}\\right)-K}}}\\\\ {{\\left.\\frac{\\left|S\\right)(S\\right)-200}{\\left(}S\\right)-S\\left(S\\right)}\\right.}}\\\\ {{\\frac{\\left|S\\right|_{0}{\\left|}S\\left(L\\right)-200\\right)}{\\left(L\\right)}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The time taken to cool the body from 60°C to 30°C is 10 minutes.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Use the cooling equation to relate temperature change and time.",
+        "expression": "\\frac{-2.3026}{t}\\log_{10}4=\\frac{-2.3026}{300}\\log_{10}2"
+      },
+      {
+        "step_number": 2,
+        "description": "Solve for time t using the logarithmic relationship.",
+        "expression": "t = 300 \\times 2 = 600 \\text{ seconds} = 10 \\text{ minutes}"
+      }
+    ],
+    "final_answer": "Therefore, the time taken to cool the body from 60°C to 30°C is 10 minutes.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of cooling laws and basic logarithmic calculations.",
+    "topics_tags": [
+      "Cooling",
+      "Newton's Law of Cooling",
+      "Thermal Properties"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of temperature change and cooling equations.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777753781/ncert/physics/11/img_28_0.png",
+        "latex_extracted": "\\begin{array}{l l}{{}}&{{\\stackrel{\\vec{v}}{K\\bigl(}T-T_{\\circ}\\bigr)-\\frac{\\partial v}{\\partial\\left(}S\\right)}}\\\\ {{\\frac{\\left|S\\left(T-T_{\\circ}\\right)-\\frac{\\sqrt{v}}{K}\\left(T_{\\circ}\\right)\\right)_{\\theta_{0}}^{\\phantom{u}}{\\left(}S-20\\right)-K\\left[t\\right)_{\\circ}^{\\phantom{u b v}}}}\\\\ {{}}&{{\\left.\\begin{array}{l}{{\\left.S\\right)_{0}\\left(S-20\\right)-S\\left(L\\right)-S\\left(L\\right)}\\\\ {{\\left.\\frac{1}{K}\\left(L\\right)\\right)_{\\theta_{0}}\\right)-K}}}\\\\ {{\\left.\\frac{\\left|S\\right)(S\\right)-200}{\\left(}S\\right)-S\\left(S\\right)}\\right.}}\\\\ {{\\frac{\\left|S\\right|_{0}{\\left|}S\\left(L\\right)-200\\right)}{\\left(L\\right)}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  }
+]

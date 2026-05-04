@@ -1,0 +1,1023 @@
+[
+  {
+    "question_id": "Q4.1",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "linear equations",
+    "question_type": "conceptual",
+    "question_text": "The cost of a notebook is twice the cost of a pen. Write a linear equation in two variables to represent this statement. (Take the cost of a notebook to be Rs x and that of a pen to be Rs y.)",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Let the cost of a notebook and a pen be x and y respectively. Cost of notebook = 2 × Cost of pen, thus x = 2y, which can be rearranged to x - 2y = 0.",
+    "answer_latex": "x - 2y = 0",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Define variables for the costs of the notebook and pen.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Set up the equation based on the relationship given.",
+        "expression": "x = 2y"
+      },
+      {
+        "step_number": 3,
+        "description": "Rearrange the equation to standard form.",
+        "expression": "x - 2y = 0"
+      }
+    ],
+    "final_answer": "Therefore, the linear equation representing the cost relationship is x - 2y = 0.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct application of the relationship between two variables.",
+    "topics_tags": [
+      "Linear Equations",
+      "Cost Relationships",
+      "Variables"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.2",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "linear equations",
+    "question_type": "conceptual",
+    "question_text": "Express the following linear equations in the form ax + by + c = 0 and indicate the values of a, b, c in each case: (i) −2x + 3y = 6",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "For the equation −2x + 3y = 6, rearranging gives us −2x + 3y - 6 = 0. Here, a = -2, b = 3, c = -6.",
+    "answer_latex": "-2x + 3y - 6 = 0",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Rearrange the equation to the standard form.",
+        "expression": "-2x + 3y - 6 = 0"
+      },
+      {
+        "step_number": 2,
+        "description": "Identify the coefficients a, b, and c.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the values are a = -2, b = 3, c = -6.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of rearranging equations and identifying coefficients.",
+    "topics_tags": [
+      "Linear Equations",
+      "Standard Form",
+      "Coefficients"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.3",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "linear equations",
+    "question_type": "conceptual",
+    "question_text": "Which one of the following options is true, and why? y = 3x + 5 has (i) a unique solution, (ii) only two solutions, (iii) infinitely many solutions.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "y = 3x + 5 is a linear equation in two variables and it has infinite possible solutions. As for every value of x, there will be a value of y satisfying the above equation and vice-versa.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the nature of the linear equation.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Explain the relationship between x and y.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Hence, the correct answer is (iii) infinitely many solutions.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of linear equations and their solutions.",
+    "topics_tags": [
+      "Linear Equations",
+      "Solutions",
+      "Graphing"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.4",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "linear equations",
+    "question_type": "mcq",
+    "question_text": "Check which of the following are solutions of the equation x − 2y = 4 and which are not: (i) (0, 2) (ii) (2, 0) (iii) (4, 0) (iv) (1, 1)",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical expressions related to the solutions of linear equations.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777839726/ncert/maths/4/img_6_0.jpg",
+      "latex_extracted": "\\begin{array}{c}{{\\sqrt{\\frac{\\Gamma^{\\mu}\\rightarrow\\gamma\\overline{{{\\rho}}}\\sqrt{\\frac{\\gamma}{6}}\\sqrt{\\frac{\\gamma}{6}}\\sqrt{\\frac{\\gamma}{6}}\\frac{\\gamma}{6}}}}\\\\ {{\\sqrt{\\frac{\\gamma}{\\sqrt{5-\\sqrt{5}}\\sqrt{5}}\\sqrt{\\frac{\\gamma}{6}}\\overline{{{\\beta}}}\\overline{{{\\beta}}}}}\\end{array}}}\\\\ {{\\left\\{\\frac{\\sqrt{\\frac{\\gamma}{6}-\\sqrt{5}}\\overline{{{\\beta}}}{1}\\overline{{{\\beta}}}}{1}\\right\\}}}\\\\ {{\\left.\\left.\\frac{\\sqrt{\\frac{\\gamma}{6}}\\sqrt{5}}\\overline{{{\\beta}}}{1}\\right\\}}}\\end{array}",
+      "source_page_number": 6,
+      "source_image_index": 0,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The solutions are evaluated as follows: (0, 2) is not a solution, (2, 0) is not a solution, (4, 0) is not a solution, and (1, 1) is not a solution.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Substitute (0, 2) into the equation x - 2y = 4.",
+        "expression": "0 - 2(2) = -4 \\neq 4"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute (2, 0) into the equation x - 2y = 4.",
+        "expression": "2 - 2(0) = 2 \\neq 4"
+      },
+      {
+        "step_number": 3,
+        "description": "Substitute (4, 0) into the equation x - 2y = 4.",
+        "expression": "4 - 2(0) = 4 = 4"
+      },
+      {
+        "step_number": 4,
+        "description": "Substitute (1, 1) into the equation x - 2y = 4.",
+        "expression": "1 - 2(1) = -1 \\neq 4"
+      }
+    ],
+    "final_answer": "Therefore, none of the given points are solutions of the equation x - 2y = 4.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical expressions related to the solutions of linear equations.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777839728/ncert/maths/4/img_6_1.png",
+      "latex_extracted": null,
+      "source_page_number": 6,
+      "source_image_index": 1,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of substituting values into an equation.",
+    "topics_tags": [
+      "Linear Equations",
+      "Solutions",
+      "Substitution"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical expressions related to the solutions of linear equations.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777839726/ncert/maths/4/img_6_0.jpg",
+        "latex_extracted": "\\begin{array}{c}{{\\sqrt{\\frac{\\Gamma^{\\mu}\\rightarrow\\gamma\\overline{{{\\rho}}}\\sqrt{\\frac{\\gamma}{6}}\\sqrt{\\frac{\\gamma}{6}}\\sqrt{\\frac{\\gamma}{6}}\\frac{\\gamma}{6}}}}\\\\ {{\\sqrt{\\frac{\\gamma}{\\sqrt{5-\\sqrt{5}}\\sqrt{5}}\\sqrt{\\frac{\\gamma}{6}}\\overline{{{\\beta}}}\\overline{{{\\beta}}}}}\\end{array}}}\\\\ {{\\left\\{\\frac{\\sqrt{\\frac{\\gamma}{6}-\\sqrt{5}}\\overline{{{\\beta}}}{1}\\overline{{{\\beta}}}}{1}\\right\\}}}\\\\ {{\\left.\\left.\\frac{\\sqrt{\\frac{\\gamma}{6}}\\sqrt{5}}\\overline{{{\\beta}}}{1}\\right\\}}}\\end{array}",
+        "source_page_number": 6,
+        "source_image_index": 0,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical expressions related to the solutions of linear equations.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777839728/ncert/maths/4/img_6_1.png",
+        "latex_extracted": null,
+        "source_page_number": 6,
+        "source_image_index": 1,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.5",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "linear equations",
+    "question_type": "numerical",
+    "question_text": "Find the value of k, if x = 2, y = 1 is a solution of the equation 2x + 3y = k.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, the value of k is 7.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Substitute x = 2 and y = 1 into the equation 2x + 3y = k.",
+        "expression": "2(2) + 3(1) = k"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the left-hand side.",
+        "expression": "4 + 3 = k"
+      }
+    ],
+    "final_answer": "Thus, the value of k is 7.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical equation showing the substitution of x and y into the equation 2x + 3y = k.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777839730/ncert/maths/4/img_7_0.jpg",
+      "latex_extracted": "\\begin{array}{c}{{x-2y=\\sqrt{2}-2\\left(4\\sqrt{2}\\right)}}\\\\ {{=\\sqrt{2}-8\\sqrt{2}=-7\\sqrt{2}\\neq4}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct substitution and simple arithmetic.",
+    "topics_tags": [
+      "Linear Equations",
+      "Substitution",
+      "Algebra"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical equation showing the substitution of x and y into the equation 2x + 3y = k.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777839730/ncert/maths/4/img_7_0.jpg",
+        "latex_extracted": "\\begin{array}{c}{{x-2y=\\sqrt{2}-2\\left(4\\sqrt{2}\\right)}}\\\\ {{=\\sqrt{2}-8\\sqrt{2}=-7\\sqrt{2}\\neq4}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.6",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "linear equations",
+    "question_type": "conceptual",
+    "question_text": "Give the equations of two lines passing through (2, 14). How many more such lines are there, and why?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Graph showing the lines passing through the point (2, 14)",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777839761/ncert/maths/4/img_11_0.jpg",
+      "latex_extracted": "\\begin{array}{c c c c}{{\\dagger_{1}}}&{{\\cdots}}&{{\\cdots}}&{{\\cdots}}\\\\ {{\\vdots}}&{{\\left(\\log_{3}\\right)\\right|_{4}^{*}}}&{{\\vdots}}\\\\ {{\\vdots}}&{{\\left(\\ddots\\right.}}&{{\\ddots}}&{{\\vdots}}&{{\\vdots}}\\\\ {{\\vdots}}&{{\\vdots}}&{{\\ddots}}&{{\\vdots}}\\\\ {{\\vdots}}&{{\\vdots}}&{{\\vdots}}&{{\\vdots}}\\\\ {{\\vdots}}&{{\\vdots}}&{{\\vdots}}&{{\\ddots}}&{{\\vdots}}\\\\ {{\\vdots}}&{{\\ddots}}&{{\\vdots}}&{{\\pm}}&{{\\pm}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "It can be observed that point (2, 14) satisfies the equation 7x − y = 0 and x − y + 12 = 0. Therefore, 7x − y = 0 and x − y + 12 = 0 are two lines passing through point (2, 14). As it is known that through one point, infinite number of lines can pass through, therefore, there are infinite lines of such type passing through the given point.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, there are infinite lines passing through the point (2, 14).",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of linear equations and the concept of lines through a point.",
+    "topics_tags": [
+      "Linear Equations",
+      "Graphing",
+      "Infinite Lines"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Graph showing the lines passing through the point (2, 14)",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777839761/ncert/maths/4/img_11_0.jpg",
+        "latex_extracted": "\\begin{array}{c c c c}{{\\dagger_{1}}}&{{\\cdots}}&{{\\cdots}}&{{\\cdots}}\\\\ {{\\vdots}}&{{\\left(\\log_{3}\\right)\\right|_{4}^{*}}}&{{\\vdots}}\\\\ {{\\vdots}}&{{\\left(\\ddots\\right.}}&{{\\ddots}}&{{\\vdots}}&{{\\vdots}}\\\\ {{\\vdots}}&{{\\vdots}}&{{\\ddots}}&{{\\vdots}}\\\\ {{\\vdots}}&{{\\vdots}}&{{\\vdots}}&{{\\vdots}}\\\\ {{\\vdots}}&{{\\vdots}}&{{\\vdots}}&{{\\ddots}}&{{\\vdots}}\\\\ {{\\vdots}}&{{\\ddots}}&{{\\vdots}}&{{\\pm}}&{{\\pm}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.7",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "linear equations",
+    "question_type": "mcq",
+    "question_text": "If the point (3, 4) lies on the graph of the equation 3y = ax + 7, find the value of a.",
+    "question_latex": "3y = ax + 7",
+    "mcq_options": [],
+    "correct_option": "(4)",
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Putting x = 3 and y = 4 in the given equation, we have 3(4) = a(3) + 7, which simplifies to 12 = 3a + 7. Therefore, 3a = 5, giving a = \\frac{5}{3}.",
+    "answer_latex": "a = \\frac{5}{3}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Substitute the values of x and y into the equation.",
+        "expression": "3(4) = a(3) + 7"
+      },
+      {
+        "step_number": 2,
+        "description": "Simplify the equation to isolate a.",
+        "expression": "12 = 3a + 7"
+      },
+      {
+        "step_number": 3,
+        "description": "Solve for a.",
+        "expression": "3a = 5 \\Rightarrow a = \\frac{5}{3}"
+      }
+    ],
+    "final_answer": "Therefore, the value of a is \\frac{5}{3}.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves substitution and basic algebra to solve for a.",
+    "topics_tags": [
+      "Linear Equations",
+      "Substitution",
+      "Algebra"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.8",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "linear equations",
+    "question_type": "conceptual",
+    "question_text": "From the choices given below, choose the equation whose graphs are given in the given figures.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Graphs representing the equations of lines in the first and second figures.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777839775/ncert/maths/4/img_13_0.jpg",
+      "latex_extracted": "\\begin{array}{c}{{\\begin{array}{c}{{\\begin{array}{c}{{\\begin{array}{c}{{}}\\\\ {{}}\\\\ {{}}\\\\ {{}}\\\\ {{\\frac{1}{2}}\\end{array}}}\\end{array}}}\\\\ {{\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad}}\\\\ {{\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad}\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad}}\\\\ {{\\qquad\\qquad\\qquad}}&{{\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad}}\\\\ {{\\qquad\\qquad\\qquad}}&{{\\qquad\\qquad\\qquad}}\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad}}\\\\ {{\\qquad\\qquad}}&{{\\qquad}}&{{\\qquad\\qquad}}\\qquad}\\end{array}{{\\qquad}}&{{\\qquad}}&{{\\qquad}}\\qquad\\qquad}\\\\ {{{\\qquad}}&{\\qquad}}&{{{{\\qquad}}}&{{\\qquad}}}&{{{{{{\\qquad}}}&{\\qquad}}&{\\qquad{\\qquad}&{{{\\qquad\\qquad{\\qquad}}}&{\\qquad{\\qquad}}&{{\\qquad{{\\qquad}}}&{\\qquad{{{{{\\qquad}}}&{{{\\qquad}}}&{{{{\\qquad}}&{{{{\\qquad}}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The coordinates of the points of the graph satisfy the equation x + y = 0.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, x + y = 0 is the equation corresponding to the graph as shown in the first figure.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of graph interpretation and basic equation identification.",
+    "topics_tags": [
+      "Linear Equations",
+      "Graph Interpretation",
+      "Coordinate Geometry"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Graphs representing the equations of lines in the first and second figures.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777839775/ncert/maths/4/img_13_0.jpg",
+        "latex_extracted": "\\begin{array}{c}{{\\begin{array}{c}{{\\begin{array}{c}{{\\begin{array}{c}{{}}\\\\ {{}}\\\\ {{}}\\\\ {{}}\\\\ {{\\frac{1}{2}}\\end{array}}}\\end{array}}}\\\\ {{\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad}}\\\\ {{\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad}\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad}}\\\\ {{\\qquad\\qquad\\qquad}}&{{\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad}}\\\\ {{\\qquad\\qquad\\qquad}}&{{\\qquad\\qquad\\qquad}}\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad}}\\\\ {{\\qquad\\qquad}}&{{\\qquad}}&{{\\qquad\\qquad}}\\qquad}\\end{array}{{\\qquad}}&{{\\qquad}}&{{\\qquad}}\\qquad\\qquad}\\\\ {{{\\qquad}}&{\\qquad}}&{{{{\\qquad}}}&{{\\qquad}}}&{{{{{{\\qquad}}}&{\\qquad}}&{\\qquad{\\qquad}&{{{\\qquad\\qquad{\\qquad}}}&{\\qquad{\\qquad}}&{{\\qquad{{\\qquad}}}&{\\qquad{{{{{\\qquad}}}&{{{\\qquad}}}&{{{{\\qquad}}&{{{{\\qquad}}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.9",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "linear equations",
+    "question_type": "conceptual",
+    "question_text": "If the work done by a body on application of a constant force is directly proportional to the distance travelled by the body, express this in the form of an equation in two variables and draw the graph of the same by taking the constant force as 5 units.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Let the distance travelled and the work done by the body be x and y respectively.",
+    "answer_latex": "y = 5x",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Express the relationship as an equation.",
+        "expression": "y = kx, where k is the constant force."
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the constant force value.",
+        "expression": "y = 5x"
+      }
+    ],
+    "final_answer": "Thus, the equation representing the work done is y = 5x.",
+    "answer_image": {
+      "present": true,
+      "description": "Graph representing the relationship between work done and distance travelled.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777839802/ncert/maths/4/img_15_0.jpg",
+      "latex_extracted": "\\begin{array}{c}{{\\begin{array}{c}{{\\begin{array}{c}{{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\end{array}\\begin{array}{c}{{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}&{{\\qquad}}\\\\ {{\\qquad}}&{{\\qquad}}\\\\ {{\\qquad}}&{{\\qquad}}\\end{array}\\qquad\\qquad}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of proportional relationships and graphing.",
+    "topics_tags": [
+      "Work and Energy",
+      "Linear Relationships",
+      "Graphing"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Graph representing the relationship between work done and distance travelled.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777839802/ncert/maths/4/img_15_0.jpg",
+        "latex_extracted": "\\begin{array}{c}{{\\begin{array}{c}{{\\begin{array}{c}{{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\end{array}\\begin{array}{c}{{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}\\\\ {{\\qquad}}&{{\\qquad}}\\\\ {{\\qquad}}&{{\\qquad}}\\\\ {{\\qquad}}&{{\\qquad}}\\end{array}\\qquad\\qquad}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.10",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "linear equations",
+    "question_type": "conceptual",
+    "question_text": "Yamini and Fatima, two students of Class IX of a school, together contributed Rs 100 towards the Prime Minister’s Relief Fund to help the earthquake victims. Write a linear equation which satisfies this data. (You may take their contributions as Rs x and Rs y.) Draw the graph of the same.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Graph showing the contributions of Yamini and Fatima towards the Prime Minister’s Relief Fund.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777839829/ncert/maths/4/img_17_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Let the amount that Yamini and Fatima contributed be x and y respectively towards the Prime Minister’s Relief fund. Amount contributed by Yamini + Amount contributed by Fatima = 100, thus x + y = 100. The points (100, 0) and (0, 100) satisfy this equation.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the linear equation is x + y = 100.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of linear equations and basic graphing.",
+    "topics_tags": [
+      "Linear Equations",
+      "Graphing",
+      "Algebra"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Graph showing the contributions of Yamini and Fatima towards the Prime Minister’s Relief Fund.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777839829/ncert/maths/4/img_17_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.11",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "linear equations",
+    "question_type": "multipart",
+    "question_text": "In countries like USA and Canada, temperature is measured in Fahrenheit, whereas in countries like India, it is measured in Celsius. Here is a linear equation that converts Fahrenheit to Celsius: (i) Draw the graph of the linear equation above using Celsius for x-axis and Fahrenheit for y-axis. (ii) If the temperature is 30°C, what is the temperature in Fahrenheit? (iii) If the temperature is 95°F, what is the temperature in Celsius? (iv) If the temperature is 0°C, what is the temperature in Fahrenheit and if the temperature is 0°F, what is the temperature in Celsius? (v) Is there a temperature which is numerically the same in both Fahrenheit and Celsius? If yes, find it.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "Draw the graph of the linear equation above using Celsius for x-axis and Fahrenheit for y-axis.",
+        "part_latex": null,
+        "answer_text": "The graph can be drawn using the points (0, 32) and (-40, -40) which satisfy the equation.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "The graph of the equation is constructed using the points (0, 32) and (-40, -40).",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "If the temperature is 30°C, what is the temperature in Fahrenheit?",
+        "part_latex": null,
+        "answer_text": "Using the conversion formula, F = (9/5)C + 32, we find F = (9/5)*30 + 32 = 86°F.",
+        "answer_latex": "F = \\frac{9}{5} \\cdot 30 + 32 = 86",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Substitute C = 30 into the conversion formula.",
+            "expression": "F = \\frac{9}{5} \\cdot 30 + 32"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the value.",
+            "expression": "F = 54 + 32 = 86"
+          }
+        ],
+        "final_answer": "Therefore, the temperature is 86°F.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "If the temperature is 95°F, what is the temperature in Celsius?",
+        "part_latex": null,
+        "answer_text": "Using the conversion formula, C = (5/9)(F - 32), we find C = (5/9)(95 - 32) = 35°C.",
+        "answer_latex": "C = \\frac{5}{9}(95 - 32) = 35",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Substitute F = 95 into the conversion formula.",
+            "expression": "C = \\frac{5}{9}(95 - 32)"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the value.",
+            "expression": "C = \\frac{5}{9} \\cdot 63 = 35"
+          }
+        ],
+        "final_answer": "Therefore, the temperature is 35°C.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iv)",
+        "part_text": "If the temperature is 0°C, what is the temperature in Fahrenheit and if the temperature is 0°F, what is the temperature in Celsius?",
+        "part_latex": null,
+        "answer_text": "For 0°C, F = (9/5)*0 + 32 = 32°F. For 0°F, C = (5/9)(0 - 32) = -17.78°C.",
+        "answer_latex": "F = \\frac{9}{5} \\cdot 0 + 32 = 32, C = \\frac{5}{9}(0 - 32) = -17.78",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate Fahrenheit for 0°C.",
+            "expression": "F = \\frac{9}{5} \\cdot 0 + 32"
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate Celsius for 0°F.",
+            "expression": "C = \\frac{5}{9}(0 - 32)"
+          }
+        ],
+        "final_answer": "Therefore, 0°C is 32°F and 0°F is -17.78°C.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(v)",
+        "part_text": "Is there a temperature which is numerically the same in both Fahrenheit and Celsius? If yes, find it.",
+        "part_latex": null,
+        "answer_text": "Yes, the temperature is -40°, where -40°F = -40°C.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Therefore, -40°F is equal to -40°C.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple conversions and understanding of linear equations.",
+    "topics_tags": [
+      "Temperature Conversion",
+      "Linear Equations",
+      "Graphing"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.12",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "linear equations",
+    "question_type": "conceptual",
+    "question_text": "Give the geometric representation of y = 3 as an equation.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of geometric representation of linear equations.",
+    "topics_tags": [
+      "Linear Equations",
+      "Geometry",
+      "Graphing"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.13",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "linear equations",
+    "question_type": "conceptual",
+    "question_text": "If F = 0°F, then what is the corresponding temperature in Celsius?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of the conversion from Fahrenheit to Celsius.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777839841/ncert/maths/4/img_21_1.jpg",
+      "latex_extracted": "\\begin{array}{l}{{\\mathrm{F}=\\left({\\frac{9}{5}}\\right)\\mathrm{F}+32}}\\\\ {{\\left({\\frac{9}{5}}-1\\right)\\mathrm{F}+32=0}}\\\\ {{\\left({\\frac{4}{5}}\\right)\\mathrm{F}+32=0}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "If F = 0°F, then C = −17.8°C.",
+    "answer_latex": "C = -17.8",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Use the conversion formula from Fahrenheit to Celsius.",
+        "expression": "C = \\frac{5}{9}(F - 32)"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute F = 0 into the formula.",
+        "expression": "C = \\frac{5}{9}(0 - 32) = -17.7777"
+      }
+    ],
+    "final_answer": "Therefore, if F = 0°F, then C = −17.8°C.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of temperature conversion and basic algebra.",
+    "topics_tags": [
+      "Temperature Conversion",
+      "Fahrenheit",
+      "Celsius"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the conversion from Fahrenheit to Celsius.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777839841/ncert/maths/4/img_21_1.jpg",
+        "latex_extracted": "\\begin{array}{l}{{\\mathrm{F}=\\left({\\frac{9}{5}}\\right)\\mathrm{F}+32}}\\\\ {{\\left({\\frac{9}{5}}-1\\right)\\mathrm{F}+32=0}}\\\\ {{\\left({\\frac{4}{5}}\\right)\\mathrm{F}+32=0}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.14",
+    "class": 9,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "linear equations",
+    "question_type": "conceptual",
+    "question_text": "Give the geometric representations of 2x + 9 = 0 as an equation in one variable.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the geometric representation of the equation 2x + 9 = 0 in one variable.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777839868/ncert/maths/4/img_22_1.jpg",
+      "latex_extracted": "\\begin{array}{c}{{\\left[\\begin{array}{c c c}{{\\left[\\begin{array}{c c}{{\\left[\\begin{array}{{\\displaystyle\\ \\\\ {{}}}\\\\ {{\\displaystyle\\chi+++++++++++++++++++++++\\dots}}}\\end{array}\\right]}}}}\\\\ {{\\left.\\right.\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad}}\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad=}&{{\\qquad{\\qquad\\qquad}{\\qquad\\qquad}}&{{\\qquad}}\\qquad\\qquad\\qquad{\\qquad\\qquad}}&{{\\qquad<}}\\quad\\qquad\\qquad=1}&{{\\qquad\\qquad}&{{\\qquad}}&{{{\\qquad}}}&{{\\qquad{{{\\qquad}}{{{{{}}}}{{{{}}}}}}}\\qquad=1}&{{{\\qquad}}&{{{{{\\qquad}}}&{{{\\qquad}}}&{{\\qquad}&{{{{{\\prod_{\\qquad}}{\\qquad}}}}&{\\prod{{{\\qquad}{\\qquad{{\\qquad{{\\qquad{\\qquad{\\prod{{\\qquad{{\\qquad}{\\qquad}{{{\\qquad}{\\qquad}}}}}}}}}&{\\qquad}}}}&{{{\\quad.}&{{{{\\qquad{\\",
+      "source_page_number": 22,
+      "source_image_index": 1,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "In one variable, the equation 2x + 9 = 0 represents a point on the number line.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, it represents a single point on the number line.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of geometric representation in one variable.",
+    "topics_tags": [
+      "Linear Equations",
+      "Geometric Representation",
+      "One Variable"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the geometric representation of the equation 2x + 9 = 0 in one variable.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777839868/ncert/maths/4/img_22_1.jpg",
+        "latex_extracted": "\\begin{array}{c}{{\\left[\\begin{array}{c c c}{{\\left[\\begin{array}{c c}{{\\left[\\begin{array}{{\\displaystyle\\ \\\\ {{}}}\\\\ {{\\displaystyle\\chi+++++++++++++++++++++++\\dots}}}\\end{array}\\right]}}}}\\\\ {{\\left.\\right.\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad}}\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad=}&{{\\qquad{\\qquad\\qquad}{\\qquad\\qquad}}&{{\\qquad}}\\qquad\\qquad\\qquad{\\qquad\\qquad}}&{{\\qquad<}}\\quad\\qquad\\qquad=1}&{{\\qquad\\qquad}&{{\\qquad}}&{{{\\qquad}}}&{{\\qquad{{{\\qquad}}{{{{{}}}}{{{{}}}}}}}\\qquad=1}&{{{\\qquad}}&{{{{{\\qquad}}}&{{{\\qquad}}}&{{\\qquad}&{{{{{\\prod_{\\qquad}}{\\qquad}}}}&{\\prod{{{\\qquad}{\\qquad{{\\qquad{{\\qquad{\\qquad{\\prod{{\\qquad{{\\qquad}{\\qquad}{{{\\qquad}{\\qquad}}}}}}}}}&{\\qquad}}}}&{{{\\quad.}&{{{{\\qquad{\\",
+        "source_page_number": 22,
+        "source_image_index": 1,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  }
+]

@@ -1,0 +1,1176 @@
+[
+  {
+    "question_id": "Q8.1",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 8,
+    "chapter_name": "electromagnetic waves",
+    "question_type": "mcq",
+    "question_text": "1: Figure 8.6 shows a capacitor made of two circular plates each of radius 12 cm, and separated by 5.0 cm. The capacitor is being charged by an external source (not shown in the figure). The charging current is constant and equal to 0.15 A. (a) Calculate the capacitance and the rate of charge of potential difference between the plates. (b) Obtain the displacement current across the plates. (c) Is Kirchhoff's first rule (junction rule) valid at each plate of the capacitor? Explain.",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "Calculate the capacitance and the rate of charge of potential difference between the plates."
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "Obtain the displacement current across the plates."
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "Is Kirchhoff's first rule (junction rule) valid at each plate of the capacitor? Explain."
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Figure showing a capacitor made of two circular plates.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898051/ncert/physics/8/img_2_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Calculate the capacitance and the rate of charge of potential difference between the plates.",
+        "part_latex": null,
+        "answer_text": "The capacitance between the two plates is given by the relation C = \\frac{\\varepsilon_0 A}{d}, where A is the area of each plate.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the area of each circular plate.",
+            "expression": "A = \\pi r^2"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the values to find capacitance.",
+            "expression": "C = \\frac{\\varepsilon_0 A}{d}"
+          }
+        ],
+        "final_answer": "Therefore, the capacitance can be calculated using the given values.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Obtain the displacement current across the plates.",
+        "part_latex": null,
+        "answer_text": "The displacement current across the plates is the same as the conduction current. Hence, the displacement current, id is 0.15 A.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, the displacement current is equal to the conduction current.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "Is Kirchhoff's first rule (junction rule) valid at each plate of the capacitor? Explain.",
+        "part_latex": null,
+        "answer_text": "Yes, Kirchhoff's first rule is valid at each plate of the capacitor since displacement current is equal to conduction current.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Therefore, Kirchhoff's first rule holds true in this scenario.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of capacitance and displacement current concepts.",
+    "topics_tags": [
+      "Capacitance",
+      "Displacement Current",
+      "Kirchhoff's Rule"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "Some text extraction issues, particularly in mathematical expressions."
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Figure showing a capacitor made of two circular plates.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898051/ncert/physics/8/img_2_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.2",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 8,
+    "chapter_name": "electromagnetic waves",
+    "question_type": "mcq",
+    "question_text": "2: A parallel plate capacitor (Fig. 8.7) made of circular plates each of radius R = 6.0 cm has a capacitance C = 100 pF. The capacitor is connected to a 230 V ac supply with a (angular) frequency of 300 rad. (a) What is the rms value of the conduction current? (b) Is the conduction current equal to the displacement current?",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "What is the rms value of the conduction current?"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "Is the conduction current equal to the displacement current?"
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Figure showing a parallel plate capacitor.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898051/ncert/physics/8/img_2_0.jpg",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "What is the rms value of the conduction current?",
+        "part_latex": null,
+        "answer_text": "The rms value of conduction current is calculated using the formula I = \\frac{V}{X}, where X is the capacitive reactance.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate the capacitive reactance.",
+            "expression": "X = \\frac{1}{\\omega C}"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the values to find the rms current.",
+            "expression": "I = \\frac{V}{X}"
+          }
+        ],
+        "final_answer": "Hence, the rms value of conduction current is calculated to be 6.9 A.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Is the conduction current equal to the displacement current?",
+        "part_latex": null,
+        "answer_text": "Yes, conduction current is equal to displacement current.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, both currents are equal in this case.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic calculations and understanding of AC circuits.",
+    "topics_tags": [
+      "AC Circuits",
+      "Capacitance",
+      "Conduction Current"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Figure showing a parallel plate capacitor.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777898051/ncert/physics/8/img_2_0.jpg",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.3",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 8,
+    "chapter_name": "electromagnetic waves",
+    "question_type": "conceptual",
+    "question_text": "What physical quantity is the same for X-rays of wavelength 10-10 m, red light of wavelength 6800 and radiowaves of wavelength 500 m?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The speed of light (m/s) in a vacuum is the same for all wavelengths. It is independent of the wavelength in the vacuum.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the speed of light is constant across different wavelengths.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of a fundamental property of light.",
+    "topics_tags": [
+      "Speed of Light",
+      "Electromagnetic Waves",
+      "Wavelength"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.4",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 8,
+    "chapter_name": "electromagnetic waves",
+    "question_type": "numerical",
+    "question_text": "A plane electromagnetic wave travels in vacuum along z-direction. What can you say about the directions of its electric and magnetic field vectors? If the frequency of the wave is 30 MHz, what is its wavelength?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The electromagnetic wave travels in a vacuum along the z-direction. The electric field (E) and the magnetic field (H) are in the x-y plane. They are mutually perpendicular. The wavelength can be calculated using the speed of light.",
+    "answer_latex": "c = \\lambda f \\Rightarrow \\lambda = \\frac{c}{f}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the relationship between speed, frequency, and wavelength.",
+        "expression": "c = \\lambda f"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values for speed of light and frequency to find wavelength.",
+        "expression": "\\lambda = \\frac{c}{30 \\times 10^6}"
+      }
+    ],
+    "final_answer": "Thus, the wavelength can be calculated using the formula.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of wave properties and basic calculations.",
+    "topics_tags": [
+      "Electromagnetic Waves",
+      "Frequency",
+      "Wavelength"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.5",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 8,
+    "chapter_name": "electromagnetic waves",
+    "question_type": "numerical",
+    "question_text": "A radio can tune in to any station in the 7.5 MHz to 12 MHz band. What is the corresponding wavelength band?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The corresponding wavelength for the minimum frequency of 7.5 MHz is 40 m and for the maximum frequency of 12 MHz is 25 m.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the wavelength for the minimum frequency using the formula.",
+        "expression": "\\lambda_{min} = \\frac{c}{f_{min}}"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the wavelength for the maximum frequency using the formula.",
+        "expression": "\\lambda_{max} = \\frac{c}{f_{max}}"
+      }
+    ],
+    "final_answer": "Thus, the wavelength band of the radio is 40 m to 25 m.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic calculations using frequency and speed of light.",
+    "topics_tags": [
+      "Radio Waves",
+      "Frequency",
+      "Wavelength"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.6",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 8,
+    "chapter_name": "electromagnetic waves",
+    "question_type": "conceptual",
+    "question_text": "What is the frequency of the electromagnetic waves produced by a charged particle oscillating about its mean equilibrium position?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The frequency of an electromagnetic wave produced by the oscillator is the same as that of a charged particle oscillating about its mean position.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the frequencies are equal.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of a fundamental property of oscillating systems.",
+    "topics_tags": [
+      "Electromagnetic Waves",
+      "Oscillation",
+      "Frequency"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.7",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 8,
+    "chapter_name": "electromagnetic waves",
+    "question_type": "numerical",
+    "question_text": "The amplitude of the magnetic field part of a harmonic electromagnetic wave in vacuum is 510 nT. What is the amplitude of the electric field part of the wave?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The amplitude of the electric field of the electromagnetic wave is given by the relation E = cB.",
+    "answer_latex": "E = cB",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the relationship between electric field amplitude and magnetic field amplitude.",
+        "expression": "E = cB"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the value of B to find E.",
+        "expression": "E = 3 \\times 10^8 \\times 510 \\times 10^{-9}"
+      }
+    ],
+    "final_answer": "Therefore, the electric field part of the wave is 153 N/C.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of the relationship between electric and magnetic fields.",
+    "topics_tags": [
+      "Electromagnetic Waves",
+      "Electric Field",
+      "Magnetic Field"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.9",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 8,
+    "chapter_name": "electromagnetic waves",
+    "question_type": "mcq",
+    "question_text": "Suppose that the electric field part of an electromagnetic wave in vacuum is E = (3.1 N/C) cos [(1.8 rad/m) y + (rad/s)t]. (a) What is the direction of propagation? (b) What is the wavelength? (c) What is the frequency? (d) What is the amplitude of the magnetic field part of the wave? (e) Write an expression for the magnetic field part of the wave.",
+    "question_latex": null,
+    "mcq_options": [
+      {
+        "option_label": "(A)",
+        "option_text": "What is the direction of propagation?"
+      },
+      {
+        "option_label": "(B)",
+        "option_text": "What is the wavelength?"
+      },
+      {
+        "option_label": "(C)",
+        "option_text": "What is the frequency?"
+      },
+      {
+        "option_label": "(D)",
+        "option_text": "What is the amplitude of the magnetic field part of the wave? (e) Write an expression for the magnetic field part of the wave."
+      }
+    ],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "What is the direction of propagation?",
+        "part_latex": null,
+        "answer_text": "The direction of motion is along the negative y direction.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Hence, the direction of propagation is along the negative y direction.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "What is the wavelength?",
+        "part_latex": null,
+        "answer_text": "The wavelength can be calculated using the wave number k = 1.8 rad/m.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the relationship between wave number and wavelength.",
+            "expression": "λ = \\frac{2\\pi}{k} = \\frac{2\\pi}{1.8}"
+          }
+        ],
+        "final_answer": "The wavelength is approximately 3.49 m.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "What is the frequency?",
+        "part_latex": null,
+        "answer_text": "The frequency can be calculated using the angular frequency.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the relationship between angular frequency and frequency.",
+            "expression": "f = \\frac{ω}{2\\pi}"
+          }
+        ],
+        "final_answer": "The frequency is approximately 0.286 Hz.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(d)",
+        "part_text": "What is the amplitude of the magnetic field part of the wave?",
+        "part_latex": null,
+        "answer_text": "The amplitude of the magnetic field can be calculated using the relationship between electric and magnetic fields.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Use the relationship B = \\frac{E}{c} where c is the speed of light.",
+            "expression": "B = \\frac{3.1}{3 \\times 10^8}"
+          }
+        ],
+        "final_answer": "The amplitude of the magnetic field part of the wave is approximately 1.03 × 10^-8 T.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(e)",
+        "part_text": "Write an expression for the magnetic field part of the wave.",
+        "part_latex": null,
+        "answer_text": "The magnetic field part of the wave can be expressed as B = (B_0) cos [(1.8 rad/m) y + (rad/s)t].",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "The expression for the magnetic field part of the wave is B = (B_0) cos [(1.8 rad/m) y + (rad/s)t].",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of wave properties and relationships between electric and magnetic fields.",
+    "topics_tags": [
+      "Electromagnetic Waves",
+      "Wave Properties",
+      "Electric Field",
+      "Magnetic Field"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "Some parts of the answer are inferred and not explicitly stated in the text."
+    ],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.10",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 8,
+    "chapter_name": "electromagnetic waves",
+    "question_type": "conceptual",
+    "question_text": "Use the formula T= 0.29 cm K to obtain the characteristic temperature ranges for different parts of the electromagnetic spectrum. What do the numbers that you obtain tell you?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "A body at a particular temperature produces a continuous spectrum of wavelengths. In case of a black body, the wavelength corresponding to maximum intensity of radiation is given according to Planck's law. The numbers obtained tell us that temperature ranges are required for obtaining radiations in different parts of an electromagnetic spectrum. As the wavelength decreases, the corresponding temperature increases.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, as the wavelength decreases, the corresponding temperature increases.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of Planck's law and its application to temperature and wavelength.",
+    "topics_tags": [
+      "Planck's Law",
+      "Electromagnetic Spectrum",
+      "Black Body Radiation"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.11",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 8,
+    "chapter_name": "electromagnetic waves",
+    "question_type": "multipart",
+    "question_text": "Given below are some famous numbers associated with electromagnetic radiations in different contexts in physics. State the part of the electromagnetic spectrum to which each belongs.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "21 cm (wavelength emitted by atomic hydrogen in interstellar space).",
+        "part_latex": null,
+        "answer_text": "Radio waves; it belongs to the short wavelength end of the electromagnetic spectrum.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, it belongs to the radio waves part of the spectrum.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "1057 MHz (frequency of radiation arising from two close energy levels in hydrogen; known as Lamb shift).",
+        "part_latex": null,
+        "answer_text": "Radio waves; it belongs to the short wavelength end.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, it belongs to the radio waves part of the spectrum.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(c)",
+        "part_text": "2.7 K [temperature associated with the isotropic radiation filling all space-thought to be a relic of the 'big-bang' origin of the universe].",
+        "part_latex": null,
+        "answer_text": "This wavelength corresponds to microwaves.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, it corresponds to the microwave part of the spectrum.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(d)",
+        "part_text": "5890 - 5896 [double lines of sodium].",
+        "part_latex": null,
+        "answer_text": "This is the yellow light of the visible spectrum.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, it belongs to the visible spectrum.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(e)",
+        "part_text": "14.4 keV [energy of a particular transition in 57Fe nucleus associated with a famous high resolution spectroscopic method (Mossbauer spectroscopy)].",
+        "part_latex": null,
+        "answer_text": "This corresponds to X-rays.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": "Thus, it belongs to the X-ray part of the spectrum.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires basic knowledge of electromagnetic spectrum classifications.",
+    "topics_tags": [
+      "Electromagnetic Spectrum",
+      "Wavelengths",
+      "Radiation"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.12",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 8,
+    "chapter_name": "Electromagnetic Waves",
+    "question_type": "conceptual",
+    "question_text": "Explain the role of satellites in reflecting TV signals and their importance in long-distance TV transmissions.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Satellites are crucial for reflecting TV signals because high-frequency signals are not reflected by the ionosphere, making satellite transmission essential for long-distance TV broadcasts.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, satellites enable effective long-distance TV transmissions by reflecting signals that cannot be handled by the ionosphere.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding the limitations of the ionosphere and the function of satellites.",
+    "topics_tags": [
+      "Satellites",
+      "TV Transmission",
+      "Ionosphere"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.13",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 8,
+    "chapter_name": "Electromagnetic Waves",
+    "question_type": "conceptual",
+    "question_text": "Discuss the significance of the ozone layer for human survival.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The ozone layer is vital for human survival as it absorbs harmful ultraviolet radiations from sunlight, preventing them from reaching the Earth's surface.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, the ozone layer plays a crucial role in protecting life on Earth from harmful UV radiation.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of the function of the ozone layer.",
+    "topics_tags": [
+      "Ozone Layer",
+      "Ultraviolet Radiation",
+      "Human Survival"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.14",
+    "class": 12,
+    "subject": "Physics",
+    "chapter_number": 8,
+    "chapter_name": "Electromagnetic Waves",
+    "question_type": "conceptual",
+    "question_text": "What would be the consequences of a global nuclear war on the Earth's atmosphere?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "A global nuclear war would lead to severe winter conditions due to smoke clouds blocking solar light, and it would also deplete the ozone layer, further endangering life.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the aftermath of a nuclear war would drastically alter the climate and harm the protective ozone layer.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding complex environmental impacts and consequences.",
+    "topics_tags": [
+      "Nuclear War",
+      "Atmosphere",
+      "Ozone Layer"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  }
+]

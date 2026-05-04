@@ -1,0 +1,1945 @@
+[
+  {
+    "question_id": "Q3.1",
+    "class": 12,
+    "subject": "chemistry",
+    "chapter_number": 3,
+    "chapter_name": "electro chemistry",
+    "question_type": "conceptual",
+    "question_text": "How would you determine the standard electrode potential of the system Mg2+| Mg?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The standard electrode potential of Mg2+| Mg can be measured with respect to the standard hydrogen electrode, represented by Pt , H (1 atm) | H+ (1 M). A cell, consisting of Mg | MgSO(aq 1 M) as the anode and the standard hydrogen electrode as the cathode, is set up. Then, the emf of the cell is measured and this measured emf is the standard electrode potential of the magnesium electrode.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the standard electrode potential is determined by measuring the emf of the cell.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of electrochemical cells and standard electrode potential.",
+    "topics_tags": [
+      "Electrode Potential",
+      "Electrochemistry",
+      "Standard Hydrogen Electrode"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.2",
+    "class": 12,
+    "subject": "chemistry",
+    "chapter_number": 3,
+    "chapter_name": "electro chemistry",
+    "question_type": "conceptual",
+    "question_text": "Can you store copper sulphate solutions in a zinc pot?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Zinc is more reactive than copper. Therefore, zinc can displace copper from its salt solution. If copper sulphate solution is stored in a zinc pot, then zinc will displace copper from the copper sulphate solution. Hence, copper sulphate solution cannot be stored in a zinc pot.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, copper sulphate solution cannot be stored in a zinc pot.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of reactivity series and displacement reactions.",
+    "topics_tags": [
+      "Reactivity Series",
+      "Displacement Reaction",
+      "Copper Sulphate"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.3",
+    "class": 12,
+    "subject": "chemistry",
+    "chapter_number": 3,
+    "chapter_name": "electro chemistry",
+    "question_type": "conceptual",
+    "question_text": "Consult the table of standard electrode potentials and suggest three substances that can oxidise ferrous ions under suitable conditions.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Substances that are stronger oxidising agents than ferrous ions can oxidise ferrous ions. Three substances that can do so are F2, Cl2, and O2.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Therefore, F2, Cl2, and O2 can oxidise ferrous ions.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires knowledge of standard electrode potentials and oxidising agents.",
+    "topics_tags": [
+      "Oxidising Agents",
+      "Ferrous Ions",
+      "Electrode Potentials"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.4",
+    "class": 12,
+    "subject": "chemistry",
+    "chapter_number": 3,
+    "chapter_name": "electro chemistry",
+    "question_type": "numerical",
+    "question_text": "Calculate the potential of hydrogen electrode in contact with a solution whose pH is 10.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "For hydrogen electrode, pH = 10 implies [H+] = 10^{-10} M. Using Nernst equation, E = -0.0591 log [H+]. Therefore, E = -0.0591 log(10^{-10}) = -0.591 V.",
+    "answer_latex": "E = -0.0591 \\log(10^{-10}) = -0.591 \\text{ V}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the concentration of hydrogen ions from pH.",
+        "expression": "[H^+] = 10^{-10} M"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute into the Nernst equation.",
+        "expression": "E = -0.0591 \\log(10^{-10})"
+      }
+    ],
+    "final_answer": "Thus, the potential of the hydrogen electrode is -0.591 V.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves application of the Nernst equation with basic logarithmic calculations.",
+    "topics_tags": [
+      "Nernst Equation",
+      "Hydrogen Electrode",
+      "pH"
+    ],
+    "confidence_score": 0.96,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.5",
+    "class": 12,
+    "subject": "chemistry",
+    "chapter_number": 3,
+    "chapter_name": "electro chemistry",
+    "question_type": "numerical",
+    "question_text": "Calculate the emf of the cell in which the following reaction takes place: Given that E = 1.05 V.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Applying Nernst equation we have: E = 1.05 - 0.02955 log(4 × 10^4) = 1.05 - 0.02955 (4 + 0.6021) = 0.914 V.",
+    "answer_latex": "E = 1.05 - 0.02955 \\log(4 \\times 10^4) = 0.914 \\text{ V}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Substitute the values into the Nernst equation.",
+        "expression": "E = 1.05 - 0.02955 \\log(4 \\times 10^4)"
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the logarithm and simplify.",
+        "expression": "E = 1.05 - 0.02955 (4 + 0.6021)"
+      }
+    ],
+    "final_answer": "Therefore, the emf of the cell is 0.914 V.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of the Nernst equation and calculations.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777730564/ncert/chemistry/3/img_3_0.png",
+      "latex_extracted": "\\begin{array}{c}{{E_{(\\alpha\\alpha)}=E_{(\\alpha\\alpha)}^{\\infty}-\\frac{0.0591}{n}\\log\\frac{\\left[\\mathrm{Ag}^{\\pm\\pm}\\right]}{\\left[\\log\\frac{0.160}{(0.002)}\\right.}}}\\\\ {{=1.05-0.0595\\log\\frac{0.16}{0.00004}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves application of the Nernst equation with logarithmic calculations.",
+    "topics_tags": [
+      "Nernst Equation",
+      "Cell Emf",
+      "Electrochemistry"
+    ],
+    "confidence_score": 0.94,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the Nernst equation and calculations.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777730564/ncert/chemistry/3/img_3_0.png",
+        "latex_extracted": "\\begin{array}{c}{{E_{(\\alpha\\alpha)}=E_{(\\alpha\\alpha)}^{\\infty}-\\frac{0.0591}{n}\\log\\frac{\\left[\\mathrm{Ag}^{\\pm\\pm}\\right]}{\\left[\\log\\frac{0.160}{(0.002)}\\right.}}}\\\\ {{=1.05-0.0595\\log\\frac{0.16}{0.00004}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q3.6",
+    "class": 12,
+    "subject": "chemistry",
+    "chapter_number": 3,
+    "chapter_name": "electro chemistry",
+    "question_type": "numerical",
+    "question_text": "Calculate the standard Gibbs energy and the equilibrium constant of the cell reaction.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Here, n = 2, T = 298 K. We know that: ΔG = -nFE = -2 × 96487 × 0.236 = -45541.864 J mol^-1 = -45.54 kJ mol^-1. Again, ΔG = -2.303RT log K.",
+    "answer_latex": "ΔG = -nFE = -2 \\times 96487 \\times 0.236 = -45541.864 \\text{ J mol}^{-1}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate Gibbs energy using the formula ΔG = -nFE.",
+        "expression": "ΔG = -2 \\times 96487 \\times 0.236"
+      },
+      {
+        "step_number": 2,
+        "description": "Convert Gibbs energy to kJ/mol.",
+        "expression": "ΔG = -45.54 \\text{ kJ mol}^{-1}"
+      }
+    ],
+    "final_answer": "Thus, the standard Gibbs energy is -45.54 kJ mol^-1.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves calculations of Gibbs energy and understanding of thermodynamic principles.",
+    "topics_tags": [
+      "Gibbs Energy",
+      "Equilibrium Constant",
+      "Thermodynamics"
+    ],
+    "confidence_score": 0.93,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.7",
+    "class": 12,
+    "subject": "chemistry",
+    "chapter_number": 3,
+    "chapter_name": "electro chemistry",
+    "question_type": "conceptual",
+    "question_text": "Why does the conductivity of a solution decrease with dilution?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The conductivity of a solution is the conductance of ions present in a unit volume of the solution. The number of ions (responsible for carrying current) decreases when the solution is diluted. As a result, the conductivity of a solution decreases with dilution.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, conductivity decreases with dilution due to the reduction in the number of ions.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of conductivity and ion concentration.",
+    "topics_tags": [
+      "Conductivity",
+      "Dilution",
+      "Ions"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.8",
+    "class": 12,
+    "subject": "chemistry",
+    "chapter_number": 3,
+    "chapter_name": "electro chemistry",
+    "question_type": "conceptual",
+    "question_text": "Suggest a way to determine the value of water.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Applying Kohlrausch's law of independent migration of ions, the value of water can be determined as follows: Hence, by knowing the values of HCl, NaOH, and NaCl, the value of water can be determined.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the value of water can be determined using Kohlrausch's law.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves application of a specific law in electrochemistry.",
+    "topics_tags": [
+      "Kohlrausch's Law",
+      "Water Value",
+      "Electrochemistry"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.9",
+    "class": 12,
+    "subject": "chemistry",
+    "chapter_number": 3,
+    "chapter_name": "electro chemistry",
+    "question_type": "numerical",
+    "question_text": "The molar conductivity of 0.025 mol L-1 methanoic acid is 46.1 S cm2 mol-1. Calculate its degree of dissociation and dissociation constant.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "C = 0.025 mol L - 1. Now, degree of dissociation: Thus, dissociation constant:",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "The degree of dissociation and dissociation constant can be calculated using the provided values.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of molar conductivity and dissociation constant.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777730576/ncert/chemistry/3/img_5_0.png",
+      "latex_extracted": "\\Lambda_{m}=46.1\\,\\mathrm{Scm}^{2}\\,\\mathrm{mol}^{-1}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves calculation of degree of dissociation and constant from given data.",
+    "topics_tags": [
+      "Molar Conductivity",
+      "Degree of Dissociation",
+      "Dissociation Constant"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of molar conductivity and dissociation constant.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777730576/ncert/chemistry/3/img_5_0.png",
+        "latex_extracted": "\\Lambda_{m}=46.1\\,\\mathrm{Scm}^{2}\\,\\mathrm{mol}^{-1}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q3.10",
+    "class": 12,
+    "subject": "chemistry",
+    "chapter_number": 3,
+    "chapter_name": "electro chemistry",
+    "question_type": "numerical",
+    "question_text": "If a current of 0.5 ampere flows through a metallic wire for 2 hours, then how many electrons would flow through the wire?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "I = 0.5 A, t = 2 hours = 7200 s. Thus, Q = It = 0.5 A × 7200 s.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Hence, the number of electrons will flow through the wire can be calculated.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of current and time to calculate number of electrons.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777730582/ncert/chemistry/3/img_6_0.png",
+      "latex_extracted": "\\Delta C={\\frac{6.023\\times10^{-3}\\times3600}{96487}}{\\mathrm{number\\of\\electrons}}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires basic calculation of charge from current and time.",
+    "topics_tags": [
+      "Current",
+      "Electrons",
+      "Electricity"
+    ],
+    "confidence_score": 0.88,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of current and time to calculate number of electrons.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777730582/ncert/chemistry/3/img_6_0.png",
+        "latex_extracted": "\\Delta C={\\frac{6.023\\times10^{-3}\\times3600}{96487}}{\\mathrm{number\\of\\electrons}}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q3.11",
+    "class": 12,
+    "subject": "chemistry",
+    "chapter_number": 3,
+    "chapter_name": "electro chemistry",
+    "question_type": "conceptual",
+    "question_text": "Suggest two materials other than hydrogen that can be used as fuels in fuel cells.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Methane and methanol can be used as fuels in fuel cells.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, methane and methanol are alternative fuels for fuel cells.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 1,
+    "difficulty_reasoning": "Direct recall of alternative fuels.",
+    "topics_tags": [
+      "Fuel Cells",
+      "Methane",
+      "Methanol"
+    ],
+    "confidence_score": 1.0,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.12",
+    "class": 12,
+    "subject": "chemistry",
+    "chapter_number": 3,
+    "chapter_name": "electro chemistry",
+    "question_type": "conceptual",
+    "question_text": "Explain how rusting of iron is envisaged as setting up of an electrochemical cell.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "In the process of corrosion, due to the presence of air and moisture, oxidation takes place at a particular spot of an object made of iron. That spot behaves as the anode. The reaction at the anode is given by, Electrons released at the anodic spot move through the metallic object and go to another spot of the object. There, in the presence of H+ ions, the electrons reduce oxygen. This spot behaves as the cathode. These H+ ions come either from HCO3- which are formed due to the dissolution of carbon dioxide from air into water or from the dissolution of other acidic oxides from the atmosphere in water.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Hence, the rusting of iron is envisaged as the setting up of an electrochemical cell.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of electrochemical processes and corrosion.",
+    "topics_tags": [
+      "Rusting",
+      "Electrochemical Cell",
+      "Corrosion"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.13",
+    "class": 12,
+    "subject": "chemistry",
+    "chapter_number": 3,
+    "chapter_name": "electro chemistry",
+    "question_type": "conceptual",
+    "question_text": "Arrange the following metals in the order in which they displace each other from the solution of their salts: Al, Cu, Fe, Mg and Zn.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The following is the order in which the given metals displace each other from the solution of their salts: Mg, Al, Zn, Fe, Cu.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the order of displacement is Mg > Al > Zn > Fe > Cu.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of reactivity series.",
+    "topics_tags": [
+      "Displacement Reaction",
+      "Reactivity Series",
+      "Metals"
+    ],
+    "confidence_score": 1.0,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.14",
+    "class": 12,
+    "subject": "chemistry",
+    "chapter_number": 3,
+    "chapter_name": "electro chemistry",
+    "question_type": "mcq",
+    "question_text": "Given the standard electrode potentials, arrange these metals in their increasing order of reducing power: K+/K = -2.93V, Ag+/Ag = 0.80V, Hg2+/Hg = 0.79V, Mg2+/Mg = -2.37 V, Cr3+/Cr = -0.74V.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The lower the reduction potential, the higher is the reducing power. The given standard electrode potentials increase in the order of K+/K < Mg2+/Mg < Cr3+/Cr < Hg2+/Hg < Ag+/Ag. Hence, the reducing power of the given metals increases in the following order: Ag < Hg < Cr < Mg < K.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the reducing power increases as Ag < Hg < Cr < Mg < K.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of electrode potentials and their implications.",
+    "topics_tags": [
+      "Electrode Potentials",
+      "Reducing Power",
+      "Metals"
+    ],
+    "confidence_score": 1.0,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.15",
+    "class": 12,
+    "subject": "chemistry",
+    "chapter_number": 3,
+    "chapter_name": "electro chemistry",
+    "question_type": "diagram_based",
+    "question_text": "Depict the galvanic cell in which the reaction Zn(s) + 2Ag+(aq) → Zn2+(aq) + 2Ag(s) takes place. Further show: (i) Which of the electrode is negatively charged? (ii) The carriers of the current in the cell. (iii) Individual reaction at each electrode.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram of a galvanic cell showing the reaction Zn(s) + 2Ag+(aq) → Zn2+(aq) + 2Ag(s).",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777730584/ncert/chemistry/3/img_9_0.png",
+      "latex_extracted": "\\begin{array}{c}{{E_{\\mathrm{eff}}^{\\circ}=E_{\\mathrm{R}}^{\\circ}-E_{\\mathrm{L}}^{\\circ}}}\\\\ {{=-0.40-(-0.74)}}\\\\ {{\\Delta_{\\mathrm{r}}G^{\\circ}=-m\\mathrm{F}E_{\\mathrm{cl}}^{\\circ}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The galvanic cell in which the given reaction takes place is depicted as: (i) Zn electrode (anode) is negatively charged. (ii) Ions are carriers of current in the cell and in the external circuit, current will flow from silver to zinc. (iii) The reaction taking place at the anode is given by, The reaction taking place at the cathode is given by.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the galvanic cell is depicted with Zn as the anode and Ag+ as the cathode.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of galvanic cells and their components.",
+    "topics_tags": [
+      "Galvanic Cell",
+      "Electrochemistry",
+      "Zn-Ag Reaction"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram of a galvanic cell showing the reaction Zn(s) + 2Ag+(aq) → Zn2+(aq) + 2Ag(s).",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777730584/ncert/chemistry/3/img_9_0.png",
+        "latex_extracted": "\\begin{array}{c}{{E_{\\mathrm{eff}}^{\\circ}=E_{\\mathrm{R}}^{\\circ}-E_{\\mathrm{L}}^{\\circ}}}\\\\ {{=-0.40-(-0.74)}}\\\\ {{\\Delta_{\\mathrm{r}}G^{\\circ}=-m\\mathrm{F}E_{\\mathrm{cl}}^{\\circ}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.16",
+    "class": 12,
+    "subject": "chemistry",
+    "chapter_number": 3,
+    "chapter_name": "electro chemistry",
+    "question_type": "numerical",
+    "question_text": "Calculate the standard cell potentials of galvanic cells in which the following reactions take place: (i) 2Cr(s) + 3Cd2+(aq) → 2Cr3+(aq) + 3Cd (ii) Fe2+(aq) + Ag+(aq) → Fe3+(aq) + Ag(s). Calculate the ΔG° and equilibrium constant of the reactions.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The standard cell potential is calculated using the formula E_eff° = E_R° - E_L°. For the first reaction, E_eff° = -0.40 - (-0.74). The ΔG° can be calculated using ΔG° = -mFE_eff°.",
+    "answer_latex": "\\begin{array}{c}{{E_{\\mathrm{eff}}^{\\circ}=E_{\\mathrm{R}}^{\\circ}-E_{\\mathrm{L}}^{\\circ}}}\\\\ {{=-0.40-(-0.74)}}\\\\ {{\\Delta_{\\mathrm{r}}G^{\\circ}=-m\\mathrm{F}E_{\\mathrm{cl}}^{\\circ}}}\\end{array}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the standard reduction potentials for the half-reactions.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Calculate the standard cell potential using the formula.",
+        "expression": "E_{eff}^{\\circ} = E_{R}^{\\circ} - E_{L}^{\\circ}"
+      },
+      {
+        "step_number": 3,
+        "description": "Substitute the values into the equation.",
+        "expression": "E_{eff}^{\\circ} = -0.40 - (-0.74)"
+      }
+    ],
+    "final_answer": "Thus, the standard cell potential and ΔG° can be calculated from the given reactions.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Involves multiple calculations and understanding of electrochemical principles.",
+    "topics_tags": [
+      "Standard Cell Potential",
+      "Electrochemistry",
+      "ΔG"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.17",
+    "class": 12,
+    "subject": "chemistry",
+    "chapter_number": 3,
+    "chapter_name": "electro chemistry",
+    "question_type": "numerical",
+    "question_text": "Write the Nernst equation and emf of the following cells at 298 K: (i) Mg(s) | Mg2+(0.001M) || Cu2+(0.0001 M) | Cu(s) (ii) Fe(s) | Fe2+(0.001M) || H+(1M)|H(g)(1bar) | Pt(s) (iii) Sn(s) | Sn2+(0.050 M) || H+(0.020 M) | H(g) (1 bar) | Pt(s) (iv) Pt(s) | Br(l) | Br-(0.010 M) || H+(0.030 M) | H(g) (1 bar) | Pt(s).",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the Nernst equation for the given reactions.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777730590/ncert/chemistry/3/img_11_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "For the given reaction, the Nernst equation can be given as:",
+        "part_latex": null,
+        "answer_text": "E_{eff} = E_{eff}^{\\circ} - \\frac{0.0591}{n} \\log \\frac{[Mg^{2+}]}{[Cu^{2+}]} = 0.34 - (-2.36) - \\frac{0.0591}{2} \\log \\frac{0.001}{0.0001} = 2.67 V (approximately)",
+        "answer_latex": "E_{eff} = E_{eff}^{\\circ} - \\frac{0.0591}{n} \\log \\frac{[Mg^{2+}]}{[Cu^{2+}]} = 0.34 - (-2.36) - \\frac{0.0591}{2} \\log \\frac{0.001}{0.0001}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Write the Nernst equation for the cell reaction.",
+            "expression": "E_{eff} = E_{eff}^{\\circ} - \\frac{0.0591}{n} \\log \\frac{[Mg^{2+}]}{[Cu^{2+}]}"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the values into the equation.",
+            "expression": "E_{eff} = 0.34 - (-2.36) - \\frac{0.0591}{2} \\log \\frac{0.001}{0.0001}"
+          },
+          {
+            "step_number": 3,
+            "description": "Calculate the final emf.",
+            "expression": "E_{eff} = 2.67 V"
+          }
+        ],
+        "final_answer": "Therefore, the emf for the first cell is approximately 2.67 V.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "For the given reaction, the Nernst equation can be given as:",
+        "part_latex": null,
+        "answer_text": "E_{eff} = E_{eff}^{\\circ} - \\frac{0.0591}{n} \\log \\frac{[Fe^{2+}]}{[H^{+}]^{2}} = 0 - (-0.44) - \\frac{0.0591}{2} \\log \\frac{0.001}{1^{2}} = 0.52865 V",
+        "answer_latex": "E_{eff} = E_{eff}^{\\circ} - \\frac{0.0591}{n} \\log \\frac{[Fe^{2+}]}{[H^{+}]^{2}}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Write the Nernst equation for the cell reaction.",
+            "expression": "E_{eff} = E_{eff}^{\\circ} - \\frac{0.0591}{n} \\log \\frac{[Fe^{2+}]}{[H^{+}]^{2}}"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the values into the equation.",
+            "expression": "E_{eff} = 0 - (-0.44) - \\frac{0.0591}{2} \\log \\frac{0.001}{1^{2}}"
+          },
+          {
+            "step_number": 3,
+            "description": "Calculate the final emf.",
+            "expression": "E_{eff} = 0.52865 V"
+          }
+        ],
+        "final_answer": "Therefore, the emf for the second cell is approximately 0.52865 V.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "For the given reaction, the Nernst equation can be given as:",
+        "part_latex": null,
+        "answer_text": "E_{eff} = E_{eff}^{\\circ} - \\frac{0.0591}{n} \\log \\frac{[Sn^{2+}]}{[H^{+}]^{2}} = 0 - (-0.14) - \\frac{0.0591}{2} \\log \\frac{0.050}{(0.020)^{2}} = 0.08 V (approximately)",
+        "answer_latex": "E_{eff} = E_{eff}^{\\circ} - \\frac{0.0591}{n} \\log \\frac{[Sn^{2+}]}{[H^{+}]^{2}}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Write the Nernst equation for the cell reaction.",
+            "expression": "E_{eff} = E_{eff}^{\\circ} - \\frac{0.0591}{n} \\log \\frac{[Sn^{2+}]}{[H^{+}]^{2}}"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the values into the equation.",
+            "expression": "E_{eff} = 0 - (-0.14) - \\frac{0.0591}{2} \\log \\frac{0.050}{(0.020)^{2}}"
+          },
+          {
+            "step_number": 3,
+            "description": "Calculate the final emf.",
+            "expression": "E_{eff} = 0.08 V"
+          }
+        ],
+        "final_answer": "Therefore, the emf for the third cell is approximately 0.08 V.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iv)",
+        "part_text": "For the given reaction, the Nernst equation can be given as:",
+        "part_latex": null,
+        "answer_text": "E_{eff} = E_{eff}^{\\circ} - \\frac{0.0591}{n} \\log \\frac{[Br^{-}]}{[H^{+}]} = 0 - (-0.08) - \\frac{0.0591}{2} \\log \\frac{0.010}{0.030} = 0.08 V (approximately)",
+        "answer_latex": "E_{eff} = E_{eff}^{\\circ} - \\frac{0.0591}{n} \\log \\frac{[Br^{-}]}{[H^{+}]}",
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Write the Nernst equation for the cell reaction.",
+            "expression": "E_{eff} = E_{eff}^{\\circ} - \\frac{0.0591}{n} \\log \\frac{[Br^{-}]}{[H^{+}]}"
+          },
+          {
+            "step_number": 2,
+            "description": "Substitute the values into the equation.",
+            "expression": "E_{eff} = 0 - (-0.08) - \\frac{0.0591}{2} \\log \\frac{0.010}{0.030}"
+          },
+          {
+            "step_number": 3,
+            "description": "Calculate the final emf.",
+            "expression": "E_{eff} = 0.08 V"
+          }
+        ],
+        "final_answer": "Therefore, the emf for the fourth cell is approximately 0.08 V.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of Nernst equation and substitution of values.",
+    "topics_tags": [
+      "Nernst Equation",
+      "Electrochemistry",
+      "Cell Potential"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the Nernst equation for the given reactions.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777730590/ncert/chemistry/3/img_11_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.18",
+    "class": 12,
+    "subject": "chemistry",
+    "chapter_number": 3,
+    "chapter_name": "electro chemistry",
+    "question_type": "conceptual",
+    "question_text": "Define conductivity and molar conductivity for the solution of an electrolyte. Discuss their variation with concentration.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation related to electrochemistry.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777730611/ncert/chemistry/3/img_13_0.png",
+      "latex_extracted": "\\begin{array}{c c c}{{Z\\mathbf{n}_{(s)}\\ \\longrightarrow}}&{{Z\\mathbf{n}_{(s)}\\ \\longrightarrow\\ \\ Z\\mathbf{n}_{(s)}^{-s}\\ \\ ;\\ \\ E^{\\Theta}=0.76{\\mathrm{V}}}}\\\\ {{\\qquad\\qquad\\mathbf{A}_{{\\bar{\\bf g}_{1}}^{-s}}\\Omega_{(s)}+\\Pi_{2}\\mathbf{O}_{(s)}\\ \\cdot\\ \\ E^{\\Theta}=0.344{\\mathrm{V}}}}\\\\ {{\\qquad\\qquad\\qquad\\sum\\mathbf{A}_{(s)}+\\mathbf{A}_{\\bar{\\Lambda}_{(s)}}+\\ 2\\mathbf{O}\\Gamma_{(s)}^{-s}\\ (\\omega_{1}^{-s})\\cdot\\sum_{(s q)}^{-s}\\Gamma_{(s q)}^{-s}\\cdot\\ \\ E^{\\Theta}=1\\ \\mathrm{D}\\Pi_{(s q)}^{-s}\\ (1.104{\\mathrm{(s)}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Conductivity of a solution is defined as the conductance of a solution of 1 cm in length and area of cross-section 1 sq. cm. The inverse of resistivity is called conductivity or specific conductance. Molar conductivity of a solution at a given concentration is the conductance of volume V of a solution containing 1 mole of the electrolyte kept between two electrodes with the area of cross-section A and distance of unit length. Conductivity decreases with a decrease in concentration, while molar conductivity increases with dilution.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, conductivity decreases with dilution, while molar conductivity increases.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of definitions and their implications in electrochemistry.",
+    "topics_tags": [
+      "Conductivity",
+      "Molar Conductivity",
+      "Electrolytes"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation related to electrochemistry.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777730611/ncert/chemistry/3/img_13_0.png",
+        "latex_extracted": "\\begin{array}{c c c}{{Z\\mathbf{n}_{(s)}\\ \\longrightarrow}}&{{Z\\mathbf{n}_{(s)}\\ \\longrightarrow\\ \\ Z\\mathbf{n}_{(s)}^{-s}\\ \\ ;\\ \\ E^{\\Theta}=0.76{\\mathrm{V}}}}\\\\ {{\\qquad\\qquad\\mathbf{A}_{{\\bar{\\bf g}_{1}}^{-s}}\\Omega_{(s)}+\\Pi_{2}\\mathbf{O}_{(s)}\\ \\cdot\\ \\ E^{\\Theta}=0.344{\\mathrm{V}}}}\\\\ {{\\qquad\\qquad\\qquad\\sum\\mathbf{A}_{(s)}+\\mathbf{A}_{\\bar{\\Lambda}_{(s)}}+\\ 2\\mathbf{O}\\Gamma_{(s)}^{-s}\\ (\\omega_{1}^{-s})\\cdot\\sum_{(s q)}^{-s}\\Gamma_{(s q)}^{-s}\\cdot\\ \\ E^{\\Theta}=1\\ \\mathrm{D}\\Pi_{(s q)}^{-s}\\ (1.104{\\mathrm{(s)}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.19",
+    "class": 12,
+    "subject": "chemistry",
+    "chapter_number": 3,
+    "chapter_name": "electro chemistry",
+    "question_type": "numerical",
+    "question_text": "The conductivity of 0.20 M solution of KCl at 298 K is 0.0248 Scm-1. Calculate its molar conductivity.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Molar conductivity is calculated using the formula: \\Lambda_m = \\frac{\\kappa}{c}. Given, \\kappa = 0.0248 \\text{ S cm}^{-1} \\text{ and } c = 0.20 \\text{ M}, \\Lambda_m = \\frac{0.0248}{0.20} = 0.124 \\text{ S cm}^2 \\text{ mol}^{-1}.",
+    "answer_latex": "\\Lambda_m = \\frac{0.0248}{0.20} = 0.124 \\text{ S cm}^2 \\text{ mol}^{-1}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the formula for molar conductivity.",
+        "expression": "\\Lambda_m = \\frac{\\kappa}{c}"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values of conductivity and concentration.",
+        "expression": "\\Lambda_m = \\frac{0.0248}{0.20}"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the molar conductivity.",
+        "expression": "\\Lambda_m = 0.124"
+      }
+    ],
+    "final_answer": "Therefore, the molar conductivity of the KCl solution is 0.124 S cm² mol⁻¹.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic application of the formula for molar conductivity.",
+    "topics_tags": [
+      "Conductivity",
+      "Molar Conductivity",
+      "KCl"
+    ],
+    "confidence_score": 0.98,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.20",
+    "class": 12,
+    "subject": "chemistry",
+    "chapter_number": 3,
+    "chapter_name": "electro chemistry",
+    "question_type": "numerical",
+    "question_text": "The resistance of a conductivity cell containing 0.001M KCl solution at 298 K is 1500 Ω. What is the cell constant if conductivity of 0.001M KCl solution at 298 K is 0.146 x 10-3 S cm-1.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Cell constant is calculated using the formula: Cell constant = \\kappa \\times R. Given, \\kappa = 0.146 \\times 10^{-3} \\text{ S cm}^{-1} \\text{ and } R = 1500 \\Omega, Cell constant = 0.146 \\times 10^{-3} \\times 1500 = 0.219 \\text{ cm}^{-1}.",
+    "answer_latex": "Cell \\ constant = 0.146 \\times 10^{-3} \\times 1500 = 0.219 \\text{ cm}^{-1}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the formula for cell constant.",
+        "expression": "Cell constant = \\kappa \\times R"
+      },
+      {
+        "step_number": 2,
+        "description": "Substitute the values of conductivity and resistance.",
+        "expression": "Cell constant = 0.146 \\times 10^{-3} \\times 1500"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate the cell constant.",
+        "expression": "Cell constant = 0.219"
+      }
+    ],
+    "final_answer": "Thus, the cell constant is 0.219 cm⁻¹.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic application of the formula for cell constant.",
+    "topics_tags": [
+      "Cell Constant",
+      "Conductivity",
+      "KCl"
+    ],
+    "confidence_score": 0.97,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.21",
+    "class": 12,
+    "subject": "chemistry",
+    "chapter_number": 3,
+    "chapter_name": "electro chemistry",
+    "question_type": "mcq",
+    "question_text": "Conductivity of 0.00241 M acetic acid is 7.896 × 10 - 5 S cm - 1. Calculate its molar conductivity and if for acetic acid is 390.5 S cm2 mol - 1, what is its dissociation constant?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical expression for dissociation constant calculation.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777730621/ncert/chemistry/3/img_17_0.png",
+      "latex_extracted": "={\\frac{\\left(0.00241{\\mathrm{mol\\;L}}^{-1}\\right)\\left(0.084\\right)^{2}}{\\left(1-0.084\\right)}}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The molar conductivity is calculated to be 32.76 S cm2 mol - 1 and the dissociation constant is 1.86 × 10 - 5 mol L - 1.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate molar conductivity using the formula.",
+        "expression": "={\\frac{\\left(0.00241{\\mathrm{mol\\;L}}^{-1}\\right)\\left(0.084\\right)^{2}}{\\left(1-0.084\\right)}}"
+      },
+      {
+        "step_number": 2,
+        "description": "Use the molar conductivity to find the dissociation constant.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, the molar conductivity is 32.76 S cm2 mol - 1 and the dissociation constant is 1.86 × 10 - 5 mol L - 1.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of molar conductivity and dissociation constant calculations.",
+    "topics_tags": [
+      "Molar Conductivity",
+      "Dissociation Constant",
+      "Acetic Acid"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical expression for dissociation constant calculation.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777730621/ncert/chemistry/3/img_17_0.png",
+        "latex_extracted": "={\\frac{\\left(0.00241{\\mathrm{mol\\;L}}^{-1}\\right)\\left(0.084\\right)^{2}}{\\left(1-0.084\\right)}}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.22",
+    "class": 12,
+    "subject": "chemistry",
+    "chapter_number": 3,
+    "chapter_name": "electro chemistry",
+    "question_type": "numerical",
+    "question_text": "How much charge is required for the following reductions: (i) 1 mol of Al3+ to Al. (ii) 1 mol of Cu2+ to Cu. (iii) 1 mol of MnO4- to Mn2+.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "Required charge = 3 F = 3 × 96487 C = 289461 C",
+        "part_latex": null,
+        "answer_text": "289461 C",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate charge required for reduction of Al3+.",
+            "expression": "3 F = 3 × 96487 C"
+          }
+        ],
+        "final_answer": "Therefore, the charge required for 1 mol of Al3+ to Al is 289461 C.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "Required charge = 2 F = 2 × 96487 C = 192974 C",
+        "part_latex": null,
+        "answer_text": "192974 C",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate charge required for reduction of Cu2+.",
+            "expression": "2 F = 2 × 96487 C"
+          }
+        ],
+        "final_answer": "Therefore, the charge required for 1 mol of Cu2+ to Cu is 192974 C.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "Required charge = 5 F = 5 × 96487 C = 482435 C",
+        "part_latex": null,
+        "answer_text": "482435 C",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Calculate charge required for reduction of MnO4-.",
+            "expression": "5 F = 5 × 96487 C"
+          }
+        ],
+        "final_answer": "Therefore, the charge required for 1 mol of MnO4- to Mn2+ is 482435 C.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic calculations of charge using Faraday's laws.",
+    "topics_tags": [
+      "Electrochemistry",
+      "Charge Calculation",
+      "Redox Reactions"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [],
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    }
+  },
+  {
+    "question_id": "Q3.23",
+    "class": 12,
+    "subject": "chemistry",
+    "chapter_number": 3,
+    "chapter_name": "electro chemistry",
+    "question_type": "numerical",
+    "question_text": "A solution of Ni(NO) is electrolysed between platinum electrodes using a current of 5 amperes for 20 minutes. What mass of Ni is deposited at the cathode?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "1.825 g of nickel will be deposited at the cathode.",
+    "answer_latex": "m_{Ni} = 1.825 \text{ g}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate total charge using current and time.",
+        "expression": "Q = I \times t = 5 \times 1200 = 6000 \text{ C}"
+      },
+      {
+        "step_number": 2,
+        "description": "Determine mass of nickel deposited using charge.",
+        "expression": "m_{Ni} = \frac{58.71 \text{ g}}{2 \times 96487 \text{ C}} \times 6000 \text{ C} = 1.825 \text{ g}"
+      }
+    ],
+    "final_answer": "Therefore, 1.825 g of nickel will be deposited at the cathode.",
+    "answer_image": {
+      "present": true,
+      "description": "Electrochemical reaction showing nickel deposition",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777730623/ncert/chemistry/3/img_19_0.png",
+      "latex_extracted": "\\begin{array}{c c c c}{{{\\mathrm{Ni}}^{2^{+}}\\,_{(o q)}\\,\\,\\,\\,+\\,\\,\\,\\,2{\\mathrm{e}}^{-}\\,\\,\\longrightarrow\\,\\,\\,\\,\\,\\,{\\mathrm{Ni}}_{(o)}}}&{{}}\\\\ {{\\,\\,\\,\\,\\,}}&{{\\,\\,\\,\\,\\,}}&{{\\,\\,\\,\\,\\,\\,58.7\\,\\,{\\mathrm{g}}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of electrolysis and basic calculations.",
+    "topics_tags": [
+      "Electrolysis",
+      "Nickel Deposition",
+      "Faraday's Laws"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Electrochemical reaction showing nickel deposition",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777730623/ncert/chemistry/3/img_19_0.png",
+        "latex_extracted": "\\begin{array}{c c c c}{{{\\mathrm{Ni}}^{2^{+}}\\,_{(o q)}\\,\\,\\,\\,+\\,\\,\\,\\,2{\\mathrm{e}}^{-}\\,\\,\\longrightarrow\\,\\,\\,\\,\\,\\,{\\mathrm{Ni}}_{(o)}}}&{{}}\\\\ {{\\,\\,\\,\\,\\,}}&{{\\,\\,\\,\\,\\,}}&{{\\,\\,\\,\\,\\,\\,58.7\\,\\,{\\mathrm{g}}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q3.24",
+    "class": 12,
+    "subject": "chemistry",
+    "chapter_number": 3,
+    "chapter_name": "electro chemistry",
+    "question_type": "mcq",
+    "question_text": "Three electrolytic cells A,B,C containing solutions of ZnSO, AgNO and CuSO, respectively are connected in series. A steady current of 1.5 amperes was passed through them until 1.45 g of silver deposited at the cathode of cell B. How long did the current flow? What mass of copper and zinc were deposited?",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Electrochemical reactions for silver, copper, and zinc deposition",
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The current flowed for 864 seconds, depositing 0.426 g of Cu and 0.439 g of Zn.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate charge using current and time for silver deposition.",
+        "expression": "Q = 1.5 \times t = 1295.43 \text{ C}"
+      },
+      {
+        "step_number": 2,
+        "description": "Determine time from charge and current.",
+        "expression": "t = \frac{1295.43}{1.5} = 864 \text{ s}"
+      },
+      {
+        "step_number": 3,
+        "description": "Calculate mass of copper deposited.",
+        "expression": "m_{Cu} = \frac{63.5 \text{ g}}{2 \times 96487 \text{ C}} \times 1295.43 \text{ C} = 0.426 \text{ g}"
+      },
+      {
+        "step_number": 4,
+        "description": "Calculate mass of zinc deposited.",
+        "expression": "m_{Zn} = \frac{65.4 \text{ g}}{2 \times 96487 \text{ C}} \times 1295.43 \text{ C} = 0.439 \text{ g}"
+      }
+    ],
+    "final_answer": "The current flowed for 864 seconds, depositing 0.426 g of Cu and 0.439 g of Zn.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves multiple calculations and understanding of electrochemical processes.",
+    "topics_tags": [
+      "Electrolysis",
+      "Silver Deposition",
+      "Copper Deposition",
+      "Zinc Deposition"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Electrochemical reactions for silver, copper, and zinc deposition",
+        "cloudinary_url": null,
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q3.25",
+    "class": 12,
+    "subject": "chemistry",
+    "chapter_number": 3,
+    "chapter_name": "electro chemistry",
+    "question_type": "conceptual",
+    "question_text": "Using the standard electrode potentials given in Table 3.1, predict if the reaction between the following is feasible: (i) Fe3+(aq) and I-(aq) (ii) Ag+ (aq) and Cu(s) (iii) Fe3+ (aq) and Br- (aq) (iv) Ag(s) and Fe3+ (aq) (v) Br (aq) and Fe2+ (aq).",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "The reactions between Fe3+ and I-, Ag+ and Cu, are feasible; while Fe3+ and Br-, Ag and Fe3+, are not feasible.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "The reactions between Fe3+ and I-, Ag+ and Cu, are feasible; while Fe3+ and Br-, Ag and Fe3+, are not feasible.",
+    "answer_image": {
+      "present": true,
+      "description": "Electrode potential reactions for various ions",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777730635/ncert/chemistry/3/img_21_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of electrode potentials and feasibility of reactions.",
+    "topics_tags": [
+      "Electrode Potentials",
+      "Feasibility of Reactions",
+      "Redox Reactions"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Electrode potential reactions for various ions",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777730635/ncert/chemistry/3/img_21_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q3.26",
+    "class": 12,
+    "subject": "chemistry",
+    "chapter_number": 3,
+    "chapter_name": "electro chemistry",
+    "question_type": "multipart",
+    "question_text": "Predict the products of electrolysis in each of the following:\n(i) An aqueous solution of AgNO3 with silver electrodes.\n(ii) An aqueous solution of AgNO3 with platinum electrodes.\n(iii) A dilute solution of H2SO4 with platinum electrodes.\n(iv) An aqueous solution of CuCl2 with platinum electrodes.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagrams showing electrolysis reactions for various solutions.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777730663/ncert/chemistry/3/img_22_0.png",
+      "latex_extracted": "\\begin{array}{r l l}{{\\mathrm{fiv}}}&{{}}&{{}}&{{\\mathrm{2e}^{-}\\quad\\longrightarrow\\quad2\\mathrm{B}\\Gamma_{_{((\\scriptstyle v)}}^{+}}}&{{}}\\\\ {{\\mathrm{Fe}^{-+}{\\cdot\\mathrm{Fe}^{-}(v)}\\quad\\longrightarrow\\quad\\mathrm{Fe}^{\\mathrm{iiv}}\\quad\\mathrm{fix}^{-}\\quad\\mathrm{fix}^{\\mathrm{in}}\\ =-\\quad\\mathrm{fix}^{\\mathrm{in}}\\ x^{0}=-0.77\\mathrm{V}}}\\\\ {{\\mathrm{B}\\Gamma_{\\mathrm{k}(v)}+2\\mathrm{Fe}^{+}\\mathrm{(}_{(\\scriptstyle v)}^{+}\\quad\\mathrm{for}_{\\mathrm{~(}(v)}^{-}\\quad\\mathrm{(}_{(\\scriptstyle v)}^{-}\\quad\\mathrm{for}^{-}\\quad\\mathrm{for}^{-}=-0.77\\mathrm{~V}}}\\\\ {{\\mathrm{B}_{\\mathrm{k}_{}(v)}+2\\mathrm{E}_{\\mathrm{e}^{-}}_{\\quad\\mathrm{\\mathrm{0}_{-}_{\\mathrm{\\mathrm{\\bar{-}}(}\\mathrm{\\mathrm{\\mathrm{-}}}}\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "An aqueous solution of AgNO3 with silver electrodes.",
+        "part_latex": null,
+        "answer_text": "At cathode: Deposition of silver will take place. At anode: The silver electrode dissolves to form Ag+.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the reactions occurring at the cathode and anode.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "At cathode, silver ions are reduced to solid silver.",
+            "expression": "\\mathbf{Ag}^{+} + e^{-} \\longrightarrow \\mathbf{Ag}_{(s)}"
+          },
+          {
+            "step_number": 3,
+            "description": "At anode, silver electrode dissolves.",
+            "expression": "\\mathbf{Ag}_{(s)} \\longrightarrow \\mathbf{Ag}^{+} + e^{-}"
+          }
+        ],
+        "final_answer": "Thus, silver is deposited at the cathode and the anode dissolves.",
+        "answer_image": {
+          "present": true,
+          "description": "Diagram showing the electrolysis process with silver electrodes.",
+          "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777730665/ncert/chemistry/3/img_22_1.png",
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "answer"
+        },
+        "question_images": [],
+        "answer_images": [
+          {
+            "present": true,
+            "description": "Diagram showing the electrolysis process with silver electrodes.",
+            "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777730665/ncert/chemistry/3/img_22_1.png",
+            "latex_extracted": null,
+            "source_page_number": null,
+            "source_image_index": null,
+            "ownership": "answer"
+          }
+        ],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "An aqueous solution of AgNO3 with platinum electrodes.",
+        "part_latex": null,
+        "answer_text": "At cathode: Deposition of silver will take place. At anode: The platinum electrode remains inert.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the reactions occurring at the cathode and anode.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "At cathode, silver ions are reduced to solid silver.",
+            "expression": "\\mathbf{Ag}^{+} + e^{-} \\longrightarrow \\mathbf{Ag}_{(s)}"
+          },
+          {
+            "step_number": 3,
+            "description": "At anode, no reaction occurs as platinum is inert.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Thus, silver is deposited at the cathode while the anode remains unchanged.",
+        "answer_image": {
+          "present": true,
+          "description": "Diagram showing the electrolysis process with platinum electrodes.",
+          "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777730667/ncert/chemistry/3/img_22_2.png",
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "answer"
+        },
+        "question_images": [],
+        "answer_images": [
+          {
+            "present": true,
+            "description": "Diagram showing the electrolysis process with platinum electrodes.",
+            "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777730667/ncert/chemistry/3/img_22_2.png",
+            "latex_extracted": null,
+            "source_page_number": null,
+            "source_image_index": null,
+            "ownership": "answer"
+          }
+        ],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iii)",
+        "part_text": "A dilute solution of H2SO4 with platinum electrodes.",
+        "part_latex": null,
+        "answer_text": "At cathode: H2 gas is produced. At anode: O2 gas is produced from water.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the reactions occurring at the cathode and anode.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "At cathode, hydrogen ions are reduced to hydrogen gas.",
+            "expression": "\\mathbf{2H}^{+} + 2e^{-} \\longrightarrow \\mathbf{H}_{2(g)}"
+          },
+          {
+            "step_number": 3,
+            "description": "At anode, water is oxidized to produce oxygen gas.",
+            "expression": "\\mathbf{2H}_{2}O \\longrightarrow \\mathbf{O}_{2(g)} + 4H^{+} + 4e^{-}"
+          }
+        ],
+        "final_answer": "Thus, hydrogen gas is produced at the cathode and oxygen gas at the anode.",
+        "answer_image": {
+          "present": true,
+          "description": "Diagram showing the electrolysis process with dilute H2SO4.",
+          "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777730668/ncert/chemistry/3/img_23_0.png",
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "answer"
+        },
+        "question_images": [],
+        "answer_images": [
+          {
+            "present": true,
+            "description": "Diagram showing the electrolysis process with dilute H2SO4.",
+            "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777730668/ncert/chemistry/3/img_23_0.png",
+            "latex_extracted": null,
+            "source_page_number": null,
+            "source_image_index": null,
+            "ownership": "answer"
+          }
+        ],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(iv)",
+        "part_text": "An aqueous solution of CuCl2 with platinum electrodes.",
+        "part_latex": null,
+        "answer_text": "At cathode: Deposition of copper will take place. At anode: Chlorine gas is produced.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify the reactions occurring at the cathode and anode.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "At cathode, copper ions are reduced to solid copper.",
+            "expression": "\\mathbf{Cu}^{2+} + 2e^{-} \\longrightarrow \\mathbf{Cu}_{(s)}"
+          },
+          {
+            "step_number": 3,
+            "description": "At anode, chloride ions are oxidized to produce chlorine gas.",
+            "expression": "\\mathbf{2Cl}^{-} \\longrightarrow \\mathbf{Cl}_{2(g)} + 2e^{-}"
+          }
+        ],
+        "final_answer": "Thus, copper is deposited at the cathode and chlorine gas is produced at the anode.",
+        "answer_image": {
+          "present": true,
+          "description": "Diagram showing the electrolysis process with CuCl2 solution.",
+          "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777730679/ncert/chemistry/3/img_23_3.png",
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "answer"
+        },
+        "question_images": [],
+        "answer_images": [
+          {
+            "present": true,
+            "description": "Diagram showing the electrolysis process with CuCl2 solution.",
+            "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777730679/ncert/chemistry/3/img_23_3.png",
+            "latex_extracted": null,
+            "source_page_number": null,
+            "source_image_index": null,
+            "ownership": "answer"
+          }
+        ],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of electrolysis and multiple reactions.",
+    "topics_tags": [
+      "Electrolysis",
+      "Electrochemistry",
+      "Redox Reactions"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagrams showing electrolysis reactions for various solutions.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777730663/ncert/chemistry/3/img_22_0.png",
+        "latex_extracted": "\\begin{array}{r l l}{{\\mathrm{fiv}}}&{{}}&{{}}&{{\\mathrm{2e}^{-}\\quad\\longrightarrow\\quad2\\mathrm{B}\\Gamma_{_{((\\scriptstyle v)}}^{+}}}&{{}}\\\\ {{\\mathrm{Fe}^{-+}{\\cdot\\mathrm{Fe}^{-}(v)}\\quad\\longrightarrow\\quad\\mathrm{Fe}^{\\mathrm{iiv}}\\quad\\mathrm{fix}^{-}\\quad\\mathrm{fix}^{\\mathrm{in}}\\ =-\\quad\\mathrm{fix}^{\\mathrm{in}}\\ x^{0}=-0.77\\mathrm{V}}}\\\\ {{\\mathrm{B}\\Gamma_{\\mathrm{k}(v)}+2\\mathrm{Fe}^{+}\\mathrm{(}_{(\\scriptstyle v)}^{+}\\quad\\mathrm{for}_{\\mathrm{~(}(v)}^{-}\\quad\\mathrm{(}_{(\\scriptstyle v)}^{-}\\quad\\mathrm{for}^{-}\\quad\\mathrm{for}^{-}=-0.77\\mathrm{~V}}}\\\\ {{\\mathrm{B}_{\\mathrm{k}_{}(v)}+2\\mathrm{E}_{\\mathrm{e}^{-}}_{\\quad\\mathrm{\\mathrm{0}_{-}_{\\mathrm{\\mathrm{\\bar{-}}(}\\mathrm{\\mathrm{\\mathrm{-}}}}\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  }
+]

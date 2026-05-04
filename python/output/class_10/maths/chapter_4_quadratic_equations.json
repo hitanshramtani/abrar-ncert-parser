@@ -1,0 +1,1054 @@
+[
+  {
+    "question_id": "Q4.1",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "quadratic equations",
+    "question_type": "conceptual",
+    "question_text": "Find two consecutive positive integers, sum of whose squares is 365.",
+    "question_latex": "\\begin{array}{r}{\\operatorname{Given}\\operatorname{lat}x^{2}+\\left(x+1\\right)^{2}=365}\\\\ {\\Rightarrow x^{2}+x^{2}+1+2x=365}\\\\ {\\Rightarrow x^{2}+2x-182=0}\\\\ {\\Rightarrow x^{2}+4x-13x-182=0}\\\\ {\\Rightarrow(x+14)(x-13)=0}\\end{array}",
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, two consecutive positive integers will be 13 and 14.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set up the equation for the sum of squares of consecutive integers.",
+        "expression": "x^{2} + (x + 1)^{2} = 365"
+      },
+      {
+        "step_number": 2,
+        "description": "Simplify the equation.",
+        "expression": "2x^{2} + 2x + 1 = 365"
+      },
+      {
+        "step_number": 3,
+        "description": "Rearrange to form a standard quadratic equation.",
+        "expression": "2x^{2} + 2x - 364 = 0"
+      },
+      {
+        "step_number": 4,
+        "description": "Factor the quadratic equation.",
+        "expression": "(x + 14)(x - 13) = 0"
+      }
+    ],
+    "final_answer": "Thus, the integers are 13 and 14.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical derivation showing the equation for the sum of squares of consecutive integers.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659421/ncert/maths/4/img_7_0.png",
+      "latex_extracted": "\\begin{array}{r}{\\operatorname{Given}\\operatorname{lat}x^{2}+\\left(x+1\\right)^{2}=365}\\\\ {\\Rightarrow x^{2}+x^{2}+1+2x=365}\\\\ {\\Rightarrow x^{2}+2x-182=0}\\\\ {\\Rightarrow x^{2}+4x-13x-182=0}\\\\ {\\Rightarrow(x+14)(x-13)=0}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of quadratic equations and basic algebra.",
+    "topics_tags": [
+      "Quadratic Equations",
+      "Consecutive Integers",
+      "Algebra"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical derivation showing the equation for the sum of squares of consecutive integers.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659421/ncert/maths/4/img_7_0.png",
+        "latex_extracted": "\\begin{array}{r}{\\operatorname{Given}\\operatorname{lat}x^{2}+\\left(x+1\\right)^{2}=365}\\\\ {\\Rightarrow x^{2}+x^{2}+1+2x=365}\\\\ {\\Rightarrow x^{2}+2x-182=0}\\\\ {\\Rightarrow x^{2}+4x-13x-182=0}\\\\ {\\Rightarrow(x+14)(x-13)=0}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.2",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "quadratic equations",
+    "question_type": "numerical",
+    "question_text": "The altitude of a right triangle is 7 cm less than its base. If the hypotenuse is 13 cm, find the other two sides.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Let the base of the right triangle be x cm. Its altitude = (x - 7) cm. Using Pythagoras theorem, we can find the values.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set the base as x and altitude as (x - 7).",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Apply Pythagorean theorem: x^2 + (x - 7)^2 = 13^2.",
+        "expression": "x^{2} + (x - 7)^{2} = 169"
+      },
+      {
+        "step_number": 3,
+        "description": "Expand and simplify the equation.",
+        "expression": "x^{2} + (x^{2} - 14x + 49) = 169"
+      },
+      {
+        "step_number": 4,
+        "description": "Combine like terms and solve for x.",
+        "expression": "2x^{2} - 14x - 120 = 0"
+      }
+    ],
+    "final_answer": "The base is 12 cm and the altitude is 5 cm.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves application of Pythagorean theorem and solving a quadratic equation.",
+    "topics_tags": [
+      "Right Triangle",
+      "Pythagorean Theorem",
+      "Quadratic Equations"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.3",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "quadratic equations",
+    "question_type": "multipart",
+    "question_text": "Q2 : (i) John and Jivanti together have 45 marbles. Both of them lost 5 marbles each, and the product of the number of marbles they now have is 124. Find out how many marbles they had to start with. (ii) A cottage industry produces a certain number of toys in a day. The cost of production of each toy (in rupees) was found to be 55 minus the number of toys produced in a day. On a particular day, the total cost of production was Rs 750. Find out the number of toys produced on that day.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(i)",
+        "part_text": "John and Jivanti together have 45 marbles. Both of them lost 5 marbles each, and the product of the number of marbles they now have is 124. Find out how many marbles they had to start with.",
+        "part_latex": null,
+        "answer_text": "Let the number of John's marbles be x. Therefore, number of Jivanti's marble = 45 - x. After losing 5 marbles, Number of John's marbles = x - 5, Number of Jivanti's marbles = 40 - x. It is given that the product of their marbles is 124.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Set up the equation based on the problem statement.",
+            "expression": "(x - 5)(40 - x) = 124"
+          },
+          {
+            "step_number": 2,
+            "description": "Expand the equation.",
+            "expression": "x^2 - 45x + 324 = 0"
+          }
+        ],
+        "final_answer": "Therefore, the values of x are 36 or 9, meaning John had either 36 or 9 marbles.",
+        "answer_image": {
+          "present": true,
+          "description": "Mathematical derivation showing the equation setup and solution.",
+          "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659412/ncert/maths/4/img_5_0.png",
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "answer"
+        },
+        "question_images": [],
+        "answer_images": [
+          {
+            "present": true,
+            "description": "Mathematical derivation showing the equation setup and solution.",
+            "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659412/ncert/maths/4/img_5_0.png",
+            "latex_extracted": null,
+            "source_page_number": null,
+            "source_image_index": null,
+            "ownership": "answer"
+          }
+        ],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(ii)",
+        "part_text": "A cottage industry produces a certain number of toys in a day. The cost of production of each toy (in rupees) was found to be 55 minus the number of toys produced in a day. On a particular day, the total cost of production was Rs 750. Find out the number of toys produced on that day.",
+        "part_latex": null,
+        "answer_text": "Let the number of toys produced be x. Cost of production of each toy = Rs (55 - x). Therefore, total cost = x(55 - x) = 750.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Set up the equation based on the problem statement.",
+            "expression": "x(55 - x) = 750"
+          },
+          {
+            "step_number": 2,
+            "description": "Rearrange the equation to standard form.",
+            "expression": "x^2 - 55x + 750 = 0"
+          }
+        ],
+        "final_answer": "Hence, the number of toys produced will be either 25 or 30.",
+        "answer_image": {
+          "present": true,
+          "description": "Mathematical derivation showing the equation setup and solution.",
+          "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659415/ncert/maths/4/img_6_1.png",
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "answer"
+        },
+        "question_images": [],
+        "answer_images": [
+          {
+            "present": true,
+            "description": "Mathematical derivation showing the equation setup and solution.",
+            "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659415/ncert/maths/4/img_6_1.png",
+            "latex_extracted": null,
+            "source_page_number": null,
+            "source_image_index": null,
+            "ownership": "answer"
+          }
+        ],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires setting up and solving quadratic equations for both parts.",
+    "topics_tags": [
+      "Quadratic Equations",
+      "Marbles Problem",
+      "Cost of Production"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.6",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "quadratic equations",
+    "question_type": "conceptual",
+    "question_text": "Find the roots of the quadratic equations given in Q.1 above by applying the quadratic formula.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram showing the quadratic equation 4x^2 + 4√3x + 3 = 0 and its factorization.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659447/ncert/maths/4/img_10_1.png",
+      "latex_extracted": "\\begin{array}{r l}{\\left({\\mathrm{i}}{\\mathrm{i}}\\right)\\quad}&{{}4x^{2}+4{\\sqrt{3}}x+3=0}\\\\ {\\Rightarrow\\left(2x\\right)^{2}+2x\\times{\\sqrt{3}}+\\left({\\sqrt{3}}\\right)^{2}=0}\\\\ {\\Rightarrow\\left(2x+{\\sqrt{3}}\\right)=0\\quad}\\\\ {\\Rightarrow x={\\frac{-{\\sqrt{3}}}{2}}\\mathrm{and}\\,x={\\frac{-{\\sqrt{3}}}{2}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of the quadratic formula and its application.",
+    "topics_tags": [
+      "Quadratic Equations",
+      "Roots",
+      "Formula Application"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the quadratic equation 4x^2 + 4√3x + 3 = 0 and its factorization.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659447/ncert/maths/4/img_10_1.png",
+        "latex_extracted": "\\begin{array}{r l}{\\left({\\mathrm{i}}{\\mathrm{i}}\\right)\\quad}&{{}4x^{2}+4{\\sqrt{3}}x+3=0}\\\\ {\\Rightarrow\\left(2x\\right)^{2}+2x\\times{\\sqrt{3}}+\\left({\\sqrt{3}}\\right)^{2}=0}\\\\ {\\Rightarrow\\left(2x+{\\sqrt{3}}\\right)=0\\quad}\\\\ {\\Rightarrow x={\\frac{-{\\sqrt{3}}}{2}}\\mathrm{and}\\,x={\\frac{-{\\sqrt{3}}}{2}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.7",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "quadratic equations",
+    "question_type": "multipart",
+    "question_text": "Find the nature of the roots of the following quadratic equations. If the real roots exist, find them; (I) 2x² - 3x + 5 = 0 (II) 2x² - 6x + 3 = 0",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of quadratic equations and their nature of roots.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659478/ncert/maths/4/img_13_0.png",
+      "latex_extracted": "\\begin{array}{r l}{(\\mathrm{i}\\mathbb{H})}&{{}+x^{2}+{\\sqrt{\\mathrm{A}}}+\\lambda\\cdots}\\\\ {\\mathrm{~Onemathenisemionion}}\\\\ {\\phi_{\\mathrm{~ousenichenisenulan}}}\\\\ {\\phi_{\\mathrm{~ou=usitisenicenisedion}}}\\\\ {\\phi_{\\mathrm{~=}x={\\frac{\\sqrt{3}}{2}}\\phi_{\\mathrm{~or}}}\\\\ {\\phi_{\\mathrm{~or=}}={\\frac{\\sqrt{3}}{2}}\\phi_{\\mathrm{~or}}\\phi_{\\mathrm{~olenitise}}}}\\\\ {\\phi_{\\mathrm{~=}x={\\frac{\\sqrt{3}}{2}}\\phi_{\\mathrm{~or}}\\frac{\\sqrt{3}}{2}}}\\\\ {\\vdots\\cdot x={\\frac{\\sqrt{3}}{2}}\\phi_{\\mathrm{~}}}\\end{array}",
+      "source_page_number": 13,
+      "source_image_index": 0,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(I)",
+        "part_text": "2x² - 3x + 5 = 0",
+        "part_latex": null,
+        "answer_text": "No real roots exist for the equation 2x² - 3x + 5 = 0.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify coefficients a, b, c from the equation.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the discriminant: b² - 4ac.",
+            "expression": "(-3)² - 4(2)(5) = 9 - 40 = -31"
+          },
+          {
+            "step_number": 3,
+            "description": "Determine the nature of the roots based on the discriminant.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Therefore, no real roots are possible for the given equation.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(II)",
+        "part_text": "2x² - 6x + 3 = 0",
+        "part_latex": null,
+        "answer_text": "The roots are real and distinct for the equation 2x² - 6x + 3 = 0.",
+        "answer_latex": null,
+        "steps": [
+          {
+            "step_number": 1,
+            "description": "Identify coefficients a, b, c from the equation.",
+            "expression": null
+          },
+          {
+            "step_number": 2,
+            "description": "Calculate the discriminant: b² - 4ac.",
+            "expression": "(-6)² - 4(2)(3) = 36 - 24 = 12"
+          },
+          {
+            "step_number": 3,
+            "description": "Determine the nature of the roots based on the discriminant.",
+            "expression": null
+          }
+        ],
+        "final_answer": "Therefore, distinct real roots exist for this equation.",
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of quadratic equations and calculation of discriminants.",
+    "topics_tags": [
+      "Quadratic Equations",
+      "Roots",
+      "Discriminant"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "Some text garbling in the input."
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of quadratic equations and their nature of roots.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659478/ncert/maths/4/img_13_0.png",
+        "latex_extracted": "\\begin{array}{r l}{(\\mathrm{i}\\mathbb{H})}&{{}+x^{2}+{\\sqrt{\\mathrm{A}}}+\\lambda\\cdots}\\\\ {\\mathrm{~Onemathenisemionion}}\\\\ {\\phi_{\\mathrm{~ousenichenisenulan}}}\\\\ {\\phi_{\\mathrm{~ou=usitisenicenisedion}}}\\\\ {\\phi_{\\mathrm{~=}x={\\frac{\\sqrt{3}}{2}}\\phi_{\\mathrm{~or}}}\\\\ {\\phi_{\\mathrm{~or=}}={\\frac{\\sqrt{3}}{2}}\\phi_{\\mathrm{~or}}\\phi_{\\mathrm{~olenitise}}}}\\\\ {\\phi_{\\mathrm{~=}x={\\frac{\\sqrt{3}}{2}}\\phi_{\\mathrm{~or}}\\frac{\\sqrt{3}}{2}}}\\\\ {\\vdots\\cdot x={\\frac{\\sqrt{3}}{2}}\\phi_{\\mathrm{~}}}\\end{array}",
+        "source_page_number": 13,
+        "source_image_index": 0,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.8",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "quadratic equations",
+    "question_type": "numerical",
+    "question_text": "The sum of the reciprocals of Rehman's ages, (in years) 3 years ago and 5 years from now is . Find his present age.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical expressions related to Rehman's age problem.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659512/ncert/maths/4/img_16_0.png",
+      "latex_extracted": "\\begin{array}{r l}{(i)}&{{}{\\frac{1}{x+x-x-x}}{\\frac{1}{x-y-z}}{\\frac{10}{y}}}\\\\ {\\,}&{{}={\\frac{x-x-x-x-y}{(x+z)}}=10}\\\\ {\\qquad{\\frac{-i-2-x-y-30}{(x+x)}}=30}\\\\ {\\qquad{\\frac{-i}{(x+x)(x-y)-30}}}\\\\ {\\qquad{\\frac{-i}{x-z+z=0}}}\\\\ {\\qquad{\\frac{-i}{x+z+z=0}}=30}\\\\ {\\qquad{\\frac{-i(x-z)-36}{x-z)}}}\\\\ {=x-16x-16x-30}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Therefore, Rehman's present age is 7 years.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set up the equation based on the sum of the reciprocals of ages.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Solve the equation to find Rehman's present age.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, Rehman's present age is 7 years.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires setting up and solving a simple equation.",
+    "topics_tags": [
+      "Reciprocal Ages",
+      "Algebra",
+      "Age Problems"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical expressions related to Rehman's age problem.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659512/ncert/maths/4/img_16_0.png",
+        "latex_extracted": "\\begin{array}{r l}{(i)}&{{}{\\frac{1}{x+x-x-x}}{\\frac{1}{x-y-z}}{\\frac{10}{y}}}\\\\ {\\,}&{{}={\\frac{x-x-x-x-y}{(x+z)}}=10}\\\\ {\\qquad{\\frac{-i-2-x-y-30}{(x+x)}}=30}\\\\ {\\qquad{\\frac{-i}{(x+x)(x-y)-30}}}\\\\ {\\qquad{\\frac{-i}{x-z+z=0}}}\\\\ {\\qquad{\\frac{-i}{x+z+z=0}}=30}\\\\ {\\qquad{\\frac{-i(x-z)-36}{x-z)}}}\\\\ {=x-16x-16x-30}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.9",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "quadratic equations",
+    "question_type": "numerical",
+    "question_text": "In a class test, the sum of Shefali's marks in Mathematics and English is 30. Had she got 2 marks more in Mathematics and 3 marks less in English, the product of their marks would have been 210. Find her marks in the two subjects.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "If the marks in Maths are 12, then marks in English will be 30 - 12 = 18.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Let the marks in Maths be x and set up the equation for English marks.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Set up the product equation based on the modified marks.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Solve the quadratic equation to find the marks.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, Shefali's marks in Mathematics are 12 and in English are 18.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical expressions related to Shefali's marks problem.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659515/ncert/maths/4/img_17_0.png",
+      "latex_extracted": "\\begin{array}{l}{{\\vdots{\\frac{1}{x+5}}+{\\frac{1}{x+5}}{\\frac{1}{x+5}}{\\frac{1}{x-45}}{\\frac{1}{x-5}}{\\frac{1}{5}}}}\\\\ {{\\frac{3(x+5)x-21-5}{6x+5}}}\\\\ {{\\frac{3(x+2)x-42-215}{x-5}}}\\\\ {{\\frac{(x-7)x-5}{x-22-15}{\\sqrt{-15}}}}\\\\ {{\\frac{5(x-7)x-6}{x-27}}}\\\\ {{\\frac{(x-7)(x-7)x}{x=6}}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves setting up and solving a quadratic equation.",
+    "topics_tags": [
+      "Quadratic Equations",
+      "Algebra",
+      "Marks Problem"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical expressions related to Shefali's marks problem.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659515/ncert/maths/4/img_17_0.png",
+        "latex_extracted": "\\begin{array}{l}{{\\vdots{\\frac{1}{x+5}}+{\\frac{1}{x+5}}{\\frac{1}{x+5}}{\\frac{1}{x-45}}{\\frac{1}{x-5}}{\\frac{1}{5}}}}\\\\ {{\\frac{3(x+5)x-21-5}{6x+5}}}\\\\ {{\\frac{3(x+2)x-42-215}{x-5}}}\\\\ {{\\frac{(x-7)x-5}{x-22-15}{\\sqrt{-15}}}}\\\\ {{\\frac{5(x-7)x-6}{x-27}}}\\\\ {{\\frac{(x-7)(x-7)x}{x=6}}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.10",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "quadratic equations",
+    "question_type": "numerical",
+    "question_text": "The diagonal of a rectangular field is 60 metres more than the shorter side. If the longer side is 30 metres more than the shorter side, find the sides of the field.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, the length of the shorter side will be 90 m and the larger side will be 120 m.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set up the equations based on the relationships between the sides.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Solve the equations to find the lengths of the sides.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Hence, the sides of the field are 90 m and 120 m.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves setting up and solving equations based on geometric relationships.",
+    "topics_tags": [
+      "Rectangles",
+      "Geometry",
+      "Algebra"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.11",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "quadratic equations",
+    "question_type": "numerical",
+    "question_text": "A train travels 360 km at a uniform speed. If the speed had been 5 km/h more, it would have taken 1 hour less for the same journey. Find the speed of the train.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, the speed of the train is 40 km/h.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Let the speed of the train be x km/h.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Set up the equation based on the time taken for the journey.",
+        "expression": "\\frac{360}{x} - \\frac{360}{x + 5} = 1"
+      },
+      {
+        "step_number": 3,
+        "description": "Solve the equation to find the value of x.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the speed of the train is 40 km/h.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical equations related to the problem of train speed.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659535/ncert/maths/4/img_19_1.png",
+      "latex_extracted": "\\begin{array}{l}{{x=18}}\\\\ {{\\vdots\\cdot y^{2}=8x=8\\times18=144}}\\\\ {{\\Rightarrow y=\\pm{\\sqrt{144}}=\\pm12}}\\\\ {{\\vdots}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves setting up and solving a quadratic equation.",
+    "topics_tags": [
+      "Speed",
+      "Distance",
+      "Time"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical equations related to the problem of train speed.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659535/ncert/maths/4/img_19_1.png",
+        "latex_extracted": "\\begin{array}{l}{{x=18}}\\\\ {{\\vdots\\cdot y^{2}=8x=8\\times18=144}}\\\\ {{\\Rightarrow y=\\pm{\\sqrt{144}}=\\pm12}}\\\\ {{\\vdots}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.12",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "quadratic equations",
+    "question_type": "numerical",
+    "question_text": "Sum of the areas of two squares is 468 m². If the difference of their perimeters is 24 m, find the sides of the two squares.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Hence, the sides of the squares are 12 m and (12 + 6) m = 18 m.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set up equations based on the given conditions.",
+        "expression": "4x - 4y = 24, x^2 + y^2 = 468"
+      },
+      {
+        "step_number": 2,
+        "description": "Solve the equations to find the values of x and y.",
+        "expression": "x - y = 6, x = y + 6"
+      }
+    ],
+    "final_answer": "Therefore, the sides of the squares are 12 m and 18 m.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of the problem involving squares and their areas.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659544/ncert/maths/4/img_22_0.png",
+      "latex_extracted": "\\scriptstyle{\\frac{\\epsilon^{1}x^{2}}{\\epsilon^{2}}}{\\frac{\\Gamma^{12}}{x+1}}{\\frac{\\Gamma^{2}}{x+1}}{\\epsilon_{1}x_{1}+1}}=1",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves setting up and solving a system of equations.",
+    "topics_tags": [
+      "Quadratic Equations",
+      "Geometry",
+      "Algebra"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the problem involving squares and their areas.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659544/ncert/maths/4/img_22_0.png",
+        "latex_extracted": "\\scriptstyle{\\frac{\\epsilon^{1}x^{2}}{\\epsilon^{2}}}{\\frac{\\Gamma^{12}}{x+1}}{\\frac{\\Gamma^{2}}{x+1}}{\\epsilon_{1}x_{1}+1}}=1",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.13",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "quadratic equations",
+    "question_type": "numerical",
+    "question_text": "Find the values of k for each of the following quadratic equations, so that they have two equal roots: (I) 2x² + kx + 3 = 0; (II) kx (x - 2) + 6 = 0.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Therefore, k should be 6 only for the equation to have two equal roots.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Calculate the discriminant for both equations.",
+        "expression": "b^2 - 4ac = 0"
+      },
+      {
+        "step_number": 2,
+        "description": "Solve for k in both cases.",
+        "expression": "k^2 - 24 = 0, 4k(k - 6) = 0"
+      }
+    ],
+    "final_answer": "Thus, the values of k are 0 and 6, but only k = 6 is valid.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical representation of the quadratic equations and their discriminants.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659547/ncert/maths/4/img_23_0.png",
+      "latex_extracted": "\\begin{array}{l}{\\operatorname{Abso,}x^{2}+y^{2}=468}\\\\ {\\Rightarrow(6+y)^{2}+y^{2}=468}\\\\ {\\Rightarrow y^{2}+12y-42=0}\\\\ {\\Rightarrow(y+18)-12(y+12)=0}\\\\ {\\Rightarrow(y+12)=0}\\\\ {\\Rightarrow(y+18)(y-12)=0}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of discriminants and solving quadratic equations.",
+    "topics_tags": [
+      "Quadratic Equations",
+      "Discriminant",
+      "Roots"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the quadratic equations and their discriminants.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659547/ncert/maths/4/img_23_0.png",
+        "latex_extracted": "\\begin{array}{l}{\\operatorname{Abso,}x^{2}+y^{2}=468}\\\\ {\\Rightarrow(6+y)^{2}+y^{2}=468}\\\\ {\\Rightarrow y^{2}+12y-42=0}\\\\ {\\Rightarrow(y+18)-12(y+12)=0}\\\\ {\\Rightarrow(y+12)=0}\\\\ {\\Rightarrow(y+18)(y-12)=0}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q4.14",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "quadratic equations",
+    "question_type": "conceptual",
+    "question_text": "Is it possible to design a rectangular mango grove whose length is twice its breadth, and the area is 800 m²? If so, find its length and breadth.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Mathematical representation of the area of the rectangular mango grove.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659548/ncert/maths/4/img_24_0.png",
+      "latex_extracted": "\\begin{array}{l c r}{{2J^{2}=800}}\\\\ {{J^{2}={\\frac{800}{2}}=400}}\\\\ {{2}}&{{(10=0)}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Therefore, the breadth of the mango grove is 20 m and the length is 40 m.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set up the equation for area based on length and breadth.",
+        "expression": "Area = length × breadth = 2l × l = 2l^2"
+      },
+      {
+        "step_number": 2,
+        "description": "Solve for l using the area given.",
+        "expression": "2l^2 = 800"
+      }
+    ],
+    "final_answer": "Thus, the dimensions of the mango grove can be designed as 20 m by 40 m.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic algebra and understanding of area.",
+    "topics_tags": [
+      "Area",
+      "Rectangles",
+      "Quadratic Equations"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Mathematical representation of the area of the rectangular mango grove.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659548/ncert/maths/4/img_24_0.png",
+        "latex_extracted": "\\begin{array}{l c r}{{2J^{2}=800}}\\\\ {{J^{2}={\\frac{800}{2}}=400}}\\\\ {{2}}&{{(10=0)}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q4.15",
+    "class": 10,
+    "subject": "maths",
+    "chapter_number": 4,
+    "chapter_name": "quadratic equations",
+    "question_type": "numerical",
+    "question_text": "Is it possible to design a rectangular park of perimeter 80 and area 400 m²? If so find its length and breadth.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Yes, it is possible to design the park. The length of the park is 20 m and the breadth is also 20 m.",
+    "answer_latex": "l = 20 \\text{ m}, \\ b = 20 \\text{ m}",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set up the equations for perimeter and area.",
+        "expression": "2(l + b) = 80, \\ l \\times b = 400"
+      },
+      {
+        "step_number": 2,
+        "description": "Express breadth in terms of length.",
+        "expression": "b = 40 - l"
+      },
+      {
+        "step_number": 3,
+        "description": "Substitute breadth into the area equation.",
+        "expression": "l(40 - l) = 400"
+      },
+      {
+        "step_number": 4,
+        "description": "Rearrange to form a quadratic equation.",
+        "expression": "l^2 - 40l + 400 = 0"
+      },
+      {
+        "step_number": 5,
+        "description": "Calculate the discriminant to check for real roots.",
+        "expression": "b^2 - 4ac = (-40)^2 - 4(1)(400) = 0"
+      },
+      {
+        "step_number": 6,
+        "description": "Since the discriminant is zero, find the length.",
+        "expression": "l = -\\frac{b}{2a} = 20"
+      }
+    ],
+    "final_answer": "Therefore, the length and breadth of the park are both 20 m.",
+    "answer_image": {
+      "present": true,
+      "description": "Mathematical derivation showing the calculation of length using the quadratic formula.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659550/ncert/maths/4/img_26_0.png",
+      "latex_extracted": "\\begin{array}{c}{{l=-\\frac{b}{2a}}}\\\\ {{l=-\\frac{(-40)}{2(1)}=\\frac{40}{2}=20}}\\end{array}",
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves setting up equations and solving a quadratic equation.",
+    "topics_tags": [
+      "Quadratic Equations",
+      "Area",
+      "Perimeter"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Mathematical derivation showing the calculation of length using the quadratic formula.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777659550/ncert/maths/4/img_26_0.png",
+        "latex_extracted": "\\begin{array}{c}{{l=-\\frac{b}{2a}}}\\\\ {{l=-\\frac{(-40)}{2(1)}=\\frac{40}{2}=20}}\\end{array}",
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  }
+]

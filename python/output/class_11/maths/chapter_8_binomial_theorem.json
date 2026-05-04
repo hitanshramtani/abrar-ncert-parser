@@ -1,0 +1,1406 @@
+[
+  {
+    "question_id": "Q8.1",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "binomial theorem",
+    "question_type": "numerical",
+    "question_text": "Find an approximation of (0.99)^5 using the first three terms of its expansion.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to the approximation of (0.99)^5 using binomial expansion.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777824843/ncert/maths/8/img_20_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Thus, the value of (0.99)^5 is approximately 0.951.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Rewrite 0.99 as 1 - 0.01.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the binomial expansion to approximate (0.99)^5.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, the approximation of (0.99)^5 is 0.951.",
+    "answer_image": {
+      "present": true,
+      "description": "Answer showing the approximation result.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777824844/ncert/maths/8/img_20_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of binomial expansion and basic approximation.",
+    "topics_tags": [
+      "Binomial Theorem",
+      "Approximation",
+      "Expansion"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the approximation of (0.99)^5 using binomial expansion.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777824843/ncert/maths/8/img_20_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Answer showing the approximation result.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777824844/ncert/maths/8/img_20_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q8.2",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "binomial theorem",
+    "question_type": "conceptual",
+    "question_text": "Find n, if the ratio of the fifth term from the beginning to the fifth term from the end in the expansion is given.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Thus, the value of n is 10.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the fifth term from the beginning and the end in the binomial expansion.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Set up the ratio of the fifth terms and solve for n.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Therefore, n is found to be 10.",
+    "answer_image": {
+      "present": true,
+      "description": "Diagram related to the fifth term from the beginning and end in binomial expansion.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777824846/ncert/maths/8/img_21_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of binomial expansion and solving a ratio.",
+    "topics_tags": [
+      "Binomial Theorem",
+      "Term Ratio",
+      "Expansion"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the fifth term from the beginning and end in binomial expansion.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777824846/ncert/maths/8/img_21_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      },
+      {
+        "present": true,
+        "description": "Answer showing the value of n.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777824848/ncert/maths/8/img_21_4.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q8.3",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "binomial theorem",
+    "question_type": "derivation",
+    "question_text": "Using Binomial Theorem, evaluate (96)3",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "96 can be expressed as the sum or difference of two numbers whose powers are easier to calculate and then, binomial theorem can be applied. It can be written that, 96 = 100 - 4.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Diagram showing the evaluation of (96)^3 using Binomial Theorem.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777824811/ncert/maths/8/img_3_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of Binomial Theorem and application to evaluate the expression.",
+    "topics_tags": [
+      "Binomial Theorem",
+      "Evaluation",
+      "Algebra"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Diagram showing the evaluation of (96)^3 using Binomial Theorem.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777824811/ncert/maths/8/img_3_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q8.4",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "binomial theorem",
+    "question_type": "derivation",
+    "question_text": "Using Binomial Theorem, evaluate (102)5",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "102 can be expressed as the sum or difference of two numbers whose powers are easier to calculate and then, Binomial Theorem can be applied. It can be written that, 102 = 100 + 2.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of Binomial Theorem and application to evaluate the expression.",
+    "topics_tags": [
+      "Binomial Theorem",
+      "Evaluation",
+      "Algebra"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.5",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "binomial theorem",
+    "question_type": "numerical",
+    "question_text": "Using Binomial Theorem, evaluate (101)^4.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image related to the evaluation of (101)^4 using Binomial Theorem.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777824813/ncert/maths/8/img_4_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "101 can be expressed as the sum of two numbers whose powers are easier to calculate and then, Binomial Theorem can be applied.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of Binomial Theorem and basic application.",
+    "topics_tags": [
+      "Binomial Theorem",
+      "Expansion",
+      "Algebra"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image related to the evaluation of (101)^4 using Binomial Theorem.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777824813/ncert/maths/8/img_4_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q9.6",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "binomial theorem",
+    "question_type": "numerical",
+    "question_text": "Using Binomial Theorem, evaluate (99)^5.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image related to the evaluation of (99)^5 using Binomial Theorem.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777824814/ncert/maths/8/img_4_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "99 can be written as the difference of two numbers whose powers are easier to calculate and then, Binomial Theorem can be applied.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of Binomial Theorem and basic application.",
+    "topics_tags": [
+      "Binomial Theorem",
+      "Expansion",
+      "Algebra"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image related to the evaluation of (99)^5 using Binomial Theorem.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777824814/ncert/maths/8/img_4_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q10.7",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "binomial theorem",
+    "question_type": "mcq",
+    "question_text": "Using Binomial Theorem, indicate which number is larger (1.1)^{10000} or 1000.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image related to comparing (1.1)^{10000} and 1000 using Binomial Theorem.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777824815/ncert/maths/8/img_5_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "By splitting 1.1 and then applying Binomial Theorem, the first few terms of (1.1)^{10000} can be obtained.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of Binomial Theorem and comparison of large powers.",
+    "topics_tags": [
+      "Binomial Theorem",
+      "Comparison",
+      "Exponents"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image related to comparing (1.1)^{10000} and 1000 using Binomial Theorem.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777824815/ncert/maths/8/img_5_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q11.8",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "binomial theorem",
+    "question_type": "mcq",
+    "question_text": "Find (a + b)^{4} - (a - b)^{4}. Hence, evaluate.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Find (a + b)^{4} - (a - b)^{4}.",
+        "part_latex": null,
+        "answer_text": "Using Binomial Theorem, the expressions, (a + b)^{4} and (a - b)^{4}, can be expanded.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Hence, evaluate.",
+        "part_latex": null,
+        "answer_text": null,
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Image related to the evaluation of (a + b)^{4} - (a - b)^{4} using Binomial Theorem.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777824816/ncert/maths/8/img_5_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires expansion of binomial expressions and understanding of their differences.",
+    "topics_tags": [
+      "Binomial Theorem",
+      "Algebra",
+      "Expansion"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image related to the evaluation of (a + b)^{4} - (a - b)^{4} using Binomial Theorem.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777824816/ncert/maths/8/img_5_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q12.9",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "binomial theorem",
+    "question_type": "mcq",
+    "question_text": "Find (x + 1)^{6} + (x - 1)^{6}. Hence or otherwise evaluate.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image related to the evaluation of (x + 1)^{6} + (x - 1)^{6} using Binomial Theorem.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777824817/ncert/maths/8/img_6_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [
+      {
+        "part_label": "(a)",
+        "part_text": "Find (x + 1)^{6} + (x - 1)^{6}.",
+        "part_latex": null,
+        "answer_text": "Using Binomial Theorem, the expressions, (x + 1)^{6} and (x - 1)^{6}, can be expanded.",
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      },
+      {
+        "part_label": "(b)",
+        "part_text": "Hence or otherwise evaluate.",
+        "part_latex": null,
+        "answer_text": null,
+        "answer_latex": null,
+        "steps": [],
+        "final_answer": null,
+        "answer_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        },
+        "question_images": [],
+        "answer_images": [],
+        "question_image": {
+          "present": false,
+          "description": null,
+          "cloudinary_url": null,
+          "latex_extracted": null,
+          "source_page_number": null,
+          "source_image_index": null,
+          "ownership": "unknown"
+        }
+      }
+    ],
+    "answer_text": null,
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires expansion of binomial expressions and understanding of their sums.",
+    "topics_tags": [
+      "Binomial Theorem",
+      "Algebra",
+      "Expansion"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image related to the evaluation of (x + 1)^{6} + (x - 1)^{6} using Binomial Theorem.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777824817/ncert/maths/8/img_6_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.10",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "binomial theorem",
+    "question_type": "conceptual",
+    "question_text": "Show that is divisible by 64, whenever n is a positive integer.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to the binomial theorem showing terms and coefficients.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777824821/ncert/maths/8/img_7_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Thus, is divisible by 64, whenever n is a positive integer.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, is divisible by 64, whenever n is a positive integer.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of the binomial theorem and divisibility.",
+    "topics_tags": [
+      "Binomial Theorem",
+      "Divisibility",
+      "Mathematical Proof"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the binomial theorem showing terms and coefficients.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777824821/ncert/maths/8/img_7_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.11",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "binomial theorem",
+    "question_type": "conceptual",
+    "question_text": "Prove that .",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagram related to the binomial theorem showing terms and coefficients.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777824821/ncert/maths/8/img_7_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Hence, proved.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Hence, proved.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Involves basic application of the binomial theorem.",
+    "topics_tags": [
+      "Binomial Theorem",
+      "Proof",
+      "Mathematical Induction"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagram related to the binomial theorem showing terms and coefficients.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777824821/ncert/maths/8/img_7_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.12",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "binomial theorem",
+    "question_type": "mcq",
+    "question_text": "Find the coefficient of x^5 in (x + 3)^8.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "Thus, the coefficient of x^5 is 672.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the term in the binomial expansion that contains x^5.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Use the binomial coefficient to find the coefficient.",
+        "expression": "C(8, 5) * 3^3"
+      }
+    ],
+    "final_answer": "Thus, the coefficient of x^5 is 672.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires application of the binomial theorem and basic calculations.",
+    "topics_tags": [
+      "Binomial Expansion",
+      "Coefficients",
+      "Algebra"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.13",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "binomial theorem",
+    "question_type": "conceptual",
+    "question_text": "Find the middle terms in the expansions of (a + b)^n when n is even.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "It is known that in the expansion (a + b)^n, if n is even, then the middle term is term. Therefore, the middle term in the expansion of is term. Thus, the middle term in the expansion of is 61236 x^5y^5.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, the middle term in the expansion of is 61236 x^5y^5.",
+    "answer_image": {
+      "present": true,
+      "description": "Image related to the question about finding middle terms in binomial expansion.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777824828/ncert/maths/8/img_11_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of binomial expansion and identifying middle terms.",
+    "topics_tags": [
+      "Binomial Theorem",
+      "Middle Terms",
+      "Expansion"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image related to the question about finding middle terms in binomial expansion.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777824828/ncert/maths/8/img_11_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q9.14",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "binomial theorem",
+    "question_type": "conceptual",
+    "question_text": "In the expansion of (1 + a)^{m+n}, prove that coefficients of a^m and a^n are equal.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "It is known that (r + 1)th term, (T), in the binomial expansion of (a + b)^n is given by . Assuming that a^m occurs in the (r + 1)th term of the expansion (1 + a)^{m+n}, we obtain. Comparing the indices of a in a^m and in T, we obtain r + 1 = m. Therefore, the coefficient of a^m is. Assuming that a^n occurs in the (k + 1)th term of the expansion (1 + a)^{m+n}, we obtain.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "Thus, from (1) and (2), it can be observed that the coefficients of a^m and a^n in the expansion of (1 + a)^{m+n} are equal.",
+    "answer_image": {
+      "present": true,
+      "description": "Image related to the question about proving coefficients in binomial expansion.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777824828/ncert/maths/8/img_11_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves understanding of binomial expansion and comparison of coefficients.",
+    "topics_tags": [
+      "Binomial Theorem",
+      "Coefficients",
+      "Expansion"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image related to the question about proving coefficients in binomial expansion.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777824828/ncert/maths/8/img_11_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q10.15",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "binomial theorem",
+    "question_type": "mcq",
+    "question_text": "The coefficients of the (r-1)th, rth and (r + 1)th terms in the expansion of (x + 1)^n are in the ratio 1:3:5. Find n and r.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "parts": [],
+    "answer_text": "It is known that (k + 1)th term, (T), in the binomial expansion of (a + b)^n is given by . Therefore, (r - 1)th term in the expansion of (x + 1)^n is. rth term in the expansion of (x + 1)^n is. (r + 1)th term in the expansion of (x + 1)^n is. Therefore, the coefficients of the (r - 1)th, rth, and (r + 1)th terms in the expansion of (x + 1)^n are respectively. Since these coefficients are in the ratio 1:3:5, we obtain.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": null,
+    "answer_image": {
+      "present": true,
+      "description": "Image related to the question about finding n and r in binomial expansion.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777824829/ncert/maths/8/img_12_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Involves complex reasoning and understanding of ratios in binomial expansion.",
+    "topics_tags": [
+      "Binomial Theorem",
+      "Ratios",
+      "Expansion"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image related to the question about finding n and r in binomial expansion.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777824829/ncert/maths/8/img_12_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  },
+  {
+    "question_id": "Q8.16",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "binomial theorem",
+    "question_type": "conceptual",
+    "question_text": "Prove that the coefficient of x^n in the expansion of (1 + x)^{2n} is twice the coefficient of x^n in the expansion of (1 + x)^{2n-1}.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagrams related to the binomial expansion proofs.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777824830/ncert/maths/8/img_13_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "From the expansions, it is observed that the coefficient of x^n in (1 + x)^{2n} is twice that in (1 + x)^{2n-1}. Hence, proved.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the (r + 1)th term in the binomial expansion for both expressions.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Set up the equations for the coefficients of x^n in both expansions.",
+        "expression": null
+      },
+      {
+        "step_number": 3,
+        "description": "Compare the coefficients and conclude the relationship.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the coefficient of x^n in the expansion of (1 + x)^{2n} is twice that in (1 + x)^{2n-1}.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of binomial expansion and comparison of coefficients.",
+    "topics_tags": [
+      "Binomial Theorem",
+      "Coefficient",
+      "Expansion"
+    ],
+    "confidence_score": 0.95,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagrams related to the binomial expansion proofs.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777824830/ncert/maths/8/img_13_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.17",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "binomial theorem",
+    "question_type": "numerical",
+    "question_text": "Find a, b, and n in the expansion of (a + b)^n if the first three terms of the expansion are 729, 7290, and 30375, respectively.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Diagrams related to the binomial expansion problem.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777824834/ncert/maths/8/img_15_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "The values of a, b, and n can be determined by setting up equations based on the given terms.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Set up the equations based on the ratios of the first three terms.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Solve the equations to find the values of a, b, and n.",
+        "expression": null
+      }
+    ],
+    "final_answer": "The values of a, b, and n are determined from the equations derived from the terms.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Involves multi-step reasoning and solving equations.",
+    "topics_tags": [
+      "Binomial Expansion",
+      "Coefficients",
+      "Algebra"
+    ],
+    "confidence_score": 0.92,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Diagrams related to the binomial expansion problem.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777824834/ncert/maths/8/img_15_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.18",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "binomial theorem",
+    "question_type": "conceptual",
+    "question_text": "Find a if the coefficients of x^2 and x^3 in the expansion of (3 + ax)^9 are equal.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image related to the binomial expansion of (3 + ax)^9.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777824836/ncert/maths/8/img_16_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Thus, the required value of a is determined by equating the coefficients of x^2 and x^3.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Identify the terms for x^2 and x^3 in the binomial expansion.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Set the coefficients of x^2 and x^3 equal to each other.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the required value of a is found.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Requires understanding of binomial expansion and coefficient comparison.",
+    "topics_tags": [
+      "Binomial Theorem",
+      "Coefficients",
+      "Algebra"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image related to the binomial expansion of (3 + ax)^9.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777824836/ncert/maths/8/img_16_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.19",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "binomial theorem",
+    "question_type": "numerical",
+    "question_text": "Find the coefficient of x^5 in the product (1 + 2x)^6(1 - x)^7 using binomial theorem.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image related to the binomial expansion of (1 + 2x)^6 and (1 - x)^7.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777824838/ncert/maths/8/img_17_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Thus, the coefficient of x^5 in the given product is 171.",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Expand (1 + 2x)^6 and (1 - x)^7 using the binomial theorem.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Identify the terms that contribute to x^5 in the product.",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, the coefficient of x^5 in the given product is 171.",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 3,
+    "difficulty_reasoning": "Involves application of binomial theorem and coefficient extraction.",
+    "topics_tags": [
+      "Binomial Theorem",
+      "Coefficients",
+      "Algebra"
+    ],
+    "confidence_score": 0.9,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image related to the binomial expansion of (1 + 2x)^6 and (1 - x)^7.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777824838/ncert/maths/8/img_17_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.20",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "binomial theorem",
+    "question_type": "derivation",
+    "question_text": "If a and b are distinct integers, prove that a - b is a factor of a^n - b^n, whenever n is a positive integer.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image related to the proof of a - b being a factor of a^n - b^n.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777824841/ncert/maths/8/img_18_2.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "It can be shown that (a - b) is a factor of (a^n - b^n) by rewriting a as (a - b + b).",
+    "answer_latex": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Rewrite a as (a - b + b) and expand.",
+        "expression": null
+      },
+      {
+        "step_number": 2,
+        "description": "Show that (a - b) divides (a^n - b^n).",
+        "expression": null
+      }
+    ],
+    "final_answer": "Thus, it is proved that (a - b) is a factor of (a^n - b^n).",
+    "answer_image": {
+      "present": false,
+      "description": null,
+      "cloudinary_url": null,
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "unknown"
+    },
+    "difficulty_rating": 4,
+    "difficulty_reasoning": "Requires understanding of algebraic identities and proof techniques.",
+    "topics_tags": [
+      "Algebra",
+      "Factors",
+      "Proof"
+    ],
+    "confidence_score": 0.88,
+    "confidence_issues": [],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image related to the proof of a - b being a factor of a^n - b^n.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777824841/ncert/maths/8/img_18_2.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": []
+  },
+  {
+    "question_id": "Q8.23",
+    "class": 11,
+    "subject": "maths",
+    "chapter_number": 8,
+    "chapter_name": "binomial theorem",
+    "question_type": "conceptual",
+    "question_text": "Find the expansion of using binomial theorem.",
+    "question_latex": null,
+    "mcq_options": [],
+    "correct_option": null,
+    "question_image": {
+      "present": true,
+      "description": "Image showing the question related to the expansion using binomial theorem.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777824850/ncert/maths/8/img_23_0.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "question"
+    },
+    "parts": [],
+    "answer_text": "Using Binomial Theorem, the given expression can be expanded as.",
+    "answer_latex": null,
+    "steps": [],
+    "final_answer": "The expansion can be derived using the Binomial Theorem.",
+    "answer_image": {
+      "present": true,
+      "description": "Image showing the answer related to the expansion using binomial theorem.",
+      "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777824851/ncert/maths/8/img_23_1.png",
+      "latex_extracted": null,
+      "source_page_number": null,
+      "source_image_index": null,
+      "ownership": "answer"
+    },
+    "difficulty_rating": 2,
+    "difficulty_reasoning": "Requires understanding of the Binomial Theorem and its application.",
+    "topics_tags": [
+      "Binomial Theorem",
+      "Expansion",
+      "Algebra"
+    ],
+    "confidence_score": 0.85,
+    "confidence_issues": [
+      "answer_missing"
+    ],
+    "question_images": [
+      {
+        "present": true,
+        "description": "Image showing the question related to the expansion using binomial theorem.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777824850/ncert/maths/8/img_23_0.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "question"
+      }
+    ],
+    "answer_images": [
+      {
+        "present": true,
+        "description": "Image showing the answer related to the expansion using binomial theorem.",
+        "cloudinary_url": "https://res.cloudinary.com/dyaopfkaz/image/upload/v1777824851/ncert/maths/8/img_23_1.png",
+        "latex_extracted": null,
+        "source_page_number": null,
+        "source_image_index": null,
+        "ownership": "answer"
+      }
+    ]
+  }
+]
